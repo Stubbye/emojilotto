@@ -9,16 +9,18 @@ const EMOJIS = ["🎯","🚀","💎","🌙","⚡","🔥","🎪","🦋","🌈","�
 const MAX_ATTEMPTS = 3;
 const ENTRY_FEE = "0.01 SOL";
 const ROUND_ID = Number(process.env.NEXT_PUBLIC_USDC_ROUND_ID || "1");
-const ROUND_END_KEY = "usdc_round_end";
+const ROUND_END_KEY = "sol_round_end";
 const ROUND_DURATION = 900000;
+const TOTAL_EMOJIS = 24;
+const PICK_COUNT = 6;
 
 const PRIZE_TABLE = [
-  { rank: "🥇 1st", pct: "50%" },
-  { rank: "🥈 2nd", pct: "18%" },
-  { rank: "🥉 3rd", pct: "10%" },
-  { rank: "4th", pct: "5%" },
-  { rank: "5th–10th", pct: "2% each" },
-  { rank: "11th–20th", pct: "0.7% each" },
+  { rank: "🥇 1st", pct: 50 },
+  { rank: "🥈 2nd", pct: 18 },
+  { rank: "🥉 3rd", pct: 10 },
+  { rank: "4th", pct: 5 },
+  { rank: "5th–10th", pct: 2 },
+  { rank: "11th–20th", pct: 0.7 },
 ];
 
 function getOrCreateEndTime(): number {
@@ -31,6 +33,22 @@ function getOrCreateEndTime(): number {
   const newEndTime = Date.now() + ROUND_DURATION;
   localStorage.setItem(ROUND_END_KEY, String(newEndTime));
   return newEndTime;
+}
+
+function calcWinProbability(matches: number, players: number): number {
+  // Probability based on matches out of 6
+  const baseProb = matches === 6 ? 100 : matches === 5 ? 40 : matches === 4 ? 15 : matches === 3 ? 5 : matches === 2 ? 1 : 0.1;
+  // Adjust for competition — more players = lower chance
+  const adjusted = players > 1 ? baseProb / Math.sqrt(players) : baseProb;
+  return Math.min(100, Math.max(0.01, adjusted));
+}
+
+function getPrizeRank(matches: number): number {
+  if (matches === 6) return 1;
+  if (matches === 5) return 2;
+  if (matches === 4) return 3;
+  if (matches === 3) return 4;
+  return 0;
 }
 
 export default function UsdcGame({ dark }: { dark: boolean }) {
@@ -76,10 +94,10 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
     if (!wallet.connected || selected.length !== 6) return;
     setLoading(true);
     await new Promise(r => setTimeout(r, 1500));
-    const matches = Math.floor(Math.random() * 4);
+    const matches = Math.floor(Math.random() * 7);
     setAttempts(prev => [...prev, { picks: [...selected], matches }]);
     setSelected([]);
-    setPrizePool(p => p + 1);
+    setPrizePool(p => p + 0.01);
     setPlayers(p => p + 1);
     setLoading(false);
   };
@@ -88,13 +106,15 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const isMaxed = attempts.length >= MAX_ATTEMPTS;
   const hints = getHintsForRound(ROUND_ID, "usdc");
   const bestMatch = attempts.length > 0 ? Math.max(...attempts.map(a => a.matches)) : 0;
+  const winProb = attempts.length > 0 ? calcWinProbability(bestMatch, players) : null;
+  const bestRank = getPrizeRank(bestMatch);
 
   return (
     <div className={styles.gameWrap}>
       <div className={styles.statsGrid}>
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Live Prize Pool</div>
-          <div className={styles.statVal} style={{ color: "#16a34a" }}>${prizePool.toFixed(2)}</div>
+          <div className={styles.statVal} style={{ color: "#16a34a" }}>{prizePool.toFixed(2)} SOL</div>
         </div>
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Players</div>
@@ -115,9 +135,9 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
       </div>
 
       <div className={styles.poolBreakdown}>
-        <span>🥇 1st wins <b>${(prizePool * 0.50).toFixed(2)}</b></span>
-        <span>🥈 2nd wins <b>${(prizePool * 0.18).toFixed(2)}</b></span>
-        <span>🥉 3rd wins <b>${(prizePool * 0.10).toFixed(2)}</b></span>
+        <span>🥇 1st wins <b>{(prizePool * 0.50).toFixed(3)} SOL</b></span>
+        <span>🥈 2nd wins <b>{(prizePool * 0.18).toFixed(3)} SOL</b></span>
+        <span>🥉 3rd wins <b>{(prizePool * 0.10).toFixed(3)} SOL</b></span>
       </div>
 
       <div className={styles.timerWrap}>
@@ -128,18 +148,48 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         <div>
           <div className={styles.infoLabel}>Hidden answer — locked at round start</div>
           <div className={styles.infoText}>
-            Round ends when someone guesses correctly OR after 24hrs · {ENTRY_FEE} per attempt · Max {MAX_ATTEMPTS} attempts
+            Round ends after 15 mins · {ENTRY_FEE} per attempt · Max {MAX_ATTEMPTS} attempts · Equal scores split the prize!
           </div>
         </div>
         <div className={styles.lockRow}>🔒🔒🔒🔒🔒🔒</div>
       </div>
 
       <div className={styles.lpBanner}>
-        💧 When pool exceeds $300 — 70% of excess goes to $EMLO liquidity pool · Prizes always paid from current pool
+        💧 Playing on Solana Devnet · Equal scorers split prizes equally
       </div>
 
       {hints && (
         <HintBox hints={hints} bestMatch={bestMatch} hasAttempted={attempts.length > 0} />
+      )}
+
+      {/* Win probability banner */}
+      {winProb !== null && (
+        <div style={{
+          margin: "0.75rem 0",
+          padding: "0.75rem 1rem",
+          borderRadius: 10,
+          background: bestMatch >= 4 ? "#16a34a22" : bestMatch >= 2 ? "#f59e0b22" : "#6b728022",
+          border: `1px solid ${bestMatch >= 4 ? "#16a34a" : bestMatch >= 2 ? "#f59e0b" : "#6b7280"}`,
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          flexWrap: "wrap" as const,
+          gap: 8
+        }}>
+          <div>
+            <div style={{ fontWeight: 700, fontSize: 14 }}>
+              🎯 Your best: {bestMatch}/6 matches
+              {bestRank > 0 && <span style={{ marginLeft: 8, color: "#f59e0b" }}>→ Rank #{bestRank} prize!</span>}
+            </div>
+            <div style={{ fontSize: 12, opacity: 0.8, marginTop: 2 }}>
+              Win probability: <b>{winProb.toFixed(2)}%</b>
+              {players > 1 && <span> · {players} players competing · Equal scores split prize equally</span>}
+            </div>
+          </div>
+          <div style={{ fontSize: 22 }}>
+            {bestMatch === 6 ? "🏆" : bestMatch >= 4 ? "🔥" : bestMatch >= 2 ? "💫" : "🎲"}
+          </div>
+        </div>
       )}
 
       {attempts.length > 0 && (
@@ -198,16 +248,16 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
 
       {isMaxed && (
         <div className={styles.maxedBanner}>
-          You've used all {MAX_ATTEMPTS} attempts for this round. Check back for the next round!
+          You've used all {MAX_ATTEMPTS} attempts! Best score: {bestMatch}/6 · Win probability: {winProb?.toFixed(2)}%
         </div>
       )}
 
-      <div className={styles.sectionTitle} style={{ marginTop: "1.5rem" }}>Prize distribution · 20 winners</div>
+      <div className={styles.sectionTitle} style={{ marginTop: "1.5rem" }}>Prize distribution · 20 winners · Equal scores split prizes</div>
       <div className={styles.prizeTable}>
         {PRIZE_TABLE.map((p) => (
           <div key={p.rank} className={styles.prizeRow}>
             <span className={styles.prizeRank}>{p.rank}</span>
-            <span className={styles.prizePct}>{p.pct}</span>
+            <span className={styles.prizePct}>{p.pct}% = {(prizePool * p.pct / 100).toFixed(3)} SOL</span>
           </div>
         ))}
       </div>
