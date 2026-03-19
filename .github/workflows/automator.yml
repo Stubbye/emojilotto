@@ -12,14 +12,5 @@ jobs:
         with:
           node-version: '18'
       - run: npm install -g ts-node typescript
-      - run: npm install @coral-xyz/anchor @solana/web3.js bs58
-      - name: Write keypair
-        run: echo '${{ secrets.AUTHORITY_KEYPAIR }}' > authority-keypair.json
-      - name: Write IDL
-        run: echo '${{ secrets.IDL_JSON }}' > idl.json
-      - name: Run automator
-        env:
-          PROGRAM_ID: ${{ secrets.PROGRAM_ID }}
-          NETWORK: ${{ secrets.NETWORK }}
-          RPC_ENDPOINT: ${{ secrets.RPC_ENDPOINT }}
-       run: npx ts-node scripts/automator.ts
+      - run: npm install @solana/web3.js
+      - run: npx ts-node scripts/automator.ts
