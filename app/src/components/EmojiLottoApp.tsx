@@ -32,7 +32,7 @@ export default function EmojiLottoApp() {
       {/* Top Nav */}
       <nav className={styles.nav}>
         <div className={styles.navLeft}>
-          <span className={styles.logo}>🎯 Emoji<b>Lotto</b></span>
+          <img src="/logo.webp" alt="EmojiLotto" style={{ height: 36, width: "auto" }} />
           <span className={styles.emloTag}>$EMLO</span>
         </div>
         <div className={styles.navRight}>
