@@ -45,7 +45,7 @@ export default function EmojiLottoApp() {
 
       {/* Game Banner */}
 <div style={{ width: "100%", lineHeight: 0 }}>
-  <img src="/banner.jpeg" alt="EmojiLotto Banner" style={{ width: "100%", height: "auto", maxHeight: 120, objectFit: "cover" }} />
+  <img src="/banner.jpeg" alt="EmojiLotto Banner" style={{ width: "100%", height: "auto", maxHeight: 60, objectFit: "cover" }} />
 </div>{/* Devnet Banner */}
       <div style={{ background: "#f59e0b", color: "#000", textAlign: "center", padding: "6px 12px", fontSize: 13, fontWeight: 600 }}>
         🧪 Playing on Solana Devnet · Get free SOL at <a href="https://faucet.solana.com" target="_blank" rel="noopener noreferrer" style={{ color: "#000", textDecoration: "underline" }}>faucet.solana.com</a>
