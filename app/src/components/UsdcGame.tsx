@@ -7,10 +7,10 @@ import { getHintsForRound } from "../utils/riddles";
 
 const EMOJIS = ["🎯","🚀","💎","🌙","⚡","🔥","🎪","🦋","🌈","💫","🎲","🃏","🦊","🐉","🌺","💜","🎸","🏆","🎭","🍀","🔮","⭐","🎨","🌊"];
 const MAX_ATTEMPTS = 3;
-const ENTRY_FEE = "$1.00 USDC";
+const ENTRY_FEE = "0.01 SOL";
 const ROUND_ID = Number(process.env.NEXT_PUBLIC_USDC_ROUND_ID || "1");
 const ROUND_END_KEY = "usdc_round_end";
-const ROUND_DURATION = 86400000;
+const ROUND_DURATION = 900000;
 
 const PRIZE_TABLE = [
   { rank: "🥇 1st", pct: "50%" },
@@ -39,7 +39,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [attempts, setAttempts] = useState<{picks: number[], matches: number}[]>([]);
   const [timeLeft, setTimeLeft] = useState("");
   const [pct, setPct] = useState(100);
-  const [prizePool, setPrizePool] = useState(0);
+  const [prizePool, setPrizePool] = useState(5);
   const [players, setPlayers] = useState(0);
   const [loading, setLoading] = useState(false);
   const [endTime, setEndTime] = useState<number>(0);
