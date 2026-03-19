@@ -8,11 +8,11 @@ import SwapWidget from "./SwapWidget";
 import GameHistory from "./GameHistory";
 import styles from "./Layout.module.css";
 
-type Tab = "usdc" | "emlo" | "swap" | "history";
+type Tab = "sol" | "emlo" | "swap" | "history";
 
 export default function EmojiLottoApp() {
   const wallet = useWallet();
-  const [tab, setTab] = useState<Tab>("usdc");
+  const [tab, setTab] = useState<Tab>("sol");
   const [dark, setDark] = useState(false);
 
   useEffect(() => {
@@ -43,10 +43,15 @@ export default function EmojiLottoApp() {
         </div>
       </nav>
 
+      {/* Devnet Banner */}
+      <div style={{ background: "#f59e0b", color: "#000", textAlign: "center", padding: "6px 12px", fontSize: 13, fontWeight: 600 }}>
+        🧪 Playing on Solana Devnet · Get free SOL at <a href="https://faucet.solana.com" target="_blank" rel="noopener noreferrer" style={{ color: "#000", textDecoration: "underline" }}>faucet.solana.com</a>
+      </div>
+
       {/* Tab Bar */}
       <div className={styles.tabBar}>
-        <button className={`${styles.tab} ${tab === "usdc" ? styles.tabActive : ""}`} onClick={() => setTab("usdc")}>
-          💵 USDC Game
+        <button className={`${styles.tab} ${tab === "sol" ? styles.tabActive : ""}`} onClick={() => setTab("sol")}>
+          ◎ SOL Game
         </button>
         <button className={`${styles.tab} ${tab === "emlo" ? styles.tabActive : ""}`} onClick={() => setTab("emlo")}>
           🪙 EMLO Game
@@ -61,15 +66,15 @@ export default function EmojiLottoApp() {
 
       {/* Content */}
       <main className={styles.main}>
-        {tab === "usdc" && <UsdcGame dark={dark} />}
+        {tab === "sol" && <UsdcGame dark={dark} />}
         {tab === "emlo" && <EmloGame dark={dark} />}
         {tab === "swap" && <SwapWidget dark={dark} />}
         {tab === "history" && <GameHistory dark={dark} />}
       </main>
 
       <footer className={styles.footer}>
-        EmojiLotto · Built on Solana · $EMLO token ·{" "}
-        <a href="https://explorer.solana.com" target="_blank" rel="noopener noreferrer">
+        EmojiLotto · Built on Solana Devnet · $EMLO token ·{" "}
+        <a href="https://explorer.solana.com?cluster=devnet" target="_blank" rel="noopener noreferrer">
           View on Explorer
         </a>
       </footer>
