@@ -8,17 +8,18 @@ import { getHintsForRound } from "../utils/riddles";
 const EMOJIS = ["🎯","🚀","💎","🌙","⚡","🔥","🎪","🦋","🌈","💫","🎲","🃏","🦊","🐉","🌺","💜","🎸","🏆","🎭","🍀","🔮","⭐","🎨","🌊"];
 const MAX_ATTEMPTS = 2;
 const BET_AMOUNT = "500 EMLO";
+const PRIZE_POOL_TOTAL = 50000;
 const PRIZE_POOL_DISPLAY = "50,000 EMLO";
 const ROUND_ID = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_ID || "1");
 const ROUND_END_KEY = "emlo_round_end";
 
 const PRIZE_TABLE = [
-  { rank: "🥇 1st", pct: "50%", tokens: "25,000 EMLO" },
-  { rank: "🥈 2nd", pct: "18%", tokens: "9,000 EMLO" },
-  { rank: "🥉 3rd", pct: "10%", tokens: "5,000 EMLO" },
-  { rank: "4th", pct: "5%", tokens: "2,500 EMLO" },
-  { rank: "5th–10th", pct: "2% each", tokens: "1,000 EMLO each" },
-  { rank: "11th–20th", pct: "0.7% each", tokens: "350 EMLO each" },
+  { rank: "🥇 1st", pct: 50, tokens: "25,000 EMLO" },
+  { rank: "🥈 2nd", pct: 18, tokens: "9,000 EMLO" },
+  { rank: "🥉 3rd", pct: 10, tokens: "5,000 EMLO" },
+  { rank: "4th", pct: 5, tokens: "2,500 EMLO" },
+  { rank: "5th–10th", pct: 2, tokens: "1,000 EMLO each" },
+  { rank: "11th–20th", pct: 0.7, tokens: "350 EMLO each" },
 ];
 
 function getOrCreateEndTime(duration: number): number {
@@ -31,6 +32,20 @@ function getOrCreateEndTime(duration: number): number {
   const newEndTime = Date.now() + duration;
   localStorage.setItem(ROUND_END_KEY, String(newEndTime));
   return newEndTime;
+}
+
+function calcWinProbability(matches: number, players: number): number {
+  const baseProb = matches === 6 ? 100 : matches === 5 ? 40 : matches === 4 ? 15 : matches === 3 ? 5 : matches === 2 ? 1 : 0.1;
+  const adjusted = players > 1 ? baseProb / Math.sqrt(players) : baseProb;
+  return Math.min(100, Math.max(0.01, adjusted));
+}
+
+function getPrizeRank(matches: number): number {
+  if (matches === 6) return 1;
+  if (matches === 5) return 2;
+  if (matches === 4) return 3;
+  if (matches === 3) return 4;
+  return 0;
 }
 
 export default function EmloGame({ dark }: { dark: boolean }) {
@@ -77,7 +92,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
     if (!wallet.connected || selected.length !== 6) return;
     setLoading(true);
     await new Promise(r => setTimeout(r, 1500));
-    const matches = Math.floor(Math.random() * 4);
+    const matches = Math.floor(Math.random() * 7);
     setAttempts(prev => [...prev, { picks: [...selected], matches }]);
     setSelected([]);
     setPlayers(p => p + 1);
@@ -87,6 +102,8 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   const isMaxed = attempts.length >= MAX_ATTEMPTS;
   const hints = getHintsForRound(ROUND_ID, "emlo");
   const bestMatch = attempts.length > 0 ? Math.max(...attempts.map(a => a.matches)) : 0;
+  const winProb = attempts.length > 0 ? calcWinProbability(bestMatch, players) : null;
+  const bestRank = getPrizeRank(bestMatch);
 
   return (
     <div className={styles.gameWrap}>
@@ -129,7 +146,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         <div>
           <div className={styles.infoLabel}>Hidden answer · Max {MAX_ATTEMPTS} attempts per player</div>
           <div className={styles.infoText}>
-            {BET_AMOUNT} per attempt · IP tracked to prevent multi-accounts · 1hr round
+            {BET_AMOUNT} per attempt · IP tracked · Equal scores split prize equally
           </div>
         </div>
         <div className={styles.lockRow}>🔒🔒🔒🔒🔒🔒</div>
@@ -137,6 +154,36 @@ export default function EmloGame({ dark }: { dark: boolean }) {
 
       {hints && (
         <HintBox hints={hints} bestMatch={bestMatch} hasAttempted={attempts.length > 0} />
+      )}
+
+      {/* Win probability banner */}
+      {winProb !== null && (
+        <div style={{
+          margin: "0.75rem 0",
+          padding: "0.75rem 1rem",
+          borderRadius: 10,
+          background: bestMatch >= 4 ? "#9945FF22" : bestMatch >= 2 ? "#f59e0b22" : "#6b728022",
+          border: `1px solid ${bestMatch >= 4 ? "#9945FF" : bestMatch >= 2 ? "#f59e0b" : "#6b7280"}`,
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          flexWrap: "wrap" as const,
+          gap: 8
+        }}>
+          <div>
+            <div style={{ fontWeight: 700, fontSize: 14 }}>
+              🎯 Your best: {bestMatch}/6 matches
+              {bestRank > 0 && <span style={{ marginLeft: 8, color: "#f59e0b" }}>→ Rank #{bestRank} prize!</span>}
+            </div>
+            <div style={{ fontSize: 12, opacity: 0.8, marginTop: 2 }}>
+              Win probability: <b>{winProb.toFixed(2)}%</b>
+              {players > 1 && <span> · {players} players · Equal scores split prize equally</span>}
+            </div>
+          </div>
+          <div style={{ fontSize: 22 }}>
+            {bestMatch === 6 ? "🏆" : bestMatch >= 4 ? "🔥" : bestMatch >= 2 ? "💫" : "🎲"}
+          </div>
+        </div>
       )}
 
       {attempts.length > 0 && (
@@ -195,16 +242,16 @@ export default function EmloGame({ dark }: { dark: boolean }) {
 
       {isMaxed && (
         <div className={styles.maxedBanner}>
-          You've used all {MAX_ATTEMPTS} attempts for this round. Next round starts in {timeLeft}
+          You've used all {MAX_ATTEMPTS} attempts! Best score: {bestMatch}/6 · Win probability: {winProb?.toFixed(2)}%
         </div>
       )}
 
-      <div className={styles.sectionTitle} style={{ marginTop: "1.5rem" }}>Prize distribution · 20 winners</div>
+      <div className={styles.sectionTitle} style={{ marginTop: "1.5rem" }}>Prize distribution · 20 winners · Equal scores split prizes</div>
       <div className={styles.prizeTable}>
         {PRIZE_TABLE.map((p) => (
           <div key={p.rank} className={styles.prizeRow}>
             <span className={styles.prizeRank}>{p.rank}</span>
-            <span className={styles.prizePct} style={{ color: "#9945FF" }}>{p.pct}</span>
+            <span className={styles.prizePct} style={{ color: "#9945FF" }}>{p.pct}%</span>
             <span className={styles.prizeTokens}>{p.tokens}</span>
           </div>
         ))}
