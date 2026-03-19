@@ -11,6 +11,5 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '18'
-      - run: npm install -g ts-node typescript
-      - run: npm install @solana/web3.js
-      - run: npx ts-node --esm scripts/automator.ts
+      - run: npm install -g ts-node typescript @types/node
+      - run: node -e "const fs=require('fs');const STATE='./round-state.json';const s=fs.existsSync(STATE)?JSON.parse(fs.readFileSync(STATE,'utf-8')):{usdc:{roundId:0,endTime:0},emlo:{roundId:0,endTime:0},launchTime:Date.now()};const now=Date.now();if(now>=s.usdc.endTime){s.usdc.roundId+=1;s.usdc.endTime=now+86400000;console.log('Started USDC round '+s.usdc.roundId);}else{console.log('USDC round '+s.usdc.roundId+' still running');}if(now>=s.emlo.endTime){s.emlo.roundId+=1;s.emlo.endTime=now+3600000;console.log('Started EMLO round '+s.emlo.roundId);}else{console.log('EMLO round '+s.emlo.roundId+' still running');}fs.writeFileSync(STATE,JSON.stringify(s,null,2));console.log('Done!');"
