@@ -35,6 +35,9 @@ export default function EmojiLottoApp() {
           <img src="/logo.webp" alt="EmojiLotto" style={{ height: 36, width: "auto" }} />
           <span className={styles.emloTag}>$EMLO</span>
         </div>
+        <div style={{ flex: 1, display: "flex", justifyContent: "center", padding: "0 12px" }}>
+          <img src="/banner.jpeg" alt="EmojiLotto Banner" style={{ height: 38, width: "auto", maxWidth: 280, objectFit: "contain", borderRadius: 6 }} />
+        </div>
         <div className={styles.navRight}>
           <button className={styles.themeBtn} onClick={toggleTheme}>
             {dark ? "☀️" : "🌙"}
@@ -43,10 +46,7 @@ export default function EmojiLottoApp() {
         </div>
       </nav>
 
-      {/* Game Banner */}
-<div style={{ width: "100%", lineHeight: 0 }}>
-  <img src="/banner.jpeg" alt="EmojiLotto Banner" style={{ width: "100%", height: "auto", maxHeight: 60, objectFit: "cover" }} />
-</div>{/* Devnet Banner */}
+      {/* Devnet Banner */}
       <div style={{ background: "#f59e0b", color: "#000", textAlign: "center", padding: "6px 12px", fontSize: 13, fontWeight: 600 }}>
         🧪 Playing on Solana Devnet · Get free SOL at <a href="https://faucet.solana.com" target="_blank" rel="noopener noreferrer" style={{ color: "#000", textDecoration: "underline" }}>faucet.solana.com</a>
       </div>
@@ -84,3 +84,5 @@ export default function EmojiLottoApp() {
     </div>
   );
 }
+```
+
