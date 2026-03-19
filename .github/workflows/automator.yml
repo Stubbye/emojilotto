@@ -13,4 +13,4 @@ jobs:
           node-version: '18'
       - run: npm install -g ts-node typescript
       - run: npm install @solana/web3.js
-      - run: npx ts-node scripts/automator.ts
+      - run: npx ts-node --esm scripts/automator.ts
