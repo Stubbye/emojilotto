@@ -1,4 +1,3 @@
- 
 name: EmojiLotto Round Automator
 
 on:
@@ -20,10 +19,3 @@ jobs:
           NETWORK: ${{ secrets.NETWORK }}
           RPC_ENDPOINT: ${{ secrets.RPC_ENDPOINT }}
         run: echo "Automator running"
-```
-
-Save it (Ctrl+S), close Notepad, then:
-```
-git add .
-git commit -m "Add GitHub Actions workflow"
-git push
