@@ -24,6 +24,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [selected, setSelected] = useState<number[]>([]);
   const [attempts, setAttempts] = useState<{picks: number[], matches: number}[]>([]);
   const [timeLeft, setTimeLeft] = useState("");
+const ROUND_END_KEY = "usdc_round_end";
   const [pct, setPct] = useState(100);
   const [prizePool, setPrizePool] = useState(0);
   const [players, setPlayers] = useState(0);
