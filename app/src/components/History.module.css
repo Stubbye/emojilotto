@@ -1,0 +1,109 @@
+/* History.module.css */
+.historyWrap { padding: 0; }
+
+.historyHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.historyTitle { font-size: 18px; font-weight: 600; }
+
+.filterRow { display: flex; gap: 6px; }
+
+.filterBtn {
+  padding: 6px 14px;
+  border-radius: 99px;
+  border: 0.5px solid #ddd;
+  background: transparent;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+  color: #666;
+  transition: all 0.12s;
+}
+
+.filterBtn:hover { border-color: #9945FF; color: #9945FF; }
+.filterActive { background: #9945FF14; border-color: #9945FF44; color: #9945FF; }
+
+.roundList { display: flex; flex-direction: column; gap: 8px; }
+
+.roundCard {
+  border: 0.5px solid #e8e5df;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.roundHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px;
+  cursor: pointer;
+  transition: background 0.12s;
+  gap: 12px;
+}
+
+.roundHeader:hover { background: #f8f7f4; }
+
+.roundLeft { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.roundRight { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+
+.gameTag {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 99px;
+}
+
+.usdcTag { background: #16a34a14; color: #16a34a; }
+.emloTag { background: #9945FF14; color: #9945FF; }
+
+.roundNum { font-size: 14px; font-weight: 600; }
+.roundDate { font-size: 12px; color: #888; }
+.roundPool { font-size: 13px; font-weight: 600; }
+.roundPlayers { font-size: 12px; color: #888; }
+.expandIcon { font-size: 10px; color: #aaa; }
+
+.roundDetail {
+  border-top: 0.5px solid #e8e5df;
+  padding: 14px;
+}
+
+.answerRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+  padding: 10px 12px;
+  background: #14F19510;
+  border: 0.5px solid #14F19544;
+  border-radius: 8px;
+}
+
+.answerLabel { font-size: 12px; color: #888; }
+.answerEmojis { font-size: 22px; letter-spacing: 4px; }
+
+.winnersTitle { font-size: 12px; font-weight: 600; margin-bottom: 8px; }
+
+.winnersList { display: flex; flex-direction: column; gap: 6px; }
+
+.winnerRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+  background: #f8f7f4;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.winnerRank { width: 28px; font-size: 16px; }
+.winnerAddr { flex: 1; font-family: monospace; font-size: 12px; color: #555; }
+.winnerMatches { font-size: 12px; color: #888; }
+.winnerPrize { font-weight: 600; color: #9945FF; font-size: 13px; }

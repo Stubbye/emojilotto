@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "program"
+]
+
+[profile.release]
+overflow-checks = true
+lto = "fat"
