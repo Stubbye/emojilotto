@@ -59,9 +59,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
       const s = Math.floor((diff % 60000) / 1000).toString().padStart(2, "0");
       setTimeLeft(`${h}:${m}:${s}`);
       setPct(Math.round((diff / EMLO_DURATION_MS) * 100));
-      if (diff === 0) {
-        localStorage.removeItem(ROUND_END_KEY);
-      }
+      if (diff === 0) localStorage.removeItem(ROUND_END_KEY);
     };
     tick();
     const id = setInterval(tick, 1000);
