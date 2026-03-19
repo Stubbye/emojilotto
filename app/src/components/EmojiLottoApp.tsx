@@ -35,9 +35,7 @@ export default function EmojiLottoApp() {
           <img src="/logo.webp" alt="EmojiLotto" style={{ height: 36, width: "auto" }} />
           <span className={styles.emloTag}>$EMLO</span>
         </div>
-        <div style={{ flex: 1, display: "flex", justifyContent: "center", padding: "0 12px" }}>
-          <img src="/banner.jpeg" alt="EmojiLotto Banner" style={{ height: 38, width: "auto", maxWidth: 280, objectFit: "contain", borderRadius: 6 }} />
-        </div>
+        
         <div className={styles.navRight}>
           <button className={styles.themeBtn} onClick={toggleTheme}>
             {dark ? "☀️" : "🌙"}
