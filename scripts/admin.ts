@@ -15,7 +15,9 @@ import { Program, BN, web3 } from "@coral-xyz/anchor";
 import { Connection, Keypair, PublicKey, clusterApiUrl, LAMPORTS_PER_SOL } from "@solana/web3.js";
 import * as crypto from "crypto";
 import * as fs from "fs";
-import { IDL } from "../app/src/idl/emojilotto";
+git add scripts\admin.ts
+git commit -m "Fix build error"
+git push
 
 const EMOJIS = [
   "🎯","🚀","💎","🌙","⚡","🔥","🎪","🦋",
