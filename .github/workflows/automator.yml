@@ -22,4 +22,4 @@ jobs:
           PROGRAM_ID: ${{ secrets.PROGRAM_ID }}
           NETWORK: ${{ secrets.NETWORK }}
           RPC_ENDPOINT: ${{ secrets.RPC_ENDPOINT }}
-        run: ts-node scripts/automator.ts
+       run: npx ts-node scripts/automator.ts
