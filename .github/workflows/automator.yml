@@ -14,8 +14,4 @@ jobs:
         with:
           node-version: '18'
       - name: Run automator
-        env:
-          PROGRAM_ID: ${{ secrets.PROGRAM_ID }}
-          NETWORK: ${{ secrets.NETWORK }}
-          RPC_ENDPOINT: ${{ secrets.RPC_ENDPOINT }}
-        run: echo "Automator running"
+        run: echo "EmojiLotto automator running"
