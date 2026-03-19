@@ -10,6 +10,7 @@ const MAX_ATTEMPTS = 2;
 const BET_AMOUNT = "500 EMLO";
 const PRIZE_POOL_DISPLAY = "50,000 EMLO";
 const ROUND_ID = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_ID || "1");
+const ROUND_END_KEY = "emlo_round_end";
 
 const PRIZE_TABLE = [
   { rank: "🥇 1st", pct: "50%", tokens: "25,000 EMLO" },
@@ -20,6 +21,18 @@ const PRIZE_TABLE = [
   { rank: "11th–20th", pct: "0.7% each", tokens: "350 EMLO each" },
 ];
 
+function getOrCreateEndTime(duration: number): number {
+  if (typeof window === "undefined") return Date.now() + duration;
+  const stored = localStorage.getItem(ROUND_END_KEY);
+  if (stored) {
+    const endTime = Number(stored);
+    if (endTime > Date.now()) return endTime;
+  }
+  const newEndTime = Date.now() + duration;
+  localStorage.setItem(ROUND_END_KEY, String(newEndTime));
+  return newEndTime;
+}
+
 export default function EmloGame({ dark }: { dark: boolean }) {
   const wallet = useWallet();
   const [selected, setSelected] = useState<number[]>([]);
@@ -28,25 +41,32 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   const [pct, setPct] = useState(100);
   const [players, setPlayers] = useState(0);
   const [loading, setLoading] = useState(false);
+  const [endTime, setEndTime] = useState<number>(0);
 
-  // Week 1: 1hr rounds. After week 1: 4hr rounds.
-  // This reads from env or defaults to 1hr for launch week
   const EMLO_DURATION_MS = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_DURATION_MS || 3600000);
-  const endTime = Date.now() + EMLO_DURATION_MS;
 
   useEffect(() => {
+    const et = getOrCreateEndTime(EMLO_DURATION_MS);
+    setEndTime(et);
+  }, []);
+
+  useEffect(() => {
+    if (!endTime) return;
     const tick = () => {
       const diff = Math.max(0, endTime - Date.now());
       const h = Math.floor(diff / 3600000).toString().padStart(2, "0");
       const m = Math.floor((diff % 3600000) / 60000).toString().padStart(2, "0");
       const s = Math.floor((diff % 60000) / 1000).toString().padStart(2, "0");
       setTimeLeft(`${h}:${m}:${s}`);
-      setPct(Math.round((diff / 86400000) * 100));
+      setPct(Math.round((diff / EMLO_DURATION_MS) * 100));
+      if (diff === 0) {
+        localStorage.removeItem(ROUND_END_KEY);
+      }
     };
     tick();
     const id = setInterval(tick, 1000);
     return () => clearInterval(id);
-  }, []);
+  }, [endTime]);
 
   const toggleEmoji = (idx: number) => {
     if (attempts.length >= MAX_ATTEMPTS) return;
@@ -67,13 +87,11 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   };
 
   const isMaxed = attempts.length >= MAX_ATTEMPTS;
-
   const hints = getHintsForRound(ROUND_ID, "emlo");
   const bestMatch = attempts.length > 0 ? Math.max(...attempts.map(a => a.matches)) : 0;
 
   return (
     <div className={styles.gameWrap}>
-      {/* EMLO badge */}
       <div className={styles.emloBadge}>
         <span style={{ fontSize: 24 }}>🪙</span>
         <div>
@@ -82,7 +100,6 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         </div>
       </div>
 
-      {/* Stats */}
       <div className={styles.statsGrid}>
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Fixed Prize Pool</div>
@@ -106,32 +123,24 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         </div>
       </div>
 
-      {/* Timer bar */}
       <div className={styles.timerWrap}>
         <div className={styles.timerFill} style={{ width: `${pct}%`, background: pct < 20 ? "#dc2626" : "#9945FF" }} />
       </div>
 
-      {/* Info */}
       <div className={styles.infoBanner} style={{ borderColor: "#9945FF55" }}>
         <div>
           <div className={styles.infoLabel}>Hidden answer · Max {MAX_ATTEMPTS} attempts per player</div>
           <div className={styles.infoText}>
-            {BET_AMOUNT} per attempt · IP tracked to prevent multi-accounts · 24hr round
+            {BET_AMOUNT} per attempt · IP tracked to prevent multi-accounts · 1hr round
           </div>
         </div>
         <div className={styles.lockRow}>🔒🔒🔒🔒🔒🔒</div>
       </div>
 
-      {/* Hints / Riddles */}
       {hints && (
-        <HintBox
-          hints={hints}
-          bestMatch={bestMatch}
-          hasAttempted={attempts.length > 0}
-        />
+        <HintBox hints={hints} bestMatch={bestMatch} hasAttempted={attempts.length > 0} />
       )}
 
-      {/* Previous attempts */}
       {attempts.length > 0 && (
         <div className={styles.attemptsSection}>
           <div className={styles.sectionTitle}>Your attempts</div>
@@ -147,7 +156,6 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         </div>
       )}
 
-      {/* Emoji grid */}
       {!isMaxed && (
         <>
           <div className={styles.sectionTitle}>
@@ -193,7 +201,6 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         </div>
       )}
 
-      {/* Prize table */}
       <div className={styles.sectionTitle} style={{ marginTop: "1.5rem" }}>Prize distribution · 20 winners</div>
       <div className={styles.prizeTable}>
         {PRIZE_TABLE.map((p) => (
