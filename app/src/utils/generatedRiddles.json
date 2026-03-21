@@ -34,5 +34,23 @@
       5,
       14
     ]
+  },
+  "sol_3": {
+    "hardRiddle": {
+      "text": "Where celestial fortune meets earthbound desire, six keepers of fate dance in shadow's attire. The archer's mark gleams in crystalline night, while thunder's bright tongue tastes the diamond's light. A scaled leviathan guards the prism's refrain, and winged transformation completes fortune's chain. In spiraling chaos, the masked jester grins—where destiny's wheel spins where madness begins.",
+      "hint": "Look to the heavens, the precious stones, and creatures both mythical and small-winged. One object marks a target, one brings chaos, one reveals hidden magic."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a bullseye glows, a dragon takes flight, a gem sparkles bright, lightning strikes fast, a butterfly floats, and the jester's mask laughs. Which six bring fortune's contrast?",
+      "hint": "Think of precision, magic, nature, power, precious things, and trickery."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      8,
+      18,
+      19
+    ]
   }
 }
