@@ -15,7 +15,7 @@ export function getHintsForRound(
   gameType: "usdc" | "emlo"
 ): RoundHints | null {
   try {
-    const key = gameType === "usdc" ? "sol_" + roundId : "emlo_" + roundId;
+    const key = gameType === "sol" ? "sol_" + roundId : "emlo_" + roundId;
     const riddles = require("./generatedRiddles.json");
     const data = riddles[key];
     if (!data) return null;
