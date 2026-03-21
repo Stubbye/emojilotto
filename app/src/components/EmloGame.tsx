@@ -214,7 +214,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
           <div className={styles.statVal} style={{ color: "#f59e0b" }}>25,000 EMLO</div>
         </div>
         <div className={styles.statCard}>
-          <div className={styles.statLabel">Your Attempts</div>
+          <div className={styles.statLabel}>Your Attempts</div>
           <div className={styles.statVal} style={{ color: isMaxed ? "#dc2626" : "inherit" }}>
             {attempts.length}/{MAX_ATTEMPTS}
           </div>
