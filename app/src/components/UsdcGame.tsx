@@ -12,7 +12,7 @@ const ROUND_ID = Number(process.env.NEXT_PUBLIC_USDC_ROUND_ID || "1");
 const ROUND_END_KEY = "sol_round_end";
 const ATTEMPTS_KEY = "sol_attempts";
 const ROUND_OVER_KEY = "sol_round_over";
-const COOLDOWN_MS = 60000;
+const COOLDOWN_MS = 10000;
 const ROUND_DURATION = 900000;
 
 const PRIZE_TABLE = [
@@ -84,10 +84,15 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   useEffect(() => {
     const savedAttempts = loadAttempts();
     setAttempts(savedAttempts);
-    const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
-    if (isOver) setRoundOver(true);
     const et = getOrCreateEndTime();
     setEndTime(et);
+    // Only mark round over if time is actually up
+    const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
+    if (isOver && et <= Date.now()) {
+      setRoundOver(true);
+    } else {
+      localStorage.removeItem(ROUND_OVER_KEY);
+    }
   }, []);
 
   useEffect(() => {
