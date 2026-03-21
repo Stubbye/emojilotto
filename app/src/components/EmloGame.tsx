@@ -13,15 +13,16 @@ const ROUND_ID = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_ID || "1");
 const ROUND_END_KEY = "emlo_round_end";
 const ATTEMPTS_KEY = "emlo_attempts";
 const ROUND_OVER_KEY = "emlo_round_over";
+const COOLDOWN_END_KEY = "emlo_cooldown_end";
 const COOLDOWN_MS = 60000;
 
 const PRIZE_TABLE = [
-  { rank: "🥇 1st", pct: 50, tokens: "25,000 EMLO" },
-  { rank: "🥈 2nd", pct: 18, tokens: "9,000 EMLO" },
-  { rank: "🥉 3rd", pct: 10, tokens: "5,000 EMLO" },
-  { rank: "4th", pct: 5, tokens: "2,500 EMLO" },
-  { rank: "5th–10th", pct: 2, tokens: "1,000 EMLO each" },
-  { rank: "11th–20th", pct: 0.7, tokens: "350 EMLO each" },
+  { rank: "🥇 1st", pct: "50%", tokens: "25,000 EMLO" },
+  { rank: "🥈 2nd", pct: "18%", tokens: "9,000 EMLO" },
+  { rank: "🥉 3rd", pct: "10%", tokens: "5,000 EMLO" },
+  { rank: "4th", pct: "5%", tokens: "2,500 EMLO" },
+  { rank: "5th–10th", pct: "2% each", tokens: "1,000 EMLO each" },
+  { rank: "11th–20th", pct: "0.7% each", tokens: "350 EMLO each" },
 ];
 
 function getOrCreateEndTime(duration: number): number {
@@ -58,6 +59,7 @@ function clearRound() {
   localStorage.removeItem(ROUND_END_KEY);
   localStorage.removeItem(ATTEMPTS_KEY);
   localStorage.removeItem(ROUND_OVER_KEY);
+  localStorage.removeItem(COOLDOWN_END_KEY);
 }
 
 function calcWinProbability(matches: number, players: number): number {
@@ -89,17 +91,11 @@ export default function EmloGame({ dark }: { dark: boolean }) {
 
   const EMLO_DURATION_MS = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_DURATION_MS || 3600000);
 
-  const triggerCooldown = () => {
-    if (cooldownStarted.current) return;
-    cooldownStarted.current = true;
-    localStorage.setItem(ROUND_OVER_KEY, "true");
-    setRoundOver(true);
-    let cd = COOLDOWN_MS;
-    setCooldownLeft(cd);
+  const startCooldownInterval = (cooldownEnd: number) => {
     const cdInterval = setInterval(() => {
-      cd -= 1000;
-      setCooldownLeft(cd);
-      if (cd <= 0) {
+      const remaining = Math.max(0, cooldownEnd - Date.now());
+      setCooldownLeft(remaining);
+      if (remaining <= 0) {
         clearInterval(cdInterval);
         clearRound();
         setAttempts([]);
@@ -114,6 +110,17 @@ export default function EmloGame({ dark }: { dark: boolean }) {
     }, 1000);
   };
 
+  const triggerCooldown = () => {
+    if (cooldownStarted.current) return;
+    cooldownStarted.current = true;
+    localStorage.setItem(ROUND_OVER_KEY, "true");
+    const cooldownEnd = Date.now() + COOLDOWN_MS;
+    localStorage.setItem(COOLDOWN_END_KEY, String(cooldownEnd));
+    setRoundOver(true);
+    setCooldownLeft(COOLDOWN_MS);
+    startCooldownInterval(cooldownEnd);
+  };
+
   useEffect(() => {
     const et = getOrCreateEndTime(EMLO_DURATION_MS);
     setEndTime(et);
@@ -121,7 +128,20 @@ export default function EmloGame({ dark }: { dark: boolean }) {
     setAttempts(savedAttempts);
     const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
     if (isOver) {
-      triggerCooldown();
+      const storedCooldownEnd = localStorage.getItem(COOLDOWN_END_KEY);
+      if (storedCooldownEnd) {
+        const remaining = Math.max(0, Number(storedCooldownEnd) - Date.now());
+        if (remaining > 0) {
+          cooldownStarted.current = true;
+          setRoundOver(true);
+          setCooldownLeft(remaining);
+          startCooldownInterval(Number(storedCooldownEnd));
+        } else {
+          clearRound();
+        }
+      } else {
+        triggerCooldown();
+      }
     }
   }, []);
 
@@ -194,7 +214,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
           <div className={styles.statVal} style={{ color: "#f59e0b" }}>25,000 EMLO</div>
         </div>
         <div className={styles.statCard}>
-          <div className={styles.statLabel}>Your Attempts</div>
+          <div className={styles.statLabel">Your Attempts</div>
           <div className={styles.statVal} style={{ color: isMaxed ? "#dc2626" : "inherit" }}>
             {attempts.length}/{MAX_ATTEMPTS}
           </div>
@@ -325,7 +345,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         {PRIZE_TABLE.map((p) => (
           <div key={p.rank} className={styles.prizeRow}>
             <span className={styles.prizeRank}>{p.rank}</span>
-            <span className={styles.prizePct} style={{ color: "#9945FF" }}>{p.pct}%</span>
+            <span className={styles.prizePct} style={{ color: "#9945FF" }}>{p.pct}</span>
             <span className={styles.prizeTokens}>{p.tokens}</span>
           </div>
         ))}
