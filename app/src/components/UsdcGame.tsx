@@ -10,6 +10,9 @@ const MAX_ATTEMPTS = 3;
 const ENTRY_FEE = "0.01 SOL";
 const ROUND_ID = Number(process.env.NEXT_PUBLIC_USDC_ROUND_ID || "1");
 const ROUND_END_KEY = "sol_round_end";
+const ATTEMPTS_KEY = "sol_attempts";
+const ROUND_OVER_KEY = "sol_round_over";
+const COOLDOWN_MS = 60000;
 const ROUND_DURATION = 900000;
 
 const PRIZE_TABLE = [
@@ -31,6 +34,24 @@ function getOrCreateEndTime(): number {
   const newEndTime = Date.now() + ROUND_DURATION;
   localStorage.setItem(ROUND_END_KEY, String(newEndTime));
   return newEndTime;
+}
+
+function loadAttempts(): {picks: number[], matches: number}[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const stored = localStorage.getItem(ATTEMPTS_KEY);
+    return stored ? JSON.parse(stored) : [];
+  } catch { return []; }
+}
+
+function saveAttempts(attempts: {picks: number[], matches: number}[]) {
+  localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(attempts));
+}
+
+function clearRound() {
+  localStorage.removeItem(ROUND_END_KEY);
+  localStorage.removeItem(ATTEMPTS_KEY);
+  localStorage.removeItem(ROUND_OVER_KEY);
 }
 
 function calcWinProbability(matches: number, players: number): number {
@@ -58,8 +79,13 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [loading, setLoading] = useState(false);
   const [endTime, setEndTime] = useState<number>(0);
   const [roundOver, setRoundOver] = useState(false);
+  const [cooldownLeft, setCooldownLeft] = useState(0);
 
   useEffect(() => {
+    const savedAttempts = loadAttempts();
+    setAttempts(savedAttempts);
+    const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
+    if (isOver) setRoundOver(true);
     const et = getOrCreateEndTime();
     setEndTime(et);
   }, []);
@@ -74,8 +100,26 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
       setTimeLeft(`${h}:${m}:${s}`);
       setPct(Math.round((diff / ROUND_DURATION) * 100));
       if (diff === 0) {
-        localStorage.removeItem(ROUND_END_KEY);
+        localStorage.setItem(ROUND_OVER_KEY, "true");
         setRoundOver(true);
+        // Start cooldown then reset
+        let cd = COOLDOWN_MS;
+        const cdInterval = setInterval(() => {
+          cd -= 1000;
+          setCooldownLeft(cd);
+          if (cd <= 0) {
+            clearInterval(cdInterval);
+            clearRound();
+            setAttempts([]);
+            setRoundOver(false);
+            setPrizePool(5);
+            setPlayers(0);
+            const newEnd = Date.now() + ROUND_DURATION;
+            localStorage.setItem(ROUND_END_KEY, String(newEnd));
+            setEndTime(newEnd);
+            setCooldownLeft(0);
+          }
+        }, 1000);
       }
     };
     tick();
@@ -97,15 +141,25 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
     const matches = Math.floor(Math.random() * 7);
     const newAttempts = [...attempts, { picks: [...selected], matches }];
     setAttempts(newAttempts);
+    saveAttempts(newAttempts);
     setSelected([]);
     setPrizePool(p => p + 0.01);
     setPlayers(p => p + 1);
     setLoading(false);
 
-    // End round if someone gets 100% match
     if (matches === 6) {
-      localStorage.removeItem(ROUND_END_KEY);
+      localStorage.setItem(ROUND_OVER_KEY, "true");
       setRoundOver(true);
+      setTimeout(() => {
+        clearRound();
+        setAttempts([]);
+        setRoundOver(false);
+        setPrizePool(5);
+        setPlayers(0);
+        const newEnd = Date.now() + ROUND_DURATION;
+        localStorage.setItem(ROUND_END_KEY, String(newEnd));
+        setEndTime(newEnd);
+      }, COOLDOWN_MS);
     }
   };
 
@@ -137,7 +191,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Time Left</div>
           <div className={styles.statVal} style={{ color: pct < 20 ? "#dc2626" : "inherit" }}>
-            {roundOver ? "Round Over" : timeLeft}
+            {roundOver ? cooldownLeft > 0 ? `New round in ${Math.ceil(cooldownLeft/1000)}s` : "Round Over" : timeLeft}
           </div>
         </div>
       </div>
@@ -201,7 +255,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
 
       {roundOver && (
         <div className={styles.maxedBanner} style={{ background: "#16a34a22", borderColor: "#16a34a44", color: "#16a34a" }}>
-          🏆 Round Over! Someone guessed correctly. New round starting soon!
+          🏆 Round Over! {cooldownLeft > 0 ? `New round starting in ${Math.ceil(cooldownLeft/1000)} seconds...` : "New round starting soon!"}
         </div>
       )}
 
