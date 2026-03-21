@@ -1,4 +1,5 @@
 import * as fs from "fs";
+const nodeFetch = require("node-fetch");
 
 const STATE_FILE = "./round-state.json";
 const RIDDLES_FILE = "./app/src/utils/generatedRiddles.json";
@@ -32,12 +33,12 @@ function saveRiddles(riddles: any) {
 
 async function generateRiddle(gameType: string, roundId: number): Promise<any> {
   log("Generating riddle for " + gameType + " round " + roundId);
-  
-  const prompt = gameType === "usdc" 
+
+  const prompt = gameType === "usdc"
     ? `Generate a cryptic riddle for a crypto lottery game called EmojiLotto. The riddle must describe exactly 6 emojis from this list without naming them directly: 🎯🚀💎🌙⚡🔥🎪🦋🌈💫🎲🃏🦊🐉🌺💜🎸🏆🎭🍀🔮⭐🎨🌊. Make it very hard and poetic. Also generate an easier bonus hint. Return ONLY a JSON object with no markdown like this: {"hardRiddle":{"text":"...","hint":"..."},"easyRiddle":{"text":"...","hint":"..."},"answer":[0,1,2,3,4,5]} where answer is array of 6 indices from the emoji list above.`
     : `Generate a crypto/memecoin themed riddle for EmojiLotto. The riddle describes exactly 6 emojis from: 🎯🚀💎🌙⚡🔥🎪🦋🌈💫🎲🃏🦊🐉🌺💜🎸🏆🎭🍀🔮⭐🎨🌊. Make it themed around crypto culture, degens, and memecoins. Also generate an easier bonus hint. Return ONLY a JSON object with no markdown: {"hardRiddle":{"text":"...","hint":"..."},"easyRiddle":{"text":"...","hint":"..."},"answer":[0,1,2,3,4,5]} where answer is array of 6 indices.`;
 
-  const response = await fetch("https://api.anthropic.com/v1/messages", {
+  const response = await nodeFetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
