@@ -24,8 +24,3 @@ jobs:
           git add -f app/src/utils/generatedRiddles.json round-state.json || true
           git diff --staged --quiet || git commit -m "Update riddles and round state"
           git push || true
-```
-
-Then go to:
-```
-https://github.com/Stubbye/emojilotto/new/main/scripts
