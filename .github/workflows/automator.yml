@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-node@v4
         with:
           node-version: '18'
@@ -20,3 +22,10 @@ jobs:
           RPC_ENDPOINT: ${{ secrets.RPC_ENDPOINT }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npx ts-node scripts/automator.ts
+      - name: Commit riddles
+        run: |
+          git config user.email "automator@emojilotto.com"
+          git config user.name "EmojiLotto Automator"
+          git add -f app/src/utils/generatedRiddles.json round-state.json || true
+          git diff --staged --quiet || git commit -m "Update riddles and round state"
+          git push || true
