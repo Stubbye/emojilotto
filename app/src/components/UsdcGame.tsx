@@ -16,12 +16,12 @@ const COOLDOWN_MS = 60000;
 const ROUND_DURATION = 900000;
 
 const PRIZE_TABLE = [
-  { rank: "🥇 1st", pct: 50 },
-  { rank: "🥈 2nd", pct: 18 },
-  { rank: "🥉 3rd", pct: 10 },
-  { rank: "4th", pct: 5 },
-  { rank: "5th–10th", pct: 2 },
-  { rank: "11th–20th", pct: 0.7 },
+  { rank: "🥇 1st", pct: "50%" },
+  { rank: "🥈 2nd", pct: "18%" },
+  { rank: "🥉 3rd", pct: "10%" },
+  { rank: "4th", pct: "5%" },
+  { rank: "5th–10th", pct: "2% each" },
+  { rank: "11th–20th", pct: "0.7% each" },
 ];
 
 function getOrCreateEndTime(): number {
@@ -80,12 +80,13 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [attempts, setAttempts] = useState<{picks: number[], matches: number}[]>([]);
   const [timeLeft, setTimeLeft] = useState("");
   const [pct, setPct] = useState(100);
-  const [prizePool, setPrizePool] = useState(5);
+  const [prizePool, setPrizePool] = useState(0.01);
   const [players, setPlayers] = useState(0);
   const [loading, setLoading] = useState(false);
   const [endTime, setEndTime] = useState<number>(0);
   const [roundOver, setRoundOver] = useState(false);
   const [cooldownLeft, setCooldownLeft] = useState(0);
+  const [showInfo, setShowInfo] = useState(false);
   const cooldownStarted = useRef(false);
 
   const triggerCooldown = () => {
@@ -103,7 +104,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         clearRound();
         setAttempts([]);
         setRoundOver(false);
-        setPrizePool(5);
+        setPrizePool(0.01);
         setPlayers(0);
         cooldownStarted.current = false;
         const newEnd = Date.now() + ROUND_DURATION;
@@ -181,7 +182,20 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
       <div className={styles.statsGrid}>
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Live Prize Pool</div>
-          <div className={styles.statVal} style={{ color: "#16a34a" }}>{prizePool.toFixed(2)} SOL</div>
+          <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
+            <div className={styles.statVal} style={{ color: "#16a34a" }}>{prizePool.toFixed(2)} SOL</div>
+            <div style={{ position: "relative" }}>
+              <span
+                onClick={() => setShowInfo(!showInfo)}
+                style={{ fontSize: 11, color: "#9945FF", cursor: "pointer", border: "1px solid #9945FF", borderRadius: "50%", width: 16, height: 16, display: "inline-flex", alignItems: "center", justifyContent: "center", fontWeight: 700 }}
+              >i</span>
+              {showInfo && (
+                <div style={{ position: "absolute", top: 20, left: 0, background: "#fff", border: "1px solid #e8e5df", borderRadius: 8, padding: "8px 12px", fontSize: 12, width: 200, zIndex: 99, boxShadow: "0 4px 12px #0002", color: "#333" }}>
+                  💧 When prize pool exceeds 5 SOL, 70% of new entries go to $EMLO liquidity pool. Prizes always paid from current pool.
+                </div>
+              )}
+            </div>
+          </div>
         </div>
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Players</div>
@@ -202,9 +216,9 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
       </div>
 
       <div className={styles.poolBreakdown}>
-        <span>🥇 1st wins <b>{(prizePool * 0.50).toFixed(3)} SOL</b></span>
-        <span>🥈 2nd wins <b>{(prizePool * 0.18).toFixed(3)} SOL</b></span>
-        <span>🥉 3rd wins <b>{(prizePool * 0.10).toFixed(3)} SOL</b></span>
+        <span>🥇 1st wins <b>50%</b></span>
+        <span>🥈 2nd wins <b>18%</b></span>
+        <span>🥉 3rd wins <b>10%</b></span>
       </div>
 
       <div className={styles.timerWrap}>
@@ -329,7 +343,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         {PRIZE_TABLE.map((p) => (
           <div key={p.rank} className={styles.prizeRow}>
             <span className={styles.prizeRank}>{p.rank}</span>
-            <span className={styles.prizePct}>{p.pct}% = {(prizePool * p.pct / 100).toFixed(3)} SOL</span>
+            <span className={styles.prizePct}>{p.pct}</span>
           </div>
         ))}
       </div>
