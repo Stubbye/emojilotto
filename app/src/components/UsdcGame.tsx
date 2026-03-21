@@ -12,7 +12,7 @@ const ROUND_ID = Number(process.env.NEXT_PUBLIC_USDC_ROUND_ID || "1");
 const ROUND_END_KEY = "sol_round_end";
 const ATTEMPTS_KEY = "sol_attempts";
 const ROUND_OVER_KEY = "sol_round_over";
-const COOLDOWN_MS = 10000;
+const COOLDOWN_MS = 60000;
 const ROUND_DURATION = 900000;
 
 const PRIZE_TABLE = [
@@ -36,16 +36,22 @@ function getOrCreateEndTime(): number {
   return newEndTime;
 }
 
-function loadAttempts(): {picks: number[], matches: number}[] {
+function loadAttempts(roundEndTime: number): {picks: number[], matches: number}[] {
   if (typeof window === "undefined") return [];
   try {
     const stored = localStorage.getItem(ATTEMPTS_KEY);
-    return stored ? JSON.parse(stored) : [];
+    if (!stored) return [];
+    const data = JSON.parse(stored);
+    if (data.roundEnd !== roundEndTime) {
+      localStorage.removeItem(ATTEMPTS_KEY);
+      return [];
+    }
+    return data.attempts || [];
   } catch { return []; }
 }
 
-function saveAttempts(attempts: {picks: number[], matches: number}[]) {
-  localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(attempts));
+function saveAttempts(attempts: {picks: number[], matches: number}[], roundEndTime: number) {
+  localStorage.setItem(ATTEMPTS_KEY, JSON.stringify({ attempts, roundEnd: roundEndTime }));
 }
 
 function clearRound() {
@@ -82,11 +88,10 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [cooldownLeft, setCooldownLeft] = useState(0);
 
   useEffect(() => {
-    const savedAttempts = loadAttempts();
-    setAttempts(savedAttempts);
     const et = getOrCreateEndTime();
     setEndTime(et);
-    // Only mark round over if time is actually up
+    const savedAttempts = loadAttempts(et);
+    setAttempts(savedAttempts);
     const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
     if (isOver && et <= Date.now()) {
       setRoundOver(true);
@@ -107,7 +112,6 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
       if (diff === 0) {
         localStorage.setItem(ROUND_OVER_KEY, "true");
         setRoundOver(true);
-        // Start cooldown then reset
         let cd = COOLDOWN_MS;
         const cdInterval = setInterval(() => {
           cd -= 1000;
@@ -146,7 +150,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
     const matches = Math.floor(Math.random() * 7);
     const newAttempts = [...attempts, { picks: [...selected], matches }];
     setAttempts(newAttempts);
-    saveAttempts(newAttempts);
+    saveAttempts(newAttempts, endTime);
     setSelected([]);
     setPrizePool(p => p + 0.01);
     setPlayers(p => p + 1);
