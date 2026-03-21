@@ -104,7 +104,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
 
   const attemptsLeft = MAX_ATTEMPTS - attempts.length;
   const isMaxed = attempts.length >= MAX_ATTEMPTS;
-  const hints = getHintsForRound(ROUND_ID, "usdc");
+  const hints = getHintsForRound(ROUND_ID, "sol");
   const bestMatch = attempts.length > 0 ? Math.max(...attempts.map(a => a.matches)) : 0;
   const winProb = attempts.length > 0 ? calcWinProbability(bestMatch, players) : null;
   const bestRank = getPrizeRank(bestMatch);
