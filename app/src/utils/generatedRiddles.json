@@ -124,5 +124,23 @@
       11,
       16
     ]
+  },
+  "sol_8": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, six sentinels of fate converge in dreams. The winged trickster guards the thunderous threshold, while gemstone brilliance crowns the jester's hold. Seek the archer's mark where electricity breathes, and lunar whispers coalesce beneath enchanted leaves.",
+      "hint": "Consider the nature of luck, mischief, and cosmic alignment. One brings precision, one brings chaos, one brings transformation."
+    },
+    "easyRiddle": {
+      "text": "Six treasures of chance await your fortune's call: a shimmering stone, a bolt from above, a prancer with nine tails, a cosmic laugh, a mark to strike true, and a light that burns bright.",
+      "hint": "Think of symbols that represent luck, danger, cleverness, humor, accuracy, and brilliance."
+    },
+    "answer": [
+      1,
+      4,
+      13,
+      21,
+      0,
+      6
+    ]
   }
 }
