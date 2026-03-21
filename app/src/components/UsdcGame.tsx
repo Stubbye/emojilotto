@@ -12,6 +12,7 @@ const ROUND_ID = Number(process.env.NEXT_PUBLIC_USDC_ROUND_ID || "1");
 const ROUND_END_KEY = "sol_round_end";
 const ATTEMPTS_KEY = "sol_attempts";
 const ROUND_OVER_KEY = "sol_round_over";
+const COOLDOWN_END_KEY = "sol_cooldown_end";
 const COOLDOWN_MS = 60000;
 const ROUND_DURATION = 900000;
 
@@ -58,6 +59,7 @@ function clearRound() {
   localStorage.removeItem(ROUND_END_KEY);
   localStorage.removeItem(ATTEMPTS_KEY);
   localStorage.removeItem(ROUND_OVER_KEY);
+  localStorage.removeItem(COOLDOWN_END_KEY);
 }
 
 function calcWinProbability(matches: number, players: number): number {
@@ -89,17 +91,11 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [showInfo, setShowInfo] = useState(false);
   const cooldownStarted = useRef(false);
 
-  const triggerCooldown = () => {
-    if (cooldownStarted.current) return;
-    cooldownStarted.current = true;
-    localStorage.setItem(ROUND_OVER_KEY, "true");
-    setRoundOver(true);
-    let cd = COOLDOWN_MS;
-    setCooldownLeft(cd);
+  const startCooldownInterval = (cooldownEnd: number) => {
     const cdInterval = setInterval(() => {
-      cd -= 1000;
-      setCooldownLeft(cd);
-      if (cd <= 0) {
+      const remaining = Math.max(0, cooldownEnd - Date.now());
+      setCooldownLeft(remaining);
+      if (remaining <= 0) {
         clearInterval(cdInterval);
         clearRound();
         setAttempts([]);
@@ -115,6 +111,17 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
     }, 1000);
   };
 
+  const triggerCooldown = () => {
+    if (cooldownStarted.current) return;
+    cooldownStarted.current = true;
+    localStorage.setItem(ROUND_OVER_KEY, "true");
+    const cooldownEnd = Date.now() + COOLDOWN_MS;
+    localStorage.setItem(COOLDOWN_END_KEY, String(cooldownEnd));
+    setRoundOver(true);
+    setCooldownLeft(COOLDOWN_MS);
+    startCooldownInterval(cooldownEnd);
+  };
+
   useEffect(() => {
     const et = getOrCreateEndTime();
     setEndTime(et);
@@ -122,7 +129,20 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
     setAttempts(savedAttempts);
     const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
     if (isOver) {
-      triggerCooldown();
+      const storedCooldownEnd = localStorage.getItem(COOLDOWN_END_KEY);
+      if (storedCooldownEnd) {
+        const remaining = Math.max(0, Number(storedCooldownEnd) - Date.now());
+        if (remaining > 0) {
+          cooldownStarted.current = true;
+          setRoundOver(true);
+          setCooldownLeft(remaining);
+          startCooldownInterval(Number(storedCooldownEnd));
+        } else {
+          clearRound();
+        }
+      } else {
+        triggerCooldown();
+      }
     }
   }, []);
 
