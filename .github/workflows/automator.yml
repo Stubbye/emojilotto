@@ -21,7 +21,7 @@ jobs:
           NETWORK: ${{ secrets.NETWORK }}
           RPC_ENDPOINT: ${{ secrets.RPC_ENDPOINT }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: npx ts-node scripts/automator.ts
+        run: npx ts-node --skip-ignore --transpile-only scripts/automator.ts
       - name: Commit riddles
         run: |
           git config user.email "automator@emojilotto.com"
