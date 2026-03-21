@@ -88,5 +88,23 @@
       4,
       8
     ]
+  },
+  "sol_6": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, and celestial fire dances with winged metamorphosis, a jester's grin mirrors the prism of fate. Seek the gemstone that catches both lightning's kiss and the spectrum's whisper, while destiny's wheel spins beneath the court's masquerade.",
+      "hint": "One marks the destination, one illuminates paths, one glimmers with inner light, one transforms, one entertains deception, one reveals all colors."
+    },
+    "easyRiddle": {
+      "text": "I point the way to winning dreams. I race through darkness. I sparkle with value. I transform with wings. I hide behind a grin. I split white light into many.",
+      "hint": "Think of: aim, speed, wealth, change, trickery, and color."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      19,
+      23
+    ]
   }
 }
