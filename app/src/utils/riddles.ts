@@ -12,7 +12,7 @@ export type RoundHints = {
 
 export function getHintsForRound(
   roundId: number,
-  gameType: "usdc" | "emlo"
+  gameType: "sol" | "emlo"
 ): RoundHints | null {
   try {
     const key = gameType === "sol" ? "sol_" + roundId : "emlo_" + roundId;
