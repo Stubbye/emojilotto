@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useWallet } from "@solana/wallet-adapter-react";
 import styles from "./Game.module.css";
 import HintBox from "./HintBox";
@@ -85,8 +85,34 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   const [endTime, setEndTime] = useState<number>(0);
   const [roundOver, setRoundOver] = useState(false);
   const [cooldownLeft, setCooldownLeft] = useState(0);
+  const cooldownStarted = useRef(false);
 
   const EMLO_DURATION_MS = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_DURATION_MS || 3600000);
+
+  const triggerCooldown = () => {
+    if (cooldownStarted.current) return;
+    cooldownStarted.current = true;
+    localStorage.setItem(ROUND_OVER_KEY, "true");
+    setRoundOver(true);
+    let cd = COOLDOWN_MS;
+    setCooldownLeft(cd);
+    const cdInterval = setInterval(() => {
+      cd -= 1000;
+      setCooldownLeft(cd);
+      if (cd <= 0) {
+        clearInterval(cdInterval);
+        clearRound();
+        setAttempts([]);
+        setRoundOver(false);
+        setPlayers(0);
+        cooldownStarted.current = false;
+        const newEnd = Date.now() + EMLO_DURATION_MS;
+        localStorage.setItem(ROUND_END_KEY, String(newEnd));
+        setEndTime(newEnd);
+        setCooldownLeft(0);
+      }
+    }, 1000);
+  };
 
   useEffect(() => {
     const et = getOrCreateEndTime(EMLO_DURATION_MS);
@@ -94,10 +120,8 @@ export default function EmloGame({ dark }: { dark: boolean }) {
     const savedAttempts = loadAttempts(et);
     setAttempts(savedAttempts);
     const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
-    if (isOver && et <= Date.now()) {
-      setRoundOver(true);
-    } else {
-      localStorage.removeItem(ROUND_OVER_KEY);
+    if (isOver) {
+      triggerCooldown();
     }
   }, []);
 
@@ -111,24 +135,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
       setTimeLeft(`${h}:${m}:${s}`);
       setPct(Math.round((diff / EMLO_DURATION_MS) * 100));
       if (diff === 0) {
-        localStorage.setItem(ROUND_OVER_KEY, "true");
-        setRoundOver(true);
-        let cd = COOLDOWN_MS;
-        const cdInterval = setInterval(() => {
-          cd -= 1000;
-          setCooldownLeft(cd);
-          if (cd <= 0) {
-            clearInterval(cdInterval);
-            clearRound();
-            setAttempts([]);
-            setRoundOver(false);
-            setPlayers(0);
-            const newEnd = Date.now() + EMLO_DURATION_MS;
-            localStorage.setItem(ROUND_END_KEY, String(newEnd));
-            setEndTime(newEnd);
-            setCooldownLeft(0);
-          }
-        }, 1000);
+        triggerCooldown();
       }
     };
     tick();
@@ -156,17 +163,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
     setLoading(false);
 
     if (matches === 6) {
-      localStorage.setItem(ROUND_OVER_KEY, "true");
-      setRoundOver(true);
-      setTimeout(() => {
-        clearRound();
-        setAttempts([]);
-        setRoundOver(false);
-        setPlayers(0);
-        const newEnd = Date.now() + EMLO_DURATION_MS;
-        localStorage.setItem(ROUND_END_KEY, String(newEnd));
-        setEndTime(newEnd);
-      }, COOLDOWN_MS);
+      triggerCooldown();
     }
   };
 
