@@ -11,8 +11,6 @@ const ENTRY_FEE = "0.01 SOL";
 const ROUND_ID = Number(process.env.NEXT_PUBLIC_USDC_ROUND_ID || "1");
 const ROUND_END_KEY = "sol_round_end";
 const ROUND_DURATION = 900000;
-const TOTAL_EMOJIS = 24;
-const PICK_COUNT = 6;
 
 const PRIZE_TABLE = [
   { rank: "🥇 1st", pct: 50 },
@@ -36,9 +34,7 @@ function getOrCreateEndTime(): number {
 }
 
 function calcWinProbability(matches: number, players: number): number {
-  // Probability based on matches out of 6
   const baseProb = matches === 6 ? 100 : matches === 5 ? 40 : matches === 4 ? 15 : matches === 3 ? 5 : matches === 2 ? 1 : 0.1;
-  // Adjust for competition — more players = lower chance
   const adjusted = players > 1 ? baseProb / Math.sqrt(players) : baseProb;
   return Math.min(100, Math.max(0.01, adjusted));
 }
@@ -61,6 +57,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [players, setPlayers] = useState(0);
   const [loading, setLoading] = useState(false);
   const [endTime, setEndTime] = useState<number>(0);
+  const [roundOver, setRoundOver] = useState(false);
 
   useEffect(() => {
     const et = getOrCreateEndTime();
@@ -76,7 +73,10 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
       const s = Math.floor((diff % 60000) / 1000).toString().padStart(2, "0");
       setTimeLeft(`${h}:${m}:${s}`);
       setPct(Math.round((diff / ROUND_DURATION) * 100));
-      if (diff === 0) localStorage.removeItem(ROUND_END_KEY);
+      if (diff === 0) {
+        localStorage.removeItem(ROUND_END_KEY);
+        setRoundOver(true);
+      }
     };
     tick();
     const id = setInterval(tick, 1000);
@@ -84,22 +84,29 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   }, [endTime]);
 
   const toggleEmoji = (idx: number) => {
-    if (attempts.length >= MAX_ATTEMPTS) return;
+    if (attempts.length >= MAX_ATTEMPTS || roundOver) return;
     setSelected(prev =>
       prev.includes(idx) ? prev.filter(x => x !== idx) : prev.length < 6 ? [...prev, idx] : prev
     );
   };
 
   const submitEntry = async () => {
-    if (!wallet.connected || selected.length !== 6) return;
+    if (!wallet.connected || selected.length !== 6 || roundOver) return;
     setLoading(true);
     await new Promise(r => setTimeout(r, 1500));
     const matches = Math.floor(Math.random() * 7);
-    setAttempts(prev => [...prev, { picks: [...selected], matches }]);
+    const newAttempts = [...attempts, { picks: [...selected], matches }];
+    setAttempts(newAttempts);
     setSelected([]);
     setPrizePool(p => p + 0.01);
     setPlayers(p => p + 1);
     setLoading(false);
+
+    // End round if someone gets 100% match
+    if (matches === 6) {
+      localStorage.removeItem(ROUND_END_KEY);
+      setRoundOver(true);
+    }
   };
 
   const attemptsLeft = MAX_ATTEMPTS - attempts.length;
@@ -108,6 +115,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const bestMatch = attempts.length > 0 ? Math.max(...attempts.map(a => a.matches)) : 0;
   const winProb = attempts.length > 0 ? calcWinProbability(bestMatch, players) : null;
   const bestRank = getPrizeRank(bestMatch);
+  const matchPct = (matches: number) => Math.round((matches / 6) * 100);
 
   return (
     <div className={styles.gameWrap}>
@@ -129,7 +137,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Time Left</div>
           <div className={styles.statVal} style={{ color: pct < 20 ? "#dc2626" : "inherit" }}>
-            {timeLeft}
+            {roundOver ? "Round Over" : timeLeft}
           </div>
         </div>
       </div>
@@ -148,7 +156,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         <div>
           <div className={styles.infoLabel}>Hidden answer — locked at round start</div>
           <div className={styles.infoText}>
-            Round ends after 15 mins · {ENTRY_FEE} per attempt · Max {MAX_ATTEMPTS} attempts · Equal scores split the prize!
+            Round ends after 15 mins or when someone wins · {ENTRY_FEE} per attempt · Max {MAX_ATTEMPTS} attempts · Equal scores split the prize!
           </div>
         </div>
         <div className={styles.lockRow}>🔒🔒🔒🔒🔒🔒</div>
@@ -162,7 +170,6 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         <HintBox hints={hints} bestMatch={bestMatch} hasAttempted={attempts.length > 0} />
       )}
 
-      {/* Win probability banner */}
       {winProb !== null && (
         <div style={{
           margin: "0.75rem 0",
@@ -178,7 +185,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         }}>
           <div>
             <div style={{ fontWeight: 700, fontSize: 14 }}>
-              🎯 Your best: {bestMatch}/6 matches
+              🎯 Your best score: {matchPct(bestMatch)}%
               {bestRank > 0 && <span style={{ marginLeft: 8, color: "#f59e0b" }}>→ Rank #{bestRank} prize!</span>}
             </div>
             <div style={{ fontSize: 12, opacity: 0.8, marginTop: 2 }}>
@@ -192,6 +199,12 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         </div>
       )}
 
+      {roundOver && (
+        <div className={styles.maxedBanner} style={{ background: "#16a34a22", borderColor: "#16a34a44", color: "#16a34a" }}>
+          🏆 Round Over! Someone guessed correctly. New round starting soon!
+        </div>
+      )}
+
       {attempts.length > 0 && (
         <div className={styles.attemptsSection}>
           <div className={styles.sectionTitle}>Your attempts</div>
@@ -200,14 +213,14 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
               <span className={styles.attemptNum}>#{i + 1}</span>
               <span className={styles.attemptEmojis}>{a.picks.map(p => EMOJIS[p]).join(" ")}</span>
               <span className={styles.matchBadge} style={{ background: a.matches === 6 ? "#16a34a" : a.matches >= 4 ? "#f59e0b" : "#6b7280" }}>
-                {a.matches}/6 match
+                {matchPct(a.matches)}%
               </span>
             </div>
           ))}
         </div>
       )}
 
-      {!isMaxed && (
+      {!isMaxed && !roundOver && (
         <>
           <div className={styles.sectionTitle}>
             Pick 6 emojis · Attempt {attempts.length + 1} of {MAX_ATTEMPTS}
@@ -246,9 +259,9 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
         </>
       )}
 
-      {isMaxed && (
+      {isMaxed && !roundOver && (
         <div className={styles.maxedBanner}>
-          You've used all {MAX_ATTEMPTS} attempts! Best score: {bestMatch}/6 · Win probability: {winProb?.toFixed(2)}%
+          You've used all {MAX_ATTEMPTS} attempts! Best score: {matchPct(bestMatch)}% · Win probability: {winProb?.toFixed(2)}%
         </div>
       )}
 
