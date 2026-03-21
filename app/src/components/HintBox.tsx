@@ -48,10 +48,10 @@ export default function HintBox({ hints, bestMatch, hasAttempted }: Props) {
               color: showEasy ? "#f59e0b" : "#888",
               border: showEasy ? "0.5px solid #f59e0b44" : "0.5px solid #88888844"
             }}>
-              {showEasy ? "🔓 Bonus Hint" : "🔒 Hint locked"}
+              {showEasy ? "🔓 Bonus Hint" : "🔒 Bonus Hint"}
             </span>
             <span className={styles.riddleTitle}>
-              {showEasy ? "Unlocked — use this to improve your guess" : "Get a low score to unlock a bonus hint"}
+              {showEasy ? "Unlocked — use this to improve your guess" : "🔒 Bonus hint locked"}
             </span>
           </div>
           {showEasy && <span className={styles.chevron}>{easyOpen ? "▲" : "▼"}</span>}
