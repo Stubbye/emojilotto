@@ -36,16 +36,22 @@ function getOrCreateEndTime(duration: number): number {
   return newEndTime;
 }
 
-function loadAttempts(): {picks: number[], matches: number}[] {
+function loadAttempts(roundEndTime: number): {picks: number[], matches: number}[] {
   if (typeof window === "undefined") return [];
   try {
     const stored = localStorage.getItem(ATTEMPTS_KEY);
-    return stored ? JSON.parse(stored) : [];
+    if (!stored) return [];
+    const data = JSON.parse(stored);
+    if (data.roundEnd !== roundEndTime) {
+      localStorage.removeItem(ATTEMPTS_KEY);
+      return [];
+    }
+    return data.attempts || [];
   } catch { return []; }
 }
 
-function saveAttempts(attempts: {picks: number[], matches: number}[]) {
-  localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(attempts));
+function saveAttempts(attempts: {picks: number[], matches: number}[], roundEndTime: number) {
+  localStorage.setItem(ATTEMPTS_KEY, JSON.stringify({ attempts, roundEnd: roundEndTime }));
 }
 
 function clearRound() {
@@ -83,21 +89,25 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   const EMLO_DURATION_MS = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_DURATION_MS || 3600000);
 
   useEffect(() => {
-    const savedAttempts = loadAttempts();
-    setAttempts(savedAttempts);
-    const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
-    if (isOver) setRoundOver(true);
     const et = getOrCreateEndTime(EMLO_DURATION_MS);
     setEndTime(et);
+    const savedAttempts = loadAttempts(et);
+    setAttempts(savedAttempts);
+    const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
+    if (isOver && et <= Date.now()) {
+      setRoundOver(true);
+    } else {
+      localStorage.removeItem(ROUND_OVER_KEY);
+    }
   }, []);
 
   useEffect(() => {
     if (!endTime) return;
     const tick = () => {
       const diff = Math.max(0, endTime - Date.now());
-      const h = Math.floor(diff / 3600000).toString().padStart(2, "00");
-      const m = Math.floor((diff % 3600000) / 60000).toString().padStart(2, "00");
-      const s = Math.floor((diff % 60000) / 1000).toString().padStart(2, "00");
+      const h = Math.floor(diff / 3600000).toString().padStart(2, "0");
+      const m = Math.floor((diff % 3600000) / 60000).toString().padStart(2, "0");
+      const s = Math.floor((diff % 60000) / 1000).toString().padStart(2, "0");
       setTimeLeft(`${h}:${m}:${s}`);
       setPct(Math.round((diff / EMLO_DURATION_MS) * 100));
       if (diff === 0) {
@@ -140,7 +150,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
     const matches = Math.floor(Math.random() * 7);
     const newAttempts = [...attempts, { picks: [...selected], matches }];
     setAttempts(newAttempts);
-    saveAttempts(newAttempts);
+    saveAttempts(newAttempts, endTime);
     setSelected([]);
     setPlayers(p => p + 1);
     setLoading(false);
