@@ -13,15 +13,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npm install -g ts-node typescript
-      - run: npm install @solana/web3.js node-fetch
       - name: Run automator
         env:
-          PROGRAM_ID: ${{ secrets.PROGRAM_ID }}
-          NETWORK: ${{ secrets.NETWORK }}
-          RPC_ENDPOINT: ${{ secrets.RPC_ENDPOINT }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: npx ts-node --skip-ignore --transpile-only scripts/automator.ts
+        run: node scripts/automator.js
       - name: Commit riddles
         run: |
           git config user.email "automator@emojilotto.com"
@@ -29,3 +24,8 @@ jobs:
           git add -f app/src/utils/generatedRiddles.json round-state.json || true
           git diff --staged --quiet || git commit -m "Update riddles and round state"
           git push || true
+```
+
+Then go to:
+```
+https://github.com/Stubbye/emojilotto/new/main/scripts
