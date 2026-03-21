@@ -106,5 +106,23 @@
       19,
       23
     ]
+  },
+  "sol_7": {
+    "hardRiddle": {
+      "text": "Where celestial serpent dances through prismatic weeping, the jester's twin flames pierce the veil of fortune's garden. Between percussion of chance and the archer's eternal mark, fortune blooms in six-fold shadow.",
+      "hint": "One rules the night sky, one breathes chaos, one plays games of fate, one marks targets, one creates music of chance, and one embodies duality of masks and mirth."
+    },
+    "easyRiddle": {
+      "text": "Six treasures of luck: A fire-breather from legends, a night watcher above, a seeker's true aim, a jester's deception, randomness personified, and strings that sing destiny.",
+      "hint": "Dragon, Moon, Target, Joker, Dice, Guitar"
+    },
+    "answer": [
+      13,
+      3,
+      0,
+      19,
+      11,
+      16
+    ]
   }
 }
