@@ -52,5 +52,23 @@
       18,
       19
     ]
+  },
+  "emlo_2": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving a blazing trail. My lucky charm sparkles with gem-like brilliance, while fortune spins like a joker's wheel. What am I?",
+      "hint": "Think of a memecoin's journey to success with symbols of luck and speed"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ is fast, 💎 is precious, 🌙 is the goal, 🔥 is hot, ✨ is magic. Put them together for crypto success!",
+      "hint": "All six emojis describe a memecoin's path to the moon"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      6,
+      10
+    ]
   }
 }
