@@ -1,0 +1,20 @@
+{
+  "sol_1": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in shadow's claim. The jester's twin births chaos bright, while scaled ambition takes its flight. Petals weep beneath the storm, as crystalline fortune finds its form. Seek the center, seek the crown, where luck's own music spirals down.",
+      "hint": "One points the way, one lights the night, one mocks the seeker, one roars in might, one blooms in sorrow, one refracts all light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's soul: a target's aim, a dragon's goal, a flower's tear, a joker's jest, a crystal's gleam, and lightning's test. Which six align when fortune calls?",
+      "hint": "Think of direction, mythology, nature, deception, precious things, and raw power."
+    },
+    "answer": [
+      0,
+      4,
+      14,
+      19,
+      20,
+      21
+    ]
+  }
+}
