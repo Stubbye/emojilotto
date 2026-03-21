@@ -12,7 +12,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
       - run: npm install -g ts-node typescript
       - run: npm install @solana/web3.js node-fetch
       - name: Run automator
