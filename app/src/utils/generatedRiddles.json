@@ -16,5 +16,23 @@
       20,
       21
     ]
+  },
+  "sol_2": {
+    "hardRiddle": {
+      "text": "Through celestial gates where fortune's children dance, six sentinels guard the liminal trance. The archer's eye pierces void's embrace, while the winged ascends to claim its place. Where crystalline depths meet the jester's grin, and thunder splits the veil of skin. Behold the bloom that knows no season, as spectral fire speaks in reason.",
+      "hint": "One aims true, one defies gravity, one laughs at fate, one illuminates darkness, one endures forever, one awakens wonder."
+    },
+    "easyRiddle": {
+      "text": "I see the bullseye and the stars align. A rocket soars while gems crystalline shine. Lightning strikes near a joker's wild grin. A flower blooms where all dreams begin.",
+      "hint": "Find the marksman, the astronomer's light, the precious stone, the trickster, the spark, and nature's beauty."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      5,
+      14
+    ]
   }
 }
