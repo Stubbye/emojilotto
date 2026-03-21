@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useWallet } from "@solana/wallet-adapter-react";
 import styles from "./Game.module.css";
 import HintBox from "./HintBox";
@@ -74,35 +74,6 @@ function getPrizeRank(matches: number): number {
   return 0;
 }
 
-function startCooldown(
-  setRoundOver: (v: boolean) => void,
-  setAttempts: (v: any) => void,
-  setPrizePool: (v: any) => void,
-  setPlayers: (v: any) => void,
-  setEndTime: (v: number) => void,
-  setCooldownLeft: (v: number) => void,
-  duration: number
-) {
-  let cd = COOLDOWN_MS;
-  setCooldownLeft(cd);
-  const cdInterval = setInterval(() => {
-    cd -= 1000;
-    setCooldownLeft(cd);
-    if (cd <= 0) {
-      clearInterval(cdInterval);
-      clearRound();
-      setAttempts([]);
-      setRoundOver(false);
-      setPrizePool(5);
-      setPlayers(0);
-      const newEnd = Date.now() + duration;
-      localStorage.setItem(ROUND_END_KEY, String(newEnd));
-      setEndTime(newEnd);
-      setCooldownLeft(0);
-    }
-  }, 1000);
-}
-
 export default function UsdcGame({ dark }: { dark: boolean }) {
   const wallet = useWallet();
   const [selected, setSelected] = useState<number[]>([]);
@@ -115,6 +86,33 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
   const [endTime, setEndTime] = useState<number>(0);
   const [roundOver, setRoundOver] = useState(false);
   const [cooldownLeft, setCooldownLeft] = useState(0);
+  const cooldownStarted = useRef(false);
+
+  const triggerCooldown = () => {
+    if (cooldownStarted.current) return;
+    cooldownStarted.current = true;
+    localStorage.setItem(ROUND_OVER_KEY, "true");
+    setRoundOver(true);
+    let cd = COOLDOWN_MS;
+    setCooldownLeft(cd);
+    const cdInterval = setInterval(() => {
+      cd -= 1000;
+      setCooldownLeft(cd);
+      if (cd <= 0) {
+        clearInterval(cdInterval);
+        clearRound();
+        setAttempts([]);
+        setRoundOver(false);
+        setPrizePool(5);
+        setPlayers(0);
+        cooldownStarted.current = false;
+        const newEnd = Date.now() + ROUND_DURATION;
+        localStorage.setItem(ROUND_END_KEY, String(newEnd));
+        setEndTime(newEnd);
+        setCooldownLeft(0);
+      }
+    }, 1000);
+  };
 
   useEffect(() => {
     const et = getOrCreateEndTime();
@@ -123,8 +121,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
     setAttempts(savedAttempts);
     const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
     if (isOver) {
-      setRoundOver(true);
-      startCooldown(setRoundOver, setAttempts, setPrizePool, setPlayers, setEndTime, setCooldownLeft, ROUND_DURATION);
+      triggerCooldown();
     }
   }, []);
 
@@ -138,9 +135,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
       setTimeLeft(`${h}:${m}:${s}`);
       setPct(Math.round((diff / ROUND_DURATION) * 100));
       if (diff === 0) {
-        localStorage.setItem(ROUND_OVER_KEY, "true");
-        setRoundOver(true);
-        startCooldown(setRoundOver, setAttempts, setPrizePool, setPlayers, setEndTime, setCooldownLeft, ROUND_DURATION);
+        triggerCooldown();
       }
     };
     tick();
@@ -169,9 +164,7 @@ export default function UsdcGame({ dark }: { dark: boolean }) {
     setLoading(false);
 
     if (matches === 6) {
-      localStorage.setItem(ROUND_OVER_KEY, "true");
-      setRoundOver(true);
-      startCooldown(setRoundOver, setAttempts, setPrizePool, setPlayers, setEndTime, setCooldownLeft, ROUND_DURATION);
+      triggerCooldown();
     }
   };
 
