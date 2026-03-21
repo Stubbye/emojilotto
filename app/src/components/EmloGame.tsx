@@ -8,10 +8,12 @@ import { getHintsForRound } from "../utils/riddles";
 const EMOJIS = ["🎯","🚀","💎","🌙","⚡","🔥","🎪","🦋","🌈","💫","🎲","🃏","🦊","🐉","🌺","💜","🎸","🏆","🎭","🍀","🔮","⭐","🎨","🌊"];
 const MAX_ATTEMPTS = 2;
 const BET_AMOUNT = "500 EMLO";
-const PRIZE_POOL_TOTAL = 50000;
 const PRIZE_POOL_DISPLAY = "50,000 EMLO";
 const ROUND_ID = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_ID || "1");
 const ROUND_END_KEY = "emlo_round_end";
+const ATTEMPTS_KEY = "emlo_attempts";
+const ROUND_OVER_KEY = "emlo_round_over";
+const COOLDOWN_MS = 60000;
 
 const PRIZE_TABLE = [
   { rank: "🥇 1st", pct: 50, tokens: "25,000 EMLO" },
@@ -32,6 +34,24 @@ function getOrCreateEndTime(duration: number): number {
   const newEndTime = Date.now() + duration;
   localStorage.setItem(ROUND_END_KEY, String(newEndTime));
   return newEndTime;
+}
+
+function loadAttempts(): {picks: number[], matches: number}[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const stored = localStorage.getItem(ATTEMPTS_KEY);
+    return stored ? JSON.parse(stored) : [];
+  } catch { return []; }
+}
+
+function saveAttempts(attempts: {picks: number[], matches: number}[]) {
+  localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(attempts));
+}
+
+function clearRound() {
+  localStorage.removeItem(ROUND_END_KEY);
+  localStorage.removeItem(ATTEMPTS_KEY);
+  localStorage.removeItem(ROUND_OVER_KEY);
 }
 
 function calcWinProbability(matches: number, players: number): number {
@@ -57,10 +77,16 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   const [players, setPlayers] = useState(0);
   const [loading, setLoading] = useState(false);
   const [endTime, setEndTime] = useState<number>(0);
+  const [roundOver, setRoundOver] = useState(false);
+  const [cooldownLeft, setCooldownLeft] = useState(0);
 
   const EMLO_DURATION_MS = Number(process.env.NEXT_PUBLIC_EMLO_ROUND_DURATION_MS || 3600000);
 
   useEffect(() => {
+    const savedAttempts = loadAttempts();
+    setAttempts(savedAttempts);
+    const isOver = localStorage.getItem(ROUND_OVER_KEY) === "true";
+    if (isOver) setRoundOver(true);
     const et = getOrCreateEndTime(EMLO_DURATION_MS);
     setEndTime(et);
   }, []);
@@ -69,12 +95,31 @@ export default function EmloGame({ dark }: { dark: boolean }) {
     if (!endTime) return;
     const tick = () => {
       const diff = Math.max(0, endTime - Date.now());
-      const h = Math.floor(diff / 3600000).toString().padStart(2, "0");
-      const m = Math.floor((diff % 3600000) / 60000).toString().padStart(2, "0");
-      const s = Math.floor((diff % 60000) / 1000).toString().padStart(2, "0");
+      const h = Math.floor(diff / 3600000).toString().padStart(2, "00");
+      const m = Math.floor((diff % 3600000) / 60000).toString().padStart(2, "00");
+      const s = Math.floor((diff % 60000) / 1000).toString().padStart(2, "00");
       setTimeLeft(`${h}:${m}:${s}`);
       setPct(Math.round((diff / EMLO_DURATION_MS) * 100));
-      if (diff === 0) localStorage.removeItem(ROUND_END_KEY);
+      if (diff === 0) {
+        localStorage.setItem(ROUND_OVER_KEY, "true");
+        setRoundOver(true);
+        let cd = COOLDOWN_MS;
+        const cdInterval = setInterval(() => {
+          cd -= 1000;
+          setCooldownLeft(cd);
+          if (cd <= 0) {
+            clearInterval(cdInterval);
+            clearRound();
+            setAttempts([]);
+            setRoundOver(false);
+            setPlayers(0);
+            const newEnd = Date.now() + EMLO_DURATION_MS;
+            localStorage.setItem(ROUND_END_KEY, String(newEnd));
+            setEndTime(newEnd);
+            setCooldownLeft(0);
+          }
+        }, 1000);
+      }
     };
     tick();
     const id = setInterval(tick, 1000);
@@ -82,21 +127,37 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   }, [endTime]);
 
   const toggleEmoji = (idx: number) => {
-    if (attempts.length >= MAX_ATTEMPTS) return;
+    if (attempts.length >= MAX_ATTEMPTS || roundOver) return;
     setSelected(prev =>
       prev.includes(idx) ? prev.filter(x => x !== idx) : prev.length < 6 ? [...prev, idx] : prev
     );
   };
 
   const submitEntry = async () => {
-    if (!wallet.connected || selected.length !== 6) return;
+    if (!wallet.connected || selected.length !== 6 || roundOver) return;
     setLoading(true);
     await new Promise(r => setTimeout(r, 1500));
     const matches = Math.floor(Math.random() * 7);
-    setAttempts(prev => [...prev, { picks: [...selected], matches }]);
+    const newAttempts = [...attempts, { picks: [...selected], matches }];
+    setAttempts(newAttempts);
+    saveAttempts(newAttempts);
     setSelected([]);
     setPlayers(p => p + 1);
     setLoading(false);
+
+    if (matches === 6) {
+      localStorage.setItem(ROUND_OVER_KEY, "true");
+      setRoundOver(true);
+      setTimeout(() => {
+        clearRound();
+        setAttempts([]);
+        setRoundOver(false);
+        setPlayers(0);
+        const newEnd = Date.now() + EMLO_DURATION_MS;
+        localStorage.setItem(ROUND_END_KEY, String(newEnd));
+        setEndTime(newEnd);
+      }, COOLDOWN_MS);
+    }
   };
 
   const isMaxed = attempts.length >= MAX_ATTEMPTS;
@@ -104,6 +165,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
   const bestMatch = attempts.length > 0 ? Math.max(...attempts.map(a => a.matches)) : 0;
   const winProb = attempts.length > 0 ? calcWinProbability(bestMatch, players) : null;
   const bestRank = getPrizeRank(bestMatch);
+  const matchPct = (matches: number) => Math.round((matches / 6) * 100);
 
   return (
     <div className={styles.gameWrap}>
@@ -133,7 +195,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         <div className={styles.statCard}>
           <div className={styles.statLabel}>Time Left</div>
           <div className={styles.statVal} style={{ color: pct < 20 ? "#dc2626" : "inherit" }}>
-            {timeLeft}
+            {roundOver ? cooldownLeft > 0 ? `New round in ${Math.ceil(cooldownLeft/1000)}s` : "Round Over" : timeLeft}
           </div>
         </div>
       </div>
@@ -146,7 +208,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         <div>
           <div className={styles.infoLabel}>Hidden answer · Max {MAX_ATTEMPTS} attempts per player</div>
           <div className={styles.infoText}>
-            {BET_AMOUNT} per attempt · IP tracked · Equal scores split prize equally
+            {BET_AMOUNT} per attempt · Equal scores split prize equally
           </div>
         </div>
         <div className={styles.lockRow}>🔒🔒🔒🔒🔒🔒</div>
@@ -156,7 +218,6 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         <HintBox hints={hints} bestMatch={bestMatch} hasAttempted={attempts.length > 0} />
       )}
 
-      {/* Win probability banner */}
       {winProb !== null && (
         <div style={{
           margin: "0.75rem 0",
@@ -172,7 +233,7 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         }}>
           <div>
             <div style={{ fontWeight: 700, fontSize: 14 }}>
-              🎯 Your best: {bestMatch}/6 matches
+              🎯 Your best score: {matchPct(bestMatch)}%
               {bestRank > 0 && <span style={{ marginLeft: 8, color: "#f59e0b" }}>→ Rank #{bestRank} prize!</span>}
             </div>
             <div style={{ fontSize: 12, opacity: 0.8, marginTop: 2 }}>
@@ -186,6 +247,12 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         </div>
       )}
 
+      {roundOver && (
+        <div className={styles.maxedBanner} style={{ background: "#9945FF22", borderColor: "#9945FF44", color: "#9945FF" }}>
+          🏆 Round Over! {cooldownLeft > 0 ? `New round starting in ${Math.ceil(cooldownLeft/1000)} seconds...` : "New round starting soon!"}
+        </div>
+      )}
+
       {attempts.length > 0 && (
         <div className={styles.attemptsSection}>
           <div className={styles.sectionTitle}>Your attempts</div>
@@ -194,14 +261,14 @@ export default function EmloGame({ dark }: { dark: boolean }) {
               <span className={styles.attemptNum}>#{i + 1}</span>
               <span className={styles.attemptEmojis}>{a.picks.map(p => EMOJIS[p]).join(" ")}</span>
               <span className={styles.matchBadge} style={{ background: a.matches === 6 ? "#16a34a" : a.matches >= 4 ? "#f59e0b" : "#6b7280" }}>
-                {a.matches}/6 match
+                {matchPct(a.matches)}%
               </span>
             </div>
           ))}
         </div>
       )}
 
-      {!isMaxed && (
+      {!isMaxed && !roundOver && (
         <>
           <div className={styles.sectionTitle}>
             Pick 6 emojis · Attempt {attempts.length + 1} of {MAX_ATTEMPTS}
@@ -240,9 +307,9 @@ export default function EmloGame({ dark }: { dark: boolean }) {
         </>
       )}
 
-      {isMaxed && (
+      {isMaxed && !roundOver && (
         <div className={styles.maxedBanner}>
-          You've used all {MAX_ATTEMPTS} attempts! Best score: {bestMatch}/6 · Win probability: {winProb?.toFixed(2)}%
+          You've used all {MAX_ATTEMPTS} attempts! Best score: {matchPct(bestMatch)}% · Win probability: {winProb?.toFixed(2)}%
         </div>
       )}
 
