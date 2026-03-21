@@ -70,5 +70,23 @@
       6,
       10
     ]
+  },
+  "sol_5": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and chaos sings through crystalline strings, the jester's twin souls leap betwixt the blazing target and ethereal wings. Fortune spins where lightning meets the gemstone's gleam, and laughter echoes in purple dreams.",
+      "hint": "One plays music, one plays chance. One flies with grace, one burns with stance. Precious stones and royal hue, with masked madness shining through."
+    },
+    "easyRiddle": {
+      "text": "A musician's magic instrument, a jeweled prize of great value, a colored regal shade, a fool's grinning face, swift electricity's path, and winged creature of beauty—find these six treasures.",
+      "hint": "Think of: something you play, something precious, something purple, someone who jokes, something that strikes, something with wings."
+    },
+    "answer": [
+      16,
+      2,
+      19,
+      18,
+      4,
+      8
+    ]
   }
 }
