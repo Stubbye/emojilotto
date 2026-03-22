@@ -682,5 +682,41 @@
       4,
       13
     ]
+  },
+  "sol_32": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six dancers twirl in chaos' sacred space. The trickster grins as lightning splits the veil, while gemstone hearts and wings of silk prevail. Through prismed light the masked performance gleams, six whispers carved from destiny's own dreams.",
+      "hint": "One points the way, one rules the night, one sparkles truth, one tricks the sight, one burns with wit, one floats so free."
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance: the mark that aims true, the night's pale orb that watches you, the stone that catches every ray, the jester's grin that leads astray, the bolt that cracks the sky in two, and delicate wings in morning dew.",
+      "hint": "Think of aim, sky, value, trickery, power, and nature's beauty."
+    },
+    "answer": [
+      0,
+      2,
+      7,
+      12,
+      13,
+      20
+    ]
+  },
+  "emlo_15": {
+    "hardRiddle": {
+      "text": "A trickster's fortune gleams with electric dreams, where celestial prizes ignite the flames of lucky chance. The jester grins as treasures sparkle beyond reach, while swift messengers race through the cosmic glow.",
+      "hint": "Think of the tools of gambling, the symbols of wealth, and the speed of fortune in the crypto night sky."
+    },
+    "easyRiddle": {
+      "text": "Joker laughs, rocket flies, gem shines bright. Lightning strikes, fire burns, sparkles light the night!",
+      "hint": "Count the six things mentioned in the riddle - they're all symbols of luck and speed."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
