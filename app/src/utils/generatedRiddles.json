@@ -160,5 +160,41 @@
       2,
       8
     ]
+  },
+  "sol_10": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin masks, and the scaled wanderer guards the prism of dreams—seek the trembling wings that kiss the archer's mark beneath the storm's electric tongue.",
+      "hint": "One brings chaos, one brings luck, one is mythical, one is delicate, one is aimed, one is bright."
+    },
+    "easyRiddle": {
+      "text": "A dragon guards gems under starlight, lightning strikes near a butterfly's dance, and fire meets the target's gaze.",
+      "hint": "Count the magical creatures, shiny things, and natural forces."
+    },
+    "answer": [
+      2,
+      13,
+      7,
+      21,
+      0,
+      5
+    ]
+  },
+  "emlo_5": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar peak, my electric surge makes fortunes seek. Gem-like sparkles dance in fire's glow, while fortune's jester claims the show. What six celestial tokens flow?",
+      "hint": "One takes you up, one shines bright, one sparkles with magic light, one's lucky and wild, one burns with might, one's the prize in this memecoin fight."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 💎 is precious, 🔥 burns light, ⚡ strikes fast, 🃏 brings luck. Which six emojis are in our lucky truck?",
+      "hint": "Look for: rocket, sparkles, gem, fire, lightning, and the joker card."
+    },
+    "answer": [
+      1,
+      10,
+      2,
+      5,
+      4,
+      19
+    ]
   }
 }
