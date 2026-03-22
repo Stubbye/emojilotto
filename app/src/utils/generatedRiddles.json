@@ -610,5 +610,23 @@
       18,
       8
     ]
+  },
+  "emlo_13": {
+    "hardRiddle": {
+      "text": "I chase the celestial dreams with electric speed, gaining gemstone value while dancing through chaos. My fox-like cunning navigates the fire of volatility, seeking the trophy under rainbow skies where lightning strikes fortune.",
+      "hint": "Think of the journey to wealth in the crypto world - the destination, the energy, the rewards, the unpredictability, the cunning, and the celebration."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we fly with ⚡ speed, collecting 💎 treasures. The 🦊 uses cunning, 🔥 fuels the rise, and 🏆 awaits the winners.",
+      "hint": "These 6 emojis represent moon, lightning, gem, fox, fire, and trophy - essential elements of a memecoin adventure."
+    },
+    "answer": [
+      3,
+      5,
+      2,
+      13,
+      6,
+      18
+    ]
   }
 }
