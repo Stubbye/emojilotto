@@ -304,5 +304,41 @@
       21,
       22
     ]
+  },
+  "sol_15": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six seekers dance in twilight's desire. The jester's heart beats with dragon's flame, while gemstone echoes through lightning's claim. Upon the crescent stage, a butterfly takes flight, and crystal tears fall soft through the night.",
+      "hint": "Look for the trickster, the winged one, the precious stone, the curved guardian, the performer, and the bright messenger of chaos."
+    },
+    "easyRiddle": {
+      "text": "I aim for luck, burn bright with chance, sparkle with value, rule the night sky, transform with grace, and amplify storms. Six of us shape your destiny.",
+      "hint": "Think of: something pointed, something valuable, something that glows, something nocturnal, something that metamorphoses, and something electrical."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      3,
+      8,
+      4
+    ]
+  },
+  "emlo_8": {
+    "hardRiddle": {
+      "text": "I chase the celestial glow with electric speed, while gems sparkle at my treasure. A jester's luck guides my flight through flames of fortune, and a mystic dragon guards my rainbow path to victory.",
+      "hint": "Think of a memecoin's journey: speed, value, chance, mystique, fortune's colors, and ultimate triumph."
+    },
+    "easyRiddle": {
+      "text": "To the moon with a rocket blast! Lightning fast gains! Diamonds shine bright! Magic sparkles dance! A dragon watches over it all! And the trophy waits for winners!",
+      "hint": "A typical memecoin adventure includes speed, riches, luck, magic, guardians, and rewards."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      10,
+      14,
+      18
+    ]
   }
 }
