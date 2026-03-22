@@ -556,5 +556,41 @@
       13,
       5
     ]
+  },
+  "sol_25": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet void, a gemstone sings in celestial fire. The trickster's grin meets the nine-tailed witness, while chaos dances in crystalline splendor beneath the archer's mark.",
+      "hint": "One brings wealth, one brings light, one brings deception, one brings wisdom, one brings storms, one brings eternal brilliance."
+    },
+    "easyRiddle": {
+      "text": "I am precious and gleaming. I live in darkness above. I strike without warning. I wear many faces and deceive. I am clever and sly. I am hard and eternal.",
+      "hint": "Think of: treasure, night sky, weather, theater, animals, and minerals."
+    },
+    "answer": [
+      2,
+      3,
+      5,
+      18,
+      13,
+      20
+    ]
+  },
+  "emlo_12": {
+    "hardRiddle": {
+      "text": "A jester's fortune rides the cosmic flame, chasing luminous dreams through electric veins. Where luck strikes like a bolt from above, and precious stones ignite the fire of devotion.",
+      "hint": "Think of a memecoin journey: chaos, speed, wealth, destiny, fortune, and energy converge."
+    },
+    "easyRiddle": {
+      "text": "🎪 starts the show, 🚀 goes up fast, 💎 is treasure, ⚡ is power, 🔥 is hot, and 🌙 is the goal.",
+      "hint": "A memecoin's path: entertainment, launch, riches, speed, intensity, and the final destination."
+    },
+    "answer": [
+      7,
+      1,
+      2,
+      4,
+      5,
+      3
+    ]
   }
 }
