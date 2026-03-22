@@ -484,5 +484,41 @@
       8,
       9
     ]
+  },
+  "sol_22": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins beneath the celestial sentinel, six whispers dance through chaos: the archer's aim pierces infinity's veil, while the serpent of heaven coils through tempest's song. A prism refracts what burns eternal, and delicate wings mirror the bridge of exile. Thunder's child and the jester's masked truth complete the riddle's thrall.",
+      "hint": "One guides direction, one ascends beyond, one refracts light, one transforms through air, one speaks of power, one reveals deception."
+    },
+    "easyRiddle": {
+      "text": "I need six symbols for luck: something that aims true, something that flies high, something that sparkles, something that glows at night, something that brings fortune, and something that dances in the sky.",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and rainbows—pick six that feel lucky."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
+  },
+  "emlo_11": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive energy, guided by fortune's sparkle. A mystical creature guards my treasure while chaos dances with luck. What am I?",
+      "hint": "Think of memecoin culture: where we're going, what we hold, and the wild ride to get there"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, 💎 shines bright, ⚡ strikes with ✨, and 🍀 brings luck. These 6 symbols define the memecoin dream!",
+      "hint": "Count the emojis mentioned in the riddle itself"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      9,
+      19,
+      20
+    ]
   }
 }
