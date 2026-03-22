@@ -430,5 +430,41 @@
       11,
       14
     ]
+  },
+  "sol_20": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a gemstone catches light that never was. The winged dancer pirouettes through storms of radiance, while masked performers jest beneath the celestial fire that splits the sky. In this carnival of chance, the serpent coils around the pinnacle of glory.",
+      "hint": "One points, one shines, one transforms, one laughs, one conquers, one burns from above."
+    },
+    "easyRiddle": {
+      "text": "I aim for prizes, I glow beneath night's veil, I sparkle and precious, I dance with wings bright, I perform with laughter, I reign victorious, and I strike with fierce light.",
+      "hint": "Target, gem, moon, butterfly, joker, trophy, lightning"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      18,
+      4
+    ]
+  },
+  "emlo_10": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's fire. A jester's luck guides my path through prismatic waves, while a mythical beast guards the treasure. What six symbols define this memecoin journey?",
+      "hint": "Think of the moon, speed, luck, magic, fortune, and legendary power."
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! ⚡ Fast as lightning, lucky as a joker, shiny as crystals, guided by a dragon, riding rainbow waves, and blessed with stars.",
+      "hint": "Count: moon, lightning, joker, crystal, dragon, rainbow, star"
+    },
+    "answer": [
+      1,
+      4,
+      19,
+      20,
+      13,
+      21
+    ]
   }
 }
