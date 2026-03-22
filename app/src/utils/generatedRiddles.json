@@ -358,5 +358,41 @@
       1,
       8
     ]
+  },
+  "sol_17": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, and twin serpents dance in prismatic light, the jester's grin echoes through chambers of crystalline fate. Six guardians converge: the hunter's cunning mask, the winged messenger of transformation, the gemstone of dreams, the celestial orb of night, the instrument of ethereal souls, and the spark that devours all. In their union lies the threshold between chaos and destiny.",
+      "hint": "Think of trickery, nature's metamorphosis, wealth, darkness, art, and destruction's kiss."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of fortune's dance: a cunning creature of the forest, a jewel that sparkles bright, a gem of night that glows, a stringed voice of magic, the flash of nature's fury, and the wild beast of ancient tales.",
+      "hint": "Look for: an animal with tricks, something valuable and shiny, the night sky, music, energy, and mythology."
+    },
+    "answer": [
+      13,
+      8,
+      2,
+      3,
+      16,
+      14
+    ]
+  },
+  "emlo_9": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar peak, where crystalline fortunes spark with electric magic, leaving a trail of shimmer in the wake.",
+      "hint": "Think of gambling, space travel, wealth, electricity, and two things that sparkle or shimmer"
+    },
+    "easyRiddle": {
+      "text": "The funny one throws coins at the rocket heading to the moon. Gems shine bright with electricity and sparkles all around.",
+      "hint": "Count: a card character, a vehicle, a destination, a precious stone, and two shiny things"
+    },
+    "answer": [
+      11,
+      1,
+      3,
+      2,
+      9,
+      10
+    ]
   }
 }
