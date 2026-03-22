@@ -142,5 +142,23 @@
       0,
       6
     ]
+  },
+  "sol_9": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances with celestial flame, a prism splits the void. The scaled leviathan guards the glowing heart, while wings of metamorphosis flutter through the archer's eternal mark. Seven-pointed brilliance crowns this quest of chance.",
+      "hint": "Think of transformation, luck, sky, fire, gems, and fate's symbol"
+    },
+    "easyRiddle": {
+      "text": "A joker laughs, a dragon dreams, a star ignites. Fire meets the gem's bright light. A butterfly transforms near the target's sight.",
+      "hint": "Joker, dragon, star, fire, gem, butterfly, target - pick the right six"
+    },
+    "answer": [
+      19,
+      14,
+      21,
+      6,
+      2,
+      8
+    ]
   }
 }
