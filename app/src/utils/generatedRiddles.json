@@ -394,5 +394,23 @@
       9,
       10
     ]
+  },
+  "sol_18": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the gemstone's twin gleams eternal. The jester's masked dance between fortune's wheel and nature's gilded wings reveals the path where fortunes crystallize beneath the vault of forever. Six sentinels guard the liminal threshold where spectrum bends and destiny sparkles.",
+      "hint": "One reflects light itself, one spins chance, one wears two faces, one soars with nature, one dwells in sky's crown, one shatters into brilliance"
+    },
+    "easyRiddle": {
+      "text": "I contain: a precious stone that catches light, a playful trickster in disguise, something that dances in the night sky, a delicate insect's grace, a wheel of chance and fortune, and the very sparkle of magic itself.",
+      "hint": "Think of jewels, jesters, the moon, flying creatures, games, and shimmer"
+    },
+    "answer": [
+      2,
+      11,
+      12,
+      8,
+      3,
+      10
+    ]
   }
 }
