@@ -286,5 +286,23 @@
       4,
       13
     ]
+  },
+  "sol_14": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger of metamorphosis spirals through gem-adorned darkness, seeking the archer's mark beneath prismatic veils of chaos.",
+      "hint": "Think of transformation, chance, and celestial navigation intertwined with precious light."
+    },
+    "easyRiddle": {
+      "text": "Find the moon's fire, the butterfly's gem, the joker's target, the lightning's dance, and the star's sparkle.",
+      "hint": "One shines at night, one transforms, one is precious, one brings laughter, one strikes fast, one glows eternally."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      21,
+      22
+    ]
   }
 }
