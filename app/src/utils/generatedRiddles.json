@@ -646,5 +646,41 @@
       18,
       8
     ]
+  },
+  "sol_30": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six dancers twirl in destiny's space. The jester's laugh echoes through gemstone halls, while celestial fire paints luck's crimson walls. Through prisms of chance, the masked truth gleams—reality bends in the dragon's dreams.",
+      "hint": "Consider what guides fate, what entertains chaos, what illuminates darkness, what represents both danger and rebirth, what conceals identity, and what transforms the ordinary into the magical."
+    },
+    "easyRiddle": {
+      "text": "A target guides your aim, a rocket chases the moon, a joker deals the cards, a dragon guards the fire, a mask hides the face, and a gem shines bright. Which six shape the lottery's night?",
+      "hint": "Look for aim, night sky, entertainment, mythical power, concealment, and value."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      13,
+      18,
+      21
+    ]
+  },
+  "emlo_14": {
+    "hardRiddle": {
+      "text": "I launch to heights where few can see, a gem that sparkles wild and free. Lightning strikes when I ignite, fire burns through moon's pale light. Dance like butterflies in flight, where rockets meet the dragon's might.",
+      "hint": "Follow the path of explosive growth and mythical ascension"
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon, gems sparkle bright, dragons swoon. Lightning and fire light the way, where will the memecoin go today?",
+      "hint": "Think of going to the moon with explosive power"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      13
+    ]
   }
 }
