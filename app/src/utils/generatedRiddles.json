@@ -520,5 +520,23 @@
       19,
       20
     ]
+  },
+  "sol_23": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge: the archer's distant mark gleams, swift vessel pierces the void's breath, crystalline tears of earth catch starlight's kiss, lunar sentinel watches from obsidian throne, tempest's fury crackles through destiny's veil, and nature's winged metamorphosis spirals between worlds. Count the echoes where chaos meets precision.",
+      "hint": "One ascends, one descends, one glimmers, one burns, one floats, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance await: a bullseye dream, a ship to the stars, a gem that sparkles, the night's guardian, electricity's strike, and a creature reborn. Which six light the path?",
+      "hint": "Think of targets, space travel, treasure, night sky, storms, and metamorphosis."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
