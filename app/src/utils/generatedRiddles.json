@@ -790,5 +790,41 @@
       4,
       5
     ]
+  },
+  "sol_37": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, six sentinels of fate converge in twilight's maze. The jester's masked visage guards the threshold where radiance shatters into prismatic rain, while wings of transformation dance between the storming fury and the gemstone's ancient chain. Seek the golden echo that crowns the victor's pain.",
+      "hint": "One aims, one laughs, one shines, one transforms, one electrifies, one glimmers"
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of chance: one aims straight, one makes us laugh, one sparkles bright, one has delicate wings, one crackles with power, and one glows like a precious stone. Find us all to win the lottery's divine grace.",
+      "hint": "Target, Joker, Sparkles, Butterfly, Lightning, Gem"
+    },
+    "answer": [
+      0,
+      12,
+      10,
+      8,
+      5,
+      2
+    ]
+  },
+  "emlo_17": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, gems sparkle as fortune dances wildly, while dragons guard the treasure and flames consume doubt, all blessed by fortune's symbol",
+      "hint": "Think of a memecoin's journey: launch, luck, chaos, fire, and mythical guardians"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, a gem shines bright, lightning strikes fast, fire burns hot, a dragon roars, and a clover brings luck",
+      "hint": "These are the symbols of every crypto moonshot dream"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      19
+    ]
   }
 }
