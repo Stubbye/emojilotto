@@ -826,5 +826,23 @@
       13,
       19
     ]
+  },
+  "sol_38": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, the trickster grins beneath the seven-colored arc. The stone of eternity whispers with the dancer's grace, while thunder crowns the jester's crimson gaze. Seek the prismatic guardian and the fortune-telling bones that waltz with laughter in the cosmic wheel.",
+      "hint": "One marks the goal, one ignites dreams, one glimmers with truth, one lights the night, one splits the sky, one deceives with joy."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in darkness: a target glows, a rocket soars, a gem shines, a moon rises, lightning strikes, and a joker laughs. Can you find them all?",
+      "hint": "Look for: aim, flight, sparkle, night, electricity, and mischief."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
