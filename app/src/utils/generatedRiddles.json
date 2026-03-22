@@ -538,5 +538,23 @@
       4,
       8
     ]
+  },
+  "sol_24": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six entities converge in twilight's trance. The archer's mark gleams with stolen starlight, while wings of transformation flutter through spectrum's flight. A serpent of ages coils near the void's crown, and fortune's jester grins as lightning burns the town.",
+      "hint": "Seek the conjunction of aim, brilliance, flight, myth, chaos, and chance beneath night's veil."
+    },
+    "easyRiddle": {
+      "text": "I aim for glory with a shining heart. Wings carry beauty as colors depart. Ancient power coils while laughter breaks through. Lightning strikes fortune—these six are true.",
+      "hint": "Target, gem, butterfly, rainbow, dragon, lightning, and joker walk into luck."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      14,
+      13,
+      5
+    ]
   }
 }
