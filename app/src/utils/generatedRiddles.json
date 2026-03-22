@@ -736,5 +736,23 @@
       15,
       9
     ]
+  },
+  "sol_34": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the archer's mark gleams in prismatic chains. A winged metamorphosis spirals through radiant threads, while the storm's electric tongue licks the threshold between chaos and destiny. Seek six that waltz in shadow and starlight.",
+      "hint": "Consider what rises, what transforms, what splits light, what strikes with fury, what amuses through deception, and what targets precision."
+    },
+    "easyRiddle": {
+      "text": "I glow above at night, I strike with electricity, I shimmer in many colors, I sparkle like gems, I change from crawler to flyer, and I always hit the mark.",
+      "hint": "Think of the sky, weather, precious light displays, and lucky games."
+    },
+    "answer": [
+      1,
+      4,
+      9,
+      5,
+      8,
+      0
+    ]
   }
 }
