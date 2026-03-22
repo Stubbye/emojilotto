@@ -592,5 +592,23 @@
       5,
       3
     ]
+  },
+  "sol_26": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, and gemstone whispers dance with lightning's claim. The dragon's twin ascends through prismatic veils, while masked performers pirouette through crystalline trails. In this hexad of fate, the butterfly converges where chaos and brilliance eternally diverge.",
+      "hint": "Consider symbols of chance, power, and transformation—one guides arrows to destiny, one burns with sky's fury, one refracts all colors, one coils with ancient wisdom, one masks identity, and one transforms in metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "Six treasures spin in fortune's wheel: a flying gem, a sky-fire kiss, a scaled serpent's hiss, a masked jest, a metamorphic wish, and light split into every dish.",
+      "hint": "Think of lottery luck: aim true, strike bright, find jewels, embrace magic, laugh at fate, and watch colors bloom."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      13,
+      18,
+      8
+    ]
   }
 }
