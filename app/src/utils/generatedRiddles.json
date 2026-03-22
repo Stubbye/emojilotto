@@ -772,5 +772,23 @@
       8,
       11
     ]
+  },
+  "sol_36": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six sentinels guard the threshold between chaos and mastery. The archer's mark meets the void's pale guardian, while twin flames of chance ignite—one born of sky's fury, one of primal consumption. Grace takes wing through metamorphosis, and triumph's golden vessel awaits those who navigate the jester's sacred geometry.",
+      "hint": "Seek the intersection of aim and destiny, light and shadow, transformation and victory."
+    },
+    "easyRiddle": {
+      "text": "I contain a bullseye for precision, a silent watcher in darkness, precious value, nature's fierce appetite, electricity's strike, and a creature of magnificent fortune. What six treasures complete the circle?",
+      "hint": "Think of targets, night sky, wealth, predators, weather, and legendary beasts."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      4,
+      5
+    ]
   }
 }
