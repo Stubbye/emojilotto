@@ -754,5 +754,23 @@
       8,
       0
     ]
+  },
+  "sol_35": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer wreathed in prismatic light ascends. The jester's twin flames consume ambition's stage, while nature's winged metamorphosis traces the arc of destiny. In this hexad of fate, chaos whispers its numbered secrets.",
+      "hint": "Look for the archer's mark, the night's guardian, the spectrum's bridge, the fool's domain, transformation's symbol, and chance's instrument."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: One hits its mark with precision, one glows in darkness above, one shines with all colors at once, one makes people laugh and fool around, one flutters through gardens, and one determines everything by chance.",
+      "hint": "Target, moon, rainbow, joker, butterfly, and dice."
+    },
+    "answer": [
+      0,
+      3,
+      9,
+      19,
+      8,
+      11
+    ]
   }
 }
