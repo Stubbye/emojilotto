@@ -232,5 +232,23 @@
       5,
       7
     ]
+  },
+  "sol_12": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the jester's grin, six whispers dance betwixt the veil. The winged metamorphosis chases the radiant pearl, while fortune's cube spins beneath the crystal crown. In this chaos of brilliance, seek the archer's mark where destiny's lightning finds its home.",
+      "hint": "One guides the laughter, one holds the night, one transforms through grace, one rolls with fate, one strikes with truth, one seeks the target."
+    },
+    "easyRiddle": {
+      "text": "I contain the lightning that strikes, the moon that glows, the joker that laughs, the butterfly that transforms, the gem that sparkles, and the target that waits. What am I?",
+      "hint": "Think of a lottery game with six magical symbols hidden within its mystery."
+    },
+    "answer": [
+      1,
+      3,
+      8,
+      11,
+      4,
+      0
+    ]
   }
 }
