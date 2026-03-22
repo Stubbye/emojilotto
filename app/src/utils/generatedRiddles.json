@@ -466,5 +466,23 @@
       13,
       21
     ]
+  },
+  "sol_21": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, and earthbound flame dances with the jester's masked deceit, while nature's winged metamorphosis spirals through prismatic arcs—six keepers of destiny converge in celestial cacophony, each a key to the labyrinth of chance.",
+      "hint": "One marks precision, one guards the heavens, one ignites chaos, one speaks in riddles, one transforms endlessly, and one paints the sky between storms."
+    },
+    "easyRiddle": {
+      "text": "A target aims true, the moon watches high, lightning strikes fast, a joker tricks well, a butterfly floats free, and a rainbow curves above—which six symbols hold your fortune?",
+      "hint": "Look for: something you aim at, something in the night sky, something that's fast and bright, something that jokes around, something that flies and changes, and something colorful after rain."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      11,
+      8,
+      9
+    ]
   }
 }
