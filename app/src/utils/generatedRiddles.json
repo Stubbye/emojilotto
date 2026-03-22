@@ -412,5 +412,23 @@
       3,
       10
     ]
+  },
+  "sol_19": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances in celestial fire, six tokens of fate converge: the archer's bullseye gleams with prismatic tears, the messenger of thunder splits the veil, a jeweled eye watches from obsidian heights, and chaos blooms in spinning wheels of chance—yet only the trickster's grin and the scaled sentinel's ancient wisdom reveal what mortals seek.",
+      "hint": "Seek the target's heart, lightning's crack, the gem's glow, moon's watch, dice's spin, and dragon's knowledge."
+    },
+    "easyRiddle": {
+      "text": "I am six scattered across the sky of chance: one marks where arrows fly true, one splits the darkness with white-hot fury, one sparkles with inner light, one watches from night's throne, one tumbles with uncertainty, and one guards with scales of old.",
+      "hint": "Target, lightning, gem, moon, dice, and dragon await your choice."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      11,
+      14
+    ]
   }
 }
