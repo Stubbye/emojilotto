@@ -196,5 +196,41 @@
       4,
       19
     ]
+  },
+  "sol_11": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers of fate converge. The archer's mark glows with precious light, while winged metamorphosis pirouettes through storms of brilliance. A crowned jester grins beneath the crescent's gaze, as electricity weaves through crystalline dreams and petaled wishes bloom eternal.",
+      "hint": "One brings luck, one transforms, one rules chaos, one illuminates darkness, one conducts power, one flourishes from earth."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: a target of fortune, a gem that shines, a butterfly reborn, a joker's laugh, a star that guides, and a flower that never dies.",
+      "hint": "Look for: aim, wealth, change, trickery, hope, and beauty."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      12,
+      21,
+      14
+    ]
+  },
+  "emlo_6": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere with electric speed, leaving a trail of gems that sparkle bright. My joker spirit dances under moonlight, while dragon fire fuels the circus of dreams. What six celestial tokens guide the lottery of fortune?",
+      "hint": "Think of a memecoin's journey: the vehicle, the destination, the treasures, the energy, the chaos, and the precious gains."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go! A 🚀 flies fast with ⚡ power, collecting 💎 gems while 🔥 burns bright. The 🎪 celebrates our wins. Which six emojis complete this crypto dream?",
+      "hint": "One launches, one shines above, one sparkles, one energizes, one glows hot, and one entertains."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      7
+    ]
   }
 }
