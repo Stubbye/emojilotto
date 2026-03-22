@@ -628,5 +628,23 @@
       6,
       18
     ]
+  },
+  "sol_28": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's domain, six tokens dance in destiny's refrain. The winged metamorphosis ascends through prisms bent, while celestial fire and lightning's rent converge where masquerade and nature's jest are lent. Seek the circle of chance where gemstone truths are spent.",
+      "hint": "Consider transformation, chaos, luck, celestial bodies, and dual natures—one plays a role, one reveals truth."
+    },
+    "easyRiddle": {
+      "text": "I point at prizes, I soar to space, I sparkle bright, I mask your face. Lightning strikes, butterflies rise—find these six before your eyes.",
+      "hint": "Look for targets, flight, shine, disguise, electricity, and wings."
+    },
+    "answer": [
+      0,
+      1,
+      9,
+      4,
+      18,
+      8
+    ]
   }
 }
