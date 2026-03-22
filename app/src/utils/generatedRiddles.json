@@ -844,5 +844,23 @@
       4,
       19
     ]
+  },
+  "emlo_18": {
+    "hardRiddle": {
+      "text": "A jester's fortune gamble rides cosmic flames to gem-laden peaks, where luck strikes like thunder and fortune sparkles eternally in the night sky.",
+      "hint": "Think of a memecoin journey: chaos, speed, wealth, electricity, magic, and the ultimate destination."
+    },
+    "easyRiddle": {
+      "text": "🎪 Chaos, 🚀 Speed, 💎 Treasure, ⚡ Power, ✨ Magic, 🌙 Dreams - what six things fuel a moonshot memecoin?",
+      "hint": "The first one is wild and fun, the second flies fast, the third is shiny and valuable, the fourth is quick and strong, the fifth is mystical, and the sixth is where we all want to go!"
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      4,
+      9,
+      3
+    ]
   }
 }
