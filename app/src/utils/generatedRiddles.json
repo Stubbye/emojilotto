@@ -250,5 +250,41 @@
       4,
       0
     ]
+  },
+  "sol_13": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the void's crown, a jester's heart beats amid prismatic fractals. The swift deceiver dances through fortune's maze, while wings of transformation spiral upward. Six threads converge: the archer's distant mark, the messenger's blazing steed, earth's crystalline tear, the weaver's nocturnal throne, chaos's electric voice, and inferno's primal breath.",
+      "hint": "Seek the numbers where destiny's symbols align—one shoots, one sparkles, one transforms, one reigns, one strikes, one consumes."
+    },
+    "easyRiddle": {
+      "text": "I contain: something that shoots straight, something that sparkles bright, something with wings and stripes, something high in the night sky, something that crackles with power, and something hot and dangerous.",
+      "hint": "Think of: aim, shine, nature, sky, storm, and heat."
+    },
+    "answer": [
+      0,
+      20,
+      8,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_7": {
+    "hardRiddle": {
+      "text": "A digital jester rides cosmic fire to gem-laden heights, leaving sparkling trails through the purple night. Where fortune dances with electric chaos, the dragon's treasure awaits those bold enough to aim for the moon.",
+      "hint": "Think of a memecoin journey: the entertainer, the movement, the reward, the power, the destination, and the mystical guardian."
+    },
+    "easyRiddle": {
+      "text": "Start with a silly performer, add speed and heat, find precious stones that glow, reach the celestial body, feel the electric thrill, and meet the ancient beast.",
+      "hint": "Six things: a funny character, upward motion, shiny treasure, night sky object, shocking energy, and a mythical creature."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
