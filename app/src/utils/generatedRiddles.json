@@ -340,5 +340,23 @@
       14,
       18
     ]
+  },
+  "sol_16": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's flame, six whispers dance in chaos's game. The jester's grin reflects the prism's kiss, while scaled ancient power seals the abyss. Lightning's twin ignites what gems conceal, and winged metamorphosis breaks the seal.",
+      "hint": "One guides the night, one laughs in jest, one breathes in myth, one strikes with zest, one sparkles hidden, one transforms all best."
+    },
+    "easyRiddle": {
+      "text": "Find the night guardian, the laughing deceiver, the mythical beast, the electricity believer, the treasure within glow, and the creature that's clever.",
+      "hint": "Look for: a lunar body, a trickster's face, a legendary dragon, a striking force, a precious radiance, and a clever-winged insect."
+    },
+    "answer": [
+      3,
+      19,
+      13,
+      4,
+      1,
+      8
+    ]
   }
 }
