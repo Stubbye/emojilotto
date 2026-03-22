@@ -718,5 +718,23 @@
       5,
       9
     ]
+  },
+  "sol_33": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the swift messenger pierces through jeweled night. Luck's trembling wings meet the trickster's grin, as nature's bloom blooms eternal in chromatic arc. Six secrets hide in destiny's masquerade.",
+      "hint": "One guides wishes upward, one carries fortune's weight, one mirrors duality, one transforms through chaos, one brings fortune's fortune, one paints hope's spectrum."
+    },
+    "easyRiddle": {
+      "text": "Find the moon's bright companion, the gem that catches light, the jester who knows all secrets, the butterfly seeking change, the flower that never wilts, and the rainbow after the storm.",
+      "hint": "Look for: night's opposite, sparkle, trickery, transformation, nature's beauty, and hope's promise."
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      8,
+      15,
+      9
+    ]
   }
 }
