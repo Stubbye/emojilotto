@@ -862,5 +862,23 @@
       9,
       3
     ]
+  },
+  "sol_40": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's grin, six tokens dance in shadows thin. The archer's mark meets fortune's wheel, a winged muse and scales reveal. In brilliance locked and thunder's song, the answer dwells where fools belong.",
+      "hint": "Consider what shimmers in darkness, what spins with chaos, what burns above, and what mirrors the soul's laughter."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this strange show: a target gleams with golden glow, a rocket soars through velvet night, a gem that catches starry light, the joker grins with masked delight, and lightning splits the sky so bright.",
+      "hint": "Look for the aim, the ascent, the precious, the cosmic, the trickster, and the flash."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      19,
+      4
+    ]
   }
 }
