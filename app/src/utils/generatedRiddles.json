@@ -952,5 +952,23 @@
       10,
       20
     ]
+  },
+  "emlo_21": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises fast, through electric storms it's cast. Precious gems ignite the night, as wings of magic take their flight. Where luck strikes bright and dreams take wing, what six celestial tokens sing?",
+      "hint": "Think of volatility, precious value, electricity, transformation, chance, and cosmic ascent."
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket fast! Lightning strikes and gems that last! Fire burns our lucky soul, butterfly and sparkles whole. What six emojis make us whole?",
+      "hint": "One goes to space, one shines bright, one strikes quick, one transforms, one glows, one flies."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      10
+    ]
   }
 }
