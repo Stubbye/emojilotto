@@ -988,5 +988,41 @@
       20,
       19
     ]
+  },
+  "sol_45": {
+    "hardRiddle": {
+      "text": "Through the veil where fortune's jester dances, a crimson serpent ascends past Luna's gaze. Where emerald treasures sleep within crystal chambers, and celestial bolts pierce the painted arc. The winged wanderer spirals through chaos, seeking that gilded crown of achievement.",
+      "hint": "Consider what rises, what burns, what gleams, what descends, what transforms, and what endures as victory's symbol."
+    },
+    "easyRiddle": {
+      "text": "One burns bright, one rules the night sky, one sparkles with wealth, one splits the heavens, one dances with wings, and one sits atop the victor's pedestal.",
+      "hint": "Fire, celestial, precious, electricity, insect, and honor."
+    },
+    "answer": [
+      6,
+      21,
+      2,
+      4,
+      8,
+      17
+    ]
+  },
+  "emlo_23": {
+    "hardRiddle": {
+      "text": "To the moon we fly with electric speed, through fire and gem we plant our seed. Lucky fortune spins with star so bright, as crystal sparkles ignite the night.",
+      "hint": "Think of a memecoin's journey: destination, fuel, precious value, luck, illumination, and magical moments."
+    },
+    "easyRiddle": {
+      "text": "🚀 takes you to the 🌙, while ⚡ lights the way. 💎 makes it rich, ✨ shows the play. 🎰 spins your fate, what's the crypto's way?",
+      "hint": "These six emojis represent a memecoin hodler's dreams and the lottery of gains."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      9,
+      11,
+      11
+    ]
   }
 }
