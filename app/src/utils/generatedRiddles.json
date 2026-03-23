@@ -1240,5 +1240,41 @@
       13,
       20
     ]
+  },
+  "sol_53": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers converge in cosmic trance. The archer's mark aligns with heaven's gaze, while wings of transformation paint fortune's maze. A dragon's breath ignites the fortune's wheel, and gemstone truth reveals what fates conceal. Lightning splits the veil 'tween earth and sky, as crystalline dreams teach mortals to fly.",
+      "hint": "Seek the convergence of aim, ascension, sparkle, celestial body, mythic beast, and precious stone—where destiny's lottery is written in the stars."
+    },
+    "easyRiddle": {
+      "text": "I hold a bulls-eye, I reach for the stars above, I sparkle with magic, I shine with lunar love. A dragon guards treasure, while lightning strikes fast, and gems hold the secrets that forever will last.",
+      "hint": "Think of aiming high, reaching skyward, things that glitter, night skies, legendary creatures, and valuable things."
+    },
+    "answer": [
+      0,
+      21,
+      10,
+      3,
+      13,
+      1
+    ]
+  },
+  "emlo_29": {
+    "hardRiddle": {
+      "text": "I chase the digital dream with speed untamed, my precious cargo gleams without shame. When fortune strikes like a bolt from above, I dance with magic that traders love. Lucky symbols align in my path, where jesters and foxes feel nature's wrath.",
+      "hint": "Think of a memecoin's journey to astronomical heights, involving speed, wealth, luck, and mischief."
+    },
+    "easyRiddle": {
+      "text": "A fast vehicle carries gems to the lunar destination. Lightning brings fortune while a clever animal tricks the market.",
+      "hint": "Combine transportation, wealth, the night sky, luck, and trickery."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      10,
+      13,
+      4
+    ]
   }
 }
