@@ -970,5 +970,23 @@
       9,
       10
     ]
+  },
+  "sol_44": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's crimson kiss, a jester's twin masks dance upon the precipice. Six guardians of fate convene: the archer's mark that bleeds ambition, the serpent of storms that devours stillness, the winged transformation through chaos's veil, the nocturnal sentinel crowned in pearl, the prism's silent scream of fractured light, and the three-leafed whisper of probability's mercy.",
+      "hint": "Seek the symbols of chance, chaos, and celestial bodies intertwined with masks and fortune's geometry."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols: a target struck true, a lightning bolt's crack, a joker's grin, a moon's glow, a crystal's gleam, and a clover's blessing. What numbers complete the lottery wish?",
+      "hint": "Think of luck, storms, tricksters, night, gems, and fortune's favour."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      3,
+      20,
+      19
+    ]
   }
 }
