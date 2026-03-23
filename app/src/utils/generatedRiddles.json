@@ -1312,5 +1312,23 @@
       4,
       19
     ]
+  },
+  "sol_55": {
+    "hardRiddle": {
+      "text": "Through prismatic veil where fortune's twin flames dance, six sentinels of destiny await. The archer's mark meets swift celestial fire, while the mystic gem catches starlight's ancient prayer. Where masked revelry births winged metamorphosis beneath fortune's crown, and nature's four-leafed whisper trembles with electric grace.",
+      "hint": "Seek the convergence of aim, speed, brilliance, destiny, transformation, and luck's secret symbol."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket racing through sky, the gem that sparkles with star, the butterfly dancing near the clover, and one more symbol of fortune's favor.",
+      "hint": "Look for things that fly, shine, transform, and bring good luck."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      19,
+      8
+    ]
   }
 }
