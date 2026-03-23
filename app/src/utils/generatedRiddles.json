@@ -1420,5 +1420,23 @@
       14,
       22
     ]
+  },
+  "sol_59": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, six whispers of fate converge in twilight's dream. The archer's mark meets the swift messenger's flight, while precious tears crystallize in stellar night. A creature of metamorphosis joins the crowned victor's song, and nature's bloom completes what has waited long.",
+      "hint": "Think of symbols of destiny, transformation, achievement, and the cosmos intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: what you aim for, what flies to dreams, what shines bright, what lights the night, what changes form, and what crowns the strong.",
+      "hint": "One involves archery, one involves space travel, one is precious, one is celestial, one transforms, and one is a prize."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      21,
+      8,
+      17
+    ]
   }
 }
