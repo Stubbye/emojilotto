@@ -880,5 +880,41 @@
       19,
       4
     ]
+  },
+  "sol_41": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the archer's mark. Three spirits spiral—winged through night's veil, horned through ancient treasure, and the jester laughs at destiny's masked ball. Which six hold the secret whispered by gemstones and lightning's silent song?",
+      "hint": "Look for: a night guardian, a precious gleam, a fool's smile, a mythical beast, a glittering mark, and the spark that strikes twice"
+    },
+    "easyRiddle": {
+      "text": "I bring luck with four leaves, shine like stolen treasure, flash across dark skies, guard the night above, hide behind laughter, and breathe smoke and dreams. What am I, times six?",
+      "hint": "One is green, one sparkles, one strikes, one watches from above, one wears a mask, one roars with fire"
+    },
+    "answer": [
+      19,
+      21,
+      11,
+      13,
+      5,
+      6
+    ]
+  },
+  "emlo_19": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with electric speed, my precious gems spark as I rise. The jester laughs at my volatile dance, while fortune's wheel spins beneath the magical glow. What am I?",
+      "hint": "Think of a memecoin's journey: direction, movement, rarity, destination, chance, and luck"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ moves fast, 🌙 is the goal, 🎰 is random, 🍀 brings luck. Which 6 symbols represent a crypto dream?",
+      "hint": "One flies, one glitters, one zaps, one is night sky, one gambles, one is lucky"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      11,
+      19
+    ]
   }
 }
