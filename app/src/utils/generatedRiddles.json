@@ -1330,5 +1330,41 @@
       19,
       8
     ]
+  },
+  "sol_56": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gem ignites beneath the silver face. Lightning dances through the prism's fire, while winged metamorphosis lifts desire. Six tokens spin in destiny's dark game—which constellations claim your fortune's name?",
+      "hint": "One marks precision, one dwells in space, one glimmers with inner grace, one strikes with wrath, one transforms with grace, one spins with fate's embrace."
+    },
+    "easyRiddle": {
+      "text": "I am precise and aimed with care. I float in space beyond the air. I shine with inner crystal light. I strike with power, quick and bright. I transform with delicate wings so free. Six secrets hold your lottery key.",
+      "hint": "Think of targets, the moon, gems, lightning, butterflies, and chance."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      4,
+      8,
+      11
+    ]
+  },
+  "emlo_31": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial dreams, where electric fortune strikes with gem-bright gleams. Dance through cosmic fire where butterflies take flight, guided by fortune's spark in the dead of night.",
+      "hint": "Think of a memecoin journey: the hype, the crash, the lucky winners, and the magical moments in between."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of crypto fortune: a lucky jester grins, a rocket shoots to the moon, lightning strikes fast, gems shine bright, butterflies celebrate, and sparkles crown the winner.",
+      "hint": "Memecoin themes: luck, space, speed, value, transformation, and winning."
+    },
+    "answer": [
+      19,
+      1,
+      4,
+      2,
+      8,
+      10
+    ]
   }
 }
