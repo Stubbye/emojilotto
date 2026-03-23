@@ -1060,5 +1060,41 @@
       10,
       5
     ]
+  },
+  "sol_47": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a jeweled serpent coils through celestial space. Thunder's kiss ignites the carnival's dream, while delicate wings dance where starlight does gleam.",
+      "hint": "Seek the hunter's mark, the cosmic throne, the crystalline heart, the storm's sharp moan, the jester's masked theater, and transformation's flight."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow's song: a pointed aim, a gem so strong, a dragon's fire in stars above, a storm that strikes with nature's love, masked performers in their tent, and creatures reborn, heaven-sent.",
+      "hint": "Target, gem, dragon, lightning, circus, butterfly"
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      4,
+      6,
+      8
+    ]
+  },
+  "emlo_25": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkle as I ride the cosmic wave. Fortune favors the bold who dance with fire and luck, where jesters laugh beneath the stars.",
+      "hint": "Think of a memecoin journey: destination, fuel, treasure, timing, energy, and fate's symbol"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 💎 under the ⭐, powered by ⚡ and 🔥, guided by 🍀",
+      "hint": "A rocket journey to riches, with luck and power"
+    },
+    "answer": [
+      1,
+      5,
+      21,
+      9,
+      6,
+      19
+    ]
   }
 }
