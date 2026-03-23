@@ -1384,5 +1384,41 @@
       5,
       14
     ]
+  },
+  "sol_58": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the weaver's thread, six dancers twirl in night's embrace—the jester's grin guards stolen light, while scales of fate and wings of chaos paint the cosmic stage. Through prisms bent and luck's cruel jest, the masked performers waltz betwixt the spheres, where electricity crowns the fool and nature's bloom surrenders to the diamond's ancient thirst.",
+      "hint": "Look for laughter in deception, mathematics in chance, and the eternal struggle between order and pandemonium."
+    },
+    "easyRiddle": {
+      "text": "I contain: a tool of aim, a celestial jest-keeper, a sparkler of value, a nocturnal orb, a nature's winged dancer, and a game of numbered chance. What six treasures complete this lottery's heart?",
+      "hint": "Think of targets, fools, precious things, night sky, delicate creatures, and games of probability."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      6,
+      8,
+      11
+    ]
+  },
+  "emlo_32": {
+    "hardRiddle": {
+      "text": "I chase the infinite climb with speed untamed, my gem-like sparkles dance where lightning strikes the night. A joker's grin meets dragon's flame, while crystal waves reflect the star that guides all dreamers to their prize.",
+      "hint": "Think of a memecoin's journey: speed, value, chaos, power, reflection, and destiny"
+    },
+    "easyRiddle": {
+      "text": "A coin that rockets to the moon, glittering like gems and sparkles. The joker laughs as lightning strikes, and a dragon guards the treasure.",
+      "hint": "A memecoin journey from launch to moon, with magic and mischief along the way"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      14,
+      22
+    ]
   }
 }
