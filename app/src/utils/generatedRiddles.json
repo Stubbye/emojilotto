@@ -1366,5 +1366,23 @@
       8,
       10
     ]
+  },
+  "sol_57": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six keepers of destiny dance in shadow's tale. The jester's grin meets the scaled serpent's flame, while winged grace spirals through prisms of acclaim. Thunder's kiss ignites the jeweled crown, and fortune's bloom cascades softly down.",
+      "hint": "One guides, one mocks, one soars, one burns, one shines, one grows"
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the trickster's face, the flying beauty's grace, the fire-breather's might, the sparkling gem so bright, and the petals of delight.",
+      "hint": "Target, Joker, Butterfly, Dragon, Gem, Flower"
+    },
+    "answer": [
+      0,
+      11,
+      8,
+      13,
+      5,
+      14
+    ]
   }
 }
