@@ -1096,5 +1096,23 @@
       6,
       19
     ]
+  },
+  "sol_48": {
+    "hardRiddle": {
+      "text": "Where fortune's heart meets celestial flame, six keepers dance in fortune's game. The archer's aim through twilight's gleam, a jeweled whisper in night's dream. Swift thunder breaks the silent stage, while painted wings turn destiny's page. Chaos wears a grinning mask, fortune demands its cryptic task.",
+      "hint": "Seek the bullseye, the gem of night, the bolt that strikes, the jester's might, and wings that shimmer with rebirth's delight"
+    },
+    "easyRiddle": {
+      "text": "I shine like treasure in the dark, I strike with fury and leave a mark. A target waits for fortune's shot, while masked fools know secrets I've forgot. Jewels and wings complete the plot.",
+      "hint": "Think of things that sparkle, things that move fast, things that are lucky, and things that perform"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      18,
+      19
+    ]
   }
 }
