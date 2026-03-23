@@ -1168,5 +1168,41 @@
       19,
       11
     ]
+  },
+  "sol_51": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through the celestial fire, six tokens of destiny spiral in the nocturnal gyre. The winged metamorphosis seeks the archer's gleaming mark, while gems crystallize in the dragon's electrical spark. What six bind the chaos of chance with the performer's masked art?",
+      "hint": "One transforms, one flies straight, one rules, one strikes, one glimmers, one deceives"
+    },
+    "easyRiddle": {
+      "text": "Find the trickster's smile, the creature with wings, the treasure that shines, the scaled beast, the glowing rain, and the blazing power",
+      "hint": "Joker, Butterfly, Gem, Dragon, Sparkles, Lightning"
+    },
+    "answer": [
+      19,
+      8,
+      5,
+      13,
+      10,
+      4
+    ]
+  },
+  "emlo_27": {
+    "hardRiddle": {
+      "text": "I chase the impossible dream with speed unmatched, seeking treasure that blinds like a precious stone. When fortune strikes like a bolt from above, I soar past the celestial body where dreamers dance. Through chaos and flame I navigate, while fortune's wheel spins in this grand spectacle of chance.",
+      "hint": "Think of a memecoin journey: speed, wealth, electricity, heights, randomness, and entertainment."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🌙 watches high, 🔥 burns hot, 🎪 entertains all.",
+      "hint": "These six emojis represent the memecoin experience: launching, gaining, moving quickly, reaching goals, excitement, and fun."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      10
+    ]
   }
 }
