@@ -1204,5 +1204,41 @@
       6,
       10
     ]
+  },
+  "sol_52": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and chaos births its twin flame. The jester's grin guards the threshold between earthbound stone and the weaver's prismatic veil. Six sentinels of fate await—one marks precision's aim, one defies gravity's whisper, one glimmers with compressed starlight, one waxes eternal and pale, one crackles with the gods' fury, and one spirals through metamorphic grace.",
+      "hint": "A game of chance requires a marksman's symbol, a dreamer's orb, a magician's laughter, and three forces of nature's extremes."
+    },
+    "easyRiddle": {
+      "text": "Seek the target's bullseye, the moon's pale watch, the gem's sparkle, lightning's crack, the joker's laugh, and the butterfly's dance. These six shall unlock the vault of luck.",
+      "hint": "One aims, one glows above, one shines bright, one strikes fast, one tricks, one transforms."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      5,
+      11,
+      8
+    ]
+  },
+  "emlo_28": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with electric speed, fueled by gems that make gamblers greed. A joker's luck and dragon's might combine, through sparkles and fire, a fortune divine.",
+      "hint": "Think of a memecoin journey to wealth with chaos and magic involved"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon shines bright, lightning strikes with all its might. Add a gem for treasure, fire for heat, and joker's tricks make it complete!",
+      "hint": "Count the 6 emojis mentioned in the riddle"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      13,
+      20
+    ]
   }
 }
