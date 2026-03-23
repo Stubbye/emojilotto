@@ -1024,5 +1024,41 @@
       11,
       11
     ]
+  },
+  "sol_46": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six celestial whispers dance alone. The jester's grin beneath the storm's bright scythe, a scaled leviathan guards the prism's blight. From earth's soft bloom to heaven's crystalline tear, the lightning's kiss and spectrum's prayer. Seek what spins in chaos, what reigns in flame, what mirrors night, and what bears fortune's name.",
+      "hint": "One guides the target, one rules the night sky, one crackles with power, one glimmers on high, one blooms eternal, and one shifts like glass."
+    },
+    "easyRiddle": {
+      "text": "I appear in night's canvas, I strike with bright fury, I grow in the garden without any worry. A scaled beast of legend, a fool's grinning face, and something that sparkles in heaven's bright place. Six sacred symbols await your selection—find the target, the moon, and the lightning's reflection.",
+      "hint": "Think of: night, electricity, plants, mythology, laughter, and something that shines."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      12,
+      14,
+      20
+    ]
+  },
+  "emlo_24": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, through fire and gems I plant my seed. A butterfly dances where sparkles fly, while the rocket aims for the crystal sky. The joker laughs as the trophy gleams, in this circus of memecoin dreams.",
+      "hint": "Six symbols of wealth, speed, magic, and mischief combined"
+    },
+    "easyRiddle": {
+      "text": "Find the moon, the rocket going up, the gem that shines, the lightning bolt, the sparkles that glow, and the fire that burns bright in our memecoin show!",
+      "hint": "Look for celestial objects, energy, treasures, and light"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      4,
+      10,
+      5
+    ]
   }
 }
