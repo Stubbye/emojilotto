@@ -916,5 +916,41 @@
       11,
       19
     ]
+  },
+  "sol_42": {
+    "hardRiddle": {
+      "text": "Where celestial fire weaves through prismatic tears, a winged soul dances betwixt fortune's dual masks. The archer's gleam meets chaos's electric breath, while earth's jeweled whisper blooms eternal beneath night's crown.",
+      "hint": "Seek the meeting of aim and chance, luminescence and metamorphosis, destruction and creation, deception and revelation."
+    },
+    "easyRiddle": {
+      "text": "Find the shining gem that flies with rockets, the lightning that burns bright, the butterfly that spins fortunes, the moon that watches all, the flower that never dies, and the joker's laughing mask.",
+      "hint": "One glimmers underground, one streaks the sky, one dances on air, one rules the night, one blooms eternal, one hides the truth."
+    },
+    "answer": [
+      6,
+      1,
+      8,
+      3,
+      14,
+      18
+    ]
+  },
+  "emlo_20": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial void, my sparkling trail ignites the path. Twin guardians of fortune flank my journey—one strikes with electric fury, the other shimmers with prismatic wonder. What am I?",
+      "hint": "Think of a memecoin's aspirational journey and the elements that accompany explosive growth."
+    },
+    "easyRiddle": {
+      "text": "A rocket soars past fire and lightning, heading to the moon where gems and sparkles await. Which six celestial symbols represent this moon-bound adventure?",
+      "hint": "Look for the rocket, the destination, the obstacles, and the magical elements of a crypto journey."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      10,
+      20
+    ]
   }
 }
