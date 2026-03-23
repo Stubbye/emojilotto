@@ -1276,5 +1276,41 @@
       13,
       4
     ]
+  },
+  "sol_54": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a gem ignites in darkness' space. The jester's grin beneath twin masks doth dance, while thunder splits the mystic trance. Six tokens hold the secret fire—seek the juggler's ancient wire.",
+      "hint": "One points the way, one guards the night, one sparkles bright, one brings the fright, one wears disguise, one rules the sight."
+    },
+    "easyRiddle": {
+      "text": "A target glows, a gem so rare, a joker laughs in midnight air. Lightning cracks, and masks appear, while circus flames burn crystal clear.",
+      "hint": "Find the marksman's goal, the precious stone, the fool's strange tone, the storm's loud moan, the hidden throne, and fire's own."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      5,
+      18,
+      7
+    ]
+  },
+  "emlo_30": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking precious gems that sparkle beyond the veil. Fortune dances like a jester's jest, while luck strikes like a storm. What six symbols mark this memecoin's destiny?",
+      "hint": "Think of a coin's journey: launch vehicle, destination, treasure, randomness, speed, and luck's symbol"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon carrying gems and sparkles. Lightning brings luck like a four-leaf clover. Which six emojis complete this memecoin adventure?",
+      "hint": "You need: 🚀 🌙 💎 ✨ ⚡ 🍀"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      9,
+      4,
+      19
+    ]
   }
 }
