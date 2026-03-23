@@ -1114,5 +1114,41 @@
       18,
       19
     ]
+  },
+  "sol_49": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six harbingers dance in shadows' game. The jester's grin eclipses gemstone's gleam, while thunder's child and scaled dreamer scheme. Pink-winged metamorphosis spirals through fortune's veil, as luck's own insignia completes the tale.",
+      "hint": "One marks precision, one ascends beyond, one sparkles with vanity, one roars with primal bond, one transforms beauty, one crowns the blessed bond."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: the archer's mark stands firm, a crimson beast of luck will burn, a fool's crowned face brings twisted cheer, a jewel of power holds value dear, winged grace transforms through night, and victory's golden throne shines bright.",
+      "hint": "Think: aim, fire, laughter, wealth, change, and glory."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      2,
+      8,
+      18
+    ]
+  },
+  "emlo_26": {
+    "hardRiddle": {
+      "text": "A jester's game of chance with celestial dreams, where lightning strikes fortune and fire gleams. The dragon guards treasures that sparkle and shine, while a fox's trick leads to the finish line. What six symbols reveal the memecoin's divine design?",
+      "hint": "Think of volatility, luck, wealth, mischief, electricity, and mythical guardians in the crypto realm."
+    },
+    "easyRiddle": {
+      "text": "Grab the dice for chance, add lightning for speed, throw in a rocket to help you succeed. The dragon brings magic, sparkles bring cheer, and the fox is sly—these six belong here!",
+      "hint": "Look for symbols of luck, energy, growth, power, shine, and cleverness."
+    },
+    "answer": [
+      11,
+      1,
+      14,
+      13,
+      10,
+      12
+    ]
   }
 }
