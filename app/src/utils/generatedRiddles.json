@@ -1150,5 +1150,23 @@
       10,
       12
     ]
+  },
+  "sol_50": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound flame, six sentries guard the threshold between chaos and order. The archer's mark meets the serpent's ancient wisdom, while the gem catches light that no mortal fire can kindle. Two souls of transformation—one bearing wings of metamorphosis, the other crowned in fortune's jest—stand sentinel beside the instrument of fate itself. What six reveal the lottery's secret geometry?",
+      "hint": "Seek the target's aim, the dragon's knowledge, the crystal's refraction, the butterfly's rebirth, the joker's smile, and the dice's chaos."
+    },
+    "easyRiddle": {
+      "text": "I point the way with a bullseye true, a scaly beast guards treasure through and through. A crystal gleams where light bends near, a butterfly dances without fear. The jester grins at fortune's test, and dice roll out to crown the best. These six combine in lottery's dance—do you have the vision to enhance?",
+      "hint": "Think of aim, dragons, sparkle, wings, laughter, and chance."
+    },
+    "answer": [
+      0,
+      13,
+      20,
+      8,
+      19,
+      11
+    ]
   }
 }
