@@ -1474,5 +1474,41 @@
       5,
       19
     ]
+  },
+  "sol_61": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jester's twin grins through veils of destiny. The winged metamorphosis dances with celestial fire, while earthbound fortune tumbles in geometric fate. Six symbols intertwine: the aimed pursuit of heaven's throne, the masked deceiver's double visage, the transformation of wandering souls, the celestial lantern's glow, the unpredictable bones of chance, and the inferno's consuming breath.",
+      "hint": "Look for: aim, duplicity, rebirth, night's guardian, randomness, and destruction"
+    },
+    "easyRiddle": {
+      "text": "I seek what aims true at glory. I laugh in duplicate confusion. I transform through nature's magic. I light the darkest night. I roll the game of chance. I consume with hungry tongues. What six reveal the lottery's secret?",
+      "hint": "Target, Joker (×2 masks), Butterfly, Moon, Dice, Fire"
+    },
+    "answer": [
+      0,
+      19,
+      8,
+      3,
+      11,
+      6
+    ]
+  },
+  "emlo_34": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my value sparkles like precious gems. Fortune spins wildly as I rise higher, leaving trails of electricity and fire. What am I?",
+      "hint": "Think of the journey: up, up, and away with unpredictable gains and burning energy"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ strikes, 🔥 burns, 💎 shines, ✨ glows, 🎯 aims. What memecoin traits do these show?",
+      "hint": "Start with the rocket emoji and follow the order given"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      9,
+      0
+    ]
   }
 }
