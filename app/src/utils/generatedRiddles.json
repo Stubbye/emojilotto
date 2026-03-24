@@ -1618,5 +1618,23 @@
       8,
       19
     ]
+  },
+  "sol_66": {
+    "hardRiddle": {
+      "text": "Where celestial fire waltzes with fortune's twin faces, and the winged metamorphosis chases the prism born from tempest's embrace. Six treasures dance in the void—one marks the hunter's eternal aim, one bleeds brilliance from earth's secret flame, one crowns the jester's masquerade, one flutters where destinies are made, one bridges the storm's violent art, and one guides the seeker's heart.",
+      "hint": "Think of contrasts: aim vs. chaos, earth vs. sky, stillness vs. motion, masks vs. authenticity."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and wonder: something you aim at, something that shines underground, something that laughs behind a mask, something with delicate wings, something that connects two weathers, and something that lights the darkest night.",
+      "hint": "Look for: precision, wealth, deception, transformation, duality, and guidance."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      8,
+      9,
+      21
+    ]
   }
 }
