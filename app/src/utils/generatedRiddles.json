@@ -1528,5 +1528,41 @@
       4,
       15
     ]
+  },
+  "sol_63": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets the archer's mark, and fortune's spark ignites the gemstone's dark. The night-blooming dancer twirls through crystalline dreams, while lightning threads the tapestry of what merely seems. Six secrets hide in this labyrinthine weave—one seeks the center, one ascends, one makes you believe.",
+      "hint": "Think of destiny's tools: aim, ascent, brilliance, night, transformation, and power. What lottery chooses its own fate?"
+    },
+    "easyRiddle": {
+      "text": "I need something to aim at, something to fly high, something that shines, something in the night sky, something that dazzles with electric might, and something that transforms in flight. What six things spark luck?",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, and Butterfly complete this constellation of fortune."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_36": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises fast, lighting up the night's contrast. Gemstones sparkle as rockets ignite, while dancing flames reach moonlit height. Where chaos meets the crystal's gleam, this memecoin fuels the diamond dream.",
+      "hint": "Think of a lottery where luck, speed, and celestial vibes collide in colorful chaos."
+    },
+    "easyRiddle": {
+      "text": "A funny face laughs, a stone shines bright, a flame burns hot, and a rocket takes flight. A glowing orb watches from above, while magic sparkles fall like love. What 6 things make a memecoin's delight?",
+      "hint": "One's a jester, one's a rock, one's fire, one goes up, one glows, one twinkles."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      7,
+      21,
+      10
+    ]
   }
 }
