@@ -1780,5 +1780,41 @@
       5,
       7
     ]
+  },
+  "sol_72": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six secrets dance in cosmic space. The serpent's scales catch starlight's gleam, while masked revelers chase a glittering dream. Thunder's kiss adorns the night, as petals bloom in crystalline light. Through prism waves and fortune's wheel, only the enlightened truly feel.",
+      "hint": "Look to the heavens and the depths below; one brings luck, one puts on a show."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune with deadly aim. A scaled beast guards fortune's flame. Lightning crackles through the air. Masks hide secrets everywhere. Stars shine bright in crystal's glow. Flowers bloom where rainbows flow.",
+      "hint": "Think of ancient magic, celestial wonders, and the theater of chance."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      19,
+      21,
+      15
+    ]
+  },
+  "emlo_43": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkle as I soar through chaos and fortune. What six symbols represent this memecoin's wild journey to astronomical gains?",
+      "hint": "Think of the path from earth to riches: movement, electricity, precious rewards, the destination, luck, and celebration"
+    },
+    "easyRiddle": {
+      "text": "Find: the explosive start, the electric power, the shiny treasure, the far-away goal, the lucky charm, and the glowing magic that makes this memecoin moon!",
+      "hint": "One goes up, one strikes, one shines bright, one is distant, one brings luck, one twinkles"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      19,
+      10
+    ]
   }
 }
