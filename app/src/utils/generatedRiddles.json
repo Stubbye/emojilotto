@@ -1510,5 +1510,23 @@
       9,
       0
     ]
+  },
+  "sol_62": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through crystalline fire. The jester's twin spirits—one cunning, one ancient—waltz beneath the prismatic arc. Six treasures converge where chaos meets destiny, and the crimson bloom whispers secrets to the restless air.",
+      "hint": "Consider: pursuit of luck, ascension, fragmentation, trickery, mythic guardians, and nature's fleeting beauty"
+    },
+    "easyRiddle": {
+      "text": "Find the target of dreams, the rocket of hope, the gem of clarity, the moon of mystery, the lightning of fortune, and the flower of luck.",
+      "hint": "Six symbols: one aims, one soars, one shines, one glows at night, one strikes fast, one blooms"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      15
+    ]
   }
 }
