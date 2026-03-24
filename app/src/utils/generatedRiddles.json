@@ -1978,5 +1978,23 @@
       8,
       3
     ]
+  },
+  "sol_78": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, and thunder's child dances with celestial light. A jeweled heart ascends through cosmic fire, while painted wings mirror desire. In shadow's grin, the winged serpent coils, and clover's grace breaks fate's soils.",
+      "hint": "Seek the symbols of luck, speed, wealth, transformation, chaos, and fortune's blessing."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: one that aims true, one that flies fast, one that shines bright, one that transforms, one that brings luck, and one born of thunder.",
+      "hint": "Target, rocket, gem, dragon, clover, lightning"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      19,
+      4
+    ]
   }
 }
