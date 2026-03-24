@@ -1852,5 +1852,41 @@
       10,
       20
     ]
+  },
+  "sol_74": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate convene. The archer's mark aligns with heaven's pearl, while twin flames of chaos and brilliance spiral upward. A scaled guardian of ancient dreams coils beneath the jester's crimson grin, and nature's delicate messenger of metamorphosis completes the sacred geometry of chance.",
+      "hint": "One points, one shines above, one blazes wild, one laughs, one transforms, one hoards."
+    },
+    "easyRiddle": {
+      "text": "I am a target, a moon so bright, lightning that strikes with all its might. A dragon fierce and a joker's jest, a butterfly's wings put me to the test. Which six dance together in fortune's game?",
+      "hint": "Look for the archer's goal, the night sky, electricity, a mythical beast, a fool's card, and a winged wonder."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      12,
+      13,
+      8
+    ]
+  },
+  "emlo_45": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gems sparkle as I ride the electric wave to fortune's peak, where fortune's joker dances under rainbow skies.",
+      "hint": "Think of meme coin aspirations: speed, wealth, luck, and the colorful chaos of crypto markets."
+    },
+    "easyRiddle": {
+      "text": "A fast 🚀 carries shiny 💎 through ⚡ to reach the 🌙, while 🌈 and 🎭 celebrate the winners.",
+      "hint": "Combine rocket power with treasure, electricity, moon dreams, rainbows, and celebration masks."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      9,
+      18
+    ]
   }
 }
