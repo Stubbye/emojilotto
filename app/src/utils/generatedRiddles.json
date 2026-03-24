@@ -1816,5 +1816,41 @@
       19,
       10
     ]
+  },
+  "sol_73": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six guardians dance in twilight's game. The jester's twin ascends through prismatic fire, while scales of chance and bloom conspire. A creature winged through gem-lit night seeks the circle's radiant light.",
+      "hint": "Look to the sky, the stage, the cards, and what glimmers between chance and grace."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's key: a flying beast of mystery, a bright jewel that catches your eye, a smiling jester reaching the sky, a flower blooming wild and free, and the sparkles that dance so magically.",
+      "hint": "Think of magic, luck, and wonder—what objects bring them all together?"
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      11,
+      14,
+      20
+    ]
+  },
+  "emlo_44": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed, while fortune sparkles in my wake. A jester's luck meets nature's fire, as winged beauty dances through the cosmic wave. What six symbols guide the memecoin believer to their shimmering prize?",
+      "hint": "Think of the journey to wealth: launch, luck, speed, beauty, hope, and the glow of success"
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon, bringing lightning and fire. A butterfly dances with sparkles. Which six emojis represent a memecoin adventure?",
+      "hint": "One goes up, one shines bright, one creates luck, one brings magic, one flies free, one glows"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      8,
+      10,
+      20
+    ]
   }
 }
