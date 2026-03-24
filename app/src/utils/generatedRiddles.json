@@ -1438,5 +1438,41 @@
       8,
       17
     ]
+  },
+  "sol_60": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright eye, a winged dancer twirls through prismatic sigh. Thunder's kiss ignites the jester's game, while ancient wyrm guards crystal's flame. In this celestial theatre of chance, six symbols waltz their cryptic dance.",
+      "hint": "One points, one shines above, one transforms, one laughs, one hoards, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the moon's bright glow, the butterfly that leaps and flows, the joker's grin so wild and free, the dragon fierce, the gem you see.",
+      "hint": "Look for: aim, night sky, wings, laughter, scales, and sparkle."
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      19,
+      13,
+      11
+    ]
+  },
+  "emlo_33": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride to lunar heights, where gems ignite electric flights. The dragon roars through cosmic fire, as fortune's wheel ascends ever higher.",
+      "hint": "Think of a memecoin journey: from chaos to astronomical gains, featuring a mythical beast and precious rewards."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gems shine bright, moon is our goal, dragon guards treasure, fire burns passion.",
+      "hint": "Six words describe six emojis - follow a crypto success story."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      13,
+      5,
+      19
+    ]
   }
 }
