@@ -1690,5 +1690,41 @@
       4,
       8
     ]
+  },
+  "sol_69": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's caress, six celestial dancers weave their duress. The jester's twin flame spirals through obsidian dreams, while scaled majesty guards what glimmers and gleams. A metamorphic spirit ascends the chromatic bridge, and chaos whispers its truth through prismatic ridge.",
+      "hint": "Think of luck's hierarchy: aim, escape, laughter, sky, transformation, and the spectrum between worlds."
+    },
+    "easyRiddle": {
+      "text": "I contain: a mark of precision, a path to the stars, a court's wild entertainer, a winged creature of change, a precious stone's shine, and a dragon of legend. What six treasures spin together in fortune's wheel?",
+      "hint": "One flies, one laughs, one sparkles, one climbs, one aims, and one breathes ancient fire."
+    },
+    "answer": [
+      0,
+      1,
+      7,
+      13,
+      21,
+      14
+    ]
+  },
+  "emlo_40": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem glows bright as fire leads. The joker dances where sparkles ignite, a rocket's roar echoes through the night. What six symbols mark this moonshot's flight?",
+      "hint": "Think of a memecoin journey: the goal, the speed, the treasure, the chaos, the shine, and the destination."
+    },
+    "easyRiddle": {
+      "text": "Find the rocket going to the moon, the gem that sparkles, fire that burns bright, lightning that strikes fast, the joker who laughs, and the target we hit. Six symbols of crypto dreams!",
+      "hint": "One launches, one shines, one burns, one zaps, one jokes, and one we're aiming for."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      9,
+      19,
+      0
+    ]
   }
 }
