@@ -1942,5 +1942,41 @@
       19,
       21
     ]
+  },
+  "sol_77": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, a prismatic arc bends toward the crowned victor's desire. Swift messenger pierces the veil of night, while fortune's gems dance in electric light. The masked revelers spin their wheel of chance, as nature's delicate sentinel completes the trance.",
+      "hint": "One guides games, one reaches glory, one sparkles with luck, one flies through stories, one marks the hour, one shows the way"
+    },
+    "easyRiddle": {
+      "text": "A court fool grins, a rocket soars high, lightning crackles across the sky. A butterfly floats, a trophy gleams bright, and rainbow colors paint the night. Which six reveal the lottery's light?",
+      "hint": "Look for: a performer, a climber, electricity, wings, a prize, and colors"
+    },
+    "answer": [
+      19,
+      1,
+      4,
+      8,
+      17,
+      9
+    ]
+  },
+  "emlo_47": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, sparkling with fortune's gleam. A joker's gamble dances between twin flames of chaos and triumph, while nature's delicate messenger flutters near crystalline wealth. What six treasures converge in this memecoin odyssey?",
+      "hint": "Think of a journey from earth to riches, with luck and speed as companions"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🃏 brings luck, 🦋 brings magic, and 🌙 is the destination. Which six emojis complete this crypto dream?",
+      "hint": "One launches, one energizes, one glitters, one tricks, one transforms, one awaits"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      19,
+      8,
+      3
+    ]
   }
 }
