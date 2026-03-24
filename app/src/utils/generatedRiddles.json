@@ -1636,5 +1636,41 @@
       9,
       21
     ]
+  },
+  "sol_67": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled beast guards the prism of dreams. The jester's fortune spins beneath the waxing sentinel, while winged transformation seeks the archer's golden circle. In chaos born of chance and wonder, six truths converge where laughter meets the infinite.",
+      "hint": "Look for: a mythical guardian, games of chance, the night's pale eye, a musical treasure, transformation itself, and the mark of precision. One burns without heat, one spins without will."
+    },
+    "easyRiddle": {
+      "text": "A dragon guards a spinning wheel. The moon watches over a jester's grin. A guitar sings where a butterfly dances. What six symbols hold the lottery's secrets?",
+      "hint": "Think of: a magical creature, a game tool, the night sky, laughter and masks, nature's transformation, and music."
+    },
+    "answer": [
+      14,
+      11,
+      1,
+      19,
+      8,
+      16
+    ]
+  },
+  "emlo_39": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed, my gems sparkle as lightning strikes. The joker dances with fire while a butterfly rides the wave to victory. What six symbols reveal the memecoin's destiny?",
+      "hint": "Think of the journey: speed to the top, treasure, chaos, transformation, movement, and triumph."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 goes up, ⚡ gives power, 💎 is wealth, 🦋 transforms, 🌊 flows, and 🏆 is won. Six symbols of the memecoin adventure!",
+      "hint": "Each emoji represents one step in a trader's moonshot dream."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      8,
+      23,
+      18
+    ]
   }
 }
