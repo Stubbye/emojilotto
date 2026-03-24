@@ -1888,5 +1888,41 @@
       9,
       18
     ]
+  },
+  "sol_75": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through fortune's veil, six sentinels of fate converge: the archer's true north gleams, velocity's silver serpent ascends, crystalline treasure refracts destiny's spectrum, lunar oracle whispers ancient dreams, electric thunder conducts the symphony of chance, and the trickster's grin mirrors all paradox—seek them where luck dances between the possible and the profound.",
+      "hint": "One points the way, one soars beyond, one glitters with worth, one rules the night, one strikes in chaos, one laughs at certainty"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck spin together: a bullseye for aim, a ship for dreams, a jewel for wealth, a moon for mystery, a bolt for fortune, and a jester for chance. What are they?",
+      "hint": "Target, rocket, gem, moon, lightning, joker"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_46": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, seeking treasures that sparkle with cosmic energy. Fortune smiles through electrifying moments, while mystic creatures guard the path to legendary victories. What six symbols mark this memecoin journey?",
+      "hint": "Think of a rocket's destination, what it carries, the energy it needs, who watches over it, what celebrates success, and what brings luck."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes to the moon carrying gems that shine like sparkles. Lightning powers the dragon who guards the trophy. Which six emojis are these?",
+      "hint": "Count them: rocket, moon, gem, sparkles, lightning, dragon, trophy - pick six!"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      13,
+      4,
+      17
+    ]
   }
 }
