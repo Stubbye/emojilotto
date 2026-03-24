@@ -1924,5 +1924,23 @@
       4,
       17
     ]
+  },
+  "sol_76": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers emerge from chance. The archer's aim converges with the sky's jeweled tear, while the jester's mask spins near the metamorphosis of night. Crystalline echoes ring beneath the emerald fortune's clutch, and wings of fortune shimmer where chaos yields to luck's soft touch.",
+      "hint": "Consider the journey from earth to cosmos, the transformation of fate, and what glimmers in darkness."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck align: a pointed path to the heavens, a precious stone that catches light, a grinning trickster, a delicate flyer reborn, green fortune in your palm, and the spark that shines eternal.",
+      "hint": "Think of lucky charms, magical transformations, and things that sparkle or bring joy."
+    },
+    "answer": [
+      1,
+      2,
+      12,
+      8,
+      19,
+      21
+    ]
   }
 }
