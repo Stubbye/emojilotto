@@ -1582,5 +1582,41 @@
       8,
       11
     ]
+  },
+  "sol_65": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six guardians dance in fortune's game. The jester's grin betrays the prize—a luminous gem beneath starlit skies. Thunder's child and nature's bloom conspire with scales of doom. Seek the threshold where chaos gleams and destiny splits at the seams.",
+      "hint": "One brings laughter, one brings light. One strikes swift, one burns bright. One blooms eternal, one glimmers whole—together they reveal the lottery's soul."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the winning key: a mark of aim, a burst so free, a precious stone that brightly shines, a jolly face that always grins, a bolt that cracks the midnight air, and petals soft beyond compare.",
+      "hint": "Think of: something to shoot at, electricity in the sky, something precious, something funny, something that grows, and sudden energy release."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      4,
+      14
+    ]
+  },
+  "emlo_38": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem ignites the fire of diamond hands. Through circus madness, I sparkle with trophy potential, guided by fortune's clover. What am I?",
+      "hint": "Think of a memecoin journey: speed, wealth, volatility, luck, and community celebration"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon with gem and fire, sparkles show the way, clover brings luck!",
+      "hint": "A memecoin wants to go up up up with magic and fortune"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      8,
+      19
+    ]
   }
 }
