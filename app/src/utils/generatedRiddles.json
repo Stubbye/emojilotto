@@ -1564,5 +1564,23 @@
       21,
       10
     ]
+  },
+  "sol_64": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a gemstone gleams beneath the jester's gaze. The winged dancer spirals through prismatic veils, as thunder crowns the ancient scales of chance. What six celestial tokens align when chaos conducts destiny's silent symphony?",
+      "hint": "One guides the aim, one burns above, one shimmers with worth, one mocks the game, one transforms through air, one measures fate."
+    },
+    "easyRiddle": {
+      "text": "I am the bull's eye and the rocket's dream. I sparkle like a precious stone. The moon watches over jokers who laugh. Lightning dances with fire. A butterfly floats on rainbows. Dice determine all outcomes.",
+      "hint": "Aim high, reach for stars, find treasure, embrace chaos, fly free, and trust luck."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      11
+    ]
   }
 }
