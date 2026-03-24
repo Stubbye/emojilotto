@@ -1726,5 +1726,23 @@
       19,
       0
     ]
+  },
+  "sol_70": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis spirals through prismatic veils. The archer's mark gleams beneath the night's silent sentinel, while crackling voltage births the joker's gilded mask. Six mysteries intertwine in chaos ordered—what reveals the path to luminous transformation?",
+      "hint": "Consider symbols of luck, chaos, ascension, and duality. Look for what flies, what strikes, what guides, and what watches."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of cosmic fortune: one strikes from above with fury, one watches from the heavens in silence, one sparkles with precious light, one mirrors your laughter with jest, one transforms through the air with grace, and one marks the target of destiny. What lottery numbers am I?",
+      "hint": "Think of lightning, the moon, a gem, a jester, a butterfly, and a bulls-eye."
+    },
+    "answer": [
+      4,
+      3,
+      2,
+      11,
+      8,
+      0
+    ]
   }
 }
