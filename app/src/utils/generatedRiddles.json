@@ -1672,5 +1672,23 @@
       23,
       18
     ]
+  },
+  "sol_68": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six symbols entwine in destiny's appeal. The archer's mark meets heaven's ascent, while serpent's majesty and fortune's descent blend with nature's winged metamorphosis and the jester's gleaming gem. In thunderous brilliance they converge, where luck and cosmos merge.",
+      "hint": "Aim for the sky, embrace the shuffle, let wings carry you through prismatic light."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one aims true, one soars high, one glimmers bright, one rules the night, one sparks with might, one transforms in flight.",
+      "hint": "Think of targets, rockets, gems, dragons, lightning, and butterflies dancing together."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      8
+    ]
   }
 }
