@@ -1744,5 +1744,41 @@
       8,
       0
     ]
+  },
+  "sol_71": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers converge in fate's romance. The archer's aim through crystalline night, a dragon's fortune blazes bright. Masked revelry spins with electric grace, while nature's twin blooms in this sacred space. What constellation of luck shall you claim?",
+      "hint": "Consider what burns, what flies, what guides, what glitters, what masks, and what grows."
+    },
+    "easyRiddle": {
+      "text": "I see six treasures: one that strikes like anger, one that soars skyward, one that sparkles like gems, one that rules the sky at night, one with petals that dance, and one that delights with mystery and mirth.",
+      "hint": "Lightning, rocket, sparkles, moon, flower, joker"
+    },
+    "answer": [
+      4,
+      1,
+      10,
+      3,
+      14,
+      19
+    ]
+  },
+  "emlo_42": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, collecting treasures that sparkle and gleam. Where fortune strikes like a bolt from above, and magic dances with cosmic love. Luck favors the bold who spin and believe, in this carnival of riches we weave.",
+      "hint": "Think of a memecoin journey: destination, power, wealth, sky goal, chance, and celebration"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with ⚡ speed, collecting ✨ and 💎 we need. Spin the 🎪 and feel the 🚀 fire!",
+      "hint": "A memecoin adventure needs these 6 symbols"
+    },
+    "answer": [
+      1,
+      4,
+      10,
+      3,
+      5,
+      7
+    ]
   }
 }
