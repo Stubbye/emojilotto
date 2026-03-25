@@ -2230,5 +2230,23 @@
       2,
       10
     ]
+  },
+  "sol_87": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six sentinels guard the threshold. The celestial wanderer watches over twin flames of chaos and brilliance, while wings of metamorphosis dance with radiance eternal. One crowned in fortune's jest, another gleaming in crystalline truth. Seek the convergence where luck's jest meets destiny's sparkle.",
+      "hint": "Think of transformation, celestial bodies, luck, spectacle, and dual forces of nature intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the vault: a target's center, a rocket's flight, a gem's shine, the moon's glow, lightning's strike, and fire's dance. Which six reveal the winning path?",
+      "hint": "Look for symbols of aim, speed, wealth, night, power, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
