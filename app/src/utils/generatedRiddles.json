@@ -2302,5 +2302,23 @@
       6,
       21
     ]
+  },
+  "sol_90": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's gilded stage, a winged muse dances betwixt fortune's wheel and nature's crown. The archer's heart beats true beneath the nightwarden's gaze, while crystalline tears fall upon the performer's masked reverie.",
+      "hint": "Seek the intersection of luck, performance, and cosmic wonder. One burns without heat, one rules the night, and one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "I am six: the laughing trickster, the night's sentinel, the delicate dancer with wings, the purest crystalline joy, the stage of dreams, and the mark that never misses.",
+      "hint": "Think of humor, nighttime, insects, precious things, entertainment, and accuracy."
+    },
+    "answer": [
+      6,
+      21,
+      8,
+      20,
+      7,
+      0
+    ]
   }
 }
