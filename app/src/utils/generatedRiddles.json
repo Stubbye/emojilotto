@@ -2032,5 +2032,41 @@
       13,
       14
     ]
+  },
+  "sol_80": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial serpent coils through phosphorescent storms, while masked jesters pirouette beneath kaleidoscopic arcs, and precious shards sing their silent geometry—seek the six that dance where chaos begets beauty.",
+      "hint": "One pierces, one flies, one shimmers, one rules, one conceals, one breaks light into infinite whispers."
+    },
+    "easyRiddle": {
+      "text": "Find the target's golden center, the dragon's ancient power, lightning's brilliant strike, the gem's true sparkle, the joker's hidden grin, and the rainbow's promise.",
+      "hint": "Think of aim, mythology, electricity, precious things, playfulness, and hope."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      2,
+      18,
+      9
+    ]
+  },
+  "emlo_49": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, while fortune's sparkle guides the way. A magical beast guards treasures that shimmer, as luck blooms eternal under the mystical glow.",
+      "hint": "Think of crypto's journey: momentum, destiny, wealth, fortune, nature's luck, and illumination"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon is the goal, gem shines bright, lightning strikes fast, four-leaf clover brings luck, and sparkles make it magical!",
+      "hint": "Combine launch, destination, treasure, speed, fortune, and magic together"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      19,
+      10
+    ]
   }
 }
