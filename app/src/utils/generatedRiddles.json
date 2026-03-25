@@ -2266,5 +2266,41 @@
       8,
       14
     ]
+  },
+  "sol_89": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six secrets dance in twilight's glow. The winged messenger ascending through celestial fire, gemstones weeping rainbow tears, while chaos laughs behind masked revelry and fortune's electric whisper strikes the stage of dreams.",
+      "hint": "Think of celestial journeys, precious things, trickster energy, light shows, and theatrical chaos."
+    },
+    "easyRiddle": {
+      "text": "A traveler shoots for the stars, rockets through the night, finds gleaming gems, sees moon's pale light, feels lightning's spark, and watches fire dance with a jester's delight.",
+      "hint": "Six things that represent luck, speed, wealth, night, power, and laughter."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_55": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive power, seeking the precious gem that shines eternally. When fortune strikes like lightning, chaos erupts in a blaze, yet the joker grins knowing luck dances with fire. What six symbols represent this memecoin's wild journey?",
+      "hint": "Think of a coin's mission: up, valuable, fast, chaotic, unpredictable, and glowing with promise."
+    },
+    "easyRiddle": {
+      "text": "🎯 A coin aims high with a 🚀, chasing the glowing 💎 on the 🌙. When ⚡ strikes, 🔥 follows. What are these six?",
+      "hint": "Rocket to the moon, find gems, expect lightning and fire on this wild memecoin adventure!"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      21
+    ]
   }
 }
