@@ -2194,5 +2194,41 @@
       4,
       13
     ]
+  },
+  "sol_86": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while masked mummers dance beneath prismatic arcs. The jester's gem glimmers as crystalline laughter echoes through the void, and luck's clover trembles at destiny's threshold.",
+      "hint": "One guides aim, one breathes ancient power, one marks disguise, one reflects chance, one bends light, one whispers fate."
+    },
+    "easyRiddle": {
+      "text": "A winged creature of night meets a beast of legend under a spectrum's bridge. A fool holds brilliance while fortune's symbol glows, and a four-leafed guardian watches the gem of chaos.",
+      "hint": "Look for: something that aims, something that flies with scales, something colorful in sky, something precious, something that jests, something lucky."
+    },
+    "answer": [
+      0,
+      13,
+      9,
+      20,
+      11,
+      19
+    ]
+  },
+  "emlo_53": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a precious sparkle guides my way. When fortune strikes like thunder, I transform chaos into victory, dancing through the cosmic waves of wealth.",
+      "hint": "Think of a memecoin's journey: destination, velocity, value, luck, energy, and celebration."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ strikes the 💎, and 🎆 celebrates the win!",
+      "hint": "A rocket, a destination, a precious thing, electricity, and celebration."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      4,
+      2,
+      10
+    ]
   }
 }
