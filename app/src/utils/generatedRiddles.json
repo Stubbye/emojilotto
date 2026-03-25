@@ -2248,5 +2248,23 @@
       4,
       5
     ]
+  },
+  "sol_88": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets prismatic dance, six seekers converge in fortune's trance. The archer's mark burns bright above the crescent throne, while fortune's jester spins between the gem and stone. Swift wings traverse the arc of hope, as nature's bloom crowns fortune's rope.",
+      "hint": "One ascends, one descends, one gleams, one jests, one flutters, one grows."
+    },
+    "easyRiddle": {
+      "text": "Find the target that burns, the gem that shines, the moon that rises, the joker that grins, the butterfly that soars, and the flower that blooms.",
+      "hint": "Look for the archer's point, precious stone, night's orb, the trickster, winged beauty, and nature's bloom."
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      19,
+      8,
+      14
+    ]
   }
 }
