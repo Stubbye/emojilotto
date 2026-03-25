@@ -2374,5 +2374,23 @@
       5,
       11
     ]
+  },
+  "sol_93": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six guardians dance in shadow's game. The jester's grin beneath twin masks of fate, while crystal laughter echoes through the gate. Swift wings of metamorphosis take flight, as prismed arcs bend fortune's light.",
+      "hint": "Look for symbols of chance, transformation, deception, and destiny intertwined"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a target's aim, a joker's jest, masks of two faces, a butterfly's wings, a crystal's gleam, and a rainbow's arc. Which six claim the prize?",
+      "hint": "One shoots, one tricks, two hide faces, one transforms, one shines, one bends light"
+    },
+    "answer": [
+      0,
+      7,
+      19,
+      8,
+      21,
+      9
+    ]
   }
 }
