@@ -2464,5 +2464,41 @@
       19,
       21
     ]
+  },
+  "sol_97": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers converge in fate's romance. The winged muse pirouettes through storms of light, while jeweled dreams ascend to kiss the night. In masked revelry, the trickster grins—where chaos blooms and destiny begins.",
+      "hint": "One burns above, one spreads its wings, one glimmers deep, one tricks and sings, one strikes with force, one holds all things."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this game: a bright celestial flame, wings that dance so free and light, a gem that sparkles oh so bright, a jester's grin with tricks so sly, and power that strikes from the sky.",
+      "hint": "Think of the moon, butterfly, gem, joker, lightning, and one more magical element that shines."
+    },
+    "answer": [
+      3,
+      8,
+      5,
+      19,
+      9,
+      4
+    ]
+  },
+  "emlo_61": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving a trail of brilliance. Fortune favors the bold who hold the precious gems, while luck strikes like a bolt from above. The jester knows all secrets, and nature's fortune symbol guides the way to crystalline wealth.",
+      "hint": "Think of moon-bound ambitions, sudden gains, and lucky charms in the memecoin casino"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, ⚡ strikes your luck, 💎 shines bright, 🤡 plays the game, 🍀 brings fortune, 🔮 shows the future",
+      "hint": "Each emoji represents one answer in order"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      18,
+      19,
+      20
+    ]
   }
 }
