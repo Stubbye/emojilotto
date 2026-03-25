@@ -2446,5 +2446,23 @@
       7,
       19
     ]
+  },
+  "sol_96": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the trickster's grin mirrors the scaled serpent's ancient game. The archer's mark meets the winged wanderer's grace, as crystalline brilliance crowns this luminous space.",
+      "hint": "Consider celestial bodies, performers of chaos, and creatures of mythology bound together by light and chance."
+    },
+    "easyRiddle": {
+      "text": "I contain a heavenly body that glows at night, a magical gem that sparkles bright, a creature with wings and scales so grand, a jester's jest, and fortune's hand. What six treasures dance in this lottery's command?",
+      "hint": "Look for the moon, something precious, creatures with wings and tails, a joker, lightning's energy, and a symbol of victory."
+    },
+    "answer": [
+      3,
+      4,
+      13,
+      14,
+      19,
+      21
+    ]
   }
 }
