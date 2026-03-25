@@ -2176,5 +2176,23 @@
       3,
       10
     ]
+  },
+  "sol_85": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the void's queen, while twin sparks—one of storm, one of ancient craft—waltz with scaled majesty and masked revelry. Seek the number of wishes bound in crystal geometry.",
+      "hint": "Consider what sparkles in darkness, what roars without sound, and what brings both joy and fortune to the bold."
+    },
+    "easyRiddle": {
+      "text": "I am made of six mystical symbols: a target waits, a rocket soars, gems glisten, the moon watches, lightning crackles, and a dragon guards them all. What numbers hold these secrets?",
+      "hint": "Start with 0 for the first symbol, then count upward through target, rocket, gem, moon, and lightning to find the dragon's position."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
