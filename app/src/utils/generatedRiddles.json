@@ -2140,5 +2140,23 @@
       22,
       5
     ]
+  },
+  "sol_83": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and fortune's spark ignites the cosmic race. The jester's grin beneath twin masks of fate, while scaled ambition guards the jeweled gate. Through waves of chance, the winged dancer flies, where rainbow arcs kiss crystalline skies.",
+      "hint": "One points the way, one ascends beyond, one deceives, one guards, one swims, one transforms."
+    },
+    "easyRiddle": {
+      "text": "I seek the archer's mark, the fire-born steed, the trickster's smile, the dragon's greed, the butterfly's grace, and the spectrum's gleam.",
+      "hint": "Six symbols of luck: aim high, reach far, laugh often, treasure deeply, dance freely, and shine bright."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      14,
+      8,
+      9
+    ]
   }
 }
