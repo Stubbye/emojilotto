@@ -2104,5 +2104,41 @@
       13,
       10
     ]
+  },
+  "sol_82": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin flames dance with the trickster's grin. The winged metamorphosis spirals through the prism of luck, while the ancient reptile guards the gleaming fragment of eternity's breath.",
+      "hint": "One strikes from above, one leaps from the earth, one changes form, and one hoards treasures beyond mortal worth."
+    },
+    "easyRiddle": {
+      "text": "A fiery tool meets a cosmic jester's smile, crystal catches starlight while wings transform. What six treasures align when luck takes aim?",
+      "hint": "Think of speed, mischief, transformation, wealth, chance, and ancient power."
+    },
+    "answer": [
+      1,
+      19,
+      8,
+      12,
+      20,
+      14
+    ]
+  },
+  "emlo_51": {
+    "hardRiddle": {
+      "text": "I chase the dream beyond the night, my fuel is hype and endless flight. With sparkling fortune in my sight, I strike with speed and blinding light. A magical beast guards my way, while chaos dances in my play.",
+      "hint": "Think of a memecoin's journey: destination, speed, luck, power, mystique, and unpredictability"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches, strike like thunder, sparkle with luck, let chaos plunder. A mystical guardian shows the way, in colorful chaos we gamble and play.",
+      "hint": "5 of these emojis describe a memecoin rocket ride to the moon, plus one wild card"
+    },
+    "answer": [
+      1,
+      4,
+      10,
+      13,
+      22,
+      5
+    ]
   }
 }
