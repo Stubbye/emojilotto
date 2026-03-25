@@ -2158,5 +2158,23 @@
       8,
       9
     ]
+  },
+  "emlo_52": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, my gemstone heart burns bright with electric greed. Lady luck spins her wheel as I spark and ignite, dancing through the circus of fortune's flight.",
+      "hint": "Think of a memecoin's journey: destination, power, value, dreams, energy, and celebration"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! A shiny gem glows, lightning strikes fast, the fire shows. The moon awaits your fortune's glow, in this game of sparkles, let the magic flow.",
+      "hint": "Five of these are in the crypto sky, one creates the party as your wealth climbs high"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      3,
+      10
+    ]
   }
 }
