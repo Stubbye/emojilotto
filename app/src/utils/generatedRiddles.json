@@ -2068,5 +2068,41 @@
       19,
       10
     ]
+  },
+  "sol_81": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and the jester's twin masks reveal what lightning cannot burn. The dragon's treasure gleams beneath the acrobat's tent, while fate's six-sided whisper echoes through prismatic flames. What six celestial witnesses guard the threshold between chaos and destiny?",
+      "hint": "Look for symbols of luck, performance, precision, mysticism, chance, and brilliance. One brings laughter, one brings sight, one brings destiny's roll."
+    },
+    "easyRiddle": {
+      "text": "I contain six magical symbols: one strikes with electricity, one shines with jeweled light, one performs in a ring, one decides with numbered sides, one breathes ancient wisdom, and one marks the bullseye. What lottery secrets do I hold?",
+      "hint": "Think of: electricity, precious stone, circus entertainment, game of chance, mythical beast, and accuracy."
+    },
+    "answer": [
+      5,
+      2,
+      7,
+      11,
+      13,
+      0
+    ]
+  },
+  "emlo_50": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with fiery ambition, while fortune's electric strikes guide seekers through prismatic waves. A joker's gem glimmers beneath the moon's gaze, and crystalline magic sparkles where the fox dances.",
+      "hint": "Six symbols of crypto fortune: ascension, luck's strike, spectrum dreams, trickster's prize, frozen brilliance, and cunning wealth"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🚀 speed! ⚡ brings luck, 💎 brings greed. 🦊 is sly, ✨ shows the way. Which six guide traders to their day?",
+      "hint": "Moon, rocket, lightning, gem, fox, and sparkles - the path to memecoin riches"
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      2,
+      13,
+      10
+    ]
   }
 }
