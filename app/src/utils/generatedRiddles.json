@@ -2320,5 +2320,23 @@
       7,
       0
     ]
+  },
+  "emlo_57": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, collecting precious stones that make diamonds bleed. Lady luck spins her game with electric fate, while the trickster grins at fortune's gate. A winged creature dances through cosmic fire, ascending toward wealth that never tires.",
+      "hint": "Think of a memecoin journey: destination, velocity, valuables, chance, mischief, and graceful movement through chaos."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 is precious, ⚡ is quick, 🎭 is playful, 🦋 is graceful, and 🌙 is where we dream of going.",
+      "hint": "These 6 emojis tell the story of every memecoin investor's fantasy."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      19,
+      8,
+      3
+    ]
   }
 }
