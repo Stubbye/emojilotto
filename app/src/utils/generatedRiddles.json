@@ -2338,5 +2338,41 @@
       8,
       3
     ]
+  },
+  "sol_92": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of destiny align: the archer's mark meets the void's silver gaze, twin serpents coil beneath sparkling rain, while masked revelry crowns the victor's ascent. Luck pirouettes on crystalline laughter.",
+      "hint": "One brings aim, one brings chaos, one brings night, one brings storm, one brings joy, one brings triumph."
+    },
+    "easyRiddle": {
+      "text": "Find the target's precision, the moon's mystery, the lightning's power, the sparkles' magic, the joker's jest, and the trophy's glory.",
+      "hint": "Think of winning: accuracy, darkness, energy, shimmer, trickery, and victory."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      9,
+      17,
+      21
+    ]
+  },
+  "emlo_58": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, collecting treasures that sparkle and gleam. Fortune favors the bold with electric precision, while chaos dances in flames of ambition. A jester's gamble under cosmic fortune, where magic crystals unlock the next chapter.",
+      "hint": "Think of a memecoin journey: fast growth, shiny rewards, risky moves, and mystical elements"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, ✨ makes things shiny, 💎 is treasure, ⚡ is quick, 🔥 is hot, 🎲 is luck",
+      "hint": "Six things that describe a crypto memecoin adventure"
+    },
+    "answer": [
+      1,
+      10,
+      2,
+      4,
+      5,
+      11
+    ]
   }
 }
