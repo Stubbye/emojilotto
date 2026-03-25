@@ -2410,5 +2410,41 @@
       20,
       21
     ]
+  },
+  "sol_95": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six secrets dance in chaos' game. A jester's grin beneath the gem's cold gleam, while winged metamorphosis bends reality's seam. Thunder's kiss ignites the crystal sphere, and rainbow's arc completes what fate holds dear.",
+      "hint": "Consider what transforms, what burns, what laughs, what shines, what strikes, and what guides the lost soul homeward."
+    },
+    "easyRiddle": {
+      "text": "Six treasures await: the mark of precision, the jewel of abundance, the clown's wise folly, the butterfly's rebirth, the storm's raw power, and the arc of hope after darkness.",
+      "hint": "Think of hitting targets, finding gems, laughing with jesters, witnessing transformation, experiencing lightning, and seeing rainbows."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      8,
+      4,
+      9
+    ]
+  },
+  "emlo_60": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my value sparkling like precious stones. Fortune smiles with electric chance, while magical transformation dances around me. The jester's luck guides my path to glory.",
+      "hint": "Think of crypto's journey: destination, velocity, wealth, luck, chaos, and fortune"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up up up, 💎 is shiny and worth money, ⚡ is fast and powerful, 🌙 is the crypto dream, 🎪 is wild and fun, 🃏 is lucky and random",
+      "hint": "Count the emojis: moon, rocket, gem, lightning, circus, joker"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      19
+    ]
   }
 }
