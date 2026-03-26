@@ -2788,5 +2788,41 @@
       9,
       10
     ]
+  },
+  "sol_107": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, through gemstone gates where lightning dares appear. The dragon's flame ignites the butterfly's ascent, while masked performers spin their secret descent. Six harbingers of destiny's cruel jest—which symbols pierce the veil of fortune's test?",
+      "hint": "Consider celestial bodies, mythical creatures, natural phenomena, and human spectacle. One brings light from above, one emerges from cocoon, one demands courage, one reveals truth, one strikes swift, and one burns eternal."
+    },
+    "easyRiddle": {
+      "text": "I see a winged creature reborn, a sky-fire that strikes without warning, a jeweled treasure that catches light, a scaled beast of ancient might, a dancing flame that never sleeps, and the moon that over darkness keeps. Name these six.",
+      "hint": "Think of transformation, electricity, value, mythology, heat, and night sky—each represents a different force of nature or magic."
+    },
+    "answer": [
+      8,
+      4,
+      2,
+      13,
+      5,
+      3
+    ]
+  },
+  "emlo_70": {
+    "hardRiddle": {
+      "text": "From the circus tent of chaos, a joker dances with lightning speed. The dragon's gem gleams under moonlight, while a rocket ignites with fire. What six symbols chart the memecoin's wild journey to the stars?",
+      "hint": "Think of a chaotic celebration reaching astronomical heights with precious rewards."
+    },
+    "easyRiddle": {
+      "text": "A funny joker, a bright gem, a fast rocket, a glowing moon, hot fire, and wild lightning - these six emojis represent your memecoin's explosive ride. Can you spot them all?",
+      "hint": "Look for: a jester, something shiny, a space vehicle, Earth's satellite, heat, and electricity."
+    },
+    "answer": [
+      4,
+      2,
+      1,
+      3,
+      5,
+      19
+    ]
   }
 }
