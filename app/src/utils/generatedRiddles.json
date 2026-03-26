@@ -2680,5 +2680,41 @@
       7,
       22
     ]
+  },
+  "sol_103": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent dances with celestial fire. The jester's grin meets the huntsman's cunning, while petals of night bloom eternal. Six tokens of fate converge where luck ignites—seek the gem within the storm.",
+      "hint": "One soars toward destiny, one guards ancient secrets, one mocks all outcomes, one stalks in shadows, one burns with cosmic rage, one whispers in darkness."
+    },
+    "easyRiddle": {
+      "text": "A flying creature of scales breathes flames at the moon. A cunning beast watches. A joker laughs at chance. A flower never fades. A lightning strike pierces. What six dance together in luck's lottery?",
+      "hint": "Think of: a mythical beast, a celestial body, a trickster, a sly animal, thunder's power, and nature's bloom."
+    },
+    "answer": [
+      1,
+      3,
+      19,
+      13,
+      5,
+      14
+    ]
+  },
+  "emlo_67": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking precious fortune. Rainbow-painted chaos dances with dragon fire as jokers spark crystal magic. What six guide the diamond seekers to glory?",
+      "hint": "Think of a memecoin's journey: speed, destination, value, chaos, magic, and luck combined"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon carrying gems and lightning. Jokers and crystals sparkle along the way. What are these six symbols?",
+      "hint": "Count the objects mentioned: transportation, location, treasure, energy, trickster, and mineral"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      12,
+      20
+    ]
   }
 }
