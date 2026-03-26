@@ -2752,5 +2752,23 @@
       10,
       20
     ]
+  },
+  "sol_105": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and winged metamorphosis meets the jester's veil. Six secrets hide in chaos: the archer's distant mark, the serpent's scaled ambition, the flash that splits the sky, the court's masked deceiver, and twin forces—one of transformation's grace, one of luck's geometric face.",
+      "hint": "Look for targets, mythical power, electrical energy, theatrical deception, natural evolution, and games of chance"
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye, the magical beast, the spark, the fool, the butterfly, and the numbered cubes. Six symbols of luck and wonder await.",
+      "hint": "One you aim at, one breathes fire, one strikes from sky, one tells jokes, one has wings, one you roll"
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      18,
+      7,
+      10
+    ]
   }
 }
