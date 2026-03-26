@@ -2824,5 +2824,41 @@
       5,
       19
     ]
+  },
+  "sol_108": {
+    "hardRiddle": {
+      "text": "Through violet dreams where fortune spins, a swift deceiver grins. The dragon's breath ignites the night, while crystal tears catch starlight bright. Where masked performers leap and bound, six harbingers of luck are found.",
+      "hint": "Consider trickery, power, luck, performance, brilliance, and celestial fire."
+    },
+    "easyRiddle": {
+      "text": "A trickster fox, a dancing dragon, crystal shining, masks in wagon. Fire burning, star so bright—six magical things light up the night.",
+      "hint": "Look for: cunning animal, mythical beast, gem treasure, theater, flame, and celestial body."
+    },
+    "answer": [
+      13,
+      14,
+      21,
+      19,
+      5,
+      6
+    ]
+  },
+  "emlo_71": {
+    "hardRiddle": {
+      "text": "A jester's luck rides the cosmic wave, where gems ignite with electric fire. The dragon's treasure gleams under the moon's sparkle, guarded by fortune's dance. What six celestial symbols mark the path to diamond riches?",
+      "hint": "Think of a memecoin's journey: luck, volatility, gems, energy, mythical power, and cosmic destiny."
+    },
+    "easyRiddle": {
+      "text": "I'm a lucky symbol, a rocket shoots up, gems shine bright, lightning strikes fast, fire burns hot, and the moon glows above. Which six emojis complete this memecoin adventure?",
+      "hint": "Count the objects mentioned: lucky charm, vehicle, precious stone, energy, flames, and night sky."
+    },
+    "answer": [
+      20,
+      1,
+      2,
+      4,
+      5,
+      3
+    ]
   }
 }
