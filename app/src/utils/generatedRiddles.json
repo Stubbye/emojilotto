@@ -3004,5 +3004,41 @@
       8,
       21
     ]
+  },
+  "sol_114": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, a scaled beast guards the prism's desire. Six-pointed light crowns the nocturnal sphere, while metamorphic wings and thunder's rupture draw near. In chaos's numerical heart, the masked revelry spins—decode the order where destiny begins.",
+      "hint": "A performer's laughter, a dragon's treasure, a star's eternal measure, transformation's leisure, fate's pressure, and the sky's pleasure."
+    },
+    "easyRiddle": {
+      "text": "I seek six magical symbols: a jester who brings laughter, a dragon of ancient power, a star that shines bright, a butterfly that transforms, lightning that strikes swift, and the moon that lights the night. What are these six?",
+      "hint": "Think of: joker, dragon, star, butterfly, lightning, and moon."
+    },
+    "answer": [
+      19,
+      13,
+      21,
+      8,
+      5,
+      3
+    ]
+  },
+  "emlo_75": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electrifying speed, my gem-like value sparkles as I ride the cosmic wave. Lucky tokens dance like butterflies around my magical fire, while my trophy shines brighter than any star.",
+      "hint": "Think of a memecoin's journey: destination, speed, value, fortune, transformation, and victory"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ makes it fast, 💎 shows its worth, 🍀 brings luck, 🦋 means change, 🏆 means you won!",
+      "hint": "These 6 emojis tell the story of every crypto dreamer's adventure"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      19,
+      8,
+      17
+    ]
   }
 }
