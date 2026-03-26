@@ -2950,5 +2950,41 @@
       18,
       21
     ]
+  },
+  "sol_112": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, and fortune's jester dances with nature's jeweled frame. Six secrets hide: the night's pale sentinel watches over crimson chaos, while winged metamorphosis glides through prisms of heaven's arc. The trickster grins where crystalline brilliance shatters into a thousand gleaming whispers, and luck's four-leafed sentinel stands eternal.",
+      "hint": "One rules the night, one feeds the soul, one transforms, one deceives, one sparkles eternal, one grants wishes."
+    },
+    "easyRiddle": {
+      "text": "I guide you at night with my pale face. Fire dances and leaps in wild grace. A joker grins wide with tricks to share. A butterfly floats through rainbow air. Crystals shine bright with sparkling light. A clover brings luck when held just right.",
+      "hint": "Find the moon, fire, joker, butterfly, crystal, and clover in the night sky and garden."
+    },
+    "answer": [
+      3,
+      5,
+      11,
+      8,
+      20,
+      19
+    ]
+  },
+  "emlo_74": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with burning velocity, my gems glitter as electricity strikes, while fortune spins like a jester's game beneath the cosmic glow.",
+      "hint": "Think of a memecoin's journey to wealth through chance and speed"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🌙 watches above, 🎪 entertains, 🎲 decides your fate",
+      "hint": "Six symbols of the crypto gambler's dream"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      6,
+      11
+    ]
   }
 }
