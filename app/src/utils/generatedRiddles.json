@@ -2572,5 +2572,41 @@
       13,
       20
     ]
+  },
+  "sol_100": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the weaver's night, six dancers twine in shadow's light. The jester's laugh echoes through crystalline halls, while scaled wisdom guards what destiny calls. A prism splits the performer's dream, and luck's own bolt commands the gleam.",
+      "hint": "One brings precision, one brings chaos. One reflects, one roars. One performs, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "Find the marksman's center, the trickster's grin, the dragon's ancient kin, the crystal's shine, the stage's own, and lightning's throne.",
+      "hint": "A target, a joker, a fox, a crystal, a circus tent, and electricity."
+    },
+    "answer": [
+      0,
+      12,
+      13,
+      20,
+      7,
+      4
+    ]
+  },
+  "emlo_64": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights with electric speed, sparkling with fortune's fire. A jester's luck dances with gemstone brilliance, while nature's delicate wings flutter toward rainbow treasures.",
+      "hint": "Six symbols of crypto ascension: propulsion, destination, wealth, chaos, fortune, and transformation"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! Rocket fast ⚡ with gems so bright ✨. The joker brings luck 🍀, and butterflies dance in rainbow light 🌈. What six help us to the top? 🏆",
+      "hint": "Think of a memecoin's journey: launch, destination, riches, luck, beauty, and victory"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      8,
+      9
+    ]
   }
 }
