@@ -3040,5 +3040,23 @@
       8,
       17
     ]
+  },
+  "sol_115": {
+    "hardRiddle": {
+      "text": "Where celestial flames dance with fortune's crimson eye, and serpent's wisdom spirals through the veil of night, a butterfly's fleeting grace meets the archer's mark beneath stars that weep crystalline tears of destiny's flame.",
+      "hint": "Look for the meeting of sky and fire, the mythical guardian, the winged messenger, the precious stone of eternity, the nocturnal sphere, and fortune's center."
+    },
+    "easyRiddle": {
+      "text": "I am a dragon breathing fire at the moon, a crystal shining brightly, a butterfly dancing near a target, and stars that sparkle with gems.",
+      "hint": "Count: a large serpent, flames, the night orb, a precious stone, a delicate insect, and the bullseye."
+    },
+    "answer": [
+      14,
+      5,
+      8,
+      21,
+      2,
+      3
+    ]
   }
 }
