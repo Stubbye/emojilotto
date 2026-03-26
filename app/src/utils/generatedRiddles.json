@@ -2500,5 +2500,41 @@
       19,
       20
     ]
+  },
+  "sol_98": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, and celestial fire dances with prismatic tears, the jester's twin souls waltz through crystalline echoes. Seek the beast of emerald scales, the winged wanderer of metamorphosis, and the bloom that sings silent symphonies—six seekers of destiny converge where luck is authored by chaos itself.",
+      "hint": "One aims true, one ignites dreams, one reflects all light, one rules above, one tricks the mind, one transforms eternally"
+    },
+    "easyRiddle": {
+      "text": "I strike with electricity, I shine bright above, I change into beauty, I roar with ancient power, I flutter with wonder, and I bloom without reason. Together we dance in the lottery's embrace.",
+      "hint": "Think of weather, night sky, transformation, legendary creatures, nature's dancers, and gardens"
+    },
+    "answer": [
+      4,
+      21,
+      11,
+      13,
+      7,
+      14
+    ]
+  },
+  "emlo_62": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, through fire and gems I've guaranteed. A rocket's path with sparkles bright, the dragon's treasure shines at night. What six celestial symbols lead to memecoin fortune and greed?",
+      "hint": "Think of a crypto journey: destination, power, wealth, sky, electricity, and treasure"
+    },
+    "easyRiddle": {
+      "text": "Find the path to moon fortune: a flying vessel, a glowing stone, a bolt of power, burning heat, a magical creature, and shining dust. What are these six symbols?",
+      "hint": "Space, wealth, speed, destruction, fantasy, magic"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      14,
+      10
+    ]
   }
 }
