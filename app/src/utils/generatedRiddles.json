@@ -2536,5 +2536,41 @@
       14,
       10
     ]
+  },
+  "sol_99": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six tokens of destiny dance between realms unseen. The archer's mark gleams with inner light, while wings of transformation flutter near the void's pale guardian. Thunder's kiss ignites the prism of luck, and laughter's masked troupe spins eternal. In this constellation of chance, what six emerge from chaos to sing their silent song?",
+      "hint": "One watches from above, one pierces darkness, one laughs at fate, one transforms, one blazes, and one shimmers with pure possibility."
+    },
+    "easyRiddle": {
+      "text": "I shine from distant night, I dance with electric power, I glow with endless luck, I wear a jester's grin, I transform with delicate grace, and I mark the archer's aim. Six of us together hold the lottery's secret.",
+      "hint": "Look to the sky, feel the storm, find the trickster, watch the creatures, and seek the tools of chance."
+    },
+    "answer": [
+      3,
+      5,
+      10,
+      19,
+      8,
+      0
+    ]
+  },
+  "emlo_63": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with volatile might. My gem-like value rides lightning waves, while fire fuels the rocket's craze. A dragon's treasure, a joker's game—which six guide us to memecoin fame?",
+      "hint": "Think of the journey from earth to moon, with magical elements that make traders swoon"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with fire and speed, gem and sparkles are what we need. Lightning strikes, the dragon flies high—which six help our coin reach the sky?",
+      "hint": "Look for emojis that represent explosive growth, precious rewards, and celestial destinations"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      20
+    ]
   }
 }
