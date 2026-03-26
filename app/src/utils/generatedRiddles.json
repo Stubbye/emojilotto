@@ -2932,5 +2932,23 @@
       20,
       21
     ]
+  },
+  "sol_111": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers converge in shadow's appeal. The archer's dream meets the scaled serpent's might, while petals unfurl beneath stellar light. A jester's grin guards the trembling spark, as crystal blooms pierce the velvet dark.",
+      "hint": "Consider what rises, what performs, what grows, what rules, what deceives, and what endures."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await your call: a blazing strike brings fortune's hall, a dragon roars with ancient gold, a flower blooms as stories told, the joker laughs with mischief's art, and crystal shines from nature's heart.",
+      "hint": "Look for electricity, mythical beasts, nature's beauty, precious stones, trickery, and pure light."
+    },
+    "answer": [
+      4,
+      13,
+      14,
+      20,
+      18,
+      21
+    ]
   }
 }
