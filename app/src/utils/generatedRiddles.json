@@ -2644,5 +2644,41 @@
       11,
       18
     ]
+  },
+  "sol_102": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the heavens' fire, and crystalline dreams dance with nature's choir. Through rainbow's prism, the jester's masked delight, while emerald fortune blooms beneath starlight. The winged soul ascends where thunder dwells, and echoing melodies spin fortune's spells.",
+      "hint": "Seek the union of precision, ascension, brilliance, chaos, transformation, and celestial harmony."
+    },
+    "easyRiddle": {
+      "text": "Six tokens hide where aim meets sky, where gems catch light and butterflies fly. Fire crackles near the joker's grin, while a star above lets luck begin.",
+      "hint": "Think of targets, rockets, gems, stars, butterflies, and fire."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      8,
+      5
+    ]
+  },
+  "emlo_66": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gems sparkle as I rocket upward. Fortune favors the bold who hold me through fire and storm, seeking treasure beyond the moon where dragons guard crystal palaces.",
+      "hint": "Think of a memecoin's journey: explosive growth, precious rewards, and legendary ambitions."
+    },
+    "easyRiddle": {
+      "text": "Six symbols show the memecoin way: a target for aim, a rocket for launch, gems for wealth, lightning for speed, fire for hype, and the moon for dreams.",
+      "hint": "Count the six things mentioned that represent crypto culture."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      22
+    ]
   }
 }
