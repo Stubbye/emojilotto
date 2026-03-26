@@ -2716,5 +2716,41 @@
       12,
       20
     ]
+  },
+  "sol_104": {
+    "hardRiddle": {
+      "text": "Through celestial veils where fortune spins, the archer's mark meets cosmic twin. Where lightning dances with ancient flame, a jester's grin whispers the game. The winged metamorphosis seeks the prism's truth, while crystalline fragments hold eternal youth.",
+      "hint": "Seek the celestial hunter, the trickster's smile, the sky's fury, the transformation's mile, the precious shard, and light refracted through the veil."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that strikes from above, the target we aim for with love, the joker who laughs at the game, the butterfly born without shame, the crystal that sparkles so bright, and the gem that shines in the night.",
+      "hint": "Look for: electricity, precision, humor, wings, ice-like beauty, and treasure."
+    },
+    "answer": [
+      4,
+      0,
+      19,
+      8,
+      20,
+      2
+    ]
+  },
+  "emlo_68": {
+    "hardRiddle": {
+      "text": "I chase the distant celestial body with electric speed, my precious gems sparkling as I ignite the way. The trickster's fortune spins below, guided by mystical luck, while my shimmer dazzles like a thousand tiny bursts of joy.",
+      "hint": "Think of crypto's ultimate goal, fast movements, and the randomness of gambling"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we fly with ⚡ speed, our 💎 shine bright. The 🎰 determines our fate, and ✨ celebrates our win!",
+      "hint": "Moon, electricity, gems, dice, and sparkles tell the story"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      11,
+      10,
+      20
+    ]
   }
 }
