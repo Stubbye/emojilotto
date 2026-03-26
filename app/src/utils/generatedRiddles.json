@@ -2860,5 +2860,41 @@
       5,
       3
     ]
+  },
+  "sol_109": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and luck's twin flames dance with prismatic desire. The jester's grin echoes through gemstone halls, while thunder's kiss awakens where shadow falls. Six secrets hide in fortune's ancient game—seek the bullseye, the blaze, the court's wild name.",
+      "hint": "One marks precision, one ignites the soul, one brings chaos to the dealer's role. Look to sky's jewel, to electricity's grace, and to the gem that holds all of luck's face."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: one you aim at, one burns bright, one is royal and sly, one lights up the night, one sparkles with value, one strikes with might.",
+      "hint": "Think of archery, fire, playing cards, the sky, precious stones, and storms."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      1,
+      2,
+      4
+    ]
+  },
+  "emlo_72": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive energy, seeking fortune's gleam. Dancing flames accompany my ascent while luck strikes like bolts from above. The jester grins at chaos, and nature's smallest marvel flutters near the glow of crystalline treasures.",
+      "hint": "Think of a memecoin's journey: explosive growth, lunar ambitions, and pure luck"
+    },
+    "easyRiddle": {
+      "text": "Which six elements fuel the ultimate memecoin adventure: the vehicle of ambition, the destination of dreams, the spark of fortune, the jester's chaos, the jewel of wealth, and nature's lucky symbol?",
+      "hint": "Rocket to moon, lightning luck, joker chaos, gem treasure, clover fortune"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      11,
+      2,
+      19
+    ]
   }
 }
