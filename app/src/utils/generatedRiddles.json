@@ -2770,5 +2770,23 @@
       7,
       10
     ]
+  },
+  "emlo_69": {
+    "hardRiddle": {
+      "text": "A jester's fortune rides the lightning through cosmic gates, seeking treasures that sparkle beyond the rainbow. What six symbols mark the path of the diamond-handed wanderer?",
+      "hint": "Think of explosive growth, precious rewards, and the journey to the moon with chaotic energy."
+    },
+    "easyRiddle": {
+      "text": "I'm a funny character, there's electricity in the air, gems are shining, we're going up high, colors fill the sky, and everything glows. What am I?",
+      "hint": "Picture a wild party celebrating a moon mission."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      9,
+      10
+    ]
   }
 }
