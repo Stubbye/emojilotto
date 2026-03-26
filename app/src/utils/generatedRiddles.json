@@ -2986,5 +2986,23 @@
       6,
       11
     ]
+  },
+  "sol_113": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a gem ignites within the cosmic space. The dragon coils where thunder splits the night, while masked performers dance in spectral light. Six secrets hide within this cryptic round—seek the butterfly where starlight's bound.",
+      "hint": "Look to the heavens and the earth's deep heart; one brings chaos, one breaks them apart."
+    },
+    "easyRiddle": {
+      "text": "A dragon flies toward a shining star, a gem and lightning are not too far. The target glows where thunder calls, masks hide truth within these halls. A butterfly floats where sparks ignite—which six will guide you through the night?",
+      "hint": "One soars the sky, one strikes with might, one shines for luck, and one loves flight."
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      4,
+      8,
+      21
+    ]
   }
 }
