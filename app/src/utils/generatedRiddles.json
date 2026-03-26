@@ -2896,5 +2896,41 @@
       2,
       19
     ]
+  },
+  "sol_110": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jester, the winged metamorphosis seeks the gleaming prize beneath prismatic arcs. Six tokens hide: the archer's bullseye, the ascending flame, the monarch's laughter, the lunar sentinel, the crystalline heart, and the electric kiss of fate.",
+      "hint": "Think of transformation, luck, light, and the heavens above."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the rocket soaring high, the glittering gem, the glowing moon, the bright crystal, and the lightning's strike.",
+      "hint": "One is round and red, one goes up, one sparkles, one is in the sky, one is clear, and one is fast and electric."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      20,
+      4
+    ]
+  },
+  "emlo_73": {
+    "hardRiddle": {
+      "text": "To the moon we ride with lightning speed, through fire and gems we plant our seed. A joker's fortune sparkles bright, dancing under stars so light. What six celestial wonders guide the memecoin's wild ride?",
+      "hint": "Think of the journey to wealth: speed, treasure, luck, magic, destination, and light"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 is treasure, ⚡ is power, 🔥 is hot, ✨ is magic, and ⭐ shines. Pick these six for the moon mission!",
+      "hint": "A rocket needs speed, treasure, energy, heat, magic, and direction"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      20,
+      21
+    ]
   }
 }
