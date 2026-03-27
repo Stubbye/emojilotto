@@ -3112,5 +3112,41 @@
       13,
       14
     ]
+  },
+  "sol_119": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and gemstone fire dances with celestial grace. The jester's grin reflects in crystalline sight, as thunder's kiss ignites the stellar night. Six vessels hold the key to fate's design, where spectrum's arc and destiny align.",
+      "hint": "Seek the symbols of chance, brilliance, chaos, and cosmic wonder. One guides aim, one grants wish, one laughs at fate, one splits sky, one crowns achievement, one bridges worlds."
+    },
+    "easyRiddle": {
+      "text": "I am six in one: a hunter's aim, a precious stone that catches flame, a joker's mocking grin so wide, lightning that splits the sky with pride, a crown of victory earned through might, and colors that paint the sky so bright.",
+      "hint": "Think of: accuracy, wealth, mischief, power, success, and beauty."
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      4,
+      17,
+      9
+    ]
+  },
+  "emlo_79": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, a gem-like treasure that makes diamond hands succeed. Through fire and lightning I climb ever higher, while sparkles and stars fuel the diamond desire.",
+      "hint": "Think of the journey from earth to the moon, powered by hype and community fuel."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ powers the move, 💎 is the prize, ✨ shows the groove, 🌙 is the goal, and 🔥 proves it's true!",
+      "hint": "Count the emojis in the easy riddle - that's your answer!"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      9,
+      3,
+      6
+    ]
   }
 }
