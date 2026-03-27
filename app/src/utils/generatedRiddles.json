@@ -3202,5 +3202,23 @@
       5,
       8
     ]
+  },
+  "sol_122": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six siblings gather in fortune's trance. The archer's mark holds the serpent's gleam, while the night's pale keeper guards the dream. Swift wings flutter past the storm's bright tongue, and the jester's grin where fortunes are sung.",
+      "hint": "Look to the heavens, the stage, and the cards. One brings luck in circles, one breaks all guards."
+    },
+    "easyRiddle": {
+      "text": "Find the target where the dragon coils, the gem that sparkles in midnight's soils, the moon that witnesses fortune's flight, the lightning's strike in the joker's light, the butterfly dancing through circus air, and the trophy waiting beyond compare.",
+      "hint": "Six treasures: one aimed, one scaled, one precious, one celestial, one struck, one crowned."
+    },
+    "answer": [
+      0,
+      3,
+      12,
+      18,
+      21,
+      8
+    ]
   }
 }
