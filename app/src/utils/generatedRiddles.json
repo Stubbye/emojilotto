@@ -3148,5 +3148,41 @@
       3,
       6
     ]
+  },
+  "sol_120": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath celestial fire, six tokens of fate converge in twilight's gyre. The winged metamorphosis ascends through prismatic veils, while the serpent of thunder guards where destiny sails. Precision's circle calls to chaos's blessed bones, and the crowned victor claims what the nocturnal throne owns.",
+      "hint": "One brings laughter's mask, one paints the sky's arc, one flows with electric breath, one transforms through darkness, one spins with randomness, one gleams with victory's light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await the brave seeker: a trickster who jokes, a creature that glides on gossamer wings, a flash across the night sky, a precious stone that sparkles, a floating orb of night, and a prize of champions.",
+      "hint": "Think of: amusement, nature's change, weather, jewels, the sky, and winning."
+    },
+    "answer": [
+      19,
+      8,
+      5,
+      2,
+      21,
+      18
+    ]
+  },
+  "emlo_80": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving sparkling trails of fortune. My gemstone essence shimmers with magical energy, protected by a fortunate charm. What six symbols represent my essence?",
+      "hint": "Think of a moonshot investment with lucky sparkle and protective magic"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes to the moon with lightning speed, leaving sparkles behind. A gem glows bright and a clover brings luck. Which six emojis are these?",
+      "hint": "Count the objects mentioned: rocket, moon, lightning, sparkles, gem, clover"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      9,
+      2,
+      19
+    ]
   }
 }
