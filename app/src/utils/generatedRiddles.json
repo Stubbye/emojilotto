@@ -3076,5 +3076,23 @@
       5,
       7
     ]
+  },
+  "emlo_77": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, a precious gem that sparkles bright. Fortune favors the bold when lightning strikes and fire ignites, where jesters dance and lucky charms align beneath the cosmic glow.",
+      "hint": "Think of what every memecoin hodler desires: moon gains, sudden wealth, and the luck to win big."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the 🌙, ⚡ fast gains, 💎 treasure, 🔥 hype, 🍀 luck, ✨ magic - what makes a memecoin lottery dream?",
+      "hint": "Six symbols of crypto dreams and lucky winnings."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      19,
+      9
+    ]
   }
 }
