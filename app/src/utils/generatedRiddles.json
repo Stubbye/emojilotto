@@ -3418,5 +3418,41 @@
       18,
       12
     ]
+  },
+  "sol_129": {
+    "hardRiddle": {
+      "text": "Where celestial fortune pirouettes through prismatic veils, six dancers of fate converge: the archer's distant dream marks the threshold, while winged metamorphosis bears witness. Thunder's kiss ignites the void as lunar sentinels gleam, and the jester's painted grin completes the sacred geometry of chance itself.",
+      "hint": "One flies without wings, one transforms, one strikes from above, one glows at night, one laughs at destiny, and one points the way."
+    },
+    "easyRiddle": {
+      "text": "I speak of aim and change, of storm and night's soft glow. A laughing face joins the dance, while electric chaos flows. Six symbols of luck await—find the target, butterfly, lightning, moon, joker, and the shimmering gem that crowns them all.",
+      "hint": "Think of lucky symbols: a bullseye, something that transforms, weather that strikes, the night sky, a funny character, and something precious."
+    },
+    "answer": [
+      0,
+      8,
+      5,
+      3,
+      19,
+      2
+    ]
+  },
+  "emlo_87": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, gem-studded and brilliant. When fortune strikes like lightning, the joker dances under my glow. A treasure more precious than any trophy, I sparkle with the dreams of dragons and foxes alike.",
+      "hint": "Think of the ultimate memecoin journey: launch, luck, and legendary gains"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙 with ⚡ speed, find the 💎 that makes you rich, the 🎭 laughs at your fortune",
+      "hint": "Three essential elements: vehicle, destination, and luck"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      19,
+      5
+    ]
   }
 }
