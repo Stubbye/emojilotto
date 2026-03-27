@@ -3508,5 +3508,23 @@
       4,
       10
     ]
+  },
+  "sol_132": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger of transformation spirals through prismatic arcs toward crystalline brilliance—seek the archer's mark where destiny's electricity births a symphony of chance beneath the jester's eternal gaze.",
+      "hint": "One guides aim, one illuminates night, one brings fortune's spark, one shifts form, one reflects all light, one laughs at fate"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow: the pointed seeker of dreams, the frozen tear of heaven, the winged dancer of rebirth, the electric pulse of fortune, the glassy heart of earth, and the laughing trickster who knows all secrets.",
+      "hint": "Think of luck, change, light, chance, beauty, and mischief combined"
+    },
+    "answer": [
+      0,
+      4,
+      8,
+      11,
+      20,
+      19
+    ]
   }
 }
