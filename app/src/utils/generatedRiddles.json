@@ -3184,5 +3184,23 @@
       2,
       19
     ]
+  },
+  "emlo_81": {
+    "hardRiddle": {
+      "text": "I launch to the celestial heights with electric speed, where gems sparkle in the void. A joker's luck meets the dragon's fire, and fortunes dance like butterflies under the rainbow's glow.",
+      "hint": "Think of a memecoin's journey: explosive growth, cosmic ambitions, and the luck of gambling."
+    },
+    "easyRiddle": {
+      "text": "Up, up to the moon we go! Lightning fast with a dragon's might, gems shine bright, and the joker brings luck and fire to our journey.",
+      "hint": "Count the symbols of a rocket ride to crypto riches."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      13,
+      5,
+      8
+    ]
   }
 }
