@@ -3256,5 +3256,41 @@
       4,
       6
     ]
+  },
+  "sol_124": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, and the jester's masked grin dances with the ancient reptile's flame, six secrets entwine in chromatic rebirth—the gemstone's prismatic whisper echoes through the performer's domain, whilst the winged metamorphosis ascends toward the electric crown of destiny.",
+      "hint": "Consider the court of chaos, the sky's keeper, the treasure of earth, the harbinger of change, and the transformation that bridges two worlds."
+    },
+    "easyRiddle": {
+      "text": "I guide the arrow true, I light the darkest night, I sparkle with pure worth, I bring the joy and laughter, I breathe the fierce and hot, and I emerge with painted wings.",
+      "hint": "Think of a target's purpose, a nocturnal sphere, a precious stone, entertainment and mirth, a consuming force, and a creature reborn."
+    },
+    "answer": [
+      0,
+      21,
+      2,
+      11,
+      6,
+      8
+    ]
+  },
+  "emlo_83": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gem glows bright as fortune's creed. Lightning strikes when fortune's won, beneath the moon where rockets run. The joker's grin and dragon's flame light up the way to crypto fame.",
+      "hint": "Six symbols of hodling hope and moon-bound wealth"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with fire and might, chase the sparkles shining bright. A gem so precious, fortune's star, the dragon roars from near and far.",
+      "hint": "Look for speed, treasure, dragons, and celestial signs"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      13,
+      14,
+      21
+    ]
   }
 }
