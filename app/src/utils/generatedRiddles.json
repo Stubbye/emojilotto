@@ -3328,5 +3328,41 @@
       5,
       21
     ]
+  },
+  "sol_126": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked theatre, a jeweled prism shatters into seven hues. The winged metamorphosis spirals through lightning's kiss, while the scaled guardian watches from night's throne. Seek the archer's aim where chaos blooms eternal.",
+      "hint": "One rules the sky's darkness, one ignites the storm, one transforms, one glitters fractured light, one performs deception, one blooms from fortune's hand."
+    },
+    "easyRiddle": {
+      "text": "A sparkly stone, a night-time orb, a sudden bolt of power, something that flutters and changes, a theatrical trickster, and flames that dance—these six secrets hide in plain sight.",
+      "hint": "Think of: precious things, weather, transformation, performance, and nature's fire."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      8,
+      19,
+      5
+    ]
+  },
+  "emlo_85": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, collecting precious stones that make my holders bleed. When fortune strikes like a bolt from above, I dance with fortune's trickster and rise to all stars. What six emojis define my chaotic glory?",
+      "hint": "Think of a memecoin's journey: ambition, wealth, luck, electricity, deception, and ultimate success"
+    },
+    "easyRiddle": {
+      "text": "A coin rocket flies to the moon, lightning strikes bringing luck like a gem. A joker laughs while fire burns bright. Which six emojis show a memecoin's wild ride?",
+      "hint": "One goes up, one glows, one shines, one zaps, one tricks, and one sparkles"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      19,
+      10
+    ]
   }
 }
