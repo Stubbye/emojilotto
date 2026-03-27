@@ -3094,5 +3094,23 @@
       19,
       9
     ]
+  },
+  "sol_118": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a gemstone gleams in darkness grown. The phoenix dances with electric breath, while scaled guardian guards the threshold of death. Petals unfold in prism's embrace, and luck's fourth leaf adorns this sacred space.",
+      "hint": "Seek the intersection of aim and cosmos, precious stone and flame, ancient beast and bloom, fortune's symbol and light's refraction."
+    },
+    "easyRiddle": {
+      "text": "One points the way, one rules the night. One sparkles bright, one burns with might. One crawls with scales, one grows in earth. Count six symbols of cosmic worth.",
+      "hint": "Target, moon, gem, fire, dragon, flower."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      5,
+      13,
+      14
+    ]
   }
 }
