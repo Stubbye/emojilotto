@@ -3220,5 +3220,41 @@
       21,
       8
     ]
+  },
+  "sol_123": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the hunter's zeal. Six secrets hide in chaos and grace—one strikes from above, one spins in the race. The jeweled ascent, the masked deception, the swift and cunning's earthly conception. Luck's twin flames ignite the void, where mirth and peril are both employed.",
+      "hint": "Think of chance, celestial bodies, performers, precious things, and those who hunt in darkness."
+    },
+    "easyRiddle": {
+      "text": "I contain lightning that strikes, a gem that shines bright, a fox that hunts smart, a joker that plays, a moon in the night sky, and one more thing that brings luck. What six treasures complete this lottery's touch?",
+      "hint": "Look for things that glow, trick, hunt, shine, guide, and inspire fortune."
+    },
+    "answer": [
+      5,
+      21,
+      13,
+      11,
+      3,
+      1
+    ]
+  },
+  "emlo_82": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with 🚀 speed, my ⚡ strikes with 💎 greed. Watch the 🔥 dance as fortune's guide, where 🎪 jesters laugh with pride. What sequence holds the memecoin's fate?",
+      "hint": "Moon, rocket, lightning, gem, fire, and circus walk into a lottery..."
+    },
+    "easyRiddle": {
+      "text": "Start where targets aim so true, then blast off to skies of blue. Gather gems that flash and gleam, ride the lightning's electric dream. Watch the fire burn so bright, in a circus of pure delight.",
+      "hint": "Think of: target, rocket, gem, lightning, fire, circus"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ]
   }
 }
