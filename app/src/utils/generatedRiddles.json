@@ -3058,5 +3058,23 @@
       2,
       3
     ]
+  },
+  "emlo_76": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, my gems sparkle as lightning strikes my path. The joker dances with fire, while fortune's wheel spins beneath the circus tent. What six treasures guide the memecoin dreamer to glory?",
+      "hint": "Think of the journey: speed, wealth, luck, chaos, fortune, and spectacle."
+    },
+    "easyRiddle": {
+      "text": "Blast off to wealth with a 🚀, find shiny 💎, aim for the 🌙, dodge the ⚡, embrace the 🔥, and spin the lucky 🎪. Which six emojis spell crypto dreams?",
+      "hint": "These are the symbols of a memecoin moon mission!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
   }
 }
