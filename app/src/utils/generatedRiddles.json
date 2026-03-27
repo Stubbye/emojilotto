@@ -3364,5 +3364,41 @@
       19,
       10
     ]
+  },
+  "sol_127": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gem of twilight gleams. Through lightning's vein a phoenix dances, while masked performers weave their ancient dreams. The dragon's spark ignites the spiral, and crystal chambers sing of wishes made beneath the veil of night.",
+      "hint": "Seek the symbols of desire, luck's twin flame, and the threshold where mortals touch eternity."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark aims at the sky's pale coin. A jewel of earth, a storm's bright finger, fire's breath, a shape-shifter's grin, and frozen light eternal.",
+      "hint": "Six treasures: one shoots, one shines above, one sparkles, one strikes, one grins, one glimmers."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      5,
+      13,
+      20
+    ]
+  },
+  "emlo_86": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, gleaming with precious allure. My magic sparkles as I ride waves of fortune, guided by a mystical guide through the circus of chance. What six treasures mark my path to infinity?",
+      "hint": "Think of a memecoin's journey: starting point, propulsion, value, destination, volatility, and fortune's game."
+    },
+    "easyRiddle": {
+      "text": "A coin zooms up with a shiny gem, sparkles fly as lightning strikes. The moon awaits beyond the carnival. Which six emojis show the way?",
+      "hint": "Follow the rocket to the moon, find the gems and magic, feel the electric energy and fun."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      7
+    ]
   }
 }
