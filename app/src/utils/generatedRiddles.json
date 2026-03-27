@@ -3454,5 +3454,23 @@
       19,
       5
     ]
+  },
+  "sol_130": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a crimson serpent dances with celestial frost. The jester's twin masks mirror what ascends on lightning's breath, while petals of chaos bloom beneath a prism's song. Six threads of fate converge where mirth and mystery entwine.",
+      "hint": "One seeks targets, one ignites passion, one speaks in riddles, one commands the heavens, one transforms, and one reflects all colors."
+    },
+    "easyRiddle": {
+      "text": "A pointed aim, a fiery beast, a foolish grin, a bolt of power, wings of change, and light refracted into all. What six dance together in the lottery's dream?",
+      "hint": "Think of: precision, mythology, amusement, weather, nature's transformation, and prismatic light."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      4,
+      8,
+      23
+    ]
   }
 }
