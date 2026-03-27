@@ -3472,5 +3472,41 @@
       8,
       23
     ]
+  },
+  "sol_131": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets swift ascension, and precious fractured light dances with thunder's kiss. The night guardian watches over fortune's twin wheels spinning beneath prismatic arcs, while scaled majesty breathes through the veil. Six symbols hold destiny's breath—seek the target and its immortal companion, the gem that shatters into stars, the moon's eternal witness, the bolt that splits the sky, and the winged metamorphosis painting rainbows in its wake.",
+      "hint": "One measures aims, one reaches beyond, one glimmers with internal fire, one observes in silence, one tears through moments, one transforms through grace."
+    },
+    "easyRiddle": {
+      "text": "I am precision and ambition combined. I am wealth frozen in time. I am the watcher of night. I am the fury of storms. I am transformation's dance. I am paths of light. What six treasures complete the circle of fortune?",
+      "hint": "Think of: what we aim for, what flies high, what sparkles, what rules the night, what strikes fast, and what emerges reborn."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
+  },
+  "emlo_88": {
+    "hardRiddle": {
+      "text": "A jester's fortune rides cosmic flames toward celestial fortune, where treasures sparkle brilliantly. What six symbols mark this moonbound gambler's wild journey?",
+      "hint": "Think of a meme coin journey: chaos, speed, wealth, destiny, magic, and luck combined."
+    },
+    "easyRiddle": {
+      "text": "I see a funny joker, a fast rocket, shiny gems, the moon above, lightning strikes, and magical sparkles. Count them all!",
+      "hint": "Look for: a jester, a space vehicle, precious stones, Earth's satellite, electricity, and glittering magic."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
