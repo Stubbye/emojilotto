@@ -3562,5 +3562,41 @@
       12,
       2
     ]
+  },
+  "sol_134": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin flames dance with serpentine grace, a jester's painted smile guards the threshold between earthbound sparkle and the prism's fractured light. What six sentinels mark the path through chaos blooming?",
+      "hint": "One aims, one ascends, one adorns, one laughs, one shimmers, one breaks reality into color"
+    },
+    "easyRiddle": {
+      "text": "A rocket chases the moon, while fire and lightning play with a joker who juggles sparkles and a gem. What are these six magical things?",
+      "hint": "Look for: something that shoots up, something bright at night, something hot, something electric, someone silly, and something shiny"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      19,
+      20,
+      22
+    ]
+  },
+  "emlo_90": {
+    "hardRiddle": {
+      "text": "A jester's gamble under the celestial throne, where a winged creature dances through crystalline fire, chased by fortune's spark. The showman's prize gleams as lightning strikes the stage of dreams.",
+      "hint": "Think of a memecoin journey: chaos, luck, speed, wealth, magic, and the path to riches."
+    },
+    "easyRiddle": {
+      "text": "I go to the moon with a rocket so fast, diamonds sparkle as lightning strikes last. The joker laughs at my trophy so bright.",
+      "hint": "Count the emojis: one for each phase of crypto glory."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      11,
+      12,
+      18
+    ]
   }
 }
