@@ -3400,5 +3400,23 @@
       9,
       7
     ]
+  },
+  "sol_128": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin spirals, the jester's masked reverie dances upon crystalline waves. Six sentinels of fate converge: the archer's eternal mark, the vessel that pierces the void, the radiant jewel of night's throne, the tempest's jagged kiss, the prism of chaos fractured, and the guardian with flame-kissed eyes. Which constellation of destiny shall unveil the lottery's secret name?",
+      "hint": "Think of symbols that represent luck, power, and transformation. One watches from above, one burns with electricity, one is worn in theater, one hunts in shadows."
+    },
+    "easyRiddle": {
+      "text": "I seek six magical symbols: What watches over us at night? What travels through the stars? What sparkles and shines? What strikes with power? What wears many faces? What is clever and cunning?",
+      "hint": "Moon, Rocket, Gem or Crystal or Sparkles, Lightning, Masks or Joker, Fox or Dragon"
+    },
+    "answer": [
+      3,
+      1,
+      20,
+      4,
+      18,
+      12
+    ]
   }
 }
