@@ -3526,5 +3526,41 @@
       20,
       19
     ]
+  },
+  "sol_133": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames pierce the veil of night, a celestial guardian spins fate's wheel in prismatic light. The trickster's grin mirrors the archer's mark, while scaled wisdom guards the threshold betwixt dark and spark. Seek the six that dance where chaos meets design.",
+      "hint": "One measures chance, one deceives, one aims true, one rules ancient skies, one burns eternal, one glows from above."
+    },
+    "easyRiddle": {
+      "text": "I glow in the sky watching over you. A tricky jester grins at fortune's game. Fire burns bright and lightning strikes fast. A dragon sleeps on treasures untold. The dice decide what fate will unfold. A target marks where all arrows should go.",
+      "hint": "Night guardian, trickster, flame, storm, beast of legend, and precision's goal."
+    },
+    "answer": [
+      21,
+      12,
+      5,
+      14,
+      11,
+      0
+    ]
+  },
+  "emlo_89": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, glittering with fortune's spark. A jester's gamble under cosmic light, where chaos meets the trickster's art. Six symbols bind the memecoin's fate: velocity, luck, chaos, fortune, mischief, and the unpredictable dance.",
+      "hint": "Think of a rocket's journey, a gambler's tools, and a shape-shifter's grin"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with speed! We need luck from dice, sparkle from gems, and a trickster's grin. What six things light the way to memecoin riches?",
+      "hint": "One goes to space, one is shiny, one is lucky, one is silly, one is bright, and one is fast"
+    },
+    "answer": [
+      1,
+      11,
+      4,
+      13,
+      12,
+      2
+    ]
   }
 }
