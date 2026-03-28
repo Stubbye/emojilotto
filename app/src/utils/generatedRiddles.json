@@ -4066,5 +4066,41 @@
       21,
       0
     ]
+  },
+  "sol_153": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desires, six sentinels guard the threshold: the archer's mark pierces the veil between worlds, while the serpent of endless coils breathes golden wrath upon petals of bloom. A gemstone catches starlight's eternal gaze, and swift-furred cunning leaps through prismatic arcs where electricity births the cosmic jest.",
+      "hint": "Seek the convergence of sky-piercing ambition, primal chaos, natural beauty, crystalline truth, clever evasion, and chromatic transcendence."
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the treasure: one aimed straight and true, one breathing heat and fury, one blooming gentle in the sun, one glittering precious and hard, one running clever through the woods, one dancing between heaven's light and earthly color.",
+      "hint": "Look for: aim, fire, flower, gem, fox, and the bridge between night and day."
+    },
+    "answer": [
+      0,
+      5,
+      14,
+      20,
+      13,
+      9
+    ]
+  },
+  "emlo_102": {
+    "hardRiddle": {
+      "text": "A jester's gamble under cosmic fire, where gems ignite and fortunes rise higher. Lightning strikes the purple dream, while magic sparkles in the meme. What six symbols mark this volatile scene?",
+      "hint": "Think of a memecoin's wild journey: chaos, precious rewards, speed, cosmic ambition, energy, and dazzling luck."
+    },
+    "easyRiddle": {
+      "text": "To the moon with fire and speed! A gem that sparkles is what you need. Add purple vibes and lucky chance, watch lightning strike in the memecoin dance. Six symbols shine—can you see them all?",
+      "hint": "Look for: a lucky jester, fast movement, treasure, night sky, power, and shiny magic."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      10
+    ]
   }
 }
