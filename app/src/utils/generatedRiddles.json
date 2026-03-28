@@ -4210,5 +4210,23 @@
       3,
       18
     ]
+  },
+  "sol_160": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a jeweled messenger ascends through electric veils. The winged metamorphosis dances with celestial fire, while prismatic arcs witness the juggler's eternal jest.",
+      "hint": "Seek the intersection of aim and cosmos, treasure and velocity, transformation and spectacle."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that reach for stars. Add the gem that sparkles bright. Include the lightning that strikes fast and fire that burns. Finally, catch the butterfly that transforms.",
+      "hint": "Think of space, treasure, speed, heat, and nature's most magical change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      8
+    ]
   }
 }
