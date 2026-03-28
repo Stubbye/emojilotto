@@ -3958,5 +3958,23 @@
       13,
       10
     ]
+  },
+  "sol_148": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six threads of fate converge: the archer's mark meets winged ascension, precious light crowned by lunar gaze, while thunder's child and primal blaze waltz with nature's metamorphosis. Chaos speaks in numbered bones, yet all finds harmony in the spectrum's arc and the fox's cunning grin.",
+      "hint": "One guides the marksman, one carries dreams skyward, one gleams with inner light, one watches from above, one crackles with raw power, one symbolizes transformation and grace."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of chance and wonder: a target for precision, a rocket for ambition, a gem that sparkles with value, a moon that oversees destiny, lightning that strikes suddenly, and a butterfly that transforms all it touches.",
+      "hint": "Look for the mark, the flight, the treasure, the night guardian, the storm, and the creature of change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
