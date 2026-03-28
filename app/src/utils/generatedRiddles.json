@@ -3850,5 +3850,41 @@
       21,
       11
     ]
+  },
+  "sol_144": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a jester's twin masks dance with the winged metamorphosis. Six symbols bind the seeker's desire: one pierces the veil of night's empire, one captures the fool's chaotic gyre, one blooms from chaos unbound, one blazes where dreams conspire, one flutters between two worlds entire, and crystalline light crowns the spire.",
+      "hint": "Think of chance meeting destiny: a aim, a flame, a performer's shame, a night guardian, a shape-shifter, and a sparkle's claim."
+    },
+    "easyRiddle": {
+      "text": "I need six treasures for luck divine: a bullseye's mark, a jester's grin, fire's glow, the moon so fine, a butterfly's spin, and stars that shine.",
+      "hint": "Target, joker, fire, moon, butterfly, and sparkles—one of each for the lottery six."
+    },
+    "answer": [
+      0,
+      19,
+      5,
+      3,
+      8,
+      20
+    ]
+  },
+  "emlo_97": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gems spark with fire as I dance through the chaos of fortune. A joker's luck meets the dragon's treasure, where butterflies witness my explosive climb to glory.",
+      "hint": "Think of a memecoin's wild journey: destination, velocity, wealth, fate, volatility, and mythical strength combined."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙 if 💎 hit with ⚡ and 🐉 brings 🦋",
+      "hint": "A rocket, a destination, wealth, energy, a legendary beast, and nature's transformation."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      13,
+      8
+    ]
   }
 }
