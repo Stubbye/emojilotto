@@ -3688,5 +3688,41 @@
       11,
       9
     ]
+  },
+  "sol_138": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster grins beneath prismatic tears. Six veiled secrets: the archer's distant mark, the serpent's ancient throne, the jester's mask of chaos, the bolt that splits the veil between worlds, the luminous gem of night's dominion, and the winged soul reborn from chrysalis dreams. Seek the number that crowns them all.",
+      "hint": "One guides through darkness, one rules the sky, one deceives with laughter, one strikes with wrath, one shines in heaven, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Find six: a bullseye, a flying snake, a laughing fool, a zigzag strike, a night jewel, and a dancing insect.",
+      "hint": "Target, Dragon, Joker, Lightning, Moon, Butterfly"
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      4,
+      3,
+      8
+    ]
+  },
+  "emlo_94": {
+    "hardRiddle": {
+      "text": "I launch with speed to reach the destination, a precious stone gleams with electric sensation. Lightning strikes twice as fire ignites the way, while fortune sparkles under the moon's display.",
+      "hint": "Think of a memecoin's journey to success - what powers its rise and what represents its value?"
+    },
+    "easyRiddle": {
+      "text": "A rocket flies up, a gem shines bright, lightning flashes with all its might. Fire burns hot, sparkles dance around, on the moon our fortune is found.",
+      "hint": "Count the words describing a crypto moonshot adventure"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      20,
+      21
+    ]
   }
 }
