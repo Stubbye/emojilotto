@@ -4048,5 +4048,23 @@
       8,
       9
     ]
+  },
+  "sol_152": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the archer's zeal. Swift wings of metamorphosis spiral through night's gem, while thunder's child ignites the rhythm of the stem. Six portals of destiny intertwine—one strikes with cosmic breath, one spins with painted death, one laughs at fate's expense, one transforms through consequence, one burns with electric grace, one targets the winning place.",
+      "hint": "Transformation, chaos, precision, and celestial power converge in the lottery's embrace."
+    },
+    "easyRiddle": {
+      "text": "I am six signs of luck: one flies fast and high, one shines in the dark sky, one sparkles bright, one strikes with might, one changes form in flight, and one hits the mark just right.",
+      "hint": "Speed, light, electricity, transformation, precision, and the night sky."
+    },
+    "answer": [
+      1,
+      7,
+      11,
+      4,
+      21,
+      0
+    ]
   }
 }
