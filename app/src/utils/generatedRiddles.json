@@ -4192,5 +4192,23 @@
       13,
       6
     ]
+  },
+  "sol_159": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial guardian ascends through tempest's fury. The fool's grin masks truth's refraction, while nature's winged metamorphosis dances upon prismatic tears. Six siblings of chance converge where laughter echoes and spirits ignite.",
+      "hint": "Consider what rises, what burns, what transforms, what reflects, what mocks, and what guides seekers through darkness."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one that aims true, one that flies high, one born of storm's rage, one that laughs in riddles, one that floats in night's embrace, and one that shifts through every hue.",
+      "hint": "Think of a target, a rocket, lightning, a joker, the moon, and a rainbow."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      9,
+      3,
+      18
+    ]
   }
 }
