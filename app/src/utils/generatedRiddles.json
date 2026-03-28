@@ -3724,5 +3724,23 @@
       20,
       21
     ]
+  },
+  "sol_139": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a precious facet gleams in cosmic rent. The tempest's fury dances with the blaze, while winged transformation through prismatic maze. Beneath the jester's mask of painted grin, the cunning creature shields what lies within.",
+      "hint": "One marks precision, one transcends, one glimmers eternally, one transforms, one illuminates chaos, one deceives with charm."
+    },
+    "easyRiddle": {
+      "text": "I strike from sky with brilliant might, I sparkle precious in the light. I soar to realms where silence reigns, while fire consumes all it claims. A shape-shifter with cunning grace, and folly wears a laughing face.",
+      "hint": "Look for: electricity, gem, rocket, fire, fox, joker"
+    },
+    "answer": [
+      4,
+      5,
+      1,
+      2,
+      13,
+      19
+    ]
   }
 }
