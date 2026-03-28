@@ -4120,5 +4120,23 @@
       18,
       0
     ]
+  },
+  "sol_156": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six dancers twirl in fortune's gyre. The jester's grin guards crystalline tears, while lightning kisses the dragon's years. Through prism'd wings the spectral arch bends, where luck and chaos eternally blend.",
+      "hint": "Consider symbols of chaos, precision, royalty, nature's fury, transformation, and refracted light."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this game: a hunter's tool, a jeweled flame, a court fool's smile, a sky-beast old, a winged soul, and light untold.",
+      "hint": "Think of: something you aim with, something that sparkles, something silly, something mythical, something that flies, something that shines."
+    },
+    "answer": [
+      0,
+      5,
+      17,
+      13,
+      8,
+      10
+    ]
   }
 }
