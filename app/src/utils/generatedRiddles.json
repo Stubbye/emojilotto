@@ -3832,5 +3832,23 @@
       6,
       9
     ]
+  },
+  "sol_143": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers in shadow perform fate's arcane game. The jester's twin gleams beneath heaven's eye, while scaled ambition coils where fortunes fly. A prism of luck blooms in tempest's refrain, and crystalline thunder rewards the slain.",
+      "hint": "Seek the marked destination, the ascending fire, the fool's reflection, the ancient serpent, the spectrum's gift, and the frozen lightning."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I burn so bright, I hold all jokes, I soar in flight, I shimmer with gems, and I strike with might. Six symbols dance—can you name them right?",
+      "hint": "One aims, one burns, one laughs, one flies high, one sparkles prettily, and one flashes in the sky."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      13,
+      21,
+      11
+    ]
   }
 }
