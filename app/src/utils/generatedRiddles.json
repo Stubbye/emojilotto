@@ -3598,5 +3598,23 @@
       12,
       18
     ]
+  },
+  "sol_135": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled beast guards the radiant prize beneath the archer's eternal gaze. Chaos blooms in six-sided whispers, while masked revelry and luck's trifoliate crown converge in prismatic brilliance. What treasures shimmer where destiny's bolt strikes the circular throne?",
+      "hint": "One watches from above, one breathes destruction, one holds fate's geometry, one wears deception, one grants wishes, one ensures fortune."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune gather: the target never missed, the dragon's ancient wisdom, the lightning's sudden strike, the joker's hidden game, the four-leaf charm of luck, and the gem that sparkles eternal. Name them in order.",
+      "hint": "Think of luck, magic, chance, danger, precision, and mystique."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      18,
+      19,
+      20
+    ]
   }
 }
