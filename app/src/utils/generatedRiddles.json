@@ -3778,5 +3778,23 @@
       4,
       5
     ]
+  },
+  "sol_141": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound fortune's wheel, six sentinels of fate converge. The archer's mark aligns with heaven's silent guardian, while twin pillars of chaos dance—one born of sky's wrath, one consuming all. A gemstone catches starlight's eternal kiss, and fortune's jester grins beneath the veil of mirrors.",
+      "hint": "One points, one reflects light, one rules night, one destroys, one tricks, one shines."
+    },
+    "easyRiddle": {
+      "text": "I am six mystical symbols: a target you aim for, a lunar night watcher, a precious stone that glows, electricity from above, a laughing trickster, and a spark that dazzles. What are we?",
+      "hint": "One is a destination, one is in the sky, one is valuable, one is dangerous, one is funny, one is magical."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      17,
+      10
+    ]
   }
 }
