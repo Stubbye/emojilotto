@@ -4174,5 +4174,23 @@
       8,
       7
     ]
+  },
+  "sol_158": {
+    "hardRiddle": {
+      "text": "Where celestial silver weeps upon the jester's painted grin, and fortune's gleaming heart lies cradled in the serpent's ancient spin. Seek the archer's mark where electricity dances through the crimson veil, whilst nature's smallest dreamer ascends beyond the mortal pale. Six secrets hide in symbols—one speaks in riddles, one in flame, one in scales of fate, one in dragon's claim.",
+      "hint": "Think of games of chance, mythical creatures, and the night sky. One emoji appears twice in description but counts once in answer."
+    },
+    "easyRiddle": {
+      "text": "A lucky charm glows bright, a flying beast takes flight, a lightning strike ignites the night, a jester plays with delight, a dragon rules with might, and fire burns so bright.",
+      "hint": "Look for: luck, flying creatures, electricity, a funny character, a mythical serpent, and heat."
+    },
+    "answer": [
+      19,
+      14,
+      5,
+      11,
+      13,
+      6
+    ]
   }
 }
