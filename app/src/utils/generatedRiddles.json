@@ -3652,5 +3652,41 @@
       10,
       21
     ]
+  },
+  "sol_137": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a jester's twin dances through celestial lace. The serpent of storms coils 'round emerald's glow, while winged metamorphosis haunts the undertow. Six secrets converge where chaos meets art—decode the spectrum that tears fate apart.",
+      "hint": "Consider the duality of chance and chaos; one reflects the other. The answer lies in what a performer juggles, what falls from heaven, what burns with ancient passion, and the transformations that spark destiny."
+    },
+    "easyRiddle": {
+      "text": "I speak of games of pure chance, jewels that gleam, fire's dance, a creature of storms, and wings that transform. Add the jester's double and nature's luck. What six guide the seeker's pluck?",
+      "hint": "Think of: something you aim at, something that shoots up high, something precious, something electric, something that flies and changes, and something that laughs at fortune."
+    },
+    "answer": [
+      0,
+      11,
+      2,
+      4,
+      8,
+      11
+    ]
+  },
+  "emlo_93": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untold, my value sparkles bright as gems of gold. When lightning strikes and fire ignites my soul, I aim beyond where rainbow meets the goal. Lady luck spins her wheel as I dance with stars, leaving trails of magic across memecoin membranes.",
+      "hint": "Think of velocity, precious stones, electricity, flames, circular chance, and celestial bodies in crypto's wildest narrative."
+    },
+    "easyRiddle": {
+      "text": "Fly fast to riches with a bright stone's glow, powered by electricity and fire's show. Spin the wheel of luck under twinkling lights, chase the rainbow to moon's dizzying heights.",
+      "hint": "Speed + Wealth + Energy + Chance + Dreams + Sky"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      9
+    ]
   }
 }
