@@ -4228,5 +4228,23 @@
       6,
       8
     ]
+  },
+  "sol_161": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver's thread, and crystalline tears fall upon the jester's crimson stage. The winged metamorphosis dances through prismatic arcs, whilst the sky's electric tongue strikes the heart of all that glimmers. Six symbols hide in this tapestry of fate—one marks precision, one pierces heaven, one bleeds light eternal, one wears the mask of chaos, one transforms in shadow's grace, and one sings the frequency of wonder.",
+      "hint": "Seek the intersection of targeting destiny, ascending ambition, frozen brilliance, mischievous deception, graceful rebirth, and melodic magic."
+    },
+    "easyRiddle": {
+      "text": "I aim true, I reach high, I shine bright, I play tricks, I transform, and I make music. Six of us together bring luck to the EmojiLotto.",
+      "hint": "Think of: aiming, flying up, sparkling, joking, changing form, and sound."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      11,
+      8,
+      16
+    ]
   }
 }
