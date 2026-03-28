@@ -3886,5 +3886,41 @@
       13,
       8
     ]
+  },
+  "sol_145": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through fortune's veil, six sentinels of fate converge: the archer's distant goal gleams with prismatic tears, while winged metamorphosis dances betwixt thunder's violent kiss and lunar whispers. A jester's grin masks the treasure buried where gemstone light fractures into scattered brilliance, and chaos rolls eternal beneath wings of midnight flame.",
+      "hint": "One watches from afar, one transforms, one strikes, one glows softly, one deceives, one burns bright."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this poetic maze: the bulls-eye we aim for, the stone that shines, the bolt that cracks the sky, the night's pale guardian, the trickster's laugh, and the fierce scaled beast that guards all treasure.",
+      "hint": "Think of targets, precious gems, electricity, nighttime, deception, and legendary creatures."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      1,
+      19,
+      13
+    ]
+  },
+  "emlo_98": {
+    "hardRiddle": {
+      "text": "To the moon we rocket with lightning speed, through fire and sparkles we plant our seed. A gem of fortune, rare and true, the dragon's treasure waits for you.",
+      "hint": "Look for celestial symbols, energy, wealth, and mythical guardians"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 is precious, 🔥 burns bright, ✨ shines pretty, 🐉 is mighty",
+      "hint": "Count the emojis mentioned in the riddle"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      9,
+      13
+    ]
   }
 }
