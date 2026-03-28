@@ -3976,5 +3976,23 @@
       4,
       8
     ]
+  },
+  "emlo_100": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, sparkling with fortune's electric touch. Where luck strikes like fire and fortune gems shine, the joker dances in my path. What six treasures mark the memecoin journey to infinity?",
+      "hint": "Think of a crypto adventure: destination, speed, value, destiny, chaos, and fate combined."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, 💎 is precious, ⚡ is quick luck, 🌙 is the goal, 🔥 is hot gains, and 🃏 is wild. Which six symbols represent the memecoin dream?",
+      "hint": "Rocket, gem, lightning, moon, fire, and one wild card player."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      11
+    ]
   }
 }
