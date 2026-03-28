@@ -4102,5 +4102,23 @@
       5,
       10
     ]
+  },
+  "sol_154": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets converge in the void. The winged messenger of metamorphosis carries the juggler's mask past the sleeping sentinel, while prismatic shards sing beneath the jester's grin. Through the archer's eye pierces the storm's electric breath. Seek them where chaos waltzes with destiny.",
+      "hint": "Think of transformation, performance, luck, and the cosmos intertwined. One is celestial, one is electric, one performs, one transforms, one laughs, and one targets all."
+    },
+    "easyRiddle": {
+      "text": "Six dancers in fortune's ball: the night's guardian, the fool who jests, the storm's bright spear, the creature that floats on wings, the performer's twin faces, and the beam that never misses. Which six waltz together?",
+      "hint": "Look for: something in the sky at night, a trickster character, electricity, something that flies and changes, theatrical items, and something precise."
+    },
+    "answer": [
+      23,
+      19,
+      5,
+      8,
+      18,
+      0
+    ]
   }
 }
