@@ -3940,5 +3940,23 @@
       2,
       3
     ]
+  },
+  "sol_147": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian eye, and celestial fire dances with the winged seeker of nectar. The jester's grin mirrors the prism of chaos, while the scaled guardian clutches stolen luminescence. Six threads weave destiny's tapestry—find them in shadow and starlight.",
+      "hint": "One points the way, one watches above, one shifts with mischief, one breathes ancient, one transforms through grace, one shatters into infinite light."
+    },
+    "easyRiddle": {
+      "text": "I am precision's mark. I soar beyond gravity. I shimmer with inner fire. I reign over night's kingdom. I shape-shift with cunning. I burst into brilliant fragments. What are we six?",
+      "hint": "Think of targets, space travel, precious stones, celestial bodies, clever creatures, and magical explosions."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      13,
+      10
+    ]
   }
 }
