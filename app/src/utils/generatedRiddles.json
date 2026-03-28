@@ -4012,5 +4012,41 @@
       11,
       14
     ]
+  },
+  "sol_151": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate convene. The archer's mark meets the serpent's ancient wisdom, while twin stars of spectral light pirouette betwixt chaos and order. One adorns the night's crown, another splits the veil between worlds. What six keepers of destiny align when luck's curtain draws?",
+      "hint": "Consider the symbols of chance, cosmic forces, and mythical guardians that govern fortune itself."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck gather: a target for aim, a dragon of ancient power, a lightning bolt of sudden fortune, the moon watching above, a star shining bright, and dice rolling fate. Which six are they?",
+      "hint": "Think of things associated with luck, gambling, sky, and magical creatures."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      3,
+      21,
+      11
+    ]
+  },
+  "emlo_101": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault, where gemstones sparkle in electric storms. A joker's fortune spins wildly, ignited by cosmic fire, while a butterfly dances through the chaos seeking its rainbow prize.",
+      "hint": "Think of a memecoin's journey: the hype, the volatility, and the astronomical aspirations."
+    },
+    "easyRiddle": {
+      "text": "To the moon with a bang! A rocket carries precious gems, lightning strikes the dice, fire fuels the joker's grin, and a butterfly celebrates near a shimmering rainbow.",
+      "hint": "These six symbols represent every wild memecoin adventure."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      9
+    ]
   }
 }
