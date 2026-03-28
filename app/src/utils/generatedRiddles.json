@@ -3922,5 +3922,23 @@
       9,
       13
     ]
+  },
+  "sol_146": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six dancers await in shadow's tale. The jester's twin gleams in fractured light, as wings of transformation take their flight. Lightning kisses the ascending flame, while gemstones whisper their ancient name. Beneath the crescent's watchful eye, destiny's wheel spins way up high.",
+      "hint": "One points true, one laughs at fate, one burns eternal, one transcends state. Precious light and arc of change, the moon observes this mystic range."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide where luck is crowned: an arrow's aim, a jester's sound. A butterfly dances near a flame so bright, while gems and lightning catch the night. The moon looks down upon it all, answering fortune's ancient call.",
+      "hint": "Think of: aim, laughter, fire, change, sparkle, and the night sky's guardian."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      8,
+      2,
+      3
+    ]
   }
 }
