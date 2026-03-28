@@ -4138,5 +4138,41 @@
       8,
       10
     ]
+  },
+  "sol_157": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six messengers dance in chaos untamed. The jester's grin ignites the stellar fire, while crystalline brilliance climbs ever higher. Thunder's twin sparkles with fortune's own gleam, and the winged transformer threads through destiny's seam.",
+      "hint": "Think of luck, chance, and the sky's eternal show. One brings laughter, one brings the glow."
+    },
+    "easyRiddle": {
+      "text": "Find the target's mark, the rocket's flight, the gem that glows, the lightning's might, the joker's play, and the sparkle's light.",
+      "hint": "Six symbols of luck: an aim, a journey, treasure, power, mirth, and shine."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      11,
+      19
+    ]
+  },
+  "emlo_104": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles in the fire. The joker holds my trophy high while butterflies dance through the circus. What six symbols mark my destiny?",
+      "hint": "Think of a memecoin's journey: explosive growth, precious value, entertainment, and transformation."
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 💎, ⚡ with 🔥, and 🦋 in the 🎪 - what am I?",
+      "hint": "Six emojis that describe a wild crypto adventure!"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      7
+    ]
   }
 }
