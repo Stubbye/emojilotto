@@ -3994,5 +3994,23 @@
       5,
       11
     ]
+  },
+  "sol_150": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets dwell. The archer's mark meets heaven's torch, while prismatic shards sing with winged grace. Lightning's twin adorns the jester's crown, and nature's bloom whispers of luck's ancient spell.",
+      "hint": "Think of symbols of chance, magic, and the cosmos intertwined. One represents aim, one ascends, one glimmers, one brings fortune, one entertains, and one grows."
+    },
+    "easyRiddle": {
+      "text": "I am six lucky symbols: one you aim at, one that flies high, one that sparkles bright, one from the sky, one that tricks you, and one that blooms. What are we?",
+      "hint": "Lottery, space, treasure, night, chaos, and gardens."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      14
+    ]
   }
 }
