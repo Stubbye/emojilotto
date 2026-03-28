@@ -3616,5 +3616,41 @@
       19,
       20
     ]
+  },
+  "sol_136": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gem of night dances with celestial grace. Thunder's kiss ignites the stage where jesters mock the flame, while wings of metamorphosis complete the lottery's game.",
+      "hint": "Think of targets and what the night sky holds, precious stones and electrical power, entertainment under big tents, and nature's most delicate transformation."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance await your gaze: the aim, the night, the jewel that blazes, the spark that roars, the painted smile, and wings that flutter all the while.",
+      "hint": "Bullseye, darkness above, something precious, electricity/weather, a funny performer, and an insect that transforms."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      4,
+      11,
+      8
+    ]
+  },
+  "emlo_92": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles bright. My fire burns for those who dream, while rockets take their flight. The joker spins his wheel of chance, where fortunes dance in light. What treasures guide the bold and brave through this electric night?",
+      "hint": "Think of the symbols that represent crypto dreams and lucky wins"
+    },
+    "easyRiddle": {
+      "text": "Rocket blasts toward the moon so high, gem shines with brilliant gleam. Lightning strikes with energy, fire fuels the dream. Sparkles dance around it all, what makes the memecoin theme?",
+      "hint": "Count the magical symbols of wealth and moon-bound wishes"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      10,
+      21
+    ]
   }
 }
