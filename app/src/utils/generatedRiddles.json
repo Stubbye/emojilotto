@@ -3742,5 +3742,41 @@
       13,
       19
     ]
+  },
+  "sol_140": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The archer's mark meets the serpent's ancient wisdom, while lightning weaves through crystalline dreams. Beneath the jester's gaze, the winged metamorphosis spirals through prisms of chance, and stars ignite what mortals dare not touch.",
+      "hint": "One marks precision, one ascends beyond, one gleams eternal, one strikes swift, one laughs at fate, one transforms in silence."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate spin together: something you aim at, something that flies high, something that sparkles, something that strikes, something that tricks, and something that changes form. What are they?",
+      "hint": "Target, Rocket, Gem, Lightning, Joker, Butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      8
+    ]
+  },
+  "emlo_95": {
+    "hardRiddle": {
+      "text": "A jester's fortune burns bright as it soars to celestial heights, guided by fortune's spark and a mystic gem that dances with ethereal grace beneath twin flames of destiny.",
+      "hint": "Think of a memecoin's journey: the trickster, the ascent, the luck, the treasure, and the energy that fuels moonbound dreams."
+    },
+    "easyRiddle": {
+      "text": "🃏 laughs as 🚀 flies past 💎 and 🌙 glows bright with ⚡ and 🔥",
+      "hint": "A silly coin goes up up up, finds shiny things, reaches the moon, and sparks with energy."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
