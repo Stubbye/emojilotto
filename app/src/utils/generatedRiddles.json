@@ -4570,5 +4570,23 @@
       20,
       16
     ]
+  },
+  "sol_180": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic veils, a winged traveler seeks the fortune-teller's spiral. Six threads weave: the archer's distant mark, the heaven-piercer's tail, the earth's crystalline breath, Luna's silver gaze, the jester's twin masks of chaos, and nature's four-leafed whisper of grace.",
+      "hint": "One is circular, one ascends, one refracts light, one orbits above, one deceives perception, one brings luck"
+    },
+    "easyRiddle": {
+      "text": "I speak of luck and cosmic dreams. Find the target high, the rocket's flight, the gem that gleams, the moon so bright, the joker's jest, and clover blessed.",
+      "hint": "Three you see in sky, one holds fortune, one is fortune, one is trickery"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      20
+    ]
   }
 }
