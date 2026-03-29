@@ -4480,5 +4480,23 @@
       8,
       11
     ]
+  },
+  "sol_175": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a gemstone weeps beneath the jester's gaze. Thunder crowns the dancer of wings, while infernal breath ignites the stage of masks. In this nexus of chaos and grace, six symbols converge—one seeks, one ascends, one gleams, one watches, one transforms, one performs.",
+      "hint": "Consider the journey from earthly aim to heavenly reward, the value of precious things, the unpredictability of chance, and the spectacle of transformation."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the rocket to the stars, the precious stone that glows, the moon that guides, the lightning that strikes, and the fiery performance stage.",
+      "hint": "Look for: aim, flight, wealth, night sky, electricity, and entertainment."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
