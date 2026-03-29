@@ -4354,5 +4354,23 @@
       21,
       14
     ]
+  },
+  "sol_168": {
+    "hardRiddle": {
+      "text": "Where celestial dancer weaves through fortune's veil, six whispers emerge from chaos: the archer's aim meets luminous sphere, twin serpents coil as brilliance shatters night, wings flutter near strings of sorrow, while fate's cube rests beneath the jester's painted grin.",
+      "hint": "One guides direction, one lights darkness, one shimmers with wealth, one transforms, one makes music, one decides destiny"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: the bullseye's heart, the moon's glow, the jewel's sparkle, the dragon's scales, the guitar's song, and the joker's trick.",
+      "hint": "Target, moon, gem, dragon, guitar, joker"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      16,
+      19
+    ]
   }
 }
