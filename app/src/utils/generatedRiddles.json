@@ -4534,5 +4534,23 @@
       14,
       19
     ]
+  },
+  "sol_178": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the serpent of storms ignites the twin flames of chance—seek the luminous prism that crowns destiny's stage, while the fluttering herald of transformation pirouettes through the spectrum's sacred rage.",
+      "hint": "A target guides the way, celestial bodies align, electricity births creation, and metamorphosis leads to the final jeweled crown."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark glows where the moon dances with lightning and fire. A butterfly transforms while gems sparkle in the circus tent of dreams.",
+      "hint": "Look for things that shine, move fast, and change. Six symbols hold the key: one marks targets, one lights the sky, one strikes with power, one burns bright, one shimmers with magic, and one dances with grace."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      5,
+      8,
+      20
+    ]
   }
 }
