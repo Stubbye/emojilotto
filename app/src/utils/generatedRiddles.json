@@ -4588,5 +4588,23 @@
       19,
       20
     ]
+  },
+  "sol_181": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six pathways converge in the realm of chance. The archer's mark gleams beneath the night's gaze, while twin spirits spiral through prismatic veils—one bearing gifts of luck, one wearing the thousand faces of fate. The crystalline sentinel watches all, as electricity hums through the void between worlds.",
+      "hint": "Think of luck, precision, night, duality, fate's mask, and eternal brilliance"
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this verse: a pointed goal, a shining night pearl, fortune's spinning tool, a jester's grin, a glowing stone of eternity, and lightning's angry tongue.",
+      "hint": "Target, moon, dice, joker, crystal, lightning"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      18,
+      20,
+      4
+    ]
   }
 }
