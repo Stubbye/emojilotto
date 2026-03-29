@@ -4606,5 +4606,23 @@
       20,
       4
     ]
+  },
+  "sol_183": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six entities converge in fate's trance. The archer's mark glows with prismatic gleam, while winged metamorphosis joins the dream. Thunder's kiss ignites the endless night, as stellar brilliance weaves with dragon's might.",
+      "hint": "Consider the journey from earthly aim to cosmic ascension, transformation through trials, and the meeting of terrestrial and celestial forces."
+    },
+    "easyRiddle": {
+      "text": "Find the target's glow, the gem that shines, the lightning's strike, the moon's design, the dragon's scale, and the star's align.",
+      "hint": "One is where you aim, one sparkles precious, one strikes with power, one lights the night, one breathes ancient magic, one burns eternal."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      4,
+      14,
+      21
+    ]
   }
 }
