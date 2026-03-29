@@ -4300,5 +4300,41 @@
       2,
       21
     ]
+  },
+  "sol_165": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, a gemstone whispers secrets to the nocturnal gaze. The court's masked jester pirouettes through electric dreams, while nature's winged dancer weaves between the spectrum's promise and the fox's cunning smile.",
+      "hint": "Six symbols hide where luck converges: one hunts, one gleams, one rules, one soars, one strikes, and one transforms."
+    },
+    "easyRiddle": {
+      "text": "Find the target where treasures hide, the shining gem of night's sky, the actor behind the mask, the creature with nine lives, the bolt that splits the heavens, and the insect reborn.",
+      "hint": "Look for: something you aim at, something precious from the earth, something worn at a party, something clever and wild, something dangerous in storms, and something that changes form."
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      13,
+      5,
+      8
+    ]
+  },
+  "emlo_106": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a precious treasure that makes investors bleed. Where fortune spins wild and magic ignites, my rare gem shines brightest on volatile nights. The jester's domain of endless delight, where flames of ambition reach infinite height.",
+      "hint": "Think of the journey from Earth to the cosmos, where chance and chaos reign supreme"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is precious, ⚡ is fast, 🔥 is hot, 🎪 is fun, ✨ is magic. Which six belong in a memecoin fortune game?",
+      "hint": "One launches you, one rewards you, one speeds it up, one heats the moment, one entertains, and one makes it all sparkle"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      9
+    ]
   }
 }
