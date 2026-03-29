@@ -4390,5 +4390,41 @@
       10,
       20
     ]
+  },
+  "sol_170": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through crystalline fire. The trickster's grin mirrors the fox's cunning as lightning splits the prism into infinite paths. Six symbols hide the threshold where luck becomes destiny.",
+      "hint": "Think of the journey from earth to heaven, deception and truth, and the breaking of light into possibility."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark, a flame that leaps, a stone that gleams, the night's bright eye, a bolt that strikes, and a clever beast—these six hold the key to sudden fortune.",
+      "hint": "One points forward, one burns, one shines precious, one watches from above, one splits the sky, one is clever and sly."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      4,
+      12
+    ]
+  },
+  "emlo_107": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, my gems sparkle as I dance through lightning strikes. The joker laughs while fire burns my path, yet I shimmer with hope under the butterfly's wing.",
+      "hint": "Think of a memecoin's journey: rapid growth, dazzling rewards, chaos, and transformation."
+    },
+    "easyRiddle": {
+      "text": "A rocket launches toward the moon with a gem in hand. Lightning crackles as fire burns bright. What six symbols represent this crypto dream?",
+      "hint": "Start with a rocket going up, add the moon, sparkles of wealth, danger, heat, and magic."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      6,
+      10
+    ]
   }
 }
