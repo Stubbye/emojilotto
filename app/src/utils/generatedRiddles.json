@@ -4462,5 +4462,23 @@
       13,
       14
     ]
+  },
+  "sol_174": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate spin their trance. The archer's ambition pierces the veil, while gems catch starlight in prismatic tale. Thunder's kiss upon crystalline throne, and wings of transformation claim what's been sown. Seek the center where chaos and grace converge in this ludic embrace.",
+      "hint": "Look for: precision, illumination, wealth, electricity, metamorphosis, and the geometry of chance"
+    },
+    "easyRiddle": {
+      "text": "One shoots straight and true, one shines from above, one sparkles with riches, one crackles with love. One flutters with change, one rolls in the game—what six join together to claim fortune's fame?",
+      "hint": "Think of things that aim, glow, glitter, shock, transform, and randomize"
+    },
+    "answer": [
+      1,
+      21,
+      2,
+      4,
+      8,
+      11
+    ]
   }
 }
