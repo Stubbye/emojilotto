@@ -4516,5 +4516,23 @@
       13,
       8
     ]
+  },
+  "sol_177": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, and brilliance shatters through the storm's fierce blaze. The jester's twin-faced wisdom dances with the scaled serpent's ancient praise. Six tokens bind: the winged dancer's grace, the thunderous crack that lights the chasing race, the emerald's lustrous face, and three more hidden in this cryptic space.",
+      "hint": "One shoots upward, one strikes down, one glimmers, one soars, one laughs, and one coils."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide within: a gem that glows bright, a dragon that coils tight, lightning that strikes with might, a fox clever and sly, a joker's playful eye, and a rocket reaching the sky.",
+      "hint": "Think of speed, power, wit, nature's cunning, chance, and treasure."
+    },
+    "answer": [
+      1,
+      5,
+      11,
+      13,
+      14,
+      19
+    ]
   }
 }
