@@ -4336,5 +4336,23 @@
       7,
       9
     ]
+  },
+  "sol_166": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six spirits emerge from chaos' dire desire. The archer's mark meets heaven's silver gaze, while lightning splits the dragon's ancient maze. A metamorphic grace adorns the night, as crystal tears refract the cosmic light.",
+      "hint": "Seek the trickster, the sky's bright sentinel, the serpent of ages, transformation's spell, the frozen radiance, and the mark of true aim."
+    },
+    "easyRiddle": {
+      "text": "The fool grins wide, the moon shines clear, a mighty dragon brings us cheer. Lightning crackles, bright and bold, while butterflies their tales have told. Gems catch light in crystal's gleam—six treasures in a lottery dream.",
+      "hint": "Think of cards, the night sky, mythical beasts, nature's changes, precious stones, and frozen water made solid."
+    },
+    "answer": [
+      20,
+      13,
+      1,
+      8,
+      21,
+      14
+    ]
   }
 }
