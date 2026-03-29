@@ -4246,5 +4246,41 @@
       8,
       16
     ]
+  },
+  "sol_162": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's grin, and fortune's arrows pierce the veil between. Six secrets dance: the winged metamorphosis twirls through luminescence, while the scaled guardian watches from obsidian heights. Radiance shatters into crystalline fragments as chaos spins its wheel. What six treasures align when destinies converge?",
+      "hint": "Consider transformation, fortune, majesty, and the play between light and shadow. One brings luck, one brings change, one brings spectacle."
+    },
+    "easyRiddle": {
+      "text": "I seek six magical symbols: laughter's mask grins widely, a creature with wings transforms mid-flight, a jewel catches starlight from above, spinning bones decide fates, a scaly beast stands tall, and shimmer fills the air around everything.",
+      "hint": "Think of luck, magic, joy, and things that sparkle. One is a trickster, one flies, one shines, one is ancient."
+    },
+    "answer": [
+      19,
+      8,
+      2,
+      11,
+      13,
+      10
+    ]
+  },
+  "emlo_105": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, guided by fortune's precious stones. Where laughter sparkles and luck dazzles, I rise through cosmic waves with fiery passion, leaving trails of magical dust.",
+      "hint": "Think of a memecoin journey: propulsion, destination, wealth, luck, energy, and transformation"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with gems and lightning, dancing through sparkles and fire!",
+      "hint": "A crypto adventure needs speed, destination, treasure, electricity, magic, and heat"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
