@@ -4282,5 +4282,23 @@
       5,
       9
     ]
+  },
+  "sol_164": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's twin faces, through prismatic gates of chance. The winged messenger ascends past the silver guardian, while fortune's jeweled heart gleams in the hall of jesters. Six secrets hide where luck pirouettes between the mortal and divine.",
+      "hint": "One shines above all, one ignites the soul, one marks the jester's grin, one floats on air with grace, one births all color, one crowns the victorious."
+    },
+    "easyRiddle": {
+      "text": "I am a blazing force that never sleeps. I am a crowned reward for the brave. I am laughter in a mirror's mask. I am born from light itself. I am the gem of night's domain. I am the trickster's grinning face.",
+      "hint": "Count the symbols: heat, victory, reflection, refraction, darkness, deception."
+    },
+    "answer": [
+      5,
+      18,
+      19,
+      8,
+      2,
+      21
+    ]
   }
 }
