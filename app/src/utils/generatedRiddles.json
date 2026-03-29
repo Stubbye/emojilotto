@@ -4552,5 +4552,23 @@
       8,
       20
     ]
+  },
+  "sol_179": {
+    "hardRiddle": {
+      "text": "Where celestial fortune meets earthbound chance, six harbingers dance. The archer's goal gleams in night's pale throne, while thunderous whispers through prisms are sown. A guardian of cunning wears motley's disguise, as metamorphosis blooms where the inferno dies. Crystalline depths hold luck's ancient refrain, and stringed melodies echo what mortals attain.",
+      "hint": "One points the way, one rules above, one deceives with joy, one transforms through fire, one refracts all light, one speaks in song."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck align in this game: a shining goal, the moon's glow, a trickster's name, fire's end where wings take flight, a crystal's glow reflecting light, and music's voice joined by fortune's might.",
+      "hint": "Think of archery, night sky, playfulness, nature's change, sparkle, and sound."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      20,
+      16
+    ]
   }
 }
