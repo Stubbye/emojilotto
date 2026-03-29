@@ -4426,5 +4426,23 @@
       6,
       10
     ]
+  },
+  "sol_172": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six secrets dwell in shadow's tale. The jester's grin meets verdant fate, as crystal light splits at heaven's gate. Twin wings of metamorphosis dance where molten serpent claims their trance, and thunderous strings sing destiny's refrain beneath the pearl of night's domain.",
+      "hint": "Seek the masked deceiver, the four-leaf bearer, the gemstone's fractured prayer, the winged transformation, the dragon's dwelling, and the celestial voice."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in fortune's game: a target's mark, a joker's name, a clover's luck, a crystal's gleam, a dragon's fire, a guitar's dream.",
+      "hint": "One points the way, one laughs, one blesses, one shines, one burns, one sings."
+    },
+    "answer": [
+      0,
+      12,
+      19,
+      8,
+      13,
+      16
+    ]
   }
 }
