@@ -4372,5 +4372,23 @@
       16,
       19
     ]
+  },
+  "sol_169": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through crystalline depths, the masked jester's fortune spins beneath a gem-crowned vault. Six dancers in fate's theatre: the winged collector of nectar, the archer's eternal mark, the serpent of stars coiled round fortune's wheel, the prism of light fractured through storm's tears, the stage where wonder blooms eternal, and the brilliance that crowns all earthly desire.",
+      "hint": "One flutters, one aims, one rules the sky, one strikes with power, one entertains, one shines supreme."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of the celestial show: a delicate flyer of transformation, a target for ambition, a scaled beast of ancient power, a precious stone of worth, lightning's bright flash of energy, and sparkles that dance in the night sky.",
+      "hint": "Think of beauty, power, storms, gems, and magic in the stars."
+    },
+    "answer": [
+      8,
+      0,
+      13,
+      4,
+      10,
+      20
+    ]
   }
 }
