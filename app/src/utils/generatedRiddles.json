@@ -4444,5 +4444,23 @@
       13,
       16
     ]
+  },
+  "sol_173": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets the archer's eternal mark, twin flames dance in prismatic descent. The jester's laugh echoes through fortune's wheel, while scaled majesty guards the treasure that blooms eternal beneath spectral brilliance.",
+      "hint": "Seek the night guardian, the bull's eye, the performer's grin, the scaled ancient, the radiant center, and nature's crown."
+    },
+    "easyRiddle": {
+      "text": "Find the moon that shines, the target you aim for, the fire that burns, the joker who laughs, the dragon so grand, and the flower that grows.",
+      "hint": "One lights the night, one marks precision, one brings heat, one brings comedy, one brings power, one brings beauty."
+    },
+    "answer": [
+      3,
+      0,
+      5,
+      19,
+      13,
+      14
+    ]
   }
 }
