@@ -4498,5 +4498,23 @@
       4,
       19
     ]
+  },
+  "sol_176": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dance, a gemstone whispers secrets to the void. Thunder's child ignites the stage of revelry, while delicate wings embrace chromatic arcs. In this lottery of shadows, six guardians converge—one marks precision, one crowns destiny, one blooms eternal, and three remain veiled in paradox.",
+      "hint": "Look for the marksman's goal, the night sky's pearl, the precious earth's tear, the jester's masked realm, the creature of cunning grace, and nature's fleeting jewel."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide your fortune: one you aim at, one shines above, one sparkles precious, one hides faces, one is clever and quick, and one flutters free.",
+      "hint": "Target, moon, gem, masks, fox, butterfly—these are the six."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      18,
+      13,
+      8
+    ]
   }
 }
