@@ -4624,5 +4624,23 @@
       14,
       21
     ]
+  },
+  "sol_184": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances in celestial fire, six tokens reveal: the archer's aim burns bright, a scaled beast guards treasures of crystalline light, while winged transformation takes flight through spectrum's arc, fortune's symbols rest where chaos rolls in the dark, and nature's bloom crowns the stage of gleaming night.",
+      "hint": "Seek the trickster, the dragon's hoard, chance itself, and transformations both chromatic and botanical."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of fortune: one laughs in motley, one soars with wings of scale, one glimmers like stars, one blooms eternal, one spins with painted chance, and one bridges the sky.",
+      "hint": "A jester, a dragon, crystals, a flower, dice, and a rainbow await you."
+    },
+    "answer": [
+      19,
+      14,
+      20,
+      8,
+      11,
+      9
+    ]
   }
 }
