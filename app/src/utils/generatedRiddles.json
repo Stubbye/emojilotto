@@ -4876,5 +4876,23 @@
       13,
       19
     ]
+  },
+  "sol_198": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weep, a winged dancer pirouettes through gemstone's keep. Thunder's kiss ignites the prism's sacred arc, while masked revelry performs in fortune's dark. Luck's four-leafed whisper guides the stellar spark.",
+      "hint": "Think of symbols that represent destiny, movement, wealth, night, celebration, and chance."
+    },
+    "easyRiddle": {
+      "text": "A target waits for the rocket's flight, a gem shines bright under moon's light. Lightning strikes near fire's delight, while a butterfly dances through the night.",
+      "hint": "Six symbols of luck and magic: aim, journey, treasure, darkness, power, and beauty."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
