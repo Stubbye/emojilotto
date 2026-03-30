@@ -4750,5 +4750,41 @@
       4,
       3
     ]
+  },
+  "sol_190": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and twin serpents dance through crystalline fractals. One bears the crimson kiss of chaos, while winged transmutation flutters between worlds. The jester's laugh echoes in the space where earthbound luck ascends to infinity.",
+      "hint": "Think of targets reaching skyward, gems catching starlight, and transformation through fire and flight."
+    },
+    "easyRiddle": {
+      "text": "I shoot for the stars, I sparkle with brilliance, I carry flames of change, I transform with grace, I hold precious worth, and I dance with celestial light.",
+      "hint": "One goes up, one burns, one flies, one shines, one glimmers, and one illuminates the night."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      7,
+      2,
+      21
+    ]
+  },
+  "emlo_112": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles with pure greed. The rocket fires through diamond skies, as fortune dances before my eyes. A dragon guards the treasure's gleam, where circus lights fulfill the dream.",
+      "hint": "Six symbols of crypto fortune combine to reveal the ultimate memecoin destiny"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket that goes to the moon, the gem that shines, the lightning that strikes, the fire that burns, the sparkles that twinkle, and the star that guides us home.",
+      "hint": "Look for celestial objects, precious things, and energetic elements"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      21
+    ]
   }
 }
