@@ -4678,5 +4678,23 @@
       19,
       9
     ]
+  },
+  "sol_186": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthly desire, six tokens spin in shadow's attire. The archer's mark meets ascending flame, a jester's grin plays fortune's game. Crystalline depths hold secrets untold, while feathered wings of transformation unfold. Lightning's kiss binds fate's design, in spiraling chaos, destiny's shrine.",
+      "hint": "Seek the meeting of sky and stage, where luck performs upon its age."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide within the night: a bull's-eye gleams, a rocket takes flight. A gem shines bright, a joker grins wide, lightning strikes, butterfly glides.",
+      "hint": "Picture them in order: aim, rise, shine, laugh, shock, flutter."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      4,
+      8
+    ]
   }
 }
