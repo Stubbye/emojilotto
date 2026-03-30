@@ -4804,5 +4804,23 @@
       8,
       11
     ]
+  },
+  "sol_194": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and crimson serpent dances through celestial maze. The jester's twin souls mock the seeker's quest, while nature's winged metamorphosis finds rest. Between the seven-stringed chorus and the victor's gleam, lies the answer buried deep within the dream.",
+      "hint": "One speaks of chaos, one of ancient power. One reflects all colors, one marks the hour. One brings laughter's mask, one strikes the chord. One crowns the worthy, one is nature's accord."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: the striker of storms, the dragon of old, the butterfly reborn, the singer's gold, the crown of glory, and nature's fortune foretold.",
+      "hint": "Think of: electricity, a mythical beast, transformation, music, achievement, and luck."
+    },
+    "answer": [
+      5,
+      14,
+      8,
+      16,
+      17,
+      19
+    ]
   }
 }
