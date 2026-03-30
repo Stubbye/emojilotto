@@ -4912,5 +4912,23 @@
       4,
       5
     ]
+  },
+  "sol_200": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked performer juggles fate beneath the gem-adorned heavens. The winged trickster laughs at destiny's wheel, while prismatic light bends through the prism of chance. Six secrets hide in plain sight—seek where chaos meets the infinite stage.",
+      "hint": "One glimmers with cosmic dust, one wears a painted face, one flies on borrowed wings, one sparkles with refractive truth, one spins with unpredictable will, one burns with pure potential."
+    },
+    "easyRiddle": {
+      "text": "Lightning meets the joker's grin, sparkles dance with crystal's spin. Dragon guards the gem so bright, while circus tent gleams in the night. Six bold icons claim their place—who dares to win this fortune's race?",
+      "hint": "Look for electricity, laughter, shine, treasure, magic, and spectacle."
+    },
+    "answer": [
+      5,
+      19,
+      13,
+      20,
+      11,
+      7
+    ]
   }
 }
