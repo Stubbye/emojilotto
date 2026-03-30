@@ -4840,5 +4840,41 @@
       11,
       8
     ]
+  },
+  "sol_197": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's silver gaze, and chaos dances with prismatic wings—the jester's laughter echoes through celestial flames, while gemstones weep in the presence of nature's bloom. Six threads entwine: the hunter's cunning, the sky's wrath, and the stage where masks conceal what brilliance reveals.",
+      "hint": "Seek the symbols of chance, sky's fury, precious depths, night's guardian, the laughing deceiver, and petals that speak."
+    },
+    "easyRiddle": {
+      "text": "One shoots arrows at circles. One rules the night sky. One sparkles with value. One brings the storm's anger. One wears a fool's face and grins. One opens in gardens. What six dance together in dreams of wealth?",
+      "hint": "Think of: aim, night, riches, electricity, laughter, and nature."
+    },
+    "answer": [
+      0,
+      21,
+      2,
+      4,
+      19,
+      14
+    ]
+  },
+  "emlo_114": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, a gem-like treasure sparkling with dragon fire. Where lightning meets the moon's glow, a joker's fortune spins. What six symbols mark this memecoin's destiny?",
+      "hint": "Think of a coin's journey: its propulsion, its value, its mood, its destination, its power, and its playful nature."
+    },
+    "easyRiddle": {
+      "text": "A coin blasts off with lightning power to reach the moon, shining like a gem with dragon magic and joker luck. Name these six emoji friends.",
+      "hint": "Rocket goes up, moon is the goal, gem is valuable, lightning is fast, dragon is cool, joker is lucky."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      13,
+      19
+    ]
   }
 }
