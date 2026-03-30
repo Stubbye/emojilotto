@@ -4732,5 +4732,23 @@
       7,
       10
     ]
+  },
+  "sol_188": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels guard destiny's gate. The winged metamorphosis dances with celestial fire, whilst the emerald heart gleams beneath the jester's knowing gaze. Thunder's child meets the midnight orb, and all spirals bound in fortune's eternal thread.",
+      "hint": "One pierces, one transforms, one glimmers with mischief, one roars with electricity, one watches from darkness, one laughs at fate"
+    },
+    "easyRiddle": {
+      "text": "A target that never misses, a butterfly's graceful flight, a gem that sparkles bright, the joker's cunning smile, lightning's electric strike, and the moon's gentle glow—six dancers in the lottery's grand show.",
+      "hint": "Look for: aim, wings, shine, trickster, electricity, and night"
+    },
+    "answer": [
+      0,
+      8,
+      2,
+      19,
+      4,
+      3
+    ]
   }
 }
