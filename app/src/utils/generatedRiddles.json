@@ -4642,5 +4642,41 @@
       11,
       9
     ]
+  },
+  "sol_185": {
+    "hardRiddle": {
+      "text": "Where celestial flames dance through prismatic veils, the trickster's grin guides fortune's twin spirals. A scaled guardian watches the archer's mark, while petals bloom beneath moonlit sparks. Six secrets intertwine in chaos and grace—find them in fortune's cryptic space.",
+      "hint": "Look for: a jester's twin nature, a dragon's ancient watch, circular games of chance, a target's purpose, lunar influence, and the smallest rainbow's reflection"
+    },
+    "easyRiddle": {
+      "text": "I hide six treasures: one watches from the stars, one guards with ancient scales, one spins in circles, one marks the goal, one lights the night, and one bends the light itself. What am I?",
+      "hint": "Think of chance, magic, celestial bodies, and games of luck"
+    },
+    "answer": [
+      1,
+      13,
+      11,
+      0,
+      3,
+      9
+    ]
+  },
+  "emlo_110": {
+    "hardRiddle": {
+      "text": "I launch to the cosmos with electric speed, a gemstone trail behind. Where fire meets fortune and luck collides with dreams, the joker's purple palace awaits. What six celestial symbols mark this memecoin's destiny?",
+      "hint": "Think of a rocket's journey, the treasures it carries, and the chaos of chance."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots up to the moon, carrying gems and lightning. Purple energy crackles as the joker laughs. Name these six symbols of crypto fortune.",
+      "hint": "One goes up, one glows, one sparkles, one shocks, one laughs, and one is a royal color."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      19,
+      9
+    ]
   }
 }
