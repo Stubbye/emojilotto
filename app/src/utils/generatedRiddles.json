@@ -4786,5 +4786,23 @@
       9,
       21
     ]
+  },
+  "sol_193": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six tokens dance in shadows deep. The jester's grin beneath two faces worn, a prism splits the wanderer's leap. Through crystalline depths where lightning births the gem, and scaled wisdom guards the spotlight's beam. The nocturnal bloom spirals upward still, as chaos rolls where butterflies convene.",
+      "hint": "Think of luck's symbols: aim, chaos, illusion, precious stones, sky's fury, and winged transformation. One appears twice in the verse."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in simple sight: what you aim at, what holds value bright, what makes you laugh with masks and jest, what sparkles high above the rest, what dances wild with painted wings, and where fortune rolls its rattling rings.",
+      "hint": "Target, Gem, Joker, Star, Butterfly, Dice"
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      21,
+      8,
+      11
+    ]
   }
 }
