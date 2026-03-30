@@ -4822,5 +4822,23 @@
       17,
       19
     ]
+  },
+  "sol_195": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a prism births its spectrum through the tempest's blaze. Twin-winged dancer courts the celestial throne while crystalline chorus hums in chambers of stone. The jester's mask grins where chaos ignites, as fortune spins in the depths of night.",
+      "hint": "Seek the meeting of aim and cosmos, light and storm, transformation and chance."
+    },
+    "easyRiddle": {
+      "text": "I am shot toward dreams, I reflect the light of night. One brings fortune's spin, one dances in flight. Where fire meets ice in prismatic display, and the fool's grin shows the way.",
+      "hint": "Think of targets, gems, moonlight, lightning, dice, and butterflies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      8
+    ]
   }
 }
