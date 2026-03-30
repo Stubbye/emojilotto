@@ -4894,5 +4894,23 @@
       4,
       8
     ]
+  },
+  "sol_199": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six whispers emerge: the archer's mark meets the void's chariot, gemstone truth refracts through prism'd chaos, while thunder's tongue and inferno's breath waltz beneath the jester's painted smile. What symmetries of fate converge when ambition, brilliance, and mischief align?",
+      "hint": "Seek the convergence of precision, ascension, wealth, electricity, destruction, and deception—each essential to the gambler's sacred geometry."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's secret: one marks your aim, one pierces the sky, one gleams with value, one illuminates night's face, one crackles with power, and one burns with wild passion. What are these six?",
+      "hint": "Think of targets, rockets, precious things, the moon, electricity, and fire."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
