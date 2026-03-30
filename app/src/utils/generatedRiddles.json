@@ -4696,5 +4696,41 @@
       4,
       8
     ]
+  },
+  "sol_187": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial flame dances with prismatic light. The trickster's grin mirrors the scales of chance, while wings of transformation shimmer through the gateway of dreams. Six secrets hide in the spaces between luck and destiny.",
+      "hint": "One guides your aim, one burns in night sky, one decides fates, one wears two faces, one transforms, one bends reality."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I glow at night, I roll the dice of fate. One laughs at chance, one flies and changes, one bends light itself. Find these six harbingers of fortune.",
+      "hint": "Target, Moon, Dice, Joker, Butterfly, Rainbow"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      13,
+      8,
+      9
+    ]
+  },
+  "emlo_111": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights where fortunes gleam, powered by electric energy that ignites the flames of wealth. Luck strikes like lightning, spinning the wheel of chaos where jesters laugh and tricksters thrive, all under a canopy of sparkling magic.",
+      "hint": "Think of the journey from humble beginnings to explosive gains, where chance and fortune collide in a dazzling display."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go, with a 🚀 that burns bright! The ⚡ brings luck, the 💎 shines so right. The 🎪 is fun, and ✨ makes it magic tonight!",
+      "hint": "Count the emojis that represent a memecoin's journey to success and celebration."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      7,
+      10
+    ]
   }
 }
