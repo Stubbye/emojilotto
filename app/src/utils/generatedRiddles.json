@@ -4984,5 +4984,41 @@
       11,
       19
     ]
+  },
+  "sol_203": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six whispers dance between chaos and tame. The winged spinner ascends through prismatic webs, while gemstones pulse beneath the jester's veiled threads. Lightning kisses crystal breath, and masked revelry echoes in twilight's theft.",
+      "hint": "One guides aim, one ignites dreams, one transforms wings, one sparkles deep, one strikes swift, one hides faces."
+    },
+    "easyRiddle": {
+      "text": "I point the way to riches, I soar beyond the sky, I shine like precious treasure, I flash across the night, I burn with fierce passion, and I dance in mystery.",
+      "hint": "Look for: target, rocket, gem, lightning, fire, and masks"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      19
+    ]
+  },
+  "emlo_116": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault, my twin sparkles ignite the way. Where fortune strikes like lightning, gems crystallize fortunes beyond the rainbow's reach. What sacred sequence guides the diamond seeker?",
+      "hint": "Think of ascension, wealth, electricity, and precious formations in the crypto cosmos."
+    },
+    "easyRiddle": {
+      "text": "Up, up, and to the riches! ⚡💎🌈✨🚀🌙 - This glowing path shows where lucky tokens fly. Can you spot the six that sparkle with fortune?",
+      "hint": "Look for symbols of success, luck, and moonbound wealth in order: journey, treasure, storms, dreams, brightness, and destination."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      21
+    ]
   }
 }
