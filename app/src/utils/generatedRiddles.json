@@ -5020,5 +5020,23 @@
       9,
       21
     ]
+  },
+  "sol_204": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through crystalline prisms, the jester's masked dance meets fortune's winged metamorphosis. Six sigils bind: the hunter's cunning reflected in night's watchful sphere, the spark of chaos orchestrated by stringed divinity, and the four-leafed whisper that turns molten dreams into glittering veils of destiny.",
+      "hint": "Consider who plays, who watches, what burns, what transforms, and which ancient symbol promises luck."
+    },
+    "easyRiddle": {
+      "text": "I am six: a clever animal's gaze, a shimmering bug's rebirth, a silent watcher above, a four-leaf bearer, a string player's voice, and the wild flame that consumes all.",
+      "hint": "Think of nature, luck, music, and elements."
+    },
+    "answer": [
+      13,
+      8,
+      3,
+      19,
+      16,
+      5
+    ]
   }
 }
