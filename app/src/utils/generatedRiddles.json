@@ -4966,5 +4966,23 @@
       5,
       13
     ]
+  },
+  "sol_202": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance in destiny's gyre. The jester's laugh echoes through prismatic seas, while thunderous wings carry wishes on the breeze. A gemstone gleams beneath the stellar throne, and luck's ancient symbol stands alone.",
+      "hint": "One brings fortune's aim, one ignites the path, one mocks the player, one crackles with power, one shimmers with worth, and one guards fate's gate."
+    },
+    "easyRiddle": {
+      "text": "I have six lucky symbols for you to find: a target for precision, a rocket for dreams, a gem for treasure, lightning for power, a joker for chance, and a four-leaf clover for luck. Can you spot them all?",
+      "hint": "Look for: something you aim at, something that flies to space, something precious, something electrical, something silly, and something green and fortunate."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      19
+    ]
   }
 }
