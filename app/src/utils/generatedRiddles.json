@@ -5056,5 +5056,23 @@
       9,
       13
     ]
+  },
+  "sol_206": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate convene. The archer's mark gleams with stolen starlight, while wings of transformation flutter betwixt twin crescents of destiny. Thunder's child weeps crystalline tears upon the stage of jesters, and the crimson serpent coils where melodies birth rainbows from the void.",
+      "hint": "Seek the glowing, the swift, the precious, the night's gaze, the strike, and the mythical beast that sings."
+    },
+    "easyRiddle": {
+      "text": "One shines from above, one flies through space, one is precious and rare, one brings luck at night, one strikes with power, and one guards ancient magic with scales and flame.",
+      "hint": "Think of space, gems, storms, and fantasy creatures."
+    },
+    "answer": [
+      21,
+      1,
+      11,
+      3,
+      4,
+      13
+    ]
   }
 }
