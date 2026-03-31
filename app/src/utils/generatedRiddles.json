@@ -5128,5 +5128,23 @@
       8,
       19
     ]
+  },
+  "sol_209": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the trickster's grin gleams beneath a noble crown. Six symbols intertwine: the archer's distant mark meets the soaring vessel of dreams, while precious facets catch the gaze of night's pale sovereign. Mischief wears the mask of crimson chaos, and wings of transformation flutter near the threshold between worlds. Seek the answer where ambition, fortune, and metamorphosis converge in shadowed light.",
+      "hint": "Think of layers: aim high, ascend further, discover treasure, watch the night, embrace change, and celebrate victory's costume."
+    },
+    "easyRiddle": {
+      "text": "One aims high, one soars above, one glimmers bright, one rules the night, one shifts its shape, one claims the prize. Six treasures hide in fortune's game—can you name them all?",
+      "hint": "Target, Rocket, Gem, Moon, Fox, Trophy"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      18
+    ]
   }
 }
