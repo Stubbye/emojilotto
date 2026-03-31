@@ -5074,5 +5074,41 @@
       4,
       13
     ]
+  },
+  "sol_207": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the winged metamorphosis ignites the crystalline tremor. The jester's prism shatters upon the throne of victory, as chaos whispers through the permafrost garden.",
+      "hint": "Think of transformation, chance, brilliance, achievement, and the duality of laughter and power."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the night's silver companion, the gem that refracts all colors, the wild trickster, the flutter of rebirth, and the crown of champions.",
+      "hint": "One aims for you, one lights the sky, one is precious, one is cunning, one changes form, one is won."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      8,
+      18,
+      17
+    ]
+  },
+  "emlo_117": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, while gems sparkle as fortunes multiply under the cosmic dance of luck and fire. Where moons witness the butterfly effect of wealth, and dragons guard treasures in rainbow-lit circuits.",
+      "hint": "Think of a journey from Earth to riches, powered by chance and energy."
+    },
+    "easyRiddle": {
+      "text": "A fast ship goes up, bright stones shine, lightning strikes quick, the big circle glows, flames burn hot, and lucky wings flutter. What six things make crypto dreams come true?",
+      "hint": "One goes up, one shines, one is fast, one glows, one burns, one flies."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      7
+    ]
   }
 }
