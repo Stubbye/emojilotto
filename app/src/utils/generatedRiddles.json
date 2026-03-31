@@ -5164,5 +5164,23 @@
       9,
       21
     ]
+  },
+  "sol_211": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and twin masks witness the prism's reveal. The fox's cunning meets crystal's pure light, while dragon's breath ignites the gemstone's sight. Six threads of fate in chaos's weave—count the symbols if you dare believe.",
+      "hint": "One rules the stage, one guards the night, one brings the luck, one cuts so bright."
+    },
+    "easyRiddle": {
+      "text": "Find the sparkle in the sky, the flame that burns so high, the stone that gleams, the mask that schemes, the fox so sly, and fortune's die.",
+      "hint": "Look for light, heat, precious things, theatre, cleverness, and chance."
+    },
+    "answer": [
+      21,
+      5,
+      2,
+      19,
+      13,
+      11
+    ]
   }
 }
