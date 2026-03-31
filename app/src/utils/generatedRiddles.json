@@ -5146,5 +5146,23 @@
       13,
       18
     ]
+  },
+  "sol_210": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and twin serpents dance through crystalline fire. The jester's grin echoes in chambers of luck, while nature's winged messenger pirouettes through fortune's spectrum. Chaos and order embrace in the depths of midnight's gem.",
+      "hint": "One represents destiny's aim, one the heavens' guardian, one the trickster's mask, one transformation's flight, one the prism of fate, one the depths of midnight itself."
+    },
+    "easyRiddle": {
+      "text": "I point at destiny, I guard the night sky, I jest with your fortune, I transform and fly, I hold all colors, and I sparkle with secrets. Can you name these six treasures of chance?",
+      "hint": "Think of: something that aims, something celestial, someone who tricks, something that changes form, something with all colors, and something that shines mysteriously."
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      8,
+      9,
+      21
+    ]
   }
 }
