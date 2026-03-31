@@ -5218,5 +5218,41 @@
       11,
       8
     ]
+  },
+  "sol_214": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged metamorphosis seeks the prism of chaos. In the archer's domain, the serpent's treasure gleams beneath the jester's masquerade, while the four-leafed sentinel watches the spectrum unfold.",
+      "hint": "Six symbols hold destiny: one burns in the void, one shifts between souls, one hungers for luck, one guards against shadow, one splits the white light, and one grins at fate's joke."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that never strikes twice, the scaled beast that hoards riches, the four leaves of fortune, the mask that hides laughter, the arc after storm, and the bull's-eye of dreams.",
+      "hint": "One is fast and electric, one is mythical and precious, one is lucky, one is playful, one is beautiful and colorful, and one is what you're aiming for."
+    },
+    "answer": [
+      5,
+      13,
+      19,
+      17,
+      9,
+      0
+    ]
+  },
+  "emlo_119": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, gathering precious stones along my path. When fortune strikes like thunder, my joker spirit dances under the glow, leaving sparkles of magic in the digital wave.",
+      "hint": "Think of a moonshot investment journey filled with electricity and fortune symbols."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ brings the gains, 💎 makes it rain, ✨ celebrates the wins, 🃏 laughs all the way, and 🌊 flows with the hype.",
+      "hint": "Count the emojis in the easy riddle - they ARE your answer!"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      9,
+      19,
+      23
+    ]
   }
 }
