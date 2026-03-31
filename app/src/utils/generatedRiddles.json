@@ -5038,5 +5038,23 @@
       16,
       5
     ]
+  },
+  "sol_205": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the weaver's thread, a celestial dancer pirouettes through storms of radiance. The jester's grin dissolves into chromatic whispers, while ancient scales of fate tumble beneath a sentinel of crystalline dreams. Six souls converge where luck's electric heartbeat ignites the void.",
+      "hint": "Seek the convergence of games, chaos, celestial bodies, and theatrical mastery. One brings fortune, one brings spectacle, one brings storms, and one brings the night itself."
+    },
+    "easyRiddle": {
+      "text": "I contain six treasures: one plays games of chance, one dances in the night sky, one strikes with violent grace, one wears a painted smile, one sparkles with prismatic light, and one marks the hunter's path. What lottery holds us all?",
+      "hint": "Think of dice, moon, lightning, joker, rainbow, and fox. Each represents a different aspect of luck and chance."
+    },
+    "answer": [
+      11,
+      3,
+      5,
+      19,
+      9,
+      13
+    ]
   }
 }
