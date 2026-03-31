@@ -5200,5 +5200,23 @@
       4,
       13
     ]
+  },
+  "sol_213": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six mysteries converge beneath the veil of chance. The archer's mark meets the messenger of dreams, while earth's precious tears embrace the night's keeper. Between the court's folly and nature's transformation, fortune spins where chaos and order entwine.",
+      "hint": "Think of luck, sky, wealth, darkness, chaos, and change. One represents aim, one flies upward, one glimmers earthly, one rules the night, one brings unpredictability, one symbolizes metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I am the target you aim for, the rocket that soars high, the gem that shines bright, the moon in night sky, the dice that rolls luck, and the butterfly that transforms.",
+      "hint": "Look for: something to hit, something that flies up, something precious, something round and dark above, something with numbers, and something with colorful wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      8
+    ]
   }
 }
