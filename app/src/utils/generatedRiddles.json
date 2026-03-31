@@ -4930,5 +4930,41 @@
       11,
       7
     ]
+  },
+  "sol_201": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's bright kiss, six tokens dance in cosmic bliss. The jester's grin holds fortune's key, while scales of chance fall wild and free. A serpent coils through starlit fire, as petals bloom what hearts desire. Lightning splits the masquerade, where luck and fate have always played.",
+      "hint": "Consider the performer, the beast, the flame, the bloom, the instrument of destiny, and the guardian of wishes."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the trickster's smile, the dragon's dance, the flower's wile, the bolt that strikes, and fortune's face.",
+      "hint": "Think of: games of chance, mythical creatures, natural forces, and things that bring luck."
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      14,
+      4,
+      21
+    ]
+  },
+  "emlo_115": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, gem-like sparkles fuel my mission. A joker's fortune spins wildly as dragon fire ignites the moon-bound journey. What sequence represents this memecoin's destiny?",
+      "hint": "Think of the path from chaos to cosmic wealth: unpredictability, speed, value, electricity, chaos magic, and lunar glory."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes to the moon, but first the joker spins, then gem shines, lightning strikes, fire burns, and dragon roars. Put them in order of the story.",
+      "hint": "Start with luck and chaos, then build momentum: spin → shine → strike → burn → roar → fly."
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      4,
+      5,
+      13
+    ]
   }
 }
