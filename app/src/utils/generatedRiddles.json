@@ -5110,5 +5110,23 @@
       5,
       7
     ]
+  },
+  "sol_208": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and chaos dances in electric chains. The winged metamorphosis ascends through prismatic tears, while the scaled leviathan guards the chamber of brilliance. In this sacred theatre of fate, the trickster's grin echoes where dreams crystallize into infinity.",
+      "hint": "Seek the symbols of journey, transformation, treasure, and deception beneath the cosmic stage."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that aims at luck, the flyer that reaches high, the jewel that glows, the wanderer of night, the one with wings that dances, and the grinning fool who plays all games.",
+      "hint": "Six symbols: a target, a space traveler, something precious, a night guardian, a colorful insect, and a trickster."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      19
+    ]
   }
 }
