@@ -5182,5 +5182,23 @@
       13,
       11
     ]
+  },
+  "sol_212": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six harbingers await. The archer's aim finds brilliance born of earth's deepest trance. Winged metamorphosis pirouettes through prismatic veils as fate's jester laughs. Thunder's silver tongue licks the crescent throne while emerald scales coil around destiny's stage. Speak the sequence of: pursuit, ascension, radiance, lunacy, trickery, and draconic wisdom.",
+      "hint": "Consider what each symbol represents in games of chance and mystical transformation. The order matters—from seeking to achieving, from light to shadow."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this quest: the mark you aim for, the ship of dreams, the jewel of worth, the night's pale guardian, the storm's quick strike, and the scaled beast. What are they in order?",
+      "hint": "Think of targets, space travel, precious stones, celestial bodies, weather, and mythical creatures."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
