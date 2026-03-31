@@ -5254,5 +5254,23 @@
       19,
       23
     ]
+  },
+  "sol_215": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial flame, a jester's twin masks guard the threshold between earth's treasured crystal and the winged metamorphosis of chaos. Six guardians of fate spin in the void—one strikes with thunder's ancient tongue, one reflects the gemstone's sacred geometry, one dances where the earthbound performer treads, and three more hide within the space where light refracts into spectrum's whisper. Seek the number that crowns them all.",
+      "hint": "Look for the symbol of chance, the symbol of transformation, the symbol of entertainment, the symbol of precious depths, the symbol of power unleashed, and the symbol of illumination fractured."
+    },
+    "easyRiddle": {
+      "text": "I contain six secrets: a target's center point, a jester's knowing grin, lightning's violent kiss, a butterfly's rebirth, a gem's inner fire, and the scattered light of celebration. What numbers claim these champions?",
+      "hint": "Think of aim, humor, electricity, transformation, wealth, and joy."
+    },
+    "answer": [
+      0,
+      19,
+      5,
+      8,
+      2,
+      10
+    ]
   }
 }
