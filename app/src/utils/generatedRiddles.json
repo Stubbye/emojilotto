@@ -5290,5 +5290,23 @@
       5,
       19
     ]
+  },
+  "sol_217": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, six vessels of fate convene. The archer's mark aligns with lunar whispers, as crackling energy births a metamorphosis cloaked in prismatic dust. Between the jester's grin and the winged transmutation, lightning crowns the gemstone's eternal glow.",
+      "hint": "One marks targets, one lights the path, one giggles in chaos, one transforms with wings, one illuminates from above, one sparkles with magic"
+    },
+    "easyRiddle": {
+      "text": "Find the shooter of dreams, the night's pale guardian, the jester's card, the sparkly magic dust, the gem that shines, and the bolt that strikes.",
+      "hint": "Rocket, Moon, Joker, Sparkles, Gem, Lightning"
+    },
+    "answer": [
+      1,
+      3,
+      11,
+      10,
+      2,
+      4
+    ]
   }
 }
