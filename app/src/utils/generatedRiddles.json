@@ -5272,5 +5272,23 @@
       2,
       10
     ]
+  },
+  "sol_216": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a jeweled flame dances with winged metamorphosis beneath the celestial spark. The trickster's laughter echoes through prismatic arcs, while nature's luck blooms eternal in this hexad of destiny.",
+      "hint": "One guides aim, one lights the way, one shimmers with value, one transforms, one brings joy, one grants wishes"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within: the archer's circle, the sky's glowing orb, a precious stone that gleams, a creature reborn through change, electricity's bright dance, and a four-leaf token of good fortune.",
+      "hint": "Target, Moon, Gem, Butterfly, Lightning, Clover"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      5,
+      19
+    ]
   }
 }
