@@ -5308,5 +5308,23 @@
       2,
       4
     ]
+  },
+  "sol_218": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins in celestial night, six secrets dance between shadow and light. The archer's mark meets the serpent's ancient flame, a prism shatters what mortals claim. Swift wings traverse the veil of chance, while cosmic fire answers destiny's trance. In the jester's grin lies thunder's song, and blooming petals right what went wrong.",
+      "hint": "Think of the night sky meeting earthly performance, where luck and chaos intertwine with transformation."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of fate: a target for dreams, a dragon of old, fire that dances, a butterfly's flight, lightning's quick strike, and a flower in bloom. Find us all to claim your fortune.",
+      "hint": "Look for things that symbolize luck, magic, speed, and beauty together."
+    },
+    "answer": [
+      0,
+      13,
+      6,
+      8,
+      5,
+      14
+    ]
   }
 }
