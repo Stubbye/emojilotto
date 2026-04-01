@@ -5668,5 +5668,23 @@
       11,
       4
     ]
+  },
+  "sol_235": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the cosmic flame, six sentinels of fate convene. The winged messenger ascends through shadow's veil, while gemstone truth refracts the celestial gaze. Thunder's kiss ignites the jester's masquerade, and nature's metamorphosis dances upon the silver crescent's whispered stage.",
+      "hint": "Seek the symbols of ambition, brilliance, chaos, transformation, and celestial wonder. One guides your aim, one pierces the heavens, one glimmers with inner light, one watches from above, one crackles with raw power, and one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols align in the lottery's embrace: the archer's mark calls out, the rocket soars skyward, the gem sparkles with promise, the moon glows eternal, lightning strikes swift and true, and the joker grins with mischief.",
+      "hint": "Think of targets, space travel, precious stones, night sky, electricity, and playing card trickster."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
