@@ -5560,5 +5560,23 @@
       10,
       1
     ]
+  },
+  "sol_230": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and fortune's jester pirouettes through prisms of chance—seek the wingéd wanderer that flutters betwixt the archer's mark and the serpent's ancient throne, whilst prismatic dust whispers secrets only the crown of victory shall comprehend.",
+      "hint": "Think of luck's symbols: a target achievement, a transforming creature, precious crystalline rewards, heavenly bodies, chance itself, and triumph's emblem. One bridges destiny and fate."
+    },
+    "easyRiddle": {
+      "text": "I contain six magical lottery symbols: a red circular aim, a jeweled treasure, a nocturnal guardian, a winged metamorphosis, fortune's glittering dust, and the ultimate prize. Find them all to claim your destiny.",
+      "hint": "Look for: something you aim at, something precious, something night-related, something that transforms, something sparkling, and something you win."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      10,
+      17
+    ]
   }
 }
