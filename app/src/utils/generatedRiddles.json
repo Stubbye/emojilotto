@@ -5506,5 +5506,41 @@
       5,
       13
     ]
+  },
+  "sol_228": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six keepers of destiny dance: the winged metamorphosis spirals through chromatic ribbons, while chaos blooms in crystalline laughter beneath the jester's gaze, and thunder's twin—one ascending toward the lunar throne, the other consuming all in ravenous hunger—complete this symphony of chance.",
+      "hint": "Seek the butterfly's path through color, the gem's reflection, the fool's mask, the ascending fire, and two forces of opposing nature."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: one flies with colorful wings, one glows with fire, one lights the night sky, one dances in storms, one sparkles like precious stone, and one grins with trickery.",
+      "hint": "Think of a butterfly, fire, moon, lightning, gem, and joker."
+    },
+    "answer": [
+      8,
+      5,
+      3,
+      4,
+      2,
+      19
+    ]
+  },
+  "emlo_123": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my gems sparkle as I dance through lightning's electric feed. A joker's grin guides my path to fortune, where crystal prizes await the lucky one. What sequence of symbols reveals my journey?",
+      "hint": "Follow the rocket's trail through electric storms to gemstone rewards, guided by chaos and chance."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon with a gem. Lightning strikes fast. A joker laughs. Sparkles shine bright. What are these 6 symbols in order?",
+      "hint": "Think of a crypto journey: speed, destination, treasure, energy, fun, and magic."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      11,
+      10
+    ]
   }
 }
