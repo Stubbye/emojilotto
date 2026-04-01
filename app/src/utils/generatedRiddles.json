@@ -5650,5 +5650,23 @@
       14,
       9
     ]
+  },
+  "sol_234": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols entwine in destiny's trance. The archer's mark upon the void, a serpent coils where fate's deployed. Winged metamorphosis through prismatic arc, while crystalline brilliance ignites the dark. Chance's jester spins where storm clouds weep, and thunderous power strikes from celestial deep.",
+      "hint": "Seek the aim, the mythic beast, the transformation, the glittering treasure, the mirth of chance, and the electric split."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await your fortune: one marks the target, one scales the sky as a legendary creature, one transforms through nature's beauty, one sparkles with nature's gems, one brings laughter and chance, and one crackles with nature's fury.",
+      "hint": "Think of aiming, dragons, butterflies, crystals, jokers, and lightning."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      20,
+      11,
+      4
+    ]
   }
 }
