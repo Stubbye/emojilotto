@@ -5416,5 +5416,23 @@
       8,
       14
     ]
+  },
+  "sol_223": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, through prismatic veils the trickster climbs higher. In shadows dance the scaled guardian's dream, while nature's winged messenger splits the gleam. Six portals converge where luck is hurled—the gem of chaos in a glittering world.",
+      "hint": "One reveals precision, one ignites the sky, one bends all light, one wears many faces, one transforms through air, one hoards the earth's treasure."
+    },
+    "easyRiddle": {
+      "text": "A target and rocket race toward the stars, while a gem glows bright like fire in jars. A joker laughs as a butterfly soars, and sparkles dance across all the doors. These six hold the key to fortune's great game.",
+      "hint": "Count the objects that appear in both riddles and the description."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      12,
+      8,
+      10
+    ]
   }
 }
