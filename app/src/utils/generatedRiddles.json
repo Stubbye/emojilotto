@@ -5632,5 +5632,23 @@
       9,
       13
     ]
+  },
+  "sol_233": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a celestial guardian weeps crystalline tears. The trickster's grin dances with electric fury, while petals of chaos bloom beneath prismatic wings. Six symbols converge where destiny's gamble unfolds in silent thunder.",
+      "hint": "One guides aim, one rules the dark, one deceives, one crackles, one grows, one shimmers with many hues."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I light the night, I fool the wise, I spark and bite, I bloom in silence, I paint the sky. Which six of fortune's signs will catch your eye?",
+      "hint": "Find: direction, darkness, deception, electricity, nature, and color."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      5,
+      14,
+      9
+    ]
   }
 }
