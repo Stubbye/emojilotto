@@ -5578,5 +5578,23 @@
       10,
       17
     ]
+  },
+  "sol_231": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, six harbingers of fate convene in shadow's game. The jester's grin guards treasures crystalline, while winged metamorphosis spirals through fortune's design. Beneath the pale celestial eye, where chaos dances wild and free, the fool's companions await in numbered mystery.",
+      "hint": "Seek the convergence of chance, magic, transformation, and celestial witness. One brings laughter to the divine."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of luck and wonder: the hunter's guide, the cosmic dancer, the precious stone, the night's guardian, the trickster's twin, and the winged messenger. Together we spin the wheel of destiny.",
+      "hint": "Think of targets, gems, the moon, jokers, dragons, and butterflies."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      21,
+      13,
+      8
+    ]
   }
 }
