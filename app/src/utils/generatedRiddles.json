@@ -5362,5 +5362,23 @@
       10,
       21
     ]
+  },
+  "sol_220": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, and chaos dances with brilliance near. A winged metamorphosis through prismatic arcs descends, while thunder's child and inferno's breath transcend. In chaos tumbled, laughter masks the deep, as nature's bloom lies where forgotten secrets sleep.",
+      "hint": "Seek the marked destination, the heavens' vessel, the radiant stone, the lunar guardian, the electric tempest, and the petal'd keeper."
+    },
+    "easyRiddle": {
+      "text": "I have a bullseye but no gun. I soar beyond stars. I sparkle with value. I glow in the night sky. I strike with fury. I bloom with petals.",
+      "hint": "Find the target, the traveler of space, the precious gem, the night companion, the storm's voice, and the garden's beauty."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      14
+    ]
   }
 }
