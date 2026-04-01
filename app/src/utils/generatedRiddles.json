@@ -5398,5 +5398,23 @@
       13,
       3
     ]
+  },
+  "sol_222": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate spin their ancient trance. The archer's mark gleams with stolen light, while thunder's child courts the jester's night. Wings of metamorphosis trace the gleam, and scaled wisdom guards the dreamer's theme.",
+      "hint": "One watches from above, one strikes with fury, one brings laughter, one transforms, one shimmers eternal, one rules with majesty."
+    },
+    "easyRiddle": {
+      "text": "Find the target's glint, the lightning's crack, the gem that shines, the joker's knack, the butterfly's flight, and the dragon's might.",
+      "hint": "A mark, electricity, jewel, fool, insect, reptile."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      8,
+      14
+    ]
   }
 }
