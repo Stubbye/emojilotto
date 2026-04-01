@@ -5470,5 +5470,23 @@
       9,
       18
     ]
+  },
+  "sol_226": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels dance in shadow's tale. The trickster's grin meets the serpent's flame, while gems dissolve in prismatic rain. Thunder weaves through butterfly's ancient flight, and joy crowns all beneath the starlit night.",
+      "hint": "One brings luck through chance, one climbs to dreams, one glimmers with wealth, one rules the stage, one strikes with fury, one celebrates victory."
+    },
+    "easyRiddle": {
+      "text": "Find the lucky clover, the rising rocket, the precious gem, the joyful trophy, the powerful dragon, and the bright star. These six hold the key to fortune.",
+      "hint": "Think of luck, ambition, wealth, success, power, and hope."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      17,
+      13,
+      21
+    ]
   }
 }
