@@ -5434,5 +5434,41 @@
       8,
       10
     ]
+  },
+  "sol_225": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six guardians of fate convene. The archer's mark aligns with storm's bright lance, while scaled majesty crowns the unseen. Petals bloom beneath the jester's gleam, and fortune's wheel spins through the luminous dream.",
+      "hint": "One points the way, one strikes from above, one rules the ancient, one laughs in jest, one grows in silence, one guides by luck."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder await: a target strikes true, lightning splits the sky, a dragon rules proud, a flower blooms bright, a joker grins wide, and fortune's wheel turns.",
+      "hint": "Find the archer's goal, the sky's bolt, the scaled beast, the garden's gift, the mocking fool, and chance itself."
+    },
+    "answer": [
+      0,
+      4,
+      13,
+      14,
+      19,
+      11
+    ]
+  },
+  "emlo_122": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a precious gem that ignites the fire of fortune. Where magic sparkles and luck strikes like lightning, the joker's game begins. What six symbols represent this memecoin odyssey?",
+      "hint": "Think of reaching the moon with valuable treasures, sudden gains, and playful chaos."
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 💎, ⚡ strikes, 🔥 burns bright, ✨ shines, 🃏 plays tricks. Which six emojis complete this memecoin adventure?",
+      "hint": "A rocket, a gem, lightning, fire, sparkles, and a joker walk into a lottery..."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      18
+    ]
   }
 }
