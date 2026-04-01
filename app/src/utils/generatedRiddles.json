@@ -5596,5 +5596,41 @@
       13,
       8
     ]
+  },
+  "sol_232": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a jester's twin masks dance with nature's desire. The emerald heart gleams beneath lunar glow, while winged metamorphosis makes destinies flow. Thunder's bright echo and six-sided fate intertwine with the dragon's ancient gate.",
+      "hint": "One marks precision, one adorns the night. One deceives with laughter, one transforms in flight. One sparkles with truth, one rules with ancient might."
+    },
+    "easyRiddle": {
+      "text": "I hold six treasures of chance and wonder: a target of aims, a dragon of old, lightning that strikes, the moon that glows, a joker that grins, and a butterfly bold. What are these six that make fortunes unfold?",
+      "hint": "Look for: something that aims, something ancient, something electric, something in the sky, something funny, and something that changes."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      1,
+      19,
+      8
+    ]
+  },
+  "emlo_124": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving trails of brilliance behind. My precious heart sparkles with magic, while fortune dances all around me. A mystical creature guards my essence as I surge upward through the carnival of dreams.",
+      "hint": "Think of moonshot gains, gem diamonds, and what powers volatile markets"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is valuable, ⚡ is fast, 🌙 is the goal, ✨ is lucky, 🦊 is clever",
+      "hint": "A crypto trader's essential toolkit"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      9,
+      13
+    ]
   }
 }
