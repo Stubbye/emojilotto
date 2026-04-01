@@ -5488,5 +5488,23 @@
       13,
       21
     ]
+  },
+  "sol_227": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six secrets dance in shadows deep. The jester's twin masks guard the radiant throne, while azure wings flutter through fortune's keep. Lightning splits the gemstone's heart, and from chaos blooms the eternal flower. Seek where the fox's cunning finds the dragon's power.",
+      "hint": "Look for opposing forces: luck's instrument, cosmic light, deception's symbol, nature's transformation, raw energy, and ancient wisdom intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: where you aim, where dreams fly, what sparkles with worth, what lights the night sky, what strikes with power, and what never dies in stories old.",
+      "hint": "Think of targets, space travel, precious things, celestial bodies, nature's force, and mythical creatures."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      5,
+      13
+    ]
   }
 }
