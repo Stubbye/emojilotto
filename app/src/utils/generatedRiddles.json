@@ -5326,5 +5326,41 @@
       5,
       14
     ]
+  },
+  "sol_219": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and prismatic light dances with fortune's wheel, the trickster's grin conceals what glimmers in the void. Six secrets hide: the hunter's cunning, the storm's electric kiss, the jeweled heart of night, the wheel of chance, the flame of chaos, and the prism's scattered dreams.",
+      "hint": "One deceives, one hunts, one strikes from above, one gleams in darkness, one determines fate, one consumes all."
+    },
+    "easyRiddle": {
+      "text": "I am six: a clever animal, a precious stone that catches light, a violent flash from the sky, the dice that roll your destiny, a dangerous wildfire, and a masked jester who laughs at luck itself.",
+      "hint": "Think of trickery, wealth, nature's anger, games of chance, destruction, and mischief."
+    },
+    "answer": [
+      13,
+      2,
+      4,
+      11,
+      5,
+      19
+    ]
+  },
+  "emlo_120": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, seeking treasures that sparkle and shine. Fortune favors the bold who ride my electrifying waves of luck, where magic strikes like thunder and fortune multiplies like stars in the night sky.",
+      "hint": "Think of a memecoin's journey: explosive growth, lunar aspirations, and the glittering rewards that await."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 💎 past the 🌙 with ⚡ speed and ✨ magic. What six things describe a memecoin adventure?",
+      "hint": "Launch, gem, moon, lightning, sparkles, and one more magical element."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      21
+    ]
   }
 }
