@@ -5542,5 +5542,23 @@
       11,
       10
     ]
+  },
+  "sol_229": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, twin crescents dance with electric desire. A gemstone's brilliance splits the night's tapestry, while magic's jester grins at destiny's mastery. Six symbols converge in chaos and grace—find the pattern written in fortune's face.",
+      "hint": "Consider celestial bodies, illumination, games of chance, and theatrical elements. One brings aimed precision, one burns from above, one shines from below, one sparkles with fortune's dust, one laughs at fate, and one glimmers with precious light."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one aims true, one lights the sky, one jewel so bright, one face that grins with all its might, one dust of stars that catches light, and one crescent watching through the night.",
+      "hint": "Look for: something that shoots, something that glows, something precious, something that plays tricks, something magical and shimmering, and something in the night sky."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      10,
+      1
+    ]
   }
 }
