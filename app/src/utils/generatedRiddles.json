@@ -5380,5 +5380,23 @@
       4,
       14
     ]
+  },
+  "sol_221": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in shadow's game. A jester's grin beneath the gem's deep gleam, a scaled beast guards the sparkled dream. Swift-pawed deceiver leaps through prism's arc, while lunar guardian ignites the dark.",
+      "hint": "Look for the seeker, the fool, the precious stone, the ancient wyrm, the cunning thief, and the night's eternal sentinel."
+    },
+    "easyRiddle": {
+      "text": "Find the target where arrows fly, the joker who makes us laugh, the shimmering gem so bright, the dragon with ancient might, the fox so clever and sly, and the moon that lights the sky.",
+      "hint": "A game piece, a trickster, treasure, a mythical creature, a cunning animal, and a night sky symbol."
+    },
+    "answer": [
+      0,
+      12,
+      2,
+      14,
+      13,
+      3
+    ]
   }
 }
