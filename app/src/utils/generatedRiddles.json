@@ -5704,5 +5704,23 @@
       23,
       19
     ]
+  },
+  "sol_237": {
+    "hardRiddle": {
+      "text": "Where celestial fire weaves through prismatic veils, six harbingers of fortune dance: the archer's aim beyond mortality, the chariot of ambition piercing the veil, crystalline greed's eternal whisper, Luna's silver witness to secrets, the tempest's violent kiss, and the serpent of chaos coiled in ancient dreams. What constellation of fate shall claim the seeker's gold?",
+      "hint": "One points to destiny, one rises above, one glimmers with desire, one watches from above, one strikes with fury, one guards with fire."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance await: a bullseye's perfect aim, a rocket's fearless flight, a gem that catches light, the moon that guides the night, lightning's sudden strike, and a dragon's ancient might. Which six shall unlock your destiny?",
+      "hint": "Think of precision, space, wealth, the sky, electricity, and mythology."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
