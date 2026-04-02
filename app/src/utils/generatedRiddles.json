@@ -5902,5 +5902,23 @@
       12,
       5
     ]
+  },
+  "sol_246": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate converge in cryptic light. The jester's grin meets heaven's crystalline throne, while winged metamorphosis dances with celestial stone. Lightning splits the sacred geometry of chance, and flames consume the stage where tricksters prance.",
+      "hint": "Think of chaos meeting order, laughter with the cosmos, and transformation within performance."
+    },
+    "easyRiddle": {
+      "text": "I am six seekers of destiny: one aims with precision, one rises toward dreams, one sparkles with value, one rules the night sky, one strikes with fury, and one wears the mask of jest. Find us in the chaos of chance.",
+      "hint": "Look for targets, ascension, wealth, darkness, power, and entertainment."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
