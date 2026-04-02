@@ -5812,5 +5812,41 @@
       8,
       13
     ]
+  },
+  "sol_242": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial vault, a gemstone burns in lightning's grasp. The dragon's wings flutter through prismatic veils, while masked performers dance upon crystalline stages beneath wandering spheres of fire and ice.",
+      "hint": "Consider what rises, what shines, what transforms, what entertains, what reflects, and what guides through darkness."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one flies toward dreams, one glitters with value, one crackles with power, one shapeshifts with grace, one masks the truth, and one reflects all colors.",
+      "hint": "Think of speed, wealth, energy, transformation, deception, and light."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      8,
+      19,
+      22
+    ]
+  },
+  "emlo_127": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with explosive speed, seeking gems that sparkle with electric fortune. When lady luck strikes like lightning through the circus of chaos, my dragon spirit dances with the joker's magic. What six tokens guide my memecoin destiny?",
+      "hint": "Think of moon missions, precious finds, speed, electricity, chaos, and mythical luck"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, ✨ shines bright, ⚡ strikes fast, 💎 is treasure, 🐉 brings magic, 🃏 brings luck. What am I collecting?",
+      "hint": "One emoji represents a journey upward, one a destination, one beauty, one power, one fantasy, one chance"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      10,
+      13,
+      14
+    ]
   }
 }
