@@ -5794,5 +5794,23 @@
       10,
       8
     ]
+  },
+  "sol_241": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a jester's twin masks grin in the court of shimmer. The scaled leviathan guards the threshold where lightning births crystalline tears, and petals dance with wings in chambers painted by refracted light. Six threads weave fate's grand jest—can you name them ere the dawn claims the night?",
+      "hint": "One strikes with electricity, one glimmers eternal, one wears duality, one soars with metamorphosis, one breathes ancient smoke, one blooms in silence."
+    },
+    "easyRiddle": {
+      "text": "I guide with aim, I laugh with masks, I spark with fury, I shimmer with age, I transform on wind, I guard with scales. Six simple souls, each playing their part in fortune's game.",
+      "hint": "Think of aim, jest, danger, precious things, change, and power."
+    },
+    "answer": [
+      0,
+      19,
+      4,
+      21,
+      8,
+      13
+    ]
   }
 }
