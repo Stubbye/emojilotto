@@ -5866,5 +5866,41 @@
       8,
       11
     ]
+  },
+  "sol_245": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial breath, a jester's grin guards the gate between rebirth and depth. The archer's true mark glimmers beneath the fool's mask, while prismatic chains bend what mortals cannot bask. Six symbols intertwine in chaos and grace—find the performers of fate's most devious race.",
+      "hint": "Look for the wild trickster, the crystalline truth, the mark of precision, the cosmic youth, the mystic's laughter, and flames that consume."
+    },
+    "easyRiddle": {
+      "text": "Six magical objects hide in this verse: A jester who laughs, gems that pierce through the curse, Fire that dances and lightning that strikes, A target so true and a mask that entices. What six shall you choose from the lottery's spell?",
+      "hint": "Think of chaos, beauty, danger, precision, and deception combined."
+    },
+    "answer": [
+      3,
+      11,
+      1,
+      13,
+      19,
+      5
+    ]
+  },
+  "emlo_128": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, carrying precious gems that sparkle with fortune's fire. Dance with the jester's luck as chaos strikes like lightning, painting rainbows across the moon's glow.",
+      "hint": "Think of a memecoin's journey: rapid ascent, dazzling rewards, and unpredictable volatility"
+    },
+    "easyRiddle": {
+      "text": "A coin shoots up fast ⚡, shines bright like treasure 💎, and reaches for the 🌙. The jester 🃏 spins the dice 🎲 while fire 🔥 lights the way.",
+      "hint": "Six emojis describe a memecoin rocket launch with sparkle and chance"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      11,
+      12,
+      5
+    ]
   }
 }
