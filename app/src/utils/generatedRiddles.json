@@ -5758,5 +5758,23 @@
       13,
       4
     ]
+  },
+  "sol_239": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's masquerade meets the winged metamorphosis. Six destinies converge: the archer's eternal mark, the celestial wanderer's glow, the prism of earthborn treasures, the serpent crowned in ancient majesty, the thunderous conductor's wrath, and the illusionist's painted truth. Speak what lies between chaos and creation.",
+      "hint": "One guides arrows, one guides night, one glimmers deep, one coils long, one strikes fast, one deceives all."
+    },
+    "easyRiddle": {
+      "text": "I seek six mystical symbols: the circular goal, the nocturnal orb, the precious stone, the mythical beast of scales, the swift bolt from above, and the trickster's painted grin. What lottery numbers echo through dreams?",
+      "hint": "Target the night, find gems, meet dragons, feel the spark, and laugh with the joker."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      4,
+      17
+    ]
   }
 }
