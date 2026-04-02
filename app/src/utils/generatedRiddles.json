@@ -5920,5 +5920,23 @@
       4,
       19
     ]
+  },
+  "sol_248": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers conspire in shadows. The archer's mark bleeds cosmic tears upon the jester's stage, while winged chaos pirouettes through prismatic veils. In the vault of laughter, a scaled guardian weeps lightning upon fortune's crown.",
+      "hint": "Consider what hunts, what mocks, what soars, what illuminates, what strikes, and what glimmers in victory's chamber."
+    },
+    "easyRiddle": {
+      "text": "A hunter aims true, a fool makes us laugh, a dragon takes flight, lightning strikes bright, sparkles adorn champions, and the moon watches all.",
+      "hint": "Think of: something that shoots, something silly, something mythical, something electric, something celebratory, and something in the sky."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      4,
+      9,
+      3
+    ]
   }
 }
