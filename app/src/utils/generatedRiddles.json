@@ -5848,5 +5848,23 @@
       13,
       14
     ]
+  },
+  "sol_244": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and the trickster's grin dances with scaled desire. Through prism-split light, the winged soul ascends, while fortune's cube whispers what fate portends. In this realm where jest and inferno entwine, six marks of destiny shall align.",
+      "hint": "One aims true, one burns bright, one deceives with laughter, one rules ancient skies, one transforms through air, and one decides."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the dancing flame, the laughing fool, the ancient king, the flying sprite, and the numbered bone.",
+      "hint": "Target, fire, joker, dragon, butterfly, and dice complete the set."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      14,
+      8,
+      11
+    ]
   }
 }
