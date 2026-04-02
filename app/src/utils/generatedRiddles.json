@@ -5992,5 +5992,23 @@
       14,
       20
     ]
+  },
+  "sol_251": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers of fate convene. The jester's grin adorns the threshold of luck, while scales of chance tumble before the gemstone's gleam. A fox's cunning whispers beneath the dragon's breath, and where lightning births the prism's seven sins, there blooms the answer in crystalline geometry.",
+      "hint": "Seek the court of chance where mischief, fire, and precious stones align with the trickster's domain."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the joker's wild grin, a gem that sparkles bright, the lightning that ignites, the fire that dances, and the crystal that reflects all light.",
+      "hint": "Think of games, luck, power, and the things that shine in darkness."
+    },
+    "answer": [
+      0,
+      12,
+      2,
+      4,
+      5,
+      20
+    ]
   }
 }
