@@ -5974,5 +5974,23 @@
       19,
       2
     ]
+  },
+  "sol_250": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin masks dance with the dragon's desire. Through prisms of crystal and gems unseen, six silent witnesses of what might have been. The lightning strikes where the butterfly's wings once gleamed, and all is scattered like stardust dreamed.",
+      "hint": "Look for symbols of chance, performance, and cosmic forces intertwined with precious reflections."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that soar, the gem that sparkles, the masks of lore, the dragon fierce, and one more - the crystal's core.",
+      "hint": "Six symbols: one aims, one flies, one shines bright, one hides faces, one roars might, one refracts light."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      14,
+      20
+    ]
   }
 }
