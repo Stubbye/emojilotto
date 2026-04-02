@@ -5722,5 +5722,41 @@
       4,
       13
     ]
+  },
+  "sol_238": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's soft glow, and twin serpents dance through celestial vertigo. The jester's mask conceals what thunder knows, while crystalline petals bloom where chaos throws. Six whispers bind the fate that mortals chase, through mirrors of the night's most sacred place.",
+      "hint": "Seek the hunter's precision, the dreamer's pale companion, the trickster's disguise, the spark of wrath, the jeweled bloom, and the frozen prism of eternity."
+    },
+    "easyRiddle": {
+      "text": "I guide arrows to their mark, I haunt the night sky dark. A joker laughs in painted glee, while lightning strikes wild and free. A flower blooms in crystalline form, where magic breaks the natural norm. What six treasures light the way?",
+      "hint": "Think of targets, moons, jokers, lightning, flowers, and crystals."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      4,
+      14,
+      20
+    ]
+  },
+  "emlo_126": {
+    "hardRiddle": {
+      "text": "I launch to lunar heights with electric speed, a gemstone prize that makes portfolios gleam. Dance through chaos with joker's luck, where rainbow profits spark and dragons take flight. What six treasures guide the to the moon?",
+      "hint": "Think of the journey: ignition, destination, reward, fortune, chaos, and mythical power"
+    },
+    "easyRiddle": {
+      "text": "Start with fire and lightning, reach for the gem and moon. Add a joker's luck and a dragon's might. These six bring memecoin dreams to life!",
+      "hint": "One launches, one is the goal, one sparkles, one brings chaos, one is mythical, and one is electric"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      7,
+      13,
+      4
+    ]
   }
 }
