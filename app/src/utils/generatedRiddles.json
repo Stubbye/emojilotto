@@ -5938,5 +5938,41 @@
       9,
       3
     ]
+  },
+  "sol_249": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's thread, six sentinels guard the threshold between chaos and grace. The emerald whisper dances with the serpent's ancient crown, while the tempest's tongue and the crimson devour speak in tongues of transformation. The winged soul ascends through the prism's fractured light, seeking what mortals mistake for destiny.",
+      "hint": "One points, one shines above, one glimmers with worth, one rules the skies, one consumes, one transforms and rises."
+    },
+    "easyRiddle": {
+      "text": "I have a point but I'm not sharp. I hang high and glow. I sparkle with value. I rule with fire and scales. I dance on lightning. I flutter toward rainbows. What am I?",
+      "hint": "Think of a target, the moon, a gem, a dragon, lightning, and a butterfly."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      5,
+      8
+    ]
+  },
+  "emlo_129": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, my value sparkles like gems in the night. Fortune's joker dances with me, while electric energy strikes those who hold steady. What six symbols unite the memecoin dreamer's journey?",
+      "hint": "Think of launch momentum, precious gains, luck, electricity, and the destination we all seek."
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts toward 🌙, carrying ✨ and ⚡. The lucky 🤡 wins the 💎. Which six emojis light up this memecoin adventure?",
+      "hint": "Rocket, moon, sparkles, lightning, joker, and gem - the ultimate crypto combo!"
+    },
+    "answer": [
+      1,
+      3,
+      9,
+      4,
+      19,
+      2
+    ]
   }
 }
