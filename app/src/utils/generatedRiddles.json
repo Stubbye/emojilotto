@@ -6064,5 +6064,41 @@
       2,
       3
     ]
+  },
+  "sol_256": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a gemstone gleams beneath the jester's gyre. The fox's cunning dance with dragon's breath ignites the stage where masked performers rest. Six tokens of fate spin through the night—which constellation claims the seeker's sight?",
+      "hint": "Look for the trickster's realm where precious things ignite, and winged creatures guard the dramatic light."
+    },
+    "easyRiddle": {
+      "text": "I shoot straight and true, precious stones align, laughter masks the truth where chaos is divine. Dragons breathing heat upon a burning stage, while foxes prance—now turn the lottery page.",
+      "hint": "Think of games of chance, precious gems, performers, and magical creatures breathing fire."
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      13,
+      18,
+      5
+    ]
+  },
+  "emlo_131": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my gem sparkles bright as lightning strikes. The joker's fire burns in my circus of fortune, where the dragon guards my crystal throne beneath the dancing rainbow.",
+      "hint": "Six symbols of wealth, chaos, and moonbound ambitions converge in this memecoin's wild journey."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, gem that sparkles, lightning fast, fire hot, joker laughing, dragon watching - which six things define our memecoin madness?",
+      "hint": "Look for speed, shine, electricity, heat, trickery, and legendary power."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      14
+    ]
   }
 }
