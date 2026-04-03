@@ -6280,5 +6280,23 @@
       5,
       10
     ]
+  },
+  "sol_265": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a winged metamorphosis dances through prismatic tears. The jester's grin illuminates the crystalline veil, while thunder's kiss awakens what sleeps beneath the verdant trinity. Behold the celestial stage where luck is painted in electric silence.",
+      "hint": "One guides your aim, one transforms dreams, one mocks destiny, one glimmers in darkness, one strikes without mercy, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "I am six: a marksman's circle, a creature reborn in flight, a stone most rare, a jester's face, a force of nature's rage, and a blossom that never fades.",
+      "hint": "Target, butterfly, gem, joker, lightning, and flower - but which order holds the winning truth?"
+    },
+    "answer": [
+      0,
+      8,
+      2,
+      19,
+      5,
+      14
+    ]
   }
 }
