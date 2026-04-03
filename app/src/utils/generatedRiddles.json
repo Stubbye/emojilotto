@@ -6100,5 +6100,23 @@
       13,
       14
     ]
+  },
+  "sol_257": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin masks, the jester's heart beats beneath a prism of dreams. Five points pierce the veil between earth and infinity, while winged metamorphosis spirals through prismatic waves of chance. The dragon's breath ignites the stage where revelry meets destiny.",
+      "hint": "Look for symbols of luck, performance, transformation, light, and celestial wonder intertwined with games of chance."
+    },
+    "easyRiddle": {
+      "text": "Find the stage where performers play, the creature that transforms with grace, the lucky charm of four leaves blessed, the celestial orb that glows at night, the spark that splits the sky in two, and the jeweled stone that catches light.",
+      "hint": "One place of entertainment, one changing creature, one plant, one night object, one weather event, one shiny thing."
+    },
+    "answer": [
+      7,
+      8,
+      20,
+      3,
+      5,
+      2
+    ]
   }
 }
