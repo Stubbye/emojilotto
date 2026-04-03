@@ -6298,5 +6298,23 @@
       5,
       14
     ]
+  },
+  "sol_266": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged messenger ascends through prismatic tears. In the heart of revelry, the scaled guardian watches as chance itself sparkles and splinters. Six souls convene where laughter meets the infinite.",
+      "hint": "Think of luck's theatre, the sky's jewels, and wings that transform."
+    },
+    "easyRiddle": {
+      "text": "A creature flies transformed, a dragon guards the stage, lightning strikes the sky while gems catch starlight, and fortune sparkles between the laughter and masks.",
+      "hint": "Count the magical beings and lucky charms in a cosmic circus."
+    },
+    "answer": [
+      8,
+      13,
+      20,
+      1,
+      9,
+      21
+    ]
   }
 }
