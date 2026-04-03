@@ -6370,5 +6370,23 @@
       13,
       20
     ]
+  },
+  "sol_270": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six whispers converge: the archer's distant mark, the winged messenger of metamorphosis, the crystalline tear of heavens, the nocturnal sovereign's gaze, the serpent of thunder coiled in chaos, and the verdant fortune kissed by fate. Seek them in the order destiny demands.",
+      "hint": "One aims, one transforms, one glimmers, one watches, one strikes, one blesses."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target to hit, a butterfly to chase, a gem to treasure, the moon to dream by, lightning to fear, and a clover for luck. What symbols align when fortune smiles?",
+      "hint": "Think of luck, transformation, wealth, night, power, and chance combined."
+    },
+    "answer": [
+      0,
+      8,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
