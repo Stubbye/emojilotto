@@ -6208,5 +6208,23 @@
       5,
       18
     ]
+  },
+  "sol_262": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets hide in shadow's appeal. The archer's mark meets the thunderbolt's creed, a gemstone glimmers where dragons heed. Through butterfly wings and the jester's game, fortune and fate are not the same.",
+      "hint": "Look for: precision meets power, precious gleam, mythical guardian, delicate wings, chance itself, and mirth's mask"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await your sight: a target true, lightning bright, gems that shine, a dragon's flight, a butterfly's grace, and a joker's might. Which six will make your fortune right?",
+      "hint": "Accuracy, electricity, treasure, mythology, nature, and comedy"
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      14,
+      8,
+      19
+    ]
   }
 }
