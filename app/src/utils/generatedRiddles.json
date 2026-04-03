@@ -6010,5 +6010,41 @@
       5,
       20
     ]
+  },
+  "sol_254": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in shadow's empire. The jester's grin beneath the moon's pale gaze, while crystal shards refract through fortune's maze. A dragon's scale and lightning's bitter kiss, entwined within this labyrinthine bliss.",
+      "hint": "One guides the lost, one burns the sky, one laughs at fate, one gems the eye, one roars in myth, one tears the veil—six seekers' souls within the grail."
+    },
+    "easyRiddle": {
+      "text": "I point to luck, I light the night, I sparkle bright, I laugh with spite, I soar through dreams, I split the air—find all six treasures hiding there.",
+      "hint": "Think of: aim, fire, gems, chaos, magic beasts, and sky's fury."
+    },
+    "answer": [
+      0,
+      5,
+      6,
+      2,
+      14,
+      21
+    ]
+  },
+  "emlo_130": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial palace where riches sparkle eternally. My voltage strikes through the night, igniting flames of fortune. A jester spins the wheel of fate while gems dance in electric storms. What sequence reveals the path to legendary gains?",
+      "hint": "Think of a memecoin's journey: propulsion, destination, volatility, chaos, value, and destiny"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 calls dreamers, 🃏 brings chaos, ⭐ shows the way. Arrange them in the order of a perfect pump!",
+      "hint": "Launch, speed, treasure, night dreams, wild chance, success"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      11,
+      21
+    ]
   }
 }
