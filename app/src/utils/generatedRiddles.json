@@ -6316,5 +6316,23 @@
       9,
       21
     ]
+  },
+  "sol_267": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six dancers spin in twilight's choir. The prism bleeds its sevenfold song, while scaled guardian drifts among the throng. Swift wings embrace the glittering veil, and luck's own jester tells the tale.",
+      "hint": "Seek the meeting of aim and flame, where magic blooms in chaos's name"
+    },
+    "easyRiddle": {
+      "text": "I point toward fortune's heart. I ignite the path. I shine with pure light. I reign in the sky. I flutter with grace. I juggle all fate.",
+      "hint": "Six symbols of destiny and wonder"
+    },
+    "answer": [
+      0,
+      5,
+      21,
+      1,
+      8,
+      19
+    ]
   }
 }
