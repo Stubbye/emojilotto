@@ -6388,5 +6388,23 @@
       4,
       19
     ]
+  },
+  "sol_271": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces celestial silence, a gemstone catches fire in the butterfly's ascending flight, dancing with lightning's twin gleam beneath the joker's painted grin—seek the six that waltz between chaos and grace, where sparkles crown the fool's sacred ascent.",
+      "hint": "Consider which emojis represent luck, direction, fortune, chaos, joy, and the journey between worlds."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that shoots upward, the precious stone that glows, the winged dancer of transformation, the electric spark of power, the jester's smile, and the shimmer of wishes granted.",
+      "hint": "One points, one shines, one flies, one strikes, one laughs, one sparkles."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      5,
+      19,
+      10
+    ]
   }
 }
