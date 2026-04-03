@@ -6226,5 +6226,23 @@
       8,
       19
     ]
+  },
+  "sol_263": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through midnight's veil, six omens converge: the archer's mark meets heaven's chariot, crystalline tears of earth dance with celestial flame, whilst nature's winged metamorphosis pirouettes through prismatic threads and fortune's thunderous whisper crowns the sovereign's radiance.",
+      "hint": "Seek the hunter's symbol, the path upward, frozen brilliance, transformation's bloom, the spectrum's arc, and the storm's voice."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one aims true, one ascends high, one sparkles hard, one transforms wings, one paints the sky, one strikes with power.",
+      "hint": "Think of a target, a rocket, a gem, a butterfly, a rainbow, and lightning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      9,
+      4
+    ]
   }
 }
