@@ -6190,5 +6190,23 @@
       5,
       9
     ]
+  },
+  "sol_261": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a crystalline fragment glimmers in chaos's dance. The jester's grin betrays the cunning predator's shadow, while thunder's kiss ignites the path to victory's crown. Six destinies converge where laughter masks the hunt.",
+      "hint": "Consider symbols of chance, celestial bodies, precious things, trickery, nature's hunters, and triumph."
+    },
+    "easyRiddle": {
+      "text": "I am the target of all dreams, I shine like a gem in darkness, I laugh like a joker in disguise. A quick fox prowls nearby, lightning strikes the trophy, and a dragon watches over chaos. What six mark the way?",
+      "hint": "Look for: aim, sparkle, trickery, cunning, power, and majesty."
+    },
+    "answer": [
+      0,
+      21,
+      11,
+      13,
+      5,
+      18
+    ]
   }
 }
