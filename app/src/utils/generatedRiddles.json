@@ -6406,5 +6406,23 @@
       19,
       10
     ]
+  },
+  "sol_272": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, a jeweled serpent coils beneath twin flames of heaven's wrath. The jester's grin dissolves into wingéd metamorphosis, while crystalline voices sing of luck's eternal spiral. Six mysteries intertwine: the hunter wears cunning's mask, destiny charts its course through starlit thunder, and transformation blooms where laughter echoes in the dark.",
+      "hint": "One seeks, one strikes, one glimmers, one rules, one laughs, one changes form"
+    },
+    "easyRiddle": {
+      "text": "A creature with a bushy tail, a dragon's ancient might, a shimmering stone that catches light, lightning that splits the night, a fool who brings delight, and wings that dance in flight. These six hold the key to fortune's game.",
+      "hint": "Think of animals, weather, gems, and carnival characters"
+    },
+    "answer": [
+      13,
+      14,
+      2,
+      4,
+      17,
+      8
+    ]
   }
 }
