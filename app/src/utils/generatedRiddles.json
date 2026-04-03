@@ -6046,5 +6046,23 @@
       11,
       21
     ]
+  },
+  "sol_255": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial void, a winged metamorphosis dances through prismatic veils. The jester's twin flame ignites beneath the wanderer's luminous throne, while crystalline brilliance shatters into infinite refraction. Six secrets hide where chaos blooms in ordered rebellion.",
+      "hint": "Seek the symbols of ascension, transformation, and the duality of light and chance."
+    },
+    "easyRiddle": {
+      "text": "A target aims high, a rocket soars free, a butterfly transforms with grace. Fire burns bright, a gem shines true, and under the moon all dreams come alive. These six guide the lottery's way.",
+      "hint": "Think of ambition, flight, beauty, energy, value, and nighttime magic."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      4,
+      2,
+      3
+    ]
   }
 }
