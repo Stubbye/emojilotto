@@ -6334,5 +6334,41 @@
       8,
       19
     ]
+  },
+  "sol_269": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the masked troubadour's fortune spins beneath fortune's throne. Six-fold symmetry awaits: the archer's distant dream, the ascending phoenix-path, the earth's crystallized tears, the night's silver sentinel, the dancer of storms, and the wheel of chance that binds them all.",
+      "hint": "One seeks distant glory, one climbs ever higher, one glimmers with purity, one watches from above, one strikes with fury, and one determines all fates."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this verse: Something you aim for, something that rises fast, something precious and hard, something in the night sky, something that strikes with electricity, and something with six sides you roll.",
+      "hint": "Think of goals, speed, jewels, astronomy, weather, and games."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      11
+    ]
+  },
+  "emlo_134": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkling with electric potential. Fortune's jester spins me wildly as fire ignites the path. A mystical fox guards treasures that shimmer like gems under moonlight's glow.",
+      "hint": "Think of a memecoin journey: launch, luck, speed, and mythical guardians"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with lightning speed! A magical fox guards your glittering gem while sparks fly everywhere!",
+      "hint": "Space travel + fast movement + treasure + animal + light show"
+    },
+    "answer": [
+      1,
+      5,
+      9,
+      3,
+      13,
+      20
+    ]
   }
 }
