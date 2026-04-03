@@ -6244,5 +6244,41 @@
       9,
       4
     ]
+  },
+  "sol_264": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's flame, six harbingers dance in shadow's game. The archer's mark holds fortune's core, while winged metamorphosis unlocks the door. Between the spheres where voltage screams, a jester's laugh shatters dreams. Ruby tears weep from the abyss, while serpent scales coil in cosmic kiss. In this hexad of chaos sublime, destiny pirouettes through spacetime.",
+      "hint": "Look to the sky and chaos. A transformation awaits between fire and mirth. The dragon guards what the fool reveals."
+    },
+    "easyRiddle": {
+      "text": "I point to winners, I launch you high, I sparkle bright beneath the sky. I rule the night, I dance with flame, a jester plays the lottery game. I change my form on nature's whim, a serpent coils where light grows dim.",
+      "hint": "Six symbols: one aims, one flies, one shines, one lights, one transforms, one guards."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      13
+    ]
+  },
+  "emlo_133": {
+    "hardRiddle": {
+      "text": "A jester's luck strikes like thunder, launching dreams to celestial heights. Where memes ignite and fortunes shimmer, the fool's gamble sparkles eternal.",
+      "hint": "Think of volatility, destiny, and the celebration of chaos in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "I'm a playing card's wild smile, lightning fast gains, a gem so bright, reaching the moon with fire and luck. What am I?",
+      "hint": "You need a joker, lightning, gem, moon, fire, and dice to win big"
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      3,
+      5,
+      10
+    ]
   }
 }
