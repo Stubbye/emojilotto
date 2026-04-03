@@ -6424,5 +6424,23 @@
       17,
       8
     ]
+  },
+  "sol_273": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a jeweled flame dances with the trickster's grin. Beneath the jester's mask, lightning births a prismatic serpent through the fool's domain. Six symbols intertwine: the mark of aim, the vessel of ambition, the crystalline desire, the nocturnal witness, the chaos-bringer's spark, and the masked deceiver's realm.",
+      "hint": "Think of luck's instruments, cosmic watchers, precious things, electricity's path, and faces that hide truth."
+    },
+    "easyRiddle": {
+      "text": "I seek six dancers in the lottery's theater: one aims and strikes, one climbs to dreams, one glitters with value, one rules the night sky, one crackles with power, and one wears many faces. What are these six?",
+      "hint": "A target, a rocket, a gem, a moon, lightning, and a joker walk into a lottery..."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
