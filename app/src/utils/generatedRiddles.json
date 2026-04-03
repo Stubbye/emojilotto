@@ -6136,5 +6136,23 @@
       8,
       4
     ]
+  },
+  "sol_259": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled leviathan ascends through celestial fire, while prismatic shards dance with the trickster's grin. Seek the bloom that blooms in chaos, the winged metamorphosis of fate, and the radiant burst where wishes crystallize into being.",
+      "hint": "One hunts, one rules the sky, one blinds with light, one deceives, one transforms, one grows eternal."
+    },
+    "easyRiddle": {
+      "text": "A target marks the beginning, a dragon guards the treasure, lightning strikes with power, a joker laughs at destiny, a butterfly carries transformation, and sparkles reveal the magic within.",
+      "hint": "Think of aim, mythical beasts, electricity, tricks, rebirth, and glimmer."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      19,
+      8,
+      10
+    ]
   }
 }
