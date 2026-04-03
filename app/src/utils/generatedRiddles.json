@@ -6118,5 +6118,23 @@
       5,
       2
     ]
+  },
+  "sol_258": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a scaled serpent ascends through celestial fire. The jester's grin reflects in crystalline depths, while nature's winged metamorphosis dances between thunder and the spectrum's arc. Six tokens bind the seeker's fate.",
+      "hint": "Consider what rises, what laughs, what transforms, what strikes, and what guides the path between worlds."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the dragon that climbs, the joker who grins, the crystal that shines, the butterfly that soars, and the lightning that strikes.",
+      "hint": "One aims, one mythical, one plays tricks, one is transparent, one transforms, one is electric."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      20,
+      8,
+      4
+    ]
   }
 }
