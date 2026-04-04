@@ -6586,5 +6586,41 @@
       4,
       11
     ]
+  },
+  "sol_282": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six harbingers emerge: the jester's grin dances with the serpent's ancient wisdom, while crystalline dreams ascend on lightning's tongue toward Luna's embrace, and the winged transformation completes the sacred circle of chaos and rebirth.",
+      "hint": "One predicts chance, one embodies magic, one shatters boundaries, one charges destiny, one holds secrets, one transforms eternally."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck unite: the trickster laughs, the dragon roars, the crystal gleams, the lightning strikes, the moon glows, and the butterfly soars.",
+      "hint": "A magical creature, a gemstone, weather, night sky, a jester, and an insect that changes form."
+    },
+    "answer": [
+      12,
+      13,
+      20,
+      4,
+      2,
+      7
+    ]
+  },
+  "emlo_137": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a precious gem that sparkles bright. Lady luck dances with me as fortune strikes like thunder, propelling wealth to rainbow heights where dragons guard the fire.",
+      "hint": "Think of the journey to riches: the destination, the velocity, the treasure, the luck factor, the wealth symbol, and the danger."
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, find the 💎 with ⚡ speed, under a 🌈 sky with 🔥 gains!",
+      "hint": "A memecoin's promise: go up fast, reach high, get rich, move quick, see colors, and moon with passion!"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      6
+    ]
   }
 }
