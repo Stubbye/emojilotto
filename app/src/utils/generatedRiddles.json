@@ -6640,5 +6640,23 @@
       8,
       10
     ]
+  },
+  "sol_284": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, six sentinels dance in celestial maze. The jester's grin beneath twin masks of fate, while emerald tears fall through lightning's gate. Winged metamorphosis traces arcs of flame, as four-leafed luck whispers the lottery's name.",
+      "hint": "Consider what each emoji represents: precision, illusion, duality, gemstone, transformation, and fortune itself."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this poetic play: an archer's mark, a fool's display, a precious stone, and luck's green ray, with fire's dance and wings that sway, beneath the night where fortune's at play.",
+      "hint": "Think of targets, jokers, gems, clover, fire, and butterflies."
+    },
+    "answer": [
+      0,
+      12,
+      2,
+      20,
+      5,
+      8
+    ]
   }
 }
