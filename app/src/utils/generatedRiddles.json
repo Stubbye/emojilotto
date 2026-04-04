@@ -6550,5 +6550,23 @@
       19,
       7
     ]
+  },
+  "sol_280": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's thread, six dancers of fate converge in shadow's embrace. The jester's twin souls pirouette through the veil of storms, while the scaled guardian and winged metamorphosis waltz beneath the prism of fortune's spectrum. Seek where chaos crystallizes into brilliance.",
+      "hint": "One points true, one ascends, one glimmers cold, one grins with madness, one transforms, one breathes ancient fire."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: the archer's mark, the messenger of dreams, the treasure most precious, the fool who knows all, the creature of wings reborn, and the beast of legends old.",
+      "hint": "Target, rocket, gem, joker, butterfly, and dragon hold the winning code."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      13
+    ]
   }
 }
