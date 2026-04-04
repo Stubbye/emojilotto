@@ -6442,5 +6442,23 @@
       4,
       19
     ]
+  },
+  "sol_274": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial spark dances with the ancient symbol of luck. The jester's mask grins at chaos, while scaled majesty guards the threshold. Seven-colored hope arcs eternal, and crystalline brilliance catches what mortals cannot hold.",
+      "hint": "One guides aim, one marks destiny, one brings laughter in shadow, one commands fear, one promises beauty, one captures light itself."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I guard with fire, I bring good fortune's ancient desire. A ruler sits in night's embrace, while a prism shows many colors in one place. What six treasures unlock the lottery's grace?",
+      "hint": "Think of symbols: precision, luck, night sky, brilliance, majesty, and rainbow hope."
+    },
+    "answer": [
+      0,
+      19,
+      2,
+      13,
+      9,
+      21
+    ]
   }
 }
