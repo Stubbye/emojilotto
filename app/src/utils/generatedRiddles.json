@@ -6658,5 +6658,23 @@
       5,
       8
     ]
+  },
+  "sol_285": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's cascade, six tokens dance in shadow's masquerade. The winged metamorphosis glides through celestial fire, while crystalline brilliance fuels the dreamer's desire. Lightning splits the jester's painted soul, and nature's petaled heart completes the whole. What symbols pierce the veil between what is and what could be?",
+      "hint": "One brings precision, one brings chaos, one brings transformation, one brings light, one brings laughter, one brings growth."
+    },
+    "easyRiddle": {
+      "text": "I am precision's mark, I am the cosmic guardian, I am dressed in fire's twin, I am the shape-shifter's gateway, I am the fool's reflection, I am the bloom eternal. What six dance together?",
+      "hint": "Think of targets, night skies, speed, transformations, humor, and gardens."
+    },
+    "answer": [
+      0,
+      5,
+      20,
+      7,
+      17,
+      14
+    ]
   }
 }
