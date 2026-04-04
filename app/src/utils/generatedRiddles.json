@@ -6730,5 +6730,23 @@
       11,
       12
     ]
+  },
+  "sol_289": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial throne, a luminous gem ascends through tempest's moan. The jester's grin dances with scaled ancient pride, while nature's winged metamorphosis and heaven's shimmer collide. Six symbols weave fate's gossamer thread—name them ere dawn breaks red.",
+      "hint": "Begin with precision's mark, ascend to lunar dark, seek brilliance and court folly, dragon's wisdom, transformation's jolly, and the veil of starlit rally."
+    },
+    "easyRiddle": {
+      "text": "I point with purpose, climb to night's domain, sparkle with value, and bring fortune's reign. A jester brings laughter, a dragon brings might, and a butterfly dances in celestial light.",
+      "hint": "Think of: aiming, the moon, something precious, a silly character, a mythical beast, and an insect."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      11,
+      13,
+      8
+    ]
   }
 }
