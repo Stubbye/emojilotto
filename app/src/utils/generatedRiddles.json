@@ -6694,5 +6694,41 @@
       4,
       19
     ]
+  },
+  "sol_287": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the heavens' flame, through prisms bent and magic's claim. The jester's grin beneath the celestial sphere, while nature's painted arc and thunder's peers draw close. Six tokens dance in destiny's domain: the bull's-eye, sky-piercer, luminescent vein, the fool's eternal grin, the storm's bright crack, and light's own gleam that spirals back.",
+      "hint": "One points the way, one breaks the sky, one rules the night, one laughs at fate, one splits the dark, one dazzles bright"
+    },
+    "easyRiddle": {
+      "text": "Six spirits of luck: the marksman's circle glows, the rocket breaks the clouds, the gem shines eternal, the joker grins in jest, lightning splits the night, and sparkles dance like dreams.",
+      "hint": "Target, Rocket, Gem, Joker, Lightning, Sparkles"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      4,
+      10
+    ]
+  },
+  "emlo_138": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a gemstone of fortune that makes traders bleed. Dance with the joker through fire and spark, where butterfly dreams meet the moon's mystical arc.",
+      "hint": "A volatile journey combining launch energy, precious value, chaos, and celestial fortune"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with lightning speed, gems sparkle bright for those who heed. The joker laughs as rockets fly, reaching stars up in the sky.",
+      "hint": "Think of a crypto launch with valuable rewards and celestial destinations"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      11,
+      12
+    ]
   }
 }
