@@ -6802,5 +6802,41 @@
       14,
       15
     ]
+  },
+  "sol_294": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's glimmer, six whispers await: the archer's distant dream spirals upward through the void, while twin luminescence—one born of chaos, one of grace—twirl in cosmic jest. The trickster grins beneath the stage lights, and ancient scales of chance await those bold enough to seek the stage's brightest jewel.",
+      "hint": "Think of gambling's soul, the night sky's secrets, and where luck performs its eternal show. One guides arrows, one ignites the heavens, one reflects all colors, one wears many faces, one tumbles with destiny, and one plays for fools and kings."
+    },
+    "easyRiddle": {
+      "text": "I contain the archer's aim, the night's bright guardian, the storm's bright tongue, the jester's grin, the dancer's wings, and fortunes told by falling cubes. Six treasures hide within my veil of mystery.",
+      "hint": "Look for things that symbolize: targets, the moon above, lightning strikes, a joker's laugh, butterflies in motion, and dice rolling down."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      19,
+      8,
+      11
+    ]
+  },
+  "emlo_139": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my gems sparkle as fortune strikes like thunder. A jester's luck meets the dragon's fire, while chaos dances in brilliant arcs. What six symbols embody this memecoin madness?",
+      "hint": "Think of the journey: launching to heights, hitting jackpot moments, and wild entertainment."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with a rocket, find treasure gems, get lucky with a joker, strike gold with lightning, watch the dragon's fire, and sparkle with magic. What are these six symbols?",
+      "hint": "One goes up, one shines bright, one brings luck, one strikes fast, one breathes fire, and one glitters."
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      4,
+      5,
+      10
+    ]
   }
 }
