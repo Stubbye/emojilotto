@@ -6622,5 +6622,23 @@
       9,
       6
     ]
+  },
+  "sol_283": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, a dragon's breath ignites the gemstone's inner fire. Upon the stage of masks and mirth, the butterfly ascends through sparkles born of chance itself. Six harbingers dance between the mortal and the divine—one strikes with thunder's kiss, one gleams with crystalline truth, one soars through prismatic light. Seek them in the vault where dreams are wagered.",
+      "hint": "A path of ascension: aim, flight, radiance, rarity, transformation, and fortune's flash"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: the archer's mark glows brightly, the sky-beast breathes heat and wonder, the winged one dances free, precious stones catch the light, the stars twinkle with magic, and luck itself sparks in the darkness.",
+      "hint": "Think of: aim, legendary creature, beauty in motion, wealth, celestial glow, and random chance"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      21,
+      8,
+      10
+    ]
   }
 }
