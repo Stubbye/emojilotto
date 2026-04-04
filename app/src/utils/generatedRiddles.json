@@ -6568,5 +6568,23 @@
       8,
       13
     ]
+  },
+  "sol_281": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, six tokens dance in shadow's maze. The celestial sphere watches winged chaos bloom, while thunder's kiss ignites the jester's room. Crystalline light fragments through prism's ancient weave, and luck's four-cornered whisper makes believers believe.",
+      "hint": "Consider the instruments of fate, the watchers of night, the transformers of air, the bringers of chaos, the seekers of precision, and the keepers of chance."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune spin together: one aims true, one climbs the sky, one glimmers bright, one watches above, one strikes with power, and one turns the wheel of luck.",
+      "hint": "Think of hitting targets, reaching high, shining gems, the night sky, storms, and games of chance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      11
+    ]
   }
 }
