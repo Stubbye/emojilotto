@@ -6784,5 +6784,23 @@
       13,
       8
     ]
+  },
+  "sol_293": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six sentinels of fate converge in shadow's game. The trickster grins beneath a mandala of chance, while gemstone tears fall through the void's dark dance. A scaled guardian watches over luck's domain, as petals bloom where lightning marks its reign.",
+      "hint": "One brings precision, one ignites the sky, one deceives with laughter, one glitters as it flies, one breathes ancient wisdom, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny spin in the night: the archer's mark, the fire bright, the jester's grin, the stone that gleams, the ancient beast of mythic dreams, and nature's crown of colored seams.",
+      "hint": "Target, Fire, Joker, Gem, Dragon, and a blooming thing."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      2,
+      14,
+      15
+    ]
   }
 }
