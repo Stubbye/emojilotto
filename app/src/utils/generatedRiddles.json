@@ -6766,5 +6766,23 @@
       4,
       19
     ]
+  },
+  "sol_292": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's piercing gaze, six whispers dance in shadows—the archer's eternal mark, the vessel of dreams ascending through void, the crystalline heart of desire, the pale sentinel watching over fate's stage, the serpent of old coiled in smoke, and the delicate wanderer between worlds, reborn through flame.",
+      "hint": "One aims, one flies, one sparkles, one watches, one breathes chaos, one transforms"
+    },
+    "easyRiddle": {
+      "text": "Six keepers of magic: the circle that never misses, the ship to the stars, the stone that gleams, the night's guardian, the ancient beast of power, and the creature that dances on the wind.",
+      "hint": "Look for targets, journeys, gems, night, legends, and graceful wings"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      8
+    ]
   }
 }
