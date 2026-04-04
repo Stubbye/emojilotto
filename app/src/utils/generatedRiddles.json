@@ -6856,5 +6856,23 @@
       8,
       19
     ]
+  },
+  "sol_296": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keys unlock the void. The archer's destination gleams in prismatic depths, while thunder's twin births chaos. Wings of metamorphosis flutter through the cosmic stage where masks hide truth and fortune spins eternal. What six sentinels guard the threshold between chaos and destiny?",
+      "hint": "One points the way, one burns from above, one sparkles with worth, one transforms, one reveals deception, one determines fate."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: the target of dreams, the gem that shines, the fire from heaven, the butterfly's grace, the joker's secret, and the lucky charm. Together they dance in the lottery of emotion.",
+      "hint": "Look for: aim, value, weather, change, trickster, and luck."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      8,
+      19,
+      20
+    ]
   }
 }
