@@ -6496,5 +6496,41 @@
       4,
       19
     ]
+  },
+  "sol_277": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six tokens of destiny spiral through the cosmic veil: the winged dancer of metamorphosis, the crystalline heart of earth's deepest treasure, the silent guardian's silver gaze, the serpent of storms and ancient wisdom, the jester's painted madness, and the luminous dust of wishes unborn. Seek the ones that pierce both sky and soul.",
+      "hint": "Think of transformation, wealth, night, danger, folly, and magic combined—but only six shall align."
+    },
+    "easyRiddle": {
+      "text": "I am six mysteries wrapped in light: a creature reborn, a precious stone, the night's pale queen, a fearsome beast, a fool's true face, and stardust itself. Together we dance in the lottery's dream.",
+      "hint": "One flies and changes, one gleams, one watches above, one roars, one laughs, and one glows."
+    },
+    "answer": [
+      8,
+      2,
+      3,
+      13,
+      19,
+      10
+    ]
+  },
+  "emlo_136": {
+    "hardRiddle": {
+      "text": "I chase what rises beyond sight, my fuel is electric and burning bright. With fortune's gamble and magic's glow, through cosmic waves my riches flow. A jester's charm and a lucky find guide the treasure intertwined.",
+      "hint": "Think of a memecoin journey: the destination, the speed, the value, the odds, the luck, and the showmanship."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ powers it, 💎 is the prize, 🎪 entertains, 🍀 brings luck, ✨ makes it magic!",
+      "hint": "A memecoin adventure needs speed, energy, gems, fun, fortune, and sparkle!"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      6,
+      19,
+      10
+    ]
   }
 }
