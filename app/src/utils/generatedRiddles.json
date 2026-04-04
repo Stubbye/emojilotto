@@ -6676,5 +6676,23 @@
       17,
       14
     ]
+  },
+  "sol_286": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, six keepers of fate spin through fortune's dream. The winged messenger chases the pearl of night, whilst the jester's twin masks hold destinies tight. In crystalline depths where thunder is born, a symphony of chance greets the reborn. Seek the marked center where all roads align, the radiant heart where six destinies entwine.",
+      "hint": "One speaks of aims, one of speed; one glimmers with inner light; one marks the heavens; one brings chaos; one wears two faces."
+    },
+    "easyRiddle": {
+      "text": "Six oracles of luck reveal the way: a target bright, a rocket's ray, a gem that shines, the moon's display, lightning's strike, and masks at play. Which six shall dance when fortune calls?",
+      "hint": "Look for: something you aim at, something that flies fast, something precious, something in the sky, something electric, and something theatrical."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
