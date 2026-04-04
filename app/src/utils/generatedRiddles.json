@@ -6460,5 +6460,23 @@
       9,
       21
     ]
+  },
+  "sol_275": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between earthbound chains and celestial fire, six secrets dance in shadow's refrain. The jester's grin holds masquerade's ancient art, while winged transformation spirals through prismatic threads. In nature's bloom and stone's cold memory, luck's geometry reveals itself only to those who read the storm's electric tongue.",
+      "hint": "One guides, one burns, one laughs, one transforms, one grows, one sparkles with stolen starlight."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance await: an archer's aim, a messenger of the sky, a stone of worth, the jester's jest, a creature with wings, and petals of the garden.",
+      "hint": "Think of what brings luck, what flies, what shines, what makes you smile, and what blooms in spring."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      8,
+      15
+    ]
   }
 }
