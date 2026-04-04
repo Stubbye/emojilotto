@@ -6874,5 +6874,23 @@
       19,
       20
     ]
+  },
+  "sol_298": {
+    "hardRiddle": {
+      "text": "Through celestial void where fortune's archer aims, a serpent breathes its ancient flame. Where scales meet stars in crystalline dreams, the jester's mask conceals what seems. Lightning splits the prism's painted soul, while winged metamorphosis makes spirit whole.",
+      "hint": "Seek the hunter's mark, the mythic beast, the frozen light, the fool's facade, the electric schism, and the transformed wanderer."
+    },
+    "easyRiddle": {
+      "text": "I hunt with precision, I soar through the sky, I shimmer like ice, I wear many faces, I crack the heavens, and I transform in grace.",
+      "hint": "One marks targets, one flies high, one sparkles cold, one is theatrical, one strikes fast, one metamorphoses."
+    },
+    "answer": [
+      0,
+      13,
+      20,
+      18,
+      4,
+      7
+    ]
   }
 }
