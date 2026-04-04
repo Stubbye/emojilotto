@@ -6478,5 +6478,23 @@
       8,
       15
     ]
+  },
+  "sol_276": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and brilliance shatters into myriad shards. The trickster's grin dances with nature's most delicate wings, while tempest's wrath ignites what remains. Six secrets hide in plain sight: the aimed mark, the ascending flame, the gemstone's truth, the lunar throne, the striker's bolt, and the mask of deception.",
+      "hint": "Think of what defines chance itself: aim, ascension, wealth, sky, speed, and hidden faces"
+    },
+    "easyRiddle": {
+      "text": "I need six things to win: something you shoot at, something that goes up fast, something precious and shiny, something in the night sky, something quick and bright, and something worn to hide. What are they?",
+      "hint": "Target, rocket, gem, moon, lightning, and joker - the tools of destiny"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
