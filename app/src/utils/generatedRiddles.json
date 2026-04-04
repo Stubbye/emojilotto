@@ -6532,5 +6532,23 @@
       19,
       10
     ]
+  },
+  "sol_279": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleaming heart, and the trickster's grin meets nature's delicate wings, beneath a storm's electric whisper. The archer's mark aligns with radiance eternal, while laughter echoes through the big top's sacred ground. What six keepers of chance intertwine?",
+      "hint": "Think of spectacle, luck, and the cosmos converging in one moment of pure destiny."
+    },
+    "easyRiddle": {
+      "text": "One glows in night, one strikes with power, one sparkles bright, one flies with grace, one holds the jest, one draws the eye to wonder—name these six dancers of fate.",
+      "hint": "Look for: moon, lightning, sparkles, butterfly, joker, and something that catches attention in a show."
+    },
+    "answer": [
+      1,
+      5,
+      10,
+      8,
+      19,
+      7
+    ]
   }
 }
