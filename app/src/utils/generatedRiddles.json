@@ -6748,5 +6748,23 @@
       13,
       8
     ]
+  },
+  "sol_290": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's veil, six whispers dance in shadow's tale. The archer's prize eclipsed by night, a lightning's jest in crystal light. Winged transformation born of flame, and fortune's spark without a name. Seek the jester's gleaming throne, where prismatic secrets are sown.",
+      "hint": "One guides aim, one burns above, one courts chance, one shows true love. A creature transforms, a stone reflects—all six converge where luck connects."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's key: a target bright, a rocket free, a gem that shines with inner glow, a moon that guides the ebb and flow, a lightning bolt that splits the air, and a joker's wild and foolish flair.",
+      "hint": "Count them clearly: aim, ascend, sparkle, night, storm, and mirth."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
