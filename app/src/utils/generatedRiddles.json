@@ -6838,5 +6838,23 @@
       5,
       10
     ]
+  },
+  "sol_295": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, and chaos dances with the winged architect. The jester's twin flame burns eternal while precious ice crowns destiny's ascent. Six threads weave through the tapestry of chance—one marks the beginning, one pierces darkness, one adorns the crown, one transforms the chrysalis, one laughs without remorse, and one reflects all colors yet holds none.",
+      "hint": "Consider celestial markers, transformation, luck's symbol, fire's companion, rarity, and the mocking spirit of games."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: the mark you aim for, the stone that glimmers, the guardian of night, the spark of fury, the insect reborn, and the fool who grins. Together they spin the wheel of fate.",
+      "hint": "Think of targets, gems, the moon's domain, fire's nature, metamorphosis, and playing cards."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      8,
+      19
+    ]
   }
 }
