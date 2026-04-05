@@ -7324,5 +7324,23 @@
       5,
       9
     ]
+  },
+  "sol_320": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six dancers weave through realms of chance and desire. The jester's twin sparkles beneath the gem's glow, while wings of transformation drift where storm winds blow. What six treasures unlock destiny's door in this cosmic carnival of myth and more?",
+      "hint": "One guides aim, one ignites dreams, one glimmers with value, one rules night, one brings chaos, one symbolizes rebirth"
+    },
+    "easyRiddle": {
+      "text": "I am a target that guides your aim. A rocket that ignites your flame. A gem that shines so very bright. The moon that rules the starry night. Lightning that strikes with sudden might. And butterfly wings taking flight.",
+      "hint": "Think of six things: aim, flight, sparkle, night, storm, and transformation"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
