@@ -7198,5 +7198,23 @@
       2,
       11
     ]
+  },
+  "sol_314": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone gleams in lunar space. Lightning's twin dances with celestial fire, while masked performers spin their dire desire. The butterfly ascends through prism'd light, as crystalline echoes fade to night.",
+      "hint": "Consider the journey from earth to cosmos, the precious and the theatrical, and what transforms through spectrum and shadow."
+    },
+    "easyRiddle": {
+      "text": "Find the symbol of aim and precision, a precious stone of great vision, the night's guardian in sky so high, electricity's bright and fleeting cry, the realm of dreams and illusion's art, and the gem that refracts every part.",
+      "hint": "One hunts targets, one shines below ground, one rules heavens, one strikes with sound, one deceives with masks and jest, one breaks light into its best."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      19,
+      20
+    ]
   }
 }
