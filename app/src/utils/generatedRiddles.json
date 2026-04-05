@@ -7216,5 +7216,23 @@
       19,
       20
     ]
+  },
+  "sol_315": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's deep kiss, a gem-crowned dancer twirls through cosmic abyss. Lightning's twin, the fox's cunning flame, conducts a symphony without a name. Through prisms bent, the butterfly ascends, where silver crescents mend what chaos rends.",
+      "hint": "Six celestial performers in a nocturnal masquerade of chance and transformation"
+    },
+    "easyRiddle": {
+      "text": "Seek the archer's mark upon the night, a jewel that glows with borrowed light. A swift-tailed schemer plays with fire, while wings of grace climb ever higher. Thunder's sister dances free, in moonbeams' pale and silver sea.",
+      "hint": "Look for targets, sparkles, gems, lightning, butterflies, and moons"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      1,
+      8,
+      3
+    ]
   }
 }
