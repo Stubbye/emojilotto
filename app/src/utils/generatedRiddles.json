@@ -7252,5 +7252,23 @@
       20,
       21
     ]
+  },
+  "sol_317": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin spirals, and the gemstone's heart reflects both chaos and symmetry, the masked performer's laughter echoes through prismatic veils. Seek the six that balance destiny's wheel between the heavens' breath and earthbound radiance.",
+      "hint": "One guides from above, one burns from within, one glimmers with chance, one wears false faces, one reflects all light, one symbolizes fortune itself."
+    },
+    "easyRiddle": {
+      "text": "Find the shining stone, the dancing flames, the lucky charm, the jester's grin, the tool of fate, and the light from the night sky.",
+      "hint": "Gem, Fire, Clover, Joker, Dice, Moon"
+    },
+    "answer": [
+      3,
+      5,
+      19,
+      17,
+      11,
+      1
+    ]
   }
 }
