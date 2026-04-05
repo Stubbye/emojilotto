@@ -6892,5 +6892,41 @@
       4,
       7
     ]
+  },
+  "sol_300": {
+    "hardRiddle": {
+      "text": "Where celestial fortune meets earthbound desire, six whispers dance betwixt the veil. The archer's mark gleams in obsidian night, while winged metamorphosis courts the chromatic bridge. Thunder's kiss ignites the eternal flame, and crystalline shards catch starlight's descent. What destiny blooms when chaos claims its throne?",
+      "hint": "Seek the intersection of chaos and precision, where transformation meets illumination, and nobility crowns the ascending soul."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in poetry's shadow: a target of ambition, a butterfly's rebirth, a rainbow's promise, lightning's power, a gem's brilliance, and a star's eternal glow. Which six claim victory in fortune's game?",
+      "hint": "Think of success, change, hope, energy, wealth, and destiny."
+    },
+    "answer": [
+      0,
+      8,
+      9,
+      4,
+      2,
+      21
+    ]
+  },
+  "emlo_140": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with blazing speed, my gems sparkle as fortune strikes like thunder, while the jester's magic dances through the carnival of dreams.",
+      "hint": "One launches dreams, one shines bright, one brings luck, one entertains, one energizes, and one glimmers with magic."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ strikes fast, 💎 sparkles pretty, 🎪 is fun, 🃏 is silly, ✨ is magical.",
+      "hint": "Think about a moonshot, a lucky strike, valuable treasure, a fun place, a funny card, and magic dust."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      6,
+      11,
+      10
+    ]
   }
 }
