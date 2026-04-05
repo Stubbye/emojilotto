@@ -7108,5 +7108,23 @@
       0,
       19
     ]
+  },
+  "sol_310": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gem, six sentinels of fate align: the archer's mark meets thunderous ascent, lunar pearl crowns crystalline depths, while masked revelry ignites the butterfly's prismatic flight through starlit splendor.",
+      "hint": "One guides aim, one pierces sky, one glimmers precious, one rules night, one shatters brilliance, one transforms in color."
+    },
+    "easyRiddle": {
+      "text": "Find the target of ambition, the rocket of dreams, the gem of value, the moon of night, the crystal of clarity, and the butterfly of change.",
+      "hint": "Think of what you seek: direction, escape, treasure, darkness, purity, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      21,
+      8
+    ]
   }
 }
