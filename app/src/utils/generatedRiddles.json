@@ -7270,5 +7270,23 @@
       11,
       1
     ]
+  },
+  "sol_318": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six dancers of fate convene. The jester's grin betrays the crystal's truth, while winged transformation seeks the gem beyond the veil of storms. In this theatre of chance, the masked performers juggle destinies under electric skies, where luck spirals through the crucible of dreams.",
+      "hint": "Consider the symbols of chaos, transformation, wealth, entertainment, and the forces that strike between worlds."
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the treasure: the archer's mark, the trickster's laugh, the stone of value, the fluttering soul reborn, the thunder's kiss, and the grand carousel of wonders. Which six dance together in fortune's game?",
+      "hint": "Look for: a target, a jester, something precious, a creature with wings, nature's fury, and a place of amusement."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      4,
+      7
+    ]
   }
 }
