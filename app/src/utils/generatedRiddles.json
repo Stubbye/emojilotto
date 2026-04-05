@@ -7036,5 +7036,23 @@
       11,
       9
     ]
+  },
+  "sol_307": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale sentinel, the emerald's crystalline twin gleams beneath chaos's violent kiss. Three-faced mirth dances with the swift shadow, while the scaled leviathan weeps prismatic tears through the darkened theatrical stage.",
+      "hint": "Consider celestial alignment, precious reflections, and those who wear many faces in the game of chance."
+    },
+    "easyRiddle": {
+      "text": "I have a target, a gem that shines bright, lightning strikes with a dragon's might. A joker laughs while the moon glows at night. What six treasures complete this sight?",
+      "hint": "Look for: something to aim at, something precious, something electric, something mythical, something playful, and something celestial."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      13,
+      18,
+      21
+    ]
   }
 }
