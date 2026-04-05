@@ -7144,5 +7144,23 @@
       6,
       21
     ]
+  },
+  "sol_312": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a jeweled serpent coils through celestial blaze. The jester's lightning dances on swift wings, while petaled grace and prismatic rings await those who chase the dragon's gleaming throne—six tokens of destiny, none walked alone.",
+      "hint": "Think of celestial bodies, mythical creatures, precious things, and the forces that reveal hidden truths."
+    },
+    "easyRiddle": {
+      "text": "I have a target to reach the stars, a gem that shines bright, a dragon fierce and tall, a flower so small, and lightning that sparks in the night. One more prize awaits—find the crystal's light.",
+      "hint": "Look for a target, something precious, a mythical beast, nature's gift, electricity, and something that sparkles."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      14,
+      4,
+      20
+    ]
   }
 }
