@@ -7162,5 +7162,41 @@
       4,
       20
     ]
+  },
+  "sol_313": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers in shadow's trance. The archer's goal burns bright above the jester's grin, while crystal tears of fortune spin. Winged muse of metamorphosis twirls beneath the crown of night, as nature's bloom and fortune's gem ignite the seeker's sight.",
+      "hint": "One shoots upward, one laughs in cards, one marks the destination, one sparkles underground, one transforms beauty, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a target you aim for, a bright flash from the sky, a precious stone that glows, the night guardian above, a creature of delicate wings, and a flower that grows in gardens.",
+      "hint": "Think of success, electricity, treasure, the night sky, insects that transform, and gardens."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      3,
+      8,
+      14
+    ]
+  },
+  "emlo_143": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with velocity untamed, seeking precious crystalline wealth while sparks ignite my flame. Lady luck spins her wheel as I climb toward fortune's peak, where magical transformations make the impossible unique.",
+      "hint": "Think of moon-bound ambitions, electrifying gains, and the gambler's fortune"
+    },
+    "easyRiddle": {
+      "text": "To the moon I race with fire and lightning speed, spinning gems and luck to fulfill your crypto greed. Magic happens when fortune's wheel turns just right, under starlit skies burning oh so bright.",
+      "hint": "Moon, rocket, fire, lightning, gem, and a spinning wheel of luck"
+    },
+    "answer": [
+      3,
+      1,
+      5,
+      4,
+      2,
+      11
+    ]
   }
 }
