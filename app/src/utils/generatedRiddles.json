@@ -6946,5 +6946,41 @@
       18,
       11
     ]
+  },
+  "sol_303": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and a winged metamorphosis dances through prismatic tears, the jester's twin flames ignite beneath the crown of gems. Seek the sentinel of luck where chaos speaks in hexagons, and the starborn jewel crowns all wishes.",
+      "hint": "A journey upward, transformation, duality of fire, destiny's messenger, and two symbols of fortune combined"
+    },
+    "easyRiddle": {
+      "text": "I point to riches, I soar through space, butterflies transform in my colorful place. Laughter hides danger, fire burns bright, and fortune smiles when stars align right.",
+      "hint": "Think of games of chance, flight, change, trickery, flames, and luck"
+    },
+    "answer": [
+      0,
+      8,
+      1,
+      5,
+      19,
+      21
+    ]
+  },
+  "emlo_141": {
+    "hardRiddle": {
+      "text": "I ride the 🚀 to the 🌙 with ⚡ speed, my 💎 sparkles as I 🔥 through the charts. What am I?",
+      "hint": "A digital asset that's volatile and explosive, sought by those who dream of wealth"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 🌙 is the destination, ⚡ moves fast, 💎 is precious, 🔥 shows hype, ✨ means magic. Together we make...",
+      "hint": "A coin born from internet culture and community hype"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      5,
+      20
+    ]
   }
 }
