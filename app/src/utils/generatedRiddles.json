@@ -7054,5 +7054,41 @@
       18,
       21
     ]
+  },
+  "sol_308": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six whispers dance in twilight's choir. The jester's gem gleams through dragon's breath, while crystal laughter defies fate's death. Under luna's gaze, the masked truth spins—what six signs unlock where destiny begins?",
+      "hint": "One guides aims, one crowns the night, one glimmers pure, one burns so bright, one wears disguise, one rules the sky—find where chaos and order lie."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow's song: a target true, a dragon strong, a gem that gleams, the moon so pale, a mask that grins, a tale to tell. What six unlock the lottery's spell?",
+      "hint": "Look for: something you aim at, something from myths, something shiny, something in the night sky, something that hides faces, and something that brings luck."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      21,
+      19,
+      13
+    ]
+  },
+  "emlo_142": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, while gems sparkle in my wake. A joker dances through my fire, as fortune's wheel spins beneath the circus tent. What am I?",
+      "hint": "Think of a memecoin journey: explosive growth, celestial targets, and the chaos of fortune-seeking."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes fast, fire burns hot, moon glows high, and joker laughs. Which six guide the memecoin to glory?",
+      "hint": "Count the emojis mentioned in the riddle itself."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      3,
+      19
+    ]
   }
 }
