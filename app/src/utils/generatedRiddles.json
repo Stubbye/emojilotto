@@ -7342,5 +7342,23 @@
       5,
       8
     ]
+  },
+  "sol_321": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six seekers dance in chaos' claim. The jester's grin reflects through prisms deep, while scaled ambition guards what dreamers reap. Swift-winged grace pirouettes through storms of light, and nature's bloom ignites the darkest night.",
+      "hint": "One aims true, one commands fire, one laughs at fate, one hoards treasure, one defies gravity, one grows eternal."
+    },
+    "easyRiddle": {
+      "text": "I point with precision, I burn with desire, I mock all your plans, I glitter and shine, I soar through the heavens, and I bloom without end. Which six join this lottery's mysterious blend?",
+      "hint": "Look for: precision, passion, mockery, brilliance, flight, and growth."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      13,
+      1,
+      14
+    ]
   }
 }
