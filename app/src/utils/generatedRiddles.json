@@ -7000,5 +7000,23 @@
       11,
       20
     ]
+  },
+  "sol_305": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six whispers dance in chaos' space. The jester's twin souls spin in night, while scaled wisdom breathes celestial light. Petals bloom where thunder splits the veil, and fortune's gems complete this cryptic tale.",
+      "hint": "One guides with jest, one guards with flame, one soars beyond, one blooms the same. Look for the seeker, the player of chance, the guardian scaled in fortune's dance."
+    },
+    "easyRiddle": {
+      "text": "I seek a target in the stars so bright, a joker's laughter in the storm's dark night, a dragon's ancient power taking flight, a flower that opens to the light, and two more treasures hidden from sight—find all six and claim your right!",
+      "hint": "Think of a bullseye, a card player, a mythical beast, nature's bloom, and two things that shimmer or bring luck in games of chance."
+    },
+    "answer": [
+      0,
+      12,
+      13,
+      14,
+      1,
+      20
+    ]
   }
 }
