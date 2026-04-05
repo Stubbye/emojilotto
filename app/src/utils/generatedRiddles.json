@@ -6928,5 +6928,23 @@
       11,
       10
     ]
+  },
+  "sol_302": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through celestial fire, six tokens dance in shadow's choir. The archer's mark meets heaven's throne, while twin-winged souls in darkness moan. Gemstone gleams beneath the storm, and masked deception takes its form.",
+      "hint": "Seek the dragon's path between target and star, find the lightning's twin, and the joker's memoir."
+    },
+    "easyRiddle": {
+      "text": "A lucky serpent guards the night sky, an archer's goal shines up so high. Lightning splits the air in two, and masked performers share their due.",
+      "hint": "Count four creatures and two more that spark or conceal."
+    },
+    "answer": [
+      13,
+      21,
+      5,
+      9,
+      18,
+      11
+    ]
   }
 }
