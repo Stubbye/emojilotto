@@ -7360,5 +7360,23 @@
       1,
       14
     ]
+  },
+  "sol_322": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and twin flames kiss the midnight vault. The jester's grin eclipses the shimmer of eternity's dust, while the trickster's shadow pirouettes through the prism of chance. Six whispers between chaos and wonder await those who see beyond the veil.",
+      "hint": "Think of games, luck, night sky, fire, illusion, and transformation. One guides aim, one soars beyond, one sparkles eternally, one laughs at fate, one glimmers always, and one shimmers with possibility."
+    },
+    "easyRiddle": {
+      "text": "I need six lottery symbols: something you aim with, something that flies high, something that shines bright in the night sky, something that burns hot, something magical and sparkling, and something that tricks you with a smile.",
+      "hint": "Target, rocket, moon, fire, sparkles, joker"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      5,
+      10,
+      17
+    ]
   }
 }
