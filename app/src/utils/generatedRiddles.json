@@ -7126,5 +7126,23 @@
       21,
       8
     ]
+  },
+  "sol_311": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers align: the archer's distant mark meets the void's pale guardian, while twin crescents of chance—one crackling with fury, one blazing with primal heat—spiral upward. Between them swirls the shimmer of dust transformed, a thousand fractured lights reflecting what was always meant to be found.",
+      "hint": "One points, one watches from above, one spins fate, one strikes without warning, one consumes, one scatters hope"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of fortune: a target to aim for, the moon that glows at night, lightning that strikes fast, fire that burns bright, sparkles that shimmer, and a star that shines eternal.",
+      "hint": "Look for: aim, sky's night light, electricity, flames, shimmer, and the brightest point above"
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      21
+    ]
   }
 }
