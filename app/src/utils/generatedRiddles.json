@@ -7018,5 +7018,23 @@
       1,
       20
     ]
+  },
+  "sol_306": {
+    "hardRiddle": {
+      "text": "Where fortune's crimson serpent dances with celestial flame, a prismatic arc bends through the jester's painted domain. The winged chrysalis ascends past lunar whispers, while fortune's hexagonal bones await the archer's silent aim. In twilight's treasury, six secrets converge where laughter echoes and luck takes flight.",
+      "hint": "One burns eternal, one laughs in masks, one transforms, one guides arrows, one glows above, one holds all hues"
+    },
+    "easyRiddle": {
+      "text": "I burn bright, I make people laugh, I change and fly, I light the night, I show the way with angles, and I paint the sky. Find us six and fortune smiles.",
+      "hint": "One is hot, one is funny, one is beautiful, one is dark, one is lucky, and one is colorful"
+    },
+    "answer": [
+      5,
+      19,
+      8,
+      3,
+      11,
+      9
+    ]
   }
 }
