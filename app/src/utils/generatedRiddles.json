@@ -7234,5 +7234,23 @@
       8,
       3
     ]
+  },
+  "sol_316": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance in chaos' choir. The jester's twin in crystalline dreams, while scaled serpent guards what gleams. Lightning splits the prismed soul, as nature's winged guardian takes its toll.",
+      "hint": "Seek the convergence of chance, majesty, and transformation. One guides with laughter, one soars beyond mortal sight."
+    },
+    "easyRiddle": {
+      "text": "A shooting flame from heaven's bow, a prism bright with inner glow. Crowned beast and masked deceiver play, while electricity lights the way. What six dance in the lottery's call?",
+      "hint": "Look for weapons of fate, precious light, magic creatures, and mischievous souls."
+    },
+    "answer": [
+      0,
+      4,
+      12,
+      13,
+      20,
+      21
+    ]
   }
 }
