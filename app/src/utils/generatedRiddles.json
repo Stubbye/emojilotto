@@ -7288,5 +7288,41 @@
       4,
       7
     ]
+  },
+  "sol_319": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, and twin flames dance in prismatic refrain—the jester's grin reveals what mortal chance conceals. Seek the winged metamorphosis that spirals through destiny's crucible, where violet majesty crowns the symphony of fate's ancient rhythm.",
+      "hint": "One points the way, one lights the sky, one reflects all colors, one wears the mask, one transforms, one rules the night"
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark and the dreamer's night. Fire and lightning dance together. A masked fool knows the truth. A purple jewel gleams eternal. A creature with wings transforms. A scaled monarch commands all.",
+      "hint": "Count the emojis: aim, moon, fire, lightning, joker, crystal, butterfly, dragon"
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      20,
+      8,
+      14
+    ]
+  },
+  "emlo_144": {
+    "hardRiddle": {
+      "text": "I launch dreams to heights unknown, where gems sparkle in the void. Electric fortune strikes when lightning meets the moon, and fire fuels the journey through prismatic waves of chaos.",
+      "hint": "A cryptocurrency adventure combining launch, celestial dreams, precious rewards, and chaotic energy"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 is the prize, 🌙 is the destination, 🔥 powers the pump, 🌈 shows the way!",
+      "hint": "Six symbols of the memecoin trader's journey"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      9
+    ]
   }
 }
