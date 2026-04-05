@@ -6982,5 +6982,23 @@
       5,
       20
     ]
+  },
+  "sol_304": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate converge in space. The crimson dancer waltzes with the night, while winged metamorphosis catches starlight. A prism splits the storm's electric song, and fortune's jester bids the dreamer belong.",
+      "hint": "Seek the intersection of aim and cosmos, transformation and illumination, chaos and chance."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the rocket soaring high, the gem that sparkles in the midnight sky, the butterfly that dances with the fire's glow, the joker's card, and lightning's brilliant show.",
+      "hint": "Six items: one aims, one flies, one shines, one transforms, one laughs, one strikes."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      11,
+      20
+    ]
   }
 }
