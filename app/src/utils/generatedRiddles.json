@@ -7684,5 +7684,23 @@
       10,
       3
     ]
+  },
+  "sol_339": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six dancers waltz through shadow's desire. The jester's grin guards treasures crystalline, while winged metamorphosis spins the divine. Thunder's kiss and prism's arc complete the game where fate and chaos embark.",
+      "hint": "Look for: precision, celestial, laughter, gemstone, transformation, and spectrum"
+    },
+    "easyRiddle": {
+      "text": "I shoot straight and true, I burn from above, I sparkle with worth, I make spirits move. With wings I transform, and colors I bend—these six elements make lottery's end.",
+      "hint": "Target, moon, gem, joker, butterfly, rainbow"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      18,
+      8,
+      9
+    ]
   }
 }
