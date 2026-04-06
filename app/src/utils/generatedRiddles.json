@@ -7630,5 +7630,23 @@
       8,
       21
     ]
+  },
+  "sol_337": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's mask, six keepers of fate emerge: the archer's mark pierces through heavens where silver reigns eternal, while fortune's jester grins beside the winged metamorphosis. Beneath them spirals the bolt of destiny, and where stone crystallizes into dreams of kings—all gather where chaos and order waltz upon the stage of possibility.",
+      "hint": "One measures aims, one glows above, one shifts its face, one transforms, one strikes swift, one shines precious."
+    },
+    "easyRiddle": {
+      "text": "I am six hidden treasures: a mark for precision, a glow that beams high, a face that changes, wings that transform, a strike most quick, and a shine most bright. What am I?",
+      "hint": "Think of target, moon, joker, butterfly, lightning, and gem."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      8,
+      5,
+      2
+    ]
   }
 }
