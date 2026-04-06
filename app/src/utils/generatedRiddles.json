@@ -7576,5 +7576,23 @@
       12,
       8
     ]
+  },
+  "sol_334": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic arcs, six dancers converge in fortune's masquerade. The archer's eye meets swift ascension, while crystalline tears fall upon the jester's grin. A scaled serpent coils beneath the laughing moons, and nature's fleeting treasures shimmer in chaos ordained.",
+      "hint": "Seek where chance meets cosmos, where speed transcends earth, where laughter wears many faces, and dragons dream."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: a target met, a rocket soaring high, a gem that gleams, a jester's jest, a dragon's might, and sparkles bright.",
+      "hint": "Think of success, speed, treasure, laughter, power, and magic."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      13,
+      10
+    ]
   }
 }
