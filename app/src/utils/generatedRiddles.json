@@ -7540,5 +7540,41 @@
       8,
       19
     ]
+  },
+  "sol_333": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, six whispers waltz through dreams. The archer's mark meets the void's silent scream, while twin flames ignite what seems. A jester's grin guards the treasure between, where winged metamorphosis crowns the unseen.",
+      "hint": "Seek the convergence of aim, ascension, and precious light; where chaos and transformation meet in night."
+    },
+    "easyRiddle": {
+      "text": "One points the way to fortune, one reaches toward the stars. One sparkles with great value, one lights the darkest scars. One wears the mask of laughter, one transforms on painted wings.",
+      "hint": "Think of aiming, climbing high, shining bright, burning hot, foolish tricks, and magical changes."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      8
+    ]
+  },
+  "emlo_148": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, leaving a trail of shimmer. Lady luck favors the bold with her precious stones, while chaos dances with electric precision. A jester's grin masks the fortune within, and nature's smallest wonder spreads its colorful wings.",
+      "hint": "Think of moon missions, wealth symbols, and the unpredictability of chance."
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly with fire and speed, collecting gems and sparkling luck. The jester spins the dice, the butterfly flutters by, and lightning strikes fortune.",
+      "hint": "Six symbols that represent a crypto dreamer's journey to riches."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      11,
+      12,
+      8
+    ]
   }
 }
