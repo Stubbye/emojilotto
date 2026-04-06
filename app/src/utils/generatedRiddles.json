@@ -7594,5 +7594,23 @@
       13,
       10
     ]
+  },
+  "sol_335": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six mysteries entwine in shadow's desire. The jester's grin guards what the winged creature knows, while crystalline depths reflect where starlight glows. Between the thunder's kiss and the rainbow's end, a symphony of chaos and grace transcend.",
+      "hint": "One brings laughter, one brings luck, one pierces sky, one gleams in dark, one dances wild, one sings of wonder"
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the trickster's game, the gemstone's shine, the fox's fame, the dragon's kin of wing and fire, and luck's own leaf that climbs ever higher.",
+      "hint": "Target, Joker, Crystal, Fox, Butterfly, Clover"
+    },
+    "answer": [
+      0,
+      12,
+      20,
+      13,
+      8,
+      19
+    ]
   }
 }
