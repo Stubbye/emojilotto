@@ -7486,5 +7486,23 @@
       2,
       21
     ]
+  },
+  "sol_330": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, twin serpents dance through prismatic chains. The jester's grin eclipsed by radiant death, yet six threads of fate remain unspoken—one strikes from heaven's wrath, one blooms eternal, one gleams in darkness, one soars on gossamer wings, one marks the hunter's cunning, and one crowns the victor's ascent.",
+      "hint": "Seek the marksman's aim, night's guardian, the precious stone, winged metamorphosis, the crimson cascade, and the treasure of champions."
+    },
+    "easyRiddle": {
+      "text": "A target guides the way, a gem shines bright, fire burns fierce, a butterfly takes flight, a dragon roars strong, and a trophy stands tall. Which six claim victory in the lottery's call?",
+      "hint": "Think of success, power, beauty, precision, wealth, and achievement."
+    },
+    "answer": [
+      0,
+      2,
+      6,
+      8,
+      14,
+      18
+    ]
   }
 }
