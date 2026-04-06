@@ -7450,5 +7450,23 @@
       4,
       19
     ]
+  },
+  "sol_327": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and emerald brilliance dances with storms of electric fate. The winged metamorphosis spirals through luminous arcs, while the scaled leviathan breathes inferno's ancient song. Six symbols converge: the mark of precision, the vessel of ascension, the radiance of earth's deepest treasures, the night's eternal guardian, the fury of the heavens, and the creature that wears a thousand faces. Seek them in chaos—where luck is drawn from the void.",
+      "hint": "One aims true, one soars high, one glimmers deep, one illuminates dark, one strikes swift, one transforms many."
+    },
+    "easyRiddle": {
+      "text": "A bullseye points the way, a ship climbs to dreams, a jewel sparkles bright, the moon watches over us, lightning strikes fast, and a dragon roars loud. These six hold the key to fortune's door.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Dragon"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
