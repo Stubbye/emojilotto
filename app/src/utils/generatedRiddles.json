@@ -7432,5 +7432,23 @@
       19,
       9
     ]
+  },
+  "sol_326": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the masked jester's laughter echoes through prismatic waves. Seek the winged metamorphosis that spirals toward the luminescent sentinel, where luck's brilliant facets scatter like the dragon's ancient breath. In this constellation of chaos, six secrets await those who read the language of stars and storms.",
+      "hint": "One grants wishes, one brings fortune, one shows transformation, one rules the night, one breaks barriers, one masks truth"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a scaled guardian of old magic, a glowing stone of dreams, a creature that transforms, a shield against darkness, a force that breaks barriers, and a laughing trickster. Find them all to claim the lottery's crown.",
+      "hint": "Think of: mythical beasts, precious things, transformation, protection, nature's power, and deception"
+    },
+    "answer": [
+      13,
+      5,
+      8,
+      3,
+      4,
+      19
+    ]
   }
 }
