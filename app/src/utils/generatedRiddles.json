@@ -7648,5 +7648,41 @@
       5,
       2
     ]
+  },
+  "sol_338": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six dancers of fate pirouette through chaos. The winged metamorphosis ascends past Luna's silver gaze, while celestial fire rains upon the jester's painted mask. In this trinity of transformation, luck crystallizes between the thunder's violent kiss and the prism's fractured light.",
+      "hint": "Seek the symbols of ascension, chaos, and rebirth—one marks the beginning of aims, one the end of mortality, one the fool's domain, one the sky's fury, one the spectrum's birth, and one the cosmic mirror."
+    },
+    "easyRiddle": {
+      "text": "I point to dreams, I race through stars, I wear many faces, I split the sky, I dance with wings, and I hold all colors.",
+      "hint": "Think of targets, space travel, disguises, weather, nature's change, and light itself."
+    },
+    "answer": [
+      0,
+      1,
+      19,
+      4,
+      8,
+      10
+    ]
+  },
+  "emlo_149": {
+    "hardRiddle": {
+      "text": "I chase dreams to the celestial vault with burning speed, while fortune's gems sparkle in my wake. Lady luck dances with electric precision, and my magic conjures rainbows of wealth. What six treasures guide the moonbound memecoin journey?",
+      "hint": "Think of the journey: speed, riches, luck, electricity, beauty, and the destination itself"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🌈 appears after storms, ✨ glows everywhere, and 🌙 is where we're going. What are these six symbols of crypto fortune?",
+      "hint": "One goes to space, one is valuable, one is quick, one is colorful, one sparkles, one is our destination"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      9,
+      10,
+      3
+    ]
   }
 }
