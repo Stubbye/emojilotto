@@ -7378,5 +7378,41 @@
       10,
       17
     ]
+  },
+  "sol_323": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, and celestial fire dances with prismatic tears, a jester's smile guards the threshold between chaos and crystalline dreams, whilst nature's painted wings shimmer in the space where lightning births its rainbow twin.",
+      "hint": "Seek the symbol of precision, the orb of darkness, the flame of destiny, the prism of truth, the fool's countenance, and the creature of transformation."
+    },
+    "easyRiddle": {
+      "text": "I am six: a mark of aim, a sphere that glows at night, a brilliance hard and bright, a spark that tears the sky, a jester's grinning face, and wings that dance in light.",
+      "hint": "Think of targets, night, gems, weather, cards, and insects."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      4,
+      19,
+      8
+    ]
+  },
+  "emlo_145": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive speed, while precious stones glimmer in the darkness. When fortune strikes like a bolt, I celebrate with kaleidoscopic light and magical dust. Tricksters laugh as chaos dances. What am I?",
+      "hint": "Think of memecoin culture: rapid ascension, rarity, luck, madness, and spectacle."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning fast gains, gems that sparkle bright, joker's lucky game, fire and sparkles everywhere!",
+      "hint": "Look for the path to crypto riches with speed, luck, and celebration."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      5,
+      10
+    ]
   }
 }
