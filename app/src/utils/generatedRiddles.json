@@ -7468,5 +7468,23 @@
       4,
       13
     ]
+  },
+  "emlo_147": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with lightning speed, my gem-encrusted path sparkles with fire. The joker's trophy awaits those bold enough to ride my rocket through the circus of fortune. What am I?",
+      "hint": "A memecoin's journey requires speed, wealth, and entertainment combined"
+    },
+    "easyRiddle": {
+      "text": "Fast like lightning, bright like fire, reaching for the moon with a rocket, sparkling like gems. What crypto dream am I?",
+      "hint": "Think of the essential elements of a successful memecoin launch"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      3,
+      2,
+      21
+    ]
   }
 }
