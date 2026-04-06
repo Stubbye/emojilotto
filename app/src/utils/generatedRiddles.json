@@ -7504,5 +7504,23 @@
       14,
       18
     ]
+  },
+  "sol_331": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels guard the veil. The archer's mark whispers to the gemstone's heart, while thunder's child embraces the lunar throne. Metamorphosis and radiance converge where the jester's grin fades into stardust's eternal bloom.",
+      "hint": "Follow the trajectory from aim to ascension; seek the precious, the electric, the nocturnal, the transforming, the laughing, and the luminous."
+    },
+    "easyRiddle": {
+      "text": "One points and aims, one burns in sky, one shines so bright, one laughs in disguise, one transforms with wings, one sparkles all night.",
+      "hint": "Target, fire, star, joker, butterfly, and sparkles dance together in this fortune's tale."
+    },
+    "answer": [
+      0,
+      5,
+      21,
+      19,
+      8,
+      10
+    ]
   }
 }
