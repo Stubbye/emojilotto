@@ -7522,5 +7522,23 @@
       8,
       10
     ]
+  },
+  "sol_332": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial wanderer, a gemstone gleams beneath the storm's electric kiss. The inferno dances with prismatic wings, while luck's jester grins at chaos orchestrated. Six threads of destiny converge where the trickster's smile meets the heavens' crown.",
+      "hint": "Think of what guides, what tempts, what electrifies, what transforms, what amuses, and what reigns supreme in games of chance."
+    },
+    "easyRiddle": {
+      "text": "A marksman's aim, a celestial body, a precious stone, a natural disaster, a colorful insect, and a card player walk into a lottery. Which six of these symbols hold your winning fate?",
+      "hint": "One points the way, one lights the night, one sparkles with value, one strikes with power, one floats with grace, and one holds all the tricks."
+    },
+    "answer": [
+      0,
+      2,
+      1,
+      4,
+      8,
+      19
+    ]
   }
 }
