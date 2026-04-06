@@ -7612,5 +7612,23 @@
       8,
       19
     ]
+  },
+  "sol_336": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a jester's twin masks witness the phoenix ascent. The prism splits what lightning cannot sever, while the winged metamorphosis spirals through chaos. Beneath the silent watcher's gaze, six threads weave destiny's gamble.",
+      "hint": "Consider the duality of fate, the transformation of energy, and what watches over all games of chance."
+    },
+    "easyRiddle": {
+      "text": "A flash of power, a lucky spin, a crystal's glow, a shape-shifter's trick, a butterfly's dance, and the guardian above. What six treasures align when fortune calls?",
+      "hint": "Think of electricity, games, gemstones, deception, nature's transformation, and night sky."
+    },
+    "answer": [
+      5,
+      11,
+      20,
+      12,
+      8,
+      21
+    ]
   }
 }
