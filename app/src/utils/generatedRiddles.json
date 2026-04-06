@@ -7414,5 +7414,23 @@
       5,
       10
     ]
+  },
+  "sol_325": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and gemstone tears fall from the moon's ancient sorrow. The dragon's breath ignites the stage of jesters, while lightning dances through the prism of hope. Six treasures hide in this cosmic theater—find the mark of destiny, the jeweled throne, the silver sentinel, the serpent's fire, the masquerade of fools, and the arc of rebirth.",
+      "hint": "One points the way, one shines below, one burns with passion, one reveals the fool's grin, one circles heaven's blessing, and one bridges two worlds."
+    },
+    "easyRiddle": {
+      "text": "I am the goal you aim for. I am precious and gleam. I am the night's guardian. I am chaos and light combined. I am the clown's twin soul. I am nature's spectrum bridge. What six treasures complete this fortune's song?",
+      "hint": "Think of: aim, wealth, sky, storm, theater, and color."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      19,
+      9
+    ]
   }
 }
