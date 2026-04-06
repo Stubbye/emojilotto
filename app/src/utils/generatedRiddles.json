@@ -7702,5 +7702,23 @@
       8,
       9
     ]
+  },
+  "sol_340": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a scaled serpent ascends through celestial fire, while chaos dances in motley disguise. The winged sprite seeks petals of earth, yet finds only crystalline echoes. Six souls converge where luck's jagged tongue strikes true.",
+      "hint": "One cuts through darkness, one breathes ancient wisdom, one wears many faces, one flutters seeking beauty, one shatters with brilliance, and one carries fortune's bolt."
+    },
+    "easyRiddle": {
+      "text": "A target for fortune, a dragon of the sky, a jester's grin, a butterfly's flight, a gem's hard truth, and lightning's strike—together they hold the lottery's secret six.",
+      "hint": "You'll find a bullseye, a flying serpent, a trickster, a delicate creature, precious stone, and electric power."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      2,
+      5
+    ]
   }
 }
