@@ -7756,5 +7756,23 @@
       6,
       19
     ]
+  },
+  "sol_342": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin masks dance beneath prismatic waves. The dragon's breath ignites the gem's eternal sparkle, while a butterfly pirouettes through fortune's thunderous gate.",
+      "hint": "Think of luck's symbols, celestial bodies, and mythical creatures intertwined with chance and transformation."
+    },
+    "easyRiddle": {
+      "text": "A target with a rocket's aim, a gem that shines like lightning's flame. The moon watches as a joker plays, and a dragon guards the sparkles' maze.",
+      "hint": "Count the symbols: aim, shine, watch, play, guard, and glimmer."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      12,
+      13
+    ]
   }
 }
