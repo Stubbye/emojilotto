@@ -7810,5 +7810,23 @@
       5,
       6
     ]
+  },
+  "sol_344": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six dancers waltz through destiny's game. A jester's twin gleams in the void's embrace, while thunder's kiss paints luck's hidden face. The scaled dreamer and winged grace collide, as crystalline dreams in prismatic tide.",
+      "hint": "Seek the performer, the precious, the wild, the electric, the mystic, and the luminous child."
+    },
+    "easyRiddle": {
+      "text": "Six treasures lie where destiny is cast: a target of fate, a dragon so vast, a joker's bright smile, a gem that will gleam, a lightning bolt strike, and sparkles that dream.",
+      "hint": "One points the way, one guards the hoard, one makes you laugh, one shines in accord, one crackles with power, one glows evermore."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      4,
+      20,
+      10
+    ]
   }
 }
