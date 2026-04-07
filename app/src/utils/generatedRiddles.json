@@ -8044,5 +8044,23 @@
       4,
       13
     ]
+  },
+  "sol_355": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six guardians of fate converge. The archer's mark gleams eternal, while serpentine majesty coils through starlit void. Swift-footed trickster wears the grin of chaos, as winged metamorphosis ascends toward prismatic hope. Lightning's twin speaks in crystalline whispers, and the crown of victory crowns this sacred geometry.",
+      "hint": "One points inward, one coils upward, one deceives with cunning, one transforms through beauty, one speaks in ice-like brilliance, one adorns the worthy."
+    },
+    "easyRiddle": {
+      "text": "I am a target's bullseye glow, a dragon's ancient throne, a fox's cunning jest, a butterfly's gentle flight, a crystal's frozen light, and a trophy's rightful claim. Together we six form the lottery's blessed game.",
+      "hint": "Pick the gem, the beast, the clever one, the flyer, the sparkly ice, and the winner's prize."
+    },
+    "answer": [
+      0,
+      13,
+      12,
+      8,
+      20,
+      17
+    ]
   }
 }
