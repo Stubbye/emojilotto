@@ -7900,5 +7900,41 @@
       8,
       20
     ]
+  },
+  "sol_349": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six tokens dance in fortune's game. The jester's grin eclipses fortune's aim, while scaled leviathan guards treasure untamed. Thunder's kiss upon the archer's mark, and winged metamorphosis ignites the dark.",
+      "hint": "One brings laughter, one brings storm, one brings luck, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning's twin of chance, the dragon's ancient glance, the joker's masked expanse, the butterfly's graceful dance, the target's destined stance, and the fire's burning trance.",
+      "hint": "Look for electricity, scales, cards, wings, bullseye, and flames."
+    },
+    "answer": [
+      5,
+      13,
+      18,
+      8,
+      0,
+      6
+    ]
+  },
+  "emlo_153": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, a gemstone fortune under starlight. The joker dances with fire and sparkles, while fortune's clover brings lightning luck. What six symbols guide the memecoin dreamer to glory?",
+      "hint": "Think of a rocket's journey, precious rewards, and lucky charms that brighten the path to wealth."
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts toward the moon, carrying a gem that sparkles with lightning and fire. A lucky clover shines bright. Which six emojis represent the ultimate memecoin adventure?",
+      "hint": "Follow the rocket upward, grab the shiny gem, and don't forget the lucky charm!"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      19,
+      10
+    ]
   }
 }
