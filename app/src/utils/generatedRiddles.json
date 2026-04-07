@@ -7828,5 +7828,23 @@
       20,
       10
     ]
+  },
+  "sol_345": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet void, a winged dancer spirals through crystalline silence. The jester's grin echoes where celestial fire blooms, and six secrets waltz between the lightning's laugh and the gem's eternal whisper.",
+      "hint": "One guides from above, one transforms, one judges, one illuminates, one deceives, one blazes."
+    },
+    "easyRiddle": {
+      "text": "I strike with fury and light the way. A precious stone gleams with inner ray. The fool grins wide in masked display. A creature flies where flowers sway. The moon watches over night's grand play. And one shoots straight to win the day.",
+      "hint": "Six things sparkle, move, or shine in the lottery's mystical array."
+    },
+    "answer": [
+      1,
+      8,
+      19,
+      21,
+      13,
+      5
+    ]
   }
 }
