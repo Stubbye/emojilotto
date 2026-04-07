@@ -7846,5 +7846,41 @@
       13,
       5
     ]
+  },
+  "sol_346": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jester, six tokens of destiny await: the archer's eternal bullseye meets the ascending vessel of dreams, while gemstone whispers mirror the moon's silent gaze. Thunder's electric kiss binds the winged metamorphosis to the prism's forgotten spectrum, all converging where fate's glittering dust settles upon the threshold between worlds.",
+      "hint": "One seeks precision, one seeks elevation, one seeks brilliance, one seeks the night, one seeks speed, one seeks transformation."
+    },
+    "easyRiddle": {
+      "text": "Six champions of chance: the goal you aim for, the ship that flies high, the jewel that shines bright, the sphere in the sky, the bolt from above, and the creature reborn.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_152": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkle as I dance through flames of fortune. A jester's rainbow trail marks my path to glory, where fortune spins like a butterfly caught in a circus of dreams.",
+      "hint": "Think of a memecoin's journey: fast movement, wealth, randomness, magic, and the unpredictable nature of crypto"
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket with lightning speed! Our treasure glows bright with gem sparkles, while the joker spins the dice of fortune in this wild circus.",
+      "hint": "Common memecoin themes: destination, speed, wealth, luck, chaos, and entertainment"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      7,
+      11,
+      12
+    ]
   }
 }
