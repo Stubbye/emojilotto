@@ -8062,5 +8062,41 @@
       20,
       17
     ]
+  },
+  "sol_356": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled leviathan guards the spectrum's arc. The jester's grin mirrors destiny's wheel, while nature's delicate wings kiss the luminous veil. Seek where chaos and order perform their eternal waltz beneath the laughing masks of fate.",
+      "hint": "Look for the clash between chaos and control, the sacred and the comedic, the wild and the celestial."
+    },
+    "easyRiddle": {
+      "text": "A dragon and joker play with lightning and dice. A butterfly dances through rainbow and masks. Which six symbols hold the keys to destiny?",
+      "hint": "Count the creatures, the games, the elements, and the illusions."
+    },
+    "answer": [
+      13,
+      19,
+      4,
+      9,
+      8,
+      18
+    ]
+  },
+  "emlo_155": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving trails of brilliance. Fortune's jester spins me wildly while gemstones sparkle in the darkness. What six symbols embody the memecoin gambler's ultimate journey?",
+      "hint": "Think of the path from humble beginnings to moon riches, with luck and dazzle along the way."
+    },
+    "easyRiddle": {
+      "text": "A fast ride goes up, up, up! Bright stones glow, lightning strikes with luck, and the joker makes it fun. Pick the six emojis that match a wild crypto adventure!",
+      "hint": "One takes you to the moon, one is precious, one brings luck, one is silly, one is bright, and one is speedy."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      11,
+      12,
+      20
+    ]
   }
 }
