@@ -7954,5 +7954,23 @@
       14,
       0
     ]
+  },
+  "sol_351": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a crimson serpent coils beneath celestial tears. The jester's twin dance where earthbound circles spin, while petals bloom in chambers of refracted light. Six threads of destiny weave through chaos—seek the winged metamorphosis amidst the juggler's eternal wheel.",
+      "hint": "One points at luck, one guards the night sky, one breathes ancient heat, one spins chance, one transforms beauty, and one entertains the damned."
+    },
+    "easyRiddle": {
+      "text": "A target and a rocket reach toward fortune. A dragon breathes while a butterfly transforms. The circus entertains as dice decide your fate.",
+      "hint": "Think of games, sky, fire, wheels of chance, metamorphosis, and spectacle."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      11,
+      8,
+      7
+    ]
   }
 }
