@@ -8008,5 +8008,23 @@
       10,
       20
     ]
+  },
+  "sol_353": {
+    "hardRiddle": {
+      "text": "Where fortune's dance meets celestial fire, six whispers converge in twilight's choir. The jester's grin guides through crystal halls, while the nocturnal pearl heeds destiny's calls. Speed and chance entwine with nature's flight, as the archer's mark pierces through the night.",
+      "hint": "Look for the trickster, the night guardian, the game of odds, the messenger of speed, the seeker of aims, and the winged wanderer of gardens."
+    },
+    "easyRiddle": {
+      "text": "Find the moon that glows at night, the joker who makes you laugh, the dice you roll for luck, the rocket that flies fast, the target you must hit, and the butterfly that dances free.",
+      "hint": "One glows above, one tricks below, one spins for chance, one shoots ahead, one marks a goal, and one flutters with grace."
+    },
+    "answer": [
+      3,
+      19,
+      11,
+      1,
+      0,
+      8
+    ]
   }
 }
