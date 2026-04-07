@@ -7972,5 +7972,41 @@
       8,
       7
     ]
+  },
+  "sol_352": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial guardian weeps crystalline tears. The jester's gambit ignites the stage where masked souls pirouette through chaos, while nature's winged muse dances betwixt thunder and the celestial jewel's eternal gaze.",
+      "hint": "Seek the intersection of chance, chaos, and cosmic wonder. Three realms converge: destiny's path, the performer's domain, and the heavens' crown."
+    },
+    "easyRiddle": {
+      "text": "I point the way to fortune. I sparkle in the night sky. I am chance itself. I entertain with mystery. I transform through metamorphosis. I am the sky's electrical fury.",
+      "hint": "Think of targets, stars, dice, theater performers, butterflies, and storms."
+    },
+    "answer": [
+      0,
+      21,
+      11,
+      18,
+      8,
+      5
+    ]
+  },
+  "emlo_154": {
+    "hardRiddle": {
+      "text": "I chase the dreams of the diamond seekers, riding fast through electric storms. Lady luck spins her wheel as I dance with fire and magic sparkle. What am I?",
+      "hint": "Think of a memecoin's journey: speed, fortune, energy, and luck combined"
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots up to the moon, lightning strikes, fire burns bright, and diamonds sparkle. What symbols represent a memecoin's wild ride?",
+      "hint": "Look for the moon, the speed, the energy, the wealth, and the magic"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      10,
+      20
+    ]
   }
 }
