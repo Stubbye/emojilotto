@@ -8026,5 +8026,23 @@
       0,
       8
     ]
+  },
+  "sol_354": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six sentinels of fate converge: the archer's eternal mark meets swift ascension, precious fragments whisper in lunar silence, while tempestuous veins split the void and primal hunger devours all, yet transformation blooms eternal in chromatic celebration.",
+      "hint": "Seek the bull's eye, the upward thrust, the crystalline treasure, the night guardian, the sky's wrath, and the ancient beast of wisdom."
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols reveal the lottery's heart: one marks perfection's center, one soars beyond gravity, one glimmers with inner light, one rules the night sky, one strikes with vengeance, and one slithers through legend's pages.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Dragon"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
