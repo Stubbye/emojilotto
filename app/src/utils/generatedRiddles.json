@@ -7936,5 +7936,23 @@
       19,
       10
     ]
+  },
+  "sol_350": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps upon the jester's crimson stage, and fortune's gleaming shards dance with the trickster's ancient rage. Six tokens hide the truth: the archer's eternal mark, the serpent's scaled ascension, the winged metamorphosis through dark. Seek the bolt that splits the veil, the bloom of twilight's tear, and crystal's frozen laughter echoing through chambers drear.",
+      "hint": "One points, one rises, one transforms, one strikes, one grows, one endures—all speak of destiny's hidden score."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate intertwine: the distant lunar glow guides a beast of wings, while precious gems catch lightning's sting. A joker grins amid the scene, where arrows fly and flowers lean.",
+      "hint": "Look for the moon, dragon, butterfly, lightning, gem, and target."
+    },
+    "answer": [
+      1,
+      13,
+      8,
+      4,
+      14,
+      0
+    ]
   }
 }
