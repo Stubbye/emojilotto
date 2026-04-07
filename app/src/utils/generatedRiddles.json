@@ -7774,5 +7774,41 @@
       12,
       13
     ]
+  },
+  "sol_343": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through prismatic fire. The jester's masked reverie and the scaled harbinger of chaos converge beneath the songbird's metamorphosis, while crystalline shards sing their silent lullaby to the throne of victory.",
+      "hint": "One grants wishes, one grants speed, one grants sight beyond sight. Three dance in shadow while three claim the light."
+    },
+    "easyRiddle": {
+      "text": "I point to fortune's aim, I climb to heaven's realm, I hold the future's flame, I wear the trickster's helm, I soar with fragile wings, I sparkle bright as day.",
+      "hint": "Find the archer's target, the sky's domain, the fire's heat, the fool's mask, the winged creature, and the glimmering light."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      18,
+      8,
+      20
+    ]
+  },
+  "emlo_151": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, my gems sparkle as lightning strikes my path. The joker celebrates with fire, while fortune's dice roll under rainbow skies.",
+      "hint": "Think of a memecoin's journey to prosperity with symbols of luck and energy."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ is fast, 🌙 is high, 🔥 is hot, 🎪 is fun. Which six make a winning combo?",
+      "hint": "Combine rocket, gem, lightning, moon, fire, and circus for the ultimate memecoin experience."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      6
+    ]
   }
 }
