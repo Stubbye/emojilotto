@@ -7720,5 +7720,41 @@
       2,
       5
     ]
+  },
+  "sol_341": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial vault, six sentinels guard the threshold between chaos and triumph. The jester's grin conceals the dancer's wings, while the serpent coils beneath prismatic shards. Thunder births the inferno's twin, and the crown awaits those who read the sky's ancient alphabet.",
+      "hint": "Two creatures of transformation, one wild court fool, one instrument of chaos, one precious fragment, and one celestial messenger."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a mark of precision, a shape-shifter with colorful wings, a court entertainer, a stone that sparkles with magic, a roar of nature's power, and a golden reward for the victor.",
+      "hint": "Target, Butterfly, Joker, Crystal, Dragon, Trophy"
+    },
+    "answer": [
+      0,
+      8,
+      19,
+      20,
+      13,
+      17
+    ]
+  },
+  "emlo_150": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's electric might. My gems catch fire in a lightning show, while a joker dances where rainbows glow. What six symbols mark a memecoin's flight?",
+      "hint": "Think of a coin's journey: launch, destination, value, luck, volatility, and celebration"
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon where gems shine bright. Lightning strikes fast, fire burns hot, and the joker brings delight. Name these six symbols of crypto's wild ride!",
+      "hint": "One goes up, one is there, one sparkles, one zaps, one burns, one laughs"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      6,
+      19
+    ]
   }
 }
