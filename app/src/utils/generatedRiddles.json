@@ -7882,5 +7882,23 @@
       11,
       12
     ]
+  },
+  "sol_348": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers thread the veil between worlds. The jester's grin holds what the archer seeks, while wings of metamorphosis kiss the storm's electric breath. In depths of crystal dreams, the crown awaits those who read the serpent's ancient song beneath the painted sky.",
+      "hint": "One brings laughter to chaos, one seeks the mark, one transforms, one strikes with fury, one glimmers with nobility, one coils with wisdom."
+    },
+    "easyRiddle": {
+      "text": "Find the joker's mask, the dragon's scale, the lightning's strike, the trophy's shine, the butterfly's wings, and the crystal's heart.",
+      "hint": "One is silly, one is legendary, one is electric, one celebrates victory, one transforms in beauty, one is precious and clear."
+    },
+    "answer": [
+      19,
+      13,
+      4,
+      17,
+      8,
+      20
+    ]
   }
 }
