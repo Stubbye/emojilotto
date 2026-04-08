@@ -8386,5 +8386,23 @@
       14,
       20
     ]
+  },
+  "sol_371": {
+    "hardRiddle": {
+      "text": "Where fortune's flame dances with celestial light, six tokens whisper secrets in the void. The jester's grin mirrors the fox's cunning, while gems crystallize dreams beneath the crescent's veil. A dragon's breath ignites the stage of mirth, and luck itself trembles at the edge of chaos.",
+      "hint": "Seek the trickster, the flame, the night's guardian, the precious stone, the fire-breather, and the place where wonder dwells."
+    },
+    "easyRiddle": {
+      "text": "Find the joker's laugh, the fire's heat, the moon's glow, the gem's sparkle, the dragon's roar, and the tent of magic tricks.",
+      "hint": "One is silly, one burns, one glows at night, one is precious, one is mythical, one has clowns."
+    },
+    "answer": [
+      19,
+      6,
+      3,
+      2,
+      13,
+      7
+    ]
   }
 }
