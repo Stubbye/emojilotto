@@ -8350,5 +8350,23 @@
       8,
       4
     ]
+  },
+  "sol_369": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's laughter echoes through prismatic halls. One seeks the center with piercing intent, while scales of fate tumble in shadows. The winged messenger ascends toward Luna's distant gaze, and brilliance shatters into a thousand gleaming shards. What six avatars converge where destiny and chaos embrace?",
+      "hint": "Think of games of chance, celestial bodies, and transformation. One is a predator of wit, another breaks light into wonder."
+    },
+    "easyRiddle": {
+      "text": "I point straight ahead with deadly aim. I leap toward stars at night. I crack jokes and wear a silly grin. I tumble to decide your fate. I flutter with delicate wings toward the moon's soft glow. I sparkle and shine like broken glass. Which six treasures hide within this verse?",
+      "hint": "One is an archer's tool, one reaches for space, one entertains, one decides, one transforms, one glimmers."
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      1,
+      8,
+      20
+    ]
   }
 }
