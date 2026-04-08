@@ -8368,5 +8368,23 @@
       8,
       20
     ]
+  },
+  "sol_370": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune, six whispers dance between chaos and grace. The archer's dream ascends through molten breath, while twin luminaries court the night's embrace. A serpent of fortune coils beneath the jester's masquerade, and where petals meet the spectrum's end, crystalline dreams sparkle in silent defiance.",
+      "hint": "One aims eternal, one rises with fury, one shimmers with mischief, one blooms in darkness, one guards ancient secrets, one celebrates victory's shimmer."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one points true and straight, one soars beyond the clouds, one burns with primal force, one crowns the champion's head, one blooms in nature's garden, and one fills the sky with wonder.",
+      "hint": "Think of achievement, speed, heat, victory, growth, and beauty combined."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      13,
+      14,
+      20
+    ]
   }
 }
