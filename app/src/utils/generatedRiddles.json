@@ -8332,5 +8332,23 @@
       4,
       8
     ]
+  },
+  "sol_368": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jeweled heart ascends through stormy breath. The winged dancer twirls betwixt the arc of prismatic tears, while ancient thunder whispers in the deep. Six sovereigns of chance converge where dreams ignite the void.",
+      "hint": "One pierces straight, one climbs skyward, one glimmers precious, one reigns above, one darts on gossamer, one crackles with power."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of destiny: the archer's mark, the path to heaven, nature's treasure, night's guardian, the sprite of spring, and the force that splits the sky. Together they promise wealth untold.",
+      "hint": "Target the goal, Rocket skyward, Gem's value, Moon watches, Butterfly dances, Lightning strikes."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      4
+    ]
   }
 }
