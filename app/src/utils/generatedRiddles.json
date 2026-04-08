@@ -8278,5 +8278,23 @@
       19,
       14
     ]
+  },
+  "sol_365": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a jester's twin masks dance with the dragon's desire. Crystal echoes sing through prismatic waves, as fortune's token spins in luck's deepest caves. Six truths hide in chaos—find the gem that burns, where the archer's aim and the serpent's wisdom turns.",
+      "hint": "One guides aim, one ignites passion, one deceives, one guards treasure, one flows eternal, one rules chaos."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of chance and light: a marksman's circle, a fiery burst, a glowing stone, a coiled beast, a jester's grin, and flowing glass. Together we hold the lottery's grasp.",
+      "hint": "Think of targets, heat, gems, mythology, trickery, and solid beauty."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      13,
+      18,
+      20
+    ]
   }
 }
