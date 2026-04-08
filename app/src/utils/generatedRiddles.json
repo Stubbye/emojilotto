@@ -8170,5 +8170,23 @@
       4,
       5
     ]
+  },
+  "sol_360": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and twin flames waltz through prismatic tears. The jester's grin dissolves into the gemstone's whisper, while chaos numbers spin beneath the fox's cunning gaze. Six secrets sleep in this labyrinth of chance.",
+      "hint": "One speaks of aims, one leaps through void, one glimmers with greed, one rules the night, one devours all, one wears the mask of laughter."
+    },
+    "easyRiddle": {
+      "text": "I aim for goals, I reach for stars, I sparkle bright, I burn hot, I laugh loudly, I scheme slyly. What six friends play in the lottery together?",
+      "hint": "Think of: something you shoot at, something in space, something precious, something that destroys, someone who tricks, and someone who is clever."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      5,
+      6,
+      13
+    ]
   }
 }
