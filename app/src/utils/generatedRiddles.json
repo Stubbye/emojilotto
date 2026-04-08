@@ -8404,5 +8404,23 @@
       13,
       7
     ]
+  },
+  "sol_373": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers converge in shadow's trance. The winged muse pirouettes through prismatic veils, whilst electric threads bind destiny's tales. What gleams in darkness, spins with fate, and crowns the jester at heaven's gate?",
+      "hint": "Consider transformation, luck, performance, and cosmic forces intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: one soars through space, one glitters with grace, one brings laughter and masks, one flies free with wings, one strikes from above, and one sparkles with magic.",
+      "hint": "Think of: space travel, precious things, entertainment, insects, weather, and wonder."
+    },
+    "answer": [
+      1,
+      2,
+      18,
+      8,
+      5,
+      10
+    ]
   }
 }
