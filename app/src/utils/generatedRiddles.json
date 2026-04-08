@@ -8188,5 +8188,41 @@
       6,
       13
     ]
+  },
+  "sol_361": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, through prisms of deep twilight's desire. A scaled serpent coils beneath the crescent's gaze, while masked performers pirouette through fortune's maze. Seven-petaled silence blooms where lightning's kiss betrays the cosmic drift, and luck's own jester grins at what cannot be missed.",
+      "hint": "Consider the duality of chance and destiny, the circular nature of performance, and elements that pierce both earth and sky."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune, burn with celestial might, show hidden depths in purple light. A dragon watches over games of chance, while flowers bloom in fortune's dance, and masks reveal what luck conceals.",
+      "hint": "Think of things that represent luck, performance, and hidden treasures in a lottery context."
+    },
+    "answer": [
+      0,
+      5,
+      1,
+      19,
+      14,
+      8
+    ]
+  },
+  "emlo_157": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, seeking treasures that sparkle and gleam. A jester's luck guides my cosmic flight, while magic crystals amplify my might. What six symbols fuel this memecoin's plight?",
+      "hint": "Think of speed, fortune, and otherworldly riches combined with mystical elements"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with lightning fast! Gems shine bright as we reach at last. The joker laughs, crystals glow, sparkles fly—which six emojis make memecoins fly high?",
+      "hint": "Look for: speed, destination, wealth, luck, magic, and shine"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      21,
+      10,
+      20
+    ]
   }
 }
