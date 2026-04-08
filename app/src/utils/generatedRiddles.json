@@ -8224,5 +8224,23 @@
       10,
       20
     ]
+  },
+  "sol_362": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, six sentinels of chance and wonder claim. The jeweled heart gleams beneath the nocturnal eye, while thunder's whisper and the phoenix dance nearby. A metamorphosis of wings through prismatic veils, and fortune's jester holds the secret that never fails.",
+      "hint": "One points direction, one burns bright, one sparkles precious, one rules the night. One transforms, one refracts, one plays the game."
+    },
+    "easyRiddle": {
+      "text": "A bull's-eye burns, a gem shines in darkness, lightning cracks the sky, a butterfly floats through rainbows, and a joker grins—what six dance together in destiny's lottery?",
+      "hint": "Aim, shine, strike, transform, arch, and jest."
+    },
+    "answer": [
+      0,
+      5,
+      1,
+      3,
+      8,
+      19
+    ]
   }
 }
