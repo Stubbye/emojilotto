@@ -8098,5 +8098,23 @@
       12,
       20
     ]
+  },
+  "sol_357": {
+    "hardRiddle": {
+      "text": "Where fortune's jest meets celestial fire, a winged metamorphosis ascends through prismatic veils. The archer's mark aligns with thunder's kiss, while crystalline dreams refract the jester's grin across the vault of night.",
+      "hint": "Seek the trickster, the gem of heaven's crown, the creature reborn, the bolt's kin, the target's purpose, and the stone that captures light."
+    },
+    "easyRiddle": {
+      "text": "A joker laughs at a shining gem under the moon, while lightning strikes near a butterfly dancing through sparkles.",
+      "hint": "Count the magical items and mystical elements mentioned in the riddle."
+    },
+    "answer": [
+      13,
+      7,
+      1,
+      4,
+      0,
+      20
+    ]
   }
 }
