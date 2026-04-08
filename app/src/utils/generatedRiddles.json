@@ -8116,5 +8116,41 @@
       0,
       20
     ]
+  },
+  "sol_358": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's cold throne, and emerald tears fall upon the jester's crown. Twin infernos dance with wings of silk, while celestial bolts split prismatic veils. In this convergence of chaos and grace, six symbols bind the seeker's fate.",
+      "hint": "Consider the duality of chaos and order, the meeting of celestial and earthly realms, and the paradox of predictability within randomness."
+    },
+    "easyRiddle": {
+      "text": "A target aims true, a rocket soars high, a gem sparkles bright under the joker's eye. Lightning strikes fast, fire burns deep, while the butterfly's dance secrets keeps.",
+      "hint": "Look for symbols of ambition, luck, speed, and delicate beauty."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      5,
+      8
+    ]
+  },
+  "emlo_156": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles as I lead. With fire and rocket dreams so high, a star that makes the masses fly. What am I in this memecoin spree?",
+      "hint": "Think of the journey from earth to riches, with magical sparkle and explosive growth"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 💎 is treasure, ⚡ strikes at night, 🌙 glows above, 🔥 burns with might. What 6 things drive a crypto delight?",
+      "hint": "These are the symbols of moon lambo dreams"
+    },
+    "answer": [
+      1,
+      10,
+      2,
+      4,
+      3,
+      5
+    ]
   }
 }
