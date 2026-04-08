@@ -8296,5 +8296,23 @@
       18,
       20
     ]
+  },
+  "sol_366": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a jeweled path ignites the heavens' descent. Through temporal tides and celestial fire, six whispers dance—the fool's desire. Winged metamorphosis in chromatic streams, where twin sparks crown the dreamer's dreams.",
+      "hint": "Consider the journey from earth to cosmos, the card of chance, transformation, and light's refraction."
+    },
+    "easyRiddle": {
+      "text": "I shoot at nothing, gems shine bright, lightning strikes in night. A fool appears where rainbows bend, and butterflies their colors send. What six signs make fortune's blend?",
+      "hint": "Think of targets, sparkles, and magical transformations in the sky."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      9,
+      8,
+      20
+    ]
   }
 }
