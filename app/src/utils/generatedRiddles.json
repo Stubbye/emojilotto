@@ -8152,5 +8152,23 @@
       3,
       5
     ]
+  },
+  "sol_359": {
+    "hardRiddle": {
+      "text": "Through the veil where fortune's jester dances in celestial fire, six tokens of fate converge: the archer's mark meets swift ascension, crystalline treasures gleam beneath Luna's gaze, while thunder's tongue licks amber flames, and winged metamorphosis pirouettes through prismatic arcs of destiny's song.",
+      "hint": "Seek the bull's-eye, the upward thrust, the gemstone's brilliance, the night's orb, the storm's voice, and the painted sky's reflection in transformation."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols: a target for aim, a rocket for flight, a gem that sparkles, the moon at night, lightning that strikes, and fire's bright light.",
+      "hint": "One points the way, one goes up high, one shines bright, one fills the sky, one crackles fast, one burns with might."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
