@@ -8242,5 +8242,23 @@
       8,
       19
     ]
+  },
+  "sol_363": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentries guard the veil between worlds. The archer's mark gleams in the void, while serpent's wisdom coils 'round crystalline truth. Jester's grin betrays the masquerade, and winged metamorphosis marks the threshold where lightning births the eternal bloom.",
+      "hint": "One points, one shines, one deceives, one transforms, one reveals, one ascends."
+    },
+    "easyRiddle": {
+      "text": "A target and a gem, a dragon and a star, a joker and a butterfly walk into the lottery. What six seekers chase the light?",
+      "hint": "Look for: aim, treasure, scales, fortune, trickery, and wings."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      21,
+      18,
+      8
+    ]
   }
 }
