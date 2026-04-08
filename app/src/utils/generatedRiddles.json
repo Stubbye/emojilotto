@@ -8260,5 +8260,23 @@
       18,
       8
     ]
+  },
+  "sol_364": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, six whispers converge in a dreamer's scheme. The archer's mark meets the swift ascending flame, while gems catch starlight in night's eternal frame. A jester's grin mirrors the fox's cunning grace, as lightning strikes through the dragon's sacred space.",
+      "hint": "Seek the symbols of ambition, fortune, wit, and cosmic power—one guides arrows, one defies gravity, one glitters with worth, one rules the heavens, one deceives with mirth, one hoards ancient magic."
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the vault of wishes: one you aim at, one climbs the sky, one sparkles bright, one glows above, one tricks your eye, and one breathes fire in legend's sigh.",
+      "hint": "Think of targets, rockets, gems, moons, jesters, and dragons."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      14
+    ]
   }
 }
