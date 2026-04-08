@@ -8314,5 +8314,23 @@
       8,
       20
     ]
+  },
+  "sol_367": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers align: the archer's mark gleams eternal, swift metal pierces the void, earth's treasure crystallized in light, Luna's pale guardian watches, chaos branching through the ether, and nature's metamorphosis spreads wings. What trinity of trinities reveals the lottery's secret language?",
+      "hint": "Consider what seeks, what ascends, what glimmers, what rules the night, what moves swift as thought, and what transforms."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await: one you aim for, one that flies high, one that sparkles bright, one that glows at night, one that strikes fast, and one that transforms with grace. Name them and claim victory.",
+      "hint": "Think of goals, speed, shine, the sky, power, and change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
