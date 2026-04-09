@@ -8512,5 +8512,23 @@
       10,
       18
     ]
+  },
+  "sol_380": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger of transformation bows to a crimson spiral of wonder. Six guardians hold the key: one burns with distant heat, one bears the jester's paradox, one floats in night's embrace, one carries metamorphosis upon silken wings, one spins with chaos's blessing, and one crowns the victor's dream.",
+      "hint": "Look to the sky, the stage, the wheel, and the night. Three celestial, one theatrical, one random, one triumphant."
+    },
+    "easyRiddle": {
+      "text": "A flame from space, a laughing mask, a glowing orb, a butterfly, a spinning cube, and a golden prize. Which six dance in fortune's lottery?",
+      "hint": "Fire in sky, silly face, night light, pretty insect, random chance, and glory."
+    },
+    "answer": [
+      5,
+      19,
+      3,
+      8,
+      11,
+      18
+    ]
   }
 }
