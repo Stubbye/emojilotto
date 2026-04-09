@@ -8674,5 +8674,41 @@
       5,
       7
     ]
+  },
+  "sol_388": {
+    "hardRiddle": {
+      "text": "Through tempest's breath and celestial night, six harbingers dance where fortune takes flight. The archer's mark meets swift ascension, as crystalline tears mirror heaven's tension. Where chaos sparks and metamorphosis blooms, a jester's wisdom consumes all rooms. Thunder's kiss upon the gemstone's gleam, weaves the tapestry of the dreamer's scheme.",
+      "hint": "Seek the marksman's circle, the vessel of stars, the sleeping satellite, the metamorphic wings, the fool's masked truth, and the stone that captures light itself."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key to luck's embrace: one aims true, one soars through space, one glows from heaven's throne, one transforms in chrysalis zone, one bears the fool's strange grin, and one refracts the light within.",
+      "hint": "Target, Rocket, Moon, Butterfly, Joker, and Gem"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      8,
+      19,
+      20
+    ]
+  },
+  "emlo_165": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking treasures that sparkle beyond reach. My volatile nature dances with fire and fortune, guided by fate's unpredictable roll. What six symbols represent this memecoin odyssey?",
+      "hint": "Think of a rocket's journey, the rewards found there, and the chaotic energy that powers it all."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon carrying gems and lightning. Sparkles rain down as fortune smiles. What six things do you see?",
+      "hint": "Look for celestial objects, treasure, electricity, and magical shimmer."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      10,
+      20
+    ]
   }
 }
