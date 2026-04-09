@@ -8530,5 +8530,41 @@
       11,
       18
     ]
+  },
+  "sol_381": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a winged flame ascends through crystalline darkness. The jester's laughter echoes across prismatic waves, while fate's bones tumble beneath a celestial throne. Six servants of chance converge where the spotted beast bows to radiant brilliance.",
+      "hint": "Look for the hunter's mark, the sky's messenger, the magician's jest, the rolling cubes of destiny, the prism of dreams, and the crown of victory."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one flies high, one tricks the mind, one rolls the dice, one breaks the light, and one rewards the wise.",
+      "hint": "Think of a marksman, a journey upward, a trickster, randomness, rainbows, and winning."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      12,
+      9,
+      18
+    ]
+  },
+  "emlo_163": {
+    "hardRiddle": {
+      "text": "I'm a digital treasure that makes diamond hands shine bright, yet I'm as volatile as a storm in the night. Follow me to riches beyond the atmosphere, while my magic sparks with electric cheer. Dance through chaos with luck on your side, as fire and fortune become your guide.",
+      "hint": "Three precious things, three forces of nature - together they promise both wealth and danger in the crypto realm."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ makes it shine, ⚡ powers the hype. 💎 is the goal, 🎲 is the game, and 🔥 is the flame. What six symbols represent a memecoin adventure?",
+      "hint": "Think about launch, sparkle, electricity, jewels, randomness, and heat."
+    },
+    "answer": [
+      1,
+      10,
+      4,
+      2,
+      11,
+      5
+    ]
   }
 }
