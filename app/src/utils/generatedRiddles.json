@@ -8656,5 +8656,23 @@
       8,
       19
     ]
+  },
+  "sol_386": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial veil, six guardians convene in twilight's tale. The jester grins beneath a dragon's gleam, while crystalline whispers dance through fortune's dream. One bears the mark of chaos, one of grace—where lightning kisses the performer's space.",
+      "hint": "Look for the trickster, the mythical beast, the gemstone's echo, the court's grand feast, electricity's thread, and the big top's embrace."
+    },
+    "easyRiddle": {
+      "text": "Six magical items hide in plain sight: a playing card's trick, a treasure so bright, a creature with wings and ancient might, a stone that sparkles, electricity's flight, and a tent of wonder and pure delight.",
+      "hint": "Think of a comedian, a jewel, a creature, something shiny, energy, and entertainment."
+    },
+    "answer": [
+      19,
+      14,
+      13,
+      6,
+      5,
+      7
+    ]
   }
 }
