@@ -8476,5 +8476,23 @@
       7,
       20
     ]
+  },
+  "sol_378": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a gemstone glimmers in celestial theatre. The storm's swift messenger dances with celestial fire, while delicate wings transcend the prism's eternal arc, and crystalline fragments scatter across the jester's domain of chance.",
+      "hint": "One guides aims, one lights the night, one holds value, one brings spectral joy, one carries chaos, and one transforms."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's goal, the night's guardian, the precious stone, the electric bolt, the butterfly's grace, and the fool's laughter. Together we spin the wheel of destiny.",
+      "hint": "Think of targets, moons, jewels, storms, wings, and cards."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      19
+    ]
   }
 }
