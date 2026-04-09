@@ -8638,5 +8638,23 @@
       9,
       10
     ]
+  },
+  "sol_385": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's wheel, six keepers of destiny align: the archer's mark meets the swift messenger through heaven's vault, while jeweled light births prismatic arcs, and winged metamorphosis spirals through crackling divinity—seek where chaos and precision waltz beneath the jester's eternal grin.",
+      "hint": "One grants wishes, one climbs high, one glitters in night, one transforms grace, one breaks storms, one laughs at fate"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: something you aim for, something that flies fast, something that sparkles bright, something in the night sky, something that changes form with wings, and something that makes you laugh. What are they?",
+      "hint": "Target, Rocket, Gem, Moon, Butterfly, Joker"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      19
+    ]
   }
 }
