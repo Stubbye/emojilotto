@@ -8584,5 +8584,23 @@
       11,
       10
     ]
+  },
+  "sol_383": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial serpent coils through prismatic shards. The jester's twin flames dance with winged grace, while destiny's wheel spins beneath the singer's silent cry.",
+      "hint": "One pierces, one flies high, one transforms, one glimmers with truth, one performs deception, one creates harmony."
+    },
+    "easyRiddle": {
+      "text": "Find the marksman's aim, the sky-bearer's realm, the precious stone, the shape-shifter, the flames of chaos, and the winged beauty that knows metamorphosis.",
+      "hint": "Think of: precision, height, wealth, magic, destruction, and nature's transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      5,
+      8
+    ]
   }
 }
