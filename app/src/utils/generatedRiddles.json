@@ -8710,5 +8710,23 @@
       10,
       20
     ]
+  },
+  "sol_389": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's celestial bride, and fortune's spark ignites the jester's painted mask, the winged metamorphosis dances through prismatic arcs, while the serpent of storms coils beneath glittering shards of destiny's crown.",
+      "hint": "Six symbols of chance: one aims, one ascends, one deceives, one transforms, one illuminates, one commands."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the ascent, the jester's grin, the butterfly's dance, the lightning's flash, and the dragon's might. Together we spin the wheel of fortune.",
+      "hint": "A target shoots up, a joker tricks, wings flutter, electricity crackles, scales shimmer, and luck reigns."
+    },
+    "answer": [
+      0,
+      1,
+      19,
+      8,
+      4,
+      13
+    ]
   }
 }
