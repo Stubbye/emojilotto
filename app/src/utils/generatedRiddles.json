@@ -8440,5 +8440,23 @@
       19,
       21
     ]
+  },
+  "emlo_161": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a glittering prize that makes diamond hearts bleed. Where fortune spins wild in a cosmic circus dance, lucky petals bloom in a magical trance. What six celestial symbols light up this memecoin romance?",
+      "hint": "Think of a rocket's journey: explosive power, precious rewards, spinning luck, growth, mystical fortune, and starry destinations"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past gems and lightning to reach the moon. Dice spin in a circus tent under the lucky clover. Which 6 emojis complete this memecoin adventure?",
+      "hint": "Look for: launch vehicle, precious stone, electrical energy, lunar destination, gambling tools, and fortune symbols"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      11,
+      19
+    ]
   }
 }
