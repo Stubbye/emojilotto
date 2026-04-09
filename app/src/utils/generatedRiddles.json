@@ -8494,5 +8494,23 @@
       7,
       19
     ]
+  },
+  "sol_379": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's bright dance, six keepers of fate converge in trance. The archer's mark glows where thunder splits sky, a gemstone catches what phoenix amplifies. Winged grace adorns the prismatic arc, while fortune's jester grins in the dark.",
+      "hint": "Think of cosmic ambition, electrical power, precious rewards, and the trickster's domain"
+    },
+    "easyRiddle": {
+      "text": "One shoots upward, one shines above, one sparkles bright, one strikes with love. One is prized like treasure untold, one wears the mask of laughter bold.",
+      "hint": "Rocket, Moon, Sparkles, Lightning, Gem, Joker"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      10,
+      18
+    ]
   }
 }
