@@ -8566,5 +8566,23 @@
       11,
       5
     ]
+  },
+  "sol_382": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's ancient twin, a winged metamorphosis ascends through prismatic veils. The jester's glittering crown reflects what mortals seek beneath the veil of chance—six vessels of fate converge where thunder births the spectral arc.",
+      "hint": "Look for transformation, luck's symbols, light refracted, and the meeting of sky and storm"
+    },
+    "easyRiddle": {
+      "text": "A butterfly transforms near a glittering gem, while lightning strikes under moonlight. The joker laughs as sparkles dance across a rainbow. Which six bring fortune?",
+      "hint": "Metamorphosis, wealth, electricity, night sky, trickery, and light"
+    },
+    "answer": [
+      8,
+      6,
+      5,
+      3,
+      11,
+      10
+    ]
   }
 }
