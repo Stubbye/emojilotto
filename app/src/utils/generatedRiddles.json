@@ -8602,5 +8602,41 @@
       5,
       8
     ]
+  },
+  "sol_384": {
+    "hardRiddle": {
+      "text": "Where fortune's crimson tongue dances with celestial fire, the winged metamorphosis ascends through prismatic arcs. The jester's masked revelry spins beneath twin crescents of luck, while crystalline brilliance mirrors the gleaming prize of conquest. In this nexus of chaos and grace, six destinies converge.",
+      "hint": "Think of transformation, performance, light refraction, and the duality of chance meeting achievement."
+    },
+    "easyRiddle": {
+      "text": "A butterfly transforms near a flame, under rainbows and stars. A joker performs with masks and gems. Where do these six elements of magic meet in luck?",
+      "hint": "Look for symbols of change, entertainment, light, and fortune."
+    },
+    "answer": [
+      8,
+      5,
+      19,
+      21,
+      2,
+      12
+    ]
+  },
+  "emlo_164": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, leaving trails of brilliance. Fortune favors the bold who seek my gleaming treasure while chaos dances around them.",
+      "hint": "Think of a memecoin's journey: explosive growth, dazzling rewards, and the wild energy of the community."
+    },
+    "easyRiddle": {
+      "text": "I go up fast, I sparkle bright, I strike with power, I glow at night. Find the gem and the lucky sign, then add the magic that makes things shine.",
+      "hint": "Look for rocket power, precious stones, lightning strikes, stars, rainbows, and sparkles in your emoji vault."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      22,
+      9,
+      10
+    ]
   }
 }
