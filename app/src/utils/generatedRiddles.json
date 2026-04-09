@@ -8458,5 +8458,23 @@
       11,
       19
     ]
+  },
+  "sol_377": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins under celestial throne, six dancers waltz through shadow's zone. The archer's mark meets heaven's flame, a jester grins within the game. Wings of transformation touch the gleam, while crystalline echoes haunt the dream.",
+      "hint": "Look for: aim, fire, celestial body, fool's card, metamorphosis, and geometric brilliance"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this cosmic play: a target to aim, fire's bright display, the moon above, a joker's grin, a butterfly's wings, and crystal's spin.",
+      "hint": "Target, Fire, Moon, Joker, Butterfly, Crystal"
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      11,
+      7,
+      20
+    ]
   }
 }
