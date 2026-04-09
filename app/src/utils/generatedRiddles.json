@@ -8422,5 +8422,23 @@
       5,
       10
     ]
+  },
+  "sol_374": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and tempest's tongue ignites the cosmic maze. A jeweled heart pulses beneath the jester's grin, while scaled dreams coil where luck begins. Seven-petaled chance blooms in the gambler's hand, and radiance crowns what few understand.",
+      "hint": "Seek the convergence of precision, destiny, wealth, chaos, mystery, and illumination—six vessels holding the lottery's whispered name."
+    },
+    "easyRiddle": {
+      "text": "I hold six secrets in this game: a bull's-eye point, a flying dream, a glittering stone, a laughing mask, a lucky bloom, and brilliant light. Which ones shine in fortune's sight?",
+      "hint": "Think of targets, high aspirations, precious things, trickery, nature's luck, and pure radiance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      18,
+      19,
+      21
+    ]
   }
 }
