@@ -8944,5 +8944,23 @@
       4,
       19
     ]
+  },
+  "sol_401": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six whispers dance between the veil. The archer's mark ascends on wings of thunder, while gems crystallize the jester's ancient tale. Transformation births from chrysalis of chance, and fortune's crown awaits where lightning meets the dance.",
+      "hint": "Look for: aim, flight, wealth, laughter, metamorphosis, and victory's gleam"
+    },
+    "easyRiddle": {
+      "text": "One points the way, one flies so high, one sparkles bright, one makes you sigh with laughter, one changes form, one celebrates the win. Can you find all six that hide within?",
+      "hint": "target, rocket, gem, joker, butterfly, trophy"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      17
+    ]
   }
 }
