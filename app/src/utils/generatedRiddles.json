@@ -8746,5 +8746,23 @@
       11,
       19
     ]
+  },
+  "emlo_166": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive energy, seeking hidden treasures that sparkle with fortune. My journey rides the volatile surge, guided by mystical luck through colorful chaos, where fate and chance dance together under the night sky.",
+      "hint": "Think of a memecoin's aspirations: destination, speed, value, goal, power, and randomness."
+    },
+    "easyRiddle": {
+      "text": "🚀 launches toward 🌙, carrying 💎 powered by ⚡, blessed by 🍀, and decided by 🎲.",
+      "hint": "A memecoin investor's wish list: vehicle, destination, treasure, energy source, good fortune, and choice."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      19,
+      11
+    ]
   }
 }
