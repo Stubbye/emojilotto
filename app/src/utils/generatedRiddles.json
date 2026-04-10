@@ -8872,5 +8872,41 @@
       5,
       21
     ]
+  },
+  "sol_398": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six sentinels guard the threshold. The winged dancer spirals through prisms of luck, while crystalline shards catch the jester's gaze. Below, the swift trickster grins beneath a crown of emerald fortune, as thunder's twin whispers secrets to the gemstone's heart.",
+      "hint": "Seek the intersection of aim, ascension, and the wild's cunning. Three elements dance with three treasures of chance."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's goal and the sky's bright keeper. I am lightning's twin and fortune's gleaming stone. A clever beast and a jester in motley complete this dance of six. What symbols hold the key to destiny?",
+      "hint": "Think of: precision, heavens, electricity, wealth, trickery, and merriment."
+    },
+    "answer": [
+      0,
+      4,
+      5,
+      1,
+      13,
+      11
+    ]
+  },
+  "emlo_168": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault where precious stones gleam with electric intensity, spreading luck through sparkling chaos and fiery brilliance.",
+      "hint": "Think of a memecoin journey: the vehicle, the destination, what's valuable, the power, the fortune, and the excitement"
+    },
+    "easyRiddle": {
+      "text": "A 🚀 goes to the 🌙, carrying 💎 powered by ⚡, bringing 🔥 and ✨ to the people",
+      "hint": "Count the emojis in the easy riddle - they ARE the answer"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      6
+    ]
   }
 }
