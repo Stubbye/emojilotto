@@ -8782,5 +8782,23 @@
       16,
       9
     ]
+  },
+  "sol_393": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a gemstone weeps beneath the dancer's grin. The winged muse pirouettes through storm's bright tongue, while serpent dreams coil 'round the victor's crown. Six harbingers of fate converge where chaos sparkles—name them true.",
+      "hint": "Consider symbols of targets, royalty, transformation, weather, victory, and precious things. One brings luck, one brings light."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and spectacle: a mark to aim at, a stone that gleams, a creature with wings, a flash of power, a serpent of legend, and a prize for champions. What six dance together in destiny's lottery?",
+      "hint": "Think of: something you aim for, something valuable and shiny, something that transforms, something electric, something mythical, and something you win."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      5,
+      13,
+      17
+    ]
   }
 }
