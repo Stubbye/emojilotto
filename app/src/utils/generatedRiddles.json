@@ -9016,5 +9016,23 @@
       19,
       14
     ]
+  },
+  "sol_404": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six servants of fate dance in shadow's domain. The winged messenger ascends through prisms of light, while gemstones whisper secrets to the trickster's delight. Thunder's twin brother wears masks of deception, and the scaled guardian guards the final redemption.",
+      "hint": "Consider the instruments of chance, the performers of night, and those who reach toward the infinite."
+    },
+    "easyRiddle": {
+      "text": "Find the one who aims, the one who flies high, the one that sparkles under the sky. Add the jester's smile, the storm's bright crack, and the beast of legend that guards the back.",
+      "hint": "One points at targets, one soars to space, one gleams with light, one tricks with grace, one flashes bright, and one breathes with might."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      12,
+      5,
+      13
+    ]
   }
 }
