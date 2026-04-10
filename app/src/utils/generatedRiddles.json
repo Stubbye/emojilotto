@@ -9070,5 +9070,23 @@
       20,
       21
     ]
+  },
+  "sol_407": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jester's dual visage grins through prisms of fortune. The serpent of storms coils beneath twin flames of revelation and metamorphosis, while petals bloom eternal in nature's grand masquerade. Six tokens dance where chaos and destiny intertwine.",
+      "hint": "One flies toward dreams, one watches from above, one reflects all light, one wears two faces, one strikes with fury, one transforms with grace."
+    },
+    "easyRiddle": {
+      "text": "A bullseye guides the way up high, where the moon watches over. A fool laughs in mirrors, while red danger and blue lightning clash. A winged creature escapes, and a bloom celebrates nature's art.",
+      "hint": "Look for: aim, sky, reflection, electricity, wings, and growth."
+    },
+    "answer": [
+      0,
+      1,
+      19,
+      3,
+      4,
+      7
+    ]
   }
 }
