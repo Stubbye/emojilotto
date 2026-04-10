@@ -9034,5 +9034,23 @@
       5,
       13
     ]
+  },
+  "sol_405": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright eye, and serpent's flame dances with the jester's disguise. Twin sisters of fortune spin endlessly above, while the night's pale guardian winks down on all we love. The brilliant stone drinks light that cracks the sky asunder, as masked revelry hides the secret we plunder.",
+      "hint": "One guides your aim, one rules the night, one brings the shock, one wears the sight, one sparkles true, one laughs in jest"
+    },
+    "easyRiddle": {
+      "text": "I strike from clouds with brilliant rage, the moon watches over fortune's stage, a joker grins with hidden glee, a gem shines bright for all to see, a target waits for luck to call, and fire dances through it all.",
+      "hint": "Count the elements of chance and nature combined"
+    },
+    "answer": [
+      3,
+      5,
+      11,
+      12,
+      17,
+      20
+    ]
   }
 }
