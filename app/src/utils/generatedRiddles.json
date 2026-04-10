@@ -8836,5 +8836,23 @@
       5,
       8
     ]
+  },
+  "sol_396": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six whispers dance betwixt the mortal and unknown. The jester's grin guards gemstone's gleam, while lightning fractures through the dreamer's celestial seam. A creature scaled in ancient flame conducts the symphony, and where the nocturne blooms, the winged heir finds reverie.",
+      "hint": "One guides aim, one rules night, one sparkles coldly, one ignites chaos, one breathes eternity, one transforms darkness to light."
+    },
+    "easyRiddle": {
+      "text": "I am six in the dance of chance: the bull's-eye waits, the night sky reigns, the stone that shines, the split-second strike, the scaled beast dreams, and wings take flight.",
+      "hint": "Aim, night, jewel, electricity, mythology, insect"
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      4,
+      13,
+      8
+    ]
   }
 }
