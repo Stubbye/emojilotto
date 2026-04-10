@@ -9052,5 +9052,23 @@
       17,
       20
     ]
+  },
+  "sol_406": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six tokens dance in shadow's grace. The jester's grin beneath twin masks conceals the path where luck attacks. Through crystalline veils and dragon's fire, ascending where the bolt climbs higher. The gem and star in darkness gleam, orchestrating destiny's dream.",
+      "hint": "Seek the intersection of chance and chaos, where celestial bodies align with earthly mischief and precious light."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's aim, the trickster's face (twice), the serpent's breath, the spark above, and jewels that glow with coded love.",
+      "hint": "One shoots straight, one laughs twice, one roars with heat, one strikes the sky, one shines bright, and one reflects light."
+    },
+    "answer": [
+      0,
+      18,
+      13,
+      4,
+      20,
+      21
+    ]
   }
 }
