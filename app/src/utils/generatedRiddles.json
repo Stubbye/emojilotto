@@ -8908,5 +8908,23 @@
       5,
       6
     ]
+  },
+  "sol_399": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers converge in shadow's appeal. The jeweled guardian watches from heights untold, while winged metamorphosis and electric threads unfold. A jester's grin echoes through cosmic gleam, and nature's crown blooms within the dream.",
+      "hint": "One brings luck, one brings fortune, one brings transformation, one brings chaos, one brings light, one brings joy"
+    },
+    "easyRiddle": {
+      "text": "Find the gem that glows, the star that shows, the lightning that flows, the joker who knows, the butterfly that grows, and the flower that grows.",
+      "hint": "Six symbols of chance: precious, celestial, electric, playful, transforming, and natural"
+    },
+    "answer": [
+      3,
+      21,
+      4,
+      11,
+      8,
+      14
+    ]
   }
 }
