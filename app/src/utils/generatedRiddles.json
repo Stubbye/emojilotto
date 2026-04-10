@@ -8800,5 +8800,23 @@
       13,
       17
     ]
+  },
+  "emlo_167": {
+    "hardRiddle": {
+      "text": "I launch to the celestial vault with electric speed, seeking brilliance that sparkles. My path is illuminated by fortune's dance, where masked jesters celebrate under rainbow skies. What six symbols mark this memecoin's journey to legendary status?",
+      "hint": "Think of a coin's mission: upward movement, energy, precious finds, luck, entertainment, and ethereal beauty."
+    },
+    "easyRiddle": {
+      "text": "A coin shoots up fast with lightning power ⚡ to reach the moon 🌙. It sparkles ✨ like a gem 💎 while lucky jokers 🃏 dance under rainbows 🌈. Name these six!",
+      "hint": "Count the emojis in the riddle text - they're your answer!"
+    },
+    "answer": [
+      1,
+      3,
+      10,
+      5,
+      9,
+      19
+    ]
   }
 }
