@@ -8818,5 +8818,23 @@
       9,
       19
     ]
+  },
+  "sol_395": {
+    "hardRiddle": {
+      "text": "Through prism's veil where fortune dances, six celestial sentinels convene. The archer's mark meets swift ascension, while gems of earthbound treasury gleam. Where crimson devours and winged metamorphosis pirouettes through stellar descent, crowned victory awaits the seeker who reads the language of fortune's electric whisper.",
+      "hint": "Seek the convergence of ambition, wealth, transformation, achievement, and nature's duality beneath the cosmos."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols: the target you aim for, the rocket that flies high, the gem that sparkles bright, the moon that glows at night, the fire that burns hot, and the butterfly that transforms.",
+      "hint": "Think of goals, travel, riches, night sky, heat, and change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
