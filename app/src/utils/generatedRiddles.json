@@ -8926,5 +8926,23 @@
       8,
       14
     ]
+  },
+  "sol_400": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the serpent of storms awakens beneath the jester's painted gaze. Six tokens of fate: the silent hunter wears masks of deception, the winged metamorphosis spirals through prisms of light, and where chaos plays its game of chance, the scales tip toward infinity's gleam.",
+      "hint": "One hunts in shadows, one transforms through air, one rules below, one plays for laughs, one spins with uncertainty, and one births eternal light."
+    },
+    "easyRiddle": {
+      "text": "A target marks the start, a rocket claims the sky, a gem shines bright with wealth, the moon watches over night, lightning strikes with power, and a joker always lies. Which six guide the lottery?",
+      "hint": "Think of beginnings, journeys, riches, celestial bodies, forces of nature, and tricksters."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
