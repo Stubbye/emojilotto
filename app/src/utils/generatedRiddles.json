@@ -8998,5 +8998,23 @@
       5,
       21
     ]
+  },
+  "sol_403": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six whispers dance in shadow's veil. The archer's mark holds what the winged deceiver seeks, while storms conduct their ancient song. Prismatic fractured light bows to the crowned performer's jest, and earthbound blooms pierce the veil between two realms.",
+      "hint": "One guides arrows, one brings luck, one flies with tricks, one strikes with sound, one wears many faces, one grows from earth."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one points the way with circles true, one soars beyond the clouds so high, one sparkles with the purest gleam, one cracks the sky with brilliant strike, one entertains with laughter loud, one grows with petals soft and sweet.",
+      "hint": "Think of targets, rockets, gems, lightning, jesters, and flowers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      19,
+      14
+    ]
   }
 }
