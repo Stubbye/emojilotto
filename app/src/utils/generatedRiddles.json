@@ -8854,5 +8854,23 @@
       13,
       8
     ]
+  },
+  "sol_397": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins in celestial night, six sentinels guard the threshold between chaos and grace. The archer's mark gleams eternal, while winged metamorphosis dances with heaven's fire. A jester's grin masks the treasure, and scales of fortune tumble where storm-born fury meets crystalline dreams.",
+      "hint": "One brings precision, one transformation, one deception, one chance, one power, one clarity."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: a target so true, a butterfly bright, a joker so sly, dice that will roll, lightning that strikes, and a crystal so clear. Which six make the fortune?",
+      "hint": "Aim, transform, trick, chance, power, clarity."
+    },
+    "answer": [
+      0,
+      8,
+      19,
+      11,
+      5,
+      21
+    ]
   }
 }
