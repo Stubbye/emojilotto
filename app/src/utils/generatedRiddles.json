@@ -8728,5 +8728,23 @@
       4,
       13
     ]
+  },
+  "sol_390": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The winged trickster guards the gate of luck, while molten tears fall upon the court's masked visage. Twin crystals—one born of night's vault, one kissed by cosmic radiance—frame the jester's eternal game. What constellation of chance shall reveal the hidden crown?",
+      "hint": "Seek the symbols of chaos, deception, night, brilliance, fortune, and the fool's mastery over fate itself."
+    },
+    "easyRiddle": {
+      "text": "I am a trickster with wings, a flame that never dies, stones that sparkle in darkness, the guardian of night, the wheel of pure luck, and the face that knows all secrets. Together we six unlock the lottery's treasure.",
+      "hint": "Fox, Fire, Gem, Moon, Dice, Masks"
+    },
+    "answer": [
+      13,
+      6,
+      20,
+      3,
+      11,
+      19
+    ]
   }
 }
