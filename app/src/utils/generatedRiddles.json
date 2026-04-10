@@ -8962,5 +8962,41 @@
       8,
       17
     ]
+  },
+  "sol_402": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six mysteries converge in twilight's appeal. The archer's mark meets wings of midnight's gleam, while crystalline fragments ignite the dream. Fortune's jester spins beneath Luna's gaze, as nature's bloom ignites in prismatic blaze.",
+      "hint": "Think of targets, magic, luck, and the night sky's most enchanting visitors"
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye, the glowing stone, the night orb bright, the lucky charm's light, the shape-shifter sly, and the star that won't die.",
+      "hint": "Look for: aim, gem, moon, clover, fox, and sparkles"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      19,
+      12,
+      10
+    ]
+  },
+  "emlo_169": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, sparkle with fortune's gleam, yet fortune is just a game of chance. Strike me down and watch the magic happen—rainbow profits await those who dare. What six symbols define this memecoin madness?",
+      "hint": "Think of the journey: speed to riches, luck in the chaos, and the magical rewards."
+    },
+    "easyRiddle": {
+      "text": "A coin goes UP UP UP ✨ with electric power, shines bright like precious stones, gambles on luck, and celebrates with a magical arc of color. Name these six tokens of fortune.",
+      "hint": "Look for: upward motion, bright shine, luck, speed, electricity, and color."
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      9,
+      5,
+      21
+    ]
   }
 }
