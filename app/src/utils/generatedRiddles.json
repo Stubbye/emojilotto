@@ -8764,5 +8764,23 @@
       19,
       11
     ]
+  },
+  "sol_392": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a scaled serpent ascends through celestial fire, while the trickster's grin echoes beneath the canopy of wings. Seven-petaled dreams bloom in crystalline fracture, yet the musician's voice dissolves into prismatic dust. What six threads weave the tapestry of fate's cruel jest?",
+      "hint": "One points, one flies high, one deceives, one guards secrets, one sings, one splits light into colors"
+    },
+    "easyRiddle": {
+      "text": "I point toward luck, he breathes in the sky, she dances with magic, they hide in deep places, music speaks truth, and colors reveal all. Name these six keepers of chance.",
+      "hint": "Target, dragon, butterfly, crystal, guitar, rainbow"
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      20,
+      16,
+      9
+    ]
   }
 }
