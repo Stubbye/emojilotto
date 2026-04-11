@@ -9232,5 +9232,23 @@
       21,
       19
     ]
+  },
+  "sol_415": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the jester's twisted grin, six tokens dance betwixt the void and mortal sin. The archer's mark ascends through crystalline night, while fortune's laughter echoes in prismatic light. Thunder births the gem that burns eternal flame, and masked delusions play the ancient game.",
+      "hint": "One guides, one laughs, one illuminates, one burns, one climbs, one glimmers—seek the convergence of destiny's sacred returns."
+    },
+    "easyRiddle": {
+      "text": "I contain: a mark for aiming, a jester's mocking face, a bright celestial orb, a strike of pure electric force, a precious stone, and dancing flames. What lottery numbers am I?",
+      "hint": "Think of: target, joker, moon, lightning, gem, and fire."
+    },
+    "answer": [
+      0,
+      12,
+      3,
+      4,
+      2,
+      5
+    ]
   }
 }
