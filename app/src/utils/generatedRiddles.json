@@ -9304,5 +9304,23 @@
       21,
       9
     ]
+  },
+  "sol_419": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, through chaos and brilliance the masked performer climbs. The emerald whispers of luck dance with the winged wanderer's grace, while thunder crowns the jester's eternal jest. Six tokens of fate converge—one strikes the bullseye of destiny, one ignites the heavens' breath, one glimmers with nature's precious heart, one grins in theatrical shadow, one flutters through metamorphic dreams, one crackles with the sky's violent song.",
+      "hint": "Imagine a lottery ticket where an archer's precision meets a magician's deception, a gemstone's rarity, a masked performer's mystery, a butterfly's transformation, and the raw power of a storm."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck hide here: the circle that aims true, the fire that reaches the sky, the jewel that sparkles bright, the jester who plays tricks, the insect that transforms, and the bolt that strikes swift.",
+      "hint": "Think of: a target, a rocket, a gem, a joker, a butterfly, and lightning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      4
+    ]
   }
 }
