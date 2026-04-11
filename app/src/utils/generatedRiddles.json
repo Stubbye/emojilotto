@@ -9106,5 +9106,23 @@
       4,
       17
     ]
+  },
+  "emlo_171": {
+    "hardRiddle": {
+      "text": "I launch dreams to infinity, my gems sparkle with electric energy, guarded by a sly creature under the moon's glow, while fire dances and fortune spins wildly.",
+      "hint": "Think of a memecoin journey: blast-off, precious value, cunning nature, celestial destiny, passion, and chance."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, 🦊 is clever, 🌙 lights the way, 🔥 burns hot, 🎲 rolls the dice.",
+      "hint": "A rocket, a gem, a fox, the moon, fire, and dice - the perfect memecoin adventure!"
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      3,
+      5,
+      11
+    ]
   }
 }
