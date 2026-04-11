@@ -9466,5 +9466,23 @@
       16,
       8
     ]
+  },
+  "sol_427": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets ascending fire, fortune's twin flames dance. Through prism-shattered light, the jester's grin emerges from shadow's chrysalis. In chaos born from numbered bones, the dragon's glittering breath ignites destiny's stage. Six souls converge where luck is scripted and chaos is crowned.",
+      "hint": "Look for symbols of aim, ascent, fortune's dual nature, transformation, chance, and mythical power within theatrical splendor."
+    },
+    "easyRiddle": {
+      "text": "I seek the archer's mark, the upward flame, the sparkling gem, the shape-shifting fool, the creature of ancient tales, and the scattered fortunes of chance.",
+      "hint": "Find: something you aim at, something that rises, something shiny, something silly, something legendary, and something random."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      11,
+      13,
+      18
+    ]
   }
 }
