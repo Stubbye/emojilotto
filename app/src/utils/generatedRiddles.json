@@ -9430,5 +9430,23 @@
       13,
       20
     ]
+  },
+  "sol_425": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, the jester's twin masks dance with scaled desire. A four-leafed whisper eclipses the gem, while wings of metamorphosis mirror the stem. In painted silence, the thunder grins—count six where destiny spins and begins.",
+      "hint": "Look for the archer's aim, the trickster's face doubled, a dragon's ancient wisdom, luck's symbol, transformation's grace, and the artist's palette where colors race."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in a game most grand: a target's mark, a joker's hand, a dragon's might, a clover's luck, a butterfly's dance, and colors' touch.",
+      "hint": "Think of games of chance, playing cards, mythical beasts, natural symbols, and the spectrum of light."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      19,
+      8,
+      22
+    ]
   }
 }
