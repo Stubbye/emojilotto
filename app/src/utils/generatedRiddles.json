@@ -9520,5 +9520,23 @@
       5,
       10
     ]
+  },
+  "sol_429": {
+    "hardRiddle": {
+      "text": "Where fortune's wings meet celestial flame, a jester's grin dances with nature's acclaim. Six secrets hide: the archer's distant eye, a serpent of scales beneath starlit sky, petals that bloom in the void's embrace, while laughter rings from a thousand-faced place. Lightning splits the prism of chance, and masked performers eternally dance.",
+      "hint": "Look for the symbol of aims, mythical serpent, celestial bodies, blooming life, performance secrets, and nature's electric spectacle."
+    },
+    "easyRiddle": {
+      "text": "Six treasures await in this poetic game: a bull's-eye, a winged beast from ancient fame, a flower so pure, the joker's wild jest, a star burning bright, and lightning's quest.",
+      "hint": "One target, one mythical creature, one bloom, one trickster, one glowing celestial body, and one electric force."
+    },
+    "answer": [
+      0,
+      13,
+      15,
+      4,
+      21,
+      5
+    ]
   }
 }
