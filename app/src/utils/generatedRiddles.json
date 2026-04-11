@@ -9250,5 +9250,23 @@
       2,
       5
     ]
+  },
+  "sol_417": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers weave their fate. The crystal-bearer ascends through flame, while masked jesters pirouette with fortune's name. Lightning's twin ignites the cosmic stage, and scaled majesty turns fortune's page.",
+      "hint": "Think of targets, gems, and mythical beings that dance between sky and stage, with masks and electricity."
+    },
+    "easyRiddle": {
+      "text": "I am a mark to strike, a stone that gleams, a fire that burns in lucky dreams. A dragon coils, a masked fool plays, while electricity lights the winning ways.",
+      "hint": "One is what you aim at, one shines bright, one is mythical, one wears a disguise, one crackles with energy."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      13,
+      4,
+      19
+    ]
   }
 }
