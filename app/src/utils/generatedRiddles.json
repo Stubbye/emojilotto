@@ -9142,5 +9142,23 @@
       5,
       10
     ]
+  },
+  "sol_411": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's wheel, six tokens of fate intertwine: the archer's destination meets swift ascension, while prismatic brilliance crowns the jester's masquerade. Beneath twin flames of chaos and grace, a scaled guardian coils around the gemstone's luminescence, and where strings sing to the heavens, fortune's shimmer cascades eternal.",
+      "hint": "Seek the intersection of games, speed, performance, mystery, power, and artistry—all kissed by starlight."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: aim true with the first, fly high with the second, sparkle with the third, play the game with the fourth, roar with the fifth, and make music with the sixth.",
+      "hint": "Target, Rocket, Sparkles, Dice, Dragon, Guitar"
+    },
+    "answer": [
+      0,
+      1,
+      10,
+      11,
+      13,
+      16
+    ]
   }
 }
