@@ -9376,5 +9376,41 @@
       8,
       20
     ]
+  },
+  "sol_423": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate converge: the winged metamorphosis ascends through prismatic arcs as thunder's children dance with amber tongues, while gemstone tears crystallize beneath the moon's eternal gaze, and destiny's fool grins through the masquerade of chance.",
+      "hint": "One transforms, one illuminates the sky, one burns, one sparkles with light, one hides truth, one grants wishes"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await: a butterfly rises, lightning strikes, fire glows, a gem shines, the moon watches, and the joker laughs. Which six bring fortune to those who dare?",
+      "hint": "Look for transformation, power, heat, treasure, night, and trickery"
+    },
+    "answer": [
+      8,
+      5,
+      6,
+      2,
+      3,
+      19
+    ]
+  },
+  "emlo_174": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkle with precious allure, ignite passion like wildfire, and dance through rainbows of fortune. A circus of chance where the joker reveals fortune's secret path to triumph.",
+      "hint": "Six symbols of crypto glory: ascension, brilliance, fury, spectrum, laughter, and victory"
+    },
+    "easyRiddle": {
+      "text": "🚀 takes you up, 💎 shines bright, 🔥 burns hot, 🌈 shows colors, 🃏 plays tricks, 🏆 wins games",
+      "hint": "Think: rocket up, gem sparkle, fire power, rainbow luck, joker chaos, trophy win"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      9,
+      19,
+      18
+    ]
   }
 }
