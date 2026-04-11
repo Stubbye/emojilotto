@@ -9268,5 +9268,41 @@
       4,
       19
     ]
+  },
+  "sol_418": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls through the void. The jester's grin masks the serpent's ancient wisdom, while the prism shatters into a thousand gleaming fragments. Through chaos blooms the regal bloom, and luck's green guardian whispers secrets to the stars.",
+      "hint": "Six harbingers of destiny: one hunts, one ascends, one deceives, one coils, one fractures light, one blesses."
+    },
+    "easyRiddle": {
+      "text": "I am the arrow that never misses, the flame that touches heaven, the laughter of chance, the wisdom of serpents, the light that breaks apart, and the fortune that follows me everywhere.",
+      "hint": "Think of luck, fate, magic, and precision. Six symbols of games and destiny."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      12,
+      20,
+      19
+    ]
+  },
+  "emlo_173": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's light. My gems ignite the journey where lightning strikes and fire ignites. What six symbols mark the memecoin's flight?",
+      "hint": "Think of the journey: starting point, direction, treasure, destination, speed, and energy."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up with speed and shine. It finds a shiny treasure. It reaches the top. It sparkles bright. What six things happen in this memecoin story?",
+      "hint": "Launch, climb, sparkle, treasure, destination, and brightness."
+    },
+    "answer": [
+      1,
+      6,
+      5,
+      3,
+      21,
+      9
+    ]
   }
 }
