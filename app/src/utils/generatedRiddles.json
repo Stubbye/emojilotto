@@ -9160,5 +9160,23 @@
       13,
       16
     ]
+  },
+  "sol_412": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, a winged soul dances through celestial light. The jester's twin glimmers in crystalline dream, while thunder's bright kiss meets the dragon's gleam. Upon the stage where masks conceal the real, the clover whispers what the fates reveal.",
+      "hint": "Six entities converge: one aims true, one ascends, one sparkles with secrets, one wears many faces, one commands the stage, one brings luck"
+    },
+    "easyRiddle": {
+      "text": "I point the way, I touch the stars, I glimmer bright, I hide and spark. A masked performer, a lucky charm, and lightning's power complete the charm.",
+      "hint": "Target, rocket, crystal, joker, dragon, clover"
+    },
+    "answer": [
+      "target",
+      "rocket",
+      "crystal",
+      "joker",
+      "dragon",
+      "clover"
+    ]
   }
 }
