@@ -9448,5 +9448,23 @@
       8,
       22
     ]
+  },
+  "sol_426": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six guardians of fate conspire. The winged creature of cunning courts the scaled behemoth of dreams, while the circle of aims blazes eternal. Prismatic tears fall upon the jester's domain, and the luminous veil crowns all who seek the hidden harmony of sound and victory's eternal glow.",
+      "hint": "Consider what flies freely, what hoards treasure, what marks targets, and what celebrates fortune. Where music meets triumph, all is revealed."
+    },
+    "easyRiddle": {
+      "text": "Six friends gather for the celebration: one breathes flame, one glows from afar, one shimmers with magic, one laughs at all, one plays sweet melodies, and one soars on gossamer wings.",
+      "hint": "Think of fire, the moon, sparkles, the joker, a guitar, and a butterfly."
+    },
+    "answer": [
+      5,
+      18,
+      0,
+      1,
+      16,
+      8
+    ]
   }
 }
