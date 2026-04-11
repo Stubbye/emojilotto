@@ -9322,5 +9322,23 @@
       8,
       4
     ]
+  },
+  "sol_420": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a prism splits the dancer's ancient pent. The jester's grin reflects in crystalline dreams, while serpent scales ignite in electric streams. Six secrets hide in chaos and in grace—seek the center, the heights, the mirrored face.",
+      "hint": "Think of opposites: aim and distance, skill and chance, light and shadow, transformation and power."
+    },
+    "easyRiddle": {
+      "text": "One aims straight, one flies up high, one shines bright like morning's eye. One reflects all colors true, one dances wild, and one breaks through.",
+      "hint": "Focus on: precision, journey, brilliance, reflection, grace, and power."
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      22,
+      14,
+      5
+    ]
   }
 }
