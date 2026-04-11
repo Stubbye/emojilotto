@@ -9484,5 +9484,41 @@
       13,
       18
     ]
+  },
+  "sol_428": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols blend in chance. The archer's mark pierces through night's pearl, while lightning's twin ignites the swirling twirl. Gemstones catch the radiance of the jester's masked desire, as the winged deceiver courts the flame in spiraling gyre.",
+      "hint": "One pierces, one shines above, one gleams, one laughs, one deceives, one burns bright."
+    },
+    "easyRiddle": {
+      "text": "I am an archer's circle. I am the night's orb. I am precious and hard. I am electricity's flash. I am transformation's wings. I am the riddler's face.",
+      "hint": "Think of: targets, the sky at night, treasures, storms, insects, and performers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      19
+    ]
+  },
+  "emlo_175": {
+    "hardRiddle": {
+      "text": "I launch dreams to heights unknown, sparkle with fortune's glow. Lightning strikes my lucky path, while fire fuels the show. A gem of chance that dances wild, beneath the watchful moon I'm styled. What six celestial tokens guide the memecoin fool's gold trail?",
+      "hint": "Think of the journey: launch, luck, speed, wealth, destiny, and night sky"
+    },
+    "easyRiddle": {
+      "text": "Blast off with a 🚀, strike quick like ⚡, shine bright like a 💎, reach the 🌙, catch the 🔥, and find your lucky ✨!",
+      "hint": "These six symbols represent your rocket ride to memecoin riches"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      10
+    ]
   }
 }
