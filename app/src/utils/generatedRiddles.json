@@ -9214,5 +9214,23 @@
       2,
       11
     ]
+  },
+  "sol_414": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six mystical tokens converge in trance. The winged messenger of metamorphosis soars through prismatic arc toward the crowned victor's throne, while ancient luck blooms beneath stellar brilliance and crystalline depths whisper secrets of the masked trickster's gambit.",
+      "hint": "One transforms, one illuminates paths, one crowns achievement, one blooms fortune, one reflects truth, one deceives perception."
+    },
+    "easyRiddle": {
+      "text": "Find the butterfly that flies through rainbows toward the trophy, where a star shines on a four-leaf clover and the crystal reveals the joker's game.",
+      "hint": "Look for wings, colors, victory, luck, purity, and deception."
+    },
+    "answer": [
+      8,
+      9,
+      18,
+      20,
+      21,
+      19
+    ]
   }
 }
