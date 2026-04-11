@@ -9088,5 +9088,23 @@
       4,
       7
     ]
+  },
+  "sol_408": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, through crystalline gates of luck's eternal spaces. The winged messenger of transformation ascends past the lunar throne, while electric truth strikes at destiny's stone. Six sacred vessels hold the answer you seek—speak the language of chaos that makes the weak strong, and fortune shall break.",
+      "hint": "Consider what guides fate, what transforms, what illuminates truth, and what chaos commands destiny."
+    },
+    "easyRiddle": {
+      "text": "I am the spark that breaks the night, the masked jester of pure delight, the gem that glows with inner light, the butterfly that takes its flight, the bolt of truth burning bright, and the throne where luck sits right. What six treasures complete this sight?",
+      "hint": "Think of electricity, precious stones, transformation, luck, games of chance, and royalty."
+    },
+    "answer": [
+      5,
+      7,
+      21,
+      8,
+      4,
+      17
+    ]
   }
 }
