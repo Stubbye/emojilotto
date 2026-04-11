@@ -9358,5 +9358,23 @@
       20,
       21
     ]
+  },
+  "sol_422": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in shadows' claim. The jester's twin gleams with fortune's spark, while scaled thunder breathes in heaven's dark. Wings of metamorphosis kiss the prism's arc, and earth's own luck glows in fortune's mark.",
+      "hint": "One aims at destiny, one rules the night, one laughs at fate, one strikes with might, one transforms beauty, one brings fortune's light."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this mystical game: an archer's goal, a fool's jest, night's guardian, nature's flight, sky's electric might, and luck's sacred sight. What are they?",
+      "hint": "Think of: direction, deception, darkness, change, electricity, and chance."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      6,
+      8,
+      20
+    ]
   }
 }
