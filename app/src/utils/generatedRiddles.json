@@ -9412,5 +9412,23 @@
       19,
       18
     ]
+  },
+  "sol_424": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jester's twin dances with scaled majesty. The stone of brilliance catches lightning's kiss while petals bloom in chromatic arcs. Six keepers of destiny align when chaos and order waltz through the veil between worlds.",
+      "hint": "Think of luck's symbols, celestial bodies, mythical creatures, and nature's spectrum. One brings joy through performance, one through precious worth."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's guardian, the wise trickster, the electric storm, the legendary beast, and the stone that shines brightest.",
+      "hint": "One is a target, one is a joker, one is a dragon, one is lightning, one is a gem, one watches from above at night."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      4,
+      13,
+      20
+    ]
   }
 }
