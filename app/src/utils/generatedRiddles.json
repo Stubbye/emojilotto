@@ -9340,5 +9340,23 @@
       14,
       5
     ]
+  },
+  "sol_421": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's game, six dancers waltz through fortune's frame. The archer's mark in heavens burns, while scaled majesty coils and turns. Winged grace spirals through the night, as crystalline truth refracts the light. What fortune's children seek in dreams, lies scattered in the cosmic streams.",
+      "hint": "Think of celestial symbols, mythical beasts, and the transformation between earthly and divine."
+    },
+    "easyRiddle": {
+      "text": "I contain a target of luck, a dragon of power, a rocket to the stars, a butterfly of change, a crystal of clarity, and a star of destiny. What am I?",
+      "hint": "Look for six symbols that represent chance, strength, aspiration, transformation, purity, and hope."
+    },
+    "answer": [
+      0,
+      13,
+      1,
+      8,
+      20,
+      21
+    ]
   }
 }
