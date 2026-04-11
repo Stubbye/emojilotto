@@ -9178,5 +9178,41 @@
       "dragon",
       "clover"
     ]
+  },
+  "sol_413": {
+    "hardRiddle": {
+      "text": "Where fortune's flame dances with celestial pearls, the jester's twin masks witness the archer's silent call. Through prismatic waves, the scaled serpent coils beneath the crown of eternal night, while fortune's dice spin in the garden's fleeting whisper.",
+      "hint": "One burns, one glows, one laughs, one aims, one shimmers, one crawls"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: a fiery burn, a night-time glow, a performer's grin, a pointed shot, a crystal shine, and a beast that coils.",
+      "hint": "Fire, moon, joker, target, sparkles, dragon"
+    },
+    "answer": [
+      6,
+      3,
+      19,
+      0,
+      10,
+      13
+    ]
+  },
+  "emlo_172": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking gems that sparkle like fortune itself. When luck strikes with the precision of a joker's wit, I ascend beyond the moon where fire dances with lightning, and only the most dazzling treasures remain.",
+      "hint": "Think of a memecoin's journey: launch velocity, prize acquisition, and astronomical ambitions"
+    },
+    "easyRiddle": {
+      "text": "A speedy voyage to riches: first comes thrust and speed, then shining rewards, bright sparks, joy, precious stones, and reaching the top of the sky",
+      "hint": "Six things that represent a moonshot crypto journey"
+    },
+    "answer": [
+      1,
+      22,
+      10,
+      3,
+      2,
+      11
+    ]
   }
 }
