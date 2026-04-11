@@ -9124,5 +9124,23 @@
       5,
       11
     ]
+  },
+  "sol_410": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six guardians dance in prismatic desire. The jester's twin spirals through heaven's embrace, while the scaled leviathan guards fortune's secret place. A tempest of brilliance and one who takes flight, converge where the crimson phoenix ignites.",
+      "hint": "Seek the circle of aim, the heights of ascent, the jest without crown, the serpent's descent, the flash of the storm, and the wings catching light."
+    },
+    "easyRiddle": {
+      "text": "I hold six treasures: one that points true, one that climbs high, one that's foolish and sly, one that sleeps above, one that strikes with might, and one that glows bright through the night.",
+      "hint": "Think of: aiming, flying up, playing tricks, nighttime, electricity, and shining magic."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      3,
+      5,
+      10
+    ]
   }
 }
