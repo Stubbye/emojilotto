@@ -9610,5 +9610,23 @@
       8,
       2
     ]
+  },
+  "sol_433": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in shadow's game. The mystic stone gleams in night's domain, while wings of metamorphosis break all chains. Thunder's kiss ignites the spectral stage, and masked performers turn the gilded page. Luck spirals where the heavens weep, in riddles old that secrets keep.",
+      "hint": "One marks the goal, one rises high, one burns with pride, one rules the sky, one transforms grace, one hides the face."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide where fortune dwells: a target true, a rocket's bells, a gem that shines in midnight's crown, a lightning bolt that strikes you down, a fire bright that consumes all fear, and masks that dance when jesters near.",
+      "hint": "Think of targets, space, jewels, storms, heat, and theater."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      19
+    ]
   }
 }
