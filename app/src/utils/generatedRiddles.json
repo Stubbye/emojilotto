@@ -9772,5 +9772,23 @@
       0,
       20
     ]
+  },
+  "sol_441": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, a gemstone catches lightning's gleam. The jester's stage swirls with spectral grace, as fortune spins through fortune's face. Beneath the moon's crystalline crown, a butterfly performs without sound. Six dancers in the lottery's sacred space—which masks hide destiny's true face?",
+      "hint": "Consider what glitters, what performs, what burns, and what chance reveals. The answer dwells in realms both mystical and mechanical."
+    },
+    "easyRiddle": {
+      "text": "Look for something that shines bright, something that moves through night, something that spins for luck, something magical, something that flies, and something that guides your eyes. Six symbols of fortune combined.",
+      "hint": "Think of sparkle, movement, games, magic, nature, and light."
+    },
+    "answer": [
+      4,
+      1,
+      12,
+      21,
+      8,
+      11
+    ]
   }
 }
