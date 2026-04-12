@@ -9556,5 +9556,41 @@
       8,
       19
     ]
+  },
+  "sol_431": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a radiant prism sleeps in night's cement. Winged metamorphosis dances through the arc of storms that birth the celestial spark. The jester's grin conceals the game of chance, where gemstones whisper secrets in their trance.",
+      "hint": "Seek the one who aims, the one who floats, the one who blinds, the one who transforms, the one who laughs, and the one who blinds with brilliance."
+    },
+    "easyRiddle": {
+      "text": "I point the way to wishes made, I soar where dreams are never frayed, I gleam with light both pure and bright, I dance on winds both day and night, I mock with glee the player's fate, I sparkle where all wonders wait.",
+      "hint": "Think of targets, space travel, precious things, nighttime sky, transformation, and fortune's fool."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      20
+    ]
+  },
+  "emlo_176": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, sparkle with value that makes holders bleed. A gemstone fortune under lucky stars, guarded by fortune's joker in mystical bars. What six celestial symbols unite in this crypto memecoin's flight?",
+      "hint": "Think of a coin's journey: propulsion, destination, luck, value, fate, and mischief"
+    },
+    "easyRiddle": {
+      "text": "A coin goes up fast with lightning power, reaches the moon in fortune's hour. Gems shine bright, luck appears twice, and a trickster laughs at the cosmic price. Name the six emojis of this memecoin spree!",
+      "hint": "Speed up, destination, valuable rocks, good fortune, and a joking figure"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      22,
+      4,
+      19
+    ]
   }
 }
