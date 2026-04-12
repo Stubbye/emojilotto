@@ -9718,5 +9718,23 @@
       20,
       21
     ]
+  },
+  "sol_438": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's veiled twin, six whispers converge: the archer's eternal mark, the chariot of ambition piercing void's thin membrane, the crystallized tears of starlight, the moon's pale sentinel watching over chaos, and the serpent of transformation coiled in the depths of mystery.",
+      "hint": "One seeks direction, one defies gravity, one holds compressed eternity, one illuminates darkness, one commands the sky's fury, and one shapeshifts through legend."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols: aim straight with precision, soar through the heavens with speed, treasure gleams bright and pure, night's glowing guardian, electricity splits the sky, and an ancient serpent breathes smoke.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Dragon - these six shall be your fortune."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
