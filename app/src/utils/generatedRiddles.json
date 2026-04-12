@@ -9880,5 +9880,23 @@
       4,
       8
     ]
+  },
+  "sol_447": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers dwell in chance. The archer's mark commands the void, while prismatic twins decry the void. The winged deceiver wears two faces, and serpent's golden might erases traces. Lightning splits the jester's crown, as petals bloom where chaos drowns.",
+      "hint": "Seek the marked path, the gem's reflection, the trickster's shadow, the ancient flame, the fool's companion, and what blooms beneath thunder."
+    },
+    "easyRiddle": {
+      "text": "A target glows with gemstone light, a dragon breathes its fiery might. The joker grins with masked delight, while lightning strikes the flower bright. These six hold secrets in the night.",
+      "hint": "Look for: aim, sparkle, scales, laugh, flash, and petals."
+    },
+    "answer": [
+      0,
+      2,
+      14,
+      5,
+      20,
+      15
+    ]
   }
 }
