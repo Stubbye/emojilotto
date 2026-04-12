@@ -9592,5 +9592,23 @@
       4,
       19
     ]
+  },
+  "sol_432": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jester's twin masks dance with the ancient dragon's fire. Seven-pointed brilliance shatters through the prism of a weaver's crimson arc, while the nocturnal orb witnesses all. Six symbols bind the fate of those who seek the emerald truth beyond the mortal veil.",
+      "hint": "One is aim, one is chaos, one is wealth, one watches over night, one burns with heat, one transforms and flies"
+    },
+    "easyRiddle": {
+      "text": "A target marks the start of luck, a dragon guards the ancient way, fire lights the seeker's path, the moon watches from above, a butterfly transforms your fate, and gems sparkle as the prize.",
+      "hint": "Think of what guides you, what protects treasure, what burns bright, what lights the night sky, what changes, and what you seek"
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      3,
+      8,
+      2
+    ]
   }
 }
