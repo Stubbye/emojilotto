@@ -9916,5 +9916,41 @@
       19,
       8
     ]
+  },
+  "sol_449": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins in celestial throne, six spirits dance between the mortal and stone. The archer's mark gleams in twilight's embrace, while thunder's twin ignites the void's dark space. Winged metamorphosis pirouettes through prismatic tears, and ancient scaled wisdom guards what all seekers revere.",
+      "hint": "One marks the goal, one breaks the chains, one reflects light, one commands the skies, one transforms in beauty, one embodies time itself."
+    },
+    "easyRiddle": {
+      "text": "Find the target's center, the lightning's strike, the gem's sparkle, the moon's glow, the butterfly's dance, and the dragon's ancient eyes.",
+      "hint": "Think of aim, electricity, jewels, night sky, transformation, and legendary creatures."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      8,
+      14
+    ]
+  },
+  "emlo_180": {
+    "hardRiddle": {
+      "text": "A jester's fortune gleams with celestial fire, where lightning strikes the gem of desire. Witness the butterfly's cosmic dance beneath the rocket's fiery trance. What six tokens shimmer in this memecoin's embrace?",
+      "hint": "Think of a wild ride to wealth with magical transformations and electric energy."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we fly with ⚡ speed, through 🔥 and ✨ to plant our seed. The 💎 shines bright as we seek our 🦋 prize. What six lucky symbols make us rich and wise?",
+      "hint": "Combine moon journey, energy, heat, sparkle, treasure, and transformation."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      9,
+      2,
+      8
+    ]
   }
 }
