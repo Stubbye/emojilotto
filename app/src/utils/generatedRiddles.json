@@ -9700,5 +9700,23 @@
       9,
       8
     ]
+  },
+  "sol_437": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin serpents dance through storms of luminescence—seek the verdant omen that blooms betwixt the prism's arc and the stage where masks reveal what cards conceal. The winged wanderer alights upon crystalline geometry, whilst chaos reigns through hexagonal fate.",
+      "hint": "One pierces, one soars high, one glimmers in sky, one grows, one hides truth, one decides by chance"
+    },
+    "easyRiddle": {
+      "text": "A pointed aim, a fiery path upward, a shining stone, a night guardian, a lucky green charm, and dancing lights in the night sky—what six shimmer in fortune's game?",
+      "hint": "Think of targets, flight, gems, night, luck, and magical glow"
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      2,
+      20,
+      21
+    ]
   }
 }
