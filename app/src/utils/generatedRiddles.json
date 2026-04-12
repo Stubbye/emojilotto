@@ -9538,5 +9538,23 @@
       21,
       5
     ]
+  },
+  "sol_430": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps upon the prism'd stage, a fortune-spinner's twin ascends through fortune's cage. The jeweled serpent coils 'neath Luna's ghostly gaze, while winged metamorphosis dances through the blaze. Six secrets hide where chaos wears its mask of glee, and destiny's cruel jester holds the key.",
+      "hint": "Think of night sky magic, transformation, luck's instruments, and theatrical fortune—one burns, one soars, one gleams, one cycles through darkness, one shifts its form, one grins with cosmic jest."
+    },
+    "easyRiddle": {
+      "text": "I light the path upward, I shimmer with ancient wealth, I reign in darkness above, I spin the games of chance, I morph and drift through air, and I am the joker's eternal smile in the cosmic carnival.",
+      "hint": "One rises, one sparkles, one watches from sky, one tumbles, one flutters, one laughs madly."
+    },
+    "answer": [
+      1,
+      4,
+      3,
+      11,
+      8,
+      19
+    ]
   }
 }
