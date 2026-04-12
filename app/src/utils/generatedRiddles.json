@@ -9754,5 +9754,23 @@
       5,
       11
     ]
+  },
+  "sol_440": {
+    "hardRiddle": {
+      "text": "Where fortune's jester spins beneath the celestial guardian, a prism of chaos meets the serpent's ancient flame. The winged wanderer courts the archer's mark through storms of crystalline brilliance, while mirth's grand stage whispers secrets in violet reverie.",
+      "hint": "One rules chance, one commands the stage, one flies between worlds, one burns eternal, one pierces sky, one refracts all light."
+    },
+    "easyRiddle": {
+      "text": "A masked performer deals in fate's wheel, a mythical beast breathes heat, lightning splits the heavens, a butterfly dances free, a target waits for aim, and crystal catches all colors of wonder.",
+      "hint": "Six lottery symbols: chaos keeper, ancient dragon, sky's arrow, fluttering grace, bullseye, and the gem that holds rainbows."
+    },
+    "answer": [
+      12,
+      13,
+      4,
+      8,
+      0,
+      20
+    ]
   }
 }
