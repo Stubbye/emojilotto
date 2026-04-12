@@ -9808,5 +9808,41 @@
       8,
       16
     ]
+  },
+  "sol_444": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, a gemstone gleams beneath lightning's fierce tear. The butterfly dances through fire's crimson veil, while the fox's cunning makes destiny pale. Six secrets entwined in chaos and grace, painted upon fortune's mercurial face.",
+      "hint": "Think of elements that guide fate—aim, sky, wealth, electricity, transformation, and wit."
+    },
+    "easyRiddle": {
+      "text": "Find the prize-seeker's arrow, the night's guardian orb, the jewel that sparkles, the bolt that disturbs, the creature that transforms, and the clever deceiver.",
+      "hint": "One aims, one shines above, one glimmers, one strikes, one flies with wings, one schemes in shadows."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      8,
+      13
+    ]
+  },
+  "emlo_179": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, burning bright as gems sparkle in fortune's game. Where jokers dance with fortune under lucky skies, a dragon's fire meets the butterfly's lucky charm.",
+      "hint": "Think of a memecoin's journey: speed, luck, and astronomical ambitions"
+    },
+    "easyRiddle": {
+      "text": "A coin goes 🚀 to the 🌙, lightning fast with 🔥, lucky like a 🍀, shiny as a 💎, and spinning like a 🎪.",
+      "hint": "Count the emojis: rocket, moon, fire, clover, gem, circus"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      19,
+      2,
+      6
+    ]
   }
 }
