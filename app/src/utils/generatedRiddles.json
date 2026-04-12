@@ -9844,5 +9844,23 @@
       2,
       6
     ]
+  },
+  "sol_445": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels guard the threshold between worlds. The archer's mark gleams with inner light, while wings of transformation spiral through cosmic dust. A dragon's ancient wisdom coils beneath the player's gambit, as lightning splits the veil between the staged and the infinite. Jeweled radiance crowns the symphony of chance.",
+      "hint": "Look for: aim, flight, wealth, chaos, mythic power, and radiant triumph"
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hold the key: one you shoot at, one that flies high, one that sparkles and shines, one that crackles and strikes, one that transforms with wings, and one legendary beast of old.",
+      "hint": "Target, rocket, gem, lightning, butterfly, dragon"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      13,
+      5
+    ]
   }
 }
