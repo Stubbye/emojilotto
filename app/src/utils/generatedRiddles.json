@@ -9790,5 +9790,23 @@
       8,
       11
     ]
+  },
+  "sol_442": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets earthbound fortune's dance, six sentinels converge in fate's strange trance. The archer's mark where brilliance takes its flight, a serpent coils beneath the stolen night. Twin instruments of chance and melody entwine, while nature's twin-winged metamorphosis divine aligns with fortune's glittering design.",
+      "hint": "Consider what gleams, what burns, what soars, what transforms, what gambles, and what sings."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this lottery's call: a target waits, a dragon sprawls, a gem that gleams, a dragon's fire burns bright, a butterfly spreads wings in flight, and a guitar plays through the night.",
+      "hint": "Look for: aim, scales, sparkle, heat, metamorphosis, and sound."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      5,
+      8,
+      16
+    ]
   }
 }
