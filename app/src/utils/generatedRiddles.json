@@ -9898,5 +9898,23 @@
       20,
       15
     ]
+  },
+  "sol_448": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny await. The archer's mark gleams with prismatic soul, while chaos whispers through electric veins. A nocturnal guardian ascends to touch the luminous sentinel, as nature's delicate messenger spirals through the shattered spectrum of possibility. In this theatre of chance, the joker grins at those who seek what glimmers beyond the veil.",
+      "hint": "Seek the marksman's prize, the storm's voice, night's queen, the gemstone's heart, the fool's grin, and metamorphosis made wings."
+    },
+    "easyRiddle": {
+      "text": "One shines at night, one strikes with fury, one holds great worth, one hits the mark, one laughs at fate, and one transforms in flight. Six pieces of fortune in a cosmic dance.",
+      "hint": "Moon, lightning, gem, target, joker, butterfly"
+    },
+    "answer": [
+      3,
+      4,
+      1,
+      2,
+      19,
+      8
+    ]
   }
 }
