@@ -9664,5 +9664,23 @@
       14,
       5
     ]
+  },
+  "sol_435": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a prism weeps its fractured light. The jester's twin dances with the serpent's ancient flame, while petals drift through stages of celestial reverie. Six truths hide in shadow's riddle—seek the mark of destiny, the messenger of heights, the crystallized dream, the lunatic's companion, the wyrm of old, and the bloom that withers into night.",
+      "hint": "One marks your aim, one climbs the sky, one glimmers hard, one laughs at logic, one coils with fire, one blooms and dies."
+    },
+    "easyRiddle": {
+      "text": "I am six: the hunter's mark, the ship of stars, the stone that gleams, the fool who grins, the beast of scales, and the growing thing. What am I?",
+      "hint": "Look for a target, something that flies up high, something shiny and hard, something silly, something mythical, and something that grows."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      14,
+      15
+    ]
   }
 }
