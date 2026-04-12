@@ -9682,5 +9682,23 @@
       14,
       15
     ]
+  },
+  "sol_436": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver's thread, six dancers of fate pirouette through shadow and brilliance. The jester's laugh echoes as scales of chance tumble, while the winged metamorphosis spirals through prisms of every hue. Seek the beast of ancient dreams where thunder courts the inferno, and crystalline shards catch the gaze of destiny's eternal sentinel.",
+      "hint": "Think of games of chance, transformation, luck symbols, and the celestial stage upon which destinies are written."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols await discovery: one marks your aim with precision, one glitters with precious light, one crowns the victorious, one brings fortune's wheel to spin, one paints the sky's grand arc, and one dances on silver wings beneath the cosmic glow.",
+      "hint": "Look for: a target, a gem, a trophy, dice, a rainbow, and the moon."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      3,
+      9,
+      8
+    ]
   }
 }
