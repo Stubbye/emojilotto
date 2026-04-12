@@ -9862,5 +9862,23 @@
       13,
       5
     ]
+  },
+  "sol_446": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, the masked jester spins beneath the crescent's veil. Six whispers float through fortune's gale: the archer's mark seeks what glimmers in the night, a winged creature flutters where chaos meets delight, and petals bloom where lightning once did bite.",
+      "hint": "Look to the heavens and the trickster's domain; one brings luck, one brings light, one brings refrain."
+    },
+    "easyRiddle": {
+      "text": "I contain six secrets of luck: a target's aim, a rocket's flight, a gem that shines, the moon's soft light, lightning's strike, and a butterfly's might.",
+      "hint": "Count the objects named: one shoots, one glows, one flies, one burns bright, one sits in sky, one sparkles in sight."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
