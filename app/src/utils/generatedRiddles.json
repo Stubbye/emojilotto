@@ -9628,5 +9628,41 @@
       7,
       19
     ]
+  },
+  "sol_434": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends on lightning's tongue to kiss the celestial pearl. Below, the jester's mask grins eternal while gemstones weep prismatic tears—six pieces of fate dance in the cosmic theatre, yet only those who read the fox's cunning shall unlock destiny's embrace.",
+      "hint": "Seek the hunter, the mythical climber, the night's sphere, the trickster, the precious stone, and the electric breath—all converge where masks and wit collide."
+    },
+    "easyRiddle": {
+      "text": "I point to fortune, I soar through space, a dragon climbs while lightning leaves a trace. A precious gem gleams, the moon shines bright, a joker laughs—which six take flight?",
+      "hint": "One shoots straight, one is magical and flying, one is round in sky, one is foolish fun, one sparkles hard, and one is electric."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      11,
+      2,
+      4
+    ]
+  },
+  "emlo_177": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with lightning speed, my gems sparkle as I rocket through the fire of speculation, guided by fortune's clover and the dragon's treasure map. What six symbols mark this moonbound journey?",
+      "hint": "Think of a memecoin holder's ultimate dream: speed, wealth, luck, power, destination, and riches."
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly with rocket power! Lightning fast gains make diamonds shine. A lucky clover and fierce dragon protect our treasure. What are these six signs of crypto glory?",
+      "hint": "One goes to space, one is electricity, one is precious, one is lucky, one is a mythical beast, one sparkles with riches."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      18,
+      14,
+      5
+    ]
   }
 }
