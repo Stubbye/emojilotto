@@ -10060,5 +10060,23 @@
       15,
       14
     ]
+  },
+  "sol_454": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a jester's grin dances with scales of desire. Through prisms fractured, the winged soul takes flight, while thunder's kiss binds the rhythm of night.",
+      "hint": "One brings luck, one spins fate, one illuminates paths, one strikes swift, one transforms, one laughs in masks."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: a pointed aim, a spiraling flame, a laughing trickster, frozen light, a fluttering soul, and the sound of strings.",
+      "hint": "Think of games, magic, music, nature, and mischief combined."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      18,
+      8,
+      16
+    ]
   }
 }
