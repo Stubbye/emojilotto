@@ -10006,5 +10006,23 @@
       11,
       12
     ]
+  },
+  "sol_452": {
+    "hardRiddle": {
+      "text": "Where celestial fire weaves through crystalline dreams, a masked jester dances upon fortune's gem. The winged creature spirals through waves of fortune, while the archer's mark glows beneath the vault of night. What six treasures align when chaos and brilliance converge?",
+      "hint": "One seeks targets in the sky, one reflects light in depths, one wears a thousand faces, one transforms and ascends, one carries fortune's weight, one lights the eternal stage."
+    },
+    "easyRiddle": {
+      "text": "Find the shining stone, the night's great orb, the laughing trickster, the bolt from above, the aimed circle, and the fluttering soul ascending.",
+      "hint": "Look for: precious mineral, lunar body, fool's card, electric strike, bullseye symbol, and metamorphosis insect."
+    },
+    "answer": [
+      1,
+      3,
+      19,
+      4,
+      0,
+      8
+    ]
   }
 }
