@@ -9970,5 +9970,41 @@
       20,
       9
     ]
+  },
+  "sol_451": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six sentinels guard the threshold between worlds. The winged trickster dances with the scaled dreamer, while radiant shards whisper beneath the jester's gaze. Thunder's kiss ignites the prism of fate, and blooming fortune blooms eternal in the vault of wishes.",
+      "hint": "Consider the performers, the mythical, the elemental, and what glimmers with purpose."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that never misses, the beast of fire that soars, the jester's twisted smile, the striped deceiver, the thunder that strikes without sound, and the gem that reflects all light.",
+      "hint": "One aims, one flies, one laughs, one tricks, one strikes, one sparkles."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      13,
+      4,
+      20
+    ]
+  },
+  "emlo_181": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride to celestial heights, where gemstones ignite with electric might. Dance through the spectrum as luck strikes true, guided by fortune's magical brew.",
+      "hint": "Think of a chaotic journey to the moon with precious stones and chance involved."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes with all its might, moon glows far, dice rolls for fun, joker laughs when you've won!",
+      "hint": "Count the emojis mentioned in the riddle text."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      11,
+      12
+    ]
   }
 }
