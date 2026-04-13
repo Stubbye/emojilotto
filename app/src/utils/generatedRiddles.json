@@ -9952,5 +9952,23 @@
       2,
       8
     ]
+  },
+  "sol_450": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's masked reverie spins beneath the archer's eternal gaze. Crystalline promises shatter against the performer's stage, while winged transformation witnesses the spectrum's silent song. Six tokens of destiny converge where laughter meets the infinite.",
+      "hint": "Think of places where chance reigns, spectacle amazes, and the sky holds secrets. One entity laughs, one transforms, one guides aim, one blinds with brilliance, one shelters dreams, and one bridges worlds."
+    },
+    "easyRiddle": {
+      "text": "I am found where entertainment thrives and luck is tested. Six magical things gather here: one points upward with electricity, one wears a silly grin, one glimmers above all, one spins in circles with wings, one shines like a precious stone, and one stretches across the sky in colors. Where do we meet?",
+      "hint": "A place of games, wonder, and rainbows—where the joker laughs and dreams come alive."
+    },
+    "answer": [
+      1,
+      19,
+      21,
+      8,
+      20,
+      9
+    ]
   }
 }
