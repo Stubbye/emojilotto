@@ -10096,5 +10096,41 @@
       13,
       19
     ]
+  },
+  "sol_456": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers converge in twilight's seal. The archer's mark meets serpent's flight, as starlight bathes the jester's night. Purple dreams ignite the stage, while fortune's gem adorns the sage.",
+      "hint": "Seek the confluence of luck, destiny, and theatrical wonder beneath the veil of cosmic fire."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the dragon, the lightning, the joker, the star, and the gem. These six hold the lottery's secret gem.",
+      "hint": "Look for: aim, mythical beast, electricity, fool's grin, celestial point, and precious stone."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      19,
+      21,
+      2
+    ]
+  },
+  "emlo_183": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a gem of fortune that makes holders bleed. With dragon fire and crystal light, I promise riches in the dead of night. The joker's grin says 'moon or bust', but only sparkles reward your trust.",
+      "hint": "Think of a memecoin's wild journey: how it starts, what powers it, what people chase, and the energy it creates."
+    },
+    "easyRiddle": {
+      "text": "To the moon with rocket power! Crystal gems shine bright! Dragon fire and sparkles light the night! What emojis fuel the hype?",
+      "hint": "A memecoin needs speed, value, mystique, power, magic, and excitement."
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      9,
+      14,
+      4
+    ]
   }
 }
