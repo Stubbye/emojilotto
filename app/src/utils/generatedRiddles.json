@@ -10168,5 +10168,41 @@
       20,
       21
     ]
+  },
+  "sol_459": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate align. The crowned jester's twin gleams in twilight's arc, while scaled wisdom guards the spectrum's gate. Swift-winged grace pirouettes through destiny's ring, and stone born of cosmos whispers secrets to those who dare seek the center.",
+      "hint": "Look for: royalty in chaos, reflection in night sky, a prism, an acrobat's domain, ancient treasure, and a winged metamorphosis"
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in riddle's keep: one strikes from above with brilliant might, one shines from heavens far and bright, one glimmers hard as mountain stone, one dances in the nightly throne, one twirls where crowds and wonder meet, one transforms in flight so fleet.",
+      "hint": "Thunder, Moon, Gem, Star, Circus, Butterfly"
+    },
+    "answer": [
+      4,
+      3,
+      2,
+      21,
+      7,
+      8
+    ]
+  },
+  "emlo_184": {
+    "hardRiddle": {
+      "text": "A jester's fortune launcher climbs where riches sparkle bright, through electric storms and dancing flames toward celestial light. When luck strikes like a bolt and gems ignite the night, the clown's wild ride to glory reaches peak delight.",
+      "hint": "Think of a chaotic path to wealth involving chaos, speed, electricity, and precious rewards"
+    },
+    "easyRiddle": {
+      "text": "🎪 jumps on 🚀 powered by ⚡ and 🔥 to find 💎 under the 🌙",
+      "hint": "A silly character uses speed and energy to reach treasure under the night sky"
+    },
+    "answer": [
+      19,
+      1,
+      4,
+      5,
+      2,
+      3
+    ]
   }
 }
