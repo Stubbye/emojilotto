@@ -10240,5 +10240,23 @@
       18,
       13
     ]
+  },
+  "sol_462": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's descent, and crystalline tears dance with celestial fire, the jester's grin blooms eternal beneath the serpent's ancient gaze. Six keepers of destiny spiral through the chromatic veil—one strikes with fury's tongue, one gleams with earth's deepest treasure, one soars on wings of transformation, one crowns the victor's brow, one blooms where silence speaks, and one wheels of chance spin in twilight's theater.",
+      "hint": "Lightning strikes twice, gem catches light, butterfly transforms, trophy stands tall, flower whispers, and masks hide truth in the circus of fate."
+    },
+    "easyRiddle": {
+      "text": "In the lottery's theater of dreams, find the storm's bright lance, the earth's precious heart, the creature of graceful change, the symbol of triumph, the blossom of grace, and the place where players perform their fortunes.",
+      "hint": "Power, wealth, beauty, victory, nature, and showmanship—six qualities in one jackpot."
+    },
+    "answer": [
+      5,
+      2,
+      8,
+      18,
+      15,
+      7
+    ]
   }
 }
