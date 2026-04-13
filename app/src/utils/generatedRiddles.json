@@ -10204,5 +10204,23 @@
       2,
       3
     ]
+  },
+  "sol_460": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound dreams, six sentinels converge. The archer's mark meets the void's messenger, while buried treasures gleam beside lunacy's grin. Between scaled chaos and winged metamorphosis, lightning kisses the inferno's breath. Seek the convergence where chaos, fortune, and transcendence intertwine in twilight's riddle.",
+      "hint": "One aims true, one escapes gravity, one glimmers in darkness, one wears many faces, one guards hidden magic, one defies nature's form"
+    },
+    "easyRiddle": {
+      "text": "I point the way forward, I soar through the sky, I sparkle with value, I grin without reason, I leap through the air with wings, and I burn bright with power. What six signs choose your fate?",
+      "hint": "Think of targets, flight, wealth, trickery, transformation, and heat"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      6
+    ]
   }
 }
