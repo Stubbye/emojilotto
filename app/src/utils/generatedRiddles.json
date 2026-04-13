@@ -10222,5 +10222,23 @@
       8,
       6
     ]
+  },
+  "sol_461": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged messenger carries gems through prismatic arcs. The jester's laughter echoes as lightning strikes the heart of all games, yet in shadows dwells the cunning observer of fate's masquerade.",
+      "hint": "One is the goal, one ignites the soul, one sparkles with worth, one guards the gates of mirth, one flickers with chaos, one watches in stealth."
+    },
+    "easyRiddle": {
+      "text": "I am six: a target to aim for, a dragon of sky that roars with light, a precious stone that gleams, a cosmic guardian above, a trickster in colorful costume, and a clever creature with russet fur.",
+      "hint": "Bull's eye, electricity, wealth, night sky, fool's role, sly animal."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      3,
+      18,
+      13
+    ]
   }
 }
