@@ -10258,5 +10258,41 @@
       15,
       7
     ]
+  },
+  "sol_463": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of destiny convene. The winged metamorphosis dances where earthly flames kiss the heavens, whilst the juggler's eternal stage spins between brilliance and shadow. A jeweled crown adorns the lunar sentinel, and where prismatic arcs bend reality, the messenger of storms crackles with untold secrets.",
+      "hint": "Seek the transformation, the stage of mirth, the gem's throne, the arc of light, and the split-second fury."
+    },
+    "easyRiddle": {
+      "text": "I am the target of dreamers, the fire that burns bright, the butterfly's grace, the circus of wonder, the gem that shines, and the lightning that strikes swift.",
+      "hint": "Count the things you chase, burn, watch flutter, laugh at, treasure, and fear in storms."
+    },
+    "answer": [
+      0,
+      4,
+      8,
+      7,
+      2,
+      5
+    ]
+  },
+  "emlo_185": {
+    "hardRiddle": {
+      "text": "I chase the celestial glow with unstoppable force, my value strikes like nature's fury. Collectors seek my brilliance in the darkness, while fortune's wheel spins near the jester's grin. What six symbols represent this memecoin's wild journey to infinity?",
+      "hint": "Think of explosive growth, precious rewards, cosmic destinations, and chaotic luck combined"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go! With ⚡ speed, seeking 💎 treasures, guarded by 🃏 chance and 🔥 passion. What's the sixth symbol of our memecoin adventure?",
+      "hint": "A celestial path needs one more magical element - something that sparkles and grants wishes"
+    },
+    "answer": [
+      3,
+      5,
+      2,
+      11,
+      18,
+      10
+    ]
   }
 }
