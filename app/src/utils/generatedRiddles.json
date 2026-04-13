@@ -10078,5 +10078,23 @@
       8,
       16
     ]
+  },
+  "sol_455": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny await: the archer's distant mark, the vessel piercing void's veil, the radiance born of pressure's crucible, Luna's pale sentinel, the serpent of old wisdom coiled in stars, and fortune's masked jester spinning threads of fate.",
+      "hint": "Think of targets, ascension, precious transformation, nighttime watchers, ancient mythology, and chance itself."
+    },
+    "easyRiddle": {
+      "text": "Find the bull's center, the ship to the stars, the stone that gleams, the night's guardian, the mythical beast, and the one who laughs at luck.",
+      "hint": "One aims, one flies, one shines from Earth's depths, one lights the night, one guards legends, one plays the game."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      13,
+      19
+    ]
   }
 }
