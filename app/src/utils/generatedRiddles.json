@@ -10132,5 +10132,23 @@
       14,
       4
     ]
+  },
+  "sol_457": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate convene in trance. The winged jester pirouettes through gems that weep starlight, while the scaled ancient guards the threshold between mortal and night. In this chromatic symphony of chance, the archer's mark and the serpent's glance reveal what trembles in the void between being and becoming.",
+      "hint": "One flies on gossamer, one breathes in scales, one marks precision, one guards ancient tales, one burns eternal, one sparkles in dreams."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune dance in the night: a flying friend with rainbow wings so bright, a mighty beast that guards the stars above, a burning soul that shows us passion's love, a shining mark that hits the central heart, and glittering magic that plays its part.",
+      "hint": "Look for: something that flies, something that roars, something that burns, something that guides, something that aims, and something that shines."
+    },
+    "answer": [
+      8,
+      13,
+      5,
+      21,
+      0,
+      10
+    ]
   }
 }
