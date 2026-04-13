@@ -10024,5 +10024,41 @@
       0,
       8
     ]
+  },
+  "sol_453": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, a gemstone gleams in lightning's snare. The phoenix dances with the butterfly's grace, while stellar fire marks this fateful place. Six tokens hide the path between the mortal and divine—seek the marked circle, the stone that burns bright, the winged messenger, the bolt's might, the dancing flame, and the distant light.",
+      "hint": "Look for symbols of precision, wealth, electricity, transformation, passion, and the heavens themselves."
+    },
+    "easyRiddle": {
+      "text": "Find the target's ring, the gem's shine, the lightning's strike, the butterfly's flight, the rocket's flame, and the moon's pale glow. Six marks of destiny in the lottery's show.",
+      "hint": "One is a bullseye, one sparkles, one crackles, one has wings, one launches high, one glows at night."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      5,
+      3
+    ]
+  },
+  "emlo_182": {
+    "hardRiddle": {
+      "text": "A cosmic jester rides lightning through purple skies, chasing gems that sparkle like stars. When the moon aligns with fire, the fox dances with the dragon, and fortune strikes like a bolt. What guides this memecoin journey to the moon?",
+      "hint": "Think of the symbols that represent chaos, speed, wealth, and celestial dreams in crypto culture."
+    },
+    "easyRiddle": {
+      "text": "To the moon we blast with speed! ⚡ Purple dreams and fortune's greed. Gems that shine and luck so wild, Dragon's fire makes profits piled. What six treasures light the way?",
+      "hint": "Look for: something fast, something purple, something shiny, something hot, something lucky, and something mythical."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      6,
+      15,
+      14
+    ]
   }
 }
