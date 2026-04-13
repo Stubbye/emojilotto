@@ -10150,5 +10150,23 @@
       0,
       10
     ]
+  },
+  "sol_458": {
+    "hardRiddle": {
+      "text": "Where fortune's archer aims through cosmic fire, a jester's masquerade descends. The serpent coils beneath the archer's mark, while fortune's glittering tears cascade through heaven's veil. Six threads converge where revelry meets destiny's electric dance.",
+      "hint": "Consider symbols of chance, performance, celestial bodies, and the elements that govern fate itself."
+    },
+    "easyRiddle": {
+      "text": "Find the target where the dragon roars, the joker grins, and lightning strikes. Beneath the stars, gems sparkle in the fire of fortune's wheel.",
+      "hint": "One symbol aims, one laughs, one burns bright, one slithers, one illuminates, and one shines from above."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      13,
+      20,
+      21
+    ]
   }
 }
