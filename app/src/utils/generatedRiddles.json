@@ -10348,5 +10348,23 @@
       12,
       18
     ]
+  },
+  "sol_466": {
+    "hardRiddle": {
+      "text": "Where celestial dancer meets earthbound flame, six secrets dwell in fortune's game. The jester's grin conceals the way, through prism's dance and fortune's play. One strikes from heaven's wrathful throne, while masked performers claim their own. A scaled leviathan guards the prize, beneath the gem that never dies.",
+      "hint": "Think of chaos, masquerade, and what burns between the stars and stage"
+    },
+    "easyRiddle": {
+      "text": "I have a court jester, masks for disguise, lightning from above, fire that flies. A dragon coils near a gem so bright. Six pieces of fate dance in the night.",
+      "hint": "Look for the performer, the storm, the flames, the beast, the jewel, and the light"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      18,
+      6,
+      20
+    ]
   }
 }
