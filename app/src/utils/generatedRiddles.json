@@ -10600,5 +10600,23 @@
       4,
       11
     ]
+  },
+  "sol_477": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the winged messenger ascends through crystalline night. Five-pointed sentinel watches over chaos ordered by chance, while the masked jester's laughter echoes through prisms of fate. Seek ye the six pillars where destiny's arrow pierces the veil between earth and infinity.",
+      "hint": "Consider what rises, what glimmers, what chooses, what performs, what guides, and what never misses."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of luck and wonder: one burns bright in sky, one shimmers with light, one sparkles with magic, one spins with chance, one glows with guidance, and one points true. What am I?",
+      "hint": "Think of luck symbols: fire in heaven, gems that shine, magic sparkles, random chance, night's companion, and targets hit."
+    },
+    "answer": [
+      1,
+      4,
+      10,
+      21,
+      2,
+      0
+    ]
   }
 }
