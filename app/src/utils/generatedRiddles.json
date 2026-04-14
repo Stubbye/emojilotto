@@ -10384,5 +10384,41 @@
       4,
       1
     ]
+  },
+  "sol_468": {
+    "hardRiddle": {
+      "text": "Where celestial fire weaves through prismatic arcs, the jester's twin masks dance with fortune's winged servant. Six symbols hide: the archer's mark where lightning kisses crystal depths, the dragon's golden flame consuming all, the stone of endless light, the crescent throne of night, and chaos bound in numbered bones. Seek the gate where rainbow meets the void.",
+      "hint": "One marks precision, one reveals the trickster's soul, one blazes eternal, one crystallizes dreams, one rules the heavens, one rolls with fate."
+    },
+    "easyRiddle": {
+      "text": "I bring luck with my four leaves, I dance in colored light, I sparkle like a precious stone, I roar with dragon's might, I roll the dice of destiny, and somewhere burns the night.",
+      "hint": "Think of fortune, elements, and magical things that shine or move with power."
+    },
+    "answer": [
+      20,
+      13,
+      6,
+      3,
+      10,
+      21
+    ]
+  },
+  "emlo_187": {
+    "hardRiddle": {
+      "text": "I rise to infinity with electric speed, gemstones sparkle as my flames succeed. A jester's fortune spins under starlight's gleam, while dragon's treasure flows like a rainbow dream.",
+      "hint": "Think of a memecoin's journey to the moon, powered by chaos and community fortune."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, fire burns bright, gems shine with lightning's might. A star guides the way, and a joker brings luck to the crypto fray.",
+      "hint": "Count the symbols of wealth, speed, and entertainment in a moonshot adventure."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      22,
+      4,
+      12
+    ]
   }
 }
