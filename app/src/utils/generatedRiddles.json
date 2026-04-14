@@ -10420,5 +10420,23 @@
       4,
       12
     ]
+  },
+  "sol_469": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone dances with celestial grace. Thunder splits the veil of night, while infernal tongues consume the light. Through metamorphosis of wing, the prism bends what fate shall bring.",
+      "hint": "Seek the symbols of destiny: aim, cosmic dark, treasure, sky's fury, consuming heat, and nature's transformation."
+    },
+    "easyRiddle": {
+      "text": "Six symbols unlock the lottery's dream: a bullseye, a jewel bright, the moon's gleam, lightning's crack, fire's flame, and a butterfly's claim.",
+      "hint": "Think of targets, gems, night skies, storms, heat, and winged insects."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
   }
 }
