@@ -10438,5 +10438,23 @@
       5,
       8
     ]
+  },
+  "sol_470": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six tokens of destiny await the seeker: the archer's mark pierces through night's veil, while the winged messenger carries dreams beyond the firmament. Crystalline tears of earth embrace the ethereal dancer, and the sovereign's gilded crown reflects both chaos and triumph. These six shall reveal what fortune's jester guards within the theatrical hall of infinite possibility.",
+      "hint": "Think of symbols both grounded and transcendent: one aims, one flies, one glimmers naturally, one metamorphoses gracefully, one judges outcomes, and one claims victory."
+    },
+    "easyRiddle": {
+      "text": "I hunt with precision, I soar through the stars, I sparkle like nature's own treasure, I flutter and transform, I roll for your fate, and I wear the crown of champions. Six symbols hold the key to fortune's favor.",
+      "hint": "A target, a rocket, a gem, a butterfly, a die, and a trophy each play their part in this lottery dream."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      11,
+      18
+    ]
   }
 }
