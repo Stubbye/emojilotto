@@ -10618,5 +10618,23 @@
       2,
       0
     ]
+  },
+  "sol_478": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six celestial dancers paint fate's trace. The jester's grin beneath the gem's cold light, a serpent coils through phosphorescent night. Petals bloom where chaos strikes, and winged grace spirals through the infinite heights.",
+      "hint": "One marks the goal, one breaks the sky, one glimmers cold, one laughs nearby, one births from storm, one soars on wind."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the path, the treasure and the wrath, the wild smile and the flying art—six pieces form the lottery heart.",
+      "hint": "Aim, ascend, sparkle, jest, flame, and flutter."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
