@@ -10366,5 +10366,23 @@
       6,
       20
     ]
+  },
+  "sol_467": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols entwine in chance. The archer's mark guides destiny's flame, while winged metamorphosis claims its name. Crystalline brilliance crowns the night, as fortune's jester spins delight, and thunder's kiss ignites the way through prism'd fortune's grand ballet.",
+      "hint": "One points ahead, one transforms, one gleams, one rules the dark, one laughs in masks, one strikes with force"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this call: a target for the bold and tall, a gem that sparkles bright and clear, a joker's grin we all hold dear, lightning's strike both fierce and fast, and dragon's ancient, unsurpassed.",
+      "hint": "Think of aim, wealth, trickery, power, and legendary beasts"
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      13,
+      4,
+      1
+    ]
   }
 }
