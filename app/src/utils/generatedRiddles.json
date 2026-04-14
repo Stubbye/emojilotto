@@ -10582,5 +10582,23 @@
       19,
       14
     ]
+  },
+  "sol_476": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, twin flames dance with prism's maze. The jester's crown reflects in crystal's embrace, while nature's wings ascend through luck's sacred space. Six guardians of fate convene where chaos sings—identify them in the order they bring.",
+      "hint": "One pierces destiny, one lights the darkened way, one rules all games, one breaks the night's display, one transforms through metamorphosis, one catches starlight's ray."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of chance and wonder: a goal to strike, a steed of smoke, a precious stone, a sleeping sentinel, nature's spark, and fortune's mimic. What are they?",
+      "hint": "Think of: something you aim for, something that flies upward, something that sparkles, something in the night sky, something that moves fast, and something that tricks."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
