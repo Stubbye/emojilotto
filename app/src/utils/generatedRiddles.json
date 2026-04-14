@@ -10528,5 +10528,41 @@
       20,
       16
     ]
+  },
+  "sol_474": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers twirl in chance. The winged deceiver wears a grin, while gems crystallize within. Thunder's mark upon the night, and a stage of pure delight, guide the way through rainbow's arc to destiny's embark.",
+      "hint": "Look for performers, celestial bodies, and natural phenomena that shimmer with mystery."
+    },
+    "easyRiddle": {
+      "text": "Find the jester's laugh, the dragon's ancient might, the butterfly's graceful flight, the sparkle's dazzling light, the lightning's sudden sight, and the fire burning bright.",
+      "hint": "One is a trickster, one is mythical, one flies on wings, one shines, one strikes, and one burns."
+    },
+    "answer": [
+      9,
+      13,
+      8,
+      10,
+      5,
+      6
+    ]
+  },
+  "emlo_189": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gem-like value sparkles as fortune strikes. What sequence of treasures do I embody?",
+      "hint": "Think of a memecoin's journey: propulsion, destination, wealth, luck, and dazzling moments of success"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, ✨ celebrates wins, 🎯 is the target. Put them in order!",
+      "hint": "Follow the path of a successful memecoin launch from start to moon landing"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      0
+    ]
   }
 }
