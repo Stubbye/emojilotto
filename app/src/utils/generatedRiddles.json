@@ -10312,5 +10312,41 @@
       8,
       19
     ]
+  },
+  "sol_465": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial wanderer, and brilliance fractures through the veil of night, the trickster's grin dances with the scaled guardian of ancient dreams, while nature's winged transformation spirals through the luminous tapestry of chaos and wonder.",
+      "hint": "Think of destiny's tools, cosmic bodies, precious things, mythical beings, natural metamorphosis, and manifestations of pure radiance."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow: a hunter's tool points true, a wanderer glows above in darkness, jewels gleam with inner fire, a beast of legend coils in mystery, a creature born anew takes flight, and light itself dances in celebration.",
+      "hint": "One aims, one watches from sky, one shines, one breathes, one transforms, one radiates."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      13,
+      7,
+      10
+    ]
+  },
+  "emlo_186": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with velocity untamed, my precious gems ignite the path where fortune's lightning strikes. When the jester's dice roll and chaos electrifies the stage, I emerge as the ultimate trophy of this volatile dance.",
+      "hint": "Think of what rises fast, what sparkles with value, what powers the chaos, and what crowns the winner."
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with shiny rocks, dodge the electric zaps, and let the fool's game make you a champion!",
+      "hint": "One goes up, one shines, one zaps, one laughs, one electrifies, one celebrates."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      11,
+      12,
+      18
+    ]
   }
 }
