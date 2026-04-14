@@ -10294,5 +10294,23 @@
       18,
       10
     ]
+  },
+  "sol_464": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six dancers in chaos reveal desire. The jeweled path ascends through night's eternal gaze, while winged transformation waltzes through prismatic maze. Thunder's kiss ignites the stage of painted dreams, where masked revelry and nature's crown converge at destiny's seams.",
+      "hint": "One aims, one rises, one shines, one glows, one changes, one rules"
+    },
+    "easyRiddle": {
+      "text": "A target gleams, a rocket soars high. A gem sparkles bright in the midnight sky. Lightning strikes where fire plays. A butterfly dances through rainbow's maze.",
+      "hint": "Six symbols: one you aim at, one that flies up, one that shines, one that burns, one that transforms, one that colors"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      8,
+      19
+    ]
   }
 }
