@@ -10492,5 +10492,23 @@
       12,
       13
     ]
+  },
+  "sol_472": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels await. The night's jeweled crown reflects in liquid motion, while fortune's jester spins beneath prismatic arcs. One beast of scales coils through stellar flame, another masked in violet mischief. The archer's mark and thunderous fate converge where all things shimmer into being.",
+      "hint": "Seek the symbols of chance, cosmic bodies, and theatrical deception. Lightning, masks, and wingless creatures hide among the glittering."
+    },
+    "easyRiddle": {
+      "text": "I contain a night sky gem, a lucky bolt of power, a spinning game piece, a masked trickster, a purple jewel that catches light, and a scaled beast that flies. What six do I hold?",
+      "hint": "One shines in darkness, one strikes fast, one determines fate, one deceives, one sparkles, and one breathes mystery."
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      18,
+      20,
+      14
+    ]
   }
 }
