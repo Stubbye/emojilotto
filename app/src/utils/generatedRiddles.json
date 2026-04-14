@@ -10564,5 +10564,23 @@
       5,
       0
     ]
+  },
+  "sol_475": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, seven-pointed twins waltz through prismatic veils. The jester's grin mirrors the hunter's cunning, while scaled majesty guards the threshold between chaos and order. In this trinity of chance, only those who read the constellation's silent song shall claim the crown of gleaming truth.",
+      "hint": "Consider what guides, what tempts, what guards, and what celebrates in the realm of possibility."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide where luck takes wing: a burning heart, a silver night, a jeweled spark, a wheel of fate, a crimson jest, and a beast of ancient might. Which six hold the secret to fortune's song?",
+      "hint": "Think of fire, moon, gems, dice, joker, and dragon."
+    },
+    "answer": [
+      5,
+      3,
+      2,
+      11,
+      19,
+      14
+    ]
   }
 }
