@@ -10456,5 +10456,41 @@
       11,
       18
     ]
+  },
+  "sol_471": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's electric breath, a mystic fox pirouettes beneath the prism of fate. The jester's gem gleams as lightning crowns the night's dark stage, and crystalline dreams spiral through the performer's luminous cage.",
+      "hint": "Seek the symbols of chance, magic, and the meeting of earth and sky"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow: one burns bright, one strikes fast, one glitters hard, one laughs in masks, one runs cunning, and one sparkles like starlight.",
+      "hint": "Fire, lightning, gem, joker, fox, and sparkles"
+    },
+    "answer": [
+      6,
+      5,
+      2,
+      19,
+      13,
+      10
+    ]
+  },
+  "emlo_188": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, my gem-like value sparkles through the chaos. A dragon's fire meets joker's luck, while the fox watches from crystal clarity. What six treasures align in this memecoin journey?",
+      "hint": "Think of a rocket's path to success, gemstones that shine, and the wild characters that make this crypto dream possible."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past the moon, a gem glows bright, lightning strikes fast, fire burns hot, a joker laughs, and a fox grins. Which six are part of the memecoin madness?",
+      "hint": "Look for: something that flies up, something shiny, something quick, something hot, something silly, and something clever."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      12,
+      13
+    ]
   }
 }
