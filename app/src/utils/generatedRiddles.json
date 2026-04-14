@@ -10510,5 +10510,23 @@
       20,
       14
     ]
+  },
+  "sol_473": {
+    "hardRiddle": {
+      "text": "Where celestial fires dance through prismatic veils, and fortune's archer seeks the iridescent beast. The jester's symmetry breaks upon crystalline peaks, while nature's metamorphosis spirals through electric reverie. Six harbingers of fate converge where luck strikes like thunder upon the songbird's sacred ground.",
+      "hint": "One watches from above, one transforms, one sings, one sparks, one gleams, one aims true"
+    },
+    "easyRiddle": {
+      "text": "I am the target of all wishes, the dragon of dreams, the butterfly of change, the lightning of chance, the crystal of clarity, and the guitar of destiny. Six symbols align when fortune calls.",
+      "hint": "Think of: something you aim at, a mystical creature, a transformed being, electricity, something precious, and an instrument"
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      4,
+      20,
+      16
+    ]
   }
 }
