@@ -10744,5 +10744,23 @@
       18,
       13
     ]
+  },
+  "sol_484": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, a serpent of thunder coils through celestial silk. The jester's grin mirrors the fox's cunning, while prismatic shards dance with wings of metamorphosis. Seven-stringed whispers sing to the victor's golden gleam.",
+      "hint": "Seek the convergence of speed, chaos, gems, nocturnal realms, nature's trickster, and stringed melodies bound by destiny's clasp."
+    },
+    "easyRiddle": {
+      "text": "A rocket speeds toward the moon where lightning crackles near crystals that shimmer bright.",
+      "hint": "Look for celestial travel, night sky, electricity, shiny stones, and something that sparkles."
+    },
+    "answer": [
+      1,
+      4,
+      21,
+      3,
+      12,
+      16
+    ]
   }
 }
