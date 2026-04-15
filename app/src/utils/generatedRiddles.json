@@ -10906,5 +10906,23 @@
       8,
       19
     ]
+  },
+  "sol_493": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver's thread, six tokens dance in shadow's bed. The gem that burns in heaven's keep, the dragon's lightning makes spirits leap. A masquerade of wings takes flight, while spectrum's arc bends through the night.",
+      "hint": "Three celestial or cosmic elements, two creatures of transformation, one of light's division"
+    },
+    "easyRiddle": {
+      "text": "I hold the stars, I spark the sky, a winged dancer flutters by. Lightning crackles where dragons dwell, while colors paint a magical spell.",
+      "hint": "Find the moon, gem, rocket, butterfly, dragon, lightning, and rainbow - but only six of these words matter"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      8,
+      13,
+      9
+    ]
   }
 }
