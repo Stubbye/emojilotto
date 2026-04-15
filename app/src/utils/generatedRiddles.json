@@ -10852,5 +10852,41 @@
       13,
       19
     ]
+  },
+  "sol_490": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's spiral breath, six sentinels guard the threshold between chaos and destiny. The winged messenger ascends past silver's watchful eye, while earthbound treasures gleam in prismatic silence. One wears the mask of fortune's jester, another blooms eternal witness to transformation's sacred geometry.",
+      "hint": "Seek the performers of sky and earth, the precious and the volatile, the lucky and the wild."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and wonder: a jewel that sparkles bright, a creature with wings that flies, a mask worn by tricksters, a flower that never fades, a force that strikes the sky, and a rocket that reaches high.",
+      "hint": "Think of things that are lucky, magical, or represent fortune."
+    },
+    "answer": [
+      1,
+      8,
+      19,
+      14,
+      4,
+      0
+    ]
+  },
+  "emlo_194": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride to celestial heights, where gems ignite with electric might. The dancing flame of chaos burns bright, guided by fortune's purple light. What six symbols mark this memecoin's flight?",
+      "hint": "Think of a lucky gambler's journey to the moon with magical elements"
+    },
+    "easyRiddle": {
+      "text": "A funny face laughs, a rocket shoots up, a gem shines bright, the moon glows high, lightning strikes fast, and fire burns hot. What six things describe this lucky coin?",
+      "hint": "Name each emoji you see in the riddle"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
