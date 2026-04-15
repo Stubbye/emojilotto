@@ -10888,5 +10888,23 @@
       4,
       5
     ]
+  },
+  "sol_491": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and trickster's grin meets the jeweled dream, a winged metamorphosis spirals through luck's prism, while the archer's mark gleams eternal beneath the cosmic veil of mysteries unfold.",
+      "hint": "Seek the intersection of chance, transformation, and heavenly ambition—one glimmers in nature's chaos, one wears the mask of jest."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this verse: the spark from above, the prize-bearer's crown, the stone that gleams, the night's great orb, the creature reborn on silken wings, and the jester who knows all fates.",
+      "hint": "Think of luck, achievement, wealth, night, transformation, and deception."
+    },
+    "answer": [
+      1,
+      17,
+      5,
+      3,
+      8,
+      19
+    ]
   }
 }
