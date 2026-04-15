@@ -10726,5 +10726,23 @@
       18,
       14
     ]
+  },
+  "sol_483": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a prism splits the night's cascade. The serpent of the sky drinks flame while masked revelry spins in the gemstone's gleam. Six symbols bind the seeker's dream—find them where chaos waltzes with the arcane.",
+      "hint": "Think of celestial aims, mythical guardians, precious clarity, and the duality of masquerade and performance."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune, I light the path to treasure. A dragon guards the jeweled measure. The moon watches over masqueraded pleasure. What six symbols align when luck's in season?",
+      "hint": "Look for: something that aims, something that flies upward, something precious, something celestial, something protective, and something theatrical."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      18,
+      13
+    ]
   }
 }
