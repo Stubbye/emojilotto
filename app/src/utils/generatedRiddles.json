@@ -10654,5 +10654,23 @@
       11,
       4
     ]
+  },
+  "sol_480": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and masked spirits waltz through prismatic gates. The swift deceiver guards the threshold of abundance, while winged metamorphosis witnesses the symphony of chance and crystalline destiny. Six treasures merge where chaos meets the infinite.",
+      "hint": "Consider what embodies luck, transformation, deception, and the meeting of earth and cosmos."
+    },
+    "easyRiddle": {
+      "text": "A gemstone gleams beneath the night sky. Lightning strikes the jester's stage. A fox runs through a rainbow as butterflies dance. A crystal tower holds your prize. What six symbols reveal your fortune?",
+      "hint": "Look for: something precious, something electric, something deceptive, something transforming, something colorful, and something lasting."
+    },
+    "answer": [
+      1,
+      4,
+      13,
+      8,
+      20,
+      21
+    ]
   }
 }
