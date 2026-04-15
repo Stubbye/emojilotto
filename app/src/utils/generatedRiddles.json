@@ -10672,5 +10672,41 @@
       20,
       21
     ]
+  },
+  "sol_481": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gem born of starlight dances. The serpent of thunder coils through celestial silk, while petals bloom eternal in prismatic dust. Six mysteries converge where luck itself takes flight—one seeks the bullseye of destiny, one pierces the veil between worlds, one glimmers with inner fire, one rules the night's dominion, one crackles with divine fury, one unfolds its delicate wings toward transformation.",
+      "hint": "Think of symbols that represent chance, ambition, value, mystery, power, and metamorphosis. The answer lies where opposites meet in the cosmic dance."
+    },
+    "easyRiddle": {
+      "text": "I need six symbols for your lottery dream: one that shoots toward the stars, one that sparkles with precious worth, one that rules the midnight sky, one that strikes with electric rage, one that seeks a perfect mark, and one that transforms through nature's stage.",
+      "hint": "Rocket, Gem, Moon, Lightning, Target, and Butterfly—the six keys to lucky fortune."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
+  },
+  "emlo_191": {
+    "hardRiddle": {
+      "text": "I rocket to the moon with lightning speed, a gem of fire that makes holders bleed. Watch the sparkles dance as I surge ahead, a trophy for the brave, not the dead.",
+      "hint": "Think of a memecoin's journey to astronomical gains"
+    },
+    "easyRiddle": {
+      "text": "Up up up goes the rocket to the moon, gems shine bright, lightning strikes soon. Fire burns hot, sparkles light the way, to the trophy we'll reach one day.",
+      "hint": "Count the symbols of crypto wealth and speed"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      8,
+      18
+    ]
   }
 }
