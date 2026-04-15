@@ -10834,5 +10834,23 @@
       4,
       9
     ]
+  },
+  "sol_488": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial sentinel watches. The dragon's ancient breath dances with celestial fire, while gems crystallize in prismatic silence. Swift-winged trickster weaves through spiraling chaos, and the jester's grin echoes in chambers of chance. What six secrets unlock destiny's vault?",
+      "hint": "One pierces aim, one guards night, one burns bright, one shimmers pure, one deceives swift, one laughs at fate"
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck: a pointed aim, a night guardian, a burning spirit, a sparkling jewel, a clever thief, and a laughing fool. Together we spin the wheel of fortune.",
+      "hint": "Target, Moon, Fire, Gem, Fox, and Joker hold the answer"
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      11,
+      13,
+      19
+    ]
   }
 }
