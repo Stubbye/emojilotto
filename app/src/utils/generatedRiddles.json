@@ -10636,5 +10636,23 @@
       4,
       8
     ]
+  },
+  "sol_479": {
+    "hardRiddle": {
+      "text": "Through celestial silk where fortune's jester pirouettes, six guardians convene: the crimson messenger ascending past slumber's pale sentinel, the radiant prism of crystalline desire, the tempest's silver tongue, the wheel of chaos bound by fate's invisible thread, and the scaled dreamer of ancient skies—together they unlock the threshold where destiny pirouettes on the edge of becoming.",
+      "hint": "One ascends, one glows above, one is precious, one strikes, one spins, one breathes myth"
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots up to the moon so bright, a lightning bolt strikes with all its might. A gem sparkles with precious light, a dragon roars through the night. A dice shows chance, what six symbols align in this lucky dance?",
+      "hint": "Look for: the symbol of ascension, the guardian of night, the treasure of Earth, the ancient beast, the tool of fortune, and the electric force"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      13,
+      11,
+      4
+    ]
   }
 }
