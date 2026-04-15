@@ -10798,5 +10798,41 @@
       13,
       2
     ]
+  },
+  "sol_487": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin flames, a gemstone catches the eye of nocturnal watchers. The trickster's grin dances with nature's winged transformation, while electricity weaves through prismatic light and crystalline dreams. Seek the mark where chaos and destiny collide.",
+      "hint": "Consider what glimmers in darkness, what changes form, and what decides fate itself."
+    },
+    "easyRiddle": {
+      "text": "Find the treasure that shines, the night guardian, the spark of chance, the shape-shifter of nature, the jester's mask, and the stone of eternity.",
+      "hint": "One glows above, one flutters by, one rolls with fortune, one sparkles, one deceives, one lasts forever."
+    },
+    "answer": [
+      7,
+      3,
+      11,
+      8,
+      19,
+      20
+    ]
+  },
+  "emlo_193": {
+    "hardRiddle": {
+      "text": "I chase dreams to celestial heights with explosive power, my brilliance cuts through darkness like a precious stone, fortune strikes with electric speed, and my mystical glow dances with cosmic fire—what six celestial treasures guide the moonbound journey?",
+      "hint": "Think of a memecoin's explosive growth: speed, gems, luck, and cosmic energy converge"
+    },
+    "easyRiddle": {
+      "text": "Find: the destination above, the fast escape vehicle, the shiny valuable item, the destination itself, the quick strike, and the dancing magical light",
+      "hint": "One goes up, one flies, one sparkles, one is far away, one is fast, one is magical"
+    },
+    "answer": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      9
+    ]
   }
 }
