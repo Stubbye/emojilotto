@@ -10780,5 +10780,23 @@
       5,
       17
     ]
+  },
+  "sol_486": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the night's silver seal. The archer's mark aligns with chaos's spark, while the scaled beast guards what glimmers in dark. Six symbols intertwine in destiny's game—can you name the luminous path to claim your fame?",
+      "hint": "Think of targets, jokers, lightning, moons, dragons, and gems. One guides, one deceives, one strikes, one watches, one hoards, one blinds."
+    },
+    "easyRiddle": {
+      "text": "A target waits, a joker grins, lightning strikes where chaos begins. The moon shines bright, a dragon sleeps on gems that sparkle in the deep. Six signs of luck—which will you choose?",
+      "hint": "Look for: something aimed at, something that tricks, something electric, something in the sky, something mythical, and something precious."
+    },
+    "answer": [
+      0,
+      11,
+      4,
+      1,
+      13,
+      2
+    ]
   }
 }
