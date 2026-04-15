@@ -10762,5 +10762,23 @@
       12,
       16
     ]
+  },
+  "sol_485": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets destiny's seal. Six whispers in the void: the archer's mark, the vessel's ascent, the crystalline spark, the nocturnal descent, the bolt that rends, and the jester's pretends.",
+      "hint": "One seeks precision, one seeks the heavens, one glimmers with value, one rules the night, one strikes with fury, one laughs at fate."
+    },
+    "easyRiddle": {
+      "text": "I contain: what you aim for, what climbs to space, what sparkles bright, what glows at night, what strikes fast, and who plays tricks.",
+      "hint": "Think of targets, space travel, precious things, the moon, weather, and card games."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      3,
+      5,
+      17
+    ]
   }
 }
