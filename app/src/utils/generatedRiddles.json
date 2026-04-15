@@ -10708,5 +10708,23 @@
       8,
       18
     ]
+  },
+  "sol_482": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers align in twilight's appeal. The winged messenger courts the luminous pearl, while gemstones catch lightning in nature's swirl. A jester's mask grins where magic convenes, and fortune blooms betwixt the unseen.",
+      "hint": "Look for movement, luck, light, and transformation united in cosmic theater"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck takes flight: a bright gem, a dancing light, wings that flutter day and night, a spinning wheel of fortune's might, a face that grins with secret sight, and a flower that shines ever bright.",
+      "hint": "Think of symbols of luck, magic, and celebration"
+    },
+    "answer": [
+      1,
+      4,
+      8,
+      11,
+      18,
+      14
+    ]
   }
 }
