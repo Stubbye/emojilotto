@@ -11266,5 +11266,23 @@
       11,
       13
     ]
+  },
+  "sol_508": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, seven luminous dancers waltz through the void. The jester's grin eclipses the gem's eternal radiance, whilst the scaled leviathan guards the threshold between chaos and creation. Count the seekers of destiny's trembling light.",
+      "hint": "One brings fortune, one illuminates night, one corrupts with laughter, one embodies chaos, one descends from above, one sparkles with hope."
+    },
+    "easyRiddle": {
+      "text": "I have an arrow but no bow, a face but tell no time, a laugh without joy, a beast from ancient lore, a glow from heaven's vault, and brilliance that dances in air. Who are we six?",
+      "hint": "Think of games, chaos, night sky, trickery, mythology, and magic."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      13,
+      1,
+      9
+    ]
   }
 }
