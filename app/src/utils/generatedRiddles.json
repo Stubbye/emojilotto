@@ -11194,5 +11194,23 @@
       19,
       14
     ]
+  },
+  "sol_505": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits waltz in twilight's trance. The archer's mark gleams crystalline bright, while thunder's child ignites the night. A scaled guardian guards winged grace, and luck's jester claims sacred space.",
+      "hint": "Seek the intersection of sky, fate, and chaos—one burns above, one strikes swift, one soars eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the bright target in the sky. Add the bolt that makes you fly. Include the precious stone that shines. Find the dragon among these signs. The fool of luck must also stay. Finally, the gem of cosmic display.",
+      "hint": "Look for: aim, electricity, jewels, mythical beast, chaos-bringer, and starlight."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      13,
+      11,
+      21
+    ]
   }
 }
