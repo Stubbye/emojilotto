@@ -11230,5 +11230,41 @@
       14,
       15
     ]
+  },
+  "sol_507": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny align: the archer's mark meets swift ascension, precious facets gleam beneath lunar gaze, while nature's metamorphosis wings through tempest's fury, and the jester's grin holds mastery of chance.",
+      "hint": "One guides aim, one breaks chains, one glimmers in darkness, one watches from above, one transforms through struggle, and one knows all secrets."
+    },
+    "easyRiddle": {
+      "text": "Six lucky signs: a bullseye, a flying machine, a shining stone, the night's guardian, a wild spark, and a laughing trickster.",
+      "hint": "Think of precision, speed, wealth, night, electricity, and mischief."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_199": {
+    "hardRiddle": {
+      "text": "I launch to the 🌙 with electric ⚡ speed, a 💎 treasure sought by those who heed. Fortune's 🎪 spins its wheel of chance, while 🦊 tricksters lead the meme coin dance. What six symbols mark this crypto quest?",
+      "hint": "Think of a memecoin journey: transportation, destination, value, luck, character, and spectacle."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 goes to the 🌙 carrying 💎. A 🎪 spins 🎲 while 🦊 watches. Six things in this silly crypto tale!",
+      "hint": "Count the emojis: rocket, moon, gem, circus, dice, and fox."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      7,
+      11,
+      13
+    ]
   }
 }
