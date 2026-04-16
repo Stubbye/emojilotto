@@ -11122,5 +11122,23 @@
       21,
       22
     ]
+  },
+  "sol_502": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers emerge from chaos' trance. The archer's mark aligns with swift ascension, while gemstone tears reflect the night's dimension. Butterfly's wing brushes crystal's frozen song, and dragon's breath ignites where lightning belongs.",
+      "hint": "Consider what rises, what gleams, what transforms, and what strikes in nature's eternal forms."
+    },
+    "easyRiddle": {
+      "text": "A target glows as rockets soar high, gems sparkle beneath the dragon's eye. Crystal and butterfly dance in the moon's light, while lightning crashes through the starry night.",
+      "hint": "Six symbols of luck: one points, one flies, one shines bright, one climbs, one wings, one strikes."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      13,
+      20,
+      21
+    ]
   }
 }
