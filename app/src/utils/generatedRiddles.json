@@ -11212,5 +11212,23 @@
       11,
       21
     ]
+  },
+  "sol_506": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, a jester's twin masks observe the gemstone's gleam. Through prismatic waves of the night-born pearl, the scaled guardian breathes destiny's spark upon the wild vermillion bloom. Count six where destiny's wheel spins between the chaos of revelry and the silent watchfulness of craft.",
+      "hint": "One points the way, one glows above, one shines within, one mimics emotion, one rules the fire, and one blooms in mystery."
+    },
+    "easyRiddle": {
+      "text": "A target marks the way, the moon lights the night, a gem sparkles bright, masks hide the truth, a dragon roars with fire, and a flower blooms eternal. These six hold the key to fortune.",
+      "hint": "Think of aim, light, treasure, identity, power, and natural beauty."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      14,
+      15
+    ]
   }
 }
