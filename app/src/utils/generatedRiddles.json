@@ -10942,5 +10942,41 @@
       4,
       18
     ]
+  },
+  "sol_495": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's dark throne, six harbingers of fate are sown. The scale-winged serpent guards what gleams, while masked performers haunt our dreams. A four-leafed whisper and the jester's grin, the thunder's kiss where all begins.",
+      "hint": "Seek the dragon's treasure, the fool's counsel, and nature's blessing among celestial dancers."
+    },
+    "easyRiddle": {
+      "text": "One shines green and brings you luck, one laughs in foolish jest, one roars with ancient power, one strikes with electric zest, one glimmers precious and bright, one hides behind the mask's night.",
+      "hint": "Think of: a lucky charm, a joker's role, a mythical beast, a storm's power, a jewel, and hidden faces."
+    },
+    "answer": [
+      16,
+      12,
+      13,
+      10,
+      2,
+      19
+    ]
+  },
+  "emlo_195": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with velocity, my gems sparkle with electric fortune, while chaos dances with fortune's wheel beneath the stars",
+      "hint": "Think of a memecoin journey: speed to profits, valuable finds, power surges, luck, randomness, and cosmic destinations"
+    },
+    "easyRiddle": {
+      "text": "To the moon we 🚀, with ⚡ speed and 💎 rewards, rolling 🎲 under the ✨ and chasing 🌙",
+      "hint": "These are the essential symbols of crypto gambling and moon-bound riches"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      11,
+      21,
+      3
+    ]
   }
 }
