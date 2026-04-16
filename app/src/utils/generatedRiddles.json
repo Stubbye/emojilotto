@@ -10978,5 +10978,23 @@
       21,
       3
     ]
+  },
+  "sol_496": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver, and the serpent of sky dances with the jester's twin flames of chaos and brilliance. The winged metamorphosis ascends through prisms of chance, while the guardian's eternal symbol gleams beneath the storm's electric whisper.",
+      "hint": "Look for the archer's mark, the night's guardian, the deceiver of cards, the scaled wanderer, the transformed seeker, and fortune's glowing crown."
+    },
+    "easyRiddle": {
+      "text": "I bring luck with my four leaves, sparkle bright in the night sky, and dance with fire. A dragon flies high, a joker tricks, and lightning strikes true. What six treasures complete this magical game?",
+      "hint": "Think of luck, stars, flames, mythical beasts, tricksters, and storm's fury."
+    },
+    "answer": [
+      19,
+      21,
+      5,
+      13,
+      7,
+      4
+    ]
   }
 }
