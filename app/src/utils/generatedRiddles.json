@@ -11140,5 +11140,41 @@
       20,
       21
     ]
+  },
+  "sol_503": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger seeks the gem beneath chaos, while the archer's mark gleams eternal—six secrets entwined in destiny's masquerade.",
+      "hint": "Think of luck, chance, and the heavens combined with performers and precious things"
+    },
+    "easyRiddle": {
+      "text": "A bright star burns in the night sky, a jester grins with two faces, a butterfly floats freely, lightning strikes with power, a gem sparkles with value, and the clown's stage awaits—find these six.",
+      "hint": "One is in the sky, one is a performer, one flies, one is electric, one is precious, one is a place"
+    },
+    "answer": [
+      22,
+      19,
+      8,
+      5,
+      2,
+      7
+    ]
+  },
+  "emlo_198": {
+    "hardRiddle": {
+      "text": "To the 🚀 I ride with ⚡ speed, through 🔥 markets where 💎 are freed. Lucky 🍀 guides my 🎯 so true, what six emojis complete this crypto debut?",
+      "hint": "Think of a memecoin's journey to success with fortune and precision"
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts through fire and lightning, carrying gems and lucky clover toward the target. Name these six symbols of crypto glory!",
+      "hint": "Count the emojis mentioned in the riddle text"
+    },
+    "answer": [
+      1,
+      5,
+      6,
+      2,
+      20,
+      0
+    ]
   }
 }
