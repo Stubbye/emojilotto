@@ -11068,5 +11068,41 @@
       11,
       0
     ]
+  },
+  "sol_500": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six ethereal witnesses stand. The archer's mark in twilight gleams, while winged metamorphosis dreams. From dragon's crown to jester's grin, where lightning splits the gem within. Masked revelry beneath the crescent's glow, and fortune's glittering sparkle shows.",
+      "hint": "Look for: a bright celestial body, a winged transformation, a precious stone, a laughing trickster, electricity's path, and radiant dust. One reflects light, one reflects change, one reflects wealth, one reflects mischief, one reflects power, one reflects magic."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: the night's silver guardian, the gem that catches starlight, the jester who knows all secrets, the butterfly's graceful flight, the spark that dances wild, and the dust that makes wishes real.",
+      "hint": "Moon, Gem, Joker, Butterfly, Lightning, Sparkles"
+    },
+    "answer": [
+      3,
+      5,
+      8,
+      10,
+      4,
+      9
+    ]
+  },
+  "emlo_197": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, collecting treasures that sparkle and gleam. My power strikes like nature's fury, racing through chaos with magical energy. What am I?",
+      "hint": "Think of speed, wealth, and the journey to success in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "Up up we go so very high, with lightning quick and gems we fly. The sparkles guide us to the moon, our fortune comes to us so soon!",
+      "hint": "Look for words about direction, speed, precious things, and the night sky"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      0
+    ]
   }
 }
