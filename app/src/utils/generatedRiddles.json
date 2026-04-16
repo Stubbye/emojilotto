@@ -11050,5 +11050,23 @@
       18,
       8
     ]
+  },
+  "sol_499": {
+    "hardRiddle": {
+      "text": "Where fortune's crimson tongue dances with celestial pearls, and the jester's mask grins at destiny's wheel—seek the archer's circle, the serpent's ancient coil, the winged soul's metamorphosis, and the silent witness above all mortals.",
+      "hint": "One burns, one rules, one transforms, one watches, one marks the center, one wears the grin."
+    },
+    "easyRiddle": {
+      "text": "Fire laughs, the dragon rules the sky, a butterfly escapes its cage, the moon sees all, the joker knows the secret, and the target waits to be found.",
+      "hint": "Count the creatures, the elements, and the watchers."
+    },
+    "answer": [
+      5,
+      13,
+      8,
+      3,
+      11,
+      0
+    ]
   }
 }
