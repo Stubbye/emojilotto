@@ -11032,5 +11032,23 @@
       9,
       19
     ]
+  },
+  "sol_498": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial dancer waltzes in silver silence. The prism shatters into crystalline whispers as flame devours the veil between masks. Thunder's child meets the gem of the abyss, while brilliant dust crowns the metamorphosis. Six threads weave fate's tapestry—seek the center's strike, the heavens' pearl, the fractured light, the consuming breath, the theater of souls, and the dust of genesis.",
+      "hint": "One pierces, one watches from above, one refracts, one consumes, one holds many faces, one celebrates transformation"
+    },
+    "easyRiddle": {
+      "text": "I aim for the center with precision. I glow above in the night sky. I sparkle with pure light. I dance with heat and consume. I hide many identities. I emerge transformed and delicate.",
+      "hint": "Target, Moon, Sparkles, Fire, Masks, Butterfly"
+    },
+    "answer": [
+      0,
+      3,
+      10,
+      5,
+      18,
+      8
+    ]
   }
 }
