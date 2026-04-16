@@ -11176,5 +11176,23 @@
       20,
       0
     ]
+  },
+  "sol_504": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six dancers waltz through destiny's game. The jester's grin guards treasures most keen, while wings of transformation paint dreams unseen. A serpent of fortune coils 'round the stage, where music and chaos turn fortune's new page.",
+      "hint": "Seek the convergence of chaos, spectacle, and winged metamorphosis beneath the trickster's watchful eye."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one climbs high, one sparkles bright, one changes form, one plays tricks, one roars wild. Together they unlock the lottery's mystery.",
+      "hint": "Think of: a marksman's tool, sky-bound vessel, glittering stone, winged insect, magical performer, and legendary beast."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      19,
+      14
+    ]
   }
 }
