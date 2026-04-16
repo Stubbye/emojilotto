@@ -10924,5 +10924,23 @@
       13,
       9
     ]
+  },
+  "sol_494": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the cosmic flame, six treasures dance in shadow's game. The jester's grin beneath the crystalline veil, a scaled leviathan guards the trail. Through prismatic threads and celestial fire, the winged muse ascends ever higher. Lightning's kiss upon the jeweled crown, where masked performers never frown.",
+      "hint": "Think of the celestial, the theatrical, the precious, and the mythical converging at lottery's threshold."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: one aims true with precision, another rides the heavens with ambition. A glittering stone catches the eye, while scales and wings illuminate the sky. Masks reveal what lightning cannot, and fire burns where fortune is sought.",
+      "hint": "Picture a stage where the cosmic and the precious meet destiny."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      18
+    ]
   }
 }
