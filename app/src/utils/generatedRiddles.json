@@ -11104,5 +11104,23 @@
       9,
       0
     ]
+  },
+  "sol_501": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin serpents, the jester's grin mirrors the archer's aim. Through prismatic tears, winged metamorphosis finds sanctuary beneath the hunter's cunning gaze, all spinning toward destiny's crescendo.",
+      "hint": "One controls chance, one seeks it. One soars, one hunts. One transforms, one aims. All converge in spectral light."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this dance: the trickster laughs, the fox prowls, the butterfly ascends, the dragon coils, the crystal gleams, and the star burns bright above the spinning wheel of fortune.",
+      "hint": "A jester, a clever creature, a transformed soul, an ancient beast, a precious stone, and a celestial beacon."
+    },
+    "answer": [
+      19,
+      13,
+      8,
+      14,
+      21,
+      22
+    ]
   }
 }
