@@ -10996,5 +10996,41 @@
       7,
       4
     ]
+  },
+  "sol_497": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, a winged creature seeks the gleaming prize beneath the watchful sentinel. Six paths converge: the archer's distant mark, the ascending vessel of dreams, the precious stone that catches starlight, the pale guardian of night, the bolt that splits the veil, and the leaping transformation of spring. Which six compose the eternal game?",
+      "hint": "Think of what a lottery needs: a goal, ascension, value, time, chaos, and metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I need a target to aim for, a rocket to launch my hopes, a gem as my prize, the moon to witness my luck, lightning for instant fate, and a butterfly for transformation. What six things make the lottery complete?",
+      "hint": "Read the riddle word by word - each object appears once."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_196": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like treasure that makes portfolios bleed. With sparkles and fire, I'm lightning-quick to rise, a joker's gamble with diamond-studded prize.",
+      "hint": "Think of a volatile memecoin's wild journey to celestial heights"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🔥 burns hot, ✨ gleams, 🃏 tricks you",
+      "hint": "These six symbols represent the chaos and excitement of memecoin trading"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      19
+    ]
   }
 }
