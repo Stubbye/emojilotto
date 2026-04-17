@@ -11500,5 +11500,23 @@
       5,
       14
     ]
+  },
+  "sol_523": {
+    "hardRiddle": {
+      "text": "Where fortune's winged messenger ascends through celestial silence, six tokens dance in shadow's embrace. The archer's goal gleams with inner fire, while night's pale sentinel witnesses the jester's crimson grin. Thunder's child crackles between twin paradoxes—beauty metamorphosed and nature's precious frost. Seek them bound by fate's invisible thread.",
+      "hint": "One moves skyward, one marks the target, one laughs at chaos, one strikes swift, one transforms, one endures eternal."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a symbol of rising luck, a destination for success, a laughing trickster, a bolt of chance, a beautiful change, and a treasure born from pressure.",
+      "hint": "Think of journey, laughter, speed, transformation, and precious things."
+    },
+    "answer": [
+      1,
+      0,
+      19,
+      4,
+      8,
+      20
+    ]
   }
 }
