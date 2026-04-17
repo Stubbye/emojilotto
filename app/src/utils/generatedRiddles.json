@@ -11392,5 +11392,23 @@
       2,
       12
     ]
+  },
+  "sol_514": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances in violet dreams, six ethereal guardians converge—the archer's destiny meets the celestial sentinel, while prismatic flames birth winged ascension through crystalline chambers of fate. What spectral ensemble compels the spheres to align?",
+      "hint": "Consider what fortune seeks, what burns in sky, what transforms, what glimmers eternal, what masks the soul, and what crowns the victor."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: a target to aim, a rocket to fly, a gem that shines, the moon at night, lightning that strikes, and fire that burns. Which six bring luck to the lottery?",
+      "hint": "Think of symbols of success: achievement, flight, wealth, dreams, power, and passion."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
