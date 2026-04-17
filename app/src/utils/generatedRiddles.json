@@ -11302,5 +11302,23 @@
       7,
       16
     ]
+  },
+  "emlo_200": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, guided by fortune's unpredictable nature. Seek the symbol of luck's spark, the gem of digital wealth, the destination of all diamond hands, the wild trickster's grin, the chaos of rapid change, and the badge of victory. What six reveal the memecoin journey?",
+      "hint": "Think of the path from purchase to moon, with luck and speed involved"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket that goes up, the shiny gem we want, the moon we dream of, the lucky clover, the lightning speed profits, and the trophy for winners!",
+      "hint": "Imagine launching a coin to the moon and winning big"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      19,
+      4,
+      17
+    ]
   }
 }
