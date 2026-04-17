@@ -11518,5 +11518,41 @@
       8,
       20
     ]
+  },
+  "sol_524": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and luck's twin flames ignite the void. The scaled serpent guards the gleaming treasures beneath the crescent's watchful eye, while the winged dancer pirouettes through the storm's electric veil. Six symbols converge where destiny's arrows meet the gilded stage of chance.",
+      "hint": "Seek the dragon, the gem, and the light-bringer among the sky's deep mysteries and nature's performers."
+    },
+    "easyRiddle": {
+      "text": "A dragon guards shining stones under the moon. Lightning cracks the sky. Fire burns bright. A butterfly floats near sparkles. Which six bring luck to the lottery?",
+      "hint": "Look for a scaled beast, precious light, celestial bodies, electricity, and delicate wings."
+    },
+    "answer": [
+      13,
+      2,
+      1,
+      4,
+      5,
+      8
+    ]
+  },
+  "emlo_204": {
+    "hardRiddle": {
+      "text": "I launch to the destination of dreams where precious stones sparkle with electric energy, guarded by a cunning trickster under celestial light. What six celestial symbols guide this memecoin voyage?",
+      "hint": "Think of a journey to wealth: the vehicle, the goal, the treasure, the electricity, the jester, and the cosmic destination."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon carrying gems and lightning, guided by a joker. Name these 6 symbols of crypto fortune.",
+      "hint": "One goes up, one is the destination, one is treasure, one is power, one is chaos, one is trickery."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      11,
+      13
+    ]
   }
 }
