@@ -11284,5 +11284,23 @@
       1,
       9
     ]
+  },
+  "sol_509": {
+    "hardRiddle": {
+      "text": "Through violet chambers where fortune's heart beats, the celestial wanderer pirouettes in storms of light. A jester's gambit spins where flames kiss the void, while nature's winged muse dances with the prism's secret song. Six keystones unlock the threshold between chaos and destiny.",
+      "hint": "Consider the colors: one is purple, one embodies the sky's fury, one reflects the cosmos, one brings laughter, one transforms, and one sings with strings of fate."
+    },
+    "easyRiddle": {
+      "text": "I hide where royalty sleeps in night skies. Thunder strikes where I dwell. A trickster grins nearby. Flames consume all they touch. A creature of metamorphosis floats close. And music echoes through strings of destiny.",
+      "hint": "Look for: a celestial orb, electricity, a playing card character, heat and smoke, a winged insect, and an instrument that makes melodies."
+    },
+    "answer": [
+      1,
+      4,
+      17,
+      5,
+      7,
+      16
+    ]
   }
 }
