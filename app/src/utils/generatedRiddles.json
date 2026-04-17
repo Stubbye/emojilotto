@@ -11410,5 +11410,41 @@
       4,
       5
     ]
+  },
+  "sol_516": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in destiny's game. The gem-crowned jester pirouettes through starlit chaos, while scaled magnificence breathes upon fortune's threshold. What glimmers beyond the bull's eye, what trembles in the masked performance, what sparkles where the winged transform?",
+      "hint": "Seek the target, the fire, the gem, the joker, the dragon, and the sparkles among the spinning wheels of chance."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one burns bright, one glows precious, one laughs wild, one roars ancient, one shimmers magic. Six treasures of the lottery night.",
+      "hint": "Target, fire, gem, joker, dragon, and sparkles are your golden six."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      13,
+      10
+    ]
+  },
+  "emlo_202": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking treasures that sparkle and gleam. My journey dazzles through the darkness, powered by fortune's dance, reaching for jewels beneath the cosmic glow.",
+      "hint": "Think of a crypto journey from Earth to fortune"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ provides power, 💎 is the treasure, 🌙 is the destination, ✨ shows the magic, 🎲 brings the luck",
+      "hint": "Count the emojis mentioned"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      11
+    ]
   }
 }
