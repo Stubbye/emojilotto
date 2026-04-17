@@ -11338,5 +11338,41 @@
       19,
       8
     ]
+  },
+  "sol_512": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers converge in cosmic trance. The archer's mark holds prismatic tears, while winged metamorphosis conquers fears. Storm's violent tongue licks the void above, and masked revelry births what mortals love. One shimmers eternal, one grants the prize—count them beneath the firmament's eyes.",
+      "hint": "Seek the convergence of aim, gem, lightning, butterfly, joker, and that which glows without end."
+    },
+    "easyRiddle": {
+      "text": "I am the target you cannot miss, a gem that gleams in fortune's bliss. Lightning strikes with joker's jest, while butterfly and star invest. Six symbols hold the lottery's quest—which ones will pass the ultimate test?",
+      "hint": "Look for: aim, sparkle, electricity, cards, insects, and heavenly bodies."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      19,
+      21
+    ]
+  },
+  "emlo_201": {
+    "hardRiddle": {
+      "text": "A celestial jester rides lightning through gem-studded skies, where fire meets fortune and magic sparkles eternal. Which six symbols mark this moonbound quest?",
+      "hint": "Think of a memecoin's journey: entertainment, speed, value, destiny, energy, and wonder"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! Find the rocket, the gem for wealth, the lightning for speed, the fire for hype, the joker for fun, and the sparkles for magic.",
+      "hint": "Look for: launch vehicle, precious stone, electricity, flames, entertainer, and glitter"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      19,
+      20
+    ]
   }
 }
