@@ -11320,5 +11320,23 @@
       4,
       17
     ]
+  },
+  "sol_511": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits convene in chance. The archer's mark kisses the veil of night, while tempest's tongue licks upward flight. A jeweled heart trembles in the dark, as winged grace ignites its spark. Where mirth and masks entwine their play, fortune's gates unlock their way.",
+      "hint": "Seek the targets of destiny, the gems of possibility, and the creatures that bridge two worlds."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: one glows in night's embrace, one strikes with fury from above, one sparkles bright with precious grace, one soars where dreams take flight, one dances in the jester's light, and one transforms with gentle love.",
+      "hint": "Moon, lightning, gem, rocket, joker, butterfly"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      5,
+      19,
+      8
+    ]
   }
 }
