@@ -11374,5 +11374,23 @@
       19,
       20
     ]
+  },
+  "sol_513": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and thunder's serpent dances through prismatic tears, a gemstone caught between the jester's grin and the swift one's cunning. Six whispers in the void: the hunter's mask, the dragon's breath, the mystic's stone, the sky's electric kiss, the archer's mark, and the jeweled tear.",
+      "hint": "Look for a trickster, a scaled beast, gemstones, stormy energy, precision, and both a predator and prey."
+    },
+    "easyRiddle": {
+      "text": "I hold luck's arrow and fire's dance, a dragon's might and a fox's glance. A jester laughs while gems do gleam, and lightning strikes through fortune's dream. What six symbols crown the lottery's reign?",
+      "hint": "Think of targets, mythical creatures, valuables, electricity, tricksters, and wild animals."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      4,
+      2,
+      12
+    ]
   }
 }
