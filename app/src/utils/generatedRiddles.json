@@ -11446,5 +11446,23 @@
       9,
       11
     ]
+  },
+  "sol_518": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the archer's zeal. Through prismatic gates the winged wanderer flies, as thunder's child illuminates midnight skies. Six tokens converge where chaos and fate entwine—the jester knows, but riddles conceal the sign.",
+      "hint": "One reflects ambition, one tempts with luck, one wears the mask of merriment, one strikes swift, one transforms through air, one crowns the worthy."
+    },
+    "easyRiddle": {
+      "text": "I strike from above, I dance in the dark. A masked fool plays while fortune leaves its mark. Wings carry change through electrical spark. A prism of luck, a crown for the stark. Six symbols of destiny in the lottery's arc.",
+      "hint": "Lightning, Joker, Butterfly, Rainbow, Trophy, and one more symbol complete the set."
+    },
+    "answer": [
+      5,
+      12,
+      8,
+      9,
+      1,
+      18
+    ]
   }
 }
