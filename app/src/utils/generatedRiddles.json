@@ -11482,5 +11482,23 @@
       14,
       5
     ]
+  },
+  "sol_522": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial sentinel watches. Twin serpents dance in chromatic fracture, their scales catching flames of chaos. A masked jester spins between realms, while petaled whispers bloom in the thunder's embrace. Six souls converge where luck is born.",
+      "hint": "Seek the archer's mark, the watcher above, the mythical twin, the fool's grin, the delicate growth, and the storm's voice."
+    },
+    "easyRiddle": {
+      "text": "I am the target's bullseye, the dragon's kin, the gem that catches starlight, the moon's eternal gaze, the lightning's electric scream, and the flower that never wilts. Count us six and claim your prize.",
+      "hint": "One shoots straight, one flies high, one sparkles, one glows pale, one strikes fast, one blooms eternal."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      3,
+      5,
+      14
+    ]
   }
 }
