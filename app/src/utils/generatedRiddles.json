@@ -11464,5 +11464,23 @@
       1,
       18
     ]
+  },
+  "sol_519": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a serpent of old dances with celestial fire. The jester's laughter echoes through the prism of fate, while petals drift upon electric winds. What six celestial witnesses guard the threshold of destiny?",
+      "hint": "One pierces, one slithers, one laughs, one burns, one blooms, and one crackles—all dance beneath the cosmic stage."
+    },
+    "easyRiddle": {
+      "text": "A target marks the way, a dragon coils in shadow, a joker grins at fate, lightning splits the sky, a flower dreams in silence, and fire consumes the night. Name these six companions of chance.",
+      "hint": "A bullseye, a mythical beast, a fool's grin, nature's electricity, a bloom, and dancing flames."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      4,
+      14,
+      5
+    ]
   }
 }
