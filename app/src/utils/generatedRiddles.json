@@ -11680,5 +11680,23 @@
       8,
       21
     ]
+  },
+  "sol_533": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six whispers of fate converge: the archer's eternal mark, the vessel of dreams ascending through void, the crystalline fragment of starlight's jealousy, the lunar sentinel watching over chaos, the serpent of ancient wisdom coiled in flame, and the winged metamorphosis of spring's silent rebellion. Which six illuminate the threshold between chaos and destiny?",
+      "hint": "One seeks, one ascends, one glimmers, one watches, one guards, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Find the six symbols of fortune's wheel: the aim we seek, the flight we take, the jewel we treasure, the night we observe, the beast of legend, and the creature reborn. What are they?",
+      "hint": "Think of targets, rockets, gems, moons, dragons, and butterflies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      8
+    ]
   }
 }
