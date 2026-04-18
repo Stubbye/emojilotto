@@ -11788,5 +11788,23 @@
       17,
       5
     ]
+  },
+  "sol_538": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis ascends through prisms of chance. The archer's mark gleams beneath the jester's gaze, while fortune's spark ignites the path to crystalline glory.",
+      "hint": "Look for: the aimed direction, the flame of ambition, the masked trickster, the jeweled prize, the transformed insect, and the frozen light of destiny"
+    },
+    "easyRiddle": {
+      "text": "I hold luck in six forms: a target to aim, a flame to ignite, a gem to treasure, a joker to smile, a butterfly to transform, and a crystal to shine. What numbers complete this fortune?",
+      "hint": "Find the six emojis that represent aiming, burning, shining, laughing, changing, and freezing"
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      8,
+      21
+    ]
   }
 }
