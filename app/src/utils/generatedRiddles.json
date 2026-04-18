@@ -11806,5 +11806,23 @@
       8,
       21
     ]
+  },
+  "sol_540": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six keepers of fate dance in shadow's game. The jester's grin guards what shimmers in night, while scaled wisdom coils 'round crystalline light. A bloom of chaos, winged through the veil, speaks truths that mere mortals forever shall fail.",
+      "hint": "One reveals destiny's mark, one crowns the victor, one bends reality itself"
+    },
+    "easyRiddle": {
+      "text": "Find the target and the joker, the dragon and the star. Add the crystal and the butterfly to know how lucky you are.",
+      "hint": "Six symbols: one aims, one tricks, one soars, one shines, one reflects, one transforms"
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      21,
+      20,
+      8
+    ]
   }
 }
