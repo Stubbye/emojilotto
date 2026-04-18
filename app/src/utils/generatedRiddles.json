@@ -11572,5 +11572,23 @@
       5,
       8
     ]
+  },
+  "sol_528": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens spin in fate's romance. The archer's mark kisses the void, while lightning's twin ignites the joy. A winged soul ascends through prismed light, and fortune's jester crowns the night. What symbols claim the lottery's throne?",
+      "hint": "One points, one strikes twice, one flies, one laughs, one shines, one aims high"
+    },
+    "easyRiddle": {
+      "text": "Find the target of dreams, the rocket's flame, lightning's flash, the butterfly's grace, the joker's grin, and the star that shines—these six guide the lottery's design.",
+      "hint": "Think of ambition, speed, electricity, nature, humor, and destiny"
+    },
+    "answer": [
+      0,
+      4,
+      5,
+      8,
+      19,
+      21
+    ]
   }
 }
