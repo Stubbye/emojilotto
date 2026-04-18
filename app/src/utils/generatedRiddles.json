@@ -11662,5 +11662,23 @@
       8,
       10
     ]
+  },
+  "sol_532": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jest, a winged bearer of metamorphosis seeks the prism's gleam. Six keys unlock destiny: the archer's mark meets electric doom, while night's silver sentinel watches a spectral shape coil beneath radiant chaos.",
+      "hint": "Consider what transforms, what aims, what shines, what rules chance, what observes from above, and what ancient magic coils through sky."
+    },
+    "easyRiddle": {
+      "text": "One points the way true, one rides the lightning fast, one glitters with pure light, one hides luck and laughter, one soars with changing wings, one rules the starry night.",
+      "hint": "Think of targets, speed, shine, trickery, flight, and celestial bodies."
+    },
+    "answer": [
+      0,
+      4,
+      20,
+      19,
+      8,
+      21
+    ]
   }
 }
