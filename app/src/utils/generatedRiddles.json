@@ -11770,5 +11770,23 @@
       5,
       3
     ]
+  },
+  "sol_537": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between earthly flame and celestial pearl, six sentinels of fate converge: the jester's grin mocks certainty, the scaled serpent guards ancient wisdom, while crystalline light fragments into prismatic truth. The winged dancer of metamorphosis bows before the crowned achievement, yet all bow to chance's singular mark—where destiny's bolt strikes true.",
+      "hint": "One guides aim, one rules night, one reveals laughter, one transforms souls, one marks victory, and one commands the inferno."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in plain sight: the pointed mark of aim, the jester who laughs, the dragon so wise, the butterfly that transforms, the trophy that shines, and the fire that burns bright.",
+      "hint": "Target, Joker, Dragon, Butterfly, Trophy, Fire—find them all."
+    },
+    "answer": [
+      0,
+      12,
+      13,
+      8,
+      17,
+      5
+    ]
   }
 }
