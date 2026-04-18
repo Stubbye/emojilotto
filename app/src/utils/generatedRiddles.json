@@ -11824,5 +11824,23 @@
       20,
       8
     ]
+  },
+  "sol_542": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six guardians dance in twilight's embrace. The winged metamorphosis ascends through prismatic mist, while thunder's child and inferno's breath conspire beneath the juggler's canvas. Crystalline tears weep where destiny's marked sphere rests eternal.",
+      "hint": "Seek the marked path, transformation, light's spectrum, electricity's voice, heat's tongue, and the place where dreams are performed"
+    },
+    "easyRiddle": {
+      "text": "I point to fortune, I soar beyond Earth, I sparkle with color, I dance in the sky, I crackle with power, and I warm the soul. Six signs guide you—one aims, one flies, one shines bright, one bursts with light, one burns hot, and one entertains.",
+      "hint": "Think of a target, space travel, magical glow, storms, heat, and entertainment all together"
+    },
+    "answer": [
+      0,
+      1,
+      9,
+      5,
+      6,
+      7
+    ]
   }
 }
