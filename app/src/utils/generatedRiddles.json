@@ -11752,5 +11752,23 @@
       8,
       2
     ]
+  },
+  "sol_536": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath the celestial sentinel, a crystalline prism catches lightning's ephemeral kiss. The nocturnal orb witnesses chaos blooming through prismatic flames, as nature's winged herald spirals through the tempest's electric breath, seeking the gem that glimmers where all games of chance converge.",
+      "hint": "The answer lies where laughter meets destiny, where transparency meets thunder, and where wings meet fate."
+    },
+    "easyRiddle": {
+      "text": "A jester laughs, crystal gleams, lightning strikes, a butterfly dances, fire glows, and the moon watches. What six join together in this lucky night?",
+      "hint": "Look for the trickster, the shiny stone, the electric storm, the flying friend, the hot glow, and the night guardian."
+    },
+    "answer": [
+      19,
+      21,
+      4,
+      8,
+      5,
+      3
+    ]
   }
 }
