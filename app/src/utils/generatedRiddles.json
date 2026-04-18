@@ -11608,5 +11608,23 @@
       14,
       20
     ]
+  },
+  "sol_530": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged soul spirals through prismatic arcs. The archer's mark glows beneath the night's pearl, while electric fingers sketch chaos across the vault of dreams. Six sacred signs converge where destiny pirouettes.",
+      "hint": "Think of luck's theater, reaching skyward, where opposites attract in chromatic harmony."
+    },
+    "easyRiddle": {
+      "text": "A rocket climbs toward the moon under lightning's glow. A butterfly floats past a rainbow of sparkles. What six symbols guide the lottery's fortune?",
+      "hint": "One reaches space, one lights the sky, one flies free, and three paint with light."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      9,
+      8,
+      10
+    ]
   }
 }
