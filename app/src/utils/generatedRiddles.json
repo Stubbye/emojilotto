@@ -11860,5 +11860,23 @@
       18,
       13
     ]
+  },
+  "sol_544": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of fate converge: the archer's mark bleeding into the void, a scaled leviathan breathing storms of brilliance, night's pale sentinel watching over crystalline tears, a jester's grin masking cosmic truth, winged metamorphosis seeking prismatic paths, and the crescendo of thunder frozen in radiant bloom.",
+      "hint": "One marks aim, one rules skies, one reflects light, one deceives, one transforms, one illuminates—all six whisper of destiny's game."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: a mark to aim for, a scaly creature of legend, a glowing night orb, a joking trickster, a colorful insect, and a powerful storm—which six dance together in this lottery of dreams?",
+      "hint": "Think of targets, dragons, the moon, jokers, butterflies, and lightning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      5
+    ]
   }
 }
