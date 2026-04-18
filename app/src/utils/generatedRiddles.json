@@ -11698,5 +11698,23 @@
       14,
       8
     ]
+  },
+  "sol_534": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the cosmic dancer, and the serpent of fate coils beneath celestial fire. The jester's grin guards the prism of dreams, while the winged soul spirals through storms of light. Seek ye the trinity of chaos: the bolt that devours silence, the beast that breathes eternity, and the sphere that watches over all.",
+      "hint": "Three chaos bringers and three keepers of secrets dwell in this nexus of chance."
+    },
+    "easyRiddle": {
+      "text": "I strike with fury from the sky, a serpent breathes where mortals sigh, the fool grins wide while fortunes fly, and watchers gaze as odds defy.",
+      "hint": "Lightning is one, and you need three more symbols of power and mischief."
+    },
+    "answer": [
+      4,
+      13,
+      18,
+      21,
+      9,
+      3
+    ]
   }
 }
