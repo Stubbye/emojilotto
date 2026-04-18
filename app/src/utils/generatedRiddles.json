@@ -11716,5 +11716,41 @@
       9,
       3
     ]
+  },
+  "sol_535": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger ascends past the glowing sentinel. Precious fragments align with nature's arc of promise, while chaos whispers through crystalline depths—six secrets converge where destiny's spotlight gleams upon the stage of possibility.",
+      "hint": "Think of luck, ascension, gemstones, and the cosmic theater"
+    },
+    "easyRiddle": {
+      "text": "A rocket climbs toward the moon, lightning strikes a gem, and a butterfly rests on a rainbow. What six things make your fortune complete?",
+      "hint": "Count the emojis mentioned in the easy riddle"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      9,
+      5,
+      19
+    ]
+  },
+  "emlo_207": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, leaving trails of brilliance. Fortune's twin wheels spin beneath a jester's grin, while nature's transformation flutters nearby. All gathered under the mage's crystalline gaze.",
+      "hint": "Think of HODL journey: where we go, how we get there, luck, entertainment, change, and magic gems"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 🎲 shows luck, 🃏 brings fun, 🦋 means change, 💎 means wealth",
+      "hint": "A memecoin investor's daily experience in 6 symbols"
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      19,
+      8,
+      2
+    ]
   }
 }
