@@ -11554,5 +11554,23 @@
       11,
       13
     ]
+  },
+  "emlo_205": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, seeking fortune's sparkle in the void. A trickster's grin meets nature's gentle flutter, while gems crystallize my volatile worth. What six symbols embody the memecoin gambler's journey?",
+      "hint": "Think of the path from earth to riches, with chaos and magic along the way"
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket with lightning fast gains! Gems sparkle bright as fire burns, a butterfly dances past the joker's grin. Which six emojis pump this memecoin dream?",
+      "hint": "One goes up, one shines bright, one tricks you, one flies, one burns, one glitters"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
   }
 }
