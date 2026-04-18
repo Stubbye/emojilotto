@@ -11590,5 +11590,23 @@
       19,
       21
     ]
+  },
+  "sol_529": {
+    "hardRiddle": {
+      "text": "Where fortune's arc bends through the veil of night, six keepers dance in shadow's light. The jester grins as flames consume the stage, while scaled wisdom guards the ages. Swift feet leap through petaled grace, and crystal song echoes in space. Seek the mark where destinies align, where laughter meets the serpent's sign.",
+      "hint": "One wears motley, one breathes smoke, one slithers eternal, one flutters free, one grows from earth, one sings silent geometry."
+    },
+    "easyRiddle": {
+      "text": "I wear a mask and tell jokes. Fire dances on stages. A dragon guards treasure. A butterfly floats free. A flower blooms. A crystal reflects light. Find these six in the lottery's night.",
+      "hint": "Circus fool, flame, scaled beast, winged insect, nature's beauty, shining stone."
+    },
+    "answer": [
+      19,
+      6,
+      13,
+      8,
+      14,
+      20
+    ]
   }
 }
