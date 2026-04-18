@@ -11842,5 +11842,23 @@
       6,
       7
     ]
+  },
+  "sol_543": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate align. The archer's mark burns bright as twin suns descend, while fortune's jester grins through prismatic tears. A scaled guardian watches over crystalline dreams, as winged metamorphosis spirals through luck's corridor.",
+      "hint": "Chaos and order intertwine; one flies, one burns, one judges, one transforms, one guides, one glimmers."
+    },
+    "easyRiddle": {
+      "text": "I glow in night sky, I spark with power, I sparkle with wonder, I breathe with flame, I laugh as trickster, I soar as beast. Six treasures of chance revealed.",
+      "hint": "Find: celestial light, electric force, magic shimmer, hot energy, playful fool, and ancient scales."
+    },
+    "answer": [
+      3,
+      5,
+      10,
+      6,
+      18,
+      13
+    ]
   }
 }
