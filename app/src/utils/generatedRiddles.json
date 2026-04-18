@@ -11626,5 +11626,41 @@
       8,
       10
     ]
+  },
+  "sol_531": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with chaos, a masked trickster ignites the void. Six beacons pierce the obsidian: the archer's true mark, the serpent's ancient coil, the crystalline heart's refraction, Luna's phantom glow, the jester's stolen crown, and the winged metamorphosis ascending through prismatic veil.",
+      "hint": "One seeks precision, one embodies wisdom, one refracts light, one rules night, one mocks destiny, one transforms truth."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures in this sequence: First, where arrows fly true. Second, the wise creature of cunning. Third, a precious stone that sparkles. Fourth, the night's watchful guardian. Fifth, the card player's mischievous friend. Sixth, the delicate soul that rises renewed.",
+      "hint": "Look for: target, fox, gem, moon, joker, and butterfly."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      3,
+      19,
+      8
+    ]
+  },
+  "emlo_206": {
+    "hardRiddle": {
+      "text": "I launch with electric speed to chase the gem at night, my sparkles dance with fire as butterflies take flight. A joker holds the trophy while fortune spins around, where crystal waves meet rockets on this mystical ground.",
+      "hint": "Think of a memecoin's journey: rapid ascent, dazzling gains, and the chaotic energy of diamond hands hodling through volatility."
+    },
+    "easyRiddle": {
+      "text": "A fast vehicle with lightning power seeks something shiny, dancing butterflies celebrate with sparkles and fire, while a joker laughs at the moon.",
+      "hint": "What 6 things represent a crypto journey to the moon with explosive gains and chaotic fun?"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      8,
+      10
+    ]
   }
 }
