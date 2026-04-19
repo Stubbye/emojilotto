@@ -12274,5 +12274,23 @@
       5,
       6
     ]
+  },
+  "sol_563": {
+    "hardRiddle": {
+      "text": "Through celestial depths where fortune's archer aims, the winged metamorphosis ascends on crackling veins. Where gemstone hearts refract the prism's sacred dance, and masked performers juggle fate's electric trance. The scaled leviathan roars where lightning splits the night, while chaos rolls its numbered bones in fortune's sight.",
+      "hint": "One soars between worlds, one transforms through struggle, one glimmers with inner light, one hides true face, one commands ancient power, one decides with chance."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one that marks a distant goal, one that breaks free and flies, one that sparkles bright, one that wears a hidden grin, one that crackles with power, and one that rolls for luck.",
+      "hint": "Think of targets, transformation, gems that glow, trickster energy, wild forces, and games of chance."
+    },
+    "answer": [
+      0,
+      8,
+      5,
+      19,
+      14,
+      11
+    ]
   }
 }
