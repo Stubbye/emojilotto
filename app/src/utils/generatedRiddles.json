@@ -11968,5 +11968,23 @@
       5,
       8
     ]
+  },
+  "sol_548": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, a crystalline heart ignites celestial blaze. The jester's twin dances with nature's small grace, while thunder crowns destiny's hidden place. Seek the six that bind chaos to light, where gems whisper secrets of fate's flight.",
+      "hint": "Look for: aim, sky's keeper, precious stone, chaos bringer, trickster's echo, and nature's dancer"
+    },
+    "easyRiddle": {
+      "text": "Find the target's mark, the moon's bright face, a gem that gleams, lightning's trace, the joker's jest, and butterfly's grace.",
+      "hint": "One points the way, one lights the night, one sparkles bright, one strikes with might, one makes us laugh, one dances light"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      11,
+      8
+    ]
   }
 }
