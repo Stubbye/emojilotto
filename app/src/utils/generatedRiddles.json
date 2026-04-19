@@ -12238,5 +12238,23 @@
       5,
       6
     ]
+  },
+  "sol_561": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a crimson serpent dances with celestial fire. The jester's twin masks reveal what the winged messenger cannot speak, while the earth's precious tears catch starlight in their crystalline embrace. Seek the emblem of victory where chaos is tamed into geometric chance.",
+      "hint": "Think of destiny's symbols: aim, flame, duality, wing, gem, and fortune's cube"
+    },
+    "easyRiddle": {
+      "text": "I point the way to riches, I burn with passion's heat. A creature of two faces laughs, while wings dance to the beat. A precious stone gleams brightly, and dice decide our fate. Six signs of luck await you—can you name them at the gate?",
+      "hint": "Target, fire, joker, butterfly, gem, and dice"
+    },
+    "answer": [
+      0,
+      5,
+      12,
+      8,
+      2,
+      11
+    ]
   }
 }
