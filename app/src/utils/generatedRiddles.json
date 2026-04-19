@@ -12256,5 +12256,23 @@
       2,
       11
     ]
+  },
+  "sol_562": {
+    "hardRiddle": {
+      "text": "Where fortune's six sentinels dance in shadow's theater: the celestial archer guards the gate, the winged metamorphosis carries wishes through prismatic veils, the ancient wyrm coils beneath fortune's crown, the jester's mask conceals the chaos merchant, and twin flames—one born of sky's wrath, one of primal breath—ignite the stage where destiny pirouettes.",
+      "hint": "Seek the trickster's companion, the dragon's wisdom, the butterfly's transformation, lightning's fury, fire's hunger, and the goal's true aim"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck hide in this verse: an archer's mark awaits, a dragon sleeps in ancient gold, a butterfly dances free, the joker grins mischievously, lightning splits the sky, and fire burns eternal. Can you name them all?",
+      "hint": "Think of: aim, wings, scales, laughter, electricity, and flame"
+    },
+    "answer": [
+      0,
+      8,
+      13,
+      19,
+      5,
+      6
+    ]
   }
 }
