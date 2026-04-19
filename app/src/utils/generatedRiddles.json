@@ -12148,5 +12148,23 @@
       8,
       20
     ]
+  },
+  "sol_557": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and gemstone light dances with tempest's desire, the jester's grin holds secrets untold, while nature's messenger bears wings of gold. Seek the mark where chaos and grace entwine, six threads of fate in the cosmic design.",
+      "hint": "Think of targets, celestial bodies, precious things, chaos, transformation, and victory's symbols."
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye, the night's bright orb, the precious stone, the wild bolt, the colorful insect, and the grinning trickster. Six lucky charms await those with keen eyes.",
+      "hint": "One is aimed at, one is in the sky, one is valuable, one is fast, one transforms, one plays tricks."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      5,
+      8,
+      19
+    ]
   }
 }
