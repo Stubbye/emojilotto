@@ -12058,5 +12058,23 @@
       12,
       19
     ]
+  },
+  "sol_552": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six visions converge in destiny's appeal. The archer's mark meets the flame's wild kiss, while scaled majesty guards what mortals miss. A shimmer of chance adorns the night's domain, and nature's metamorphosis breaks free from chain.",
+      "hint": "Seek the intersection of luck, power, transformation, and cosmic fortune. One is aimed, one ascends, one glimmers, one rules, one ignites, one metamorphoses."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of chance and wonder: a bullseye of dreams, a rocket that soars, a gem that sparkles, a dragon of might, a flame that roars, and a butterfly reborn.",
+      "hint": "Look for: aim, flight, treasure, power, heat, and wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      5,
+      8
+    ]
   }
 }
