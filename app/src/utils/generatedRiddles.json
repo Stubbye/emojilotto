@@ -12292,5 +12292,23 @@
       14,
       11
     ]
+  },
+  "emlo_214": {
+    "hardRiddle": {
+      "text": "To the moon we blast with electric speed, through crystal gates where dragons feed. Rainbow trails mark fortune's way, as jokers dance where sparkles play. What six celestial tokens light the memecoin's midnight flight?",
+      "hint": "One launches you, one blinds with glow, one shines above, one makes fortunes flow, one dances wild, one gleams so bright"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, dragon breathes fire, crystal and sparkles fulfill desire. Rainbow and lightning complete the six—which emojis are in this memecoin mix?",
+      "hint": "Think of launch, magic, light, and sky"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      9,
+      13,
+      10
+    ]
   }
 }
