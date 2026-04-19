@@ -12076,5 +12076,23 @@
       5,
       8
     ]
+  },
+  "sol_553": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the jester's grin reflects in crystalline dreams—seek the archer's mark through prismatic gates where winged transformation meets the bolt that cleaves the veil between chaos and destiny.",
+      "hint": "One is worn by performers, one is thrown for chance, one burns in the sky, one pierces it, one is aimed at, and one transforms."
+    },
+    "easyRiddle": {
+      "text": "I am struck from above, I glow in the night, I break into pieces that sparkle so bright. A mask hides a smile, dice roll for a prize, and a butterfly floats where the target complies.",
+      "hint": "Think of a storm, a performer's show, and a game of chance."
+    },
+    "answer": [
+      4,
+      22,
+      5,
+      1,
+      0,
+      8
+    ]
   }
 }
