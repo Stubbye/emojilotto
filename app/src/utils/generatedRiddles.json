@@ -12130,5 +12130,23 @@
       8,
       20
     ]
+  },
+  "sol_556": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin masks dance between twin realms. The winged wanderer spirals through amethyst dreams, while crystalline light shatters across the cosmic stage. In this theatre of chance, six guardians waltz—one points the way, one ignites the void, one laughs in duality, one floats in silence, one transforms with iridescence, one refracts eternity's song.",
+      "hint": "Seek the marked target, the ascending path, the duplicitous smile, the distant watcher, the morphing soul, and the eternal prism."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance appear: the first you aim at, the second climbs high, the third wears two faces and grins, the fourth hangs above us at night, the fifth flutters with changing colors, and the sixth catches light in endless ways.",
+      "hint": "Think of a game of luck with a target, a rocket, a joker, a moon, a butterfly, and a crystal."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      3,
+      8,
+      20
+    ]
   }
 }
