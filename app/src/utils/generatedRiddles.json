@@ -12166,5 +12166,23 @@
       8,
       19
     ]
+  },
+  "sol_558": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath the celestial guardian, the crimson serpent coils through prismatic silence. Six-sided fate spins whilst the winged nocturne flutters past crystalline dreams, and the archer's mark glows beneath thunder's ancient crown.",
+      "hint": "One rules the night, one falls from sky, one tests your luck, one transforms, one strikes with fury, one seeks precision."
+    },
+    "easyRiddle": {
+      "text": "A jester plays games with a dragon under the moon, while lightning crashes near a crystal and a butterfly dances toward a target in the stars.",
+      "hint": "Find the joker, dragon, moon, crystal, lightning, butterfly, and target - but only six belong."
+    },
+    "answer": [
+      19,
+      13,
+      3,
+      20,
+      4,
+      1
+    ]
   }
 }
