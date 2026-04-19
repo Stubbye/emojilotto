@@ -11914,5 +11914,23 @@
       6,
       9
     ]
+  },
+  "sol_546": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six harbingers convene in shadow's trance. The archer's mark dissolves in stellar flame, while gemmed ascension and lightning's acclaim intertwine with metamorphosis crowned. A dragon's breath ignites the circle's ground, and where masks unveil the jester's smile, luck pirouettes through chaos all the while.",
+      "hint": "Seek the intersection of ambition, fate, and transformation—one pierces destiny, one births it, one consumes it, one soars beyond, one judges all, and one reveals what's hidden."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of fortune's game: one aims true, one climbs high, one glimmers bright, one crackles wild, one reveals secrets, and one laughs at destiny itself. What are we?",
+      "hint": "Think of winning: targeting success, rising to glory, shining treasure, burning passion, hidden truth, and joking with fate."
+    },
+    "answer": [
+      0,
+      2,
+      21,
+      5,
+      18,
+      19
+    ]
   }
 }
