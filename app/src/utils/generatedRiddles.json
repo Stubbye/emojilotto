@@ -12004,5 +12004,23 @@
       16,
       14
     ]
+  },
+  "sol_550": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in night's desire. The winged soul pirouettes through chromatic tears, while cosmic ice gleams secrets of a thousand years. The jester's mask conceals what lightning spoke, and petals bloom where dragon's promise woke.",
+      "hint": "Consider what ascends, what shimmers, what deceives, and what grows in the garden of chance."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within the carnival of fate: the archer's mark, the sky's bright gate, the jeweled fire that splits the night, the dancer with wings of pure light, the painted jester's sacred guise, and nature's crown of sweetest prize.",
+      "hint": "Think of targets, the moon, lightning, butterflies, jesters, and flowers."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      8,
+      18,
+      14
+    ]
   }
 }
