@@ -11932,5 +11932,41 @@
       18,
       19
     ]
+  },
+  "sol_547": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked twin, six tokens of fate spiral through destiny's grin. The archer's true path meets the serpent's dark throne, while gemstone and radiance claim what was sown. In this labyrinth of chance, the jester and jewel conspire—find them all, and let destiny transpire.",
+      "hint": "One points the way, one breathes the flame, one wears a grin without shame, one sparkles eternal, one rules the night, and one precious stone holds ancient light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck hide within this game: a bull's-eye for aim, a dragon aflame, a joker's jest, a gem so bright, the moon's silver glow, and stars burning white.",
+      "hint": "Think of targets, dragons, jesters, gems, moons, and stars."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      11,
+      21,
+      19
+    ]
+  },
+  "emlo_210": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking precious gems that sparkle like fortune. The jester's magic creates chaos and fire, while nature's winged beauty dances through my cosmic stage. What six symbols guide this memecoin journey?",
+      "hint": "Think of the moonshot narrative: speed, wealth, luck, entertainment, nature, and the path to stardom."
+    },
+    "easyRiddle": {
+      "text": "A coin that rockets to the moon with lightning speed, shining like gems and sparkles. The joker brings luck and fire to this butterfly's dance. Name these six emoji.",
+      "hint": "Look for: launch, destination, speed, treasure, chaos, and grace."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      5,
+      8
+    ]
   }
 }
