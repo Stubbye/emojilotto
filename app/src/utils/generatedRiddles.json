@@ -11986,5 +11986,23 @@
       11,
       8
     ]
+  },
+  "sol_549": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, six mysteries entwine: the jester's eternal grin conceals what the scaled guardian hoards, while wings of metamorphosis dance with the musician's voice, and where chaos sparkles in the firmament's embrace, the winged trickster grins beneath petals of purity.",
+      "hint": "Consider what is hidden, what transforms, what deceives, and what sings in the darkness."
+    },
+    "easyRiddle": {
+      "text": "One points to luck, one guards treasures ancient, one changes form with grace, one laughs in riddles, one plays melodies, and one pretends to be trustworthy.",
+      "hint": "Think of targets, dragons, butterflies, jokers, guitars, and foxes."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      1,
+      16,
+      14
+    ]
   }
 }
