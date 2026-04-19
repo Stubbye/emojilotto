@@ -12022,5 +12022,41 @@
       18,
       14
     ]
+  },
+  "sol_551": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled guardian watches the spectrum bend. Lightning's kiss marks the center, while fortune's bloom and nature's wings spiral through crimson chaos. Seek the six that paint destiny's masquerade.",
+      "hint": "One rules the night, one strikes in fury, one deceives with laughter, one transforms, one blooms eternal, one adorns the performer's stage."
+    },
+    "easyRiddle": {
+      "text": "A night ruler, a fast striker, a tricky jester, a flying friend, a pretty flower, and a circus wonder. Six tokens of chance await the bold.",
+      "hint": "Look to the sky, the storm, the cards, the garden, the wings, and the big top."
+    },
+    "answer": [
+      3,
+      5,
+      17,
+      8,
+      14,
+      6
+    ]
+  },
+  "emlo_211": {
+    "hardRiddle": {
+      "text": "From earth I launch with blazing speed, through cosmic void to reach my need. Precious gems await up high, where fortune sparkles in the sky. A joker's luck and magic's dance, give hodlers their financial chance.",
+      "hint": "Think of a memecoin's journey: launching with energy, reaching for riches, and the magical elements that make it lucky."
+    },
+    "easyRiddle": {
+      "text": "A coin that shoots up fast and bright, with treasures gleaming in the night. Lucky symbols all align, making diamond hands truly shine.",
+      "hint": "Combine launch power, destination, valuables, and symbols of good fortune."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      7,
+      12,
+      19
+    ]
   }
 }
