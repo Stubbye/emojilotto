@@ -12094,5 +12094,41 @@
       0,
       8
     ]
+  },
+  "sol_555": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six celestial dancers emerge: the winged metamorphosis ascends through prismatic arcs, while the scaled sovereign breathes ancient fury. The crystalline heart gleams eternal, and where laughter's mask adorns the threshold between chaos and grace, the thunderous serpent of sky conducts its symphony of chance.",
+      "hint": "Seek the transformation, the mythical guardian, the eternal gem, the fool's grin, the sky's wrath, and destiny's mark."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this mystical call: a creature that flies and changes form, a beast of legend and smoke, a precious stone that never fades, a jester's playful token, the sky's angry voice, and a circle that marks what you seek.",
+      "hint": "One flies with beauty, one guards with fire, one sparkles forever, one jokes around, one strikes fast, and one shows the way."
+    },
+    "answer": [
+      8,
+      13,
+      20,
+      11,
+      4,
+      0
+    ]
+  },
+  "emlo_212": {
+    "hardRiddle": {
+      "text": "I dance with lightning through the night, my gem shines bright with fire's light. On rocket wings to moon I soar, where sparkles mark the treasure's door. With dragon's luck and crystal clear, the joker's prize shall soon appear.",
+      "hint": "Six celestial symbols guide the way to memecoin riches"
+    },
+    "easyRiddle": {
+      "text": "Boom to the moon with a gem so bright, lightning and fire burning light, sparkles dancing in the night - six magic symbols of crypto might!",
+      "hint": "Look for: fast travel, shiny treasure, bright energy, burning heat, glittery magic, and moonlight"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      20
+    ]
   }
 }
