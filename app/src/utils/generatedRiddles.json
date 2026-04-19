@@ -12202,5 +12202,41 @@
       8,
       21
     ]
+  },
+  "sol_560": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels guard the threshold between chaos and destiny. The winged trickster pirouettes past the jeweled crown while thunder's child ascends. In the center lies the gemstone of fate, ringed by the fox's cunning shadow and the dragon's ancient wisdom. What six reveal the lottery's deepest secret?",
+      "hint": "Consider symbols of luck, power, deception, and the cosmos. One creature deceives, one hoards treasure, one wields thunder."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols spin in the lottery wheel: a prize to win, a rocket to fly, a shining gem, the glowing moon, crackling lightning, and a dancing fox. Which six are they?",
+      "hint": "Look for: something you aim for, something that flies, something precious, something in the night sky, something that strikes, and something clever."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
+  },
+  "emlo_213": {
+    "hardRiddle": {
+      "text": "I launch to the lunar destination with electric speed, seeking precious gems that sparkle like fortune. When fortune strikes like lightning, I celebrate with fiery passion under the circus tent of dreams.",
+      "hint": "Think of a memecoin journey: launch vehicle, destination, valuable treasure, energy, celebration venue, and intensity"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, finds 💎, powered by ⚡, with 🔥 energy, in a 🎪 atmosphere",
+      "hint": "Follow the rocket's journey through space to find wealth and celebration"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      6
+    ]
   }
 }
