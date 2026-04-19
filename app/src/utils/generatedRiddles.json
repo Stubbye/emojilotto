@@ -12184,5 +12184,23 @@
       4,
       1
     ]
+  },
+  "sol_559": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin spirals, the jester's crimson grin reflects in crystalline depths. Six symbols converge: the archer's destination meets heaven's torch, while masked revelry swirls with nature's metamorphosis. Luck's geometric whisper echoes where brilliance shatters the veil between chaos and destiny.",
+      "hint": "One brings fortune's aim, one ascends to heavens, one reflects light's soul, one conceals truth, one transforms utterly, one speaks in chance."
+    },
+    "easyRiddle": {
+      "text": "I am six: a bulls-eye's purpose, a flame that climbs, a stone that gleams, a masked deceiver, a creature reborn, and the spark of fortune's call.",
+      "hint": "Target, fire, gem, joker, butterfly, and one more sparkly friend."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      8,
+      21
+    ]
   }
 }
