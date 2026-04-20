@@ -12562,5 +12562,23 @@
       21,
       22
     ]
+  },
+  "sol_578": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a jeweled serpent coils through midnight's grace. Lightning splits the prism's stolen fire, while chaos dances with the jester's desire. Six threads weave fate's most cryptic score, in this celestial theater of the sacred core.",
+      "hint": "Think of precision meeting chaos, wealth meeting illusion, and the heavens holding earthly treasures."
+    },
+    "easyRiddle": {
+      "text": "One aims with perfect precision, one glows in darkness above, one sparkles with value, one crackles with power, one wears many faces of mirth, and one brings laughter's wicked surprise. What are these six harbingers of chance?",
+      "hint": "Consider the tools of targeting, night sky, precious items, weather phenomena, performance arts, and trickery."
+    },
+    "answer": [
+      0,
+      2,
+      21,
+      4,
+      18,
+      11
+    ]
   }
 }
