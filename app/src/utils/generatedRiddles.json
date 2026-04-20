@@ -12418,5 +12418,23 @@
       4,
       8
     ]
+  },
+  "sol_571": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens align in fate's surreal theater. The archer's goal gleams in prismatic depths, while winged metamorphosis spirals through electric storms beneath the jester's crimson gaze.",
+      "hint": "Think of luck's symbols: aim, light, value, change, chaos, and deception"
+    },
+    "easyRiddle": {
+      "text": "Find the target's sparkle, the rocket's gem, the lightning's dance, the butterfly's flight, the joker's laugh, and the dice's fortune.",
+      "hint": "Six lucky symbols: aim at treasure, reach for magic, charge with power, transform with grace, laugh at fate, and roll the bones"
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      8,
+      19,
+      11
+    ]
   }
 }
