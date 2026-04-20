@@ -12436,5 +12436,41 @@
       19,
       11
     ]
+  },
+  "sol_572": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six tokens of fate converge: the archer's mark swallows lightning's fury, while the winged creature spirals through gemstone brilliance, and the lunar sentinel weeps crystalline tears upon the rainbow's forgotten stage.",
+      "hint": "Consider what guides, what sparkles, what watches, what strikes, what transforms, and what shimmers in the cosmic performance."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: the target awaits, lightning strikes with purpose, the gem glows eternal, the moon watches above, the butterfly dances free, and the crystal catches all light.",
+      "hint": "Look for precision, electricity, riches, night, wings, and clarity."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      8,
+      20
+    ]
+  },
+  "emlo_217": {
+    "hardRiddle": {
+      "text": "I chase the sky with electric speed, a gem that burns with fiery greed. The joker laughs as fortune spins, where moonlight dances and chaos wins. A butterfly's kiss on diamond dreams, nothing's quite as it seems.",
+      "hint": "Think of volatile gains, celestial hopes, and the trickster's game of chance"
+    },
+    "easyRiddle": {
+      "text": "Blast to the moon with rocket fire! A gem so bright, the joker's desire. Lightning strikes the butterfly's dance, as fortune spins in this lottery chance!",
+      "hint": "Count the symbols: launch, burn, sparkle, chaos, luck, and wings"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      13,
+      8
+    ]
   }
 }
