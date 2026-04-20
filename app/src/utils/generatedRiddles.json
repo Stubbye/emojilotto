@@ -12346,5 +12346,23 @@
       9,
       5
     ]
+  },
+  "sol_568": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six witnesses dance betwixt chaos and fame. The jester's twin smile guards gems of the night, while wings of transformation flutter through lightning's sight. What blazes eternal yet leaves not a scar, as luck spins its wheel beneath the morning star?",
+      "hint": "Consider what guides fate, what burns without burning, what laughs at destiny, and what transforms the seeker's journey."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one that aims true, one that laughs at fate, one that shines in darkness, one that cuts through storms, one born of fire's kiss, and one that bears wings of change. Together they hold the secret to tonight's fortune.",
+      "hint": "Think of a target, a joker, a star, lightning, fire, and a butterfly."
+    },
+    "answer": [
+      0,
+      12,
+      21,
+      4,
+      5,
+      7
+    ]
   }
 }
