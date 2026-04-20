@@ -12364,5 +12364,41 @@
       5,
       7
     ]
+  },
+  "sol_569": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent breathes in celestial heights, and the jester's twin masks dance with lightning's spite. A crystalline prism splits the archer's mark, while chaos rolls beneath the butterfly's arc. Seek the trembling flame that feeds the star's delight, and the gemstone's whisper in the purple night.",
+      "hint": "One speaks in riddles, one in light, one in stone, one in flight, one in chance, one in sight."
+    },
+    "easyRiddle": {
+      "text": "I contain a dragon's fire, a joker's jest, a crystal's gleam, a star so blessed, a gem that shines, and lightning's crest. Which six magical symbols are the very best?",
+      "hint": "Think of magic, mischief, luck, and cosmic power combined."
+    },
+    "answer": [
+      13,
+      1,
+      20,
+      21,
+      4,
+      10
+    ]
+  },
+  "emlo_216": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gems sparkle with electric fortune. A joker's luck strikes like thunder, while dragon wings carry me through the circus of chaos. What six symbols mark my path to glory?",
+      "hint": "Think of a memecoin journey: destination, velocity, treasure, cosmic goal, chaos, and mythical power."
+    },
+    "easyRiddle": {
+      "text": "🎯 I point at profits. 🚀 I launch to the 🌙 moon. 💎 I'm treasure. ⚡ I'm fast as lightning. 🎪 I'm the wild party. 🐉 I'm legendary power. Find all six!",
+      "hint": "A memecoin's adventure: aim, rocket, gem, moon, lightning, circus, and dragon combine into success!"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      13
+    ]
   }
 }
