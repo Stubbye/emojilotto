@@ -12544,5 +12544,23 @@
       21,
       19
     ]
+  },
+  "sol_577": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone catches starlight's face. Thunder splits the canvas wide, while inferno dances at the tide. Six celestial dancers in the night—one claims the bullseye, pure and bright.",
+      "hint": "Seek the meeting of precision and cosmos, where elements perform their ancient duet."
+    },
+    "easyRiddle": {
+      "text": "I shine with aim, I burn with might, I glow like stones beneath the night. One strikes from sky, one blazes free, and stars above watch over me. What six symbols hold the key?",
+      "hint": "Think of targets, gems, fire, lightning, stars, and the moon."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      6,
+      21,
+      22
+    ]
   }
 }
