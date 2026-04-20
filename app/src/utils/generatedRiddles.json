@@ -12328,5 +12328,23 @@
       14,
       20
     ]
+  },
+  "emlo_215": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, sparkling like gems in the void. My fortune spins wildly, guided by mystic luck and rainbow visions, as chaos ignites opportunity.",
+      "hint": "Think of the journey: departure, destination, fortune, energy, mysticism, and chaos combined."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, 🌈 brings luck, and 🔥 fuels the hype!",
+      "hint": "A memecoin investor's dream sequence: launch, energy, value, destination, fortune, and enthusiasm."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      5
+    ]
   }
 }
