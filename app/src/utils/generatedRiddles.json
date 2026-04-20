@@ -12508,5 +12508,41 @@
       14,
       23
     ]
+  },
+  "sol_575": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six harbingers of fate converge. The archer's mark meets the void's sentinel, while fortune's jester pirouettes through crystalline dreams. Lightning's kiss ignites the performer's stage, and chaos blooms eternal in the gambler's domain.",
+      "hint": "One represents destiny's aim, one guards the darkness, one mocks with wisdom, one shatters with brilliance, one electrifies spectacle, and one turns all to chance."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this verse: What you aim for, what rules the night sky, what tricks and laughs, what sparkles bright, what shocks with power, and what spins with luck?",
+      "hint": "Think of targets, nighttime, tricksters, gems, weather, and games of chance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      4,
+      11
+    ]
+  },
+  "emlo_218": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving trails of cosmic dust. My gems sparkle with fortune as I dance through the night, guided by fortune's lucky symbol. What am I?",
+      "hint": "Think of a memecoin's journey: rapid ascent, magical shine, and lucky charm."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes fast, fire burns hot, star glows above, clover brings luck. Which 6 bring fortune to the HODLER?",
+      "hint": "Look for symbols of speed, wealth, power, and good fortune."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      21,
+      19
+    ]
   }
 }
