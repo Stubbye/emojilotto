@@ -12490,5 +12490,23 @@
       20,
       21
     ]
+  },
+  "sol_574": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, a serpent of light dances through crystalline labyrinths. The jester's twin flame ignites prismatic shards, while petals bloom in the chamber of celestial fire. Six guardians of fate converge where chaos wears a smile and destiny sparkles with gemstone secrets.",
+      "hint": "One pierces destiny, one swallows worlds, one breaks through darkness, one births wonder, one reflects truth, one mocks the seeker."
+    },
+    "easyRiddle": {
+      "text": "I am the mark you aim for, the beast of ancient lore, the stone that catches light, the trickster's painted face, the flower's gentle grace, and the shower after the storm. Together we are six.",
+      "hint": "Think of targets, dragons, crystals, jokers, flowers, and water."
+    },
+    "answer": [
+      0,
+      13,
+      20,
+      18,
+      14,
+      23
+    ]
   }
 }
