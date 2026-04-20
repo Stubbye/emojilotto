@@ -12400,5 +12400,23 @@
       5,
       13
     ]
+  },
+  "sol_570": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's deep sigh, six secrets dance 'tween earth and sky. The jester's laugh ignites the night, while crystal tears refract the light. A winged muse pirouettes through flame, and verdant luck whispers its name.",
+      "hint": "Think of chaos, performance, and celestial pathways where trickery and natural magic intertwine."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: one aims with purpose, one soars beyond reach, one sparkles with value, one fools with laughter, one burns bright, and one flutters free.",
+      "hint": "Look for targets, heights, wealth, deception, heat, and wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
