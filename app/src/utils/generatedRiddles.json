@@ -12310,5 +12310,23 @@
       13,
       10
     ]
+  },
+  "sol_566": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin wheels, and the fox's cunning mirrors the dragon's ancient scales, beneath the jester's grin lies the treasure that ignites—seek the winged metamorphosis that crowns all spectacles, where chaos blooms eternal in crystalline brilliance.",
+      "hint": "Look for: a performer's guise, a creature of transformation, a symbol of chaos, a scaled legend, a nocturnal guardian, and the gem that holds all light"
+    },
+    "easyRiddle": {
+      "text": "A dancing flame meets fortune's dice, a masked performer grins with vice. A creature flies with colorful wing, while dragons hoard the precious thing.",
+      "hint": "You need: fire, dice, joker, butterfly, dragon, and one sparkling object"
+    },
+    "answer": [
+      6,
+      8,
+      11,
+      13,
+      14,
+      20
+    ]
   }
 }
