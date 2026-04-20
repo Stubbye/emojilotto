@@ -12472,5 +12472,23 @@
       13,
       8
     ]
+  },
+  "sol_573": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits waltz in shadow's trance. The archer's aim through crystal night, the serpent's coil in prismatic light. The jester grins where wings take flight, and fortune's bloom demands the sight.",
+      "hint": "Seek the celestial, the mystical, the triumphant, and those who shimmer between worlds"
+    },
+    "easyRiddle": {
+      "text": "Find the target that glows bright, the dragon coiled in ancient might, the joker's grin so sly and free, the butterfly in mystery, the crystal that refracts all sight, and the star that burns through endless night.",
+      "hint": "Six treasures: aim, serpent, fool, winged one, stone, and light"
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      20,
+      21
+    ]
   }
 }
