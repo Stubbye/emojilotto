@@ -12616,5 +12616,41 @@
       20,
       8
     ]
+  },
+  "sol_582": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver, and chaos dances with precision's twin. The jester's laughter echoes through prismatic corridors, as winged metamorphosis spirals toward luminous destiny. Six sentries of chance converge where destiny's current flows eternal.",
+      "hint": "Think of game night under starlight, where luck takes flight and gemstones shimmer with cosmic fire."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the ascent, the sparkle, the night, the split-second fury, and the transformation. Six symbols dance together in fortune's grand theater.",
+      "hint": "One shoots upward, one glows above, one blazes wild, one shimmers bright, one changes form, and one marks your goal."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      21,
+      4,
+      8
+    ]
+  },
+  "emlo_220": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, sparkle with brilliance, strike with sudden power, and guide seekers through fortune's labyrinth with trickster's wit and cosmic luck.",
+      "hint": "Think of a memecoin's journey: launch, shine, volatility, and the gamble within"
+    },
+    "easyRiddle": {
+      "text": "A 🚀 takes you to the 🌙, ⚡ makes it thrilling, ✨ makes it magical, 🎰 determines your fate, and 🃏 laughs at the chaos",
+      "hint": "These 5 are the essence of crypto gambling dreams"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      10,
+      19,
+      20
+    ]
   }
 }
