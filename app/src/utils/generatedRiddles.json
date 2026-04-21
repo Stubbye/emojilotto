@@ -12832,5 +12832,23 @@
       12,
       21
     ]
+  },
+  "sol_591": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin gates, the fox's cunning dances with prismatic fate. Through crystal labyrinths of chance, six sentinels of destiny align: the archer's mark that pierces void, the messenger of stars ascending, the hardened tears of earth's deep womb, the serpent's ancient wisdom coiled, the silent witness of night's throne, and nature's smallest metamorphosis bearing iridescent wings.",
+      "hint": "Seek the convergence of aim, ambition, wealth, wisdom, darkness, and transformation."
+    },
+    "easyRiddle": {
+      "text": "I contain a bullseye, a creature wise and sly, a precious stone that gleams, a guardian of sky, a winged dancer of rebirth, and a horned keeper of old magic. Six symbols of luck await your revelation.",
+      "hint": "Think of precision, cleverness, riches, night, nature's change, and legendary power."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      21,
+      8
+    ]
   }
 }
