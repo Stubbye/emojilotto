@@ -12814,5 +12814,23 @@
       14,
       21
     ]
+  },
+  "sol_590": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester pirouettes through prismatic gates. The winged harbinger ascends toward lunar thrones, while crystalline brilliance fractures destiny's thread. In this carnival of chance, six tokens of fate converge where laughter echoes and luck is forever transformed.",
+      "hint": "One reflects chance itself, two guard the spectacle, one climbs eternally, one burns with purpose, and twins hold the secrets of transformation."
+    },
+    "easyRiddle": {
+      "text": "A lightning strike illuminates a gem beneath the moon's gaze. A joker spins at the circus tent while fire and crystal shimmer together. Six symbols of fortune await your choice.",
+      "hint": "Look for electricity, treasure, night sky, a fool's card, a show, and two things that shine brightly."
+    },
+    "answer": [
+      5,
+      7,
+      3,
+      6,
+      12,
+      21
+    ]
   }
 }
