@@ -12796,5 +12796,23 @@
       6,
       21
     ]
+  },
+  "sol_589": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial throne, seven sisters dance in prismatic song. The jester's twin guards the threshold of luck, while scaled majesty breathes ancient fire. In gardens of fortune, where petals weep starlight, the trickster's grin blooms eternal.",
+      "hint": "One guides aim, one crowns the night, one multiplies chaos, one births destruction, one mirrors nature's twin, one rules in riddle."
+    },
+    "easyRiddle": {
+      "text": "I point the way to fortune's prize, a wild creature grins with clever eyes, lightning crackles through the night, a scaled beast glows with inner light, petals soft hold magic's grace, and stars illuminate this space.",
+      "hint": "Think of direction, trickery, storms, legends, beauty, and the cosmos above."
+    },
+    "answer": [
+      0,
+      8,
+      4,
+      13,
+      14,
+      21
+    ]
   }
 }
