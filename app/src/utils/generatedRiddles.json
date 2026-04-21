@@ -12904,5 +12904,23 @@
       3,
       5
     ]
+  },
+  "sol_594": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate align: the archer's mark guides toward brilliance ascending, while the winged wanderer pirouettes through storms of radiance. In chaos's embrace, the jester's grin mirrors the prism of endless possibility, and where thunder kisses the void, all destinies converge.",
+      "hint": "One hunts, one flies, one laughs, one burns, one shines, one strikes—seek the intersection of ambition, chaos, beauty, and chance."
+    },
+    "easyRiddle": {
+      "text": "I am the mark you aim for, the jewel that sparkles bright, the bolt that splits the sky, the flame that burns so hot, the magical four-leaf blessing, and the cosmic wanderer high above. Six of us dance in the lottery's call.",
+      "hint": "Think of targets, gems that shine, lightning strikes, fire's glow, lucky charms, and the night sky."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      6,
+      20,
+      22
+    ]
   }
 }
