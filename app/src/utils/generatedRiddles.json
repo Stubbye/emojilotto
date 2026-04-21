@@ -12850,5 +12850,41 @@
       21,
       8
     ]
+  },
+  "sol_592": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The trickster grins beneath the archer's mark, while prismatic dreams spiral through the void. A creature of metamorphosis pirouettes with the sovereign's glory, as fortune's gem catches light from the radiant sphere that rules the night. Seek the convergence where probability meets the absurd, where laughter echoes through a kaleidoscope of becoming.",
+      "hint": "One reflects illusion, one reflects ascension, one reflects transformation, one reflects achievement, one reflects fate's randomness, one reflects cosmic power."
+    },
+    "easyRiddle": {
+      "text": "I am six keys to the lottery's door: a mark for aiming, a tool for rising, a stone of great worth, the guardian of night, a divine shimmer of luck, and a grinning deceiver. What are we?",
+      "hint": "Think of targets, journeys upward, valuable treasures, nighttime, magical sparkle, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      11,
+      19
+    ]
+  },
+  "emlo_223": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, where fortunes sparkle like precious stones. A mystical jester dances under the glow, while lightning strikes fortune's wheel. What six cosmic symbols guide the diamond-handed believers to their glittering destiny?",
+      "hint": "Think of a memecoin's journey: explosive launch, lunar aspirations, and the magical chaos of gambling for riches"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, fire burns bright, gems shine like treasure, the moon glows above, lightning strikes fast, and a joker laughs at the chaos. These six things represent a crypto adventure!",
+      "hint": "Look for: launch vehicle, heat energy, valuable stone, night sky, fast energy, and a funny character"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      10
+    ]
   }
 }
