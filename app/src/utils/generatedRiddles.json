@@ -12598,5 +12598,23 @@
       8,
       18
     ]
+  },
+  "sol_581": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and the winged messenger spirals through chaos of light, a jester's laughter echoes across the shattered prism. Three kingdoms collide—the blazing serpent devours what the masked performers cannot contain, while the clover weeps beneath.",
+      "hint": "Consider those who guide fate, those who transform, those who ignite, those who deceive, and what grows in sorrow's garden."
+    },
+    "easyRiddle": {
+      "text": "A mark to hit, a fire to feel, a dragon's breath, a trickster's smile, a symbol of luck, and transformation's grace—six champions of chance await.",
+      "hint": "Think of: what you aim at, what burns, what crawls on wings, what wears a mask, what brings fortune, and what dances."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      19,
+      20,
+      8
+    ]
   }
 }
