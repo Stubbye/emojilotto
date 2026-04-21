@@ -12688,5 +12688,41 @@
       8,
       21
     ]
+  },
+  "sol_585": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six tokens dance in fortune's game. The archer's mark aligns with night's pale sovereign, while lightning's fury threads through prism's ancient covenant. A scaled leviathan guards the center stage, and metamorphic grace adorns the final page.",
+      "hint": "Look to the sky, then downward still. One rules the darkness, one bends to will. Count the creatures, colors, and light—six secrets hide in plain sight."
+    },
+    "easyRiddle": {
+      "text": "Six symbols spin in lucky fate: a target true, a dragon's gate. The moon shines bright, lightning strikes fast, rainbows arch where fire comes last, and butterflies dance through it all.",
+      "hint": "Think of night and day, creatures and magic, targets and weather."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      5,
+      14,
+      9
+    ]
+  },
+  "emlo_221": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, while gemstones sparkle in the chaos of electric storms. A jester's dance meets the fox's cunning, as rainbow waves crash through the carnival of fortune. What six treasures fuel this memecoin madness?",
+      "hint": "Think of movement, electricity, trickery, and the symbols of luck and chaos in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off, ⚡ strikes with power, 💎 shines bright, 🌙 glows above, 🃏 makes us laugh, and 🦊 is clever. These six emojis represent the memecoin journey to the moon!",
+      "hint": "One goes to space, one is fast energy, one is precious, one is in the sky, one is funny, and one is smart"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      17,
+      13
+    ]
   }
 }
