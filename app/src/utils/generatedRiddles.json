@@ -12742,5 +12742,23 @@
       5,
       13
     ]
+  },
+  "sol_587": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's twin faces, a winged jewel ascends through violet echoes. The archer's mark gleams as lightning births prismatic tears, while the dragon's scaled wisdom watches from shadows untold.",
+      "hint": "Count the symbols of chance, magic, and sky—six entities bound by destiny's thread"
+    },
+    "easyRiddle": {
+      "text": "Find the moon that glows, the fire that burns bright, the gem that sparkles, the dragon fierce, the lightning quick, and the target true.",
+      "hint": "One celestial, one elemental, one precious, one mythical, one electric, one aimed"
+    },
+    "answer": [
+      3,
+      5,
+      2,
+      13,
+      4,
+      0
+    ]
   }
 }
