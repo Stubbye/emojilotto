@@ -12580,5 +12580,23 @@
       18,
       11
     ]
+  },
+  "emlo_219": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles as I lead. Through fire and circus acts I dance, while rockets fuel my wild advance. The dragon roars as I take flight, a joker's game beneath the night.",
+      "hint": "Think of a memecoin's journey to the stars and the chaos along the way"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, gem so bright, lightning fast with fire's might, joker laughs at the wild ride",
+      "hint": "These emojis represent a crypto dream and the fun of the game"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      8,
+      18
+    ]
   }
 }
