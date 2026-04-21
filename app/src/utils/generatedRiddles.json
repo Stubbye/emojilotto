@@ -12922,5 +12922,23 @@
       20,
       22
     ]
+  },
+  "sol_595": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six whispers dance in shadow's game. The jester's grin betrays the gem, while winged metamorphosis condemns. Thunder's kiss upon the prism'd night, and luck's small cube that spins from sight.",
+      "hint": "Seek the numbered treasures: instrument of strings, beast of scales, the fool's true face, a jeweled prison, the butterfly's transformation, and fortune's rolling bones."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of chance and wonder: the sparkle that brings victory, the dragon's ancient hoard, the dancing flame of destiny, the joker's laugh, the lightning that strikes truth, and the dice that roll fate.",
+      "hint": "Think of things that sparkle, creatures of legend, natural forces, cards, electricity, and games of chance."
+    },
+    "answer": [
+      10,
+      13,
+      5,
+      11,
+      1,
+      19
+    ]
   }
 }
