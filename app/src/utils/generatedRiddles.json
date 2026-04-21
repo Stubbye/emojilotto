@@ -12886,5 +12886,23 @@
       5,
       10
     ]
+  },
+  "sol_593": {
+    "hardRiddle": {
+      "text": "Where celestial serpent coils through prismatic arc, six tokens dance between fortune's gambit and inferno's mark. The jester's crimson grin meets Luna's pallid throne, while gemstone's fractured light illuminates what fate has sown. Between the lightning's violent kiss and butterfly's gentle ascent, lies the answer to destiny's most magnificent descent.",
+      "hint": "One rules the night, one breathes the flame, one laughs at chance, one shimmers the same. A dragon's wisdom, a gem's refracted sight, and electricity's brief, blinding light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate intertwine: a winged creature delicate and fine, a mighty beast that rules the sky, a stone that catches the cosmic eye, the night's pale guardian hanging high, and the fury that makes mortals cry. What are these six that luck will show?",
+      "hint": "Think of nature's beauty, danger's roar, the heavens above, and what folklore adores."
+    },
+    "answer": [
+      7,
+      13,
+      11,
+      2,
+      3,
+      5
+    ]
   }
 }
