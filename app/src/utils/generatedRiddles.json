@@ -12670,5 +12670,23 @@
       11,
       21
     ]
+  },
+  "sol_584": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, six whispers dance through chaos' maze. The jester's twin flame leaps through primal night, while scaled ambition guards the crystalline light. Gossamer wings trace rainbows yet unseen, and luck's own symbol crowns the in-between.",
+      "hint": "Consider what guides fate itself, what mocks destiny, what burns eternal, what slithers through dreams, what transforms beauty, and what marks chance's throne."
+    },
+    "easyRiddle": {
+      "text": "I am a target and a spark, a dragon's dream and fortune's mark. Where joker dances, fire grows bright, butterfly wings catch starlight. Six treasures hide within my call.",
+      "hint": "Look for: aim, electricity, wings, fate, night sky, and playful trickery."
+    },
+    "answer": [
+      0,
+      4,
+      6,
+      13,
+      8,
+      21
+    ]
   }
 }
