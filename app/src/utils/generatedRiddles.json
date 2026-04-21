@@ -12760,5 +12760,41 @@
       4,
       0
     ]
+  },
+  "sol_588": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a jester's grin echoes through prismatic desire. Six dancers twirl: the winged transformation, the gem of chaos, the golden echo of triumph, the serpent's ancient station, the bolt that renders mortal sight, and where all colors blend in flight.",
+      "hint": "Think of transformation, luck, achievement, mythology, electricity, and spectrum's embrace."
+    },
+    "easyRiddle": {
+      "text": "A butterfly transforms, a joker laughs, a dragon breathes ancient dreams, lightning strikes quick, a trophy gleams bright, and a rainbow spans the sky. What six hold fate's secrets?",
+      "hint": "One flies, one jokes, one mythical, one electric, one awarded, one colorful."
+    },
+    "answer": [
+      8,
+      19,
+      17,
+      13,
+      4,
+      9
+    ]
+  },
+  "emlo_222": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🚀 fueled by 💎 greed. When 🔥 meets my sparkle dance, I'm the 🎭 of crypto's chance. What am I?",
+      "hint": "Think of the memecoin journey: destination, power, value, volatility, excitement, and the wild ride itself"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we fly with 🚀, our 💎 shines bright. ⚡ powers the hype, 🔥 fuels the night. Six things make a memecoin's dream come true!",
+      "hint": "What are the essential elements of a crypto memecoin adventure?"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      21
+    ]
   }
 }
