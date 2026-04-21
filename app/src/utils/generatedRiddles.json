@@ -12724,5 +12724,23 @@
       17,
       13
     ]
+  },
+  "sol_586": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets sleep. The archer's dream meets the sky's crown, while fortune's jester spins with crystalline fate. In spiraling ascent, the mythic serpent guards what glimmers between chaos and joy. Seek the center where all symmetries break.",
+      "hint": "One guides direction, one reaches heights, one births from earth, one rules the night, one holds wild magic, one splits the storm."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of destiny's game: one points the way, one climbs so high, one precious and bright, one haunts the night, one breathes in rage, and one shifts with grace. What are we?",
+      "hint": "Think of targets, rockets, gems, moons, fire, and dragons."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      13
+    ]
   }
 }
