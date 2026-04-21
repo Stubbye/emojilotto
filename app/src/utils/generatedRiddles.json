@@ -12652,5 +12652,23 @@
       19,
       20
     ]
+  },
+  "sol_583": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the winged metamorphosis catches lightning's whispered song. Through prisms of ancient stone, the jester's laugh echoes beneath the guardian's emerald eye. Six tokens dwell in this symphony of chance—one strikes from above, one glimmers eternal, one transforms, one rules with scaled majesty, one sparkles with crystalline wonder, and one gleams beneath the fool's knowing grin.",
+      "hint": "Think of transformation, power, gemstones, electric moments, mythical guardians, and cards of fate."
+    },
+    "easyRiddle": {
+      "text": "I flash and strike from stormy skies. I transform with delicate wings. I reign in scales and ancient fire. A precious stone catches all light. A trickster grins at destiny. And above it all, a brightness watches. What six guide the lottery's hand?",
+      "hint": "Lightning, butterfly, dragon, gem, joker, and one that shines brightest in night."
+    },
+    "answer": [
+      4,
+      8,
+      13,
+      2,
+      11,
+      21
+    ]
   }
 }
