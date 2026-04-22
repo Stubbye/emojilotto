@@ -12976,5 +12976,23 @@
       1,
       8
     ]
+  },
+  "sol_597": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged messenger of metamorphosis ascends through prismatic arcs. The jester's mask conceals what glimmers in the abyss—six tokens of fate spiral upward, one bearing the archer's eternal mark, one crackling with heaven's wrath, one blooming in shadowed gardens, one refracting the cosmos itself, one adorned in court's gilded jest, and one fluttering between two worlds.",
+      "hint": "Seek the gemstone hidden among performers and the lightning that never strikes twice in the same place."
+    },
+    "easyRiddle": {
+      "text": "Find six dancing lights: the aimed point, the angry sky, the sleeping guardian above, the shape-shifter's bloom, the mirrored trickster's grin, and the winged dancer caught between day and night.",
+      "hint": "One is round in the night sky, one strikes with fury, one grows from earth, one transforms in the air, one laughs with cards, and one always finds its mark."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      14,
+      19,
+      8
+    ]
   }
 }
