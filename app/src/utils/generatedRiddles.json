@@ -13120,5 +13120,23 @@
       4,
       10
     ]
+  },
+  "sol_605": {
+    "hardRiddle": {
+      "text": "Through crystalline depths where fortune's heart beats, the jester's twin masks whisper secrets of ascension. Six celestial dancers converge: where earthbound fire kisses the nocturnal sentinel, a winged metamorphosis spirals through prismatic arcs, while the ancient reptile's treasure gleams beneath the performer's tent of wonder.",
+      "hint": "One brings luck, one brings joy, one transforms, one illuminates the night, one destroys, and one hides beneath striped canvas."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this verse: a stone that sparkles bright, a creature that flies and changes, a circle of colors in the sky, a beast of myth and old, a place of games and fun, and the guardian of the sky at night.",
+      "hint": "Think of magic, nature, fantasy, and fun entertainment."
+    },
+    "answer": [
+      5,
+      7,
+      9,
+      13,
+      6,
+      21
+    ]
   }
 }
