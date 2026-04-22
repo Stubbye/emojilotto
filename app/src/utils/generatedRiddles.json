@@ -13030,5 +13030,23 @@
       8,
       18
     ]
+  },
+  "sol_600": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers unfold: The archer's aim pierces the void as swift wings ascend. A prism births its fractured song while chaos reigns in crystalline depths. The jester's mask conceals what the nocturnal guardian eternally seeks—a crown of radiance reflected in the tempest's embrace.",
+      "hint": "Seek the marksman, the ascendant, the colorful birth, the mathematical chaos, the theatrical deceiver, and the star that never sleeps."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one you aim at, one climbs high, one shines bright in stone, one lights the night, one entertains with tricks, and one flows wild and free.",
+      "hint": "Target, Rocket, Gem, Moon, Joker, Wave"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      23
+    ]
   }
 }
