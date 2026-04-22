@@ -13012,5 +13012,23 @@
       11,
       10
     ]
+  },
+  "sol_599": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and twin flames consume the jester's domain—beneath the prism of chance, the winged metamorphosis seeks the crown of celestial fire, while the trickster's grin echoes through the void of probability.",
+      "hint": "One aims for destiny, one leaps through cosmos, one burns with chaos, one mocks fate, one transforms eternally, one reigns supreme."
+    },
+    "easyRiddle": {
+      "text": "The archer's mark, the sky's chariot, the trickster's laugh, the phoenix's fury, the butterfly's grace, and the victor's symbol—six threads weave through luck's tapestry.",
+      "hint": "Find: target, rocket, joker, fire, butterfly, and trophy in the EmojiLotto."
+    },
+    "answer": [
+      0,
+      1,
+      15,
+      5,
+      8,
+      18
+    ]
   }
 }
