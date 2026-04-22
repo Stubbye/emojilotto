@@ -13048,5 +13048,23 @@
       11,
       23
     ]
+  },
+  "emlo_226": {
+    "hardRiddle": {
+      "text": "I launch to the celestial vault with electric speed, leaving trails of brilliance. When fortune strikes like a bolt, gems sparkle as I dance through the cosmic fire. The joker spins his wheel of chance, and magic unfolds in prismatic waves.",
+      "hint": "Think of a memecoin's journey: where it goes, what powers it, and the luck involved in trading it."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙 with ⚡ power. 💎 shines bright. 🔥 burns hot. 🎪 celebrates the gains!",
+      "hint": "A memecoin investor's dream in 6 symbols."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      5,
+      6
+    ]
   }
 }
