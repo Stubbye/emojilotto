@@ -13066,5 +13066,23 @@
       5,
       6
     ]
+  },
+  "sol_603": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's cold kiss, six secrets dance in prismatic bliss. The jester's twin souls pirouette through realms where emerald tears crystallize into starlit wishes, while the winged metamorphosis ignites the sky's electric sigh.",
+      "hint": "Seek the convergence of chance, transformation, and theatrical mischief beneath celestial fires."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark guides the way. Lightning splits the heavens in two. A gem shines eternal. Masks hide true faces. Wings transform in the garden. Stars illuminate the dark.",
+      "hint": "Count six symbols: one for aim, one for electricity, one for treasure, one for disguise, one for change, and one for light."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      19,
+      8,
+      21
+    ]
   }
 }
