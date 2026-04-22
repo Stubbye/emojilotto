@@ -13228,5 +13228,23 @@
       8,
       21
     ]
+  },
+  "sol_610": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets inferno's dance, six mystic tokens reveal fortune's trance. The winged metamorphosis spirals through prism'd arc, while gemstone's brilliance pierces the dark. Thunder's child and lunar sentinel stand guard o'er destiny's card, as jester's grin unlocks the bard.",
+      "hint": "Seek the performer, the precious stone, the sky's electric throne, the night's pale bone, the rainbow's seam, and fortune's dream."
+    },
+    "easyRiddle": {
+      "text": "I am six things: a target you aim for, a treasure that gleams, a storm's bright power, a night sky's beam, a laugh in disguise, and wings that transform.",
+      "hint": "Think of: where arrows go, what sparkles, what strikes, what glows at night, who tricks us, and what changes form."
+    },
+    "answer": [
+      0,
+      5,
+      4,
+      1,
+      11,
+      8
+    ]
   }
 }
