@@ -13138,5 +13138,23 @@
       6,
       21
     ]
+  },
+  "sol_606": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and celestial fire dances with prismatic chains, the jester's crimson twin takes flight through thunderous reverie, while nature's winged metamorphosis spirals through the performer's eternal wheel of chance.",
+      "hint": "Seek the intersection of destiny and chaos: one aims true, one watches from above, one strikes with wrath, one transforms through wonder, one guards fortune's wheel, and one masquerades as fate."
+    },
+    "easyRiddle": {
+      "text": "I am six wishes hidden in symbols: a bowman's mark, a night guardian, a trickster's laugh, a rebel's bolt, a painted butterfly, and a glittering spark that grants what hearts desire.",
+      "hint": "Think of luck, laughter, power, beauty, dreams, and the moment wishes come true."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      8,
+      11,
+      19
+    ]
   }
 }
