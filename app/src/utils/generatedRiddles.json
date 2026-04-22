@@ -12994,5 +12994,23 @@
       19,
       8
     ]
+  },
+  "emlo_225": {
+    "hardRiddle": {
+      "text": "I start where dreams ignite the sky, then leap where fortune multiplies. Gems sparkle as lightning strikes twice, while a jester juggles fate's price. What six treasures mark a memecoin's rise?",
+      "hint": "Think of a cryptocurrency journey: launch energy, destination, value, luck, entertainment, and dazzle."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is valuable, ⚡ is fast, 🌙 is where we go, 🃏 means gamble, ✨ means magic. Which six make a memecoin shine?",
+      "hint": "Look for rocket, gem, lightning, moon, joker, and sparkles in that order."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      11,
+      10
+    ]
   }
 }
