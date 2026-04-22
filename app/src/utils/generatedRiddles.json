@@ -12940,5 +12940,41 @@
       1,
       19
     ]
+  },
+  "sol_596": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged wanderer seeks the gleaming prize beneath seven rays of chaos. The trickster's grin reflects in crystalline depths, while nature's smallest acrobat bows to the archer's eternal mark.",
+      "hint": "Think of luck's domain: the night sky, games of chance, magical transformations, and nature's performers."
+    },
+    "easyRiddle": {
+      "text": "One shoots straight, one glows above, one spins for luck, one tricks your fate, one shimmers bright, and one seeks light. What six join the lottery's cosmic dance?",
+      "hint": "Look for: direction, night, randomness, deception, sparkle, and pursuit."
+    },
+    "answer": [
+      1,
+      3,
+      11,
+      8,
+      10,
+      0
+    ]
+  },
+  "emlo_224": {
+    "hardRiddle": {
+      "text": "A jester's game where fortune flies, past the gem that never lies. Lightning strikes the dragon's fire, while the rocket chases moon so higher. Sparkles dance with butterfly wings, this lottery of chaotic things.",
+      "hint": "Find the 6 emojis: a playing card character, a precious stone, a electric bolt, a mythical beast, a flame, a celestial night light, and a flying insect with magical dust."
+    },
+    "easyRiddle": {
+      "text": "I'm a fool who deals the cards, a shiny rock that's never scarred, electricity that strikes so fast, a dragon breathing flames so vast, a rocket heading to the sky, and a butterfly that flutters by.",
+      "hint": "Look for: joker, gem, lightning, dragon, rocket, butterfly"
+    },
+    "answer": [
+      19,
+      2,
+      4,
+      13,
+      1,
+      8
+    ]
   }
 }
