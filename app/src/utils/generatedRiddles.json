@@ -13084,5 +13084,41 @@
       8,
       21
     ]
+  },
+  "sol_604": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin mask dances with the fox's cunning desire. Through gemstone prisms, lightning weaves its silent song, as crystalline echoes guide the lost along. Six tokens of fate spin in destiny's grand game—identify the sacred six to claim your fortune's flame.",
+      "hint": "One aims true, one rules the night, one laughs at chaos, one deceives with sight, one blazes bright, one reflects all light."
+    },
+    "easyRiddle": {
+      "text": "A target shoots straight, the moon shines bright, a joker brings laughs and fun. A fox is clever and sly, lightning strikes fast and loud, and crystals sparkle and shine. Which six are these?",
+      "hint": "Think of things that glow, move, entertain, or have special powers."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      12,
+      5,
+      20
+    ]
+  },
+  "emlo_227": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🚀 fueled by 💎 greed. When 🔥 ignites my path so bright, ✨ sparks dance through the night. What am I?",
+      "hint": "Think of the journey from earth to wealth, powered by chaos and stealth"
+    },
+    "easyRiddle": {
+      "text": "Moon, rocket, gem, fire, lightning, and sparkles - which 6 emojis represent a memecoin's wildest dreams?",
+      "hint": "All 6 are the answer"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      5,
+      4,
+      10
+    ]
   }
 }
