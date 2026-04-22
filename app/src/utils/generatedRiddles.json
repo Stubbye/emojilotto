@@ -13156,5 +13156,23 @@
       11,
       19
     ]
+  },
+  "sol_607": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester spins through prismatic chaos. The butterfly seeks its crystalline throne beneath the starlit stage, as thunder weaves destiny's final thread.",
+      "hint": "One guides aims, one fuels ambition, one conceals truth, one transforms, one shines eternal, one shatters all certainty."
+    },
+    "easyRiddle": {
+      "text": "A target holds purpose, rocket chases dreams, a joker hides secrets, butterfly seeks change, crystal holds light, and star shines forever.",
+      "hint": "Look for: aim, ascent, deception, metamorphosis, clarity, and eternity."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      8,
+      20,
+      21
+    ]
   }
 }
