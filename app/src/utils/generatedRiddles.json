@@ -13210,5 +13210,23 @@
       9,
       10
     ]
+  },
+  "sol_609": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the trickster's masquerade meets the winged metamorphosis, three treasures gleam beneath the jester's gaze—one strikes from heavens, one spirals upward in defiance, one glimmers eternal in the void's embrace.",
+      "hint": "Lightning conducts destiny, rocket pierces ambition, and gemstones hold the universe's secrets. The joker knows all three."
+    },
+    "easyRiddle": {
+      "text": "I flash from the sky, I soar through dreams, I sparkle with wealth, I wear many faces, I flutter reborn, and I guide the lost.",
+      "hint": "Count the natural forces, the journeys, and the transformations."
+    },
+    "answer": [
+      4,
+      1,
+      2,
+      19,
+      8,
+      21
+    ]
   }
 }
