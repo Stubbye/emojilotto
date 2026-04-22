@@ -13174,5 +13174,41 @@
       20,
       21
     ]
+  },
+  "sol_608": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, a winged messenger dances through prisms of chance. The jester's laughter echoes as celestial fire weeps upon prismatic tears, while nature's trembling bloom witnesses destiny's symphony conducted by silent brilliance.",
+      "hint": "Seek the marksman's aim, ascension's beast, and reflections fractured into fortune"
+    },
+    "easyRiddle": {
+      "text": "A target glows, a dragon soars, lightning strikes with gem-like fire. Sparkles rain where rainbow arcs meet—six signs of luck entwined.",
+      "hint": "One marks, one flies, one burns bright, one refracts, one crackles, one arcs"
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      20,
+      10,
+      9
+    ]
+  },
+  "emlo_228": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, seeking treasures that sparkle in the void. My journey ignites passion through colorful spectrum while luck dances with fortune's magic. What six symbols mark my path to ultimate glory?",
+      "hint": "Think of a memecoin's ascent: propulsion, destination, wealth, illumination, chance, and radiance."
+    },
+    "easyRiddle": {
+      "text": "A coin blasts off toward the moon, carrying gems and lightning strikes. Rainbow colors celebrate the win with magical sparkles. Which six emojis tell this story?",
+      "hint": "Rocket, moon, gem, lightning, rainbow, and sparkles are all part of the memecoin dream."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      10
+    ]
   }
 }
