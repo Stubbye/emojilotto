@@ -13516,5 +13516,23 @@
       4,
       9
     ]
+  },
+  "sol_624": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, six sentinels of fate convene. The jester's grin adorns the threshold of destiny, whilst gemstone light refracts through prism'd wings. Betwixt the thunder's kiss and celestial guardian, the shapeshifter's cunning weaves through aurora's veil. Speak the sequence where chaos dances with luck's eternal crown.",
+      "hint": "One plays the fool, one gleams with price, one strikes with wrath, one soars with grace, one hunts with wit, and one watches from above."
+    },
+    "easyRiddle": {
+      "text": "A court jester laughs, a gem sparkles bright, lightning crackles fierce, a fox slinks sly, a dragon guards secrets, and the moon watches all. Which six mark the path of chance?",
+      "hint": "Look for: the trickster, the precious, the electric, the cunning, the mythical, and the night guardian."
+    },
+    "answer": [
+      19,
+      2,
+      4,
+      13,
+      12,
+      21
+    ]
   }
 }
