@@ -13246,5 +13246,41 @@
       11,
       8
     ]
+  },
+  "sol_611": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a serpent of ancient scales guards the threshold. Twin flames dance in celestial marriage while a winged messenger of metamorphosis drinks from spectrum's tears. In chaos ordered by chance, the jester's laughter echoes eternal.",
+      "hint": "Seek the archer's mark, the dragon's lair, the moon's twin flame, the butterfly's feast, the dice's voice, and the fool's wisdom."
+    },
+    "easyRiddle": {
+      "text": "Find the target's destination, the dragon's home, fire's companion, a butterfly's garden, luck's cube, and the joker's stage. Six treasures hide where destiny plays.",
+      "hint": "Think of: aim, scales, heat, wings, numbers, and cards."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      7,
+      10,
+      18
+    ]
+  },
+  "emlo_229": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights, sparkle with electric might. A gemstone fortune twists the fates, while fire and lightning celebrate. What six celestial tokens guide the gambler's flight?",
+      "hint": "Think of a journey to wealth: the vehicle, the destination, the treasure, the energy, and the forces that power moonbound aspirations."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with power, 🔥 burns hot, ✨ glows magic, 🌙 calls above. Which six symbols fuel the memecoin dream?",
+      "hint": "Look for launch, wealth, energy, heat, magic, and destiny in the night sky."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      3
+    ]
   }
 }
