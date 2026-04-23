@@ -13426,5 +13426,23 @@
       17,
       20
     ]
+  },
+  "sol_620": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six celestial dancers waltz in light. The jester's laugh echoes through crystalline dreams, while wings of transformation flutter through moonbeams. Thunder's kiss ignites the stage where masked illusions gleam, and nature's bloom surrenders to the electric stream.",
+      "hint": "Consider the intersection of chaos and order, performance and destiny, transformation and celestial guidance."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's flight, the gem's bright spark, the moon's soft light, the lightning's strike, and the flower's might.",
+      "hint": "Six symbols: aim, ascend, shine, glow, shock, and bloom."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      14
+    ]
   }
 }
