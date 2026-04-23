@@ -13336,5 +13336,23 @@
       11,
       19
     ]
+  },
+  "sol_614": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits convene in twilight's veil. The archer's mark meets the serpent's realm, while masked performers juggle fate's crystal prism. Lightning births the winged metamorphosis, and all beneath a pearl of night's dominion.",
+      "hint": "One guides aims, one rules ancient skies, one holds spectacle's secrets, one brings swift change, one transforms, one watches from above."
+    },
+    "easyRiddle": {
+      "text": "I am a target's center, a dragon's ancient wisdom, a circus of masks and wonder, a lightning bolt's fury, a butterfly's rebirth, and the moon's silent glow. What six treasures complete this celestial lottery?",
+      "hint": "Think of direction, mythology, entertainment, power, nature's change, and the night sky."
+    },
+    "answer": [
+      0,
+      13,
+      7,
+      4,
+      8,
+      3
+    ]
   }
 }
