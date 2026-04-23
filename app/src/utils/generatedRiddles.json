@@ -13300,5 +13300,41 @@
       4,
       1
     ]
+  },
+  "sol_613": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascending flame, a jeweled serpent coils beneath the celestial orb. Thunder's kiss ignites the prism's dance, while winged grace spirals through the veil of fortune's arc. In chaos and in beauty, six threads intertwine—one aims, one climbs, one glimmers deep, one reigns, one strikes, one transcends.",
+      "hint": "Three elements of nature, one mythical guardian, one precious stone, and one celestial guide mark the lottery's secret path."
+    },
+    "easyRiddle": {
+      "text": "I strike from above, I soar to the stars, I sparkle with worth, I reign over all. A dragon of wishes and arrows that find their mark complete the circle of fortune.",
+      "hint": "Think of power, precious things, mythical beasts, and weapons of chance."
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      4,
+      21,
+      9
+    ]
+  },
+  "emlo_230": {
+    "hardRiddle": {
+      "text": "I chase the sky with blazing speed, a gem ignites my lunar creed. Lightning strikes with electric might, while fire burns through endless night. The joker laughs as sparkles fly, beneath a rainbow's mystic dye.",
+      "hint": "Five of these emojis represent volatility and explosive growth in the memecoin universe."
+    },
+    "easyRiddle": {
+      "text": "A rocket soars to the moon so bright, a gem shines with crystalline light. Lightning bolts and fire ignite, joker and sparkles complete the sight.",
+      "hint": "Look for symbols of wealth, speed, energy, and celebration in crypto culture."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      11,
+      19
+    ]
   }
 }
