@@ -13444,5 +13444,41 @@
       4,
       14
     ]
+  },
+  "sol_621": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, six keepers of fate dance betwixt the veil. The archer's mark gleams with crystalline truth, while wings of metamorphosis flutter near chaos born of heaven's wrath. Twin masquerades of chance and fortune's instrument spin endlessly, as the dragon's ancient wisdom watches from realms of starlit reverie.",
+      "hint": "One brings laughter to chance, one flies beyond earth, one sparkles with fortune, one transforms in darkness, one brings balance to games, one guards ancient mysteries."
+    },
+    "easyRiddle": {
+      "text": "A jester laughs at luck, a dragon dreams of gold, lightning strikes the night sky bright, a butterfly takes flight, dice tumble as the joker smiles, and gemstones catch the starlight.",
+      "hint": "Look for: laughter, ancient beast, electricity, transformation, randomness, and precious shine."
+    },
+    "answer": [
+      12,
+      1,
+      5,
+      8,
+      11,
+      2
+    ]
+  },
+  "emlo_233": {
+    "hardRiddle": {
+      "text": "I chase the distant glow with speed and fire, my gems sparkle as lightning strikes my desire. When fortune spins and dragons take flight, I dance with foxes under moonlit night. What six symbols mark my memecoin's sight?",
+      "hint": "Think of speed, wealth, luck, mythical creatures, and celestial bodies"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with a bright light, collect shiny treasures burning bright. A magic dragon brings luck and glee, spinning fortune wild and free. What am I?",
+      "hint": "Space, gems, fire, luck, and magical beasts"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      21
+    ]
   }
 }
