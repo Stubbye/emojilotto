@@ -13390,5 +13390,23 @@
       4,
       21
     ]
+  },
+  "emlo_232": {
+    "hardRiddle": {
+      "text": "To the moon we ride with lightning speed, through fire and circus we plant our seed. A gem so bright with sparkles true, guided by fortune's clover blue. What six celestial tokens guide the memecoin crew?",
+      "hint": "Think of a journey to wealth: transport, destination, luck, light, entertainment, and treasure."
+    },
+    "easyRiddle": {
+      "text": "One goes up fast, one shines above, one brings good luck, one lights with love. One entertains with thrills galore, one glitters bright forevermore. Name these six friends of crypto lore!",
+      "hint": "Rocket, Moon, Clover, Fire, Circus, Gem - these are your six!"
+    },
+    "answer": [
+      1,
+      3,
+      19,
+      5,
+      7,
+      2
+    ]
   }
 }
