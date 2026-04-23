@@ -13480,5 +13480,23 @@
       13,
       21
     ]
+  },
+  "sol_622": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers spin their grace. The winged transformation seeks the prism's tear, while thunder's kiss ignites the cosmic air. In fortune's wheel and jester's masked deceit, the stone of ages makes the game complete.",
+      "hint": "Look to the sky, the stage, and chance itself. One brings precision, one brings dreams to wealth."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder intertwine: a precise strike, a cosmic climb, a gleaming prize, a glowing night, a powerful flash, and dancing light.",
+      "hint": "Think of accuracy, space travel, jewelry, the night sky, weather, and radiance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
