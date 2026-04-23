@@ -13372,5 +13372,23 @@
       13,
       2
     ]
+  },
+  "sol_617": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial flame, six symbols dance in destiny's game. The jester's grin beside the verdant leaf, a prism shatters doubt and disbelief. Winged metamorphosis greets stellar fire, while crystalline depths fulfill desire.",
+      "hint": "One brings luck, one brings laughter, one transforms, one illuminates from above, one cuts through darkness, one reflects all colors"
+    },
+    "easyRiddle": {
+      "text": "Find the lucky clover, the joker's smile, the butterfly's grace, the star so bright, the lightning's strike, and the crystal's light.",
+      "hint": "Think of luck, comedy, nature, sky, electricity, and precious stones"
+    },
+    "answer": [
+      20,
+      5,
+      8,
+      22,
+      4,
+      21
+    ]
   }
 }
