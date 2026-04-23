@@ -13354,5 +13354,23 @@
       8,
       3
     ]
+  },
+  "emlo_231": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving sparkles in my wake. A jester's luck guides my path through gems and fire, as I dance toward fortune under the watchful gaze of a majestic creature.",
+      "hint": "Think of a moonshot journey with chaos, luck, and mythical power"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, ⚡ fast, 💎 bright, 🔥 hot, and a 🐉 guides the way!",
+      "hint": "A journey upward with speed, treasure, heat, and a magical beast"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      13,
+      2
+    ]
   }
 }
