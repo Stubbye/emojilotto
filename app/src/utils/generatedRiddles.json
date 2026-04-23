@@ -13408,5 +13408,23 @@
       7,
       2
     ]
+  },
+  "sol_619": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate convene. The winged metamorphosis dances through celestial fire, while the masked trickster's laughter echoes where crystal harmonies resound. In this amphitheater of chance, the bolt of destiny strikes the gemstone's heart, and luck's own clover guards the threshold between worlds.",
+      "hint": "Look for transformation, misdirection, precious things, electricity, fortune's symbols, and the places where magic happens."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: one flies and changes, one sparkles like a jewel, one brings good luck, one strikes with power, one makes you laugh with tricks, and one hits its mark with precision.",
+      "hint": "Think of: a lucky charm, something that glitters, electricity, accuracy, disguise/comedy, and metamorphosis."
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      10,
+      17,
+      20
+    ]
   }
 }
