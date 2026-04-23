@@ -13498,5 +13498,23 @@
       4,
       10
     ]
+  },
+  "sol_623": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and luck's gemstone dances with lightning's desire. The winged jest of masks descends through star-crowned night, while crystal laughter echoes in rainbow's flight.",
+      "hint": "Five elements of chance converge: precision, fortune's stone, trickery, cosmic light, and refracted hope"
+    },
+    "easyRiddle": {
+      "text": "An archer's mark glows bright, a precious stone catches light, a fool grins wide, stars shine overhead, lightning strikes fast, and colors arc across the sky.",
+      "hint": "Think of a bullseye, treasure, comedy, night sky, electricity, and natural light shows"
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      21,
+      4,
+      9
+    ]
   }
 }
