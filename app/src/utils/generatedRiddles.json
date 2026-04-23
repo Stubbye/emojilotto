@@ -13282,5 +13282,23 @@
       9,
       3
     ]
+  },
+  "sol_612": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the dragon's ancient seal. Six guardians of fate converge in shadow's play: the archer's eye, the serpent's sway, the jester's mock, and starlight's way.",
+      "hint": "One watches from above, one coils below, one glimmers eternal, one makes all go."
+    },
+    "easyRiddle": {
+      "text": "I point to aims and dreams so high. A beast of myth beneath the sky. A jester laughs while fortunes glow. The joker's game, the star's bright show. Where lightning strikes and goals will land, six symbols take their lucky stand.",
+      "hint": "Find the target, the dragon's tail, the joker's crown, the star's detail, the lightning's path, and fate's detail."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      21,
+      4,
+      1
+    ]
   }
 }
