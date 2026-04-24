@@ -13660,5 +13660,23 @@
       4,
       11
     ]
+  },
+  "sol_630": {
+    "hardRiddle": {
+      "text": "Where fortune's jester bows to celestial fire, six tokens of destiny align: the archer's mark meets winged ascension, precious facets catch the nocturnal gaze, while electric breath and nature's metamorphosis dance in twilight's embrace. Which six shall crown the seeker?",
+      "hint": "One watches from above, one darts swiftly, one glimmers with value, one strikes without warning, one transforms from cocoon, and one marks the way"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols for lottery dreams: a target to aim at, a rocket to fly high, a gem that sparkles, the moon in night sky, lightning that strikes fast, and a butterfly taking flight. Can you name them all?",
+      "hint": "Think of reaching goals, going to space, precious things, nighttime, electricity, and insects"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
