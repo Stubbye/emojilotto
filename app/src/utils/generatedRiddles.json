@@ -13822,5 +13822,23 @@
       21,
       14
     ]
+  },
+  "sol_639": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate convene. The archer's mark aligns with heaven's pearl, while twin spirits of chaos and fortune waltz. Lightning's kiss ignites the prism's song, and nature's winged metamorphosis crowns the sacred circle of dreams.",
+      "hint": "One seeks precision, one claims the heavens, one gleams with wealth, one conjures fortune, one strikes with power, one embodies transformation."
+    },
+    "easyRiddle": {
+      "text": "I speak of a target and a rocket flying high, a sparkling gem and the moon in the sky, lightning that crackles and a butterfly that flies. What six are these in the lottery's eyes?",
+      "hint": "Look for: aim, flight, wealth, night sky, electricity, wings"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
