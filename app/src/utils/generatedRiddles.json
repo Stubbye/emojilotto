@@ -13786,5 +13786,41 @@
       18,
       14
     ]
+  },
+  "sol_638": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic gates, the jester's twin masks guard fortune's wheel. A serpent of storms meets the winged wanderer beneath petals of chaos bloomed in crystalline silence. Six whisper their names in the language of chance.",
+      "hint": "Look for the intersection of chaos, luck, and transformation. One shows duality, one reveals the untamed, one brings luck, one ignites change, one symbolizes perfection, and one marks destiny's aim."
+    },
+    "easyRiddle": {
+      "text": "I am the bolt that strikes with fury. I am the scaled beast of legend. I am the crown of victory. I am the wheel that decides all fates. I am the bloom of nature's garden. I am the center where arrows fly true.",
+      "hint": "Find: a storm weapon, a mythical creature, success, chance, beauty, and a target."
+    },
+    "answer": [
+      4,
+      13,
+      17,
+      11,
+      14,
+      0
+    ]
+  },
+  "emlo_238": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins with electric dreams, where scaled beasts guard gemstones that sparkle under lunar beams. Musicians celebrate victories with prismatic waves, while mystic petals bloom in circuits brave.",
+      "hint": "Think of chaos, magic, and the symbols of explosive gains in the cryptoverse."
+    },
+    "easyRiddle": {
+      "text": "What has a joker's laugh, a dragon's might, gems that shine, lightning so bright, a glowing star, and flowers of delight?",
+      "hint": "Count the magical symbols: the trickster, the beast, the treasure, the bolt, the celestial guide, and nature's beauty."
+    },
+    "answer": [
+      17,
+      13,
+      2,
+      4,
+      21,
+      14
+    ]
   }
 }
