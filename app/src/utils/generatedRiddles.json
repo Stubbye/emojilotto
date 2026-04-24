@@ -13570,5 +13570,23 @@
       8,
       9
     ]
+  },
+  "sol_626": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six sentinels dance in prismatic shame. The jester's grin adorns the stage of chance, while scaled leviathan leads the trance. Petals unfurl beneath a glowing sphere, and luck's own brilliance shimmers crystal clear.",
+      "hint": "One points at destiny, one brings the night, one speaks in riddles, one breathes with might, one blooms eternal, one sparkles bright."
+    },
+    "easyRiddle": {
+      "text": "I contain a target's aim, a dragon's ancient name, a joker's foolish game, a moon that glows with flame, a flower's fragrant frame, and sparkles all the same.",
+      "hint": "Six items of fate: aim, beast, fool, night, bloom, shine"
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      1,
+      14,
+      10
+    ]
   }
 }
