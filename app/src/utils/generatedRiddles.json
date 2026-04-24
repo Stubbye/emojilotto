@@ -13678,5 +13678,23 @@
       4,
       8
     ]
+  },
+  "sol_631": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial void, a gemstone gleams in night's employ. Lightning dances through primal heat, while painted wings and cosmic beat converge where destinies complete. Six vessels hold the answer true—find the marks where dreams renew.",
+      "hint": "Think of targets, gems, celestial bodies, electricity, nature's flutter, and artistic expression"
+    },
+    "easyRiddle": {
+      "text": "A target waits, a gem does shine, the moon glows bright in night's design. Lightning crackles, fire takes flight, a butterfly dances in gentle light. Which six bring fortune to your sight?",
+      "hint": "Look for: something to aim at, something precious, night's guardian, nature's power, heat, and transformation"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      17
+    ]
   }
 }
