@@ -13696,5 +13696,23 @@
       8,
       17
     ]
+  },
+  "sol_632": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of fate converge: the archer's true mark pierces infinity's veil, while a scaled leviathan guards treasures that shimmer between worlds. A winged metamorphosis spirals through emerald fortune, as lightning crowns the nocturnal guardian. Crystalline resonance sings what melodies of chance may yield, and radiant bursts scatter where destiny's curtain draws near.",
+      "hint": "Seek the target, the dragon, the butterfly, the lightning, the crystal, and the sparkles—each a cornerstone of celestial fortune."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols for your lottery draw: One marks the bullseye, one breathes ancient fire, one flutters with rebirth, one strikes from the sky, one glimmers with pure magic, and one bursts with celebration.",
+      "hint": "Target, dragon, butterfly, lightning, crystal, and sparkles shine brightest in the night of chance."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      4,
+      20,
+      10
+    ]
   }
 }
