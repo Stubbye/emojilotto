@@ -13750,5 +13750,23 @@
       3,
       19
     ]
+  },
+  "sol_635": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six guardians of fate align. The winged messenger of transformation ascends past lunar sentinels, while prismatic light fractures through chaos. A stringed oracle sings beneath the jester's eternal grin, and where luck's petals bloom, the scaled dreamer exhales illumination into the void.",
+      "hint": "Consider what represents luck, transformation, guidance, chaos, music, and ancient power."
+    },
+    "easyRiddle": {
+      "text": "A dragon breathes near a joker's smile. A butterfly rises past the moon. Lightning cracks through a rainbow's arc. A guitar plays where the rocket soars. Find these six within the cosmic dance of chance.",
+      "hint": "Look for: a magical creature, a trickster, an insect, a celestial body, a storm, and a musical instrument."
+    },
+    "answer": [
+      1,
+      8,
+      5,
+      13,
+      16,
+      14
+    ]
   }
 }
