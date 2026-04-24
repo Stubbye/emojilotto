@@ -13642,5 +13642,23 @@
       2,
       19
     ]
+  },
+  "sol_629": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the thunderous chariot, while gemstone light refracts through prism wings. A jester's grin mirrors the scales of chance, and where cosmic brilliance crowns the masquerade of destiny.",
+      "hint": "Seek the intersection of luck, speed, and radiance; where gems ignite and cards whisper secrets."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: one marks your aim, one races the sky, one glitters with worth, one haunts the night, one cracks the air, and one spins the game. Which six dance in luck's grand lottery?",
+      "hint": "Think of targets, rockets, treasures, stars, storms, and dice."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      11
+    ]
   }
 }
