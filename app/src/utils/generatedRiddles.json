@@ -13768,5 +13768,23 @@
       16,
       14
     ]
+  },
+  "sol_637": {
+    "hardRiddle": {
+      "text": "Through celestial gates where fortune's archer aims, a serpent of thunder coils 'round prismatic flames. Where masked mirth pirouettes and winged dancers bloom, the jester's laugh echoes in crystalline gloom. Five treasures converge where chaos meets design—speak the order of doom, delight, and divine.",
+      "hint": "Consider the journey from target through transformation, where electricity meets mythology and spectacle births mystery."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's great beast, the spark that splits, the gem that gleams, the trickster's grin, and where petals meet stone.",
+      "hint": "One aims, one flies, one strikes, one shines, one deceives, one grows."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      20,
+      18,
+      14
+    ]
   }
 }
