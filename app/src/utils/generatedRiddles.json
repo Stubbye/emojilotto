@@ -13588,5 +13588,41 @@
       14,
       10
     ]
+  },
+  "sol_627": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six sentinels of fate converge. The winged metamorphosis dances through prismatic arcs, while crystalline depths whisper secrets to thunderous brilliance. Beneath the jester's eternal grin, luck's verdant symbol trembles. Seek the six that bridge mortal desire and cosmic chaos.",
+      "hint": "One guides upward, one burns eternal, one transforms, one refracts light, one laughs at destiny, one blooms with fortune."
+    },
+    "easyRiddle": {
+      "text": "I am six scattered across the lottery's dream: a path to the stars, a spark in darkness, beauty reborn mid-flight, light broken into many, a fool's knowing smile, and luck's green keeper. What numbers do I complete?",
+      "hint": "Think of journey, heat, change, color, chance, and fortune."
+    },
+    "answer": [
+      1,
+      5,
+      7,
+      9,
+      19,
+      20
+    ]
+  },
+  "emlo_235": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, sparkling with fortune's electric gleam. My gemstone heart burns bright as lightning strikes, while fortune's jester spins the wheel of hype. What five symbols of moon-bound madness guide this chaotic ascent to glory?",
+      "hint": "Think of a memecoin's journey: destination, velocity, wealth, luck, and the unpredictable nature of crypto dreams."
+    },
+    "easyRiddle": {
+      "text": "🚀 To the 🌙, we seek the ✨ with ⚡ and 💎. What emoji is missing from this memecoin mantra?",
+      "hint": "You need one more symbol of chance or fortune to complete the classic crypto pump phrase."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      9,
+      11,
+      10
+    ]
   }
 }
