@@ -13534,5 +13534,41 @@
       12,
       21
     ]
+  },
+  "sol_625": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial abyss, a gemstone whispers to the storm's white fury. The jester's laughter echoes through crystalline halls as twin-winged grace spirals toward destiny's gleaming sentinel, while the eternal flame hungers for what mortals dare not claim.",
+      "hint": "Seek the intersection of ambition, cosmic mystery, and chance—where precious things align with untamed nature."
+    },
+    "easyRiddle": {
+      "text": "A target draws an arrow to the moon's gem. Lightning and fire dance with a butterfly near a crystal's light.",
+      "hint": "Six symbols of luck and power: one is aimed, one flies high, one shines bright, one strikes, one burns, one transforms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_234": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a gemstone prize awaits those who follow my celestial lead. Where butterflies dance through fire and fortune sparkles bright, a joker's rainbow path guides seekers through the night.",
+      "hint": "Think of a memecoin's journey: explosive growth, precious rewards, chaos, and the magical moment when luck strikes."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is the prize, ⚡ strikes fast, 🔥 burns hot, 🦋 brings change, 🌈 shows the way.",
+      "hint": "These six emojis represent the core elements of a memecoin moon mission."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      8,
+      9
+    ]
   }
 }
