@@ -13714,5 +13714,41 @@
       20,
       10
     ]
+  },
+  "sol_633": {
+    "hardRiddle": {
+      "text": "Through celestial tapestry where fortune's jester pirouettes, six secrets slumber in twilight's embrace. The archer's mark meets the swift messenger's trajectory, while prismatic shards whisper beneath Luna's gaze. Where chaos dances in crackling veins and the winged metamorphosis completes its sacred spiral, there dwells the crystalline truth. Between the flame's hungry tongues and the cosmic ornament's eternal vigil, destiny's thread unravels.",
+      "hint": "Seek where the heavens touch luck, where transformation meets electricity, and where light refracts through solid geometry."
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols hide in this verse: One marks the bulls-eye, one rushes through space, one gleams with pure value, one graces the night sky, one crackles with power, and one transforms in nature's circus.",
+      "hint": "Think of hitting targets, space travel, precious stones, night skies, storms, and insect transformations."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_237": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, while precious gems sparkle in the chaos of fortune's game. A trickster grins as flames consume the old, yet from the ashes a new dawn breaks with cosmic radiance.",
+      "hint": "Think of crypto's journey: explosive growth, valuable assets, gambling elements, fire sales, and ultimate moon shots"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is valuable, ⚡ means fast, 🔥 means hot, 🌙 is the goal, 🃏 is the game",
+      "hint": "These six emojis represent the memecoin dream: launch, wealth, speed, hype, mooning, and luck"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      3,
+      19
+    ]
   }
 }
