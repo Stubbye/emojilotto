@@ -13624,5 +13624,23 @@
       11,
       10
     ]
+  },
+  "sol_628": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, and nature's winged metamorphosis dances with the storm's bright fury. The jeweled sphere of night watches over chaos tamed by canvas dreams, while luck's masked jester spins in symphonic light.",
+      "hint": "Seek the target, moon, butterfly, lightning, gem, and the joker's painted grin."
+    },
+    "easyRiddle": {
+      "text": "Find the bull's eye, the night guardian, the transformed creature, the electric strike, the precious stone, and the silly fool.",
+      "hint": "Think of: aim, sky, wings, electricity, sparkle, and comedy."
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      4,
+      2,
+      19
+    ]
   }
 }
