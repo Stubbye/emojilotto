@@ -14056,5 +14056,23 @@
       6,
       13
     ]
+  },
+  "sol_652": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels dance in shadow's tale. The winged wanderer seeks the crimson thread, while the scaled guardian guards what dreamers have fled. The silent performer wears many faces, and the emerald tears fall through starlit spaces. What constellation of fate shall you claim?",
+      "hint": "One flies by night, one burns without fire, one deceives with grace, one glimmers with desire."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I soar so high, I sparkle bright within the sky. A creature flies with gentle grace, while another guards a hidden place. Two more join this lucky dance—one wears masks, one holds a glance. What six bring fortune's sweet embrace?",
+      "hint": "Think of targets, rockets, butterflies, gems, jokers, and stars."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      2,
+      19,
+      21
+    ]
   }
 }
