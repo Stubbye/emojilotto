@@ -14092,5 +14092,23 @@
       8,
       19
     ]
+  },
+  "sol_654": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin masks, the verdant symbol greets a winged metamorphosis beneath the archer's gleaming prize. Six secrets hide in chaos and light—one strikes from heaven's grip, one spirals through the void eternal, one captures brilliance fractured, one wears the jester's grin, one blooms in twilight's embrace, and one marks victory's golden throne.",
+      "hint": "Seek the lightning's kiss, the moon's mystery, the gem's refraction, the joker's jest, the flower's grace, and the trophy's claim."
+    },
+    "easyRiddle": {
+      "text": "Six magical items for the lucky soul: a bolt from the sky, a glowing orb in darkness, a precious stone, a silly fool, a blooming gift from earth, and a winner's crown.",
+      "hint": "Thunder, night, treasure, laughter, nature, and glory."
+    },
+    "answer": [
+      4,
+      3,
+      2,
+      19,
+      14,
+      17
+    ]
   }
 }
