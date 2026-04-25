@@ -13948,5 +13948,23 @@
       10,
       19
     ]
+  },
+  "sol_645": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six entities converge in chance. The archer's mark dissolves to light, while thunder's child ascends the night. Winged metamorphosis through prism's arc, and fortune's jester grins within the dark.",
+      "hint": "Think of targets that shine, speed through cosmos, transformation, storms, joy, and trickery combined."
+    },
+    "easyRiddle": {
+      "text": "A target glows with gem-like fire, a rocket pierces what hearts desire. Lightning strikes where butterflies take flight, while joker's grin reflects the starlight.",
+      "hint": "One marks, one travels, one sparkles, one flies, one shines bright, one tricks the eye."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      8,
+      13,
+      18
+    ]
   }
 }
