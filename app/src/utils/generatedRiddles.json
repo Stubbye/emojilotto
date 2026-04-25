@@ -14074,5 +14074,23 @@
       19,
       21
     ]
+  },
+  "sol_653": {
+    "hardRiddle": {
+      "text": "Where fortune's gleam meets celestial arc, six sentinels of fate converge. The swift messenger pierces velvet darkness, while gemstone's heart reflects what lunacy whispers. Thunder's child dances with infernal breath, and wings of metamorphosis embrace the bridge of prismatic promise. Beneath this symphony, the jester's grin knows all secrets.",
+      "hint": "Seek the path where speed meets sky, precious light meets night's domain, twin forces of chaos and transformation, and the observer of all games."
+    },
+    "easyRiddle": {
+      "text": "I bring luck and shine so bright, a messenger soars to great height, a gem gleams in the darkest night, lightning strikes with all its might, fire burns and butterfly takes flight, while the joker laughs at the sight.",
+      "hint": "Look for sparkles, rocket, gem, moon, lightning, fire, butterfly, and joker - but pick only six!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      19
+    ]
   }
 }
