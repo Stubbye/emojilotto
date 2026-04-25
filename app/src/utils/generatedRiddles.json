@@ -14110,5 +14110,23 @@
       14,
       17
     ]
+  },
+  "sol_655": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the winged wanderer seeks the prism's scattered fragments. Through electric veils, the jester's mask grins at destiny's cruel wheel, while precious tears crystallize beneath the performer's grand stage. Six souls converge where chaos births wonder.",
+      "hint": "One guides from above, one strikes from within, one transforms, one masks truth, one measures chance, one illuminates the path between worlds."
+    },
+    "easyRiddle": {
+      "text": "I am the light that falls from heights untouched. I am the spark that splits the sky in rage. I am the treasure buried in earth's clutch. I am the masked deceiver on life's stage. I am the gambler's cube of fate's design. I am the magic that makes all spirits shine.",
+      "hint": "Look to the heavens, feel the storm's kiss, seek what glitters, fear the trickster, roll the bones, and find the glimmer."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      19,
+      11,
+      21
+    ]
   }
 }
