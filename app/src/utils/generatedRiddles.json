@@ -14128,5 +14128,41 @@
       11,
       21
     ]
+  },
+  "sol_657": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged messenger ascends through prismatic arcs to claim a treasure born of starlight's fractured kiss, while the cunning thief watches from shadows beneath the laughing masks of fate.",
+      "hint": "Think of sky-bound journeys, luck's instruments, and performers who deceive."
+    },
+    "easyRiddle": {
+      "text": "A rocket climbs toward gems that sparkle like stars, while a joker grins beneath a rainbow's arc. What six symbols promise fortune to those who dare dream?",
+      "hint": "One launches upward, one shines from above, one brings joy, one shows multiple colors, and treasures glimmer in the night."
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      9,
+      21,
+      19
+    ]
+  },
+  "emlo_243": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's electric might. Where jesters laugh and fire ignites, a crystal palace holds the light. Rainbow waves dance with butterfly flight, as the fox guards treasures shining bright.",
+      "hint": "Think of a memecoin's journey: explosive growth, lucky vibes, dancing gains, and magic moments."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines forever, 🌙 is the goal, 🦋 dances free, 🔮 shows luck.",
+      "hint": "This is the memecoin trader's dream sequence."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      8,
+      20
+    ]
   }
 }
