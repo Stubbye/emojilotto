@@ -13912,5 +13912,41 @@
       2,
       8
     ]
+  },
+  "sol_644": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, six dancers of fate converge. The jester's grin guards twin towers of luck—one born of earth's brilliance, one whispered by storms. Between them swirls the chromatic bridge of dreams, while metamorphosis blooms eternal. Seek the apex of triumph where all celestial fires unite.",
+      "hint": "Think of games, luck, transformation, victory, and the meeting of earth and sky."
+    },
+    "easyRiddle": {
+      "text": "Find the six symbols of luck and wonder: the target of games, the cosmic dancer, the precious gleam, the jester of chance, the storm's power, and the victor's crown.",
+      "hint": "Lottery symbols include targets, gems, jokers, lightning, and winning crowns."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      11,
+      4,
+      17
+    ]
+  },
+  "emlo_240": {
+    "hardRiddle": {
+      "text": "I chase the dreams of those who gamble, rising fast with electric might. My precious stones sparkle as I dance through the cosmic night. Fortune's jester laughs below, while nature's luck blooms in the glow. What six symbols guide the way to wealth that burns and shines today?",
+      "hint": "Think of moon-bound fortunes, electric energy, precious rewards, and the symbols of luck and celebration that define memecoin culture."
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with fire and speed! A lucky gem is all we need. Lightning strikes and fortune calls, sparkles shine in circus halls. Clovers bless our risky game. What six emojis stake our claim?",
+      "hint": "Moon journey, fast rockets, valuable gems, electric power, glowing magic, and lucky charms."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      4,
+      10,
+      19
+    ]
   }
 }
