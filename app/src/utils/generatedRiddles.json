@@ -14038,5 +14038,23 @@
       6,
       18
     ]
+  },
+  "sol_651": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, and chaos dances with brilliance near. The winged metamorphosis drinks from the arc of heaven's tear, while the scaled ancient roars where the jester's masks appear. Thunder's kiss ignites the gem's deep core, as the fox's cunning opens luck's forbidden door.",
+      "hint": "Six symbols intertwine: aim, sky, transformation, spectrum, wildfire, and deception's grin."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune, I climb to stars, I flutter through dreams, I paint the sky. I strike with power, I hide in tricks. What six treasures unlock the lottery's fix?",
+      "hint": "Think of targets, flying high, beautiful insects, colorful arcs, electric power, and sneaky creatures."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      4,
+      6,
+      13
+    ]
   }
 }
