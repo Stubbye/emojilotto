@@ -13966,5 +13966,23 @@
       13,
       18
     ]
+  },
+  "sol_646": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances betwixt celestial fire and earthbound treasure, six spirits convene: the archer's mark meets the ascending flame, while gemstone's heart beats beneath luna's gaze, and fortune's twin visages shimmer as one through prismatic mist—seek ye the threshold where chaos performs and winged metamorphosis blooms eternal.",
+      "hint": "One guides aim, one ascends, one glimmers wealth, one watches night, one shows duality, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six magical things gather in the lottery: something you aim at, something that flies up fast, something shiny and precious, something in the night sky, something that can be two faces, and something with beautiful wings.",
+      "hint": "Think of: target, rocket, gem, moon, joker, butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      8
+    ]
   }
 }
