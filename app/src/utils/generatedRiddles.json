@@ -13984,5 +13984,41 @@
       19,
       8
     ]
+  },
+  "sol_648": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six omens dance between the void and desire. The jester's grin guards gems crystalline bright, while winged metamorphosis pirouettes through lightning's night. What trinity of fate spins where rainbow meets the clock, as thunder crowns the stage where fortune's riddles unlock?",
+      "hint": "Seek the performer's mask, the gambler's sphere, and transformation wrapped in electric drear."
+    },
+    "easyRiddle": {
+      "text": "I have a target and aim for the sky with fire and light. A gem sparkles under the circus tent where dice spin and jokers ignite. What six treasures glimmer when fortune takes flight?",
+      "hint": "Think of games of chance, spectacle, and things that shine in the night."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      11,
+      8,
+      12
+    ]
+  },
+  "emlo_241": {
+    "hardRiddle": {
+      "text": "I launch to the 🌙 with ⚡ speed, my 💎 sparkles bright as 🔥 ignites the 🎪 of dreams. What am I?",
+      "hint": "A volatile asset that promises wealth beyond the stars"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🚀, chasing 💎 under ⚡ and 🔥",
+      "hint": "Think of a popular meme token journey"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      7
+    ]
   }
 }
