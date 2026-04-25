@@ -14164,5 +14164,23 @@
       8,
       20
     ]
+  },
+  "sol_658": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate converge in shadow's veil. The archer's mark meets the heavens' pale sentinel, while fortune's jester pirouettes betwixt crystalline depths and nature's metamorphic grace. What reveals itself only to those who embrace chaos and transformation?",
+      "hint": "Seek the intersection of destiny, chance, and magical change. One marks targets, one crowns achievement, one judges luck, and three embody transformation's sacred geometry."
+    },
+    "easyRiddle": {
+      "text": "I contain targets and lightning, gems that shine bright, a trophy of winners, and magical sight. A jester adds jest, and a butterfly takes flight. Six lucky symbols—can you name them right?",
+      "hint": "Think of luck, magic, winning, and nature's wonders combined in six special symbols."
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      12,
+      13,
+      18
+    ]
   }
 }
