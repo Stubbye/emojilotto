@@ -13840,5 +13840,23 @@
       4,
       8
     ]
+  },
+  "sol_640": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six whispers dance: the celestial sentinel weeps crystalline tears upon the stage of chaos, while the winged metamorphosis ascends through the arc of hope, and the ancient scaled wisdom roars beneath the thunderous kiss of heaven's wrath.",
+      "hint": "Seek the hunter's mark, the dreamer's fortress, the precious fracture, the winged transformation, the serpent of old, and the element that cleaves the sky."
+    },
+    "easyRiddle": {
+      "text": "I am the hunter's bull's-eye, the dragon sleeps where I reign, crystal shards catch my light, butterflies dance in my realm, thunder is my cousin, and ancient serpents know my name.",
+      "hint": "One guides aim, one rules night, one glimmers bright, one has wings, one strikes fast, one breathes fire in legend."
+    },
+    "answer": [
+      0,
+      21,
+      20,
+      8,
+      4,
+      13
+    ]
   }
 }
