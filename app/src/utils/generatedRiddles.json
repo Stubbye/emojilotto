@@ -13858,5 +13858,41 @@
       4,
       13
     ]
+  },
+  "sol_641": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a crimson circle watches the jester's masked game. Seven-petaled fortune blooms beneath the wanderer's wing, while crystalline tears catch lightning's eternal sting. The scaled guardian guards what the archer cannot claim, and where fortune's dice spin, chaos bears no name.",
+      "hint": "Seek the intersection of luck, performance, and cosmic power—six symbols where fate performs its greatest show."
+    },
+    "easyRiddle": {
+      "text": "I contain a bullseye target, a dancing flame of fire, a gem that sparkles bright, a jester who plays the liar, a golden trophy won, and a dragon fierce and dire. Together we spin fortune's wheel ever higher.",
+      "hint": "Count the treasures: aim, burn, shine, play, win, and reign."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      17,
+      14
+    ]
+  },
+  "emlo_239": {
+    "hardRiddle": {
+      "text": "I launch dreams to infinity where fortunes crystallize, guarded by a trickster's grin beneath electric skies. Where chaos dances in celebration and lightning strikes the prize, find the legendary token that makes diamond hands rise.",
+      "hint": "Think of a memecoin's journey: where it goes, what protects it, what happens to the price, and what you might win."
+    },
+    "easyRiddle": {
+      "text": "A clown laughs at the rocket's flame, a gem glows under lightning's aim, the moon watches circus games—what six things fuel the memecoin fame?",
+      "hint": "One launches you, one sparkles, one zaps, one's silly, one's high, and one's bright."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      7,
+      9,
+      21
+    ]
   }
 }
