@@ -13894,5 +13894,23 @@
       9,
       21
     ]
+  },
+  "sol_643": {
+    "hardRiddle": {
+      "text": "Where fortune's celestial sentinel dances with infernal breath, the jester's twin masks guard the threshold between chaos and destiny. A prism of hope spirals skyward as the swift wanderer's cunning gaze pierces through emerald brilliance, while the winged metamorphosis completes its eternal cycle beneath heaven's electric crown.",
+      "hint": "Look for: a watcher in night's domain, a trickster's reflection, a spectrum of wonder, a keen nocturnal creature, a precious faceted form, and nature's most delicate transformation"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in verse: the moon watches over night, fire burns with passionate heat, the joker laughs in masks, the fox hunts with clever eyes, the gem glitters precious and bright, and the butterfly floats on painted wings.",
+      "hint": "Count them: lunar guardian, dancing flames, dual personas, russet trickster, crystalline wealth, and winged beauty"
+    },
+    "answer": [
+      3,
+      6,
+      19,
+      13,
+      2,
+      8
+    ]
   }
 }
