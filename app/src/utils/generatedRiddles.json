@@ -14020,5 +14020,23 @@
       5,
       7
     ]
+  },
+  "sol_649": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin flames dance upon the stage of dreams. The trickster's grin guards the threshold between earthbound whimsy and the vault of crystalline secrets, while the winged wanderer spirals through infinite jest beneath the throne of gleaming triumph.",
+      "hint": "Seek the marksman's aim, the sky's pale eye, the jester's laughter, the performer's curtain, the transformed soul, and the victor's crown."
+    },
+    "easyRiddle": {
+      "text": "One shoots straight, one glows above, one laughs in masks, one flies transformed, one holds all riches, and one claims the prize.",
+      "hint": "Think of: aim, night, comedy, metamorphosis, wealth, and winning."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      8,
+      6,
+      18
+    ]
   }
 }
