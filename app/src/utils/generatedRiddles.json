@@ -14344,5 +14344,23 @@
       20,
       17
     ]
+  },
+  "sol_666": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver, six dancers of fate pirouette through the cosmic stage. The winged metamorphosis ascends past the molten heartbeat, while crystalline fragments catch the split-second's electric kiss. What symbols crown the jester's hidden garden?",
+      "hint": "One soars skyward, one illuminates darkness, one represents transformation, one sparkles with chaos, one plays the fool, and one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: a flyer without wings, a shining stone, a night guardian, a spark of power, a laughing face, and a thing that grows and opens.",
+      "hint": "Think of objects that represent luck, flight, gems, night, electricity, comedy, and nature."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      18,
+      14
+    ]
   }
 }
