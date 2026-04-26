@@ -14416,5 +14416,23 @@
       5,
       16
     ]
+  },
+  "sol_669": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a gemstone glows beneath the wanderer's spire. The jester's grin dances with scaled might, while petals unfurl in prismatic light. Seven-pointed sentinel crowns the whole, and crystalline fragments complete the soul.",
+      "hint": "One guides aims, one burns bright, one sparkles deep, one rules the night, one laughs at fate, one blooms for grace, and one reflects all light in space."
+    },
+    "easyRiddle": {
+      "text": "I contain six secrets of chance and dream: a target of ambition, a gem's bright gleam, a dragon's ancient power, a flower in its hour, a star that guides the night, and crystal shining bright.",
+      "hint": "Think of luck's symbols: bullseye, treasure, mythical beast, nature's dress, sky's light, and ice."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      14,
+      21,
+      20
+    ]
   }
 }
