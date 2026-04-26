@@ -14560,5 +14560,23 @@
       8,
       9
     ]
+  },
+  "sol_677": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and the serpent of thunder coils through prismatic dust. Six keepers of destiny gather: the hunter's cunning mask, the maiden's blooming grace, the jester's laughing visage, the tyrant's scaled dominion, the archer's glowing bullseye, and the sky's eternal sentinel. Which tableau unveils the lottery's sacred threshold?",
+      "hint": "One is cunning and terrestrial, one emerges from earth, one deceives, one commands, one aims true, one watches eternal."
+    },
+    "easyRiddle": {
+      "text": "I wear a mask and hunt by night, a flower grows in morning light, the joker laughs at destiny, a dragon guards the mystery, lightning strikes where arrows fly, and the star that never says goodbye. Name these six.",
+      "hint": "Think of characters, nature, and symbols of chance. One is an animal, one is a plant, one is a cosmic body, one is mythical, one is a target, one is a performer."
+    },
+    "answer": [
+      13,
+      14,
+      19,
+      12,
+      0,
+      21
+    ]
   }
 }
