@@ -14506,5 +14506,23 @@
       21,
       19
     ]
+  },
+  "sol_674": {
+    "hardRiddle": {
+      "text": "Where celestial fire waltzes with fortune's twin flames, a jester's grin guards the threshold between chaos and victory. Seek the winged messenger of transformation, the crystalline heart of earth's deepest dreams, and the archer's eternal mark that pierces both sky and soul. Six entities converge where laughter meets the infinite—one grins in masks, one burns above, one glimmers in silence, one dances on wings, one rules in cavernous halls, and one marks the hunter's eternal quest.",
+      "hint": "Think of luck's masquerade, celestial burning, precious geometry, metamorphosis, underground treasures, and human ambition's symbol."
+    },
+    "easyRiddle": {
+      "text": "A silly character hides among precious stones and sky-fire. Find the butterfly's dance partner, the goal nobody misses, the gem's sharp cousin, the flame that lights fortune, and royalty's reward.",
+      "hint": "Laughter, wealth, aim, transformation, sparkle, and victory walk together."
+    },
+    "answer": [
+      19,
+      1,
+      21,
+      8,
+      20,
+      18
+    ]
   }
 }
