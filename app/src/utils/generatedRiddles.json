@@ -14200,5 +14200,41 @@
       13,
       8
     ]
+  },
+  "sol_660": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through celestial fire, six tokens of destiny dance in the void. The archer's mark meets the winged flame, while the night's pearl weeps silver tears. Luck's jester grins beneath the storm's bright tongue, and crystal dreams fracture into infinite light. Seek ye the path where chaos wears a crown and brilliance shatters all before it.",
+      "hint": "One dwells in the heavens, one breathes chaos, one guards treasure, one deceives the eye, one commands storms, and one births radiance eternal."
+    },
+    "easyRiddle": {
+      "text": "Six magical things appear in this verse: a target to aim at, a dragon so fierce, a gem that shines bright, the moon up so high, lightning that strikes, and fire's own might.",
+      "hint": "Look for: something you shoot at, a mythical beast, something precious, a night sky wonder, electricity, and flames."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      1,
+      4,
+      5
+    ]
+  },
+  "emlo_244": {
+    "hardRiddle": {
+      "text": "I launch dreams to infinity where sparkles dance, my gem-fueled lightning strikes with joker's chance. On purple waves I ride, a fox's cunning guide, with fire and rocket speed, I'm the memecoin's pride.",
+      "hint": "Think of a crypto journey: speed, value, chaos, luck, and the path to riches"
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off with 💎 power, ⚡ strikes in this hour. 🎭 plays with 🔥 delight, 💜 dreams burn bright.",
+      "hint": "Memecoin essentials: launch, treasure, speed, trickery, fire, and hope"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      18
+    ]
   }
 }
