@@ -14452,5 +14452,41 @@
       4,
       7
     ]
+  },
+  "sol_672": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthly desire, six harbingers of fate converge: the archer's eternal mark meets the swift messenger of skies, precious fragments of starlight embrace the nocturnal sentinel, while chaos and electricity intertwine in theatrical brilliance, and nature's delicate acrobat adorns the spectrum's bridge. Speak the order of ascension from terrestrial to divine.",
+      "hint": "Think of journeys upward: from aim, to travel, to wealth, to night sky, to nature's wonder, and to pure electric destiny."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and dreams: I aim for success, rockets take me high, gems are precious, the moon watches over me, lightning strikes with power, and a butterfly dances on rainbows. What six gifts does fortune bestow?",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Rainbow - these are your six lucky numbers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
+  },
+  "emlo_247": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises with electric speed, precious gems ignite the deed. Where celestial bodies glow and rainbow waves flow, a magical creature dances as sparks show. What six symbols reveal this memecoin's soul?",
+      "hint": "Think of a magical circus in the sky with electricity and treasure"
+    },
+    "easyRiddle": {
+      "text": "Find the joker, the rocket, the gem so bright, the moon shining in the night, the lightning strike, and the sparkles of light!",
+      "hint": "One is funny, one goes up, one is shiny, one is in space, one is electric, one is glittery"
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
   }
 }
