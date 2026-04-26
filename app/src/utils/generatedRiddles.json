@@ -14326,5 +14326,23 @@
       4,
       18
     ]
+  },
+  "sol_665": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester's laughter echoes through prismatic dreams. The winged messenger of metamorphosis ascends toward destiny's gleaming throne, while chaos whispers through crystalline chambers of fate. Seek the six that shimmer between the veil of chance and consequence.",
+      "hint": "One rules the night, one ignites the soul, one transforms all, one wears two faces, one sparkles with destiny's geometry, and one crowns the victor."
+    },
+    "easyRiddle": {
+      "text": "A night jewel glows above. Fire crackles bright. A butterfly floats free. A jester grins wide. Diamonds sparkle endlessly. A winner holds their prize high.",
+      "hint": "Look for: sky, heat, wings, trickster, gems, and glory."
+    },
+    "answer": [
+      3,
+      5,
+      8,
+      19,
+      20,
+      17
+    ]
   }
 }
