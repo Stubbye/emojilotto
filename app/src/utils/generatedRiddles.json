@@ -14398,5 +14398,23 @@
       5,
       11
     ]
+  },
+  "sol_668": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps upon the jester's crown, and fortune's dancers pirouette through prisms of forgotten dreams. The winged mimic seeks the gemstone's whispered song beneath the vault of night's eternal gaze. In chaos ordered, luck performs its ancient waltz.",
+      "hint": "Seek the performer, the night guardian, the fool's companion, the crystalline treasure, the flame of sky, and the transformation of air."
+    },
+    "easyRiddle": {
+      "text": "A sparkle in darkness, a gem that glows bright, a flying friend in the night, a jester's delight, a blaze from above, and a dancer in flight.",
+      "hint": "One belongs to the sky, one to fortune, one to transformation, one to luck, one to light, and one to laughter."
+    },
+    "answer": [
+      1,
+      3,
+      8,
+      11,
+      5,
+      16
+    ]
   }
 }
