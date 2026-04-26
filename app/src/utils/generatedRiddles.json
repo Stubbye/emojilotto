@@ -14524,5 +14524,23 @@
       20,
       18
     ]
+  },
+  "sol_675": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's ascent, a gemstone catches starfire's bent. The tempest's tongue licks crystalline dreams while masked performers waltz through fortune's schemes. A creature of cunning, six-tailed and sly, leads serpent-gold beneath the sky.",
+      "hint": "Seek the marksman's destination, the jeweler's prize, the storm's voice, the night's crown, the trickster's grin, and the scaled deceiver."
+    },
+    "easyRiddle": {
+      "text": "I am six things of chance and wonder: a target's heart, a stone that shines, lightning's crack, the moon's glow, a dragon's scales, and a clever fox's face. What are we?",
+      "hint": "Think of games, gems, weather, sky, fantasy creatures, and clever animals."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      3,
+      13,
+      12
+    ]
   }
 }
