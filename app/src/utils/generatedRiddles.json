@@ -14434,5 +14434,23 @@
       21,
       20
     ]
+  },
+  "sol_670": {
+    "hardRiddle": {
+      "text": "Where celestial fires dance upon the midnight veil, six omens converge in fortune's sacred tale. The archer's mark meets the void's silver gaze, while twin serpents of fate ignite blazing mazes. Winged metamorphosis pirouettes through prismatic arcs, as glittering dust crowns the performer's mystical sparks.",
+      "hint": "Look for: aim, sky, treasure, night, chaos, and transformation wrapped in spectacle"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one you aim for, one that soars high, one that glimmers bright, one that rules the night, one that crackles with might, and one that dances in flight.",
+      "hint": "Think: target, rocket, gem, moon, lightning, butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
   }
 }
