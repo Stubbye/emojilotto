@@ -14254,5 +14254,23 @@
       8,
       6
     ]
+  },
+  "sol_662": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while twin masks whisper secrets to the prism-born wanderer. Luck's six-pointed guardian glimmers as the mandarin trickster grins beneath the shimmer of endless transformation.",
+      "hint": "Seek the symbols of chaos, ascension, duality, and fortune's paradox. One brings luck, one brings change, one brings revelation."
+    },
+    "easyRiddle": {
+      "text": "I carry luck and aim true, a dragon soars where lightning flew, masks hide what sparkles show, joker grins and rainbows glow. What six treasures dance in night?",
+      "hint": "Think of targets, dragons, fire in sky, theater, magic shimmer, and colorful light."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      21,
+      19,
+      10
+    ]
   }
 }
