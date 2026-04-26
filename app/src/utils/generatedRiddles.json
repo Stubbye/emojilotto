@@ -14542,5 +14542,23 @@
       13,
       12
     ]
+  },
+  "sol_676": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The archer's mark gleams eternal, while the serpent of heaven coils through infinite night. Twin flames of chance and spectral brilliance converge—one births storms, the other births wonder. The winged metamorphosis witnesses all, adorned by the bridge of prismatic dreams.",
+      "hint": "Seek the bullseye, the scaled guardian, the electricity of fate, the luminous dust, the winged dancer, and the arc of seven hues."
+    },
+    "easyRiddle": {
+      "text": "I contain six treasures: a target to hit, a dragon that flies, lightning that strikes, sparkles that shine, a butterfly that dances, and a rainbow that appears. What am I?",
+      "hint": "These six symbols are the lottery's chosen ones."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      10,
+      8,
+      9
+    ]
   }
 }
