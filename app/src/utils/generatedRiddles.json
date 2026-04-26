@@ -14362,5 +14362,41 @@
       18,
       14
     ]
+  },
+  "sol_667": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, and chaos dances with the fox's cunning shadow. The dragon's ancient wisdom spirals through crystalline chambers while lightning weaves its electric psalms. Seek the jester's grin amid the star-strewn theater of chance, where the butterfly's wing stirs destinies untold.",
+      "hint": "A mystical convergence of luck, cunning, power, destiny, chaos, and mirth—six entities bound by threads invisible to mortal sight."
+    },
+    "easyRiddle": {
+      "text": "I am a target struck by lightning's fury. I gleam like crystal under moonlight. A fox watches while a dragon breathes fire nearby. A butterfly dances as the joker grins. What six treasures align?",
+      "hint": "Think of precision, brilliance, cunning, ancient power, transformation, and trickery meeting in a single moment of fate."
+    },
+    "answer": [
+      0,
+      4,
+      8,
+      13,
+      14,
+      19
+    ]
+  },
+  "emlo_246": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights, sparkling with electric might. Fortune favors the bold who chase me through chaos and flames, guided by luck's mystical games. Where cosmic energy meets lucky chance, I dance between reality and trance.",
+      "hint": "Think of a volatile journey: upward movement, precious value, electrical energy, lunar destination, fiery volatility, and fortunate randomness."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, ⚡ strikes with power, 💎 is precious, 🔥 burns hot, and 🎲 decides your fate. What six emojis complete the memecoin's wild ride?",
+      "hint": "The first emoji launches, the second glows, the third zaps, the fourth sparkles, the fifth burns, and the sixth brings luck."
+    },
+    "answer": [
+      1,
+      10,
+      4,
+      2,
+      5,
+      11
+    ]
   }
 }
