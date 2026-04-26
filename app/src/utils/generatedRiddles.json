@@ -14272,5 +14272,41 @@
       19,
       10
     ]
+  },
+  "sol_663": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial flame, six whispers dance in chaos and acclaim. The jester's jest ignites the prism's song, while scaled ambition soars where lightning belongs. Through butterfly's waltz and crystal's deep call, the masked performer catches fate's fall.",
+      "hint": "Look for the trickster, the ancient beast, the luminous stone, the spark of the east, the delicate flyer, and the frozen echo of time."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one laughs in cards, one burns so bright, one sparkles clear like frozen dreams, one flies on wings through moonlit beams, one roars with scales of ancient power, one glimmers in the darkest hour.",
+      "hint": "A jester, fire, crystal, butterfly, dragon, and star all gather in mystery."
+    },
+    "answer": [
+      7,
+      5,
+      20,
+      8,
+      13,
+      21
+    ]
+  },
+  "emlo_245": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving trails of brilliance. Collect my precious stones and witness the magical transformation as fortune strikes like lightning. The jester's luck and nature's fortune align where magic sparkles eternal.",
+      "hint": "Think of a memecoin journey: starting point, destination, volatility, luck, rarity, and the magic that follows."
+    },
+    "easyRiddle": {
+      "text": "🚀 shoots to the 🌙, collecting ✨ along the way. ⚡ strikes when ⚡ meets 🍀 for lucky wins!",
+      "hint": "One goes up, one is where we go, one shines, one zaps twice, one brings luck."
+    },
+    "answer": [
+      1,
+      3,
+      9,
+      4,
+      19,
+      9
+    ]
   }
 }
