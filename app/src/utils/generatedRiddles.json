@@ -14308,5 +14308,23 @@
       19,
       9
     ]
+  },
+  "sol_664": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the jester's masked domain spins beneath the winged metamorphosis. Six secrets hide: the archer's eternal mark, the serpent's ancient hoard glimmers in twilight's gem, electricity's jagged kiss, the musician's soul resonates, and transformation blooms where chaos reigns supreme.",
+      "hint": "Think of luck's symbols, the night sky's watchers, and the transformation of performers and creatures both wild and magical."
+    },
+    "easyRiddle": {
+      "text": "Find the six lucky symbols: one marks the target, one breathes fire bright, one shines like a precious jewel, one rules the night sky, one zigs and zags with power, and one wears a mocking grin.",
+      "hint": "Look for: aim, flames, sparkle, darkness above, electricity, and laughter in card games."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      4,
+      18
+    ]
   }
 }
