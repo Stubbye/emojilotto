@@ -14236,5 +14236,23 @@
       6,
       18
     ]
+  },
+  "sol_661": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six tokens of fate converge: the archer's eternal mark meets the messenger of heavens, precious depths gleam beneath silver's watching eye, while nature's fleeting grace spirals with raw chaos unleashed, and symmetry's painted vision crowns the spectacle of possibility.",
+      "hint": "Think of targets both literal and metaphorical, paths to transcendence, what glimmers in darkness, what watches over night, metamorphosis and destruction, and the canvas of existence itself."
+    },
+    "easyRiddle": {
+      "text": "I am a bullseye, a journey upward, a shining stone, a silent guardian above, a transforming insect, and the element that consumes all. What six symbols am I?",
+      "hint": "One you aim at, one goes up, one is valuable, one is in the sky at night, one was once a caterpillar, and one burns."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      6
+    ]
   }
 }
