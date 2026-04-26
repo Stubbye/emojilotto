@@ -14182,5 +14182,23 @@
       13,
       18
     ]
+  },
+  "sol_659": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the jester's grin meets nature's scaled sentinel, the archer's mark glows beneath twin crescents of luck and brilliance. Seven-pointed destiny converges as the trickster's masked companion soars through tempests of chance.",
+      "hint": "Look for the intersection of games, mythology, and cosmic fortune. One element burns, one deceives, one flies, one shines, one points, one watches."
+    },
+    "easyRiddle": {
+      "text": "I am six: a pointed archer's goal, a jeweled sparkle, a night sky guardian, a cosmic explosion, a clever thief, and a winged dancer through storms.",
+      "hint": "Think of targets, gems, celestial bodies, lightning, cunning animals, and insects. One hides, one glows, one stings."
+    },
+    "answer": [
+      0,
+      5,
+      21,
+      4,
+      13,
+      8
+    ]
   }
 }
