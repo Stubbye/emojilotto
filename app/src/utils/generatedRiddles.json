@@ -14488,5 +14488,23 @@
       4,
       9
     ]
+  },
+  "sol_673": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's spinning wheel, a masked jester's laughter echoes through prismatic dreams. The winged metamorphosis ascends toward lunar brilliance, while thunderous destiny strikes the crimson heart of chance. Six tokens of fate converge where chaos wears a grin and crystalline dreams ignite.",
+      "hint": "One spins, one soars, one strikes, one transforms, one glimmers, one presides. The clown knows the secret."
+    },
+    "easyRiddle": {
+      "text": "I spin like destiny, I crackle with power, I transform and rise high, I glitter and shine, I trick and amuse, and I wait in the heavens. What six treasures of luck am I?",
+      "hint": "Think of a game night under the stars where magic happens, laughter echoes, and electricity fills the air."
+    },
+    "answer": [
+      11,
+      1,
+      4,
+      8,
+      21,
+      19
+    ]
   }
 }
