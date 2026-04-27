@@ -14848,5 +14848,23 @@
       4,
       8
     ]
+  },
+  "sol_689": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ancient sentinel, a prism born of celestial fire dances with winged metamorphosis. The jester's grin echoes through thunder's domain, while earthbound luck blooms in trefoil whispers beneath the stage of eternal jest.",
+      "hint": "Seek the marksman's precision, the night's pale guardian, crystalline wealth, nature's rebirth through wings, chaos's voice, and fortune's smallest green omen."
+    },
+    "easyRiddle": {
+      "text": "I have a bullseye, I light the night sky, I sparkle with value, I transform with beauty, I crack the heavens, and I'm very lucky. What six treasures am I?",
+      "hint": "Think of: aiming, glowing, precious, changing, loud, and fortunate things."
+    },
+    "answer": [
+      0,
+      21,
+      20,
+      8,
+      4,
+      19
+    ]
   }
 }
