@@ -14650,5 +14650,41 @@
       4,
       13
     ]
+  },
+  "sol_681": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the jester's twin masks witness fortune's dance upon crystalline peaks. Seek the amphibian metamorphosis ascending toward fortune's apex, where luck's thunderous symphony strikes through the veil between worlds.",
+      "hint": "Consider transformation, luck, precious clarity, chaos, performance, and electrical destiny intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in fortune's tale: A precious stone gleams bright, A masked performer grins with delight, Lightning cracks the sky with might, A butterfly takes graceful flight, A dragon guards treasure tight, And a trophy shines in light.",
+      "hint": "Look for: gem, joker, lightning, butterfly, dragon, and trophy."
+    },
+    "answer": [
+      1,
+      11,
+      4,
+      8,
+      14,
+      18
+    ]
+  },
+  "emlo_250": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a gem of fortune that makes portfolios bleed. Dancing with fire and sparkles so bright, I'm the joker's treasure under moonlight. What six symbols mark this memecoin's flight?",
+      "hint": "Think of a coin's journey: launch, destination, value, energy, luck, and celebration."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, a gem shines bright, lightning strikes fast, fire burns light. The moon watches over, sparkles dance around. What six emojis make this memecoin sound?",
+      "hint": "Start with how crypto launches, then add what makes it valuable and exciting."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      10
+    ]
   }
 }
