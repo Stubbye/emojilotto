@@ -14578,5 +14578,23 @@
       0,
       21
     ]
+  },
+  "sol_678": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames pierce the veil of night, and celestial fire dances with fortune's bright mark. The jester's grin hides what the masked truth reveals—six whispers between chaos and symmetry's appeal. One strikes with wrathful tongue, one burns with primal might, one grins in motley folly, one glows in lunar light, one marks the archer's purpose, one sparkles pure and white.",
+      "hint": "Look for the wild trickster, the electric fury, the primordial beast, the night's silent witness, the performer's stage, and the gleaming reward."
+    },
+    "easyRiddle": {
+      "text": "I contain a jester's laughter, a dragon's ancient roar, lightning's angry strike, the moon's pale glow, a target's centered aim, and sparkles bright that soar.",
+      "hint": "Six emojis hide here: one laughs, one flies, one electrifies, one shines above, one marks the spot, and one glimmers."
+    },
+    "answer": [
+      19,
+      14,
+      13,
+      3,
+      0,
+      10
+    ]
   }
 }
