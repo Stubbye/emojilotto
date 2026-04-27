@@ -14686,5 +14686,23 @@
       4,
       10
     ]
+  },
+  "sol_682": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gem-kissed sentinel gleams. Lightning's twin dances with infernal breath, while celestial silk weaves through chaos eternal. The masked performer grins as wings of metamorphosis flutter past the stage of fortune.",
+      "hint": "Seek the intersection of aimed destiny, precious earth, electric sky, and theatrical transformation. Six symbols hold the key to lottery's secret language."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the spark of light, the jeweled prize. I live where fire burns bright, where masks hide smiles, and where butterflies dance. Six of us hide the winning path.",
+      "hint": "Think of: something you target, what shines underground, what burns hot, a night visitor, entertainment with mystery, and delicate wings."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      20,
+      18,
+      8
+    ]
   }
 }
