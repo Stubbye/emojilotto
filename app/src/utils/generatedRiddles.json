@@ -14632,5 +14632,23 @@
       10,
       6
     ]
+  },
+  "sol_680": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps through crystalline veils, and fortune's masked jester pirouettes upon waves of electric rebirth. Six sentinels of fate converge: the archer's eternal circle, the messenger of ascension, the earth's frozen tears, the celestial guardian watching from void, the thunder's violent kiss, and the serpent of ancient wisdom coiled in shadow. What constellation of destiny reveals the lottery's beating heart?",
+      "hint": "Look for the symbols of perfection, elevation, wealth, nightwatch, chaos, and primordial power."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide the lottery's secret: one points the way with its circle, one climbs the sky swiftly, one sparkles with precious worth, one glows in darkness, one crackles with power, and one guards ancient mysteries. Can you spot them all?",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and dragons."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
