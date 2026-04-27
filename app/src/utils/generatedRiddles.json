@@ -14758,5 +14758,23 @@
       11,
       10
     ]
+  },
+  "sol_685": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial flame, six dancers in the void convene. The jester's grin eclipses fortune's ring, while scaled majesty guards the gleaming throne. Petals spiral through the storm of light, and wings of metamorphosis ignite the path where heaven's tears cascade in radiant arcs.",
+      "hint": "Seek the marked aim, the ascending fire, the laughing deceiver, the ancient wyrm, the bloom of earth, and the chromatic deluge."
+    },
+    "easyRiddle": {
+      "text": "I am the bull's eye of chance, the serpent that soars, the fool's masked face, the creature of old, the thing that blooms, and the spectrum after rain. Six symbols dance in destiny's game.",
+      "hint": "One you aim at, one flies high, one tricks you, one breathes fire, one grows pretty, one appears after storms."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      13,
+      14,
+      9
+    ]
   }
 }
