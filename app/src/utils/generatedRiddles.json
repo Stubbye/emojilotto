@@ -14704,5 +14704,41 @@
       18,
       8
     ]
+  },
+  "sol_683": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's spinning wheel, and masked revelry spirals through prisms of chance. The winged messenger ascends toward luminous dreams, while nature's bloom trembles beneath electric fate's caress. Six tokens hide in shadows of destiny's grand theatre—seek them where chaos becomes art, and the fool's golden laughter echoes through fractured light.",
+      "hint": "Look for symbols of performance, luck, transformation, and cosmic power intertwined in poetic chaos."
+    },
+    "easyRiddle": {
+      "text": "Find the rocket soaring high, the joker's playful grin, the glittering gem of fortune, the butterfly taking flight, the moon watching over all, and the lightning bolt of chance striking swift.",
+      "hint": "Six specific emoji symbols: a space vehicle, a card character, a precious stone, a flying insect, a night sky object, and electricity in motion."
+    },
+    "answer": [
+      1,
+      19,
+      2,
+      8,
+      3,
+      4
+    ]
+  },
+  "emlo_251": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my spark ignites the volatile night. Gem-like treasures electrify the masses, while the trickster's jest never passes. A dragon's fire meets butterfly grace, and fortune's wheel spins at breakneck pace.",
+      "hint": "Think of HODL culture, moon shots, and the chaos of crypto trading"
+    },
+    "easyRiddle": {
+      "text": "🚀 shoots to the 🌙, ⚡ strikes with 🔥, 🎭 laughs at the 💎",
+      "hint": "A memecoin journey: launch, destination, volatility, emotion, and speculation"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      4,
+      2,
+      19
+    ]
   }
 }
