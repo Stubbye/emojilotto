@@ -14776,5 +14776,41 @@
       14,
       9
     ]
+  },
+  "sol_686": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces heaven's vault, a serpent coils through fractured light. The jester's grin precedes the storm, while nature's dancer weaves between the flames. Six symbols dance in cosmic jest—one guides the aim, one steals the night, one laughs at fate, one burns with rage, one shimmers free, one speaks in fire.",
+      "hint": "The riddler seeks: aim, nocturne, wit, inferno, liberty, and thunder's tongue."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I hold the night, I am the fool who speaks the truth, I am the spark that devours all, I am the wings of transformation, I am the flash that splits the sky. What six treasures complete this prophecy?",
+      "hint": "Look for: direction, darkness, humor, heat, flight, and electricity."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      6,
+      8,
+      5
+    ]
+  },
+  "emlo_252": {
+    "hardRiddle": {
+      "text": "I launch with speed to reach new heights, my gems sparkle with electric might. Through circus chaos I dance with fire, while a fox plays tricks on the moon's desire. What six celestial symbols guide this memecoin's flight?",
+      "hint": "Think of a rocket's journey: propulsion, treasure, entertainment, destination, cunning, and legendary status."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with power, 🔥 burns hot, 🦊 is clever, and 🌙 is the dream destination. Which six emojis represent this memecoin adventure?",
+      "hint": "Say each emoji name in order: rocket, gem, lightning, fire, fox, moon."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      3
+    ]
   }
 }
