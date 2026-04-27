@@ -14596,5 +14596,41 @@
       0,
       10
     ]
+  },
+  "sol_679": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets crystalline dreams, a winged dancer pirouettes through fortune's spectrum. Six sentinels guard the threshold: one pierces the veil of night, one blazes eternal, one refracts the cosmos through frozen tears, one flutters between worlds, one crowns the victor's ascent, and one blooms where chaos orchestrates its symphony.",
+      "hint": "A nocturnal beacon, an infernal force, a gem of eternity, a metamorphic sprite, a golden achievement, and nature's crescendo."
+    },
+    "easyRiddle": {
+      "text": "Find the night guardian, the eternal flame, the precious crystal, the delicate flyer, the winner's reward, and the garden's gift.",
+      "hint": "Think of: darkness, heat, sparkle, wings, victory, and petals."
+    },
+    "answer": [
+      3,
+      5,
+      20,
+      7,
+      17,
+      14
+    ]
+  },
+  "emlo_249": {
+    "hardRiddle": {
+      "text": "I launch to distant heights with speed, my gem gleams bright in lunar deed. Lightning strikes with fiery might, while sparkles dance in circus light. The joker grins as fortune's found, where crystal prizes do abound.",
+      "hint": "Six symbols of wealth and chance ascend together in this crypto dance"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🔥 burns right, ✨ twinkles high, 🎪 spins around - which six emojis make a memecoin's crown?",
+      "hint": "Look for: rocket, gem, lightning, fire, sparkles, and circus"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      10,
+      6
+    ]
   }
 }
