@@ -14830,5 +14830,23 @@
       19,
       20
     ]
+  },
+  "sol_688": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate convene. The archer's mark meets the messenger's steed, while precious crystalline dreams intertwine with the night's pale sovereign. Luck's jester grins beneath the thunderbolt's kiss, as metamorphosis completes the sacred circle of transformation.",
+      "hint": "Think of targets, journeys, riches, darkness, chaos, and rebirth—each plays a role in destiny's grand performance."
+    },
+    "easyRiddle": {
+      "text": "I am six tokens of chance: a target to aim for, a rocket to soar high, a gem that glimmers, the moon that guides, lightning that strikes suddenly, and a butterfly that transforms. What am I?",
+      "hint": "These six emojis are symbols of aspiration, speed, wealth, guidance, surprise, and change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
