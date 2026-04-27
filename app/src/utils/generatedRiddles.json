@@ -14740,5 +14740,23 @@
       2,
       19
     ]
+  },
+  "sol_684": {
+    "hardRiddle": {
+      "text": "Where celestial fire waltzes with fortune's twin masks, a prismatic serpent coils through chambers of chance. The archer's mark gleams beneath Luna's gaze, while fortune's jester spins between crystal and storm, painting dreams upon chaos with wings of metamorphosis.",
+      "hint": "Six symbols where luck meets destiny: one marks precision, one commands the stage, one blinds with brilliance, one rules the night sky, one embodies chaos, and one transforms all."
+    },
+    "easyRiddle": {
+      "text": "Find the dragon's gem under moonlight, where the joker dances with lightning and a butterfly dreams on a sparkly stage.",
+      "hint": "Look for: a precious stone, a flying creature, a ruler of night, electricity's flash, a jester's grin, and something that shimmers brightly."
+    },
+    "answer": [
+      2,
+      13,
+      3,
+      5,
+      11,
+      10
+    ]
   }
 }
