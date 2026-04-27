@@ -14812,5 +14812,23 @@
       13,
       3
     ]
+  },
+  "sol_687": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens spin in fate's expanse. The archer's mark aligns with night's pale throne, while chaos leaps where jesters have flown. Crystalline brilliance shatters the veil, as wings of transformation tell destiny's tale.",
+      "hint": "Think of luck, sky, performance, and metamorphosis intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: one points and strikes, one climbs to stars, one sparkles bright, one flies and changes, one laughs and tricks, one shines like ice.",
+      "hint": "Lottery, sky, gems, insects, comedy, and frozen water."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      19,
+      20
+    ]
   }
 }
