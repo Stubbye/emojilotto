@@ -15028,5 +15028,41 @@
       19,
       3
     ]
+  },
+  "sol_699": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers of destiny converge. The archer's mark meets the void's luminescence, while chaos sings in crystalline chambers. A serpent of thunder coils round the jester's grin, and fortune's bloom withers beneath the trickster's gaze. Which six threads weave fate's tapestry?",
+      "hint": "Seek the intersection of luck, chaos, and cosmic mischief. One calls from above, one spins below, one strikes with fury."
+    },
+    "easyRiddle": {
+      "text": "I am six portals to destiny: precision's mark, heaven's crown, lightning's fury, foolish grin, wisdom's amber eyes, and serpent's ancient scale. Together we unlock the fortune keeper's vault.",
+      "hint": "Think of targets, the moon, electricity, playing cards, clever animals, and mythical beasts."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      11,
+      13,
+      14
+    ]
+  },
+  "emlo_257": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises with electric speed, precious stones guide the way to riches indeed. Dancing flames reach toward the celestial prize, while magic sparkles catch believers' eyes. A mystical creature guards the path of chance, and petals bloom in this crypto dance.",
+      "hint": "Think of HODL culture, moon missions, and the chaotic energy of memecoin communities"
+    },
+    "easyRiddle": {
+      "text": "🎭 🌙 💎 ⚡ 🔥 ✨ - Can you find these six symbols hidden in the lucky lottery?",
+      "hint": "Look for the jester, lunar dreams, treasure, electricity, heat, and magic shimmer"
+    },
+    "answer": [
+      19,
+      3,
+      2,
+      4,
+      5,
+      10
+    ]
   }
 }
