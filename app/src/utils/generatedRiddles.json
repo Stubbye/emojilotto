@@ -15010,5 +15010,23 @@
       4,
       13
     ]
+  },
+  "sol_698": {
+    "hardRiddle": {
+      "text": "Through celestial veils where fortune's breath ignites, six sentinels dance in shadow's might. The archer's aim meets heavens' glow, while serpent's scales through tempest flow. Winged performer spins where colors bleed, and fortune's jester plants the seed. What six guard the threshold between wish and fate?",
+      "hint": "One soars upward, one speaks in riddles, one transforms, one illuminates, one targets, one burns."
+    },
+    "easyRiddle": {
+      "text": "Find the six that play with luck: a aimed circle, a fire's kiss, a scaled beast, a flying mask, a laughing trickster, and the moon's disc watching all.",
+      "hint": "Think of things that symbolize chance, danger, magic, and the night sky."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      7,
+      19,
+      3
+    ]
   }
 }
