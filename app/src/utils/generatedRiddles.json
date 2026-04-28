@@ -14920,5 +14920,23 @@
       21,
       5
     ]
+  },
+  "sol_693": {
+    "hardRiddle": {
+      "text": "Through celestial veil where fortune's arrow flies, the winged dancer meets the scaled keeper. Thunder's kiss ignites the prism's song, while fortune's jester spins in cosmic light. Six guardians hold the lottery's breath—find the marked center, the ascended beast, the electric voice, the radiant spectrum, the fool's grin, and the stellar sentinel.",
+      "hint": "One points true, one guards ancient skies, one crackles with fate's electricity, one bends light into hope, one wears the mask of chance, one burns eternal in the heavens."
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance in fortune's game: the archer's aim, the dragon's flame, the lightning's strike, the joker's smile, the star that shines, and the rainbow's arc. Which six claim victory?",
+      "hint": "Look for: aim, fire-breather, electric spark, trickster, cosmic light, and colorful hope."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      9,
+      19,
+      21
+    ]
   }
 }
