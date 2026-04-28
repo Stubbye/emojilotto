@@ -14938,5 +14938,23 @@
       19,
       21
     ]
+  },
+  "emlo_255": {
+    "hardRiddle": {
+      "text": "I chase the gains with electric speed, ignite the hype when markets feed. Gem-like riches shine so bright, while fortune spins both day and night. Lucky charm ensures the win, as chaos dances deep within.",
+      "hint": "Think of elements that represent volatility, wealth, chance, and the memecoin journey to the top."
+    },
+    "easyRiddle": {
+      "text": "Lightning strikes the rocket's flight, gems gleam with diamond light. Sparkles dance around the clover, bringing luck when odds turn over.",
+      "hint": "Count the magical symbols of speed, wealth, and fortune in this cosmic riddle."
+    },
+    "answer": [
+      5,
+      1,
+      2,
+      22,
+      10,
+      20
+    ]
   }
 }
