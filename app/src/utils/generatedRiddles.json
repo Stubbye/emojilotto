@@ -14992,5 +14992,23 @@
       10,
       20
     ]
+  },
+  "sol_697": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound desire, six tokens of fate intertwine. The archer's mark gleams with prismatic heart, while winged metamorphosis dances through storms of violet brilliance. Thunder's twin ignites the jester's ancient game, and the scaled guardian watches over fortune's spiral ascent.",
+      "hint": "Seek the intersection of aim, transformation, fortune's tools, royalty, and cosmic phenomena"
+    },
+    "easyRiddle": {
+      "text": "One aims true, one flies high, one sparkles bright. A trickster grins, lightning cracks, and a dragon smiles. What six dance together in destiny's design?",
+      "hint": "Think of targets, rockets, gems, jokers, lightning, and dragons"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      4,
+      13
+    ]
   }
 }
