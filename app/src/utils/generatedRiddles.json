@@ -14956,5 +14956,23 @@
       10,
       20
     ]
+  },
+  "sol_695": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate converge in cryptic light. The scaled serpent guards the gemstone's gleam, while Thunder's breath ignites the dreamer's scheme. The winged mystic dances through the prism'd arc, and Luna's gaze illuminates the dark. In this celestial symphony of chance, reveal the six that seal your glittering trance.",
+      "hint": "One strikes with electricity, one shines with cosmic grace, one bears precious stones, one breathes with ancient fire, one transforms through colors, one floats on delicate wings."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols await your choice: a precious stone that catches light, a creature of scales and ancient might, a flash of electricity in the sky, a precious orb of night, colors dancing in an arc, and a dancer on gossamer wings.",
+      "hint": "Think of: jewels, dragons, storms, moon, rainbows, and insects."
+    },
+    "answer": [
+      2,
+      13,
+      4,
+      1,
+      9,
+      8
+    ]
   }
 }
