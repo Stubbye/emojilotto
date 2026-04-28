@@ -15082,5 +15082,23 @@
       4,
       6
     ]
+  },
+  "sol_701": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial flame, a jester's grin dances through prismatic veils. The scaled guardian clutches treasured radiance whilst winged metamorphosis ascends through electric tempest. Six threads of fate entwine: the hunted mark, the sky's chariot, fortune's glitter, night's pale witness, heaven's fury, and the pyre's ancient tongue.",
+      "hint": "Seek the symbols of pursuit, ascension, wealth, night, wrath, and destruction intertwined."
+    },
+    "easyRiddle": {
+      "text": "I am a target marked for luck. I soar through dreams. I sparkle with worth. I light the night sky. I strike with power. I consume all things. What six treasures complete this lottery's song?",
+      "hint": "Think of: something you aim at, something that flies up, something precious, something above, something dangerous from sky, and something that burns."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
