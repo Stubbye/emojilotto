@@ -14884,5 +14884,41 @@
       9,
       8
     ]
+  },
+  "sol_692": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits entwine in chromatic symphony. The archer's mark meets the void's pearl, while serpent's scaled majesty spirals through starlit chaos. Winged metamorphosis and crystalline brilliance complete the sacred geometry of chance.",
+      "hint": "One marks precision, one marks night, one marks luck, one marks mythic might, one marks transformation, one marks pure light."
+    },
+    "easyRiddle": {
+      "text": "Find the target that guides all aims, the moon that lights the darkest night, the dragon of ancient tales, the star that never fades, the butterfly that dances free, and the crystal that catches all light.",
+      "hint": "Six treasures: a bullseye, a glowing orb, a legendary beast, a celestial point, a flying insect, and a gemstone."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      21,
+      8,
+      20
+    ]
+  },
+  "emlo_254": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone that sparkles when memes take the lead. Through fire and lightning, I dance with the stars, while fortune's wheel spins at the circus of memecoin wars.",
+      "hint": "Five elements guide the way: trajectory, value, energy, luck, and celestial destination"
+    },
+    "easyRiddle": {
+      "text": "Blast off! 🚀 Shine bright! ✨ Strike fast! ⚡ Win big! 🎰 Reach high! ⭐ Burn hot! 🔥",
+      "hint": "Think about the memecoin journey: launching, shining, moving quick, gambling for luck, aiming high, and staying hot"
+    },
+    "answer": [
+      1,
+      9,
+      4,
+      11,
+      21,
+      5
+    ]
   }
 }
