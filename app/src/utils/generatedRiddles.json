@@ -15064,5 +15064,23 @@
       5,
       10
     ]
+  },
+  "sol_700": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six whispers dance between chaos and tame. A gem's refracted light crowns the jester's domain, while lightning splits the prism of fortune's reign. Wings of metamorphosis flutter through fire, as the scaled ancient one ascends higher.",
+      "hint": "Consider what sparkles when struck, what transforms, and what rules both chance and performance."
+    },
+    "easyRiddle": {
+      "text": "Find the target that shines like a star, the joker's companion in games from afar, the gem that reflects rainbows bright, the creature with wings dancing through night, the dragon of thunder that splits the sky, and the fire that burns ever high.",
+      "hint": "One is struck for luck, one makes you laugh, one glitters, one flutters, one crackles, one blazes."
+    },
+    "answer": [
+      0,
+      11,
+      5,
+      8,
+      4,
+      6
+    ]
   }
 }
