@@ -14974,5 +14974,23 @@
       9,
       8
     ]
+  },
+  "sol_696": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin spheres, a winged metamorphosis ascends through prismatic veils. The jester's crystalline laughter echoes as chaos blooms eternal, while lightning births the spectrum's silent song.",
+      "hint": "Seek the convergence of luck, transformation, and cosmic mirth where gemstones whisper ancient secrets."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one strikes from above, one glimmers in darkness, one floats in dreams, one changes shape with grace, one reveals all colors, and one mirrors fortune itself.",
+      "hint": "Think of weather, animals, light, precious things, and games of chance."
+    },
+    "answer": [
+      4,
+      21,
+      1,
+      8,
+      10,
+      20
+    ]
   }
 }
