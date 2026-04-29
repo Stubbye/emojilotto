@@ -15316,5 +15316,23 @@
       3,
       11
     ]
+  },
+  "sol_712": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six dancers waltz through chaos and desire. The jester's laughter echoes through the gem's cold heart, while wings of transformation flutter where lightning tears apart. Through prisms bent by waves unseen, a treasure blooms in purple's sheen.",
+      "hint": "One guides aim, one ignites ambition, one deceives with mirth, one sparkles with truth, one transforms all, one glows in darkness."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this verse: a target for aim, a rocket for dreams, a gem that shines, lightning's quick strike, a butterfly's grace, and purple's mystic hue.",
+      "hint": "Think of things that represent luck, speed, beauty, wealth, magic, and direction."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      11
+    ]
   }
 }
