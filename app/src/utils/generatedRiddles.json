@@ -15208,5 +15208,41 @@
       10,
       17
     ]
+  },
+  "sol_707": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin peaks, the jester's laughter echoes through prismatic gates. Five-petaled fortune blooms beneath the archer's gaze, while winged metamorphosis spirals through threads of luck ungazed.",
+      "hint": "Think of chance meetings between the sky and games of chance"
+    },
+    "easyRiddle": {
+      "text": "I contain a target of dreams, a rocket of hope, a gem of value, a moon of mystery, lightning of chance, and a butterfly of transformation. Six symbols dance in lottery's embrace.",
+      "hint": "Count the six treasures mentioned in the riddle"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_260": {
+    "hardRiddle": {
+      "text": "To the moon we fly with electric speed, through fire and lightning we plant our seed. A gem so bright with crystalline spark, guided by fortune through the dark. What six celestial tokens light our way?",
+      "hint": "Think of a memecoin's journey: destination, energy, value, luck, brilliance, and cosmic dreams"
+    },
+    "easyRiddle": {
+      "text": "Rocket shoots us up high, lightning strikes fast, gems shine bright, the moon is our goal, fire burns hot, and sparkles dance around us. Which six emojis are these?",
+      "hint": "A memecoin adventure: launch, power, treasure, destination, intensity, and magic"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      6,
+      10
+    ]
   }
 }
