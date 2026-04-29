@@ -15334,5 +15334,23 @@
       8,
       11
     ]
+  },
+  "sol_713": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the archer's steel. Six secrets hide in chaos and light: the ascending messenger, the gem's cold bite, the jester's mask when all seems right, and fortune's bloom in the darkest night.",
+      "hint": "One guides upward, one sparkles within, one deceives, one targets the end, one climbs from below, one grows despite the darkness."
+    },
+    "easyRiddle": {
+      "text": "Find the six that play in destiny's game: the climber, the precious, the fool with his fame, the archer's mark, the lightning's flash, and the flower that blooms where all seems ash.",
+      "hint": "Look for: ascension, wealth, deception, precision, power, and hope."
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      0,
+      5,
+      14
+    ]
   }
 }
