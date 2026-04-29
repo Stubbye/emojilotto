@@ -15136,5 +15136,23 @@
       4,
       6
     ]
+  },
+  "sol_703": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six shadows converge: the archer's distant prize meets swift ascension, while crystalline brilliance births twin flames of chance—one veiled in mischief's grin, the other spreading chromatic hope across the void where winged metamorphosis touches eternal radiance.",
+      "hint": "Think of targets, upward movement, gems, lightning, jokers, and rainbows as key symbolic elements"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a bullseye in the sky, a chariot of smoke climbing high, a jewel that gleams so bright, a spark that splits the night, a fool who grins with glee, and colors painting destiny.",
+      "hint": "Target, Rocket, Gem, Lightning, Joker, Rainbow"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      9
+    ]
   }
 }
