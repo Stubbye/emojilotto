@@ -15154,5 +15154,23 @@
       11,
       9
     ]
+  },
+  "emlo_259": {
+    "hardRiddle": {
+      "text": "A jester's trick sends fortune to the moon, where gemstones sparkle under electric skies. The dragon breathes fire as rockets ignite, and lightning strikes the crystal trophy of fate.",
+      "hint": "Look for the fool's card, precious stones, celestial bodies, electricity, mystical beasts, and crystalline rewards."
+    },
+    "easyRiddle": {
+      "text": "I am a fool with many faces, a treasure that gleams, a distant celestial body, a bolt of pure energy, a mythical beast of legend, and a shining object of victory.",
+      "hint": "Think: jester, jewel, space, electricity, fantasy creature, and prize."
+    },
+    "answer": [
+      19,
+      5,
+      3,
+      4,
+      13,
+      17
+    ]
   }
 }
