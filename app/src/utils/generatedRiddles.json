@@ -15244,5 +15244,23 @@
       6,
       10
     ]
+  },
+  "sol_708": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a celestial dancer twirls through cosmic fire. The jester's grin holds secrets of sparkling fate, while nature's smallest acrobat mirrors the radiance that bathes all wishes. Six symbols dance: one strikes with thunder's ancient rage, one blooms eternal in the garden of chance.",
+      "hint": "Seek the meeting of sky and spectacle, where luck ignites and transforms what mortals pursue."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of fortune: the prize we aim for, the fire that burns bright, the moon above us all, the spark of luck itself, the jester who knows secrets, and the butterfly that brings change.",
+      "hint": "One points to victory, one lights the night, one brings laughter, one transforms, and two dance in the sky."
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      10,
+      19,
+      8
+    ]
   }
 }
