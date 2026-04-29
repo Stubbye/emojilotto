@@ -15262,5 +15262,23 @@
       19,
       8
     ]
+  },
+  "sol_709": {
+    "hardRiddle": {
+      "text": "Where fortune's archer aims through celestial fire, six tokens dance in shadow's choir. The winged harbinger of transformation meets the stone of earth's temptation. Lightning's twin speaks in silence while masks conceal the wild alliance. In this hexad lies the key—what gleams, what flies, what burns to be.",
+      "hint": "One guides destiny's aim, two ignite the night, three shifts between worlds, four hide identity, five sparkles in stone, six crowns the victor."
+    },
+    "easyRiddle": {
+      "text": "Find the targets of luck: what shoots for dreams, what shines like ice, what transforms with wings, what hides faces, what blazes bright, and what dazzles with light.",
+      "hint": "Look for: aim, gem, change, mystery, heat, and shimmer."
+    },
+    "answer": [
+      0,
+      5,
+      8,
+      19,
+      20,
+      21
+    ]
   }
 }
