@@ -15280,5 +15280,41 @@
       20,
       21
     ]
+  },
+  "sol_710": {
+    "hardRiddle": {
+      "text": "Where fortune's archer aims through cosmic fire, the jester's grin meets crystalline desire. Wings of transformation dance through fortune's flame, while the serpent of thunder claims its ancient name. Five-pointed hope watches over all, as the prism of chaos answers fate's call.",
+      "hint": "Seek the marksman's destination, the fool's mirth, the gem's prison, the winged change, the sky's voice, and the spectrum's birth."
+    },
+    "easyRiddle": {
+      "text": "I contain a bullseye, a trickster, a jewel held in ice, a creature with wings, a bolt from above, and colors that dance. What am I?",
+      "hint": "Six symbols of luck: aim, laugh, shine, flutter, strike, and paint."
+    },
+    "answer": [
+      0,
+      4,
+      21,
+      8,
+      5,
+      23
+    ]
+  },
+  "emlo_261": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights, my trail blazes bright. Gems sparkle in my wake as lightning strikes forge my path. Dancing flames meet crystal clarity, while fortune's wheel spins beneath the jester's gaze. What six treasures guide the memecoin to glory?",
+      "hint": "Think of the journey from ground to space, with magical elements and luck along the way"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, up, up! ⚡ strikes fast! 💎 shines bright! 🔥 burns hot! 🌙 glows above! 🎰 brings luck! Which six make the perfect memecoin combo?",
+      "hint": "A launch, a flash, something shiny, heat, night sky, and chance"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      6,
+      3,
+      11
+    ]
   }
 }
