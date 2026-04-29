@@ -15190,5 +15190,23 @@
       4,
       13
     ]
+  },
+  "sol_706": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin flames, a winged harbinger dances through prismatic veils. The archer's mark glows in twilight's embrace, while gems whisper secrets beneath laughter's crimson crown. Six symbols intertwine: the heavens' electric tongue, the night's silent sentinel, transformation's gossamer veil, destiny's glittering powder, and fate's jeering masquerade.",
+      "hint": "One ascends, one descends, one transforms, one illuminates, one mocks, one radiates."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that dances with stars, the moon watching over, the butterfly floating free, the trophy of luck, the sparkles that shine, and the joker who grins.",
+      "hint": "Look for weather, night sky, insects, victory, shine, and cards."
+    },
+    "answer": [
+      4,
+      3,
+      8,
+      21,
+      10,
+      17
+    ]
   }
 }
