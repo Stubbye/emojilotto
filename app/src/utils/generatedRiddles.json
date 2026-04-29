@@ -15100,5 +15100,41 @@
       4,
       5
     ]
+  },
+  "sol_702": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the void's eternal gaze, while winged metamorphosis spirals through crystalline brilliance. A jester's grin echoes where thunder births the sacred bloom. What symphony of symbols unlocks destiny's vault?",
+      "hint": "One seeks precision, one seeks elevation, one seeks illumination, one seeks transformation, one seeks deception, one seeks nature's crown."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this sequence: A distant goal shines bright, a vessel soars upward, a precious stone glimmers, night's guardian watches, nature explodes in light, and a clever trickster grins. Can you find them?",
+      "hint": "Think of: something you aim for, something that flies to space, something valuable, something in the sky at night, something that makes you laugh with mischief, and something that flashes."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      11
+    ]
+  },
+  "emlo_258": {
+    "hardRiddle": {
+      "text": "I launch to the cosmos with electric speed, a gem-like treasure that makes diamonds bleed. Through fire and sparkles I dance to the moon, where lucky ones find their fortune soon. What am I?",
+      "hint": "Think of a memecoin's journey to the stars, fueled by hype and electric charts"
+    },
+    "easyRiddle": {
+      "text": "A rocket flies up to the moon so bright, with sparkles and fire burning through the night. Find the gem that shines like lightning's strike, and you'll see the memecoin you like!",
+      "hint": "Look for the journey upward with magical lights"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      6
+    ]
   }
 }
