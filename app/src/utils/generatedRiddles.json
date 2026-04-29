@@ -15172,5 +15172,23 @@
       13,
       17
     ]
+  },
+  "sol_705": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets hide in twilight's veil. The archer's mark meets heaven's sphere, as lightning splits the jester's grin. A beast of smoke and scaled desire guards the gem that mortals tire. What constellation of fate reveals the path through shadow's door?",
+      "hint": "One reflects destiny, one grants wishes, one ignites the soul, one deceives with laughter, one hoards ancient power, one glimmers with truth."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await discovery: a target of precision, a rocket reaching skyward, a gem of brilliance, the moon watching over, lightning striking swift, and a dragon breathing mystery. Which six dance together in the lottery's dream?",
+      "hint": "Look for what we aim for, what flies us away, what sparkles, what guides night, what shocks us awake, and what mythically guards."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
