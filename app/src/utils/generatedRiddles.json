@@ -15406,5 +15406,23 @@
       20,
       10
     ]
+  },
+  "sol_717": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's own mask, six secrets converge in the void. The archer's aim meets the serpent's coil, while fortune's jester grins beneath a shower of stars. Seek the winged metamorphosis and the gem's crystalline twin—together they unlock the riddle of destiny's wheel.",
+      "hint": "One guides arrows, one breathes ancient wisdom, one laughs at fate, one falls from above, one transforms in moonlight, and one refracts all colors."
+    },
+    "easyRiddle": {
+      "text": "I point at targets with precision. I soar through the night sky ancient and wise. I jest and mock with painted grin. I sparkle and shower from heaven's dome. I flutter through gardens in delicate grace. I split light into a thousand dreams.",
+      "hint": "Find: a symbol of aim, a mythical creature, a court fool, falling magic, a delicate insect, and light split into colors."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      10,
+      8,
+      9
+    ]
   }
 }
