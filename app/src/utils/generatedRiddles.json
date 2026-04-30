@@ -15478,5 +15478,23 @@
       19,
       10
     ]
+  },
+  "sol_721": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the dancer's flame, beneath the wanderer's silver eye, the jester's grin reveals what treasure lies. Through prism's breath and nature's arc, six secrets hide in cosmic dark. The swift deceiver guards the gate where destiny and chance collate.",
+      "hint": "Think of performers, celestial guides, and the trickster's domain"
+    },
+    "easyRiddle": {
+      "text": "A circus performer laughs with fire bright, under the moon's pale watchful light. A fox sly, a gem that catches all eyes, and rainbow colors paint the skies.",
+      "hint": "Entertainment, magic, trickery, and natural wonder"
+    },
+    "answer": [
+      7,
+      5,
+      13,
+      3,
+      9,
+      18
+    ]
   }
 }
