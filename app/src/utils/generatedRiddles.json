@@ -15442,5 +15442,41 @@
       4,
       8
     ]
+  },
+  "sol_719": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the weaver's dance, six tokens bind in destiny's trance. The celestial orb watches twin flames ignite, while nature's winged artist takes shimmer'd flight. In chaos's breath, the prism breaks free, revealing what mortals dream yet cannot see.",
+      "hint": "Consider the meeting of aim and fate, paired with celestial watchers and nature's performers."
+    },
+    "easyRiddle": {
+      "text": "Find the hunter's mark, the sky's bright flame, the stone of worth, the night that reigns, and beauty that sparkles in winged refrain.",
+      "hint": "Think of targets, fire, gems, moons, and magical creatures with wings."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      10,
+      8
+    ]
+  },
+  "emlo_264": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, burning bright with crystalline value. A jester's fortune spins wildly as purple lightning strikes, creating waves of infinite possibility.",
+      "hint": "Think of a memecoin's journey: where it goes, what fuels it, its lucky nature, and the energy behind it"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙 powered by ⚡, guarded by 💎, blessed by 🍀, and celebrated with 🎆",
+      "hint": "This is the memecoin dream: launch, destination, fuel, treasure, luck, and celebration"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      19,
+      10
+    ]
   }
 }
