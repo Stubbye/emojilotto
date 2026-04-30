@@ -15550,5 +15550,23 @@
       14,
       8
     ]
+  },
+  "sol_724": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the cosmic flame, six entities dance in destiny's game. The jester's grin guards treasures bright, while scaled serpent coils through stellar night. Swift-winged metamorphosis takes flight, and crystal prism refracts the light. What symbols align when fate spins true, revealing luck's hexagonal hue?",
+      "hint": "One brings laughter, one brings wings, one holds riches, one cosmic sings."
+    },
+    "easyRiddle": {
+      "text": "A target aims, a dragon dreams, a joker laughs, a butterfly gleams. A crystal shines, and lightning screams. Six lucky signs—or so it seems?",
+      "hint": "Think of games, magic, and nature's extremes."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      13,
+      8,
+      20
+    ]
   }
 }
