@@ -15496,5 +15496,41 @@
       9,
       18
     ]
+  },
+  "sol_722": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weeper, and twin serpents dance through prisms of sky—the jester's laughter echoes as butterflies trace the arc of destiny, while crystalline dreams fracture into six-fold radiance beneath the crown of chance.",
+      "hint": "Look for the meeting of aim and heavens, chaos and transformation, luck and structure."
+    },
+    "easyRiddle": {
+      "text": "I am the mark you aim for, the fire that burns bright, the shimmer in darkness, the cosmic dancer spinning silver threads, the chaos of chance, and the winged seeker of gardens. We are six, bound by fortune.",
+      "hint": "Think of targets, flames, magic lights, celestial bodies, randomness, and delicate wings."
+    },
+    "answer": [
+      0,
+      5,
+      10,
+      3,
+      11,
+      8
+    ]
+  },
+  "emlo_265": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a gem of fortune that makes diamonds bleed. Dancing flames light my path as I sparkle and shine, while chaos and chance let the stars align. What six celestial symbols mark my climb?",
+      "hint": "Think of a coin's journey: launch, destination, value, energy, luck, and celestial reward"
+    },
+    "easyRiddle": {
+      "text": "Blast off! 🚀 Find the gem of the moon, powered by lightning and fire, with lucky sparkles and a star to guide your fortune.",
+      "hint": "One goes up, one is there, one shines bright, one strikes fast, one glows, one twinkles"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      21
+    ]
   }
 }
