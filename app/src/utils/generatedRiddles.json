@@ -15604,5 +15604,23 @@
       8,
       13
     ]
+  },
+  "sol_726": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's prismatic breath, six sentinels converge: the archer's distant dream meets the vessel of ascension, while chaos crystallizes in nature's smallest metamorphosis, and thunderous wealth ignites beneath the jester's eternal gaze—seek the crowned victor's gleaming reflection amidst the tempest's iridescent veil.",
+      "hint": "One reaches upward, one transforms completely, one judges all games, one strikes with power, one shines with victory, and one bends all light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await: the cosmic guardian high above, the strike that illuminates, the gem that refracts, the vessel that soars, the cosmic dancer reborn, and the crown of champions.",
+      "hint": "Think of: sky objects, weather, precious things, transportation, insects, and awards."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      21,
+      18
+    ]
   }
 }
