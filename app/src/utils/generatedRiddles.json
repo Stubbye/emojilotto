@@ -15568,5 +15568,41 @@
       8,
       20
     ]
+  },
+  "sol_725": {
+    "hardRiddle": {
+      "text": "Where fortune's jest meets celestial fire, six omens dance in twilight's choir. The archer's mark collides with thunder's breath, while scaled serpent guards the gem of death. Winged metamorphosis and stellar glow complete the mystic pentagram below.",
+      "hint": "One represents chaos and chance, one represents transformation, one represents power, one represents aims, one represents energy, one represents precious value."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols: a pointed aim, electricity's wild claim, a jeweled prize so bright, a creature of ancient might, a butterfly's graceful flight, and a star burning in the night.",
+      "hint": "Think of: accuracy, power, wealth, mythology, nature's change, and the cosmos."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      13,
+      8,
+      21
+    ]
+  },
+  "emlo_266": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 gemstone that makes holders bleed. Where 🎪 meets fortune's 🎲, the 🦊 knows the price. What six magical symbols complete this vice?",
+      "hint": "Think of the memecoin journey: destination, power, treasure, dreams, chaos, and trickster energy"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the 🌙 with 🚀 power! Strike like ⚡ with 💎 in this 🔥 hour! A 🦊 tricks the 🎪 crowd with 🎲 fate. What six emojis make the memecoin great?",
+      "hint": "Moon, rocket, lightning, gem, fire, and a clever animal"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      13
+    ]
   }
 }
