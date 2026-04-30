@@ -15370,5 +15370,41 @@
       21,
       3
     ]
+  },
+  "sol_716": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, ascending on thunder's wing through celestial fire, a jester's laughter echoes across the prism of fate, as winged transformation dances with the stone of eternity's gleam.",
+      "hint": "One marks aim, one carries ascent, one brings chaos, one rules the sky, one shifts form, one is precious and eternal."
+    },
+    "easyRiddle": {
+      "text": "A target, a rocket, lightning, the moon, a butterfly, and a gem walk into a lottery. Which six shall claim destiny?",
+      "hint": "Look for: something you aim at, something that flies upward, something that strikes fast, something that glows at night, something that transforms, something that sparkles."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      3,
+      8,
+      2
+    ]
+  },
+  "emlo_263": {
+    "hardRiddle": {
+      "text": "To the moon we ride with electric speed, through cosmic fire we plant our seed. A gem of fortune shines so bright, while sparkles dance in purple night. The joker laughs as lightning strikes, this memecoin path is what it likes.",
+      "hint": "Think of a journey to wealth with chaos and luck involved"
+    },
+    "easyRiddle": {
+      "text": "Blast off with the rocket to find the gem, lightning fast with a lucky trend. Purple vibes and sparkles glow, joker's game is all the show.",
+      "hint": "A space adventure with electricity and fortune"
+    },
+    "answer": [
+      1,
+      6,
+      11,
+      19,
+      20,
+      10
+    ]
   }
 }
