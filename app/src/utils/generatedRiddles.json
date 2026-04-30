@@ -15532,5 +15532,23 @@
       5,
       21
     ]
+  },
+  "sol_723": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil between earthbound dreams and celestial fire, six sentinels guard the threshold: the jester's grin masks truth's reflection, violet essence crystallizes fate's geometry, while a scaled guardian and winged metamorphosis dance through the crucible of chance, crowned by the moment when lightning births its twin flame.",
+      "hint": "Look for chaos, transformation, nobility, mischief, and the color of twilight's first breath"
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the lottery's heart: one points the way, one reaches for stars, one laughs at destiny, one shimmers purple, one breathes ancient wisdom, one transforms with grace.",
+      "hint": "A path, the sky, a trickster, a color, a mythical beast, and nature's butterfly"
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      13,
+      14,
+      8
+    ]
   }
 }
