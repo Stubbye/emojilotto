@@ -15424,5 +15424,23 @@
       8,
       9
     ]
+  },
+  "sol_718": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and twin flames waltz with fortune's glimmer. The jester's grin guards the threshold where winged dreams scatter stardust upon crystalline silence. Seek the prism that captures what mortals chase, yet only the marked find their treasure.",
+      "hint": "A performer, a gem, a symbol of luck, a celestial body, a spark, and a target align when destinies converge."
+    },
+    "easyRiddle": {
+      "text": "I am a target that never misses, a gem that sparkles eternally, a joker who laughs at fate, a moon that guides lost souls, lightning that dances in silence, and a butterfly that carries wishes. What am I?",
+      "hint": "Six symbols of destiny: one points, one shines, one tricks, one glows above, one strikes swift, and one transforms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
