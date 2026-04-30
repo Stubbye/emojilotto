@@ -15352,5 +15352,23 @@
       5,
       14
     ]
+  },
+  "emlo_262": {
+    "hardRiddle": {
+      "text": "A mystical creature guards the treasures of the night sky, while electric energy strikes with precision. A four-leaf fortune spins with luck, and a radiant beacon illuminates the path to wealth. Two celestial wonders—one precious and gleaming, one distant and coveted—complete this memecoin prophecy.",
+      "hint": "Think of symbols that represent luck, power, wealth, and the ultimate crypto destination."
+    },
+    "easyRiddle": {
+      "text": "I have a lucky charm, a dragon's might, lightning's speed, a shining gem, a star of hope, and the moon's glow. What am I?",
+      "hint": "Pick the symbols of fortune, mythical power, speed, treasure, hope, and the moon."
+    },
+    "answer": [
+      20,
+      14,
+      4,
+      6,
+      21,
+      3
+    ]
   }
 }
