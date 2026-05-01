@@ -15640,5 +15640,23 @@
       13,
       20
     ]
+  },
+  "sol_728": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels guard the mystic space. The celestial guardian watches from above, while twin serpents of chaos dance in love. A winged dreamer seeks the prismatic way, as crystalline tears mark where mortals pray.",
+      "hint": "Seek the marksman's aim, the heavens' eye, the paired forces of nature's cry, the metamorphic wanderer, and the frozen divine."
+    },
+    "easyRiddle": {
+      "text": "I point to fortune, I light the night sky, a gemstone gleams as dragon flies high. A butterfly floats near the rainbow's arc, while crystal shines in the lucky dark.",
+      "hint": "Think of targets, moons, gems, dragons, butterflies, and crystals."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      8,
+      20
+    ]
   }
 }
