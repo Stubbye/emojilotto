@@ -15892,5 +15892,23 @@
       8,
       11
     ]
+  },
+  "sol_739": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets hide in chaos and fortune's appeal. The jester's grin marks destiny's twin flame, while gemstone brilliance and winged transformation claim the game. Lightning's kiss upon the archer's distant mark, and crystalline wonder sparkles in the dark.",
+      "hint": "One spins fate, one flies untamed, one shines eternal, one strikes with aim."
+    },
+    "easyRiddle": {
+      "text": "Find the gem that glows, the arrow's distant glow, the spark of chance, the flame so bright, the jeweled light, and wings in flight.",
+      "hint": "Think of luck, fire, luck's tool, treasure, sky magic, and transformation."
+    },
+    "answer": [
+      3,
+      1,
+      11,
+      6,
+      20,
+      8
+    ]
   }
 }
