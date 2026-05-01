@@ -15622,5 +15622,23 @@
       21,
       18
     ]
+  },
+  "sol_727": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, six tokens dance in cryptic desire. The winged creature of metamorphosis flutters near the archer's gleaming mark, while gemstone brilliance crowns the nocturnal dark. Thunder's scarlet kiss embraces the ancient scaled guardian, as luck's four-leafed whisper guards the threshold between revelry and ruin.",
+      "hint": "One holds chance, one holds dreams, one transforms, one glows, one roars, one blooms with fortune's secrets."
+    },
+    "easyRiddle": {
+      "text": "A jester dances, lightning strikes, a butterfly transforms, the moon glows bright, a dragon roars, and a clover brings luck. Which six reveal the winning way?",
+      "hint": "Think of a circus performance under a night sky where nature and magic collide."
+    },
+    "answer": [
+      19,
+      1,
+      8,
+      3,
+      13,
+      20
+    ]
   }
 }
