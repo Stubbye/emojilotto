@@ -15838,5 +15838,41 @@
       20,
       19
     ]
+  },
+  "sol_737": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gaze, a prismatic serpent coils through the artist's maze. The wingéd sprite spirals through thunderous light, while chaos grins behind the mask of night. Six harbingers of fate converge as one—the lucky strike where chaos and cosmos are spun.",
+      "hint": "Look for the celestial, the chaotic, the chromatic, the mystical, the electric, and the deceptive."
+    },
+    "easyRiddle": {
+      "text": "One burns in the sky, one brings the storm's power. One dances with wings in the twilight hour. One grins with deception, one paints all the hues. One coils with scales—these are your clues.",
+      "hint": "Fire, lightning, butterfly, joker, palette, and dragon."
+    },
+    "answer": [
+      6,
+      4,
+      8,
+      13,
+      20,
+      19
+    ]
+  },
+  "emlo_270": {
+    "hardRiddle": {
+      "text": "I launch dreams to cosmic heights with electric speed, sparkling with gem-like potential. When fortune strikes like lightning through my mystical gates, winners dance in circles of pure joy under the lucky glow. What celestial sequence guides the memecoin's destiny?",
+      "hint": "Think of a journey from earth to riches, powered by chance and luck"
+    },
+    "easyRiddle": {
+      "text": "First you aim with precision, then you soar upward fast. Brilliant stones shine along the way, electric energy strikes, luck smiles upon you, and celebration erupts in a circle of winners.",
+      "hint": "Follow the path: aim → go up → shine → zap → lucky → party"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      19,
+      7
+    ]
   }
 }
