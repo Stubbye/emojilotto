@@ -15730,5 +15730,23 @@
       4,
       8
     ]
+  },
+  "sol_732": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six tokens dance in shadow's tale. The jester's grin meets heaven's fire, a prism splits what hearts desire. Swift wings traverse the cosmic stage, while fortune's sphere turns every page. In crystalline depths, the answer gleams—six sisters bound by lottery dreams.",
+      "hint": "Think of luck, chaos, transformation, and the night sky's eternal flame"
+    },
+    "easyRiddle": {
+      "text": "Find the trickster, the night guardian, the burning kiss, the winged dancer, the rainbow's light, and the luck keeper—six symbols of fate entwined.",
+      "hint": "Joker, Moon, Fire, Butterfly, Rainbow, Clover"
+    },
+    "answer": [
+      19,
+      3,
+      5,
+      8,
+      9,
+      20
+    ]
   }
 }
