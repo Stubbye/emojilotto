@@ -15802,5 +15802,23 @@
       5,
       13
     ]
+  },
+  "sol_735": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jeweled flame dances with winged grace. The jester's grin mirrors the trickster's cunning, while the mage's staff hums with ancient power. Six signs converge where chaos blooms eternal.",
+      "hint": "Seek the hunter, the ascending path, the precious stone, the night's crown, the spark of fate, and the shapeshifter's shadow."
+    },
+    "easyRiddle": {
+      "text": "A target glows with cosmic fire, a rocket climbs where gems are higher. The moon watches a fox so clever, while a dragon's lightning strikes forever.",
+      "hint": "Count the creatures, the tools, the elements, and the night sky."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      9
+    ]
   }
 }
