@@ -15874,5 +15874,23 @@
       19,
       7
     ]
+  },
+  "sol_738": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, six sentinels guard the threshold. The archer's mark dances with celestial wanderer's glow, while fortune's jester pirouettes between twin flames of chance and fate. A metamorphic spirit ascends through prismatic veil, joining the wild deceiver beneath the crown of victory. Seek ye the trinity of fortune's children: the brilliant faceted whisper, the crackling utterance of chaos, and the luminous dust of becoming.",
+      "hint": "One points, one glows, one judges. One transforms, one sparkles, one tricks."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny intertwine: a bullseye burns with cosmic light, the jester's mischief meets the wild fox's cunning, a dragon's majesty crowns the butterfly's ascension, while glittering gems catch the lightning's golden kiss.",
+      "hint": "Count these: aim, magic, trickery, wildness, transformation, and brilliance"
+    },
+    "answer": [
+      0,
+      17,
+      2,
+      13,
+      8,
+      11
+    ]
   }
 }
