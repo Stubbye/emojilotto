@@ -15784,5 +15784,23 @@
       9,
       5
     ]
+  },
+  "sol_734": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, the trickster's grin adorns the stage of dreams. Six luminous dancers waltz through destiny—one pierces heaven's veil, one feigns the jester's smile, one blooms eternal, one crackles with chaos, one glimmers with crystalline fate, and one spirals upward on spectral wings. Seek the intersection of chance, mischief, and transcendence.",
+      "hint": "Look for: aim, flame, deception, growth, electricity, and ascending magic"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck appear here: a mark of perfect shots, a lightning strike of power, a grinning fool's face, a delicate flower of hope, a spiraling flame of passion, and a soaring creature of legend. Which six dance in the winner's circle?",
+      "hint": "Think: target, lightning, joker, flower, fire, and dragon"
+    },
+    "answer": [
+      0,
+      4,
+      19,
+      14,
+      5,
+      13
+    ]
   }
 }
