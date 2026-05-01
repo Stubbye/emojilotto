@@ -15712,5 +15712,23 @@
       20,
       5
     ]
+  },
+  "sol_731": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate convene. The archer's mark meets the swift messenger's path, while gemstone brilliance crowns the night's sovereign. Electricity's kiss ignites the jester's grin, and metamorphosis completes this cryptic symphony of destiny.",
+      "hint": "One guides aims, one carries wishes upward, one glitters with value, one rules the dark, one strikes with chaos, one transforms through grace."
+    },
+    "easyRiddle": {
+      "text": "I am the target of dreams, the rocket of ambition, the gem of wealth, the moon of mystery, the lightning of chance, and the butterfly of change. Six symbols dance together in fortune's game.",
+      "hint": "Think of luck, space travel, treasure, night sky, weather, and nature's transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
