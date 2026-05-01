@@ -15748,5 +15748,41 @@
       9,
       20
     ]
+  },
+  "sol_733": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled sentinel guards the luminous path. Six winds converge: one strikes with voltage's kiss, one blooms eternal in twilight's embrace, one spins chance's wheel, and one crowns the victor's ascent. Seek the night's watchful eye and the arc where all colors forget their names.",
+      "hint": "Think of chaos, victory, nature's delicate art, and the forces that rule both sky and fate"
+    },
+    "easyRiddle": {
+      "text": "I contain a bolt from heaven, a night guardian, a spinning game, a golden reward, a flower's grace, and the spectrum's ghost. What lottery numbers am I?",
+      "hint": "Look for: electricity, darkness, games, achievement, nature, and light split into many"
+    },
+    "answer": [
+      4,
+      21,
+      11,
+      18,
+      15,
+      9
+    ]
+  },
+  "emlo_269": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, seeking glimmering treasures that sparkle and shine. Fortune smiles when chaos aligns perfectly, and luck dances with electric energy. What six symbols represent this cosmic gamble?",
+      "hint": "Think of a memecoin's journey: how it launches, where it aims, what investors seek, the volatility involved, and the element of chance."
+    },
+    "easyRiddle": {
+      "text": "A coin blasts off toward the 🌙 seeking 💎. Lightning strikes with 🎲 chance. All sparkles ✨ with fiery 🔥 energy. Six things make the perfect memecoin dream!",
+      "hint": "Rocket goes up, Moon is the goal, Gem is treasure, Dice means luck/randomness, Sparkles show hype, Fire shows energy."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      9,
+      5
+    ]
   }
 }
