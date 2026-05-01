@@ -15928,5 +15928,41 @@
       21,
       20
     ]
+  },
+  "sol_741": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ignites the void. The jeweled serpent coils beneath the weeping sky, while painted wings embrace the prismatic bridge of rebirth. In chaos's smile, six truths converge.",
+      "hint": "Seek the marksman's destiny, the night's crown, the scales of chance, the flame of becoming, the winged metamorphosis, and the spectrum's promise."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the night's jewel, the winged change, the spectrum's hope, the fortune's roll, and the smile of chance. Together we dance in the lottery's dream.",
+      "hint": "Target, Moon, Butterfly, Rainbow, Dice, Joker"
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      9,
+      11,
+      19
+    ]
+  },
+  "emlo_271": {
+    "hardRiddle": {
+      "text": "A celestial jester's fortune spins where electric dreams ignite precious stones. The gemstone dances with cosmic fire as the fool's mask gleams under stellar radiance. What six symbols mark this memecoin's wild destiny?",
+      "hint": "Think of a chaotic lucky charm involving gambling, cosmic travel, and theatrical trickery"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon with lightning speed! A diamond shines bright with fire! A joker laughs while rolling the dice! Which six emojis appear in this wild crypto adventure?",
+      "hint": "Count the objects: space vehicle, celestial body, electricity, precious item, flames, and a gambling tool plus a silly character"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      5,
+      11
+    ]
   }
 }
