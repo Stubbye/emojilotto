@@ -15820,5 +15820,23 @@
       13,
       9
     ]
+  },
+  "sol_736": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians of fate converge. The archer's mark meets the sky-piercer's flame, while gemstone and bolt intertwine in chaos. Winged metamorphosis circles the jester's grin, and crystalline radiance crowns the revelry of masked performers beneath the cosmic veil.",
+      "hint": "Chaos, transformation, fortune, and celestial themes bind these six."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the lightning strike, the shining gem, the dragon's kin, the sparkles above, and the masked mystery players.",
+      "hint": "One shows direction, one brings power, one glitters, one flies, one twinkles, and one performs."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      14,
+      20,
+      19
+    ]
   }
 }
