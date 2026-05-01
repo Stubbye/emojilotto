@@ -15676,5 +15676,41 @@
       14,
       20
     ]
+  },
+  "sol_730": {
+    "hardRiddle": {
+      "text": "Through prism's dance, a jester's grin conceals the path where fortune spins. Where celestial fire meets verdant chance, six symbols waltz in destiny's trance. The winged ascendant claims the night, while crystalline whispers refract the light. Seek the archer's mark where laughter dwells, and chaos blooms within fortune's shells.",
+      "hint": "One brings laughter, one brings luck, one reaches high, one burns bright, one transforms, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "I contain six treasures of chance and wonder: a jester who laughs at fate, a gem that glimmers, a spark that dances, wings that flutter free, a goal to strike true, and fortune's lucky leaf.",
+      "hint": "Think of luck, magic, danger, transformation, and what makes you smile."
+    },
+    "answer": [
+      19,
+      2,
+      5,
+      8,
+      12,
+      20
+    ]
+  },
+  "emlo_268": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while gems sparkle in electric storms. Fortune spins with joker's luck, and magic crystals dance in waves of cosmic fire. What six treasures align for the ultimate memecoin moon mission?",
+      "hint": "Think of the journey from Earth to riches: propulsion, destination, wealth, chaos, fortune, and mystical power."
+    },
+    "easyRiddle": {
+      "text": "🚀 shoots toward 🌙, lightning ⚡ strikes, 💎 shines bright, 🎪 spins wild, 🔮 glows, and 🔥 burns hot. Name these six symbols of memecoin madness!",
+      "hint": "One goes up, one is up there, one is valuable, one is fun, one is magical, and one is hot."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      7,
+      20,
+      5
+    ]
   }
 }
