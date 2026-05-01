@@ -15658,5 +15658,23 @@
       8,
       20
     ]
+  },
+  "sol_729": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a prism splits the night. Below, the scaled leviathan coils near the twin-petaled whisper, while electricity's silver tongue tastes the crystalline tear of eternity's sorrow.",
+      "hint": "One guides aims, one watches from above, one breaks light into dreams, one ancient and feared, one delicate and brief, one frozen tears."
+    },
+    "easyRiddle": {
+      "text": "A shooter points upward to a guardian above. Light dances through ice while a monster sleeps near a fragile bloom. Lightning crackles nearby.",
+      "hint": "Think of targets, night sky, refracted beauty, mythology, nature, and energy."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      13,
+      14,
+      20
+    ]
   }
 }
