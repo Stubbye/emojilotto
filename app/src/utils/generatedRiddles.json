@@ -15910,5 +15910,23 @@
       20,
       8
     ]
+  },
+  "sol_740": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers twirl in destiny's game. The jester's grin reflects in crystal's gleam, while scaled dreams chase the lightning's beam. Purple petals waltz with gemstone's light, as music trembles through the starlit night.",
+      "hint": "Consider symbols of luck, performance, and cosmic power. One brings laughter, one brings music, one brings wealth."
+    },
+    "easyRiddle": {
+      "text": "Find the target that shoots high, the gem that shines, the joker's grin, the dragon's fire, the star above, and the crystal's spine.",
+      "hint": "These six are: something to aim at, something precious, something funny, something fierce, something celestial, and something hard and clear."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      13,
+      21,
+      20
+    ]
   }
 }
