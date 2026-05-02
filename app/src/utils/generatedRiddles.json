@@ -16270,5 +16270,23 @@
       5,
       9
     ]
+  },
+  "sol_759": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The winged trickster pirouettes near the luminous pearl, while crystalline brilliance kisses the archer's mark. In this symphony of chance, the jester's grin meets the serpent's ancient wisdom.",
+      "hint": "One soars through night, one glimmers with deception, one strikes with purpose, one coils with knowledge, one sparkles with promise, one holds all targets."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: a night light glows, lightning strikes fast, a dragon sleeps, a joker laughs, gems shine bright, and arrows find their mark.",
+      "hint": "Moon, Lightning, Dragon, Joker, Gem, Target"
+    },
+    "answer": [
+      3,
+      4,
+      13,
+      19,
+      2,
+      0
+    ]
   }
 }
