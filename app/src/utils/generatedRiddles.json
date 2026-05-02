@@ -16144,5 +16144,23 @@
       20,
       21
     ]
+  },
+  "sol_752": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians convene in the space between dreams and steel. The archer's mark gleams eternal, while winged metamorphosis pirouettes through storms of radiance. A crimson serpent coils beneath the jester's grin, and luck's fourth leaf trembles as electricity writes destiny upon the void.",
+      "hint": "Seek the symbol of aim, the creature reborn, the trickster's domain, the clover of chance, and two forces that rarely converge—one of sky, one of chaos."
+    },
+    "easyRiddle": {
+      "text": "I contain six treasures: a target for precision, a butterfly for transformation, fire for passion, a joker for mischief, a lightning bolt for power, and a clover for good fortune. Which six am I?",
+      "hint": "The first is where arrows land, the second has wings, the third is hot, the fourth is silly, the fifth is fast, and the sixth is lucky."
+    },
+    "answer": [
+      0,
+      8,
+      6,
+      19,
+      4,
+      20
+    ]
   }
 }
