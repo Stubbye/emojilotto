@@ -15982,5 +15982,23 @@
       8,
       9
     ]
+  },
+  "emlo_272": {
+    "hardRiddle": {
+      "text": "I launch with thunder to reach the celestial prize, where gems sparkle bright under lightning skies. My magical journey ignites with fire, as fortune dances with every spin - will you capture the treasure that awaits at the moon's end?",
+      "hint": "Think of speed, electricity, wealth, and destiny combined in a thrilling ascent"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! ⚡ Watch the 💎 shine bright as 🔥 burns hot. Spin the wheel of fortune and let ✨ guide you to victory!",
+      "hint": "Count the symbols: movement up, energy, riches, heat, and magic sparkle"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      9,
+      21
+    ]
   }
 }
