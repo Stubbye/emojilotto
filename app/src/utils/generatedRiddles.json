@@ -16162,5 +16162,41 @@
       4,
       20
     ]
+  },
+  "sol_753": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright eye, a gemstone catches lightning's weeping sigh. The jester's grin dissolves in flame, while crystal echoes call the dragon's name. Through masks of joy, the fox betrays the way—six secrets hide in fortune's cryptic play.",
+      "hint": "Seek the marksman's precision, the lunar gaze, the precious stone, the wild performer, the mythical beast, and the guardian of deception."
+    },
+    "easyRiddle": {
+      "text": "Six lucky signs await your call: a bullseye waits, the moon stands tall, a jewel that gleams with inner fire, a trickster grins with wild desire, a dragon roars across the night, and masks hide truth from mortal sight.",
+      "hint": "One shoots straight, one glows above, one shines bright, one tricks with love, one soars with scales, one hides real faces."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      11,
+      13,
+      18
+    ]
+  },
+  "emlo_275": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, seeking fortune that sparkles eternally. Lady luck rolls her dice as chaos electrifies the path. A cunning beast watches from shadows while prismatic light dances above.",
+      "hint": "Think of a memecoin's journey: explosive growth, luck-based gains, deception, and dazzling rewards."
+    },
+    "easyRiddle": {
+      "text": "🚀 Rocket blasts off, ✨ Sparkles shine bright, ⚡ Lightning strikes fast, 🎰 Dice roll for luck, 🦊 Fox tricks traders, 🌈 Rainbow shows the way.",
+      "hint": "Six emoji symbols that represent crypto chaos and memecoin madness."
+    },
+    "answer": [
+      1,
+      9,
+      4,
+      11,
+      13,
+      9
+    ]
   }
 }
