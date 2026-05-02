@@ -16072,5 +16072,23 @@
       13,
       21
     ]
+  },
+  "sol_748": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of destiny convene. The archer's mark meets the swift messenger's flight, while precious crystalline depths reflect the pale sentinel above. Chaos whispers through zigzagged fury, and metamorphosis spirals in silent grace through the spectrum's arc.",
+      "hint": "Think of wishes, speed, wealth, night, chance, and transformation."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and wonder: what you aim for, what rockets upward, what glimmers like treasure, what glows at night, what strikes with power, and what floats on delicate wings.",
+      "hint": "Target, rocket, gem, moon, lightning, butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
