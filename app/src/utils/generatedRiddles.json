@@ -16054,5 +16054,23 @@
       14,
       10
     ]
+  },
+  "sol_747": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of destiny align. The winged archer of night soars past the jester's grin, while crystalline tears fall upon the stage of masked revelry. Lightning's twin brother gleams in prisms of chaos, and the serpent of dreams coils beneath fortune's wheel, all bathed in the radiance that binds the cosmos.",
+      "hint": "One embodies night's glory, one laughs at fate, one breaks into colors, one strikes with electricity, one wheels with chance, and one breathes ancient magic."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck dance together: the night guardian watches over a jester's jest, while colorful light scatters around a coiled beast and a spinning wheel, all beneath the flash of heaven's strike.",
+      "hint": "Think of nighttime magic, a silly character, bright scattered light, a mythical creature, a gambling tool, and electricity."
+    },
+    "answer": [
+      1,
+      18,
+      10,
+      4,
+      13,
+      21
+    ]
   }
 }
