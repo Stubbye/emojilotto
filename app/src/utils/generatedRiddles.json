@@ -16018,5 +16018,23 @@
       17,
       10
     ]
+  },
+  "sol_745": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps upon the prism's dance, six whispers coalesce in fortune's trance. The archer's mark meets wings of night, as crystalline dreams ignite. Thunder's child and fortune's jest converge where destiny's children rest.",
+      "hint": "Look to the sky, the stage, and games of chance. One brings luck, one brings light, one brings flight."
+    },
+    "easyRiddle": {
+      "text": "I bring luck and shimmer bright, stars and lightning share my sight. Find the target, gem that gleams, sparkles dancing in your dreams. Add the joker's playful grin, and fortune's wheel spins to win.",
+      "hint": "Count the lucky symbols: one for aim, one for sparkle, one for games, plus three more that shine and gleam."
+    },
+    "answer": [
+      0,
+      10,
+      20,
+      1,
+      19,
+      21
+    ]
   }
 }
