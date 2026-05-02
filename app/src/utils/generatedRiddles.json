@@ -16234,5 +16234,41 @@
       13,
       20
     ]
+  },
+  "sol_757": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six dancers twirl in celestial light. The jester's grin meets crystal's gleam, while serpent's gold ignites the dream. Through prisms bent and stages grand, luck's six sentries take their stand.",
+      "hint": "Think of performance, precious things, and the cosmos combined"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await: one shoots toward stars, one shines with wealth, one laughs in madness, one glitters eternal, one rules the sky, and one dances on stages. What are they?",
+      "hint": "Lottery favorites: speed, value, humor, sparkle, power, and entertainment"
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      20,
+      13,
+      6
+    ]
+  },
+  "emlo_276": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, my brilliance cuts through darkness like a precious stone. Where fortune spins wildly and magic ignites, I celebrate with radiant bursts. What am I?",
+      "hint": "Think of a memecoin's journey: ambition, velocity, value, luck, power, and glory"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 sparkles bright, 🌙 watches above, 🔥 burns hot, ✨ shines forever",
+      "hint": "Follow the emojis in order - they tell a memecoin success story"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      9
+    ]
   }
 }
