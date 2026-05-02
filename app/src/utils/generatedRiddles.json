@@ -16036,5 +16036,23 @@
       19,
       21
     ]
+  },
+  "sol_746": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six vessels dance in chaos tamed. The jester's twin-faced masquerade whispers secrets to the scaled ancient one, while petaled grace blooms beneath the prism's stolen kiss, and fortune's glittering dust crowns the sovereign's hollow victory.",
+      "hint": "Think of games of chance, royal aspirations, duality, mystical creatures, nature's beauty, and the intoxicating shimmer of luck itself."
+    },
+    "easyRiddle": {
+      "text": "I guide arrows to their mark, I make jesters laugh, I guard ancient hoards, I reign in the night sky, I bloom in gardens, and I sparkle with pure magic. Six treasures of fate await you.",
+      "hint": "One is aimed, one is silly, one is precious, one is celestial, one is natural, one is magical."
+    },
+    "answer": [
+      0,
+      19,
+      20,
+      21,
+      14,
+      10
+    ]
   }
 }
