@@ -15964,5 +15964,23 @@
       5,
       11
     ]
+  },
+  "sol_742": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, and twin serpents dance through celestial fire, the trickster grins beneath the prismatic veil. Seek the winged metamorphosis that bridges the chasm between earth's brilliance and heaven's electric whisper.",
+      "hint": "One points the way, one dwells above, one illuminates chaos, one wears two faces, one transforms, one bridges worlds"
+    },
+    "easyRiddle": {
+      "text": "I fly toward dreams, the night holds my home, electricity splits the sky, a masked jester plays, beauty takes wing, and light bends in bands across the rain.",
+      "hint": "Look for: something that shoots upward, something in the dark sky, something that strikes, something silly, something that flies and changes, something colorful after storms"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      19,
+      8,
+      9
+    ]
   }
 }
