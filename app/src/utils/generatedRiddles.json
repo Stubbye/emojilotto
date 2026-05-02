@@ -16198,5 +16198,23 @@
       13,
       9
     ]
+  },
+  "sol_754": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and nature's fortune-bearer twirls beneath the masked spotlight. The archer's prize gleams in the tempest's embrace, while the scaled leviathan watches from its gem-adorned throne. Seek the six that shimmer between chaos and grace.",
+      "hint": "One points to destiny, one spins with chance, one brings luck of the clover kind, one roars with ancient power, one glimmers with value, and one performs on sawdust stages."
+    },
+    "easyRiddle": {
+      "text": "Find the lucky symbol, the spinning game piece, the shimmering jewel, the roaring beast, the entertainment tent, and the archer's destination.",
+      "hint": "Think of luck, games, treasure, mythical creatures, entertainment, and targets."
+    },
+    "answer": [
+      0,
+      11,
+      5,
+      14,
+      7,
+      6
+    ]
   }
 }
