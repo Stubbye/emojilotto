@@ -16216,5 +16216,23 @@
       7,
       6
     ]
+  },
+  "sol_756": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the jeweled seal. The archer's mark glows beneath the night, while chaos sparks in chromatic light. A scaled dreamer ascends through fortune's gate, and crystalline fate reflects what mortals await.",
+      "hint": "Think of night sky, games of chance, precious things, chaos, mythology, and clarity combined."
+    },
+    "easyRiddle": {
+      "text": "One shines at night, one burns with heat, one glitters bright and can't be beat. A creature wise with tricks up sleeve, a dragon proud that won't leave, and crystal clear to see the way—six treasures hidden in night and day.",
+      "hint": "Moon, fire, gem, joker, dragon, and crystal—count them well."
+    },
+    "answer": [
+      3,
+      5,
+      2,
+      11,
+      13,
+      20
+    ]
   }
 }
