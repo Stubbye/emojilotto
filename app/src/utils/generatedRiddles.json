@@ -16000,5 +16000,23 @@
       9,
       21
     ]
+  },
+  "sol_744": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens of fate align in trance. The archer's mark kisses the void, while winged metamorphosis and scaled majesty avoid. Thunder's kiss ignites the spark, as stellar fragments pierce the dark. One crowns the victor's sacred ground, in this constellation of luck profound.",
+      "hint": "Seek the intersection of chaos, transformation, and celestial glory. One guides the way, one marks the end, one celebrates, one soars, one strikes, one gleams."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune dance together: a target for precision, a dragon of legend, a star that shines, lightning that strikes, a trophy of victory, and sparkles of magic. What are they?",
+      "hint": "Think of luck, power, success, electricity, celebration, and enchantment."
+    },
+    "answer": [
+      0,
+      13,
+      21,
+      4,
+      17,
+      10
+    ]
   }
 }
