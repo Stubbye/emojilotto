@@ -16090,5 +16090,41 @@
       4,
       8
     ]
+  },
+  "sol_749": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six dancers waltz betwixt the veils of chance and dream. The jester's grin guards the threshold where crystal tears reflect a winged ascension, whilst the musician's thunderous whisper echoes through the prismatic veil of becoming. Seek ye the nexus where earthbound fortune ignites against the dome of night's eternal watch.",
+      "hint": "One guides the path, one crowns the sky, one laughs in chaos, one reflects all light, one sings electricity, one transforms with grace"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a tool of aim, a gateway to heavens, a jester's smile, a stone of purity, a voice of thunder, and nature's metamorphosis. What are they?",
+      "hint": "Think of: precision, destiny, chaos, mirrors, sound, and change"
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      20,
+      4,
+      8
+    ]
+  },
+  "emlo_274": {
+    "hardRiddle": {
+      "text": "I launch to the celestial heights with electric speed, seeking gems that sparkle like fortune's greed. The joker dances where lightning strikes bright, while my dragon wings shimmer through the night.",
+      "hint": "Think of a memecoin's journey to astronomical gains with chaotic energy and mythical aspirations."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with fire and speed, collect sparkling gems for your lucky deed. A dragon soars high while lightning strikes fast, the joker laughs—will your fortune last?",
+      "hint": "Six symbols represent a crypto adventure: a launch, a destination, precious rewards, electric movement, chaos, and a mythical creature."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      11,
+      14
+    ]
   }
 }
