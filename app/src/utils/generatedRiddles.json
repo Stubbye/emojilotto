@@ -16126,5 +16126,23 @@
       11,
       14
     ]
+  },
+  "sol_750": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's twin spirals, the jester's mask conceals what the fox cannot steal. Six fragments of fate converge: the archer's eternal pursuit meets the serpent's ancient wisdom, while prismatic ice sings beneath the veil of nocturnal thrones. Chance itself pirouettes through the gate of chaos.",
+      "hint": "Think of targets and dragons, crystals and jokers, lightning and moons—each plays a role in destiny's cruel game."
+    },
+    "easyRiddle": {
+      "text": "A target, a joker, a dragon so wise. Lightning strikes crystal under moonlit skies. What six symbols align when fortune calls?",
+      "hint": "You need a goal, a trickster, a beast, a flash, ice, and the night sky."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      4,
+      20,
+      21
+    ]
   }
 }
