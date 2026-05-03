@@ -16648,5 +16648,23 @@
       4,
       13
     ]
+  },
+  "sol_776": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin masks, the winged wanderer seeks treasures beneath a prism's fractured light. Six harbingers whisper: the archer's aim meets the serpent's ancient wisdom, while rhythm pulses through the victor's gleaming silence. In this symphony of chance, what glimmers between the crimson veil and the eight-pointed sentinel?",
+      "hint": "Consider what burns above, what transforms below, what entertains the masses, and what crowns the worthy."
+    },
+    "easyRiddle": {
+      "text": "I contain six magical symbols: one burns hot and wild, one swims in the sky's ocean, one sparkles with inner light, one brings joy and laughter, one slithers through legends, and one marks victory's embrace. What am I?",
+      "hint": "Think of elements, creatures, and human achievements."
+    },
+    "answer": [
+      5,
+      21,
+      19,
+      13,
+      17,
+      1
+    ]
   }
 }
