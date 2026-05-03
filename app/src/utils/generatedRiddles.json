@@ -16450,5 +16450,23 @@
       4,
       13
     ]
+  },
+  "sol_767": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the jester's grin meets the scaled guardian's art. Six threads weave through chaos and light—a prism of fate where the nocturnal beast takes flight. The gemstone pulses where laughter and thunder collide, and metamorphosis blooms in the magician's guide.",
+      "hint": "One rules the night sky, one brings the spark, one shifts and transforms, one echoes in dark laughter."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of chance and wonder: a night-crowned orb, a scaled beast of thunder, a jeweled flash, a spark that ignites, a mystic shift, and laughter's lights. What am I?",
+      "hint": "Look for the moon, the dragon, the gem, lightning's flash, the butterfly's dance, and the joker's mask."
+    },
+    "answer": [
+      3,
+      13,
+      2,
+      4,
+      8,
+      19
+    ]
   }
 }
