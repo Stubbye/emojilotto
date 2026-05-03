@@ -16378,5 +16378,23 @@
       9,
       3
     ]
+  },
+  "sol_764": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a prismatic flame dances through celestial lace. The jester's twin souls spin in chaos divine, whilst nature's winged grace and verdant fortune align. Lightning births the gem from ancient night's throne.",
+      "hint": "Seek the intersection of games, magic, nature, and destiny in the heavens above."
+    },
+    "easyRiddle": {
+      "text": "I am a target where dreams ignite, a joker's laugh mixed with fire's light. A butterfly carries luck through storm's might, with a gem born from lightning so bright.",
+      "hint": "Think of luck, magic, luck, nature, electricity, and precious things."
+    },
+    "answer": [
+      0,
+      11,
+      8,
+      7,
+      5,
+      2
+    ]
   }
 }
