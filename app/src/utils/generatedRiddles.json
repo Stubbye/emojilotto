@@ -16504,5 +16504,41 @@
       11,
       21
     ]
+  },
+  "sol_770": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian crown, and celestial fire dances with a jester's painted frown. The winged metamorphosis seeks what gleams in shadow's keep, while luck's hexagonal whisper guards secrets buried deep.",
+      "hint": "One guides aim, one rules night, one transforms, one deceives, one sparkles hidden, one rolls chance."
+    },
+    "easyRiddle": {
+      "text": "I point at goals, I light the dark, I change my form, I wear a mask, I shine so bright, and I decide by rolling fate.",
+      "hint": "Aim, night sky, butterfly, joker, gem, dice"
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      19,
+      11,
+      20
+    ]
+  },
+  "emlo_280": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving sparkles in my wake. My gem-powered magic creates rainbows of wealth, while dragon-fire burns through the atmosphere. What six celestial forces guide this memecoin voyage?",
+      "hint": "Think of a journey from Earth to riches, with powerful forces and magical elements lighting the way."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon with gem treasures. Lightning strikes with fire. Rainbow sparkles appear. Dragon watches from above. Which six things happen?",
+      "hint": "Name the objects you see: 🚀🌙💎⚡🔥🌈"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
