@@ -16342,5 +16342,41 @@
       4,
       11
     ]
+  },
+  "sol_762": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels dance between shadow and blaze. The winged metamorphosis pirouettes through prismatic arcs, while celestial orbs witness the jester's eternal jest. Thunder's kiss ignites the crystalline throne, and destiny's many-faced keeper grins through the chaos of existence.",
+      "hint": "Seek the transformation within the spectacle, where luck's instruments and cosmic guardians converge."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark and the sky's bright flame. The circus holds my wonder, while the dragon guards my secret. The crystal catches lightning, and the joker knows my name. Six pieces of fortune dance together—can you name them all?",
+      "hint": "Think of targets, circuses, dragons, crystals, electricity, and those who play games of chance."
+    },
+    "answer": [
+      0,
+      7,
+      13,
+      20,
+      4,
+      19
+    ]
+  },
+  "emlo_278": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electrifying speed, sparkling with brilliance. My gems ignite the path where fortune strikes like lightning, and magic dances in flames of possibility.",
+      "hint": "Think of a memecoin's journey: launch momentum, destination, and the treasures that await believers."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots up, a gem shines bright, lightning strikes fast, fire burns hot, sparkles twinkle, and the moon is our goal.",
+      "hint": "Six symbols of crypto dreams: go up, get rich, move quick, get hot, shine, reach the moon."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      3
+    ]
   }
 }
