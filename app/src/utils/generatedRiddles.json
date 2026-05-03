@@ -16414,5 +16414,41 @@
       14,
       0
     ]
+  },
+  "sol_766": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked performer strikes lightning through prismatic gates. A jeweled serpent coils beneath the lunar gaze, while flutter-winged grace ascends toward the archer's eternal mark.",
+      "hint": "Seek the symbols of chance, sky, performance, and flight intertwined with gemstone power and cosmic light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols await: one gleams like ice, one roars with electricity, one soars in darkness, one wears a grin, one dances on air, and one points toward destiny.",
+      "hint": "Think of fortune's wheel: precious stones, weather's fury, night's guardian, trickster's smile, insect's waltz, and the marksman's aim."
+    },
+    "answer": [
+      2,
+      5,
+      1,
+      19,
+      8,
+      0
+    ]
+  },
+  "emlo_279": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 gemstone that makes holders bleed. Swift as ⚡ through circus dreams, I spark like ✨ in moonlight beams. A 🎯 for wealth, a dragon's flight, where 🦊 traders ride the hype at night.",
+      "hint": "Think of a token's journey: destination, fuel, value, energy, magic, and the cunning player who hodls it."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon with fire and gems, lightning strikes bring sparkles and zen. What five things make a memecoin's dream?",
+      "hint": "You need speed, altitude, heat, treasure, and magic to pump."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      13
+    ]
   }
 }
