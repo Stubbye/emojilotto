@@ -16468,5 +16468,23 @@
       8,
       19
     ]
+  },
+  "sol_768": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a jeweled heart ascends through storm's desire. The winged dancer traces arcs of light, while crystalline fractals pierce the night. In this hexad of fate's grand design, six symbols converge where destinies align.",
+      "hint": "Consider the journey from earth to sky, and what treasures shimmer along the way."
+    },
+    "easyRiddle": {
+      "text": "Six treasures dance in the lottery's embrace: a target of dreams, a rocket's race, a gem so bright, the moon's soft light, lightning's strike, and fire's might.",
+      "hint": "Count them carefully: aim, flight, sparkle, night, electricity, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
