@@ -16576,5 +16576,23 @@
       8,
       11
     ]
+  },
+  "sol_773": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six celestial dancers spin. The jester's grin echoes through prisms of flame, whilst wings of metamorphosis trace the boundary between earth's emerald crown and heaven's eternal glow. What symbols seal the covenant between chaos and grace?",
+      "hint": "One points, one rules night, one laughs, one consumes, one transforms, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "A target, a joker, a dragon, a fire, a butterfly, and a flower dance together in this lottery. Which six are they?",
+      "hint": "Look for aim, laughter, scales, flames, wings, and petals."
+    },
+    "answer": [
+      0,
+      19,
+      14,
+      6,
+      8,
+      15
+    ]
   }
 }
