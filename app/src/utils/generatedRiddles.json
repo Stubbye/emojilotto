@@ -16288,5 +16288,41 @@
       2,
       0
     ]
+  },
+  "sol_760": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's ancient dance, six guardians converge in fortune's trance. The winged messenger of transformation's flight, the crystalline heart of starlit night, the jester's mask of chance's game, the dragon's hoard without a name, the instrument of chaos' song, and the symbol where all luck belongs.",
+      "hint": "Think of metamorphosis, precious stones, comedy, mythical beasts, music, and probability."
+    },
+    "easyRiddle": {
+      "text": "Find the butterfly taking flight, the gem that shines so bright, the joker's grin in jest, the dragon fierce and blessed, the guitar's melodic call, and the star that rules them all.",
+      "hint": "One transforms, one sparkles, one tricks, one roars, one sings, one guides everything."
+    },
+    "answer": [
+      8,
+      5,
+      19,
+      14,
+      16,
+      21
+    ]
+  },
+  "emlo_277": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, gems sparkle as I dance through fire and fortune's wheel. What six symbols mark my journey to infinity?",
+      "hint": "Think of a memecoin's ultimate goal and the thrilling path it takes to get there."
+    },
+    "easyRiddle": {
+      "text": "A rocket launches toward the moon with lightning power. Gems and sparkles follow the flames. Name these six symbols of crypto glory.",
+      "hint": "One goes up, one is bright, one is shiny, one is electric, one glows, and one is precious."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      20
+    ]
   }
 }
