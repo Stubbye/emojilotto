@@ -16396,5 +16396,23 @@
       5,
       2
     ]
+  },
+  "sol_765": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens of fate align in trance. The archer's mark glows in night's embrace, while lightning splits the crystal's face. A scaled guardian guards the gemstone's gleam, and butterfly wings flutter through the dream. What constellation of chance shall guide the seeker's stride?",
+      "hint": "One shoots upward, one burns bright, one flies free, one shines hard, one rules ancient skies, one marks the bullseye of destiny."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: the nighttime orb watches over a bright strike. A precious stone rests near a mighty beast. A winged dancer circles the target. What are these six tokens of fortune?",
+      "hint": "Moon, lightning, gem, dragon, butterfly, target."
+    },
+    "answer": [
+      3,
+      5,
+      1,
+      21,
+      14,
+      0
+    ]
   }
 }
