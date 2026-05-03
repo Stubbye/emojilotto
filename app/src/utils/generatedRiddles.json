@@ -16594,5 +16594,41 @@
       8,
       15
     ]
+  },
+  "sol_774": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six celestial dancers emerge: the winged chrysalis metamorphoses beside the gem-crowned sovereign, while the dragon's breath intertwines with the jester's masked reverie, and the celestial guardian watches over all with its eternal sparkle.",
+      "hint": "Look for transformation, royalty, mischief, fire, watchfulness, and magic in the sky."
+    },
+    "easyRiddle": {
+      "text": "I fly without wings, I burn without fire, I hide behind masks, I sparkle so bright. Find the butterfly, the dragon, the joker, the gem, the sparkles, and the star.",
+      "hint": "Think of magic shows, nighttime wonders, and trickery."
+    },
+    "answer": [
+      8,
+      13,
+      19,
+      11,
+      10,
+      21
+    ]
+  },
+  "emlo_281": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a gem-like treasure that makes hodlers succeed. Under the moon I sparkle and gleam, with dragon's fire fueling the dream. What six celestial signs mark this memecoin's gleam?",
+      "hint": "Think of a rocket's journey to success, precious rewards, and legendary creatures"
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots up to the moon so high, a gem shines bright in the starry sky, lightning strikes with fire so bold, a dragon guards the treasures of gold. Find these six symbols of crypto's call!",
+      "hint": "Look for: travel up, something precious, electricity, heat, a mythical beast, and night sky objects"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      14,
+      21
+    ]
   }
 }
