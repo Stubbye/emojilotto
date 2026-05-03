@@ -16540,5 +16540,23 @@
       5,
       9
     ]
+  },
+  "sol_771": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, and twin flames dance with fortune's spark. The jester's grin echoes through chambers of chance, while nature's metamorphosis spirals through crystalline depths. What six tokens of destiny align when chaos sings and luck transcends?",
+      "hint": "One pierces the void, one crowns the night, one mocks the seeker, one transforms, one glimmers eternal, one orchestrates chance."
+    },
+    "easyRiddle": {
+      "text": "I am the mark you aim for, the night sky's pearl, the cosmic fire, the trickster's smile, the gem that endures, and the storm's bright fury. Six treasures of chance—name us all.",
+      "hint": "Target, Moon, Fire, Joker, Crystal, Lightning"
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      12,
+      20,
+      4
+    ]
   }
 }
