@@ -16324,5 +16324,23 @@
       9,
       20
     ]
+  },
+  "sol_761": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked performer spins beneath lunar gaze. Six sentries of fate converge: the archer's mark meets the serpent's dream, jeweled brilliance crowned by heaven's spark, while chaos wears the grinning face of chaos itself.",
+      "hint": "One points, one flies, one glows, one grins, one rules the sky, one blinds with light"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck hide in this verse: a target waits, a rocket soars, a dragon coils, the moon shines, lightning strikes, and the joker laughs. Which six shall claim your fortune?",
+      "hint": "Look for: aim, flight, mythology, night, electricity, and laughter"
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      3,
+      4,
+      11
+    ]
   }
 }
