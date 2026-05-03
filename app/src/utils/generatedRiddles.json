@@ -16630,5 +16630,23 @@
       14,
       21
     ]
+  },
+  "sol_775": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, six vessels of fate intertwine in trance. The archer's mark gleams with ethereal light, while scaled serpent guards the gemstone's flight. Wings of transformation flutter through cosmic thread, as thunder's fury awakens what dreams have fed.",
+      "hint": "Look to the heavens, the precious, the swift, and the mythical guardians of fortune's gift."
+    },
+    "easyRiddle": {
+      "text": "Find the target's gleam, the rocket's speed, the gem's sparkle, the moon's glow, the lightning's strike, and the dragon's fire. Six symbols hold the key to destiny's desire.",
+      "hint": "One flies high, one shines bright, one strikes fast, one glows soft, one dazzles, and one breathes ancient power."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
