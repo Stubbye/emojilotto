@@ -16558,5 +16558,23 @@
       20,
       4
     ]
+  },
+  "sol_772": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six witnesses gleam in twilight's trance. The archer's mark reflects a gem's true face, while wings of metamorphosis trace lightning's grace. Above, the crescent keeper spins its wheel, and sparkles crown what masked performers feel.",
+      "hint": "Consider what shines, what transforms, what guides, and what entertains beneath the night."
+    },
+    "easyRiddle": {
+      "text": "Find the bright circle in the sky, the glowing stone, the electric bolt, the target's aim, the butterfly's change, and the jingling fortune wheel.",
+      "hint": "One celestial, one precious, one energetic, one aimed, one living, one playful."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      0,
+      8,
+      11
+    ]
   }
 }
