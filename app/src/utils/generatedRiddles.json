@@ -16486,5 +16486,23 @@
       4,
       5
     ]
+  },
+  "sol_769": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone gleams in cosmic space. Lightning splits the jester's grin, while fire dances where dreams begin. The fox's cunning guards the way, beneath a star that holds the fray.",
+      "hint": "Consider celestial alignments, precious stones, chaos magic, and cleverness in shadow."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck resides: an archer's mark, a stone that glides, a bolt of white, a burning bright, a trickster's face, a star's delight.",
+      "hint": "Think of targets, gems, electricity, flames, jesters, and the night sky."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      5,
+      11,
+      21
+    ]
   }
 }
