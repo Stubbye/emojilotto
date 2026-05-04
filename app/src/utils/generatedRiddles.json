@@ -16684,5 +16684,23 @@
       19,
       20
     ]
+  },
+  "sol_778": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the archer's mark gleams beneath lunar whispers. A winged metamorphosis spirals through prismatic veils, while electricity births crystalline dreams in the fool's domain.",
+      "hint": "Seek the convergence of destiny, chaos, and transformation across realms both earthly and divine."
+    },
+    "easyRiddle": {
+      "text": "Find the glowing gem that rests where the rocket points, beneath the moon's silver gaze. A butterfly carries a rainbow, while lightning births crystal fire through the joker's hand.",
+      "hint": "One shines with wealth, one reaches for sky, one transforms, one reflects light, one brings chance, one holds fate."
+    },
+    "answer": [
+      2,
+      1,
+      8,
+      3,
+      21,
+      20
+    ]
   }
 }
