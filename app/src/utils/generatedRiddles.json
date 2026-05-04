@@ -16882,5 +16882,23 @@
       5,
       10
     ]
+  },
+  "sol_787": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian throne, a winged metamorphosis dances with celestial fire. The jester's grin guards treasures crystalline and true, while the scaled leviathan breathes fortune's arc of seven hues. Luck trembles between chaos and destiny's ancient claim.",
+      "hint": "One brings aims, one ascends, one transforms, one rules, one sparkles, one paints chance itself."
+    },
+    "easyRiddle": {
+      "text": "I am a pointed aim, a soaring dream, a beautiful change, a mighty beast, a precious stone, and the painted fortune between them all.",
+      "hint": "Target, Rocket, Butterfly, Dragon, Gem, and Rainbow—six secrets of the cosmic lottery."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      13,
+      2,
+      9
+    ]
   }
 }
