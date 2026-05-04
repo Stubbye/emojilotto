@@ -16738,5 +16738,23 @@
       11,
       10
     ]
+  },
+  "sol_780": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the void's whisper, while twin flames of chaos and wonder intertwine. Between the jester's grin and the scaled guardian's ancient wisdom, a crystalline truth shatters into prismatic fragments. Seek the winged transformer, the laughing trickster, and the crowned achievement—where destiny's lottery spins eternal.",
+      "hint": "Three are symbols of chance and play, two breathe otherworldly power, one bridges transformation and illusion."
+    },
+    "easyRiddle": {
+      "text": "I bring luck and wild chance, I spark and ignite, I guard treasures bright, I reach for the stars, I jest and deceive, I shimmer and transform. Six pieces of fortune—can you find them all?",
+      "hint": "Think of games, magic, luck, power, and things that sparkle in the night sky."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      13,
+      17,
+      8
+    ]
   }
 }
