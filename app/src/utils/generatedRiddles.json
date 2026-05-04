@@ -16828,5 +16828,23 @@
       0,
       4
     ]
+  },
+  "sol_784": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis spirals through prismatic arcs. The jester's grin meets the vulpine shadow beneath the gleaming crystalline throne, as luck's bolt strikes the heart of all games.",
+      "hint": "Seek the trickster, the shape-shifter, the prism, the spark, the celestial body, and the precious stone in chambers of chance."
+    },
+    "easyRiddle": {
+      "text": "A playing card smiles, a fox runs swift, lightning cracks the sky, a rainbow glows bright, stars twinkle high, and gems shine with light.",
+      "hint": "Five of these are things you see in nature or games, one is a jester's companion."
+    },
+    "answer": [
+      19,
+      13,
+      4,
+      9,
+      21,
+      5
+    ]
   }
 }
