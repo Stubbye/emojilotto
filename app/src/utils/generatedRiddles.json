@@ -16792,5 +16792,41 @@
       5,
       13
     ]
+  },
+  "sol_783": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six harbingers emerge: the archer's mark that pierces through veils of night, the serpent of old coiled in emerald dreams, the weaver's lightning stitching fate's tapestry, the celestial pearl where all wishes converge, the jester's twin masks revealing what was hidden, and the bloom that opens only when destinies align. Speak the sequence of their essence.",
+      "hint": "One shoots straight, one glimmers deep, one strikes swift, one watches from above, one laughs in duality, one grows eternal."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and power: the bullseye never missed, the treasure that sparkles, the bolt from above, the orb in the night sky, the playing card's fool, and the four-petaled charm. Which six dance together in destiny's game?",
+      "hint": "Target, Gem, Lightning, Moon, Joker, Clover - these are your guides."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      1,
+      11,
+      19
+    ]
+  },
+  "emlo_285": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with burning passion, while fortune's twin sparkles guide the way. A jester's magic and nature's charm unite where victory awaits the brave souls who dance through chaos.",
+      "hint": "Think of explosive growth, luck symbols, and entertainment in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 🎭 makes you laugh, 🍀 brings luck, 🎯 hits the mark, and ⚡ strikes fast. Together they pump the memecoin dream!",
+      "hint": "These emojis represent the moon mission vibes of crypto: speed, luck, fun, and fortune"
+    },
+    "answer": [
+      1,
+      10,
+      18,
+      19,
+      0,
+      4
+    ]
   }
 }
