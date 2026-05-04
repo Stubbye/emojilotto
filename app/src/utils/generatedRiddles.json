@@ -16666,5 +16666,23 @@
       17,
       1
     ]
+  },
+  "sol_777": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six secrets dance in twilight's gyre. The jester's twin of cunning grace, a scaled leviathan claims space. Petals weep in moonlit dew, while nature's lucky charm breaks through. In chaos rolled and sparks that gleam, they waltz within the dreamer's dream.",
+      "hint": "Think of luck, deception, mythology, nature, chance, and brilliance intertwined in cosmic performance."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols for your quest: an archer's mark shows manifest, a prancing fool with painted face, a dragon fierce in cosmic race, a flower soft in morning light, a shamrock green and sparkles bright.",
+      "hint": "Look for: aim, trickery, myth, botany, luck, and luminescence."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      14,
+      19,
+      20
+    ]
   }
 }
