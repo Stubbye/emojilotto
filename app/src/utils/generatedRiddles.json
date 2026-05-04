@@ -16702,5 +16702,41 @@
       21,
       20
     ]
+  },
+  "sol_779": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and the winged metamorphosis dances with thunderous desire. In crystalline depths, the jester's laughing mask conceals what mortals conspire—six sacred tokens in destiny's pyre.",
+      "hint": "Think of transformation, luck's symbols, and the court of chance itself."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's flight, the gem's bright gleam, the lightning's might, the joker's jest, and the butterfly's sight.",
+      "hint": "One reveals aims, one ascends, one sparkles, one strikes, one deceives, one transforms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      8
+    ]
+  },
+  "emlo_283": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gemstone heart ablaze. Fortune spins wildly as I rocket through chaos, guided by fortune's symbol. What six treasures mark my journey to glory?",
+      "hint": "Think of a memecoin's wildest dreams: up, up, and away with luck on your side"
+    },
+    "easyRiddle": {
+      "text": "🚀 zooms to the 🌙, ⚡ strikes fast, 💎 shines bright, 🍀 brings luck, 🎰 spins fortunes, and ✨ celebrates the win!",
+      "hint": "A memecoin adventure: launch, destination, speed, treasure, fate, and victory"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      19,
+      11,
+      10
+    ]
   }
 }
