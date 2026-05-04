@@ -16846,5 +16846,41 @@
       21,
       5
     ]
+  },
+  "sol_786": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and masked performers juggle the dreams of those who chase the shimmer. The winged wanderer seeks the prism's kiss beneath the archer's aim, while the scaled guardian watches from realms where light bends into infinite hues.",
+      "hint": "Think of spectacle, chance, and the heavens combined with transformation and precision."
+    },
+    "easyRiddle": {
+      "text": "A show of wonder, a game of chance, a winged beauty, a scaled beast, a perfect shot, and colors everywhere.",
+      "hint": "Entertainment, luck, nature, mythology, accuracy, and visual splendor."
+    },
+    "answer": [
+      7,
+      11,
+      1,
+      13,
+      0,
+      9
+    ]
+  },
+  "emlo_286": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking treasures that sparkle beyond earthly greed. A jester's fortune spins where magic ignites, under fortune's gaze where destiny writes. What six symbols guide the moonbound knight?",
+      "hint": "Think of a memecoin journey: propulsion, destination, wealth, chance, electricity, and the sparkle of success"
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket fast! ⚡ Find the gem that's built to last! Roll the dice for fortune's flame, sparkles shower—that's the game! 🌙 Which six emojis light the way?",
+      "hint": "Look for: a launch device, a shiny rock, the night sky, random chance, power energy, and glittery magic"
+    },
+    "answer": [
+      1,
+      3,
+      13,
+      11,
+      5,
+      10
+    ]
   }
 }
