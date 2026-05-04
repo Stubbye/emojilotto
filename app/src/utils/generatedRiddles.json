@@ -16756,5 +16756,41 @@
       17,
       8
     ]
+  },
+  "sol_781": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins in celestial dance, six guardians converge in twilight's trance. The archer's mark meets serpent's ancient flame, while jester's grin and gemstone stake their claim. Winged dancer courts the storm's electric grace, as crystalline tears fall from destiny's face.",
+      "hint": "One controls fate, one ignites passion, one deceives, one gleams with value, one glides through air, one strikes with fury."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck gather under stars: a target's bullseye, a dragon's scars, a joker's laugh, a gem so bright, a butterfly's flight, and lightning's might. What are these six?",
+      "hint": "Think of games of chance, mythical beasts, playing cards, precious stones, nature's beauty, and nature's power."
+    },
+    "answer": [
+      0,
+      13,
+      18,
+      2,
+      8,
+      5
+    ]
+  },
+  "emlo_284": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with unstoppable velocity, my explosive energy fuels the dreamers. Precious gems sparkle as I ascend, while fortune's wheel spins endlessly. Lightning-fast gains and dragon-sized ambitions propel me skyward. What am I?",
+      "hint": "Think of the ultimate memecoin journey: speed, wealth, luck, and legendary gains."
+    },
+    "easyRiddle": {
+      "text": "Blast off with me to riches! I'm precious like a gem, lucky like a four-leaf clover, and I move faster than lightning. Dragons and fortune spin with my magic. What memecoin journey am I?",
+      "hint": "Combine: launch, treasure, luck, speed, magic creature, and fortune."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      13
+    ]
   }
 }
