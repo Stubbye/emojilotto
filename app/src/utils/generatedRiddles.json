@@ -16918,5 +16918,41 @@
       4,
       18
     ]
+  },
+  "sol_789": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a serpent of fortune coils beneath crystalline dreams. The jester's grin reflects in amber flames, while petals dance with celestial sparks—six tokens of fate await those who read the language of chaos and bloom.",
+      "hint": "One guides, one guards the heavens, one laughs at destiny, one burns with passion, one blooms with grace, one glimmers with wonder."
+    },
+    "easyRiddle": {
+      "text": "I fly with purpose through the dark. I sparkle in the depths. I wear a foolish smile. I consume all things. I paint the garden. I shower the night with light. Six symbols of luck—can you name us?",
+      "hint": "Think of targeting, precious gems, laughter, heat, nature, and magic."
+    },
+    "answer": [
+      0,
+      21,
+      19,
+      6,
+      14,
+      10
+    ]
+  },
+  "emlo_287": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electrifying speed, while fortune's gem sparkles in my wake. The joker dances with fate's crystal kiss, as fire and magic paint the sky. What six symbols mark this memecoin's destiny?",
+      "hint": "Think of a cryptocurrency journey: the vehicle, the destination, the rewards, the chaos, the brilliance, and the luck involved."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 takes you to the 🌙, where ⚡ strikes the 💎. The 🔥 burns bright and ✨ shines forever. These six guide the memecoin way.",
+      "hint": "Moon, rocket, gem, lightning, fire, and sparkles - the ultimate crypto adventure."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
