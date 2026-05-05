@@ -17134,5 +17134,23 @@
       20,
       5
     ]
+  },
+  "sol_798": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and thunder's kiss ignites the prism's eternal waltz. Six tokens bind the fortune-seeker: the mark of precision, the vessel of escape, the treasure of earth's embrace, the nocturnal overseer, the fury of the sky, and the phoenix's breath. Which sacred sigils hold your destiny?",
+      "hint": "One guides, one ascends, one glimmers beneath, one rules above, one strikes swift, one consumes all."
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance in the lottery's dream: something you aim at, something that flies up, something that shines bright, something in the night sky, something that goes boom, and something that burns hot. Can you name them?",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and fire."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
