@@ -17026,5 +17026,23 @@
       19,
       20
     ]
+  },
+  "sol_793": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled leviathan guards the threshold between chaos and precision. Six symbols converge: the archer's mark meets ascending thunder, gemstones gleam in twilight's embrace, while wings of transformation flutter near the crown of victory. Seek the numerical truth in their celestial order.",
+      "hint": "One points, one rises, one glimmers, one crowns, one transforms, one strikes from above."
+    },
+    "easyRiddle": {
+      "text": "Find six magical things: a target to aim at, a rocket that flies high, a gem that sparkles, a moon in the night sky, lightning that strikes fast, and a trophy to win. What numbers hide them in the list?",
+      "hint": "Think of targets, space travel, precious stones, nighttime, storms, and victory."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      18
+    ]
   }
 }
