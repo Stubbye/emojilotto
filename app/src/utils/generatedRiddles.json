@@ -16954,5 +16954,23 @@
       5,
       9
     ]
+  },
+  "sol_790": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers converge in twilight's veil. The archer's mark meets the winged ascender, while gems crystallize in lunar glow. A jester's grin mirrors the fox's cunning, as thunder births the stage of metamorphosis.",
+      "hint": "Consider what burns in the sky, what climbs toward infinity, what glimmers with value, what governs night, what wears many faces, and what transforms between worlds."
+    },
+    "easyRiddle": {
+      "text": "I have a bullseye, I reach for stars, I sparkle with worth, I light the night, I jest and deceive, I change my colors. What six things am I?",
+      "hint": "Think of: something you aim at, something that flies up, something precious, something in the sky, something that tricks you, something that goes through cycles."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      12,
+      8
+    ]
   }
 }
