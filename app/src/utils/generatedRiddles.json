@@ -17044,5 +17044,41 @@
       4,
       18
     ]
+  },
+  "sol_794": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's pale crown, a jeweled flame dances with winged grace. Lightning paints the cosmic stage while fortune's bones roll eternal truth. Six celestial whispers converge where chaos wears a grinning mask.",
+      "hint": "Consider celestial bodies, elements of chance, and creatures of transformation bound by fate's design."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark guides upward flight. A precious stone ignites the night. The sleeping orb watches from above. Lightning strikes with electric love. A masked jester grins at fate. Dice and chance decide your state.",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and things associated with gambling and theater."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      19
+    ]
+  },
+  "emlo_289": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, where fortune spins like a jester's game beneath crystalline skies. What six symbols mark this memecoin journey?",
+      "hint": "Think of the path from Earth to riches: propulsion, destination, luck, chaos, treasure, and celestial sparkle."
+    },
+    "easyRiddle": {
+      "text": "A coin goes UP with a BOOM, lands on the MOON, sparkles like a GEM, with the luck of a DICE and a JOKER's grin. What are these 6 things?",
+      "hint": "Launch pad → destination → wealth → randomness → trickster → magic"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      12,
+      10
+    ]
   }
 }
