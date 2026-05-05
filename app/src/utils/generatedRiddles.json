@@ -17080,5 +17080,23 @@
       12,
       10
     ]
+  },
+  "sol_795": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, and the winged metamorphosis dances through the prism of fortune's fire. The jester's laughter echoes where emerald splendor crowns the moment, yet the fox's cunning reveals what the masked performers conceal. Six treasures align when destiny's bolt strikes the stage of infinite possibility.",
+      "hint": "Think of luck's symbols: one aimed, one ascending, one precious, one overhead, one swift, one playful."
+    },
+    "easyRiddle": {
+      "text": "I bring you luck in six ways: I am aimed at your dreams, I carry you to the stars, I sparkle with value, I light the night sky, I strike with speed, and I wear a grin. What are the six keepers of fortune?",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, and Joker are your six lucky symbols."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
