@@ -17008,5 +17008,23 @@
       11,
       19
     ]
+  },
+  "sol_792": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the weaver's night, and thunder's tongue ignites the primal sight. The jeweled crown reflects what mortals seek, while metamorphosis dances at fortune's peak. Chaos whispers through the jester's grin, and luck's own shield guards all who spin.",
+      "hint": "Think of targets, storms, precious things, transformations, trickery, and protection."
+    },
+    "easyRiddle": {
+      "text": "I am aimed at, I am bright like storms, I sparkle with value, I transform with wings, I joke and trick, I protect with fortune.",
+      "hint": "Six things: one you shoot at, one that's electric, one that's valuable, one that flies, one that fools, one that's lucky."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      8,
+      19,
+      20
+    ]
   }
 }
