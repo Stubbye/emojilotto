@@ -17152,5 +17152,23 @@
       4,
       5
     ]
+  },
+  "sol_799": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled guardian ascends through celestial fire, while the jester's painted face grins beneath prismatic light, and the night blooms with electric whispers—six secrets dance where chaos meets destiny's aim.",
+      "hint": "One pierces, one flies, one deceives, one burns, one illuminates, one rules the stars."
+    },
+    "easyRiddle": {
+      "text": "A bullseye waits, a serpent soars, a fool laughs, flames roar, lightning strikes, and starlight shines. Find these six in fortune's signs.",
+      "hint": "Look for: aim, wings, trickery, heat, electricity, and celestial glow."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      5,
+      4,
+      21
+    ]
   }
 }
