@@ -16900,5 +16900,23 @@
       2,
       9
     ]
+  },
+  "sol_788": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, six tokens dance in shadow's waltz. The jester's grin mirrors chaos bright, while ancient wings bear luck through night. Petals bloom where scales are cast, and crystalline light holds futures fast. One strikes swift with nature's wrath, another marks the victor's path.",
+      "hint": "Seek the fool, the scaled deceiver, the bloom of chance, and the wielder of storms. A gem's cold truth and a trophy's triumph complete this cryptic form."
+    },
+    "easyRiddle": {
+      "text": "A wild trickster grins with glee, a flower grows where luck runs free. Lightning crackles, diamonds gleam, a dragon guards the golden dream. The jester bows before the crown—these six shall turn your fortune down.",
+      "hint": "Think of games, magic, nature's power, victory, and precious stones. A mischievous companion guards them all."
+    },
+    "answer": [
+      12,
+      13,
+      14,
+      20,
+      4,
+      18
+    ]
   }
 }
