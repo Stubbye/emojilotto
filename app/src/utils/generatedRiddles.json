@@ -17098,5 +17098,23 @@
       4,
       5
     ]
+  },
+  "sol_796": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The winged wanderer seeks the radiant prism through lightning's kiss, while masked revelry spins beneath the jeweled sentinel's gaze. What constellation of chance betrays the seeker's heart?",
+      "hint": "Look to the sky, the stage, and the games of fate. One glimmers, one strikes, one transforms, one judges, one guides, one rewards."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hold the key: electricity's fury, a precious stone, a celestial guardian, winged metamorphosis, theatrical deception, and the ultimate prize. Can you name them all?",
+      "hint": "Think of power, wealth, the heavens, nature's change, hidden faces, and victory."
+    },
+    "answer": [
+      5,
+      6,
+      12,
+      8,
+      19,
+      18
+    ]
   }
 }
