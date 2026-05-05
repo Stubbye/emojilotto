@@ -17116,5 +17116,23 @@
       19,
       18
     ]
+  },
+  "sol_797": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and masked performers juggle the dreams of those who seek the prism's true feel. The fox's cunning meets the dragon's ancient gold, while lightning strikes the gem that fortune doth hold.",
+      "hint": "Look to the sky, the stage, and the heart of luck itself. Six entities converge where chaos meets control."
+    },
+    "easyRiddle": {
+      "text": "I am the stage of wonder, the symbol of chance, the beast of wisdom, the serpent's trance. Lightning splits the sky, and a precious stone glows bright. Six magical beings reveal the lottery's light.",
+      "hint": "One is a place, one brings thunder, one is a reptile, and three are creatures or forces of nature."
+    },
+    "answer": [
+      7,
+      4,
+      13,
+      11,
+      20,
+      5
+    ]
   }
 }
