@@ -17206,5 +17206,23 @@
       14,
       17
     ]
+  },
+  "emlo_292": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric ⚡ speed, my 🔥 burns bright as I plant my 💎 seed. The 🚀 carries my spirit to the stars above, where ✨ guides those who hodl with love. What am I?",
+      "hint": "A memecoin's journey from earth to celestial glory"
+    },
+    "easyRiddle": {
+      "text": "Find: the destination we seek, the transport we need, the treasure so rare, the power that strikes, the heat of ambition, and the shimmer of dreams",
+      "hint": "Six symbols of a moonbound adventure"
+    },
+    "answer": [
+      3,
+      1,
+      5,
+      2,
+      6,
+      10
+    ]
   }
 }
