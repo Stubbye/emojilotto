@@ -17224,5 +17224,23 @@
       6,
       10
     ]
+  },
+  "sol_803": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's spiral breath, six treasures hide in shadow's depth. The winged wanderer marks the path through crystalline gates, while masked performers juggle fate's weights. Lightning's twin adorns the crown, as gemstone light casts colors down. Seek the archer's perfect aim where flame and moth intertwine their claim.",
+      "hint": "Think of chance, light, movement, performance, and the clash of opposites in nature's theatre."
+    },
+    "easyRiddle": {
+      "text": "I am six things that shimmer and dance: a spinning tool of chance, a flying beast of ancient lands, a precious stone that brightly stands, a winged creature light and free, a blazing force wild and wild, and masks worn by jesters mild. What six treasures do I hide?",
+      "hint": "Look for: gambling, mythology, value, insects, elements, and entertainment."
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      8,
+      5,
+      19
+    ]
   }
 }
