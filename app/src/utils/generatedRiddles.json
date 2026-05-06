@@ -17296,5 +17296,23 @@
       6,
       8
     ]
+  },
+  "sol_806": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a celestial guardian weeps crystalline tears. The jester's laughter echoes through prismatic flames, while wings of metamorphosis dance upon the threshold between dreams and awakening. Seek the six that blur the line between chaos and destiny.",
+      "hint": "One guides from above, one laughs at fate, one transforms, one burns with purpose, one sparkles with truth, and one holds the key to wishes."
+    },
+    "easyRiddle": {
+      "text": "I point to victory, I rise to dreams, I glow with wonder, I shift with change, I spark with magic, and I jest with fate. What six treasures complete the lottery's song?",
+      "hint": "Think of arrows, space, light, wings, fire, and foolishness."
+    },
+    "answer": [
+      0,
+      2,
+      7,
+      5,
+      20,
+      18
+    ]
   }
 }
