@@ -17332,5 +17332,23 @@
       8,
       14
     ]
+  },
+  "sol_808": {
+    "hardRiddle": {
+      "text": "Where celestial flames dance upon the void's canvas, a jester's masked reverie unfolds. The archer's mark converges with fortune's dice, while prismatic shards fragment the luminescent heart. Six tokens of fate's masquerade—seek the winged metamorphosis between thunderous ascension and crystalline refraction.",
+      "hint": "Look for: a symbol of cosmic fire, theatrical deception, games of chance, gemstone brilliance, lightning's fury, and transformation's symbol"
+    },
+    "easyRiddle": {
+      "text": "One burns in the sky, one tricks with a grin, one rolls with fortune, one glimmers bright, one strikes from above, one spreads its wings. What six reveal the lottery's secret?",
+      "hint": "Think: fire, joker, dice, gem, lightning, butterfly"
+    },
+    "answer": [
+      5,
+      18,
+      11,
+      2,
+      4,
+      8
+    ]
   }
 }
