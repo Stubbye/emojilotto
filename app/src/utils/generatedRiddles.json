@@ -17242,5 +17242,23 @@
       5,
       19
     ]
+  },
+  "sol_804": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, a gemstone catches starlight's tail. The dragon's breath ignites the stage where masked performers play their wage. A butterfly dances through prismatic spray, while thunder echoes what the crystal cannot say.",
+      "hint": "Six symbols of chance and spectacle: seek the marksman's aim, precious stone, winged transformer, flame's domain, mystical guard, and nature's light-bending art."
+    },
+    "easyRiddle": {
+      "text": "I am a target hit by chance, a gem that gleams in fortune's dance, a dragon breathing fortune's fire, a butterfly that climbs higher, a crystal that refracts all light, and masks that hide what's truly bright.",
+      "hint": "Look for: something you aim at, something shiny, something that burns, something with wings, something clear and geometric, and something you wear on your face."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      8,
+      20,
+      18
+    ]
   }
 }
