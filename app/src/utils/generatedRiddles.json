@@ -17170,5 +17170,23 @@
       4,
       21
     ]
+  },
+  "sol_800": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers spin in cosmic grace. The jester's twin flame leaps through prisms bent, while scaled wisdom guards the treasure's scent. In petaled dreams and glittering dust they dwell, where chaos rolls and fortune's secrets tell.",
+      "hint": "One marks the bullseye, one ignites the dream, one mirrors madness, one guards extreme. One blooms eternal, one shimmers bright—seek where laughter births the light."
+    },
+    "easyRiddle": {
+      "text": "I am six tokens of destiny's play: a target true, a joker's way, fire that dances, a dragon's might, a flower's bloom, and sparkles bright. What am I?",
+      "hint": "Look for the archer's mark, the trickster's grin, the dancing flame, the scaled kin, the petal's call, and shimmering light."
+    },
+    "answer": [
+      0,
+      19,
+      5,
+      13,
+      14,
+      10
+    ]
   }
 }
