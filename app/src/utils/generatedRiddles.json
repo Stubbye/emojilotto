@@ -17368,5 +17368,23 @@
       4,
       14
     ]
+  },
+  "sol_810": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin flames dance with ethereal grace—seek the gemstone born of heaven's tears, guarded by the scaled sentinel of dreams. Six ethereal witnesses gather: the marked circle of destiny, the vessel of ascension, the crystalline fortune, the pale goddess watching, the serpent of ancient magic, and the seven-hued bridge of hope.",
+      "hint": "One grants passage upward, one gleams with inner fire, one reflects the cosmos, one coils in legend, one crowns achievement, and one promises new beginnings."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: a target to aim true, a rocket to soar high, a gem that glimmers, the moon in night's sky, a dragon of power, and a rainbow of dreams.",
+      "hint": "Look for the bull's eye, the vessel of stars, the precious stone, the night guardian, the mythical beast, and the arc of color."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      9
+    ]
   }
 }
