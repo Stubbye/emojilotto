@@ -17314,5 +17314,23 @@
       20,
       18
     ]
+  },
+  "sol_807": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in shadow's game. The gem-crowned night ascends in gleam, while chaos strikes the jester's dream. Winged metamorphosis seeks the prize, beneath the dragon's ancient eyes.",
+      "hint": "Seek the marksman's domain, the burning sky, precious stone's glow, madness in cards, transformation's flight, and the serpent's lair."
+    },
+    "easyRiddle": {
+      "text": "One aims with precision, one burns with heat, one shines with worth, one wears the court's deceit, one transforms through stages, one guards with scales ancient. Find these six and claim your radiance.",
+      "hint": "Think of targets, fire, treasures, foolish games, butterfly changes, and dragons from myths."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      8,
+      14
+    ]
   }
 }
