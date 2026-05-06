@@ -17350,5 +17350,23 @@
       4,
       8
     ]
+  },
+  "sol_809": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six keepers of fate dance in twilight's choir. The jester's twin adorns the nocturnal throne, while crystal laughter echoes through prism's stone. Swift wings of metamorphosis kiss the archer's dream, and electric fury crowns the fortune's gleam.",
+      "hint": "One grants wishes, one marks destiny, one reflects light, one transforms, one rules the night, one strikes with power"
+    },
+    "easyRiddle": {
+      "text": "Find the target's purpose, the rocket's destination, the gem's sparkle, the moon's kingdom, the lightning's strike, and the dragon's fire. Six treasures await the worthy seeker.",
+      "hint": "Look for: aim, flight, shine, night, power, and ancient magic"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      14
+    ]
   }
 }
