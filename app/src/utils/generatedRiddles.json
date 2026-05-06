@@ -17260,5 +17260,41 @@
       20,
       18
     ]
+  },
+  "sol_805": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and twin masks of chaos meet the archer's seal. The serpent's treasure gleams beneath night's jeweled crown, while lightning splits the sacred circle's renown. Six destinies converge where gemstone light ignites the stage of fate's eternal flight.",
+      "hint": "Consider what shines in darkness, what performs in mystery, and what guides arrows toward destiny's threshold."
+    },
+    "easyRiddle": {
+      "text": "I contain a pointed aim, a soaring vessel, a precious stone, a sleeping sky, a striking force, and a dancing serpent. What lottery numbers am I?",
+      "hint": "Think of targets, space travel, valuable items, nighttime, electricity, and mythical creatures."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
+  },
+  "emlo_293": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, burning bright as I chase the jeweled prize. Fortune spins with theatrical flair, while nature's delicate wings dance through cosmic arcs of light. What six symbols unite in this memecoin prophecy?",
+      "hint": "Think of a rocket's journey: launch, destination, luck, spectacle, beauty, and cosmic wonder."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 💎 is treasure, 🌙 is the goal, 🎪 has fun, 🦋 flies free. Which six?",
+      "hint": "Count the emojis in the riddle itself - they're your answer!"
+    },
+    "answer": [
+      1,
+      9,
+      2,
+      3,
+      6,
+      8
+    ]
   }
 }
