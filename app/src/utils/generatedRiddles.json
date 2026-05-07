@@ -17494,5 +17494,23 @@
       13,
       10
     ]
+  },
+  "emlo_297": {
+    "hardRiddle": {
+      "text": "I chase the digital moon with lightning speed, my rocket fueled by gems and fire. When I dance with the dragon's sparkles, fortune strikes like a star. What am I?",
+      "hint": "Think of a journey to wealth through chaos and chance"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with fire and gems, guided by a rocket's gleam. Lightning brings the sparkles that make dreams. What path do we take?",
+      "hint": "Count the cosmic symbols: celestial body, propulsion, precious stone, energy, light, and fire"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      5,
+      9,
+      6
+    ]
   }
 }
