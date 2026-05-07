@@ -17530,5 +17530,41 @@
       14,
       13
     ]
+  },
+  "sol_818": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weep, a jester's twin souls dance through fractured deep. The scaled serpent guards what mortals seek, while nature's winged whisper makes the strong grow weak. In chaos' storm, a prism breaks the night—six sacred signs that blur the line of sight.",
+      "hint": "One points the way, one rules above, one laughs in masks, one crawls with love, one breathes in flame, one dares to fly."
+    },
+    "easyRiddle": {
+      "text": "I am six secrets hidden in the stars. Find the target true, the moon up high, the dragon bold, the fire that burns, the joker's grin, and the butterfly's sigh.",
+      "hint": "Look for symbols of aim, night, scales, warmth, tricks, and wings."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      5,
+      19,
+      8
+    ]
+  },
+  "emlo_298": {
+    "hardRiddle": {
+      "text": "I chase dreams to the celestial vault with fiery speed, my gem-like sparkles ignite the night. Fortune smiles on the bold—what six celestial dancers guide the memecoin pilgrim to diamond hands?",
+      "hint": "Think of the journey to wealth: speed, destination, treasure, luck, and the forces that propel them."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 💎 is precious, 🌙 watches above, ⚡ strikes fast, and 🔥 burns hot. Put them together for moon lambo luck!",
+      "hint": "These six symbols represent the ultimate crypto journey!"
+    },
+    "answer": [
+      1,
+      10,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
