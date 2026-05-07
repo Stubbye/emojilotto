@@ -17602,5 +17602,23 @@
       21,
       20
     ]
+  },
+  "emlo_299": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone treasure is all I need. Through rainbow waves I dance with fire, a lucky clover fuels my desire. What six celestial symbols guide my flight through the crypto night?",
+      "hint": "Think of a memecoin's journey: propulsion, value, movement, energy, fortune, and sparkle"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is valuable, ⚡ is fast, 🌙 is the goal, 🍀 is lucky, ✨ is magical. Name these six friends of the memecoin dream!",
+      "hint": "One goes to space, one shines bright, one strikes fast, one is green, one glitters, and one is silver"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      20,
+      10
+    ]
   }
 }
