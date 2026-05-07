@@ -17422,5 +17422,23 @@
       5,
       11
     ]
+  },
+  "sol_813": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the hunter's stealth—six secrets hide: one pierces the veil between worlds, one grants wishes upon crystalline night, one laughs in masks of deception, one blazes with untamed chaos, one strikes swift as vendetta's tongue, and one leaps between blooms on gossamer wings. What constellation of fate do these reveal?",
+      "hint": "Seek where luck, mischief, and nature's cunning converge in the darkness—one brings fortune, one brings fire, one brings folly."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a gem that glows in night's embrace, a creature of flame untamed, a jester's laugh at fate, a silver crescent dream, a hunter cloaked in red, and a dancer dressed in gold and black. Name them all.",
+      "hint": "Think of treasure, heat, trickery, the sky, cunning, and grace."
+    },
+    "answer": [
+      6,
+      14,
+      19,
+      3,
+      12,
+      8
+    ]
   }
 }
