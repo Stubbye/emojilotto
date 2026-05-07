@@ -17476,5 +17476,23 @@
       5,
       7
     ]
+  },
+  "sol_815": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate convene. The archer's mark gleams with stolen starlight, while twin serpents of chaos and fortune spiral through cosmic waves. Between them, wings of transformation flutter eternal, and crystal laughter echoes through the void. What six keepers guard the threshold between chaos and destiny?",
+      "hint": "Think of luck's symbols, celestial bodies, mythical creatures, and transformation itself"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await: one marks the target, one burns bright from above, one sparkles like jewels, one flies with delicate wings, one coils with ancient power, and one shatters into infinite light. Find them all.",
+      "hint": "A goal, a flame, a precious stone, a creature of air, a creature of legend, and pure radiance"
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      8,
+      13,
+      10
+    ]
   }
 }
