@@ -17584,5 +17584,23 @@
       3,
       18
     ]
+  },
+  "sol_820": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate converge. The serpent of fortune coils beneath the archer's mark, while winged metamorphosis dances with electric whispers. A gemstone catches starlight's eternal flame, and where the spectrum bends, destiny's crystal echo sings.",
+      "hint": "One flies upward, one hunts wisdom, one transforms, one shines bright, one glows within, and one refracts all light."
+    },
+    "easyRiddle": {
+      "text": "I aim at targets, I leap to the moon, I sparkle like gems, I dance with dragons, I shine with stars, and I gleam like crystals. What six treasures complete this fortune's tale?",
+      "hint": "Think of luck, dreams, wealth, magic, destiny, and clarity."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      21,
+      20
+    ]
   }
 }
