@@ -17620,5 +17620,23 @@
       20,
       10
     ]
+  },
+  "sol_822": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone gleams beneath the jester's grin. The winged dancer pirouettes through storms of brilliance, while the scaled serpent guards the melody of fate. Six whispers in the void—which constellation claims your destiny?",
+      "hint": "One pierces direction, one crowns the night, one sparkles with worth, one laughs at chaos, one floats on air, one breathes ancient power."
+    },
+    "easyRiddle": {
+      "text": "A target glows, a gem shines bright, a joker grins, a dragon takes flight, a butterfly dances, and lightning strikes—together they hold your lucky night.",
+      "hint": "Look for: something you aim at, something precious, something that laughs, something mythical, something that flies gracefully, and something that crackles."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      13,
+      7,
+      4
+    ]
   }
 }
