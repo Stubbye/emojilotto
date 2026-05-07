@@ -17512,5 +17512,23 @@
       9,
       6
     ]
+  },
+  "sol_817": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's twin mask reflects infinite light through fractured prisms. The archer's ambition meets the serpent's ancient wisdom, while petals of earth bloom beneath the jester's chaotic grin. What six visions shimmer when destiny's lightning strikes the crossroads of fate?",
+      "hint": "One guides from above, one deceives from within, one shatters all, one soars with wings, one blooms eternal, and one laughs at chaos"
+    },
+    "easyRiddle": {
+      "text": "I point you true, I rise so high, I sparkle bright, I trick the eye, I flutter free, and laughter rings. Count these six magical things.",
+      "hint": "Aim for the sky, seek the jester, find the gem, watch the butterfly, follow the star, and listen to the dragon's roar"
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      8,
+      14,
+      13
+    ]
   }
 }
