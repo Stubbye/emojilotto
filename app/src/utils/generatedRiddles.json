@@ -17386,5 +17386,41 @@
       13,
       9
     ]
+  },
+  "sol_812": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleaming heart, and the jester's masked grin spins between chaos and destiny's electric arc. Six whispers converge: the archer's distant aim meets the precious stone's eternal flame, while masked revelry swirls with crystal clarity beneath the trickster's crimson smile.",
+      "hint": "Consider what plays, what burns, what guides, what glimmers, what mocks, and what targets. One marks precision, one embodies chaos, one adorns royalty, one grants passage, one entertains, one seeks."
+    },
+    "easyRiddle": {
+      "text": "A gem that sparkles, a target so true, a joker that grins, and fire burns blue. Lightning strikes fast, and masks hide the face. These six lucky numbers will win you the race!",
+      "hint": "Look for: something precious, something aimed at, something playful, something hot, something fast, and something theatrical."
+    },
+    "answer": [
+      2,
+      0,
+      11,
+      5,
+      4,
+      18
+    ]
+  },
+  "emlo_295": {
+    "hardRiddle": {
+      "text": "I fuel the hype with electric might, chase celestial dreams in the dead of night. Gems sparkle as I climb ever higher, while fortune's dance ignites the fire. A jester's luck meets cosmic fate, what six symbols seal my gate?",
+      "hint": "Think about the journey of a memecoin to the moon, the tools of fortune, and the energy required."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up with a lightning strike, shines bright like a gem so nice. The moon is calling, fire burns hot, a joker deals fortune's dice. What six emojis complete this plot?",
+      "hint": "One goes up fast, one is shiny, one is in the sky, one is hot, one is silly, and one determines luck."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11
+    ]
   }
 }
