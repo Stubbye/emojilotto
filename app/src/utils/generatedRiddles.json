@@ -17440,5 +17440,41 @@
       12,
       8
     ]
+  },
+  "sol_814": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six sentinels await in chromatic fire. The archer's mark meets swift ascension's flame, while precious lustration crowns the seeker's claim. Winged metamorphosis spirals through radiant arc, as thunderous destiny pierces the dark. In this cryptic arrangement, chaos meets fate—which six illuminate the gate?",
+      "hint": "Consider the journey from ground to sky, transformation through elements, and the price of wishes."
+    },
+    "easyRiddle": {
+      "text": "A gem shines bright, a rocket takes flight, lightning strikes with all its might. A butterfly transforms in rainbow's delight, while a star burns forever in night. Which six together complete this sight?",
+      "hint": "Think of precious things, speed, energy, beauty, and light."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      21
+    ]
+  },
+  "emlo_296": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my gems sparkle as I ride the electric surge, dancing through the cosmic fire with fortune's luck, where jesters juggle under the big top of dreams.",
+      "hint": "Think of a memecoin's journey: destination, propulsion, value, goal, power, and luck."
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts toward 🌙, carrying 💎 powered by ⚡ and 🔥, while 🎪 celebrates the win.",
+      "hint": "This is the memecoin saga: launch, moon, treasure, energy, heat, and party."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      7
+    ]
   }
 }
