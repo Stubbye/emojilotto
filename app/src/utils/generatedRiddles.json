@@ -17566,5 +17566,23 @@
       4,
       5
     ]
+  },
+  "sol_819": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's mask grins beneath the moon's silver gaze. The dragon's treasure gleams in chaos' rhythm, while masked revelry spins eternal. Six secrets hide where laughter and destiny intertwine—seek the performer's domain where wings of metamorphosis flutter through prismatic dreams.",
+      "hint": "Consider the threshold between chaos and spectacle, where trickery meets the heavens, and transformation blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "A silly performer grins in costume, fire meets the stars above, a dragon guards jewels, and butterflies dance through the big top's magic circle.",
+      "hint": "Think of a circus under the night sky with magical creatures and precious things."
+    },
+    "answer": [
+      7,
+      1,
+      13,
+      21,
+      3,
+      18
+    ]
   }
 }
