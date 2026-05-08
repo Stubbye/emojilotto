@@ -17746,5 +17746,23 @@
       21,
       11
     ]
+  },
+  "sol_827": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six sentinels dance between chaos and grace. The winged trickster pirouettes through prismatic breath while lightning crowns the nocturnal sphere. A glittering shard reflects what mortals chase, as the masked jester conducts beneath the big tent's embrace.",
+      "hint": "One soars on fortune's stage, one illuminates night's cage, one crackles with change, one adorns what cannot range, one masks truth's display, one spreads wings to stray."
+    },
+    "easyRiddle": {
+      "text": "I bring luck to gamblers' hands, I light the darkest night, I crackle with raw power bright, I sparkle like fortune's best, I hide behind false jest, I flutter without ever walking.",
+      "hint": "Think of dice, moon, electricity, gems, performers, and insects."
+    },
+    "answer": [
+      11,
+      4,
+      5,
+      21,
+      19,
+      8
+    ]
   }
 }
