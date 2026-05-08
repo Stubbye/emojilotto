@@ -17926,5 +17926,23 @@
       5,
       10
     ]
+  },
+  "sol_835": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in shadow's game. The jester's grin reflects in crystal's song, while wings of transformation drift along. A bolt of fate through prismatic mist, where luck and chaos gently kissed.",
+      "hint": "One marks the goal, one ignites desire, one amplifies truth, one breaks free from the wire, one holds all answers, one wears the grin."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols reveal the way: an archer's mark, lightning's display, a joker's smile, a crystal bright, a butterfly soaring in gleaming light, and sparkling magic in the night.",
+      "hint": "Look for: target, lightning, joker, crystal, butterfly, and sparkles"
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      20,
+      8,
+      10
+    ]
   }
 }
