@@ -17764,5 +17764,41 @@
       19,
       8
     ]
+  },
+  "sol_828": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of secrets align. The archer's mark meets the serpent's wisdom, while petals bloom beneath the jester's gaze. Lightning writes in a language only the night understands, and fortune spins where chaos and grace converge.",
+      "hint": "Consider the marriage of chance and celestial bodies, where mythical power meets nature's delicate beauty."
+    },
+    "easyRiddle": {
+      "text": "Find the dragon's treasure: a target struck by lightning, a gem beneath the moon's glow, a joker holding all the cards.",
+      "hint": "Look for mythology, chance, and the sky itself."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      18
+    ]
+  },
+  "emlo_302": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere with electric speed, seeking crystalline treasures that make portfolios gleam. Where luck dances with chaos and fortune takes flight, six symbols reveal the memecoin's true might.",
+      "hint": "Think of a journey to riches: ascent, volatility, precious rewards, chance, mystical luck, and celestial destination"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with rocket power! Lightning fast trades seek gem rewards. Roll the dice for lucky fortune!",
+      "hint": "Rocket goes up, lightning is fast, gems are valuable, dice means luck, moon is the destination, and one more for good fortune"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      11,
+      20,
+      22
+    ]
   }
 }
