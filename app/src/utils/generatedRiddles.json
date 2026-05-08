@@ -17890,5 +17890,41 @@
       11,
       4
     ]
+  },
+  "sol_834": {
+    "hardRiddle": {
+      "text": "Through celestial veils where fortune's arrows pierce, six dancers waltz in chromatic mist. The jester's twin flames consume the velvet night, while crystalline tears fall upon petals unknown. Where winged metamorphosis meets the serpent's ancient throne, and fortune's cubes surrender to destiny's song.",
+      "hint": "Seek the intersection of chaos and grace, where luck is both gemstone and flame."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that fly through night's purple haze. Add the gem that sparkles, the flame that purifies, the flower that blooms eternal, and the dragon that guards all treasure.",
+      "hint": "One shoots straight, one burns bright, one shines precious, one grows wild, and one watches over everything."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      6,
+      15,
+      14
+    ]
+  },
+  "emlo_304": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking treasures that sparkle brilliantly. Fortune favors the bold who chase my magical journey through cosmic fire.",
+      "hint": "Think of a memecoin's journey: launching, reaching goals, gaining value, and the energy behind the movement."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up like a 🚀, shines like a 💎, reaches the 🌙, with ⚡ speed and 🔥 energy, bringing ✨ magic.",
+      "hint": "This describes the classic memecoin success story in order."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10
+    ]
   }
 }
