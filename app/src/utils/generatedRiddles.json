@@ -17818,5 +17818,23 @@
       8,
       9
     ]
+  },
+  "sol_830": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound dreams, six keepers of fate converge. The archer's mark meets the void's silver eye, while twin serpents of chaos and transformation intertwine. Between them, the jester's masked grin and the crystalline prism of eternity's whisper. Fortune's crown watches as nature's delicate wings flutter through the storm's electric breath.",
+      "hint": "Think of destiny, the night sky, trickery, transformation, victory, and nature's fragile beauty in tempest."
+    },
+    "easyRiddle": {
+      "text": "I need six symbols for luck: one shows your aim, one lights the night sky, one grins with secrets, one soars with ancient power, one transforms with grace, and one sparkles with frozen light.",
+      "hint": "Target, moon, joker, dragon, butterfly, crystal"
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      13,
+      14,
+      20
+    ]
   }
 }
