@@ -17800,5 +17800,23 @@
       20,
       22
     ]
+  },
+  "sol_829": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a gem of celestial fire dances with nature's winged metamorphosis. Thunder's kiss ignites the prismatic bridge of hope, while masked souls juggle fate's eternal wheel beneath the big top's watchful eye.",
+      "hint": "One guides aims, one watches from above, one glimmers, one electrifies, one transforms, one entertains."
+    },
+    "easyRiddle": {
+      "text": "Aim high with the archer's mark, gaze upon the night guardian, find brilliance in stone, feel the sky's violent kiss, witness delicate wings in flight, and dance under the spectrum's arch.",
+      "hint": "Target, moon, gem, lightning, butterfly, and rainbow walk into a lottery together."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      8,
+      9
+    ]
   }
 }
