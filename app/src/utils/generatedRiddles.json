@@ -17674,5 +17674,23 @@
       6,
       9
     ]
+  },
+  "sol_824": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's thread, six secrets dance in chromatic fire. The jester's grin echoes through chambers of crystalline fate, while winged metamorphosis pirouettes beneath the thunderous crown. In this confluence of chaos and brilliance, luck births its own constellation.",
+      "hint": "Seek the intersection of games, transformation, and otherworldly power. One brings laughter, one brings wings, one illuminates the void."
+    },
+    "easyRiddle": {
+      "text": "A target points the way, a dragon guards the sky, lightning strikes with fury bright. A joker grins with mischief, a butterfly floats on high, and a star shines through the night. Six symbols hold the key—can you name them all?",
+      "hint": "Look for: precision, mythology, electricity, amusement, nature's dancer, and celestial light."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      19,
+      8,
+      21
+    ]
   }
 }
