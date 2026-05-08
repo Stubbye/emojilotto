@@ -17728,5 +17728,23 @@
       3,
       9
     ]
+  },
+  "sol_826": {
+    "hardRiddle": {
+      "text": "Where fortune's winged guardian dances with celestial fire, through prismatic tears the jester's laughter echoes. Six keepers of destiny: one pierces the veil between worlds, one blooms eternal in shadow's garden, one crackles with the fury of storm-birth, one reflects all colors yet holds none, one glitters with the dust of wishes, and one marks the threshold where chaos meets design.",
+      "hint": "Think of transformation, luck, and the elements that govern chance itself. One messenger, one deceiver, one natural bloom, one crystalline truth, one chaotic chance, one wild trickster."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and wonder: a trickster who wears many faces, a wise creature of cunning grace, a spark that dances in the night, a blossom that knows no season, a gem that holds the rainbow's soul, and the bones of chance itself.",
+      "hint": "Joker, fox, lightning, flower, crystal, dice - all symbols of fate and fortune in games of luck."
+    },
+    "answer": [
+      19,
+      13,
+      5,
+      15,
+      21,
+      11
+    ]
   }
 }
