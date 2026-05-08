@@ -17692,5 +17692,41 @@
       8,
       21
     ]
+  },
+  "sol_825": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the jester's grin meets the night's sovereign sphere. Six threads bind: the archer's eternal mark, the velocity of dreams ascending, the crystallized fragments of starlight captured, the tempest's electric whisper, the masked revelry of souls, and the creature of cunning scarlet fur. What do the chosen six conceal?",
+      "hint": "Think of luck, speed, treasure, weather, performance, and nature's trickster"
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance in fortune's game: One marks the aim, one flies up high, one sparkles bright, one strikes with might, one hides behind a mask, and one prowls through the dark. Name these six.",
+      "hint": "Target, Rocket, Gem, Lightning, Masks, Fox"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      4,
+      13
+    ]
+  },
+  "emlo_301": {
+    "hardRiddle": {
+      "text": "A trickster's gamble shoots for lunar dreams, where gems ignite with electric fire and fortune strikes like lightning. What six celestial symbols guide the memecoin whale through chaos and wonder?",
+      "hint": "Look for the jester, the gem, the rocket, the storm, the moon, and the spark of destiny."
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket with gems so bright, lightning fast under starlight. The joker laughs as sparkles ignite. Name these six signs of crypto delight!",
+      "hint": "One is a jester, one shines like stone, one launches us high, one strikes like a phone, one lights the sky, one sparkles alone."
+    },
+    "answer": [
+      8,
+      2,
+      1,
+      4,
+      3,
+      9
+    ]
   }
 }
