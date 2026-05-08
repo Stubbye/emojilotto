@@ -17836,5 +17836,41 @@
       14,
       20
     ]
+  },
+  "sol_831": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six dancers twirl through cosmic space. The prism bleeds its fractured light, while scaled serpent guards the night. In silent revels, masked desires spin—the jester's laugh, the fox's grin. What six celestial tokens align when fate's wheel trembles at the shrine?",
+      "hint": "Seek the hunter, the dreamer, the spectrum's child, the ancient wyrm, the trickster wild, and the crystal's twin in nature's vault."
+    },
+    "easyRiddle": {
+      "text": "I point where you aim, I soar through the sky, I sparkle and shine, I dance way up high. A creature most cunning, a beast of old lore, and beauty in facets—just count up to four. What am I?",
+      "hint": "Think of targets, rockets, stars, gems, dragons, and clever animals."
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      13,
+      12,
+      20
+    ]
+  },
+  "emlo_303": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, where gems sparkle in the void. Lightning strikes fortune's wheel, and a jester's magic multiplies chaos into riches. What 6 symbols guide the diamond-handed to victory?",
+      "hint": "Think of a memecoin's journey: propulsion, destination, wealth, chance, electricity, and the trickster's smile."
+    },
+    "easyRiddle": {
+      "text": "A coin flies up fast with a spark and a laugh. You'll find shiny stones, lucky wheels, and bright flashes. What are the 6 lucky symbols?",
+      "hint": "Rocket, Moon, Gem, Lightning, Dice, Joker"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      11,
+      13
+    ]
   }
 }
