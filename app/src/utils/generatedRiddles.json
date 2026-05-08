@@ -17872,5 +17872,23 @@
       11,
       13
     ]
+  },
+  "sol_832": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's wheel, and nature's winged metamorphosis meets the jester's gaze. The archer's mark gleams eternal, while the serpent of thunder crowns the gemstone's sacred fire. Through prism's gate, seven hues blend where trickster and transformer align.",
+      "hint": "Seek the convergence of luck, magic, and celestial theater—six entities bound by chance and chaos."
+    },
+    "easyRiddle": {
+      "text": "I contain a bright target, a laughing joker, a flying butterfly, a roaring dragon, a glowing gem, and a crackling lightning bolt. Together we spin the wheel of fortune.",
+      "hint": "Six symbols dance in the lottery's cosmic game."
+    },
+    "answer": [
+      0,
+      8,
+      12,
+      14,
+      11,
+      4
+    ]
   }
 }
