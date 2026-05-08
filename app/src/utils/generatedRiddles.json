@@ -17944,5 +17944,23 @@
       8,
       10
     ]
+  },
+  "sol_836": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial thief, a jeweled serpent coils through midnight's brief. The jester's masked deception dances with flame, while nature's winged phantom seeks its name. Six symbols bind the seeker's claim.",
+      "hint": "Consider celestial bodies, mythical creatures, and the tools of chance and performance."
+    },
+    "easyRiddle": {
+      "text": "I contain a target of precision, a moon that watches from above, a dragon of ancient wisdom, fire that consumes, a joker's theatrical mask, and a butterfly seeking transformation. Find all six to claim your prize.",
+      "hint": "Look for: an archer's mark, night sky, legendary beast, flame, trickster, and wings."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      5,
+      18,
+      8
+    ]
   }
 }
