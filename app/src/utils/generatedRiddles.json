@@ -17638,5 +17638,41 @@
       7,
       4
     ]
+  },
+  "sol_823": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the gemstone's glow, through fortune's gate the swift messenger flows. The jester's grin dances where prismatic light bends, and scaled majesty guards the treasure that ascends.",
+      "hint": "Seek the heavens' explosive path, the court's wild card, and what slithers between realms of wealth and wonder."
+    },
+    "easyRiddle": {
+      "text": "One burns bright above, one jewel catches the eye, one carries wishes through the sky. The fool makes us laugh, the beast with scales reigns, and rainbows arch where fortune's light rains.",
+      "hint": "Think of night skies, precious things, fast journeys, silly characters, mythical creatures, and colorful arcs."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      13,
+      14,
+      9
+    ]
+  },
+  "emlo_300": {
+    "hardRiddle": {
+      "text": "I launch to the lunar destination with electric speed, seeking gemstones that sparkle like fire. The joker dances as fortune strikes—what six symbols mark this memecoin's wild journey?",
+      "hint": "Think of a crypto journey: destination, speed, treasure, luck, chaos, and fortune"
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon carrying gems and lightning. Fire sparkles everywhere! What six emojis show this exciting memecoin adventure?",
+      "hint": "Space travel, shiny things, electricity, heat, and magic"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      6,
+      9
+    ]
   }
 }
