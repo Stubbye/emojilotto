@@ -18070,5 +18070,41 @@
       4,
       13
     ]
+  },
+  "sol_842": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six phantoms dance through prismatic desire. The jester's twin gleams in crystalline night, while winged metamorphosis births radiant light. Thunder's embrace crowns the stage of illusion, and nature's sweet bloom ends this riddled confusion.",
+      "hint": "Think of performers, mythical beings, and transformation. One guides you, one electrifies, one glitters, one plays tricks."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the lightning's crack, the fool who grins, the butterfly's track, the crystal that glows, and the flower's bloom.",
+      "hint": "A carnival, a storm, a gem, a transformation, a mark to hit, and nature's beauty."
+    },
+    "answer": [
+      0,
+      5,
+      12,
+      8,
+      20,
+      14
+    ]
+  },
+  "emlo_307": {
+    "hardRiddle": {
+      "text": "I start where ambition ignites the sky, powered by electric dreams that never die. Precious and gleaming, I'm sought by the bold. To reach my destination, fortune and luck must take hold. When chaos strikes like a jester's game, I sparkle with magic—that's my claim to fame.",
+      "hint": "Think of a journey to wealth: starting fuel, destination, treasures, volatility, luck, and dazzle."
+    },
+    "easyRiddle": {
+      "text": "🚀 takes me high, ⚡ makes me wild, 💎 is what I hold, 🌙 is my goal, 🎪 makes it fun, ✨ makes me shine!",
+      "hint": "A memecoin adventure needs speed, power, value, dreams, entertainment, and magic."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      6,
+      9
+    ]
   }
 }
