@@ -18052,5 +18052,23 @@
       8,
       20
     ]
+  },
+  "sol_841": {
+    "hardRiddle": {
+      "text": "Where celestial fortune spins in twilight's embrace, six harbingers of fate converge. The archer's mark meets the void's dance, while thunder's child whispers secrets to the prism of dreams. Where laughter masks truth and scaled destiny takes flight, the bloom of chaos sings its ancient song beneath the watchful jeweled eye.",
+      "hint": "Think of games of chance meeting cosmic destiny—one seeks, one ascends, one illuminates, one deceives, one transforms, one radiates."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in shadow: Something you aim for, something that flies fast, something that shines bright like ice, something in the night sky, something that strikes quick, and something that rules the sky with scales.",
+      "hint": "Look for: a target, a rocket, a gem, a moon, lightning, and a dragon."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
