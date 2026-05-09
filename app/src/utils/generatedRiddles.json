@@ -18142,5 +18142,23 @@
       19,
       4
     ]
+  },
+  "sol_845": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weeper, and the serpent of storms dances with the winged aurora's painter. Beneath the jester's gaze, the fortune bones rest silent. Six tokens of fate converge: the bull's-eye of ambition, the void's silver sentinel, the serpent of old wisdom, the messenger of chaos, the palette of creation's spectrum, and the bones of chance.",
+      "hint": "One pierces intent, one hangs above, one slithers through legend, one strikes twice, one colors dreams, one rolls destiny."
+    },
+    "easyRiddle": {
+      "text": "I am seeking six treasures: a point of aim, a guard of night, a wise scaled creature, a wild trickster, a maker of hues, and a game of uncertainty. Which six symbols complete this fortune's song?",
+      "hint": "Think of: what you shoot at, what glows at night, what hoards gold, who plays tricks, what makes color, and what gambles fate."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      11,
+      22,
+      10
+    ]
   }
 }
