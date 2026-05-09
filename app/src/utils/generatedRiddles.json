@@ -17962,5 +17962,41 @@
       18,
       8
     ]
+  },
+  "sol_837": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentinels of fate converge in fortune's trance. The archer's mark aligns with heaven's pale empress, while winged metamorphosis ignites through prismatic caress. Lightning's twin speaks in crystalline whisper, as stellar brilliance crowns the jester's glittering lisper.",
+      "hint": "Seek the intersection of ambition, night, transformation, electricity, gemstone clarity, and chaos masked in merriment."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck: the target you aim for, the moon that guides night travelers, the lightning that strikes swift, the gem that sparkles bright, the star that wishes upon, and the joker that tricks the eye.",
+      "hint": "One represents goals, one is celestial, one is electric, one is precious, one is cosmic light, and one is mischief."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      5,
+      21,
+      19
+    ]
+  },
+  "emlo_305": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles with pure greed. Through fires of hype and rocket dreams, I make the diamond dancer gleam. A trophy for the bold and sly, where butterflies and dragons fly.",
+      "hint": "Think of a memecoin's journey: launch, hype, moonshot, and the magical creatures that represent risk-takers."
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with explosive power, reach the celestial prize in your finest hour. Sparkle and shine like a precious stone, with butterfly luck when you're all alone.",
+      "hint": "A successful memecoin needs lift-off, celestial destiny, glitter, and fortune."
+    },
+    "answer": [
+      1,
+      19,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
