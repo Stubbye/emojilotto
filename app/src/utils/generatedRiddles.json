@@ -18268,5 +18268,23 @@
       19,
       18
     ]
+  },
+  "sol_852": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune, six dancers of fate converge. The archer's goal gleams crystalline, while thunder's twin ignites the void. A nocturnal sentinel watches over the jester's mischievous grin, as nature's smallest acrobat pirouettes between worlds of prism and chaos.",
+      "hint": "One brings luck, one brings light, one brings laughter, one brings speed, one brings beauty, one brings fortune's target."
+    },
+    "easyRiddle": {
+      "text": "Find the circle that marks the prize, the bolt that strikes quick, the stone that sparkles bright, the night sky's guardian, the fool's companion, and the creature of metamorphosis dancing through color.",
+      "hint": "Think of luck, speed, wealth, night, tricks, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      3,
+      19,
+      8
+    ]
   }
 }
