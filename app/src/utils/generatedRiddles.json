@@ -18160,5 +18160,41 @@
       22,
       10
     ]
+  },
+  "sol_846": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the weaver's prism, and fortune's jester guards the threshold between realms—seek the archer's mark where chaos dances with brilliance, while the nocturnal orb witnesses the metamorphosis of wings and the crystalline song of strings.",
+      "hint": "One points the way, one ignites destiny, one bends light, one rules night, one transforms beauty, one creates harmony."
+    },
+    "easyRiddle": {
+      "text": "I contain an archer's circle, a burning force, a gemstone's glow, a night guardian, a winged dancer, and a musical instrument's voice.",
+      "hint": "Think of: aiming, heat, shine, moon, change, and melody."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      8,
+      16
+    ]
+  },
+  "emlo_308": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar sphere, where sparkling gems ignite with electric fortune and dancing flames reflect in crystal waters of destiny.",
+      "hint": "Think of a wild night of crypto gains: the person, the direction, the treasure, the destination, the energy, and the brilliance."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 with 🚀, the 💎 shines bright, ⚡ strikes with 🔥, and ✨ celebrates the win!",
+      "hint": "A memecoin's journey: who leads it, where it goes, what it promises, what powers it, and what marks success."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
