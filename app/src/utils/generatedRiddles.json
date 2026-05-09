@@ -18250,5 +18250,23 @@
       6,
       10
     ]
+  },
+  "sol_851": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's smile, the jester's twin gleams eternal. Through crystalline depths, the winged wanderer seeks what the archer's circle cannot claim. Six tokens of destiny: the night's pale guardian, the bolt that shatters stillness, the gemstone of inner light, the checkered sphere of chaos, the emerald charm of providence, and the mask of mirth that reveals truth in laughter.",
+      "hint": "One rules the void, one breaks silence, one catches light, one decides fate, one whispers luck, one performs deception."
+    },
+    "easyRiddle": {
+      "text": "I shine above in darkness deep. A bolt strikes fast, no time for sleep. A gem that glows with inner fire. A die rolls forth, what we desire. A four-leaf charm of fortune's grace. A joker's grin upon their face.",
+      "hint": "Think of night, electricity, treasure, games, luck, and laughter."
+    },
+    "answer": [
+      4,
+      5,
+      1,
+      11,
+      19,
+      18
+    ]
   }
 }
