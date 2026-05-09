@@ -17998,5 +17998,41 @@
       5,
       8
     ]
+  },
+  "sol_839": {
+    "hardRiddle": {
+      "text": "Where celestial wanderers dance with fortune's flame, six keepers of fate convene. The archer's mark meets the void's eternal gaze, while twin serpents of chaos and grace entwine. A prismatic veil shrouds the jester's domain, and fortune's crystalline heart beats beneath the performer's tent.",
+      "hint": "Consider what chases dreams, what watches from above, what brings luck, what entertains, what sparkles with power, and what turns chance into destiny."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of luck: one you shoot for, one lights the night sky, one glimmers with worth, one brings fortune's twist, one guards the spotlight's madness, and one crowns the victor.",
+      "hint": "Think of a goal, the moon, precious things, randomness, performance, and winning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      18,
+      17
+    ]
+  },
+  "emlo_306": {
+    "hardRiddle": {
+      "text": "To the 🌙 we aim with 🚀 speed, where 💎 rewards those who believe. ⚡ strikes fast, 🔥 burns bright, and 🌈 marks the lambo in sight. Which six guide the moonbound flight?",
+      "hint": "Think of a memecoin's journey to success: destination, vehicle, treasure, power, energy, and promise."
+    },
+    "easyRiddle": {
+      "text": "Rockets go 🚀 to reach the 🌙. Diamonds 💎 shine bright. Lightning ⚡ is fast. Fire 🔥 is hot. Rainbows 🌈 are colorful. What six emojis complete the memecoin dream?",
+      "hint": "Say each emoji name out loud in order!"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
