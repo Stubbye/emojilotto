@@ -18034,5 +18034,23 @@
       5,
       9
     ]
+  },
+  "sol_840": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin masks dance upon the threshold between chaos and grace. The serpent of storms coils beneath a prism of dreams, while nature's winged poet flutters through scattered brilliance—all converging where earthly treasures gleam in prismatic light.",
+      "hint": "One guides the path, one rules the night, one brings the show, one brings the might. A creature with scales, a creature with wings, and gems that shimmer with countless things."
+    },
+    "easyRiddle": {
+      "text": "I point the way with sharpened aim. The night sky holds my glowing flame. A jester grins in doubled face. A dragon soars through cosmic space. A butterfly seeks flowers bright. And crystals sparkle in the light.",
+      "hint": "Think of aim, night, entertainment, mythical creatures, insects, and precious stones."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      13,
+      8,
+      20
+    ]
   }
 }
