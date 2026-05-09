@@ -18196,5 +18196,23 @@
       4,
       10
     ]
+  },
+  "sol_848": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels await in cosmic trance. The archer's mark burns bright above, while winged metamorphosis speaks of love. A jester's gleam and dragon's might, crowned by the crescent's silver light.",
+      "hint": "Think of targets, transformations, and nocturnal royalty. One burns, one transforms, one rules the night."
+    },
+    "easyRiddle": {
+      "text": "Find the target that never misses, the creature that changes and blisses, the joker who laughs, the dragon who thrashes, the moon that glows, and the fire that flashes.",
+      "hint": "Target, Butterfly, Joker, Dragon, Moon, Fire"
+    },
+    "answer": [
+      0,
+      8,
+      19,
+      14,
+      3,
+      6
+    ]
   }
 }
