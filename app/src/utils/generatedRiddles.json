@@ -18286,5 +18286,23 @@
       19,
       8
     ]
+  },
+  "sol_853": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic veils, the jester's twin masks mirror fortune's wheel. A winged soul pirouettes 'round fortune's crown, while nature's bloom bleeds crimson against the vault of eternity. Six pieces converge in the amphitheater of chance—seek the archer's mark through thunder's veil.",
+      "hint": "One guides, one ascends, one glimmers, one performs, one transforms, one crowns."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await: the aim you seek, the ascent you crave, the jewel that shines, the jest that mocks, the wings that soar, and the spark that crowns all luck.",
+      "hint": "Target, rocket, gem, joker, butterfly, and one more prize."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      12,
+      8,
+      21
+    ]
   }
 }
