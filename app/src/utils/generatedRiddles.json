@@ -18124,5 +18124,23 @@
       1,
       8
     ]
+  },
+  "sol_844": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens converge in destiny's seal. The archer's mark meets the ascending flame, while gems catch starlight in fortune's game. The jester's grin and the fox's guile mask the thunderbolt's secret smile. What six forces align when fate takes aim?",
+      "hint": "Consider symbols of luck, ascension, trickery, and cosmic power intertwined."
+    },
+    "easyRiddle": {
+      "text": "I am a target and a rocket that climbs. A gem that shines and a star that chimes. A joker that grins and lightning so bright. Six lucky symbols that dance in the night.",
+      "hint": "Think of classic lottery symbols: aim, flight, wealth, light, mischief, and electricity."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      19,
+      4
+    ]
   }
 }
