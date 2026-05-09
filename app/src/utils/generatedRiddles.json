@@ -18214,5 +18214,23 @@
       3,
       6
     ]
+  },
+  "sol_849": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six sentinels of fate converge. The jester's grin guards destiny's threshold, whilst prismatic shards dance with celestial fire. Twin-winged serenity floats 'cross the bridge of storms, and nature's bloom crowns the spectral stage where luck performs its ancient masquerade.",
+      "hint": "Seek the court, the gem, the storm, the butterfly, the celestial body, and the colorful arc"
+    },
+    "easyRiddle": {
+      "text": "I contain a joker's face, a sparkling crystal, a butterfly in flight, a rainbow's grace, lightning's might, and the moon burning bright. What am I?",
+      "hint": "Think of six magical symbols that appear on a lottery ticket"
+    },
+    "answer": [
+      19,
+      21,
+      8,
+      3,
+      4,
+      9
+    ]
   }
 }
