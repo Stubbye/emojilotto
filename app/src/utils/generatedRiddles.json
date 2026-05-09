@@ -18106,5 +18106,23 @@
       6,
       9
     ]
+  },
+  "sol_843": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin wheels, and the trickster's grin meets the scaled guardian's realm, through prismatic gates of chance the butterfly ascends—six keepers of destiny converge where laughter echoes in the cathedral of stars, revealing the path between worlds of mirth and cosmic flame.",
+      "hint": "One spins fate, one breathes ancient wisdom, one wears two faces of revelry, one illuminates night's veil, one births spectrum's whisper, and one flutters between realities."
+    },
+    "easyRiddle": {
+      "text": "Find the dragon's fire under the joker's laughter, the dice of chance spinning near the moon's gaze, the butterfly dancing through the rainbow's gift, and the sparkles crowning the circus tent.",
+      "hint": "Three magical beings, two games of chance, one celebration of light."
+    },
+    "answer": [
+      5,
+      13,
+      11,
+      9,
+      1,
+      8
+    ]
   }
 }
