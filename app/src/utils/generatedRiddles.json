@@ -18340,5 +18340,41 @@
       11,
       19
     ]
+  },
+  "sol_855": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the trickster's grin reflects in crystalline depths, the winged metamorphosis seeks the archer's mark beneath the cosmic pearl. Six servants of chance convene where laughter echoes through striped halls of wonder.",
+      "hint": "One glows in night sky, one ignites chaos, one deceives with merriment, one transforms with grace, one measures fate's geometry, and one pierces the veil with electricity."
+    },
+    "easyRiddle": {
+      "text": "Find the moon that lights the night, the fire that burns bright, the joker who plays and tricks, the butterfly that transforms, the lightning that strikes fast, and the dice that rolls for luck.",
+      "hint": "Look for: a night sky object, something hot, a funny character, a flying insect that changes, electricity, and a gambling cube."
+    },
+    "answer": [
+      3,
+      5,
+      19,
+      8,
+      10,
+      11
+    ]
+  },
+  "emlo_311": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🚀 fueled by 💎 greed. When 🔥 strikes and ✨ ignites, the 🎯 shows gains of infinite heights. What am I?",
+      "hint": "Think of a memecoin's journey to astronomical profits"
+    },
+    "easyRiddle": {
+      "text": "Find the moon, rocket, gem, fire, sparkles, and target to win this lucky draw!",
+      "hint": "Look for symbols of wealth, speed, and fortune"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      5,
+      9,
+      0
+    ]
   }
 }
