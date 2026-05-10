@@ -18430,5 +18430,23 @@
       4,
       11
     ]
+  },
+  "sol_858": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six sentinels of fate conspire. The trickster grins beneath the gem's refracted light, while scaled wisdom guards the spectrum's flight. Thunder's kiss ignites the jester's call, and where the butterfly transcends them all.",
+      "hint": "One rules chance, one deceives, one glimmers bright, one roars ancient, one dances with electricity, and one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this lottery's dream: a marksman's goal, a cosmic gleam, a precious stone that catches fire, a masked performer and trickster's desire, a beast of legend in rainbow's arc, and wings that flutter through the dark.",
+      "hint": "Find: aim, sky, sparkle, play, magic, and change."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      13,
+      8
+    ]
   }
 }
