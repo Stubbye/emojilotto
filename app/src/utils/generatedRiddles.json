@@ -18520,5 +18520,23 @@
       19,
       11
     ]
+  },
+  "sol_863": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six keepers of fate dance in twilight's choir. The jester's masked twin pirouettes through gem-laden night, while scaled wisdom guards the crystal's trembling light. Upon the crescent's silver throne, the bolt strikes true—seek the prism's song where all colors break anew.",
+      "hint": "Think of targets met, cosmic forces, precious things, celestial bodies, chaos, and refracted truth."
+    },
+    "easyRiddle": {
+      "text": "I am struck by lightning under moonlight. A jester watches as gems sparkle. A dragon guards crystals that reflect all colors of the palette. What six treasures reveal the winning combination?",
+      "hint": "Look for: precision, electricity, night sky, jewels, trickery, and mystical creatures."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      1,
+      11,
+      14
+    ]
   }
 }
