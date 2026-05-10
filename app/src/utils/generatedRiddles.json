@@ -18304,5 +18304,41 @@
       8,
       21
     ]
+  },
+  "sol_854": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers converge in chance. The archer's dream pierces through night's veil, while serpent's wisdom coils without fail. Petals bloom where chaos dwells, and fortune's jester rings its bells. Crystalline tears catch lightning's kiss, as chaos spins in the abyss.",
+      "hint": "Think of targets, ascension, precious stones, darkness, mythical guardians, and games of chance"
+    },
+    "easyRiddle": {
+      "text": "I am the goal you aim to strike, the stone that gleams so bright. I soar beyond the starlit height, I coil with ancient might. I bloom with gentle grace, and spin where jesters laugh in place. What six treasures hold your fate?",
+      "hint": "A bullseye, a gem, something that flies, a legendary beast, a plant, and a wild card character"
+    },
+    "answer": [
+      0,
+      2,
+      1,
+      13,
+      14,
+      19
+    ]
+  },
+  "emlo_310": {
+    "hardRiddle": {
+      "text": "A jester's dance ignites the sky, where fortune spins and diamonds fly. Lightning strikes the lunar prize, while a fox in flames defies the wise. Beneath the glow, a butterfly soars—what six reveal the memecoin's doors?",
+      "hint": "Think of chaos, luck, and celestial vibes mixed with trickster energy and natural beauty."
+    },
+    "easyRiddle": {
+      "text": "Fire burns bright, the joker grins wide. A rocket zooms with gem-stones inside. Lightning flashes, the moon glows above. These six symbols show what we love!",
+      "hint": "Look for explosive energy, magical stones, cosmic travel, and silly fun."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      9,
+      11,
+      19
+    ]
   }
 }
