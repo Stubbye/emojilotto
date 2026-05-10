@@ -18610,5 +18610,41 @@
       4,
       20
     ]
+  },
+  "sol_868": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate converge. The winged metamorphosis dances betwixt the prism's arc, while tempestuous fury weds the jeweled throne beneath Luna's gaze. The crowned fool grins in the amphitheater of dreams, and where all paths spiral inward, the scale of destiny trembles.",
+      "hint": "Seek the symbols of transformation, chaos, and spectacle bound in cosmic theater."
+    },
+    "easyRiddle": {
+      "text": "One aims true with pointed grace, one soars beyond our space. One shimmers bright with precious light, one glows above at night. One laughs with crown in merry fright, one burns with wild and primal might.",
+      "hint": "Think of targets, space travel, gems, the moon, the joker, and fire."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      6
+    ]
+  },
+  "emlo_315": {
+    "hardRiddle": {
+      "text": "I launch ambitions to celestial heights, where gems sparkle in the darkness. Lightning strikes fortune while fire burns through volatility. The joker laughs as my crystal structure reflects a thousand possibilities.",
+      "hint": "Think of the journey from earth to cosmic wealth, with fortune and chaos as your companions."
+    },
+    "easyRiddle": {
+      "text": "What takes you to the moon, sparkles like gems, strikes like lightning, burns hot, makes you laugh like a joker, and shines like a crystal?",
+      "hint": "A path of six elements: destination, value, power, heat, humor, and clarity."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      20
+    ]
   }
 }
