@@ -18466,5 +18466,23 @@
       13,
       9
     ]
+  },
+  "sol_860": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances beneath the celestial sentinel, six whispers emerge: the archer's distant mark meets the phoenix's ascending tomb, while gemstone tears crystallize in prismatic arcs. The winged metamorphosis pirouettes through fortune's wheel, as thunderous destiny ignites the stage where all masks dissolve into luminescent dust.",
+      "hint": "Think of fate's players: one aims, one burns upward, one glimmers, one transforms, one sparks with chaos, and one reveals truth through spectacle."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck dance together: the joker plays a trick, the rocket reaches high, the gem shines bright, the butterfly floats free, the lightning strikes fast, and the sparkles celebrate victory.",
+      "hint": "A trickster, an upward journey, a treasure, a transformation, a flash of power, and shimmering celebration."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      8,
+      4,
+      10
+    ]
   }
 }
