@@ -18502,5 +18502,23 @@
       17,
       0
     ]
+  },
+  "sol_862": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, through prisms bent and fortune's lyre. The jester's grin beneath star's gleam, while lightning threads the dragon's dream. Upon the clover's sacred ground, in crystal chambers, luck is found.",
+      "hint": "Consider the symbols of chance, performance, sky, and precious things. What guides destiny?"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this lottery game: a mark to strike, a gem that gleams, a star that shines, a dragon's flame, a fool's laughter, and fortune's claim.",
+      "hint": "Think of targets, sparkles, magical creatures, cards, and what brings good luck."
+    },
+    "answer": [
+      0,
+      5,
+      21,
+      14,
+      19,
+      11
+    ]
   }
 }
