@@ -18592,5 +18592,23 @@
       13,
       16
     ]
+  },
+  "sol_867": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate converge in space. The jester's grin beneath celestial fire, a scaled leviathan of deep desire. Winged grace through prismatic tears, while crystalline fortune conquers all fears.",
+      "hint": "Look to the sky, the stage, and the depths. One grants wishes, one amplifies luck, one mirrors truth."
+    },
+    "easyRiddle": {
+      "text": "I point toward riches, I light the night sky. A dragon dreams, a fool laughs nearby. Lightning strikes bright, and crystal shines clear. Six lucky signs are waiting right here.",
+      "hint": "Find the target, the moon, the joker, the dragon, the lightning, and the crystal."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      13,
+      4,
+      20
+    ]
   }
 }
