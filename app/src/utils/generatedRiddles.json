@@ -18376,5 +18376,23 @@
       9,
       0
     ]
+  },
+  "sol_856": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's breath, six tokens of fate converge in shadow's theft. The archer's mark gleams with wealth untold, while thunder's child and the scaled beast of gold embrace the butterfly's delicate fold. In chaos' game, the jester grins, and where spectrum bends, destiny spins.",
+      "hint": "Seek the gleam, the storm, the winged grace, the ancient wyrm, the laughing face, and where colors fractured trace their place."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a target glows bright, lightning strikes with might, a dragon fierce and grand, a butterfly so light, a joker's playful hand, and a rainbow arched in light.",
+      "hint": "Look for: something you aim at, electricity, a mythical creature, something winged, a silly character, and colorful arc in sky."
+    },
+    "answer": [
+      0,
+      4,
+      13,
+      8,
+      19,
+      9
+    ]
   }
 }
