@@ -18448,5 +18448,23 @@
       13,
       8
     ]
+  },
+  "sol_859": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of destiny align: the archer's mark meets the void's silent glow, while trickster's grin embraces the storm's electric kiss. Crystalline brilliance and scaled eternity intertwine beneath the prismatic veil, where chance and chaos orchestrate their eternal waltz.",
+      "hint": "Think of targets, celestial bodies, chaos agents, and creatures of myth bound by enchanted gemstones and nature's light spectrum."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck hide in this verse: one points your aim true, one glows in night's caress, one sparkles with value, one grins with mischief, one roars with ancient scales, and one shimmers with many colors dancing together.",
+      "hint": "A target, the moon, a gem, the joker, a dragon, and a rainbow."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      13,
+      9
+    ]
   }
 }
