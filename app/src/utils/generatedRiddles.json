@@ -18394,5 +18394,41 @@
       19,
       9
     ]
+  },
+  "sol_857": {
+    "hardRiddle": {
+      "text": "Where fortune's arc bends through celestial flame, six symbols dance in destiny's game. The hunter's mark meets swift ascension, jeweled night whispers in silent ascension. Chaos born of thunder's kiss, and metamorphosis through rainbow's bliss.",
+      "hint": "Think of targets, speed, treasure, darkness, electricity, and transformation"
+    },
+    "easyRiddle": {
+      "text": "I point where to aim, I race to the sky, I sparkle with worth, I glow way up high, I strike with great power, I change with great grace. These six lucky symbols will light up this place.",
+      "hint": "A direction marker, a vehicle, something precious, the night guardian, weather fury, and nature's change"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_312": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my fuel burns bright with electric might. Gemstones sparkle as fortunes multiply, while chaos dances and luck defies the sky. A trickster grins beneath the glow, where rainbow paths and crystal currents flow.",
+      "hint": "Think of a memecoin's journey: launching upward, volatility, precious gains, randomness, and the magical feeling of winning big."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🚀 speed, 💎 treasures spark with 🔥 greed, ⚡ strikes while 🃏 plays the game.",
+      "hint": "Five symbols show a crypto dream: destination, vehicle, wealth, emotion, and unpredictability."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      11
+    ]
   }
 }
