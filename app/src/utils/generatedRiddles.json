@@ -18484,5 +18484,23 @@
       4,
       10
     ]
+  },
+  "sol_861": {
+    "hardRiddle": {
+      "text": "Where fortune's jester spins the wheel of fate, six celestial dancers waltz in moonlit state. The winged metamorphosis seeks the radiant crown, while serpent's ancient wisdom guards the gemstone town. Thunder's swift arrow pierces through the night, and prismatic arcs reflect the starlight. Silence speaks in crystals, music plays in flame—can you name the six that forge the lottery's claim?",
+      "hint": "One brings transformation, one rules the sky, one sings electric, one never lies. The crown awaits the worthy, and patterns hold the key."
+    },
+    "easyRiddle": {
+      "text": "I flutter with change, I rule up high, I sparkle with truth, I make thunder fly. A crown marks the victor, and crystal shows the way—six lucky symbols shine today.",
+      "hint": "Think of: wings, sky, gems, speed, victory, and clarity."
+    },
+    "answer": [
+      8,
+      21,
+      20,
+      4,
+      17,
+      0
+    ]
   }
 }
