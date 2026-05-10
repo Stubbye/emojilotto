@@ -18556,5 +18556,23 @@
       4,
       5
     ]
+  },
+  "sol_865": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six tokens dance in shadow's lace. A jeweled serpent coils through fortune's flame, while masked performers play their ancient game. The night-bloom trembles as the storm calls fast, and crystalline echoes of what could not last.",
+      "hint": "One points the way, one guards the deep, one slithers pride, one laughs in sleep, one blooms in darkness, one breaks the chain."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide within this verse: a target sharp, a gem that's terse, a dragon proud, a mask that grins, a flower brave where darkness spins, and lightning's crack that splits the night. Can you name them all just right?",
+      "hint": "Look for: something you aim at, something precious, something mythical, something theatrical, something natural, and something electric."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      19,
+      14,
+      4
+    ]
   }
 }
