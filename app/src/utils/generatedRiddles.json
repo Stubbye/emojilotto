@@ -18538,5 +18538,23 @@
       11,
       14
     ]
+  },
+  "emlo_314": {
+    "hardRiddle": {
+      "text": "A jester's magic ignites the sky, launching dreams to touch infinity. Nature's sparkle meets fortune's dance, where lightning strikes with cosmic chance. From earth's treasure to heaven's flame, what six symbols hold this memecoin's name?",
+      "hint": "Think of a wild ride to riches: a laughing guide, explosive energy, celestial goals, natural luck, brilliant rewards, and electric momentum."
+    },
+    "easyRiddle": {
+      "text": "🃏 laughs as 🚀 zooms up past 💎 to the 🌙, while ⚡ and 🔥 light the way!",
+      "hint": "A silly card, a space journey, shiny rewards, the moon, electricity, and flames!"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
