@@ -18574,5 +18574,23 @@
       14,
       4
     ]
+  },
+  "sol_866": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound wings, and fortune's mask dances with nature's string. Through prismatic gates of chance I gleam, while twin luminaries grace the dreamer's theme. Seek the jester's twin, the scaled one's kin, where electric whispers bid you spin.",
+      "hint": "Look for: a heavenly body, a performer's artifact, a magical stone, a masked entertainer, a scaled mythical beast, and an instrument of fate's vibration."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in lottery's call: a bright star shines, a dragon stands tall. Lightning strikes fast, a mask grins wide. Gem sparkles bright where fortunes reside. Music plays on as the rocket flies high—find all six before luck passes by!",
+      "hint": "You need: star, dragon, lightning, masks, gem, guitar, and rocket. Wait—that's seven! Remove one."
+    },
+    "answer": [
+      21,
+      19,
+      5,
+      19,
+      13,
+      16
+    ]
   }
 }
