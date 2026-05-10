@@ -18646,5 +18646,23 @@
       11,
       20
     ]
+  },
+  "sol_869": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six celestial dancers pirouette through shadow's lace. The jester's grin dissolves in crystalline fire, while nature's painted wings ascend the cosmic spire. Thunder's fleeting kiss ignites the gem-strewn night, and magic blooms where two realms collide in sight.",
+      "hint": "One points the way, one laughs at fate, one burns eternal, one takes flight, one splits the sky, one glimmers bright."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of chance and wonder: a bullseye's mark, a jester's spark, a gem that gleams, a night sky's dream, a bolt that cracks, and fire that stacks.",
+      "hint": "Think of targets, jesters, precious stones, darkness, storms, and flames."
+    },
+    "answer": [
+      0,
+      11,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
