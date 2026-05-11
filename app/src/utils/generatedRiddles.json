@@ -18754,5 +18754,23 @@
       4,
       10
     ]
+  },
+  "sol_873": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols converge in destiny's trance. The archer's aim pierces the void's expanse, while serpent's treasure glimmers in moonlit glance. Swift wings flutter through electric storms, and masked revelry takes phantasmagorical forms.",
+      "hint": "One guides arrows, one guards ancient wealth, one lights the night, one brings swift stealth, one dazzles with voltage, one hides in jest."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck gather here: a target for aim, a dragon's lair, a gem that shines, lightning's flash, a butterfly's grace, and the joker's jest. What six must align for fortune's test?",
+      "hint": "Think of things that represent chance, power, beauty, and mischief combined."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      8,
+      19
+    ]
   }
 }
