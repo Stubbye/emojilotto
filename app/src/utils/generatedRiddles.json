@@ -18808,5 +18808,23 @@
       20,
       12
     ]
+  },
+  "sol_875": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel meets celestial fire, six keepers dance in twilight's choir. The jester's smile guards treasures bright, while scaled antiquity pierces night. A painted heart blooms in endless flight, and nature's token crowns the sight.",
+      "hint": "Think of luck, chaos, mythical power, artistry, fortune's symbols, and nature's blessings combined."
+    },
+    "easyRiddle": {
+      "text": "Six gifts of chance: the fool who laughs, the beast of old with fearsome path, the bloom of spring, the lucky charm, the artist's tool, and lightning's harm.",
+      "hint": "One is jester, one is ancient, one grows, one protects, one creates, one strikes."
+    },
+    "answer": [
+      9,
+      13,
+      14,
+      19,
+      22,
+      4
+    ]
   }
 }
