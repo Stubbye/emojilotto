@@ -18682,5 +18682,41 @@
       2,
       8
     ]
+  },
+  "sol_871": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, six symbols converge in shadow's embrace. The archer's mark bleeds into the jester's grin, while wings of metamorphosis spiral through luck's coin. Between the crown of victory and nature's trefoil charm, a prism of dreams shatters across the void. Seek the number's bones, the mask of mirth, the beast of scales, the bloom of silence, and luck's humble leaf.",
+      "hint": "One brings wishes, one brings laughter, one brings chance, one brings fortune, one brings transformation, one brings fortune's seed."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: where you aim to win, where jesters make you smile, where scaled wings soar, where petals never wilt, where four leaves guard fortune, and where crowns are earned.",
+      "hint": "Think of games, cards, myths, nature, luck, and achievement."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      14,
+      19,
+      17
+    ]
+  },
+  "emlo_316": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive energy, seeking gems of fortune. Where lightning strikes fortune, a magical creature dances with fiery passion, leaving sparkles of hope across the rainbow.",
+      "hint": "Think of a memecoin's journey: blast off, wealth, mythical beast, energy, and glittering luck"
+    },
+    "easyRiddle": {
+      "text": "A coin goes 🚀 to the 🌙, the 🐉 guards the 💎, ⚡ powers the magic, and ✨ celebrates the win",
+      "hint": "Launch, lunar, treasure guardian, power, and celebration emojis"
+    },
+    "answer": [
+      1,
+      3,
+      13,
+      2,
+      4,
+      10
+    ]
   }
 }
