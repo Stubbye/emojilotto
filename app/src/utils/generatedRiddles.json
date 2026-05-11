@@ -18772,5 +18772,41 @@
       8,
       19
     ]
+  },
+  "sol_874": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate align. The archer's mark gleams with crystalline song, while twin wings flutter through thunderous night. A jester's grin guards the treasure untold, as violet sparks crown the symphony's flight.",
+      "hint": "Look to the heavens and the stage of chance; seek the marked gem, the winged twin, the laughing fool, and the shimmering royal light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: one points with precision, one glows in the dark, one sparkles like jewels, one flutters with grace, one laughs at the game, and one shines with purple mystery.",
+      "hint": "Target, Moon, Gem, Butterfly, Joker, and Purple are your answers."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      19,
+      15
+    ]
+  },
+  "emlo_318": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems ablaze with cosmic greed. A jester's fortune spins through fire and light, as dragon-winged dreams take flight. Where crystal waves meet sparkling fate, the fox counts treasures at fortune's gate.",
+      "hint": "Think of a memecoin's journey: the destination, the power, the luck, the mythical, the purity, and the cunning trader."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we race with ⚡ and 💎, watched by a clever 🦊, blessed by a 🐉, and blessed by ✨.",
+      "hint": "A memecoin needs a destination, power, treasure, wisdom, mythical backing, and magic."
+    },
+    "answer": [
+      3,
+      4,
+      1,
+      13,
+      20,
+      12
+    ]
   }
 }
