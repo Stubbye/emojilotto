@@ -18898,5 +18898,23 @@
       18,
       8
     ]
+  },
+  "sol_879": {
+    "hardRiddle": {
+      "text": "Where fortune's celestial archer meets the inferno's dance, and the scaled leviathan guards the prism of rebirth. The jester's twin flame flickers between chaos and melody, while petals bloom eternal in the spectrum's embrace.",
+      "hint": "Seek the intersection of destiny, flame, and mythical guardianship. One brings laughter, one brings music, one brings nature's crown."
+    },
+    "easyRiddle": {
+      "text": "A target glows with cosmic fire where a dragon's gem rests. The joker plays a guitar as flowers dance in the rainbow's light.",
+      "hint": "Six symbols: one marks aim, one brings heat, one slithers wise, one sparkles bright, one jokes and jests, one sings sweet."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      2,
+      11,
+      16
+    ]
   }
 }
