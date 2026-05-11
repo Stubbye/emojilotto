@@ -18826,5 +18826,23 @@
       22,
       4
     ]
+  },
+  "sol_876": {
+    "hardRiddle": {
+      "text": "Where fortune's crimson serpent dances with the night's pale guardian, and celestial thunder weeps upon the jester's prismatic path. Six vessels hold the answer: one strikes from shadows, one adorns the sky with fractured light, one laughs in motley madness, one devours with ancient hunger, one blooms eternal in chaos, and one glimmers where dreams are born.",
+      "hint": "Look for elements of chaos, celestial bodies, mythical beings, and the unpredictable nature of fate itself."
+    },
+    "easyRiddle": {
+      "text": "Find the dragon's fire, the moon's pale glow, the jester's smile, the star that shines, the lightning's strike, and the sparkles that dance in twilight.",
+      "hint": "One is a mythical creature, one is in the sky, one is a card character, one is celestial, one is weather, and one is magical shimmer."
+    },
+    "answer": [
+      4,
+      3,
+      19,
+      21,
+      5,
+      10
+    ]
   }
 }
