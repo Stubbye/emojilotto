@@ -18718,5 +18718,41 @@
       4,
       10
     ]
+  },
+  "sol_872": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's grin meets the nocturnal sovereign's gaze. Six vessels converge: one pierces the veil between worlds, one gleams with crystalline truth, one channels chaos through invisible veins, one bears the mask of merriment, one commands the lunar throne, and one ignites the eternal spectacle. Which tapestry of fate binds them in shadow's riddle?",
+      "hint": "Think of entertainment, chance, and cosmic forces aligned. One is a messenger, one is precious, one is untamed energy, one is theatrical, one is celestial, one is regal."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols dance in the night: a jester laughs, a dragon roars, lightning strikes, the moon glows, a gem sparkles, and fire burns bright. Name these six for fortune's light.",
+      "hint": "Joker, dragon, lightning, moon, gem, and fire are your answers."
+    },
+    "answer": [
+      13,
+      3,
+      4,
+      5,
+      11,
+      21
+    ]
+  },
+  "emlo_317": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, sparkling as I ignite the community's greed. Where gems meet fortune and luck strikes like thunder, six symbols unite—can you name this wonder?",
+      "hint": "Think of a memecoin's journey: starting with energy, reaching for dreams, and the magical elements that make it shine."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon with lightning speed. Gems sparkle while fire burns bright. What six emojis show a memecoin's might?",
+      "hint": "Look for symbols of speed, sky, treasure, luck, and energy combined together."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      10
+    ]
   }
 }
