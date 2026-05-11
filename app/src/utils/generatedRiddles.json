@@ -18664,5 +18664,23 @@
       4,
       5
     ]
+  },
+  "sol_870": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weeper, six whispers dance in the void. The jester's twin flames consume what the winged nocturne seeks, while crystalline tears reflect the archer's eternal aim. Chaos tumbles in the gemstone's shadow, and the winged dancer spirals through fractured light seeking what burns beyond the veil.",
+      "hint": "Look for the struck match, the aimed mark, the laughing deceiver, the night's pale face, the precious stone, and the delicate metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I contain a target for precision, a spark of electricity in the night, a jester's mischievous grin, the moon's pale glow, a gem of great value, and a butterfly dancing free. Which six symbols complete this fortune?",
+      "hint": "One is aimed at, one lights up, one tricks you, one is up high, one is precious, one has wings."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      3,
+      2,
+      8
+    ]
   }
 }
