@@ -18880,5 +18880,23 @@
       5,
       9
     ]
+  },
+  "sol_878": {
+    "hardRiddle": {
+      "text": "Where celestial fortune meets earthbound desire, six sentinels guard the threshold between chaos and grace. The archer's dream pierces the veil of night, while emerald whispers echo through crystalline depths. Lightning's twin dances with prismatic flame, and masked revelry crowns the victor's eternal ascent. What constellation of fate shall unlock the treasury of transformed wings?",
+      "hint": "Look for the symbols of aspiration, brilliance, velocity, illumination, spectacle, and metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I pierce the sky with pointed aim, precious stones gleam with inner flame, speed defies the starlit night, masks and celebration reach their height. Wings transform in nature's art, lightning splits the dark apart. What six guide the lucky heart?",
+      "hint": "Think of targets, gems, rockets, lightning, jokers, and butterflies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      18,
+      8
+    ]
   }
 }
