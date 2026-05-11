@@ -18844,5 +18844,41 @@
       5,
       10
     ]
+  },
+  "sol_877": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six sentinels guard the threshold between chaos and grace. The celestial guardian watches over twin flames of destiny—one born of heaven's wrath, one born of primal hunger. A creature of metamorphosis dances with the prismatic bridge, while fortune's jester grins through the laughter of chance itself.",
+      "hint": "Seek the mark, the sleeping eye, the devourer of skies, the winged transformation, the storm's fury, and the chaos-keeper."
+    },
+    "easyRiddle": {
+      "text": "I point to winning chances, light up the sleeping sky, breathe heat and raw power, transform through the air, strike with electric rage, and laugh at every roll.",
+      "hint": "Think of targets, night, hunger, wings, storms, and games of chance."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      8,
+      5,
+      11
+    ]
+  },
+  "emlo_319": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like treasure that makes you bleed. Through sparkles and fire, my magic flows, a rainbow path where fortune grows. Dragon's luck meets butterfly's dance, while lightning strikes your memecoin chance.",
+      "hint": "Look for celestial movement, precious stones, and chaotic energy symbols"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket going up, the gem that shines, the moon so high, the lightning that strikes, the fire that burns, and the sparkles that glow. Six symbols of crypto dreams!",
+      "hint": "Think: launch, treasure, night sky, power, heat, and shine"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9
+    ]
   }
 }
