@@ -19078,5 +19078,41 @@
       11,
       19
     ]
+  },
+  "sol_886": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a winged metamorphosis dances beneath the celestial sentinel. The jester's crimson twin roars in silent symphony, while gems crystallize the very essence of luck's geometry. Six keepers of destiny await those who read the cosmic language.",
+      "hint": "Seek the marksman's aim, the creature of transformation, the night's watchful eye, the trickster's reflection, the precious mathematics, and the serpent's ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "A target marks the start, a butterfly takes flight, the moon shines bright, a joker grins with glee, a gem sparkles with light, and a dragon guards the night. Which six dance together in fortune's game?",
+      "hint": "One aims, one flies, one glows above, one laughs, one shines, and one breathes fire."
+    },
+    "answer": [
+      0,
+      8,
+      3,
+      19,
+      5,
+      13
+    ]
+  },
+  "emlo_323": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere with electric speed, seeking the treasure that makes diamond hearts bleed. Where fortune spins wild with mystical glow, and luck strikes like fire in the show.",
+      "hint": "Think of a memecoin journey: the launch, the climb, the rewards, the energy, the luck, and the spectacle."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up fast ⬆️, shines bright like gems 💎, strikes with power ⚡, reaches high in sky 🌙, brings good fortune 🍀, and dazzles all ✨",
+      "hint": "Count the emojis in the description above!"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      19,
+      10
+    ]
   }
 }
