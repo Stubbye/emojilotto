@@ -19060,5 +19060,23 @@
       9,
       10
     ]
+  },
+  "sol_885": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger ascends through prismatic silence. The jester's grin holds the key to treasures born from pressure's embrace, while chaos whispers in hexagonal tongues beneath starlight's eternal vigil.",
+      "hint": "Look for the crowned performer, the gemstone's kiss, the ascending flame, the night's pearl, the fortune-teller's bones, and the light that never sleeps."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this cosmic game: one burns bright, one shines above, one sparkles pure, one flies up high, one brings luck with spots, and one wears a grin with mischief.",
+      "hint": "Think of luck, brightness, gemstones, rockets, laughter, and the night sky."
+    },
+    "answer": [
+      4,
+      21,
+      5,
+      1,
+      11,
+      19
+    ]
   }
 }
