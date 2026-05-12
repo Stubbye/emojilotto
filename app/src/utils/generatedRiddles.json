@@ -19024,5 +19024,41 @@
       13,
       18
     ]
+  },
+  "sol_884": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, and the jeweled serpent dances through prismatic veils of chance. The trickster's grin echoes where thunder births its twin, as winged metamorphosis spirals through the void between destinies.",
+      "hint": "Seek the hunter's mark, the sky's ancient sentinel, the earth's buried tears, the storm's violent tongue, the mythic coils of greed, and the soul's delicate transformation."
+    },
+    "easyRiddle": {
+      "text": "I combine six symbols of fortune: a target for precision, a dragon for power, a gem for wealth, the moon for mystery, lightning for chance, and a butterfly for transformation. Which six dance together in fate's lottery?",
+      "hint": "Think of luck, power, treasure, night, electricity, and change."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      4,
+      13,
+      8
+    ]
+  },
+  "emlo_322": {
+    "hardRiddle": {
+      "text": "To the moon we blast with electric speed, through flames of hype and gemstone greed. Lady luck spins fortune's wheel, as sparkles dance on what is real. Find the six that fuel this dream, where circus meets the crypto scheme.",
+      "hint": "Look for symbols of velocity, wealth, chance, magic, and spectacle in the memecoin universe."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots past fire so bright, a gem shines under moon's pale light. Lightning strikes while sparkles gleam, and dice roll in this lucky dream. What six symbols light your meme?",
+      "hint": "One goes up fast, one burns hot, one is precious, one is in the sky, one is electric, and one glitters."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      9,
+      10
+    ]
   }
 }
