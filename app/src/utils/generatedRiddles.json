@@ -18916,5 +18916,41 @@
       11,
       16
     ]
+  },
+  "sol_880": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, six sentinels of fate convene. The celestial orb witnesses the winged metamorphosis dance with prismatic arcs, while the empress of splendor adorns the victor's throne. Thunder's kiss and earthen fortune's dice lay scattered beneath the jester's knowing grin.",
+      "hint": "Consider celestial bodies, transformation, victory, electricity, chance, and mischief—arranged as they appear in the given list."
+    },
+    "easyRiddle": {
+      "text": "A target meets a rocket's flame, the moon shines bright above. Lightning strikes near fortune's game, while a trophy shows love. The joker laughs at all of this—six signs that luck will send.",
+      "hint": "Think of things that represent winning, fun, and cosmic power. Count them in order from the list provided."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      4,
+      11,
+      19
+    ]
+  },
+  "emlo_320": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while gems sparkle in my wake. Lady Luck dances with electric fortune, and nature's winged beauty flutters through rainbow skies. Where chaos meets destiny, find your answer.",
+      "hint": "Think of a memecoin's journey: from ignition to the moon, with luck and magic intertwined."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon shines bright, lightning strikes with luck, gem glows, butterfly flies free, and rainbow appears. What six things make a memecoin dream?",
+      "hint": "Look for the words that describe a crypto journey to the moon with fortune and magic."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      9,
+      8,
+      10
+    ]
   }
 }
