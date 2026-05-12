@@ -19114,5 +19114,23 @@
       19,
       10
     ]
+  },
+  "sol_888": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a gemstone heart beats beneath the jester's grin. Through prismatic tears, the winged messenger ascends toward destiny's bull's-eye, while thunder speaks in colors only the fool's mirror can reflect.",
+      "hint": "Seek the intersection of chaos, luck, and transformation. One guides, one glimmers, one laughs, one flies, one burns, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "I contain a precious stone, a court jester, lightning's crack, a butterfly in flight, a flame that rises, and a target's center. What six treasures align in the lottery's mystical vault?",
+      "hint": "Look for: something precious, something humorous, something electric, something delicate, something hot, and something aimed."
+    },
+    "answer": [
+      1,
+      8,
+      4,
+      5,
+      12,
+      0
+    ]
   }
 }
