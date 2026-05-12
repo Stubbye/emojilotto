@@ -18970,5 +18970,41 @@
       13,
       9
     ]
+  },
+  "sol_882": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial veil, six tokens dance in shadow's tale. The gemstone weeps in lunar glow, while thunder's kiss and inferno's breath entwine below. A crystal prison holds the spark of chance—behold the prism where fates entrance.",
+      "hint": "One shoots straight, one watches high, one gleams eternal, one burns dry. The frozen light and dancing flame reveal the lottery's hidden name."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of destiny: a target true, a stone so bright, a moon that glows at endless night, lightning's strike, fire's might, and crystal's light—what lottery signs complete this sight?",
+      "hint": "One points direction, one shines, one rises at night, one crackles, one burns, one sparkles clear."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      20
+    ]
+  },
+  "emlo_321": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, seeking precious gems that make hodlers bleed. Fortune spins like a jester's game, while mystical forces fuel my flame. Rainbow paths and crystal dreams guide this memecoin's wild schemes.",
+      "hint": "Think of the journey to wealth: movement, energy, luck, sparkle, and the path there"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with lightning fast gains! Spin the dice and watch your fortune shine like gems and sparkles in the night!",
+      "hint": "Count the key symbols: launch, speed, luck, shine, treasure, and magic"
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      2,
+      10,
+      20
+    ]
   }
 }
