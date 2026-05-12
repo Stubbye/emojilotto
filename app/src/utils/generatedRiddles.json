@@ -18952,5 +18952,23 @@
       8,
       10
     ]
+  },
+  "sol_881": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six whispers dance between the sacred and profane. The jester's twin masks hide what the scaled serpent guards in twilight's gleam. Swift wings of metamorphosis spiral through prismatic arcs, while thunder's children crack the veil between emerald earth and glittering void.",
+      "hint": "Seek the performer's duality, the dragon's treasure, and transformations that paint the sky."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one ascends high, one shimmers bright. A shapeshifter flies, a ruler roars, and light splits into many colors. What six dance together in fortune's game?",
+      "hint": "Think: aim, sky, shine, wings, power, spectrum"
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      8,
+      13,
+      9
+    ]
   }
 }
