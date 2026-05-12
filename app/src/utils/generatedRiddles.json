@@ -19132,5 +19132,41 @@
       12,
       0
     ]
+  },
+  "sol_889": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six whispers compose the lottery's trance. The archer's mark gleams with prismatic breath, while winged metamorphosis escapes the jester's death. Thunder's twin ignites the void above, and crystalline fortune births the lover's dove.",
+      "hint": "Seek the path where gems catch starlight, butterflies flee chaos, and lightning crowns the night."
+    },
+    "easyRiddle": {
+      "text": "I shine like a jewel, I soar like a dream, I flutter with grace, I spark and I gleam. Lightning strikes twice, and fire burns bright, while a fool's mask grins in the celestial night.",
+      "hint": "Six treasures: one glitters, one flies, one ignites, one plays, one strikes, one shines."
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      13,
+      4,
+      21
+    ]
+  },
+  "emlo_324": {
+    "hardRiddle": {
+      "text": "A jester's lightning strike ignites the gem, sending rockets to the moon where a dragon guards treasure. What six celestial symbols mark this moonbound journey of chaos and fortune?",
+      "hint": "Think of a memecoin's chaotic rise: entertainment, electricity, value, destination, mythical guardian, and cosmic goal."
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with fire and speed! A joker laughs, lightning strikes, gems shine bright, and dragons soar. Pick the six symbols of this wild crypto ride.",
+      "hint": "Look for: fun character, energy, treasure, speed, mythical beast, and destination."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      4,
+      14,
+      3
+    ]
   }
 }
