@@ -19006,5 +19006,23 @@
       10,
       20
     ]
+  },
+  "sol_883": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels guard the threshold. The archer's mark burns in the void, while twins of brilliance—one bound to night's crown, one scattered as falling stars—witness the jester's crimson smile. Between them spirals the serpent of fortune, and petals of earth complete the sacred circle.",
+      "hint": "Consider what glimmers, what spins, what reigns above, and what laughs at fate itself."
+    },
+    "easyRiddle": {
+      "text": "Find the lucky six: a target burned bright, lightning's kiss, the moon's pale light, stars that dance, a dragon's might, and laughter wearing a mask tonight.",
+      "hint": "One burns, one strikes, one glows soft, one sparkles, one flies with wisdom, one wears a grin."
+    },
+    "answer": [
+      0,
+      4,
+      3,
+      10,
+      13,
+      18
+    ]
   }
 }
