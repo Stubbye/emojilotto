@@ -19366,5 +19366,41 @@
       5,
       8
     ]
+  },
+  "sol_900": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six dancers twirl in destiny's space. The jester grins beneath celestial fire, while scales of chance ascend ever higher. Through crystal gates the wild fox leaps, as Nature's crown in silence keeps.",
+      "hint": "Look for the marksman's aim, the cosmic flame, the fool's dark game, the dragon's might, the gemstone's light, and the four-leafed sight."
+    },
+    "easyRiddle": {
+      "text": "I pierce the bullseye, I soar through night, I sparkle bright, I laugh with jest, I breathe with fire, and bring good fortune to those who quest.",
+      "hint": "One targets, one flies high, one glimmers, one jokes, one burns, one blesses."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      13,
+      6,
+      19
+    ]
+  },
+  "emlo_329": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while fortune sparkles in my path. A jester's luck meets electric power, and nature's delicate wings dance where gemstones catch the light. What six treasures mark the memecoin's journey?",
+      "hint": "Think of a crypto launch: movement, destination, luck, electricity, beauty, and wealth"
+    },
+    "easyRiddle": {
+      "text": "A coin shoots up to the 🌙. Luck strikes like ⚡. Gems ✨ brightly. A 🦋 brings change. The 🚀 climbs high. Fortune is a game of 🎲. Name them all!",
+      "hint": "One goes to space, one is lucky, one shines, one is pretty, one is fast, one is random"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      8,
+      19,
+      11
+    ]
   }
 }
