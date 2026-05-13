@@ -19204,5 +19204,41 @@
       8,
       9
     ]
+  },
+  "sol_893": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the jester's mask conceals the serpent's ancient wisdom. Six tokens hide in shadow: the archer's paradox meets the winged metamorphosis, while precious light fractures through the prism of possibility. The dragon's treasure gleams where chaos strikes in silence.",
+      "hint": "Look for what flies, what shines, what deceives, and what transforms. One brings luck, one brings doom, one brings the show."
+    },
+    "easyRiddle": {
+      "text": "I contain a target's mark, a dragon's might, a jester's grin, a butterfly's grace, a gem's sparkle, and lightning's strike. What lottery awaits?",
+      "hint": "Count the six things mentioned: aim, creature, fool, insect, jewel, and electricity."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      2,
+      5
+    ]
+  },
+  "emlo_326": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive energy, seeking treasures that sparkle beyond the ordinary. A fortune teller's charm guides my path, while nature's delicate messenger flutters near riches that ignite the soul. What six symbols represent this memecoin odyssey?",
+      "hint": "Think of a coin's journey: its launch, destination, precious rewards, luck, transformation, and the fire of hope."
+    },
+    "easyRiddle": {
+      "text": "Find the symbols: something that goes UP, a shiny treasure, the place we want to reach, good luck charm, a pretty insect, and bright energy. These six guide every memecoin dreamer!",
+      "hint": "Rocket up, gem prize, moon goal, clover luck, butterfly beauty, sparkles magic."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      19,
+      8,
+      10
+    ]
   }
 }
