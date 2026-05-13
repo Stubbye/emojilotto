@@ -19312,5 +19312,23 @@
       8,
       13
     ]
+  },
+  "emlo_328": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, my gem-like value sparkles as I chase the moon. Dragon energy fuels my fire, yet I'm as unpredictable as a joker's jest. What am I?",
+      "hint": "A volatile asset that combines astronomical ambitions with chaotic randomness"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with lightning speed! A shimmering gem fuels the fire. The joker laughs at our wild ride. What crypto dream are we chasing?",
+      "hint": "Three things propel a memecoin to the stars: speed, value, and chaos"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      2,
+      9,
+      11
+    ]
   }
 }
