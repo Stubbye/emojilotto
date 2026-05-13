@@ -19348,5 +19348,23 @@
       13,
       10
     ]
+  },
+  "sol_899": {
+    "hardRiddle": {
+      "text": "Where fortune's six dancers pirouette through cosmic veils: the hunter's mark pierces the obsidian expanse, a scaled leviathan guards the luminescent sphere, while the tempest's tongue and the phoenix's breath waltz with the winged metamorphosis, yet only the prism's shattered light reveals what trembles between chaos and grace.",
+      "hint": "Seek the archer's aim, the serpent's throne, night's pearl, the storm's kiss, the inferno's tongue, and the creature reborn."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck dance in the dark: a pointed aim, a scaled guardian, a glowing orb, electricity's strike, passionate flames, and wings that flutter. Which six light your path?",
+      "hint": "Target, dragon, moon, lightning, fire, and butterfly - the foundation stones of fortune."
+    },
+    "answer": [
+      0,
+      13,
+      3,
+      4,
+      5,
+      8
+    ]
   }
 }
