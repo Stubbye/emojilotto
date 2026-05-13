@@ -19294,5 +19294,23 @@
       13,
       2
     ]
+  },
+  "sol_896": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's bright eye, the gemstone weeps in electric twilight. A dancer of wings adorns the stage of chaos, while the celestial serpent guards the threshold between inferno and celestial weeping.",
+      "hint": "Seek the convergence of aim, cosmos, treasure, tempest, metamorphosis, and ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I shine above, I sparkle bright, I twist and turn, I fly on silk, I guard the gold—six symbols dance in fortune's fold.",
+      "hint": "Target, moon, gem, lightning, butterfly, and dragon are your companions."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      8,
+      13
+    ]
   }
 }
