@@ -19168,5 +19168,41 @@
       14,
       3
     ]
+  },
+  "sol_891": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, the jester's twin masks dance with fortune's desire. Below, a serpent of scales guards the gleaming prize, while petaled whispers bloom beneath violet skies. The winged metamorphosis drinks from crystalline light, and chaos births order through geometric night.",
+      "hint": "One aims, one burns, one deceives, one guards, one transforms, one decides."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's bright flame, the trickster's face, the dragon's fame, the butterfly's dance, and the die's chance game.",
+      "hint": "Target, fire, joker, dragon, butterfly, dice - six treasures of fortune's price."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      14,
+      8,
+      11
+    ]
+  },
+  "emlo_325": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault, sparkling with electric potential. Lady luck spins her wheel while a masked jester grins, and nature's metamorphosis dances through prismatic light. What six treasures fuel this memecoin mania?",
+      "hint": "Think of the journey: launch, luck, mystique, transformation, spectrum, and fortune itself."
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket with lightning speed! A gem shines bright, a joker laughs, a butterfly soars, and rainbows lead us to riches. Find these six symbols of crypto fortune!",
+      "hint": "Look for: travel up, power, value, fun, transformation, and color."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      19,
+      8,
+      9
+    ]
   }
 }
