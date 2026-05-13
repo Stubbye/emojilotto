@@ -19258,5 +19258,41 @@
       10,
       11
     ]
+  },
+  "sol_895": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate await. The archer's mark meets the messenger's flight, while gems crystallize dreams beneath the watcher's glow. Thunder's child and the trickster's grin conspire in shadow's theatre, each holding secrets the cosmos whispers only to the worthy.",
+      "hint": "One guides from above, one soars beyond, one glimmers within, one illuminates night, one strikes swift judgment, one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "Find the six treasures: the bull's-eye of precision, the vessel of ambition climbing high, the precious stone that catches light, the night's eternal guardian, the bolt of sudden power, and the mysterious performer who knows all tricks.",
+      "hint": "Think of aims, dreams, wealth, sky, energy, and entertainment."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_327": {
+    "hardRiddle": {
+      "text": "I chase the 🚀 with lightning speed, a 🦊 in the chaos seeking my 💎 prize. When 🔥 meets the ✨ of fortune, the 🎭 reveals what only the bold can seize.",
+      "hint": "Think of the journey from launch to moonshot, with cunning strategy and spectacular rewards."
+    },
+    "easyRiddle": {
+      "text": "Rocket blasts off, lightning strikes fast, fire burns bright, sparkles shine, fox is clever, and gems are treasure. Put them together for moon-level gains!",
+      "hint": "Count the emojis mentioned in the riddle text itself."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      9,
+      13,
+      2
+    ]
   }
 }
