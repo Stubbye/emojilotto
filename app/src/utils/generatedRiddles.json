@@ -19330,5 +19330,23 @@
       9,
       11
     ]
+  },
+  "sol_898": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six messengers dance in shadow's game. The jester's grin beneath the gem's refrain, while scaled guardian guards the crystal's domain. Thunder's kiss and nature's painted arc complete the cipher of the seeker's mark.",
+      "hint": "Look for the intersection of chance, nature, power, and performance. One brings luck, one brings sight, one brings sound, one brings might."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: an aim point, a spark from the sky, a precious stone, a grinning trickster, a winged reptile, and light itself scattered like dust.",
+      "hint": "Think of targets, electricity, jewels, cards, mythical beasts, and magic."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      19,
+      13,
+      10
+    ]
   }
 }
