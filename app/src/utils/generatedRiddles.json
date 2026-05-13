@@ -19240,5 +19240,23 @@
       8,
       10
     ]
+  },
+  "sol_894": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces heaven's pearl, and chaos dances in celestial fire, a jester's grin reflects the prism's swirl, while wings of metamorphosis climb ever higher. Beneath the stage where laughter rings divine, six secrets shimmer in the void's design.",
+      "hint": "Think of performance, chance, transformation, and the celestial sphere where luck resides."
+    },
+    "easyRiddle": {
+      "text": "A lucky performer shoots for the stars while flames and magic swirl in the night sky. A joker grins as butterflies dance near precious gems that sparkle like the moon above.",
+      "hint": "Six things you might find at a magical circus or lottery: one aims high, one performs, one brings luck, one transforms, one shines bright, one glows."
+    },
+    "answer": [
+      1,
+      5,
+      19,
+      8,
+      10,
+      11
+    ]
   }
 }
