@@ -19420,5 +19420,41 @@
       5,
       6
     ]
+  },
+  "sol_902": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's jest, six guardians of fate convene. The jester's grin dances with scales of chance, while a jeweled prism catches starlight's whisper. Swift wings of metamorphosis flutter past the archer's mark, and thunder's brilliance crowns the night's sovereign. What cryptic union reveals the path to destiny's embrace?",
+      "hint": "Consider the court, the heavens, transformation, precision, and the duality of luck and chaos."
+    },
+    "easyRiddle": {
+      "text": "A lucky court gathers under the stars: one who jests with laughs, one who flies and changes form, one who strikes from above, one who gleams with inner light, one who marks the bull's eye, and one who rules the night sky. Who are these six?",
+      "hint": "Think of: a playing card character, an insect, weather, precious stones, accuracy, and the Moon's domain."
+    },
+    "answer": [
+      19,
+      8,
+      5,
+      21,
+      0,
+      3
+    ]
+  },
+  "emlo_330": {
+    "hardRiddle": {
+      "text": "I launch ambitions to celestial heights, seeking gems that sparkle with electric might. A joker's fortune spins under my gaze, as dragon fire ignites the craze. What six celestial tokens guide this memecoin maze?",
+      "hint": "Think of a journey: upward movement, precious elements, luck, legendary creatures, and ethereal light"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with a rocket, find a shiny gem, dodge lightning strikes, watch the dragon dance, catch some sparkles, and spin the dice for your memecoin ticket!",
+      "hint": "Name the six things in the riddle"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      14,
+      10,
+      11
+    ]
   }
 }
