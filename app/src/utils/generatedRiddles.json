@@ -19564,5 +19564,23 @@
       11,
       13
     ]
+  },
+  "sol_908": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, six keepers of fate in ethereal trance. The archer's mark gleams in prismatic light, while scaled majesty guards the night. Swift wings of metamorphosis flutter near, as crystalline harmonies only spirits hear.",
+      "hint": "Look for destiny's markers: aim, ascension, brilliance, ancient power, transformation, and resonant clarity."
+    },
+    "easyRiddle": {
+      "text": "Find the glowing target, the rocket that flies, the gem that shines bright, the dragon so wise, the butterfly's grace, and the crystal so clear.",
+      "hint": "One marks, one soars, one sparkles, one guards, one transforms, one reflects."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      8,
+      20
+    ]
   }
 }
