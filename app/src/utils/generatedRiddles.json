@@ -19546,5 +19546,23 @@
       16,
       14
     ]
+  },
+  "sol_907": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six whispers dance in chaos's choir. The jester's grin beneath the gem's cold gleam, while wings of metamorphosis blur the dream. What fortune spins when luck and fate conspire, as thunder crowns the crystal's climbing spire?",
+      "hint": "Think of luck's symbols: aim, chaos, transformation, precious knowledge, chance, and celestial power."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that fly, the gem that shines, the lightning that's nigh, the joker that grins, and the butterfly's sigh.",
+      "hint": "Six lucky symbols: one points at goals, one flies high, one sparkles, one strikes fast, one tricks, one transforms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      13
+    ]
   }
 }
