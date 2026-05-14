@@ -19618,5 +19618,23 @@
       8,
       14
     ]
+  },
+  "sol_911": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six whispers dance: the trickster's grin beneath two faces worn, a winged transformation through prismatic tears, a serpent coils where flames once sang, the jeweled heart gleams under Luna's gaze, and destiny's bones roll where the big top's shadows play. Count the masks of chaos, the metamorphosis of grace, the dragon's ancient hunger, the gem's eternal grace, the moon's silent witness, and the circus of chance.",
+      "hint": "Think of duality, transformation, mythical power, precious beauty, celestial mystery, and games of pure luck. One is hidden, one is dual, one is born anew."
+    },
+    "easyRiddle": {
+      "text": "Six symbols seek the lucky soul: find the jester's double face, the creature that learns to fly, the treasure that catches light, the night's cold guardian, the beast of legendary fire, and the wheel of randomness in the tent of wonder.",
+      "hint": "Joker (masks), butterfly (transformation), gem (brilliance), moon (celestial), dragon (mythical), and dice (circus games)."
+    },
+    "answer": [
+      19,
+      8,
+      5,
+      3,
+      14,
+      11
+    ]
   }
 }
