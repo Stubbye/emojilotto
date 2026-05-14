@@ -19402,5 +19402,23 @@
       19,
       11
     ]
+  },
+  "sol_901": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens shimmer in destiny's appeal. The archer's mark meets the void's bright throne, while chaos laughs and fortune's seed is sown. Behold the spectrum where luck takes flight, and crystal wisdom glows in prismatic light.",
+      "hint": "Consider symbols of chance, cosmic realms, laughter, and illumination intertwined."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the jester's grin, the star above and sparkles within, the die of chance and the gem so bright—six symbols dance in fortune's light.",
+      "hint": "One points forward, one laughs loudly, one shines above, one glimmers, one tumbles, and one gleams."
+    },
+    "answer": [
+      0,
+      3,
+      21,
+      10,
+      5,
+      6
+    ]
   }
 }
