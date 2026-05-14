@@ -19528,5 +19528,23 @@
       8,
       21
     ]
+  },
+  "sol_906": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's wheel, six secrets hide. The archer's mark aligns with heaven's lantern, while the jester's twin dances in electric veils. Through crystalline prisms shattered by wings of metamorphosis, the songbird of luck strikes its golden chord. Seek the blooming center where chaos and grace converge.",
+      "hint": "Think of fortune, transformation, music, and the meeting of earth and cosmos"
+    },
+    "easyRiddle": {
+      "text": "One points to fortune, one reaches to the sky. One sparkles with laughter, one transforms and flies. One sings sweet melodies, one blooms eternal. Six treasures dance together in the lottery's celestial hall.",
+      "hint": "Target, Moon, Joker, Butterfly, Guitar, Flower - count them carefully"
+    },
+    "answer": [
+      0,
+      3,
+      12,
+      8,
+      16,
+      14
+    ]
   }
 }
