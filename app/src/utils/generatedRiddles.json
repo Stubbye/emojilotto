@@ -19510,5 +19510,23 @@
       11,
       13
     ]
+  },
+  "sol_905": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six dancers of fate converge in mystic attire. The jester's grin masks what glimmers above, while thunder's twin and scaled guardian move. In gardens of luck, the painted soul takes flight, as crystal dreams shimmer through the veil of night.",
+      "hint": "Think of chance, chaos, power, and transformation. One rules the stage, one rules the sky, one guards treasures, one strikes swift, one brings fortune's bloom, and one sparkles eternal."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this game: a target of precision, fire's bright flame, a jester's wild play, a dragon so grand, a butterfly dancing, and crystal so grand. Which six shall bring luck to your hand?",
+      "hint": "Look for: aim, heat, chaos, myth, grace, and shine"
+    },
+    "answer": [
+      0,
+      4,
+      19,
+      14,
+      8,
+      21
+    ]
   }
 }
