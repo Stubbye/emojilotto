@@ -19600,5 +19600,23 @@
       11,
       13
     ]
+  },
+  "sol_910": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a prism births its twin in celestial maze. The jester's gleam dances with scaled majesty, while nature's delicate wings waltz through storms of electricity. Six secrets hide where chaos meets design.",
+      "hint": "Targets point, gems sparkle, and trickery abounds in this cosmic theatre."
+    },
+    "easyRiddle": {
+      "text": "One shoots straight and true, one shines from far away. One sparkles bright, one laughs in jest. One has wings so fine, one breathes ancient fire. What six treasures light the lottery's desire?",
+      "hint": "Find: precision, night, brilliance, humor, delicacy, and draconic power."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      12,
+      8,
+      14
+    ]
   }
 }
