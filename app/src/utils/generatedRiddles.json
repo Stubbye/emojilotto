@@ -19582,5 +19582,23 @@
       8,
       20
     ]
+  },
+  "sol_909": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a jeweled flame dances with celestial bent. The trickster grins as lightning cleaves the night, while scaled wisdom guards the gleaming light. Through chaos spins the wheel of fate's design, in silence blooms the six that intertwine.",
+      "hint": "Seek the archer's mark, the rocket's climb, the gem's brilliance, the moon's realm, the joker's smile, and the dragon's ancient gaze."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key to fortune's door: an archer's target, a ship that soars, a jewel that gleams, the night's pale queen, a jester's grin, and a serpent seen.",
+      "hint": "Think of: target, rocket, gem, moon, joker, and dragon."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      13
+    ]
   }
 }
