@@ -19762,5 +19762,23 @@
       11,
       21
     ]
+  },
+  "sol_917": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jest, six keepers of fate align: the archer's distant mark meets the swift messenger of gods, while jeweled light whispers secrets to Luna's twin flame. Between the fool's grin and nature's metamorphosis, electricity weaves through crystalline prisms, conducting destiny's symphony.",
+      "hint": "One marks precision, one brings speed, one gleams with worth, one rules the night, one defies gravity, and one transcends form."
+    },
+    "easyRiddle": {
+      "text": "Six magical things appear: a target waits, a rocket soars, a gem shines bright, the moon glows pale, lightning strikes fast, and a butterfly transforms.",
+      "hint": "Look for: aim, speed, treasure, night, power, and change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
