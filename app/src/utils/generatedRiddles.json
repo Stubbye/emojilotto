@@ -19834,5 +19834,23 @@
       4,
       17
     ]
+  },
+  "sol_920": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in shadow's choir. The masked performer strikes the crystal chord, while fortune's wheel spins at the dragon's ford. Lightning births the gem through night's dark gate, as butterfly and clover seal thy fate.",
+      "hint": "One guides the aim, one lights the way, one hides the truth, one shows the play, one sparkles hard, one brings you luck."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's heart: the archer's mark, the night's bright spark, the jester's grin, the crystal's shine, the thunder's crack, and fortune's vine.",
+      "hint": "Think of targets, stars, jesters, gems, lightning, and lucky plants."
+    },
+    "answer": [
+      0,
+      21,
+      18,
+      20,
+      4,
+      19
+    ]
   }
 }
