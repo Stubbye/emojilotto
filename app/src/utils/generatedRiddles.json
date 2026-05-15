@@ -19780,5 +19780,23 @@
       4,
       8
     ]
+  },
+  "sol_918": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's painted wheel, six sentinels of fate converge. The archer's mark meets swift ascension through the void, while crystalline splendor whispers secrets to the lunar sentinel. Between chaos and grace, a winged messenger pirouettes, as the sky bleeds its spectrum upon the stage of possibility. The dragon's ancient wisdom watches over all.",
+      "hint": "Consider the journey from earth to cosmos, the duality of chance and destiny, and the performers in fortune's grand theater."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a blazing messenger climbs toward the night guardian, gems sparkle with magic, colors dance across the sky, and two creatures—one delicate, one mighty—complete the celestial show.",
+      "hint": "Look for: something that goes up, something that shines, something magical, something colorful, and two different animals."
+    },
+    "answer": [
+      1,
+      4,
+      21,
+      9,
+      8,
+      14
+    ]
   }
 }
