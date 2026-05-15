@@ -19636,5 +19636,23 @@
       14,
       11
     ]
+  },
+  "sol_912": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets fortune's dance, six guardians convene in cosmic trance. The marksman's circle births prismatic fire, while winged metamorphosis ascends higher. Lightning's silver tongue and lunar glow, with dragon's ancient wisdom in tableau. Seek the scattered jewels of fate's design, where chance and destiny's threads entwine.",
+      "hint": "One burns in sky, one transforms in flight, one strikes with power, one glows at night, one hoards all gold, one spins the game."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures hidden deep: a target's aim, a dragon's keep, a gem so bright, the moon's soft light, and lightning's strike burning fierce and white. One more dances in flame's delight. What are they?",
+      "hint": "Lottery picks: bullseye, treasure, celestial body, electricity, mythical beast, and heat."
+    },
+    "answer": [
+      0,
+      4,
+      5,
+      1,
+      13,
+      6
+    ]
   }
 }
