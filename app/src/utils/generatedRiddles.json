@@ -19726,5 +19726,41 @@
       14,
       15
     ]
+  },
+  "sol_916": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sentinel, a prismatic serpent coils through the void. The court's masked jester dances between crystalline tears and the inferno's tongue, while fortune's spotted bones await beneath a seven-hued arc of becoming.",
+      "hint": "Consider the tools of chance, celestial guardians, mythical flames, and the paths where luck transforms."
+    },
+    "easyRiddle": {
+      "text": "I am six: a marksman's aim, a night sky watcher, a scaled dreamer of old, a fool in disguise, frozen light, and chance itself. Together we spin the wheel of destiny.",
+      "hint": "Think of targets, the moon's glow, legendary creatures, playing cards, ice-like beauty, and games of luck."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      19,
+      20,
+      11
+    ]
+  },
+  "emlo_336": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, a gem that sparkles with diamond greed. Watch the rocket dance through fire's gleam, where lucky dice roll out your dream. The joker laughs as fortunes shift, a crystal tower is your gift.",
+      "hint": "Six symbols of wealth and chance converge where memes and fortune do their dance"
+    },
+    "easyRiddle": {
+      "text": "Find the bright gem that shines so clear, the rocket that takes us far from here, the lightning bolt that strikes with might, the moon that glows throughout the night, the dice of luck and fortune's way, and the sparkling star that lights the way.",
+      "hint": "Look for precious things, fast travel, power, night sky, games of chance, and celestial beauty"
+    },
+    "answer": [
+      2,
+      1,
+      4,
+      3,
+      11,
+      21
+    ]
   }
 }
