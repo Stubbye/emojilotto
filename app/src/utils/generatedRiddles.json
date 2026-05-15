@@ -19654,5 +19654,23 @@
       13,
       6
     ]
+  },
+  "sol_913": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's spiral, the masked jester's twin flames ignite. Between the archer's mark and the serpent's scaled ascension, lightning splits the gemstone's heart. What six emblems crown the threshold where destiny's wheel spins and the night blooms eternal?",
+      "hint": "One points upward with heat, one descends with scales, one marks precision, one brings luck's deception, one splits reality, one sparkles with wealth."
+    },
+    "easyRiddle": {
+      "text": "A target and a rocket aim high. A gem shines bright. A dragon soars. Lightning strikes. The joker laughs. Which six are the chosen ones?",
+      "hint": "Count the objects described: aim, shine, soar, strike, laugh, and one more sparkles above."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      11
+    ]
   }
 }
