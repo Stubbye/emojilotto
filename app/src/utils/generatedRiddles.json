@@ -19708,5 +19708,23 @@
       10,
       3
     ]
+  },
+  "sol_915": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a faceted heart weeps crystalline tears. The trickster's grin dances with scaled eternity, while nature's winged metamorphosis spirals through celestial fire. Six keys unlock the gate between chaos and fate.",
+      "hint": "Think of targets, destiny, precious things, celestial bodies, transformation, and legendary beasts."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of luck: a mark to hit, a jewel to hold, a watcher in the sky, a shape-shifter's smile, a creature with wings, and a serpent of legend. What am I?",
+      "hint": "One is what you aim for, one shines bright, one is in the night sky, one tricks you, one flies, and one breathes fire."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      14,
+      15
+    ]
   }
 }
