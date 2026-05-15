@@ -19798,5 +19798,41 @@
       8,
       14
     ]
+  },
+  "sol_919": {
+    "hardRiddle": {
+      "text": "Where fortune's six celestial dancers convene: the archer's eternal mark meets the swift messenger of gods, while precious crystalline tears weep beneath the nocturnal sentinel. The tempest's violent tongue intertwines with the emergence of metamorphosis, and destiny's many-faced jester crowns the symphony with iridescent dust.",
+      "hint": "Think of symbols representing luck, speed, wealth, night, chaos, and transformation. Consider what celestial and mystical elements guide human fate."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols shine bright: aim true like an archer, soar high like a rocket, treasure what gleams like a gem, gaze at the moon above, feel the electric spark, and witness the butterfly's dance. Which six shall grant your wish?",
+      "hint": "One points forward, one flies upward, one sparkles with value, one glows at night, one strikes with power, and one transforms in beauty."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_337": {
+    "hardRiddle": {
+      "text": "A jester's fortune flies to celestial heights on wings of speed, leaving trails of brilliance and fortune's spark, where luck dances with volatile energy under the watchful gaze of destiny's crown.",
+      "hint": "Think of carnival chaos meeting crypto moonshots"
+    },
+    "easyRiddle": {
+      "text": "The funny one goes up fast with sparkles and luck, reaching the shining place while lightning strikes and a prize awaits.",
+      "hint": "Combine entertainment, speed, luck, height, electricity, and victory"
+    },
+    "answer": [
+      19,
+      1,
+      9,
+      3,
+      4,
+      17
+    ]
   }
 }
