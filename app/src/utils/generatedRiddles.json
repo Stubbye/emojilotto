@@ -19672,5 +19672,41 @@
       4,
       11
     ]
+  },
+  "sol_914": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial grace, a jester's grin echoes through prismatic veils. The winged metamorphosis seeks the archer's mark, while crystalline hearts pulse beneath the trickster's throne. Lightning bathes the masquerade in chaos reborn, and fate's many faces converge where rainbows touch the void.",
+      "hint": "Seek the symbols of transformation, deception, light, and chance intertwined in cosmic theater."
+    },
+    "easyRiddle": {
+      "text": "Six dancers of destiny: one strikes with fury, one wears many faces, one spreads its wings transformed, one marks the bullseye, one reflects all colors, and one holds the crown. Which six spin together in fortune's wheel?",
+      "hint": "Think of electricity, games, metamorphosis, precision, light, and victory."
+    },
+    "answer": [
+      5,
+      19,
+      8,
+      0,
+      9,
+      17
+    ]
+  },
+  "emlo_335": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises swift as lightning through the gem-filled sky, dancing with dragon fire beneath the moon's purple glow, where fortune sparkles in the circus of chaos.",
+      "hint": "Think of wild gains, cosmic dreams, and the unpredictable nature of memecoin gambling."
+    },
+    "easyRiddle": {
+      "text": "I climb to the moon with rocket speed, I shine like a gem, I strike like lightning, my fire burns bright, I sparkle with hope, and the joker laughs at my chaos.",
+      "hint": "Six symbols of crypto fortune and memecoin madness."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      10,
+      3
+    ]
   }
 }
