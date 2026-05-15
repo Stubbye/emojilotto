@@ -19870,5 +19870,23 @@
       13,
       21
     ]
+  },
+  "sol_922": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate convene. The winged metamorphosis dances with celestial fire, while crystalline dreams reflect the jester's grin. Thunder's arrow finds its mark upon the stage of wonder, and where petals bloom in prismatic tears, luck's true face emerges.",
+      "hint": "Transformation, performance, and celestial alignment hold the key. One brings laughter, one brings light from above, one strikes with fury."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck gather: the butterfly transforms, the joker laughs, the lightning strikes, the flower blooms, the rainbow arcs, and the target waits. Which six dance together in fortune's garden?",
+      "hint": "Look for: a fluttering insect, a silly character, electricity, nature's bloom, colored arc, and a bullseye."
+    },
+    "answer": [
+      8,
+      11,
+      4,
+      14,
+      9,
+      0
+    ]
   }
 }
