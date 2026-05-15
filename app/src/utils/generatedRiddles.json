@@ -19852,5 +19852,23 @@
       4,
       19
     ]
+  },
+  "sol_921": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sacred tokens dance in shadow's tale. The jester's grin reflects in crystalline depths, while wings of metamorphosis trace the lightning's breadth. A blazing serpent coils through spectrum's arc, as destiny's bolt ignites the starlit dark.",
+      "hint": "Consider what transforms, what guides, what glimmers, and what burns in the realm of luck."
+    },
+    "easyRiddle": {
+      "text": "Six symbols await: one points the way true, one laughs in disguise, one shimmers brand new. Wings carry wishes, fire breathes gold, crystal holds secrets that fortunes have told. A star crowns the path where lightning strikes fast.",
+      "hint": "Think of targets, jesters, butterflies, fire, crystals, and stars."
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      5,
+      13,
+      21
+    ]
   }
 }
