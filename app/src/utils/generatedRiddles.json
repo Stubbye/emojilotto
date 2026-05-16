@@ -19978,5 +19978,23 @@
       5,
       3
     ]
+  },
+  "sol_926": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jeweled serpent coils beneath the sphere of night's ancient gaze. The masked jester pirouettes through crystalline halls, while swift cunning watches from shadows. Six threads weave fate's tapestry in this ethereal game.",
+      "hint": "One brings luck, one brings fortune, one ascends, one descends, one entertains, one observes."
+    },
+    "easyRiddle": {
+      "text": "A shimmering stone, a reptile of myth, a circle of chance, a creature of wit, a silver orb above, and a fool's painted grin—find these six treasures to win.",
+      "hint": "Think of gems, dragons, dice, foxes, moons, and jokers."
+    },
+    "answer": [
+      4,
+      13,
+      11,
+      12,
+      3,
+      18
+    ]
   }
 }
