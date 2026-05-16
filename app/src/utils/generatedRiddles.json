@@ -20140,5 +20140,23 @@
       5,
       8
     ]
+  },
+  "sol_936": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial beacon, and fortune's stone gleams beside the sky's lantern. The serpent of thunder dances with amber tongues, whilst metamorphosis adorns the arc of prismatic tears. Chance's bones rest where mirth's jester grins, and destiny's emblem crowns the victor's claim.",
+      "hint": "Six symbols intertwine: one seeks, one rises, one shines, one rules, one transforms, one celebrates."
+    },
+    "easyRiddle": {
+      "text": "I seek with precision, I soar toward dreams, I sparkle with value, I light up the night, I strike with fury, and I change my form.",
+      "hint": "Think of aim, space travel, treasure, sky, weather, and nature's transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
