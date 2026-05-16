@@ -19888,5 +19888,41 @@
       9,
       0
     ]
+  },
+  "sol_923": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the vault of night, six mystical sentinels guard the gleaming sight. The trickster's grin dances with scaled majesty, while celestial flames waltz with nature's symmetry. Lightning births the jester's twin, and petaled dreams spiral within the crystal's spin.",
+      "hint": "One draws the bow, one rules the sky, one juggles fate, one has a sly eye, one burns bright with electric cheer, and one blooms where magic appears."
+    },
+    "easyRiddle": {
+      "text": "Six treasures await: a striker of aims, a ruler of stars, a master of games, a flower of grace, a beast breathing fire, and a crown burning higher.",
+      "hint": "Think of: something you shoot at, something overhead, something funny, something growing, something mythical, and something you win."
+    },
+    "answer": [
+      0,
+      21,
+      19,
+      14,
+      13,
+      17
+    ]
+  },
+  "emlo_338": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with velocity, seeking riches that sparkle and blind. Fortune's jester dances where lightning strikes twice, while my colorful spirit rises through chaos and flame.",
+      "hint": "Think of a memecoin journey: destination, speed, value, luck, entertainment, and the energy that drives it all."
+    },
+    "easyRiddle": {
+      "text": "What shoots up fast, shines bright, brings luck and laughter, and radiates with electric power and fiery passion?",
+      "hint": "You need 6 things: where you're going, how you get there, what you seek, good fortune, fun vibes, and pure energy."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      12,
+      19,
+      5
+    ]
   }
 }
