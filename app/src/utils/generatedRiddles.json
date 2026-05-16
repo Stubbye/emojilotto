@@ -20032,5 +20032,23 @@
       10,
       11
     ]
+  },
+  "sol_929": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate convene in shadow's lace. The winged deceiver dances with the scaled ancient one, while celestial fire paints the night undone. A prism born of storm and light, where chaos wears a jester's mask so bright. Seek the bloom of wonder's thread and crimson fury's spread.",
+      "hint": "Look to the sky's mysteries, the trickster's domain, and nature's most vivid transformations."
+    },
+    "easyRiddle": {
+      "text": "I contain a flying creature with patterns of grace, an ancient powerful being, a laughing fool's face, lightning's bright cousin, a flower so fair, and the target we chase through the lucky night air.",
+      "hint": "Think of what makes a lottery magical: mischief, nature, power, and precision."
+    },
+    "answer": [
+      7,
+      13,
+      19,
+      5,
+      15,
+      0
+    ]
   }
 }
