@@ -20158,5 +20158,23 @@
       4,
       8
     ]
+  },
+  "sol_937": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled serpent guards the gleaming heart beneath cosmic rays. The archer's mark blooms eternal while fortune's wheels spin—six sacred symbols of fate's grand masquerade await the seeker of iridescent dreams.",
+      "hint": "Think of luck, gambling, mythical guardians, night sky, and precious stones in their most symbolic forms."
+    },
+    "easyRiddle": {
+      "text": "A dragon watches over sparkling gems under the moon's gaze. A joker's hand spins the dice of destiny while a star shines bright. What six treasures of chance align?",
+      "hint": "One flies, one shines at night, one is precious, one is silly, one is random, one is lucky."
+    },
+    "answer": [
+      13,
+      6,
+      1,
+      21,
+      11,
+      4
+    ]
   }
 }
