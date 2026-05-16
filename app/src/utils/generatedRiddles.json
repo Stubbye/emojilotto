@@ -19942,5 +19942,41 @@
       4,
       5
     ]
+  },
+  "sol_925": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's celestial throne, six guardians dance in chromatic fire. The trickster's grin illuminates the gemstone's fractured soul, while wings of metamorphosis spiral through lightning's sacred geometry and the dragon's ancient flame devours the spectrum whole.",
+      "hint": "One guides from above, one deceives with mirth, one sparkles with worth, one transforms with grace, one strikes with fury, one consumes all color"
+    },
+    "easyRiddle": {
+      "text": "I point at prizes, I light the night sky, I glimmer with value, I change form in flight, I crack the heavens, I roar with heat. What am I, six times told?",
+      "hint": "Think of targets, celestial bodies, treasures, creatures, nature's fury, and primal power"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      5,
+      13
+    ]
+  },
+  "emlo_339": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking precious gems that sparkle with fortune. My mystical guide shows luck's playful face, while nature's lucky charm and fiery energy propel me toward rainbow riches beyond the stars.",
+      "hint": "Think of a memecoin's journey: blast off, fortune, luck, fire, and where it's headed"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🍀 brings luck, 🔥 burns hot, 🌙 is the destination",
+      "hint": "A memecoin hodler's dream: launch, speed, wealth, luck, hype, and moon"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      19,
+      5,
+      3
+    ]
   }
 }
