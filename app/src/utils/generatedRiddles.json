@@ -20104,5 +20104,41 @@
       4,
       9
     ]
+  },
+  "sol_935": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound ambition, six sentinels converge: the archer's mark meets the void-piercer, while gemstone truth gleams beneath the night's silent witness. The jester's twin-faced shadow pirouettes with nature's metamorphosis, as electric fury crowns the spectacle of wonder.",
+      "hint": "Seek the convergence of chance, fate, transformation, and theatrical mystery beneath a watchful gaze."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target for aim, a rocket for dreams, a gem that sparkles, the moon that watches, lightning's strike, and a butterfly's dance. Which are your winning numbers?",
+      "hint": "One brings precision, one brings speed, one brings brilliance, one brings night, one brings power, one brings change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_342": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins through cosmic fire, where winged creatures chase the gleaming prize. A wizard's stone glows purple bright, while lightning strikes and luck takes flight. What six symbols guide the memecoin's rise?",
+      "hint": "Think of carnival chaos meeting space adventure with magical elements"
+    },
+    "easyRiddle": {
+      "text": "Spin the dice like a silly joker, rocket to the moon so high. Purple gem sparkles in the fire, butterfly dances in the sky. What six emojis make you rich and fly?",
+      "hint": "Look for: a game piece, a fool, a spaceship, a celestial body, a precious stone, and a colorful insect"
+    },
+    "answer": [
+      11,
+      19,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
