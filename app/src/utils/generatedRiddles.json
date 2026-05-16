@@ -20050,5 +20050,41 @@
       15,
       0
     ]
+  },
+  "sol_931": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, the trickster's gambit unfolds. Through prismatic veils and crystalline whispers, fortune's joker dances with the night's eternal sentinel. A symphony of chance orchestrated by the shapeshifter's cunning grin, while gemstones weep beneath the jester's domain.",
+      "hint": "Seek the night guardian, the precious stone, the deceiver's mask, the elemental blaze, the court's fool, and the cunning beast."
+    },
+    "easyRiddle": {
+      "text": "I glow at night and guide the lost. I sparkle and shine with precious worth. I wear a grin and jest for sport. I burn with heat and light. I bow and mock with double face. I prowl with clever, sly embrace.",
+      "hint": "Look for: night sky, treasure, laughter, heat, fakery, and a clever animal."
+    },
+    "answer": [
+      3,
+      11,
+      19,
+      6,
+      18,
+      13
+    ]
+  },
+  "emlo_341": {
+    "hardRiddle": {
+      "text": "I launch to heights where few can see, my gems sparkle with electricity. A fox's trick in circus light, dancing through the dragon's flight. Where butterflies meet crystal fire, the joker's rainbow dreams aspire.",
+      "hint": "Count the magical creatures and shimmering elements"
+    },
+    "easyRiddle": {
+      "text": "Rocket zooms up to the moon so high, lightning and fire light up the sky. Gems and sparkles shine so bright, dancing in the rainbow light.",
+      "hint": "Think of things that glow and go up"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      10,
+      9
+    ]
   }
 }
