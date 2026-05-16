@@ -19924,5 +19924,23 @@
       19,
       5
     ]
+  },
+  "sol_924": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and twins of light dance in celestial space. The jester's grin reflects in crystal's soul, while serpent's fire completes the whole. Seek the mark where destiny is cast, where lightning splits the future from the past.",
+      "hint": "One guides the way, one guards the night; one laughs in masks, one burns so bright."
+    },
+    "easyRiddle": {
+      "text": "I am shot through the darkness to reach my aim. A precious stone glimmers with inner flame. The moon watches over while laughter plays near. A dragon of thunder makes all disappear.",
+      "hint": "Count six symbols: an archer's goal, a jewel, the night, amusement, electricity, and fire."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      18,
+      4,
+      5
+    ]
   }
 }
