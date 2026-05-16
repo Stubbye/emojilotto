@@ -19996,5 +19996,41 @@
       3,
       18
     ]
+  },
+  "sol_928": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal glow, six sentinels of fate perform their cryptic show. The jester's twin-faced mask conceals what lightning knows, while winged metamorphosis through prismatic pathways goes. A dragon's scales reflect the gem that burns in night, and where the star ascends, the clover's luck takes flight.",
+      "hint": "Seek the convergence of chaos, transformation, precious light, and fortune's sacred symbols intertwined."
+    },
+    "easyRiddle": {
+      "text": "One points where aim is true, one climbs toward the sky. One sparkles with great worth, one rules the night on high. One dances wild and free with wings of change, and one brings luck in patterns strange.",
+      "hint": "Think of: precision, ascension, value, darkness, transformation, and fortune."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      21,
+      8,
+      19
+    ]
+  },
+  "emlo_340": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkle with precious allure, and dance with fortune's electric kiss. Find the symbols of my cosmic journey: the vessel of ascension, the gem of value, the celestial body of destiny, the strike of sudden luck, the shimmering magic, and the wheel of chance.",
+      "hint": "A memecoin's path to glory requires velocity, wealth, dreams, fortune, wonder, and fate"
+    },
+    "easyRiddle": {
+      "text": "What 6 symbols represent a memecoin going to the moon? 🚀 to get there, 💎 to hold, 🌙 as the goal, ⚡ for fast gains, ✨ for magic, and 🎲 for the gamble?",
+      "hint": "Think about rockets, gems, moons, lightning, sparkles, and dice"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11
+    ]
   }
 }
