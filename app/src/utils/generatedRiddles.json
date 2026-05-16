@@ -20086,5 +20086,23 @@
       10,
       9
     ]
+  },
+  "sol_933": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the jester's twin masks guard fortune's descent. Six harbingers dance: the archer's distant mark, the silver sentinel ascending, the crystalline tear of earth's deepest womb, the tempest's violent kiss, the nocturnal flame ascending void-ward, and the spectrum's bridge bending between worlds.",
+      "hint": "Consider the duality of chaos and precision, the journey from ground to heavens, and colors that birth from separation."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: a distant circle to aim for, a vessel climbing high, a precious stone buried deep, the sky's guardian eye, nature's violent strike, and light scattered into many hues. What are they?",
+      "hint": "Think of targets, journeys upward, treasures, celestial bodies, natural forces, and light."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      20,
+      4,
+      9
+    ]
   }
 }
