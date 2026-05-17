@@ -20320,5 +20320,23 @@
       5,
       8
     ]
+  },
+  "sol_944": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial fire, six whispers dance in fortune's gyre. The jester's gleam through prism splits, as scaled majesty's shadow flits. Twin celestial orbs ascend and fall, while nature's bloom transcends them all.",
+      "hint": "Consider performers, elements, and what transforms light into possibility itself"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and magic: a court fool laughs, a dragon dreams, a crystal splits white light to rainbows, flames leap high, and two celestial bodies shine—one through night, one through prism's delight.",
+      "hint": "Look for: a playing card character, a mythical beast, something that refracts light, heat, and the sky"
+    },
+    "answer": [
+      17,
+      14,
+      20,
+      6,
+      21,
+      1
+    ]
   }
 }
