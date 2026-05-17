@@ -20410,5 +20410,23 @@
       9,
       20
     ]
+  },
+  "sol_949": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels guard fate's hidden place. The winged performer dances through the night, while celestial fire weaves threads of light. A jester's crown hides wisdom's jest, and nature's bloom crowns destiny's quest.",
+      "hint": "Think of symbols that blend chance, performance, cosmic wonder, and trickery together."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the joker's game, the rocket's flight, the dragon's might, the butterfly's grace, and the star's bright face.",
+      "hint": "These six emoji names appear directly in the riddle itself."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      13,
+      8,
+      21
+    ]
   }
 }
