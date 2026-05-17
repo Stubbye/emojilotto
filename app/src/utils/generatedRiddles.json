@@ -20230,5 +20230,23 @@
       21,
       9
     ]
+  },
+  "emlo_344": {
+    "hardRiddle": {
+      "text": "A jester's fortune rides the storm with crystalline dreams, chasing celestial fortune through electric ascension, where four-leaf destiny dazzles under cosmic fire.",
+      "hint": "Think of luck, speed, precious things, and what memecoiners chase most"
+    },
+    "easyRiddle": {
+      "text": "I am a laughing trickster, I sparkle bright, I climb to the moon on lightning might, I burn with fire, and luck's my game.",
+      "hint": "A joker, something shiny, the moon, electricity, heat, and fortune"
+    },
+    "answer": [
+      19,
+      1,
+      21,
+      3,
+      5,
+      20
+    ]
   }
 }
