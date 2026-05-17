@@ -20464,5 +20464,23 @@
       6,
       19
     ]
+  },
+  "sol_951": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a masked jester spins beneath the crescent's gleam. The swift deceiver's cunning glimmers in crystalline shards, while scaled wisdom guards the threshold between worlds. Six symbols converge where destiny's arrow meets the spectrum of chance.",
+      "hint": "One rules the night, one guards deception, one embodies luck, one represents trickery, one sparkles with value, and one breathes ancient magic."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: the night's great eye, the magician's twin, fortune's precious stone, the serpent ancient, the jester of cards, and the fox so sly. Together we write the lottery's fate.",
+      "hint": "Look for: moon, masks, gem, dragon, joker, and fox among the emojis."
+    },
+    "answer": [
+      1,
+      18,
+      2,
+      13,
+      11,
+      12
+    ]
   }
 }
