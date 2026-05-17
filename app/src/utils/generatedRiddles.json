@@ -20338,5 +20338,23 @@
       21,
       1
     ]
+  },
+  "sol_945": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens spin between the mortal and ethereal. The archer's mark meets the serpent's ancient scales, while heaven's silver witness guards where fate unveils. Chaos blooms in crystalline splendor, as wings of transformation render the gambler's tender.",
+      "hint": "Consider celestial bodies, mythical creatures, and elements of chance dancing together in poetic symmetry."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in night and flame: a target for precision, a dragon of old fame, a moon that watches all, crystal that won't fall, lightning's electric call, and butterfly that answers the riddle's thrall.",
+      "hint": "Think of the night sky, magical creatures, natural elements, and things that sparkle or move with grace."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      20,
+      4,
+      8
+    ]
   }
 }
