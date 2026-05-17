@@ -20482,5 +20482,23 @@
       11,
       12
     ]
+  },
+  "sol_952": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits waltz in shadowed trance. The archer's mark aligns with dreams that soar, while scales of chance and fate explore. A jeweled heart beats in twilight's glow, and wings of transformation steal the show. Thunder's kiss upon the crown, as masquerade descends to town.",
+      "hint": "Think of targets, ascension, precious things, night sky, electricity, and theatrical deception."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: something you aim for, something that flies high, something that sparkles, something in the night sky, something electric, and something with a happy face.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Joker"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
