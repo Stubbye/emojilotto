@@ -20248,5 +20248,23 @@
       5,
       20
     ]
+  },
+  "sol_941": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six artifacts dance in fortune's frame. The archer's mark aligns with night's pale gaze, while fortune's jester juggles destiny's maze. Prismatic shards catch light's electric kiss, as winged metamorphosis seals the abyss. One grants the wish, one spins the wheel of fate—which six shall converge at fortune's gate?",
+      "hint": "Consider symbols of luck, chance, transformation, and cosmic alignment. One element burns, one flies, one shines with inner light."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this rhyme: a bullseye mark, a jester so fine, a dragon proud, a clover's sign, lightning bright, and stars that shine. Together they unlock the prize—can you name them to win the skies?",
+      "hint": "Look for symbols of luck, magic, power, and games of chance. All six are among the most recognizable fortune symbols."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      19,
+      4,
+      21
+    ]
   }
 }
