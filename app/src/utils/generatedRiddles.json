@@ -20212,5 +20212,23 @@
       5,
       0
     ]
+  },
+  "sol_939": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's double faces, a winged metamorphosis seeks the treasure beneath prismatic arcs. The bolt strikes through destiny's masquerade, while jeweled lightning crowns the night's eternal gaze.",
+      "hint": "Look for transformation, chance, electricity, and things that shimmer in the cosmic theater."
+    },
+    "easyRiddle": {
+      "text": "Find the spark of luck, the gem of wishes, the butterfly's journey, the mask of chance, the star's eternal light, and the arc of many colors.",
+      "hint": "One sparkles, one shines, one transforms, one hides identity, one guides, and one appears after storms."
+    },
+    "answer": [
+      10,
+      5,
+      8,
+      19,
+      21,
+      9
+    ]
   }
 }
