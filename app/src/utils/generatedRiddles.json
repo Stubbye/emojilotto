@@ -20392,5 +20392,23 @@
       3,
       5
     ]
+  },
+  "sol_947": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes betwixt the celestial fire and earth's verdant charm, six whispers dance: the crimson blaze devours all pretense, the lunar sentinel watches over masks of metamorphosis, while prismatic brilliance shatters through the abyss, and nature's fleeting acrobat finds sanctuary in the clover's blessed trinity.",
+      "hint": "One embodies chaos, one watches in silence, one splits light into infinity, one transforms, one blooms eternal, and one brings luck thrice over."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in shadow: a joker grins, fire burns bright, the moon glows above, a butterfly transforms, a rainbow spans wide, and fortune's clover whispers its secret.",
+      "hint": "Think of laughter, heat, night, change, colors, and luck."
+    },
+    "answer": [
+      19,
+      5,
+      3,
+      8,
+      9,
+      20
+    ]
   }
 }
