@@ -20284,5 +20284,41 @@
       4,
       20
     ]
+  },
+  "sol_943": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny converge. The archer's mark meets the void's eternal gaze, while gemstone truth reflects the jester's hidden wisdom. Swift-winged metamorphosis pirouettes through charged chaos, and the serpent's ancient fire breathes across the cosmic threshold.",
+      "hint": "Think of targets, night sky, precious stones, trickery, transformation, and mythical power."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols: one marks the center, one rules the night, one sparkles with value, one wears a mask, one changes form with wings, and one roars with ancient might.",
+      "hint": "Aim, moon, gem, joker, butterfly, dragon"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      8,
+      14
+    ]
+  },
+  "emlo_345": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gems sparkle as fortunes ignite with fiery passion. The jester's magic dances through chaos, while nature's delicate messenger flutters near the rainbow's end. What six symbols reveal the memecoin gambler's ultimate fantasy?",
+      "hint": "Think of a journey from Earth to riches, powered by luck and intensity"
+    },
+    "easyRiddle": {
+      "text": "A 🚀 goes to the 🌙, where 💎 shine bright. ⚡ powers the 🔥, and a 🦋 brings luck. What are these six?",
+      "hint": "Read the emojis in order"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      8
+    ]
   }
 }
