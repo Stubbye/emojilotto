@@ -20428,5 +20428,41 @@
       8,
       21
     ]
+  },
+  "sol_950": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial pearl witnesses the dance of chaos and brilliance. The winged wanderer alights upon petals of creation, while the serpent of storms coils through fractured light. In this theater of fate, the jester's grin masks the price of reaching heaven's crown.",
+      "hint": "One guides, one watches, one transforms, one creates, one performs, one rules."
+    },
+    "easyRiddle": {
+      "text": "Find the target that reaches the moon, the butterfly near a flower, the lightning with the dragon, and the joker laughing in the circus tent.",
+      "hint": "Look for things that point upward, fly, strike, and entertain."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      8,
+      13,
+      19
+    ]
+  },
+  "emlo_347": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkle with precious allure, and dance through fortune's rainbow. My joker court celebrates with fire and theatrical masks. What six treasures define my memecoin madness?",
+      "hint": "Think of a coin's journey to the moon, its dazzling appeal, and the chaotic fun surrounding it."
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off, 💎 shines bright, 🌙 is the destination, ⚡ strikes fast, 🎪 entertains wildly, and 🎭 hide identities. These six symbols fuel the wildest ride in crypto. Can you spot them?",
+      "hint": "One goes up, one glows, one is up high, one is quick, one is fun, and one hides."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      19
+    ]
   }
 }
