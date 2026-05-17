@@ -20356,5 +20356,41 @@
       4,
       8
     ]
+  },
+  "sol_946": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the jeweled path spirals through luck's amphitheater. Six whispers in the void: one marks the hunter's aim, one pierces the veil between worlds, one glimmers with ancient desire, one crowns the victor's dream, one shuffles destiny's bones, and one wears the mask of merriment. Seek the constellation of chance where lightning's children play.",
+      "hint": "Consider what governs fate, fortune, and theatrical chance. Look for symbols of victory, randomness, and the stage."
+    },
+    "easyRiddle": {
+      "text": "I need six symbols for a lucky draw: something you aim with, something that shines bright, something from the sky, something that brings luck, something that's fun and random, and something that entertains. What am I looking for?",
+      "hint": "Think of lottery symbols: aim, sparkle, celestial, fortune, games, and performance."
+    },
+    "answer": [
+      0,
+      10,
+      21,
+      18,
+      3,
+      19
+    ]
+  },
+  "emlo_346": {
+    "hardRiddle": {
+      "text": "I launch to new heights with electric speed, sparkle with gems that make holders succeed. My fire burns bright under moonlit skies, while fortune's wheel spins as my value flies. Dance like a butterfly through circus thrills, collect the rainbow when lightning fulfills.",
+      "hint": "Six symbols of crypto dreams and memecoin schemes"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 💎 means wealth, ⚡ strikes with might, 🌙 glows at night, 🔥 burns hot. Can you spot all six in this memecoin lot?",
+      "hint": "Look for launch, sparkle, treasure, speed, darkness, and heat"
+    },
+    "answer": [
+      1,
+      10,
+      2,
+      4,
+      3,
+      5
+    ]
   }
 }
