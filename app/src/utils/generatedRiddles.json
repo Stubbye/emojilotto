@@ -20266,5 +20266,23 @@
       4,
       21
     ]
+  },
+  "sol_942": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while masked performers dance upon crystalline stages. The fox's cunning guides the seeker through prismatic mists to where lightning crowns the silent watcher. Six secrets hide in this cosmic theater of chance.",
+      "hint": "Consider the journey from earthly trickster to heavenly guardian, through performance and transformation."
+    },
+    "easyRiddle": {
+      "text": "Find the target that the rocket aims for, the dragon's treasure, the performer's mask, the fox in nature, the lightning in the sky, and the crystal that sparkles.",
+      "hint": "One is a goal, one flies, one is mythical, one is sly, one is stormy, and one is precious."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      13,
+      4,
+      20
+    ]
   }
 }
