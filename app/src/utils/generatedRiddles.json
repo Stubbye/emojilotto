@@ -20500,5 +20500,41 @@
       4,
       11
     ]
+  },
+  "sol_953": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate await: the shimmer that devours darkness, the winged metamorphosis between realms, the crowned jewel of night's domain, the serpent of ancient wisdom coiled in starlight, the tempest's violent kiss that births the spectrum's bridge, and the jester's painted smile that holds all secrets.",
+      "hint": "One ascends, one transforms, one illuminates darkness, one guards knowledge, one creates beauty from chaos, and one knows the truth of all games."
+    },
+    "easyRiddle": {
+      "text": "A sparkly night visitor, a magical fire-breather, a butterfly's dance partner, lightning's bright cousin, a rainbow's painter, and the trickster's grin await your choice.",
+      "hint": "Look for: shine, wings, magic, electricity, colors, and laughter"
+    },
+    "answer": [
+      10,
+      8,
+      4,
+      14,
+      9,
+      19
+    ]
+  },
+  "emlo_348": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electrifying speed, my gem-filled rocket ignites the fire of fortune. Where lightning strikes and sparkles dance, the joker's luck meets destiny's flame.",
+      "hint": "Find the symbols of speed, wealth, chaos, electricity, fortune, and ambition in this memecoin journey."
+    },
+    "easyRiddle": {
+      "text": "A fast ship goes up, bright rocks shine, electricity zaps, magic twinkles, a silly jester plays, and hot flames burn bright.",
+      "hint": "Look for: rocket, gem, lightning, sparkles, joker, and fire."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      10,
+      17,
+      5
+    ]
   }
 }
