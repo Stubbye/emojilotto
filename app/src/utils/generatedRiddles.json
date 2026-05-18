@@ -20680,5 +20680,41 @@
       10,
       5
     ]
+  },
+  "sol_960": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny converge. The archer's mark meets the thunderbolt's kiss, as gemstone brilliance catches the night's gaze. Between the trickster's grin and the scaled guardian's wisdom, a metamorphosis unfolds beneath prismatic light.",
+      "hint": "Consider symbols of luck, chaos, precision, and transformation. One guides upward, one crackles with power, one glimmers with value."
+    },
+    "easyRiddle": {
+      "text": "Find the target and lightning. Add the gem that shines. Include the dragon's wisdom and the joker's mystery. Complete the set with the butterfly's transformation.",
+      "hint": "These six emojis represent fortune, power, wealth, mischief, magic, and change."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      13,
+      11,
+      8
+    ]
+  },
+  "emlo_352": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, my gems sparkle as lightning strikes the night, dancing through fire and rainbow waves, guided by fortune's dice and a magical creature's glow beneath the stars.",
+      "hint": "Think of a memecoin journey: launch, wealth, speed, luck, magic, and destiny"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, 💎 makes you rich, ⚡ is quick, 🌙 is the goal, 🔥 is hot energy, ⭐ shines bright. What are these 6 symbols of crypto dreams?",
+      "hint": "Combine rocket, gem, lightning, moon, fire, and star"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      21
+    ]
   }
 }
