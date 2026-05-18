@@ -20608,5 +20608,41 @@
       5,
       11
     ]
+  },
+  "sol_957": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheeled companion, the masked jester's twin flames ignite. Beneath the lunar veil, crystalline shards catch lightning's kiss, while the scaled serpent guards the threshold between chaos and destiny's bull's-eye.",
+      "hint": "Think of chance meetings between sky and earth, where entertainers whisper secrets to gemstones."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: the glowing stone, the night's guardian, the electric bolt, the pointed aim, the serpent's wisdom, and the laughing trickster await your selection.",
+      "hint": "Look for jewels, celestial bodies, electricity, targets, dragons, and comedians."
+    },
+    "answer": [
+      3,
+      7,
+      4,
+      0,
+      13,
+      19
+    ]
+  },
+  "emlo_351": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault where fortunes multiply. A radiant gem ignites the path while electricity crackles through my ascent. Chaos dances wildly as fortune's jester grins, and nature's delicate wings flutter toward inevitable glory.",
+      "hint": "Follow the trajectory of wealth: what rises, sparkles, and brings luck in the crypto realm?"
+    },
+    "easyRiddle": {
+      "text": "🚀 takes you UP, 💎 shines bright, ⚡ means FAST gains, 🌙 is where we're going, 🦊 is sly like traders, and 🎭 represents the game of chance.",
+      "hint": "These 6 emojis tell the story of a memecoin journey to riches!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      13,
+      19
+    ]
   }
 }
