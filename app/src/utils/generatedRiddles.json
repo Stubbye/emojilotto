@@ -20644,5 +20644,23 @@
       13,
       19
     ]
+  },
+  "sol_958": {
+    "hardRiddle": {
+      "text": "Where celestial serpent coils through prismatic veil, and fortune's jester dances betwixt the hunter's gaze, while winged metamorphosis pirouettes past the charged heavens—seek the six that shimmer in destiny's masquerade, where emerald splendor crowns the night's silent witness.",
+      "hint": "One hunts, one laughs, one transforms, one illuminates the dark, one blazes eternal, one glimmers with cosmic dust."
+    },
+    "easyRiddle": {
+      "text": "Find the dragon of night, the gem's green fire, the moon's pale guardian, the joker's mischief, the butterfly's grace, and the sparkles of magic dancing between them all.",
+      "hint": "Look for: a mythical creature, something precious, the night sky, a trickster, an insect, and shimmering light."
+    },
+    "answer": [
+      13,
+      11,
+      19,
+      9,
+      20,
+      10
+    ]
   }
 }
