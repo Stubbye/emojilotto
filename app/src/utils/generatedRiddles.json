@@ -20662,5 +20662,23 @@
       20,
       10
     ]
+  },
+  "sol_959": {
+    "hardRiddle": {
+      "text": "Through celestial silk where fortune's jester dances, a scaled leviathan strikes with prismatic chances. Where molten passion meets the archer's ancient quest, six guardians of fate shall put your luck to test. The winged sprite of transformation joins the reveler's masked jest, while crystalline fragments of frozen starlight manifest.",
+      "hint": "One rules the heavens, one breathes chaos, one amuses, one transforms, one shimmers eternal, and one strikes with precision."
+    },
+    "easyRiddle": {
+      "text": "I am a dragon breathing fire, a gem that gleams so bright. A joker's smile hides mystery, as lightning splits the night. A butterfly takes flight with sparkles trailing far. What six treasures dance together beneath the lucky star?",
+      "hint": "Find the magical creatures, the bright stone, the jester, the spark, the shimmer, and the bolt."
+    },
+    "answer": [
+      13,
+      6,
+      19,
+      8,
+      10,
+      5
+    ]
   }
 }
