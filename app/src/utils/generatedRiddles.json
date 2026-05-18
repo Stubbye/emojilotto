@@ -20536,5 +20536,41 @@
       17,
       5
     ]
+  },
+  "sol_954": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's crown, and the trickster's grin meets the jeweled night—seek the arc of prismatic hope that bridges the chasm between chaos and destiny, where the winged metamorphosis spins beneath the gleaming veil of possibility.",
+      "hint": "Look for: night's companion, the fool's laughter, brilliance eternal, color's birth, transformation's dance, and victory's symbol"
+    },
+    "easyRiddle": {
+      "text": "Find the moon's glow, the joker's jest, the gem's shine, the rainbow's colors, the butterfly's grace, and the trophy's glory.",
+      "hint": "One lights the night, one makes you laugh, one sparkles bright, one has many colors, one has wings, one celebrates winning"
+    },
+    "answer": [
+      3,
+      19,
+      2,
+      9,
+      8,
+      18
+    ]
+  },
+  "emlo_349": {
+    "hardRiddle": {
+      "text": "I surge with volatile energy, dancing between poles of fortune and ruin. My first guardian strikes with speed, my second ascends to celestial heights. My third glimmers with precious worth, my fourth crackles with raw power, my fifth burns with unstoppable force, and my sixth sparkles with cosmic dust. Together we represent the memecoin dream: fast gains, moon shots, hidden gems, explosive volatility, and magical moments. What are we?",
+      "hint": "Think of the journey from zero to hero in crypto: velocity, destination, value, intensity, heat, and luck"
+    },
+    "easyRiddle": {
+      "text": "Five emojis tell a memecoin story: ⚡ makes things move fast, 🚀 takes you to the 🌙, 💎 shows your gains are precious, 🔥 shows the hype is real, and ✨ adds that magical touch. What's the sixth emoji that completes this lucky ride to the moon?",
+      "hint": "It's a symbol of fortune and chance, often associated with Irish luck and winning"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      19
+    ]
   }
 }
