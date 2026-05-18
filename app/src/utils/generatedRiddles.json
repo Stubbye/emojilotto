@@ -20716,5 +20716,23 @@
       5,
       21
     ]
+  },
+  "sol_961": {
+    "hardRiddle": {
+      "text": "Through celestial gates where fortune's twin flames dance, a jester's grin and fox's cunning glance meet. Six symbols weave where chaos plays its card: the winged transformation, the archer's mark, lightning's jagged thread, and dreams crystallized in stellar shard.",
+      "hint": "One brings fortune's laughter, one hunts in shadow, one transforms, one strikes with fury, one aims true, one shines eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the trickster's smile, the night watcher, the quick striker, the hunter of night, the one who always hits, and the eternal light.",
+      "hint": "Joker, Moon, Lightning, Fox, Target, Star"
+    },
+    "answer": [
+      19,
+      3,
+      4,
+      13,
+      0,
+      21
+    ]
   }
 }
