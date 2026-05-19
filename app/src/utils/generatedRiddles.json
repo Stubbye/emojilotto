@@ -20932,5 +20932,23 @@
       4,
       8
     ]
+  },
+  "emlo_356": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, a gem that sparkles when fortunes breed. Through circus chaos, my dragon soul dances with fire, reaching the trophy of every holder's desire. What am I?",
+      "hint": "Think of a token's journey to wealth and the magic that fuels memecoin dreams."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the 🌙, lightning fast gains, 💎 sparkles bright, 🔥 through my veins, 🎯 for the moon, 🏆 is the aim!",
+      "hint": "These emojis show a memecoin's path to success."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      0,
+      18
+    ]
   }
 }
