@@ -20806,5 +20806,41 @@
       8,
       19
     ]
+  },
+  "sol_965": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent coils beneath celestial silver. The jester's painted grin mocks the seeker who chases flames through prisms of light, while nature's winged dancer pirouettes through the storm's electric breath. In this sacred geometry of chance, six truths converge.",
+      "hint": "One guides the way, one guards ancient power, one laughs at fate, one burns with desire, one floats on chaos, one transforms."
+    },
+    "easyRiddle": {
+      "text": "I point the way. I fly through space. I wear many faces and laugh. I dance with wings. I shine with power. I strike from above. What six treasures complete the circle?",
+      "hint": "Think of direction, speed, trickery, nature, magic, and nature's fury."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      11,
+      7,
+      4
+    ]
+  },
+  "emlo_354": {
+    "hardRiddle": {
+      "text": "I chase the 🚀 to reach the 🌙, my ⚡ burns bright like 🔥, yet I'm as precious as a 💎 and spin like the 🎪 of fortune. What am I?",
+      "hint": "A volatile digital asset that promises moon gains with electric energy"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, Lightning strikes fast, Fire burns hot, Gem shines bright, Moon glows above, Circus spins around. Which six things fuel a memecoin dream?",
+      "hint": "All six emojis represent the hype and chaos of crypto"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      3,
+      7
+    ]
   }
 }
