@@ -20896,5 +20896,23 @@
       3,
       13
     ]
+  },
+  "sol_968": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets earthbound fortune's dance, six veils of destiny intertwine. The archer's mark aligns with heaven's glow, while swift messenger pierces the veil between worlds. Precious essence catches light eternal, and the trickster's grin masks nature's metamorphosis. Lightning's twin energy binds them all—one born of chaos, one of grace's spiral ascent.",
+      "hint": "Seek the cosmic performer's stage where luck and fate embrace in electric silence."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within the night: a bullseye bright, a rocket's flight, a gem so tight, the moon's soft light, a bolt of might, and change in sight.",
+      "hint": "Three celestial, two quick and bright, one shines in darkness."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
