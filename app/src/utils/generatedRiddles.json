@@ -20788,5 +20788,23 @@
       8,
       17
     ]
+  },
+  "sol_964": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial guardian bathes in ethereal light. The serpent of electricity coils through destiny's flame, while winged metamorphosis dances upon a bridge of seven hues. In chaos' numbered bones and the jester's knowing grin, luck is crystallized and beauty blooms eternal.",
+      "hint": "Seek the symbols of chance, sky, transformation, and trickery woven with nature's spectrum and the spark of fate."
+    },
+    "easyRiddle": {
+      "text": "I contain a bullseye, a flying wish, a dragon's cousin, lightning's flash, a butterfly's dance, and a fool's smile. What am I?",
+      "hint": "Look for target, rocket, fire, lightning, butterfly, and joker among the spinning wheels of fortune."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      4,
+      8,
+      19
+    ]
   }
 }
