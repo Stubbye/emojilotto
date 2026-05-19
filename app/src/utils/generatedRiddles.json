@@ -20752,5 +20752,41 @@
       8,
       11
     ]
+  },
+  "sol_963": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels await. The archer's mark gleams beneath the wanderer's gaze, while trickster's grin echoes through prismatic cascades. Twin serpents of luck coil around the jester's crown, as nature's winged wanderer spirals through chambers of chance. Seek the radiant heart where performance and destiny entwine.",
+      "hint": "Consider symbols of luck, performance, fortune, celestial bodies, and creatures of transformation."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in plain sight: one shines above at night, one bursts with sudden power, one deceives with laughter, one brings fortune's flower, one glimmers bright and pure, one floats on delicate wing.",
+      "hint": "Think of: something in the sky, electricity, a trickster, four-leaf charm, jeweled stone, and an insect."
+    },
+    "answer": [
+      1,
+      3,
+      11,
+      13,
+      19,
+      8
+    ]
+  },
+  "emlo_353": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with blazing speed, a glittering treasure in my sights. Fortune's jester dances with electric fortune, while nature's winged beauty flutters through cosmic waves. What six symbols guide the memecoin dreamer to ultimate glory?",
+      "hint": "Think of a journey: velocity, wealth, chaos, transformation, oscillation, and victory"
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts toward 🌙, carrying 💎 with ⚡ speed. 🦋 celebrates the win with 🏆. Which six emojis represent the perfect memecoin dream?",
+      "hint": "Rocket, Moon, Gem, Lightning, Butterfly, Trophy"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      8,
+      17
+    ]
   }
 }
