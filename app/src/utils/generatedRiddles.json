@@ -20734,5 +20734,23 @@
       0,
       21
     ]
+  },
+  "sol_962": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, six celestial dancers weave through cryptic haze. The trickster's spark ignites the winged ascent, while crystalline brilliance marks the heavens' descent. In this cosmic theater, fate's fool performs his jest—can you name the six that pass the lottery's test?",
+      "hint": "Seek the jester among the stars, where gemstones catch lightning's kiss, and transformation takes flight."
+    },
+    "easyRiddle": {
+      "text": "Six magical things hide in plain sight: one points the way, one climbs so high, one sparkles bright, one tricks the eye, one changes form, and one shines in night. What are they?",
+      "hint": "Think of targets, rockets, gems, moons, jokers, and butterflies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      11
+    ]
   }
 }
