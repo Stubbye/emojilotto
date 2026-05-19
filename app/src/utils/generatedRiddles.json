@@ -20914,5 +20914,23 @@
       4,
       10
     ]
+  },
+  "sol_969": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial whispers dance in shadow's grace. The jester's grin reflects in crystalline thought, while serpent's flame and lunar secrets are caught. Between the trembling bolts of fate's own song, a winged metamorphosis rights all wrong.",
+      "hint": "One brings precision to chaos, one dwells in darkness, one laughs at destiny, one burns with ancient wisdom, one strikes with fury, one transforms suffering into beauty."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where lightning splits the sky: a pointed aim, a joke that makes you sigh, a dragon's wisdom burning bright and red, the moon that watches overhead, a crystal that reflects all light, and wings that flutter through the night.",
+      "hint": "Think of: something you point at, something funny, something hot and mythical, something in the sky, something shiny, and something that flies."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      3,
+      4,
+      8
+    ]
   }
 }
