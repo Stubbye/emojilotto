@@ -20842,5 +20842,23 @@
       3,
       7
     ]
+  },
+  "sol_966": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, and twin flames dance with gemstone's tear. The jester's grin beneath the crescent's gleam, while electricity weaves through fortune's dream. Six tokens hold the secret of the night—one strikes the goal, one climbs the height, one burns with passion's ancient art, one glimmers where the shadows start, one laughs behind the mask of chance, one sparkles in the cosmic dance.",
+      "hint": "Consider what targets ambition, what rises heavenward, what burns bright, what shines in darkness, what brings luck, and what holds joy."
+    },
+    "easyRiddle": {
+      "text": "I am the goal you aim to hit, the fire that makes spirits lit, the gem that catches every eye, the rocket that will touch the sky, the jester that makes fortune play, and lightning that lights up the way.",
+      "hint": "Think of success, passion, value, ambition, luck, and power."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      4,
+      11,
+      19
+    ]
   }
 }
