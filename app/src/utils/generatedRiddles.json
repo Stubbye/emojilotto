@@ -20860,5 +20860,41 @@
       11,
       19
     ]
+  },
+  "sol_967": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six guardians dance in chaos tamed. The jester's grin beneath Luna's gaze, a serpent coils through fortune's maze. Wings of transformation kiss the prism's art, while thunder crowns the victor's heart.",
+      "hint": "Think of chance, performance, night, mythical power, change, and triumph combined."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await your call: a target true, a dragon tall, the moon so bright, the lightning's might, a butterfly's flight, and a trophy in sight.",
+      "hint": "Count the objects mentioned: aim, mythical beast, night orb, electricity, insect transformation, and prize."
+    },
+    "answer": [
+      0,
+      13,
+      3,
+      14,
+      8,
+      17
+    ]
+  },
+  "emlo_355": {
+    "hardRiddle": {
+      "text": "To the moon I race with lightning speed, through fire and sparkles for memecoin greed. A gem-like trophy awaits the bold, where dragons dance and fortunes unfold. What six celestial symbols guide this wild ride?",
+      "hint": "Think of a journey to space wealth, featuring speed, treasure, and mythical power."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 🔥 burns hot, 💎 glitters tight. Add a 🌙 for dreams and a 🐉 for might. Can you spot these six in our memecoin flight?",
+      "hint": "Look for launch, shine, heat, sparkle, night sky, and a legendary beast."
+    },
+    "answer": [
+      1,
+      9,
+      5,
+      2,
+      3,
+      13
+    ]
   }
 }
