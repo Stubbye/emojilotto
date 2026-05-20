@@ -21148,5 +21148,23 @@
       2,
       20
     ]
+  },
+  "sol_979": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial dancer pirouettes through crystalline echoes. The jester's laughter ignites a spectrum born from chaos, while delicate wings carry whispers of enchanted gardens to the throne of eternal brilliance.",
+      "hint": "Consider the journey from aim to achievement, the cosmic meeting of night and joy, the transformation of chance into wonder."
+    },
+    "easyRiddle": {
+      "text": "I fly with purpose toward dreams. I glow in darkness above. I sparkle with beauty and worth. I laugh at all odds. I shimmer with light and magic. I bloom eternal and pure.",
+      "hint": "Think of targets met, lunar nights, precious gems, lucky jesters, magical glitter, and gardens of hope."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      10,
+      14
+    ]
   }
 }
