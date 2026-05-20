@@ -21094,5 +21094,23 @@
       11,
       6
     ]
+  },
+  "sol_977": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the phoenix birth ignites the storm's crescendo. The jester's twin-faced grin watches chaos bloom in chromatic waves, whilst the scaled behemoth guards the threshold between dreams and ember. Seek the six that waltz in paradox: precision's aim, ascension's flame, the fool's wisdom, the sky's romance, inferno's tongue, and the serpent's ancient dominion.",
+      "hint": "One shoots straight, one rises high, one burns bright, one rules the sky, one laughs in duality, one hoards eternity"
+    },
+    "easyRiddle": {
+      "text": "I point at targets with perfect aim. I reach the stars with burning flame. I jest and mock with two-faced cheer. I glow above throughout the year. I strike with fury from the sky. I coil and roar, majestic and sly.",
+      "hint": "Aim, rise, laugh, night, shock, scales"
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      21,
+      4,
+      13
+    ]
   }
 }
