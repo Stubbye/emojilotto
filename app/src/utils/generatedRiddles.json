@@ -21022,5 +21022,41 @@
       23,
       20
     ]
+  },
+  "sol_974": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and twin flames waltz with fortune's gleam, the jester's grin echoes through crystalline corridors of luck, whilst the winged messenger of metamorphosis bows before the treasury of stars—seek ye the six that unlock the gate between worlds.",
+      "hint": "One pierces, one celestial, two burn, one grins, one transforms, one shines."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that aims, the night orb that glows, the red hunger that consumes, the foolish grin, the creature born anew, and the light that dazzles all.",
+      "hint": "Aim, glow, burn, smile, change, shine."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      18,
+      8,
+      21
+    ]
+  },
+  "emlo_358": {
+    "hardRiddle": {
+      "text": "I chase the celestial glow with electric speed, my gems sparkle as fortune strikes like thunder. Where dragons dance with butterfly wings, a joker's magic creates rainbow waves of wealth.",
+      "hint": "Think of a memecoin's journey: destination, movement, luck, celestial dreams, volatility, and fortune's play."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we fly with ⚡, seeking 💎 treasures. The 🎪 joker brings 🦋 luck in this 🌈 lottery game.",
+      "hint": "Six emojis spell the crypto dream: moon, lightning, gem, circus, butterfly, and rainbow."
+    },
+    "answer": [
+      3,
+      4,
+      2,
+      6,
+      8,
+      9
+    ]
   }
 }
