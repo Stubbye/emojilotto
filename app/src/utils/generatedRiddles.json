@@ -21004,5 +21004,23 @@
       11,
       18
     ]
+  },
+  "sol_973": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin flames dance with prismatic tears. The jester's grin eclipses the night, while nature's winged metamorphosis spirals through geometric chance. Crystalline tears of the cosmos weep upon the stage of games.",
+      "hint": "Seek the marksman's aim, the ascent of fire, the guardian of chaos, the moon's shadow, the prism's sorrow, and where dreams transform."
+    },
+    "easyRiddle": {
+      "text": "I point the way with deadly grace, fire climbs where laughter hides, the night watches over joker's play, butterflies know the secret path, water bends with fortune's flow, and crystals catch what cannot be seen.",
+      "hint": "Think of targeting, ascending, laughing, transforming, moving, and sparkling."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      8,
+      23,
+      20
+    ]
   }
 }
