@@ -20950,5 +20950,23 @@
       0,
       18
     ]
+  },
+  "sol_971": {
+    "hardRiddle": {
+      "text": "Where celestial silence meets the jester's masked dance, six spirits convene: the archer's eternal mark, the vessel of ascension, the fractured radiance of earth's deepest breath, the nocturnal sovereign's gaze, the serpent of primordial chaos, and fortune's many faces spinning through the void.",
+      "hint": "Think of fate's intersection: aim, escape, treasure, night, legend, and chance"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in shadow: a bullseye waits, a ship takes flight, a jewel gleams, the moon watches, a dragon stirs, and dice tumble. Which six dance together in destiny's game?",
+      "hint": "Look for: precision, journey, wealth, sky, myth, and randomness"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      11
+    ]
   }
 }
