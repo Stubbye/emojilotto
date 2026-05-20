@@ -21112,5 +21112,41 @@
       4,
       13
     ]
+  },
+  "sol_978": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six sentinels of fate converge. The jester's mask conceals what lightning cannot strike, while emerald consciousness sleeps beneath the butterfly's metamorphosis. A dragon's fire dances with the clover's whispered luck, and in the crystal's heart, all rainbows find their genesis.",
+      "hint": "Seek the trickster, the celestial, the gemstone, the winged transformer, the mythic flame, and the fortune-bringer."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within these words: A jester brings amusement, a precious stone shines bright, a scaled beast breathes heat, a four-leafed charm brings fortune, a crystalline prism refracts light, and a delicate insect transforms.",
+      "hint": "Think of luck, mischief, wealth, fire, nature's magic, and transformation."
+    },
+    "answer": [
+      19,
+      12,
+      13,
+      8,
+      20,
+      21
+    ]
+  },
+  "emlo_360": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the heavens, where gems sparkle brilliantly. Through lightning-fast waves, this magical journey blazes eternal fire, guided by fortune's clover. What six celestial symbols fuel the moonbound revolution?",
+      "hint": "Think of crypto culture: the journey, the rewards, speed, luck, and what happens to your gains"
+    },
+    "easyRiddle": {
+      "text": "I am a game of chance (1️⃣). Rockets take us to the moon (2️⃣, 3️⃣). Lightning strikes fast (4️⃣). We seek gems and fortune (5️⃣, 6️⃣). What are we?",
+      "hint": "One emoji shows randomness, two show the moon mission, one shows speed, and two show treasures"
+    },
+    "answer": [
+      11,
+      1,
+      3,
+      4,
+      2,
+      20
+    ]
   }
 }
