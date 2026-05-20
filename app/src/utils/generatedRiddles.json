@@ -20968,5 +20968,41 @@
       14,
       11
     ]
+  },
+  "sol_972": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin masks dance with the dragon's desire. Through crystalline depths where the fox's cunning gleams, a treasure of gems awaits in lightning-split dreams.",
+      "hint": "Seek the symbols of chaos, nobility, and cosmic alignment—one brings laughter, one brings might, one brings eternal light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide within this verse: a winged creature of beauty, a crown of victory, a beast of ancient lore, a prankster's grin, a bolt of power, and a sparkle of wealth. Find them all.",
+      "hint": "Think of: transformation, winning, mythology, trickery, energy, and precious things."
+    },
+    "answer": [
+      1,
+      18,
+      13,
+      11,
+      4,
+      2
+    ]
+  },
+  "emlo_357": {
+    "hardRiddle": {
+      "text": "A jester's fortune burns bright as lightning strikes the gem, while a fox dances under moonlight near the rocket's flame. What six celestial tokens mark the path to tendies?",
+      "hint": "Think of what a memecoin holder desires: entertainment, wealth, speed, and cosmic destiny"
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket! ⚡ A joker holds a sparkling gem while fire lights the way. Which six emojis complete this memecoin dream?",
+      "hint": "One goes 'boom', one goes 'ding', one glows bright, one entertains, one rises high, and one shines"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      18
+    ]
   }
 }
