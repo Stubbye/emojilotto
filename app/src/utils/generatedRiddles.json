@@ -21058,5 +21058,41 @@
       8,
       9
     ]
+  },
+  "sol_976": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six whispers dance in chaos divine. The jester's grin conceals what the prism reveals, while wings of transformation spiral through dreams yet unconfined. Thunder's pulse echoes where the dragon's gold weeps, and the butterfly remembers the spiral from which it was born.",
+      "hint": "One is aimed, one burns bright, one laughs in shadows, one transforms, one roars with ancient wisdom, and one is born from cosmic dust."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the sky's bright spark, the fool who speaks truth, the winged soul, the scaled king, and the cosmic dancer above.",
+      "hint": "Think of: bullseye, explosion, cards, insect, mythical beast, and night sky."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      8,
+      13,
+      21
+    ]
+  },
+  "emlo_359": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, shimmer with electric might, spark joy like a jester's delight, while fortune dances in colorful light. What six symbols guide this crypto flight?",
+      "hint": "Think of a rocket's journey, magical moments, and lucky charm tokens"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, lightning strikes bright, gems sparkle with delight, the moon shines at night, a joker brings laughter, and fire burns light. What are these six things?",
+      "hint": "Look for: something that flies, something powerful, something shiny, something high, something funny, and something hot"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      11,
+      6
+    ]
   }
 }
