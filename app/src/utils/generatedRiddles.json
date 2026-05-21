@@ -21166,5 +21166,41 @@
       10,
       14
     ]
+  },
+  "sol_980": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and twin flames dance beneath the jester's gaze—seek the wingéd wanderer that drinks from prisms of refracted light. The answer dwells where destiny's dice fall silent, cradled by nature's smallest reveler in gardens where luck blooms eternal.",
+      "hint": "Consider symbols of chance, celestial bodies, fire, trickery, flight, and natural fortune."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a mark of precision, a vessel to the stars, a precious stone, the night's throne, the sky's fury, and the fool's mask. What are they?",
+      "hint": "Think of targets, space travel, jewels, darkness, weather, and playing cards."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_361": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with velocity, my worth gleams like precious treasure, I strike with electric speed, my flames burn bright with hype, fortune spins like a dancer's wheel, and I transform like a mystical creature shedding skin.",
+      "hint": "Think of a memecoin's journey: fast growth, valuable assets, sudden volatility, passionate community, lucky timing, and evolution."
+    },
+    "easyRiddle": {
+      "text": "A swift vessel aims high, precious stones shine bright, electricity crackles fast, fire spreads the word, chance determines fate, and magic transforms all.",
+      "hint": "Rocket, gem, lightning, fire, dice, and dragon - the essence of crypto dreams."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      13
+    ]
   }
 }
