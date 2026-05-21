@@ -21238,5 +21238,23 @@
       6,
       19
     ]
+  },
+  "sol_982": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in shadow's choir. The winged deceiver spirals through night's crystal crown, while thunder's kiss ignites the jester's purple gown. Gemstones weep beneath the mage's starlit hand—seek the six that in chaos stand.",
+      "hint": "Look for: aim, ascension, brilliance, darkness, transformation, chaos, and mirth"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one aims true, one climbs high, one sparkles bright, one rules the night, one changes form, one brings the storm.",
+      "hint": "precision, flight, jewels, darkness, wings, and electricity"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      4
+    ]
   }
 }
