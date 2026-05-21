@@ -21292,5 +21292,41 @@
       12,
       14
     ]
+  },
+  "sol_985": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits converge in twilight's veil. The archer's ambition meets the sapphire's gleam, while wings of metamorphosis trace the crescent's dream. Lightning's kiss ignites the masked jester's game, and beneath the tower's glory, luck remains untamed.",
+      "hint": "One points upward, one glimmers below, one transforms, one illuminates, one deceives, and one crowns the victor."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: a target for precision, a gem for wealth, a moon for mystery, lightning for power, a joker for trickery, and a trophy for victory.",
+      "hint": "Think of symbols that represent luck, goals, and games of fortune."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      11,
+      18
+    ]
+  },
+  "emlo_364": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's gem. A jester's luck dances through my rainbow of chaos, while fire ignites the dragon's treasure hunt to the moon.",
+      "hint": "Five elements of crypto madness: what shoots up, what glows, what gambles, what burns, and what rules the night sky?"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon is the dream, fire is hot, gem is treasure, joker brings luck, and sparkles make it magical.",
+      "hint": "Name these 6 symbols of the memecoin lottery."
+    },
+    "answer": [
+      1,
+      3,
+      11,
+      5,
+      12,
+      10
+    ]
   }
 }
