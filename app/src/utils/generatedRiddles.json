@@ -21256,5 +21256,23 @@
       8,
       4
     ]
+  },
+  "sol_983": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets infernal dance, six tokens of fate converge in trance. The winged metamorphosis ascends through prism'd arc, while fortune's jester grins within the dark. Crystal tears of heaven's gate unlock the dragon's spark, and crescents birth the lightning's mark.",
+      "hint": "Transformation, chaos, fortune, and cosmic forces intertwine through nature's and destiny's symbols."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one aims true, one burns bright, one flies and changes, one grins at chance, one rules the sky, and one dances in storms.",
+      "hint": "Think of precision, fire, metamorphosis, trickery, royalty, and electricity."
+    },
+    "answer": [
+      0,
+      5,
+      8,
+      11,
+      13,
+      19
+    ]
   }
 }
