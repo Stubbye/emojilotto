@@ -21328,5 +21328,23 @@
       12,
       10
     ]
+  },
+  "sol_986": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a gemstone catches fire in the cosmic unknown. The jester's dance beneath twin crescents gleams, while lightning paints riddles through kaleidoscope dreams. Six secrets entwined in destiny's weave—count the symbols that make believers believe.",
+      "hint": "One guides aims, one rules night, one sparkles with worth, one ignites chaos, one mocks wisdom, one splits light"
+    },
+    "easyRiddle": {
+      "text": "Find the mark we aim for, the stone that holds light, the spark that strikes fear, the card that brings fright, the pearl in the sky, and the burst that delights.",
+      "hint": "Target, Gem, Lightning, Joker, Moon, Sparkles"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      11,
+      19,
+      20
+    ]
   }
 }
