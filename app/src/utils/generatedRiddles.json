@@ -21274,5 +21274,23 @@
       13,
       19
     ]
+  },
+  "sol_984": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six dancers waltz through chaos and acclaim. The jester's twin grins at destiny's wheel, while scaled ambition guards what's truly real. Swift-footed cunning weaves through fortune's game, and petaled whispers call forgotten names.",
+      "hint": "One guides aims, one ignites the night, one laughs at fate, one hoards might, one deceives, one blooms in sight"
+    },
+    "easyRiddle": {
+      "text": "I point your aim, I burn so bright, a wild trickster laughs at night, a creature of green scales and greed, a fox that slinks with cunning seed, and flowers that whisper secrets sweet—six signs where lottery and magic meet.",
+      "hint": "Target, Fire, Joker, Dragon, Fox, Flower"
+    },
+    "answer": [
+      0,
+      6,
+      19,
+      13,
+      12,
+      14
+    ]
   }
 }
