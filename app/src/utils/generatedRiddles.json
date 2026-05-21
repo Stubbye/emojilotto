@@ -21346,5 +21346,23 @@
       19,
       20
     ]
+  },
+  "sol_987": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny converge in shadow's embrace. The archer's mark meets the messenger of sky, while gemstone truth gleams beneath the jester's grin. A fox's cunning mirrors the storm's electric whisper, and where scales of fate turn, chaos blooms eternal.",
+      "hint": "Seek the hunter, the ascender, the precious, the crowned fool, the swift deceiver, and the spark that devours."
+    },
+    "easyRiddle": {
+      "text": "I contain six treasures of chance: one strikes with precision, one rises beyond, one sparkles with value, one laughs with tricks, one hunts with wit, and one burns with power. Together we spin the wheel of destiny.",
+      "hint": "Think of targets, sky-bound travel, valuable gems, court jesters, clever animals, and destructive elements."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      13,
+      6
+    ]
   }
 }
