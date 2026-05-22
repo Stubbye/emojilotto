@@ -21400,5 +21400,41 @@
       6,
       20
     ]
+  },
+  "sol_989": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six enigmas dance in shadows unnamed. The jester's grin eclipses the twin-winged grace, while earthbound treasures shimmer in starlight's embrace. Chaos whispers through prisms of violet dreams, and luck's sweet nectar flows in crystalline streams.",
+      "hint": "One guides the aim, one ignites the soul, one mocks the seeker, one transforms, one glimmers eternally, one holds the cosmos."
+    },
+    "easyRiddle": {
+      "text": "I point you true, I light the way above, I laugh at fate, I dance on wings of love, I sparkle bright, and hold the sky's desire—which six join together in this lottery fire?",
+      "hint": "Look for: direction, celestial body, a trickster, an insect, light itself, and precious stone."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      10,
+      2
+    ]
+  },
+  "emlo_366": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untold, my gems sparkle as lightning strikes bold. Dancing through fire with butterfly grace, I'm masked by fortune in this cosmic race. What six symbols mark my memecoin fate?",
+      "hint": "Think of velocity, wealth, chaos, and luck converging in the crypto space"
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots toward the moon so bright, gems and lightning shine with all their might. Butterfly dances through the fire's glow, and masks hide secrets only jokers know. Can you name these six?",
+      "hint": "Look for the words: rocket, moon, gem, lightning, butterfly, fire, joker, and masks"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      8,
+      19
+    ]
   }
 }
