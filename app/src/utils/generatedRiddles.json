@@ -21490,5 +21490,41 @@
       6,
       8
     ]
+  },
+  "sol_993": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six keepers of destiny dance in shadow's name. The jester's twin gleams in crystalline night, while wings of transformation pierce through starlit flight. Thunder's bright daughter and the court's gilded prize await in the depths where illusion and fate collide.",
+      "hint": "One guides arrows, one ignites dreams, one reflects light, one metamorphoses, one strikes swift, one crowns victors."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: the bull's-eye hunter, the fool's reflection, the night's watchful glow, the winged dancer, the sky's electric tongue, and glory's golden vessel.",
+      "hint": "Target, Joker, Moon, Butterfly, Lightning, Trophy"
+    },
+    "answer": [
+      0,
+      18,
+      3,
+      8,
+      4,
+      17
+    ]
+  },
+  "emlo_368": {
+    "hardRiddle": {
+      "text": "A jester's fortune gleams with electric magic—three celestial wonders dance with gemstone fire, while a winged creature carries dreams to infinity. What six symbols reveal the memecoin's destiny?",
+      "hint": "Think of comedy, wealth, sky elements, and creatures of transformation"
+    },
+    "easyRiddle": {
+      "text": "Find the joker's lucky charm, the rocket to the moon, the sparkling gem, the lightning strike, the butterfly's flight, and one more treasure—six symbols of crypto dreams!",
+      "hint": "One brings luck, one goes up, one shines bright, one strikes fast, one transforms, and one glitters"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      8,
+      10
+    ]
   }
 }
