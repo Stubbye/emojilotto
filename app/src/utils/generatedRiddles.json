@@ -21472,5 +21472,23 @@
       6,
       19
     ]
+  },
+  "sol_992": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desires, six sentinels guard the threshold between chaos and destiny. The archer's eternal mark meets the swift messenger of the heavens. Crystalline wealth glimmers beneath the watcher of nocturnal skies. Voltage's primal cousin consumes while the winged metamorphosis ascends through prismatic veils, and where jesters once performed beneath canvas tents, fortune's wheel spins its eternal song.",
+      "hint": "One brings precision, one brings speed, one brings wealth, one brings light, one brings chaos, one brings transformation—all six converge at the lottery's heart."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await: a bullseye for the aimed, a chariot of stars for the swift, a gem for the greedy, a moon for the dreamer, fire for the bold, and wings for the transformed. Which six claim victory?",
+      "hint": "Think of targets, rockets, gems, moons, flames, and creatures that fly."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      8
+    ]
   }
 }
