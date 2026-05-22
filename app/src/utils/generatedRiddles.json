@@ -21364,5 +21364,41 @@
       13,
       6
     ]
+  },
+  "sol_988": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's dual face, six whispers await the seeker: the archer's distant dream meets the swift messenger of sky, while gemstone's frozen tears kiss the pale sentinel above. Between chaos and fortune's grin, metamorphosis unfolds in chromatic waves, and the lightning's twin speaks in silent percussion of chance.",
+      "hint": "One watches from above, one travels swift, one glimmers precious, one brings chaos, one transforms beauty, one speaks of fortune's chaos."
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the prize: aim high like an archer, travel fast like a ship to space, find what sparkles and shines, look to night's guardian, embrace the power that strikes, and spin where laughter lives in painted revelry.",
+      "hint": "A target, a rocket, a gem, the moon, lightning, and the circus—all hold lottery's secrets."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  "emlo_365": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untold, my gems sparkle as lightning strikes bold. Through rainbow waves I dance with fire, while my lucky clover brings fortune higher. What am I?",
+      "hint": "Think of a memecoin's journey to prosperity - fast, flashy, and lucky all at once."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⭐ shines bright, 💎 glimmers with might, ⚡ moves with speed, 🔥 burns hot, and 🍀 brings luck. Which six guide the memecoin?",
+      "hint": "Look for the symbols that represent speed, wealth, luck, and cosmic success."
+    },
+    "answer": [
+      1,
+      22,
+      2,
+      5,
+      6,
+      20
+    ]
   }
 }
