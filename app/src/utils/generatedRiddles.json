@@ -21598,5 +21598,23 @@
       4,
       19
     ]
+  },
+  "sol_997": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis ascends through prismatic arcs. The archer's mark gleams eternal while thunderous fate strikes the gemstone throne. Six whispers of destiny unfold in chaos and grace.",
+      "hint": "Consider what rises, what shines, what transforms, what aims, what sparkles, and what breaks the sky."
+    },
+    "easyRiddle": {
+      "text": "I contain a bright point in the sky, a precious stone, a speeding vessel, a brilliant gemstone, a butterfly's journey, and nature's electric fury. What lottery numbers am I?",
+      "hint": "Look for: something precious, something that flies, something in the sky, something that moves fast, something electrifying, and something sparkly."
+    },
+    "answer": [
+      21,
+      8,
+      1,
+      0,
+      4,
+      11
+    ]
   }
 }
