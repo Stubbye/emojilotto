@@ -21544,5 +21544,23 @@
       6,
       11
     ]
+  },
+  "sol_995": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's crimson mark, and fortune's jester spins beneath the winged sentinel's arc. Three crowns of destiny emerge: the scaled guardian's gleam, the prismatic shower's dream, and luck's trefoil theme. One mirror of creation holds them all in its chromatic soul.",
+      "hint": "Seek the bullseye's twin, the trickster's grin, the dragon's kin, the sparkle's spin, the four-leaf win, and the artist's bin."
+    },
+    "easyRiddle": {
+      "text": "Find the center of all aims, the clown who plays all games, the ancient dragon bold, the rain of colors told, the four-leaf fortune's fold, and the artist's rainbow mold.",
+      "hint": "Target, joker, dragon, rainbow, clover, and palette are hiding in the lottery."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      9,
+      19,
+      22
+    ]
   }
 }
