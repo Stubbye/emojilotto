@@ -21562,5 +21562,41 @@
       19,
       22
     ]
+  },
+  "sol_996": {
+    "hardRiddle": {
+      "text": "Through celestial gates where fortune's jester pirouettes on crystalline strings, six dancers await. The archer's mark burns with eternal hunger, while scaled majesty coils beneath luna's gaze. Where spectrum bends and luck's thunder whispers, petals bloom in chaos's grand theatre.",
+      "hint": "One marks the aim, one rules the ancient skies, one shatters light into infinite possibility"
+    },
+    "easyRiddle": {
+      "text": "A target glows, a dragon dreams, a flower sleeps under the moon. Fire crackles where the circus plays, and crystal shards catch rainbow light.",
+      "hint": "Count the visible wonders: the marked, the mythical, the blooming, the lunar, the dancing flames, and the prismatic shards"
+    },
+    "answer": [
+      0,
+      4,
+      13,
+      3,
+      6,
+      20
+    ]
+  },
+  "emlo_369": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed, carrying treasure that makes hearts bleed. Magic sparkles guide my way, while fortune's bolt lights up the day. A jester's luck and dragon's might, spinning through the dizzying height.",
+      "hint": "Think of a memecoin's journey to prosperity"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 🎰 spins all night. 🐉 brings luck, ⚡ strikes fast, 🃏 makes fortunes last.",
+      "hint": "Name each emoji in order"
+    },
+    "answer": [
+      1,
+      9,
+      11,
+      13,
+      4,
+      19
+    ]
   }
 }
