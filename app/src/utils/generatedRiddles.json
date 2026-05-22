@@ -21526,5 +21526,23 @@
       8,
       10
     ]
+  },
+  "sol_994": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the jester's twin masks witness the serpent's ascent through crystalline fire. The winged metamorphosis pirouettes beneath the prism's arc, while the blind game of chance rolls toward destiny's gleaming heart.",
+      "hint": "Think of opposites meeting: sky and earth, chaos and order, performer and performer, creature of air and creature of legend."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: a archer's mark, a fool's grin, a dragon's might, a butterfly's grace, a shining gem, and fortune's rolling bones. Which six dance together in the lottery's dream?",
+      "hint": "One is aimed at, one is lucky, one breathes fire, one changes form, one sparkles, and one decides fate."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      8,
+      6,
+      11
+    ]
   }
 }
