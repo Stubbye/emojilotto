@@ -21436,5 +21436,41 @@
       8,
       19
     ]
+  },
+  "sol_991": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's throne, six secrets dance between the veil of night and fortune's own. The winged metamorphosis seeks the gem of laughter, while the archer's mark glows beneath the dragon's ancient laughter. In crystalline halls where electricity waltzes, the masked performers reveal what fortune halts is.",
+      "hint": "One ascends to touch infinity, one descends from above, one transforms, one judges all games, one sparkles eternal, one roars in legend"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: a warrior's mark that never misses, a night guardian watching from afar, a treasure that dazzles without end, a spark that dances wild and free, a showman wearing many faces, and a serpent of ancient tales.",
+      "hint": "Think of targets, the moon, gems, lightning, masks, and dragons"
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      5,
+      19,
+      14
+    ]
+  },
+  "emlo_367": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, sparkling with fortune's electric energy. My crystal heart burns bright as a jester's magic unfolds, guided by nature's luck beneath the entertainer's grand stage.",
+      "hint": "Think of a memecoin journey: movement, wealth, power, destiny, chaos, and fate."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, ⚡ strikes fast, 💎 is precious, 🎪 is fun, and 🍀 is lucky. What six things make a crypto dream?",
+      "hint": "All six emojis are literally in the question!"
+    },
+    "answer": [
+      1,
+      9,
+      4,
+      2,
+      6,
+      19
+    ]
   }
 }
