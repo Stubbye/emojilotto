@@ -21868,5 +21868,23 @@
       5,
       8
     ]
+  },
+  "sol_1008": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the hunter's zeal. Six tokens of fate: the bull's-eye gleams, the serpent coils through prismatic dreams, the nocturnal arc crowns all desire, while chaos crackles in brilliant fire.",
+      "hint": "One reflects precision, one embodies chaos, one is ancient and wise, one hunts in shadows, one lights the cosmos, one rules the heavens."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the lightning's crash, the dragon's scales and the moon's bright flash, the gem that sparkles and fire's wild dance—these six shall grant your winning chance.",
+      "hint": "Look for: something you aim at, something that strikes, something mythical, something in the night sky, something precious, and something that burns."
+    },
+    "answer": [
+      0,
+      4,
+      13,
+      3,
+      11,
+      6
+    ]
   }
 }
