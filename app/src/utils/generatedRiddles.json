@@ -21724,5 +21724,23 @@
       9,
       11
     ]
+  },
+  "sol_1002": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian heart, a winged metamorphosis dances through celestial fire. The jester's prismatic laughter reflects in nature's crystalline eye, while the archer's prize gleams eternal. Seek the six-pointed sentinel of chaos and the spectrum bridge where destiny's spark ignites transformation.",
+      "hint": "Consider celestial bodies, precious things, performance, luck, speed, and elemental force. One appears twice in meaning but once in form."
+    },
+    "easyRiddle": {
+      "text": "I point the way to riches beyond clouds. A precious stone glimmers in darkness. A striped friend is clever and sly. An insect transforms in grace. Lightning crashes with electric might. Colors arc across the sky after rain. What six treasures reveal the winning path?",
+      "hint": "Think of directional goals, valuable objects, animals, weather, nature's beauty, and natural phenomena."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      8,
+      4,
+      9
+    ]
   }
 }
