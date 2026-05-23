@@ -21796,5 +21796,23 @@
       10,
       13
     ]
+  },
+  "sol_1005": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six dancers pirouette through veils of chance. The archer's mark gleams with crystalline breath, while winged metamorphosis spirals through storm-kissed infinity. One beast of ancient myth exhales destiny's spark, as melodic silver strikes the veil between worlds. Seek the crowned victor's embrace where chaos and symmetry entwine.",
+      "hint": "Think of transformation, celestial bodies, fortune, mythical guardians, and triumph intertwined"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this lottery of dreams: one flies to stars with fiery wings, one sparkles with inner light, one transforms in nature's dance, one roars with scales and legend, one plays sweet music, and one celebrates victory's glory.",
+      "hint": "Look for a journey upward, beauty, wings, a legendary creature, sound, and winning"
+    },
+    "answer": [
+      1,
+      2,
+      8,
+      13,
+      16,
+      17
+    ]
   }
 }
