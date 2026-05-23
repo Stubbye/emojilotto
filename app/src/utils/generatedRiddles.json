@@ -21958,5 +21958,23 @@
       21,
       10
     ]
+  },
+  "sol_1012": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the cosmic dancer, and the violet flame ascends through gemstone gates, the trickster's grin reflects in prism'd fortune, while winged metamorphosis spirals through electric serenades—seek the five that crown destiny's stage, and the beast of smoke shall guard the threshold.",
+      "hint": "One guides aim, one leaps skyward, one refracts light, one transforms, one deceives, one breathes chaos."
+    },
+    "easyRiddle": {
+      "text": "I point the way to luck, I reach for stars, I sparkle with dreams, I shift and change, I laugh and mislead, and I roar with ancient power. Together we six unlock the prize.",
+      "hint": "Think of: aiming, reaching high, shining bright, wings, tricks, and legendary fire."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      8,
+      13,
+      14
+    ]
   }
 }
