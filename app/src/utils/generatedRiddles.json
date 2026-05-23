@@ -21760,5 +21760,41 @@
       14,
       21
     ]
+  },
+  "sol_1004": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentinels guard the threshold between chaos and chance. The winged trickster pirouettes through prismatic veils, while gemstone's whisper echoes where lightning's song prevails. One constellation bows to the jester's crimson jest, as twin flames of destiny converge in the west.",
+      "hint": "Listen for the sound of wings and breaking glass; count the colors that shimmer and pass."
+    },
+    "easyRiddle": {
+      "text": "Six magical things sparkle in the night sky and on earth: a bright gem, a swift rocket climbing high, a playful jester's grin, lightning's electric sting, a butterfly dancing free, and a star that shines for all to see.",
+      "hint": "Think of things that glow, fly, shine, and bring joy to a lottery game."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      7,
+      21,
+      12
+    ]
+  },
+  "emlo_372": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🚀 fueled by 💎 and greed. When 🔥 meets ✨ in the memecoin game, only the 🦊 remember my name.",
+      "hint": "Think of what amplifies gains and what guides you to fortune in crypto chaos"
+    },
+    "easyRiddle": {
+      "text": "Follow the bright path: 🌙 shows the way up, 🚀 takes you there, 💎 is the treasure, 🔥 brings the hype, ✨ celebrates wins, and 🦊 finds the hidden gems.",
+      "hint": "These six symbols represent the journey of every memecoin trader"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      5,
+      10,
+      13
+    ]
   }
 }
