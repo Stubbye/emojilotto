@@ -21670,5 +21670,23 @@
       8,
       10
     ]
+  },
+  "sol_1000": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six dancers of fate convene in shadow's acclaim. The jester's grin guards twin treasures of night—one carved from starlight, one born of pure flight. Between them spirals the winged metamorphosis, while prisms shatter the rhythm of genesis.",
+      "hint": "Think of luck's symbols and transformation's mirror—one grants wishes, one grants power."
+    },
+    "easyRiddle": {
+      "text": "A target and rocket race toward the sky. A gem sparkles bright as lightning runs by. The joker laughs while a butterfly flies. What six fortune symbols are your lucky prize?",
+      "hint": "Look for objects of luck, speed, and magic in the night."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      18
+    ]
   }
 }
