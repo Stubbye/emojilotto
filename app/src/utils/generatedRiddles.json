@@ -21904,5 +21904,23 @@
       5,
       8
     ]
+  },
+  "sol_1010": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a serpent of heaven coils 'round crystalline dreams. The jester's grin guards the threshold where luck ignites and transforms, while petals of chaos dance eternal in the space where fire meets the abyss.",
+      "hint": "Six treasures: one hunts, one soars, one sees all, one deceives, one reflects endless possibility, one blooms in darkness"
+    },
+    "easyRiddle": {
+      "text": "A mark to hit, a beast of scales, a jewel so bright, a trickster's smile, a stone that glows, and a bloom that grows.",
+      "hint": "Think of targets, mythical creatures, precious things, playing cards, minerals, and nature"
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      19,
+      20,
+      14
+    ]
   }
 }
