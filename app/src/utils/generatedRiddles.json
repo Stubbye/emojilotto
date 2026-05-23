@@ -21616,5 +21616,23 @@
       4,
       11
     ]
+  },
+  "sol_998": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jest, six tokens of fate converge: the archer's distant dream, the winged messenger of transformation, the gem-heart's crystalline whisper, the lunar sentinel's gaze, the tempest's violent kiss, and the inferno's wild appetite. Which shall align when chaos and precision waltz as one?",
+      "hint": "Seek where ambition meets luck's theatrical stage; one burns bright, one soars free, one gleams eternal, one watches from above, one strikes swift, one consumes all."
+    },
+    "easyRiddle": {
+      "text": "I am six dancers in the lottery's grand theater: one aims true, one flies swift, one sparkles with worth, one glows from night's throne, one crackles with power, and one devours with hunger. Name us all.",
+      "hint": "Think of targets, journeys, treasures, night skies, storms, and blazes."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      5
+    ]
   }
 }
