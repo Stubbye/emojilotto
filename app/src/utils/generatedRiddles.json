@@ -21634,5 +21634,41 @@
       4,
       5
     ]
+  },
+  "sol_999": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial eye, a serpent of fortune coils beneath the weeping sky. The jester's grin guards the treasure untold, while twin flames dance where destinies unfold. Seek the winged dancer between realms of night, and where all colors converge in prismatic light.",
+      "hint": "One guides, one watches, one deceives, one transforms, one illuminates, one unites."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow pointing high, the dragon coiled in the night sky, the joker's mysterious game, fire burning bright and flame, the butterfly dancing free, and the rainbow's symphony.",
+      "hint": "Look for: aim, scales, tricks, heat, wings, and colors."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      6,
+      8,
+      9
+    ]
+  },
+  "emlo_370": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, seeking treasures that sparkle with electric might. A jester's luck guides my flight through cosmic flames, while nature's delicate wings dance in my wake. What six symbols mark this memecoin's legendary path?",
+      "hint": "Think of the journey from launch to moon, with magic and fortune along the way."
+    },
+    "easyRiddle": {
+      "text": "A coin blasts toward the 🌙, powered by ⚡ and 🔥. Lucky 🎪 vibes with 🦋 grace, all blessed by ✨. Which six emojis represent this memecoin adventure?",
+      "hint": "One goes up fast, one glows bright, one burns hot, one brings luck, one flies pretty, one sparkles."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      7,
+      8,
+      10
+    ]
   }
 }
