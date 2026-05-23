@@ -21688,5 +21688,41 @@
       8,
       18
     ]
+  },
+  "sol_1001": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six sentinels of fortune converge. The archer's mark aligns with heaven's pearl, while brilliance shatters in prismatic fracture. Swift messenger of storms descends upon the stage of mirth, where masked performers dance with scaled serpent. Count the tokens of destiny: point, sphere, inferno, gem fractured, tempest's herald, and the ancient wyrm's throne.",
+      "hint": "Look to the sky, then down to the earth. One shoots, one glows, one breaks light, one burns, one performs, one roars."
+    },
+    "easyRiddle": {
+      "text": "I shoot straight ahead, the moon glows above, fire consumes all, crystal breaks light, the jester performs, and the dragon reigns. Which six dance together in the lottery's dream?",
+      "hint": "Target, Moon, Fire, Crystal, Joker, Dragon"
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      20,
+      18,
+      13
+    ]
+  },
+  "emlo_371": {
+    "hardRiddle": {
+      "text": "I launch dreams to infinity with electric speed, sparkling brilliance guides my path. Where fortune spins with mythical power, lightning strikes as gems ignite the night sky.",
+      "hint": "Think of a memecoin's journey: fast movement, precious value, celestial destination, and chaotic luck."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, 🎆 celebrates, 🎲 decides your fate!",
+      "hint": "What does every memecoin dreamer want? Speed, sparkle, treasure, and the moon!"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      11
+    ]
   }
 }
