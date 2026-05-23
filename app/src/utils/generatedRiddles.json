@@ -21742,5 +21742,23 @@
       4,
       9
     ]
+  },
+  "sol_1003": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six whispers dance in twilight's game. The jester's twin in nature's court, the prism bends what lightning sought. A dragon's treasure buried deep, where masked performers' vigils keep. The clover guards what stars have sewn, in circuits where the wild ones own.",
+      "hint": "Think of symbols that represent chance, magic, performance, and nature's rarest gifts combined in a lottery's cosmic dream."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols play their part: target and rocket that never depart, gem shines bright in diamond light, joker laughs with pure delight, dragon roars with ancient might, and star burns gold through endless night.",
+      "hint": "Look for a marksman's goal, a space traveler, a precious stone, a trickster, a mythical beast, and a celestial body."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      14,
+      21
+    ]
   }
 }
