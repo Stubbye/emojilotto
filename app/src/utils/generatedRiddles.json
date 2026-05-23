@@ -21814,5 +21814,23 @@
       16,
       17
     ]
+  },
+  "sol_1006": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and masked jesters guard the gateway between earthly fortune and cosmic wonder. The butterfly's kiss upon the dragon's flame reveals what sparkles beyond the veil of chance. Six whispers of destiny converge where the jester's grin meets the star's eternal vigil.",
+      "hint": "Consider what brings luck, what hides truth, what flies between worlds, what burns with ambition, what glitters with hope, and what watches from above."
+    },
+    "easyRiddle": {
+      "text": "Find the joker's companion, the flame of ambition, the mystical watcher of night, the creature of transformation, the shimmering dust of magic, and the star that guides all fortune seekers.",
+      "hint": "Think of luck, fire, sky, insects, sparkles, and celestial lights."
+    },
+    "answer": [
+      19,
+      5,
+      21,
+      8,
+      10,
+      20
+    ]
   }
 }
