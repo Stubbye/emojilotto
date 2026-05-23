@@ -21922,5 +21922,41 @@
       20,
       14
     ]
+  },
+  "sol_1011": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets the void's own breath, and fortune's prism dances with the reaper's theft. The jester's grin betrays what mortals seek, while winged transformation bows to beauty's peak. Thunder's kiss ignites the stage's cruel flame, six secrets locked within the wheel of fame.",
+      "hint": "Consider symbols of chance, celestial bodies, trickery, metamorphosis, chaos, and spectacle. One represents the hunt, one the impossible journey, one deception, one transformation, one the unpredictable, and one the grand show."
+    },
+    "easyRiddle": {
+      "text": "I am a circle that never misses. A path to stars so high. A fool who knows all secrets. A creature born anew. Chaos in six sides. A stage of wonders. What six companions reveal fortune's truth?",
+      "hint": "Think of games, astronomy, deception, nature's rebirth, randomness, and entertainment venues."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      11,
+      7
+    ]
+  },
+  "emlo_374": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone prize is all you need. Dance with fire under starlight's glow, where fortune strikes and sparkles flow.",
+      "hint": "Think of a memecoin's journey to success with explosive energy and precious rewards."
+    },
+    "easyRiddle": {
+      "text": "A shiny stone goes up so fast, electricity makes fortunes last. Stars and sparks light up the way, diamonds shine bright every day.",
+      "hint": "Combine elements of speed, wealth, and celestial dreams."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      21,
+      10
+    ]
   }
 }
