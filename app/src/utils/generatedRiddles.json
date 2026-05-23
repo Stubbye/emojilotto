@@ -21886,5 +21886,23 @@
       11,
       6
     ]
+  },
+  "sol_1009": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial thief, a gemstone weeps in the jester's brief. Through tempest's tongue and inferno's breath, the winged dancer pirouettes near death. What six celestial witnesses judge the game of chance and fortune's flame?",
+      "hint": "One guides the aim, one rules the night, one gleams with price, one laughs in sight, one burns with rage, one floats on grace."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the night guardian, the precious stone, the crowned fool, the fierce element, and the graceful flyer. Together we spin the wheel of fate.",
+      "hint": "Target, Moon, Gem, Joker, Fire, Butterfly"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      11,
+      5,
+      8
+    ]
   }
 }
