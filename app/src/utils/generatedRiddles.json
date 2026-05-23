@@ -21832,5 +21832,41 @@
       10,
       20
     ]
+  },
+  "sol_1007": {
+    "hardRiddle": {
+      "text": "Where fortune's jest meets celestial fire, six whispers dance through fortune's gyre. The archer's mark beneath night's crown, where lightning splits the jester's gown. Twin flames embrace the crystal's gleam, while scaled leviathan guards the dream.",
+      "hint": "One is what you aim for, one rules the dark, one laughs at fate, one strikes with spark, one endures forever, one breathes ancient might."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target to aim, a joker's game, lightning that strikes, a dragon's might, crystals that shine, and the moon's light.",
+      "hint": "Think of: something you shoot at, someone who's silly, electricity, a mythical beast, something precious, and the night sky."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      13,
+      20,
+      21
+    ]
+  },
+  "emlo_373": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar vault, where crystalline fortunes spark with electric brilliance, painted across the sky like nature's fire dancing with winged grace.",
+      "hint": "Think of chaos, luck, space, wealth, energy, and transformation in the memecoin realm."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with ⚡ speed, our 💎 fortune guided by the 🃏 of chance, while 🔥 burns bright and 🦋 transforms our wealth.",
+      "hint": "A typical memecoin journey: destination, velocity, value, luck, hype, and metamorphosis."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      17,
+      5,
+      8
+    ]
   }
 }
