@@ -22138,5 +22138,23 @@
       14,
       11
     ]
+  },
+  "sol_1020": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps upon the jester's crimson stage, a winged mirage dances through fortune's kaleidoscope. The archer's destination glows beneath the nocturne's gaze, while electricity births metamorphosis in the spectral void.",
+      "hint": "Look for the performer, the night guardian, the transformation, the fortune, the celestial weapon, and the ethereal glow."
+    },
+    "easyRiddle": {
+      "text": "A night orb watches over a magical gem that sparkles. A jester grins on a stage of fire. A butterfly transforms as lightning strikes the target.",
+      "hint": "Find the moon, the gem, the joker, the fire, the butterfly, and the lightning."
+    },
+    "answer": [
+      1,
+      3,
+      8,
+      18,
+      4,
+      20
+    ]
   }
 }
