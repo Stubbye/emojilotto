@@ -22102,5 +22102,41 @@
       21,
       10
     ]
+  },
+  "sol_1019": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six spirits dance in twilight's gyre. The jester's painted mask conceals a gem, while lightning crowned moth ascends to them. Between the waves of fate's electric thread, the dragon's crystal scales run gold to red.",
+      "hint": "One guides the path, one burns the sky, one laughs in shadows, one learns to fly, one cuts through darkness, one holds ancient power—find all six within the fateful hour."
+    },
+    "easyRiddle": {
+      "text": "A target points the way, a rocket takes you high. A gem shines bright, the joker makes you sigh. Lightning splits the night, a dragon guards the prize—six lucky signs will help you win the skies.",
+      "hint": "Look for: something to aim at, something that flies, something precious, something funny, something electric, and something mythical."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      4,
+      13
+    ]
+  },
+  "emlo_377": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, my brilliance cuts through darkness unnamed. Lady luck spins her wheel where jesters play, while nature's winged beauty guides the way. Chaos crackles with electric might, and a mythical beast guards treasures bright.",
+      "hint": "Think of a memecoin's journey: destination, velocity, gambling, transformation, energy, and ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes hard, 🦋 transforms, 🐉 guards gold, 🎰 spins luck.",
+      "hint": "These six symbols represent the memecoin adventure: launch, value, volatility, change, power, and chance."
+    },
+    "answer": [
+      1,
+      2,
+      8,
+      13,
+      14,
+      11
+    ]
   }
 }
