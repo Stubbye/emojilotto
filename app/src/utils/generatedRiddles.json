@@ -21976,5 +21976,23 @@
       13,
       14
     ]
+  },
+  "sol_1013": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends. The phoenix roars in emerald brilliance while destiny's jester pirouettes through prismatic storms. What six treasures align when luck ignites the threshold of dreams?",
+      "hint": "Think of the journey: aim, ascend, sparkle, chaos, magic, and the price of victory"
+    },
+    "easyRiddle": {
+      "text": "A target is hit by a rocket shooting toward the moon. A gem glitters as lightning strikes. What are these six symbols of fortune?",
+      "hint": "One aims, one flies, one shines, one strikes, one dreams, one celebrates"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      17
+    ]
   }
 }
