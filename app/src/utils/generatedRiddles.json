@@ -22084,5 +22084,23 @@
       8,
       9
     ]
+  },
+  "sol_1017": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the nocturnal sphere, and fortune's glittering heart dances with chaos embodied. The swift trickster's grin echoes through a spectrum born of storms, whilst nature's winged metamorphosis pirouettes between crystal brilliance and the spectral arc. Six truths hide in coded revelry—seek the gem where destiny's bolt strikes the jester's laughter.",
+      "hint": "Consider what shimmers, what laughs, what flies, what strikes, what glows above, and what transforms."
+    },
+    "easyRiddle": {
+      "text": "I am lightning's cousin and fire's friend. A jester grins at my jest. A butterfly dances near a sparkling gem. Above shines the moon with stellar company. Luck twirls through a rainbow spectrum. What six treasures am I?",
+      "hint": "Think of things that sparkle, shine, or bring luck and chaos together."
+    },
+    "answer": [
+      4,
+      19,
+      8,
+      1,
+      21,
+      10
+    ]
   }
 }
