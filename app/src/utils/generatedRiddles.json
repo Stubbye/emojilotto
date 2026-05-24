@@ -22210,5 +22210,23 @@
       13,
       21
     ]
+  },
+  "sol_1023": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance in celestial silence, a jester's grin mocks the seeker's resolve. Through prisms of dreams, the swift phantom prowls beneath wings of metamorphosis, while chaos whispers in crystalline geometry. Six tokens of fate converge where luck's arrow pierces the veil between worlds.",
+      "hint": "Consider the duality of chance and cunning, transformation through fire, and the geometry of destiny itself."
+    },
+    "easyRiddle": {
+      "text": "A cosmic jester spins under starlight, while a clever fox dances through rainbow flames. A butterfly carries crystal shards past the joker's endless jest. Where do these six symbols align?",
+      "hint": "Think of luck, trickery, transformation, and the elements that shape fortune."
+    },
+    "answer": [
+      1,
+      4,
+      8,
+      12,
+      13,
+      20
+    ]
   }
 }
