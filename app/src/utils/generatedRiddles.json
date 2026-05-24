@@ -22156,5 +22156,23 @@
       4,
       20
     ]
+  },
+  "sol_1021": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers conspire beneath the veil. The archer's aim meets the serpent's coil, while winged metamorphosis pirouettes through prismatic arcs. Thunder's kiss ignites the jeweled crown, and masked revelry celebrates the bloom eternal.",
+      "hint": "One guides arrows, one brings luck, one rules the sky, one transforms, one strikes with fury, one glimmers precious."
+    },
+    "easyRiddle": {
+      "text": "I strike from above with brilliant light. A precious stone shines bright. A dragon coils with ancient might. A butterfly dances in graceful flight. A flower blooms in garden's sight. Together we make the lottery right.",
+      "hint": "Look for: electricity, treasure, mythology, nature's dancer, nature's beauty, and one more power."
+    },
+    "answer": [
+      4,
+      5,
+      13,
+      8,
+      1,
+      14
+    ]
   }
 }
