@@ -22048,5 +22048,41 @@
       3,
       8
     ]
+  },
+  "sol_1016": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in shadow's choir. The jester's grin beneath the gem's pure light, while thunder's kiss ignites the starry night. Ascend through spiraled gates of glittering flame, where luck and chaos play their ancient game.",
+      "hint": "Think of the symbols that govern both chance and aspiration - one aims, one burns, one laughs, one gleams, one strikes, and one endures."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this verse: a target true, a rocket's thrust, a gem so bright, a moon above, lightning's spark, and fire's burst. Which six shall dance in fortune's purse?",
+      "hint": "Look for: something you aim at, something that flies, something precious, something in the sky at night, something electrical, and something hot."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_376": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gem-like value sparks with lightning. Through circus chaos and butterfly transformations, I dance like fire under the rainbow's magical glow. What am I?",
+      "hint": "A memecoin's journey from obscurity to stardom, powered by community rocket fuel"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning fast gains, fire in the community, sparkling gems and butterfly effects—what memecoin dream are we chasing?",
+      "hint": "Look for the symbols of moon travel, speed, and treasure"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      8,
+      9
+    ]
   }
 }
