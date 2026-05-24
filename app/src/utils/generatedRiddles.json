@@ -21994,5 +21994,41 @@
       4,
       17
     ]
+  },
+  "sol_1014": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger of transformation meets the trickster's crimson grin. The archer's mark aligns with the ancient stone's pale gaze, while electricity's fleeting tongue whispers secrets to the jester adorned in motley. Six symbols intertwine in destiny's masquerade—speak them if you dare glimpse tomorrow's gleaming crown.",
+      "hint": "Consider the performer's realm, the sky's theatrical show, and fate's playful instruments. One entity bridges mirth and deception, while another embodies swift passage through the stars."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's goal, the sky's bright guardian, the court's fool, speed itself, the mystic stone, and the fluttering dreamer. Six of us hide in lottery's embrace.",
+      "hint": "Think of a target, nighttime, a playing card character, travel, a precious thing, and a delicate insect."
+    },
+    "answer": [
+      0,
+      21,
+      19,
+      1,
+      20,
+      8
+    ]
+  },
+  "emlo_375": {
+    "hardRiddle": {
+      "text": "A jester's game where fortunes fly, through cosmic gates to touch the sky. Electric power fuels the dream, while precious stones ignite the scheme. A dancer transforms the night so bright, and luck's a game of pure delight.",
+      "hint": "Think of carnival games, space travel, energy, wealth, metamorphosis, and chance."
+    },
+    "easyRiddle": {
+      "text": "I'm a funny clown at the fair, a bright flash from up in the air, a shiny rock that makes you rich, a destination way up high, a tiny insect that can fly, and a lucky four-leaf wish.",
+      "hint": "One makes you laugh, one is electrifying, one sparkles, one is far away, one has wings, and one brings luck."
+    },
+    "answer": [
+      9,
+      1,
+      2,
+      3,
+      8,
+      19
+    ]
   }
 }
