@@ -22228,5 +22228,23 @@
       13,
       20
     ]
+  },
+  "sol_1024": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's ancient game, six whispers converge in twilight's embrace. The archer's mark meets the winged messenger's flight, while gems crystallize dreams beneath the silver sentinel. Chaos wears the jester's grin, and fortune's wheel spins where magic blooms eternal.",
+      "hint": "Consider symbols of aim, speed, wealth, night, chance, and enchantment intertwined."
+    },
+    "easyRiddle": {
+      "text": "Find the target of ambition, the rocket of swift fortune, the gem of precious reward, the moon of night's mystery, the joker of playful chance, and the flower of natural magic.",
+      "hint": "One represents a goal, one represents speed, one represents value, one represents night, one represents trickery, and one represents nature's beauty."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      15
+    ]
   }
 }
