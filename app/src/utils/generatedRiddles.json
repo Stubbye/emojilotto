@@ -22246,5 +22246,23 @@
       19,
       15
     ]
+  },
+  "sol_1025": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances with celestial fire, six keepers of fate unite in prismatic desire. The archer's mark meets the messenger of speed, a gemstone reflects what the nocturnal seed. Thunder's kiss ignites the illusionist's game, while six-faced bones seal destiny's name.",
+      "hint": "One points, one flies, one glimmers, one glows, one strikes, one tumbles—where luck's river flows."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance align: a target's dream, a rocket's gleam, a gem that shines, the moon's design, lightning's flash, and dice to cash.",
+      "hint": "Think of: aim, speed, sparkle, night, electricity, and randomness."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
