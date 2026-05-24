@@ -22174,5 +22174,41 @@
       1,
       14
     ]
+  },
+  "sol_1022": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance through celestial silk, a jester's grin guards the threshold between chaos and order. Six whispers of fate emerge: the archer's distant dream glows with stolen starlight, while a serpent of thunder coils near the prism of wishes. A creature of metamorphosis seeks the golden crown, and where two faces wear sorrow's mask, the four-leafed omen trembles at destiny's precipice.",
+      "hint": "One brings luck, one brings fortune, one brings change. Look to the sky, the stage, and the scales of chance."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of the night: a target where wishes aim, a jester's cosmic game, a dragon of pure light, a prize of gold, fortune's leaf, and the mask of two souls watching.",
+      "hint": "One is aimed at, one laughs, one flies, one shines, one wins, and one doubles the watcher."
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      17,
+      19,
+      20
+    ]
+  },
+  "emlo_378": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my precious value gleams bright. Lightning strikes fortune, while fire ignites the gamble. Dancing with dragons and jokers, I spiral to stardom. What symbols guide this memecoin journey to the moon?",
+      "hint": "Think of speed, wealth, chaos, luck, and cosmic destinations"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 is valuable, ⚡ is quick luck, 🔥 is hot gains, 🐉 is powerful, and ⭐ shines bright. These six symbols represent the memecoin dream!",
+      "hint": "Look for: rocket, gem, lightning, fire, dragon, and star"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      21
+    ]
   }
 }
