@@ -22030,5 +22030,23 @@
       8,
       19
     ]
+  },
+  "sol_1015": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through the celestial veil, six whispers emerge: The archer's mark meets swift ascension, a crystalline heart bleeds violet dreams, tempestuous fury adorns the crown, and the nocturnal guardian winks from above. In this symphony of chance, the winged metamorphosis twirls betwixt realms of radiant abundance.",
+      "hint": "One guides aim, one defies gravity, one glimmers with purity, one burns with chaos, one rules the night sky, one transforms in beauty."
+    },
+    "easyRiddle": {
+      "text": "I am six dancers in the lottery's theater: First, you aim at me. Then, I carry you skyward. Sparkle like I do in refined form. I burn and consume all. I reign above in darkness. I flutter between two worlds, forever changed.",
+      "hint": "Target, rocket, crystal, fire, moon, butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      5,
+      3,
+      8
+    ]
   }
 }
