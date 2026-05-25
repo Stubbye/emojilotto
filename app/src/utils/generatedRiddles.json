@@ -22390,5 +22390,23 @@
       11,
       5
     ]
+  },
+  "sol_1031": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weep, a jeweled flame dances through the midnight deep. The jester's grin ignites the storm's cruel song, as winged fortune flutters where hearts belong. Six secrets hide in nature's sacred play—one strikes, one burns, one glimmers far away.",
+      "hint": "Lightning, fire, and gem guide the seeker's eye. The fool, the butterfly, and moon lie in the sky."
+    },
+    "easyRiddle": {
+      "text": "Find the symbols of chaos and light: the striker of thunder, the dancer of flight. A precious stone gleams, a flame burns bright, the jester laughs, and the moon shines white. Six treasures await those clever and keen—can you spot them all in this lucky scene?",
+      "hint": "Think of electricity, wings, sparkles, laughter, night, and heat."
+    },
+    "answer": [
+      4,
+      6,
+      2,
+      18,
+      8,
+      21
+    ]
   }
 }
