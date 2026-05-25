@@ -22408,5 +22408,23 @@
       8,
       21
     ]
+  },
+  "sol_1032": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, through crystalline depths the jester's flame plays. The winged dancer pirouettes through fortune's storm, while thunderous silence takes its ancient form. Six secrets bloom in chaos's gentle way, where luck's bright pulse illuminates the fray.",
+      "hint": "One points, one glows high, one laughs, one floats, one transforms, one strikes."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the moon's soft light, the crystal's glow, the fire's might, the butterfly's grace, and lightning's sight.",
+      "hint": "Look for: precision, night, clarity, heat, wings, and electricity."
+    },
+    "answer": [
+      0,
+      3,
+      20,
+      6,
+      8,
+      4
+    ]
   }
 }
