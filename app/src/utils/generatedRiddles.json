@@ -22318,5 +22318,41 @@
       9,
       3
     ]
+  },
+  "sol_1028": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged trickster pirouettes through prismatic veils. In the gemstone's heart, lightning births a thousand crystalline whispers, while the nocturnal pearl watches over chaos blooming eternal.",
+      "hint": "Count the performers: one strikes, one glimmers, one transforms, one judges, one enchants, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "A spark from the sky, a jewel that shines bright, a jester's two faces, a butterfly's flight, a gem full of magic, and the moon's gentle light.",
+      "hint": "Think of luck's companions: electricity, fortune, trickery, transformation, mystique, and night."
+    },
+    "answer": [
+      5,
+      3,
+      19,
+      8,
+      20,
+      21
+    ]
+  },
+  "emlo_381": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, collecting treasures that sparkle and gleam. The jester's luck guides my chaotic dance, while nature's delicate wing gives me chance. What six symbols mark my moonbound romance?",
+      "hint": "Think of a memecoin's journey to the moon, combining speed, fortune, sparkle, and transformation."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, sparkles dance in the night. Add the moon where we all want to be, plus butterfly wings and lightning so free. What are these six?",
+      "hint": "A rocket, a gem, sparkles, the moon, a butterfly, and lightning - count them!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      19
+    ]
   }
 }
