@@ -22462,5 +22462,23 @@
       6,
       9
     ]
+  },
+  "sol_1034": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, and fortune's jester dances with the winged creature of metamorphosis. The jeweled prism catches lightning's kiss while the night's pale sentinel watches over all. Six symbols intertwine in chaos and destiny—find the masked performer, the gemstone's truth, the bolt of change, the lunar witness, the fox's cunning, and the spinner's wheel of chance.",
+      "hint": "A performer in disguise, a precious stone, electricity's strike, nighttime's guardian, a clever animal, and a game of odds—all hidden within the celestial theater."
+    },
+    "easyRiddle": {
+      "text": "I contain six magical symbols: one that shines at night, one that strikes from above, one precious and clear, one that gambles with fate, one clever and sly, and one that wears many faces on stage.",
+      "hint": "Think of the night sky, a storm, jewels, games, animals, and theatrical performance."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      7,
+      13,
+      21
+    ]
   }
 }
