@@ -22264,5 +22264,41 @@
       4,
       11
     ]
+  },
+  "sol_1026": {
+    "hardRiddle": {
+      "text": "Through celestial tapestry where fortune's arrow bends, a gemstone's prismatic dance meets the serpent's ancient ends. Where Thunder's kiss ignites the spiral of ambition's climb, and butterfly's metamorphosis mirrors fate's sublime. Beneath the crescent's silver gaze, six symbols intertwine—speak the sequence where chaos and destiny align.",
+      "hint": "One pierces, one ascends, one gleams, one watches from above, one strikes with fury, one transforms with grace."
+    },
+    "easyRiddle": {
+      "text": "I am a circle with purpose, a stone that catches light, a winged dancer of change, a serpent scaled and bright. Thunder cracks the sky while moonlight keeps its vigil true. Can you find all six of us hiding in this EmojiLotto's view?",
+      "hint": "Look for: a target, something shiny, something that flies, something mythical, something electric, and something that glows at night."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      13,
+      4,
+      21
+    ]
+  },
+  "emlo_379": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while fortune sparkles in crystalline shards. Lightning strikes when the joker appears, and a fox's clever magic turns chaos into gems. What six symbols guide the diamond-handed believers to their purple moon destiny?",
+      "hint": "Think of a memecoin journey: the launch, the goal, the luck, the trickery, the gems, and the color of dreams."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, a gem shines bright, lightning brings luck, a joker plays tricks, a fox is sly, and purple is the color of riches. Which six emojis represent a memecoin adventure?",
+      "hint": "Start with how you launch, where you want to go, what you find, and who helps you get there."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      12,
+      13,
+      14
+    ]
   }
 }
