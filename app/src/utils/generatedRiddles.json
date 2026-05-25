@@ -22354,5 +22354,41 @@
       9,
       19
     ]
+  },
+  "sol_1030": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester spins destiny's wheel. Seven-petaled chance meets the prism of fate, as lightning crowns the crystalline throne of luck's geometry. What six silent witnesses bind the lottery's sacred geometry?",
+      "hint": "One strikes from above, one burns eternal, one hides identity, one glimmers with structure, one blooms with destiny, one rolls with chance."
+    },
+    "easyRiddle": {
+      "text": "Find the spark that falls from sky, the flower that never dies, the gem that catches light, the masked face hiding sight, the dice that rolls your fate, and the lightning that seals it all as great.",
+      "hint": "Look for: electricity in nature, a blooming plant, something precious and hard, someone pretending, cubes of chance, and a striking force."
+    },
+    "answer": [
+      5,
+      14,
+      20,
+      18,
+      11,
+      4
+    ]
+  },
+  "emlo_382": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a precious stone that makes diamonds bleed. Fortune spins wildly in this theatrical game, where tricksters juggle flames of memecoin fame. What six symbols mark this lucky path to glory?",
+      "hint": "Think of a journey to wealth: movement, value, chaos, performance, chance, and heat."
+    },
+    "easyRiddle": {
+      "text": "🚀 zooms toward the 💎 while ⚡ strikes fast. The 🎪 spins 🎲 amid the 🔥. What six emojis fuel the memecoin dream?",
+      "hint": "Rocket, Gem, Lightning, Circus, Dice, and Fire are your answers."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      6,
+      11,
+      5
+    ]
   }
 }
