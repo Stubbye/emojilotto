@@ -22426,5 +22426,41 @@
       8,
       4
     ]
+  },
+  "sol_1033": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances beneath the celestial sphere, six guardians of fate await. The winged metamorphosis spirals through prismatic arcs, while the sky's fury meets the eternal flame. A scaled sovereign of dreams and the crystalline heart of earth's treasure converge where luck's arrow finds its mark.",
+      "hint": "One transforms, one illuminates the night, one strikes with power, one burns eternal, one rules the mystical realm, and one marks destiny's point."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of chance: a colorful change, a night light, a sky strike, burning passion, a magical beast, and a shining goal's mark. What am I?",
+      "hint": "Look for: transformation, the moon, electricity, heat, fantasy, and targets."
+    },
+    "answer": [
+      8,
+      3,
+      4,
+      5,
+      13,
+      0
+    ]
+  },
+  "emlo_383": {
+    "hardRiddle": {
+      "text": "I launch to the celestial heights with electric speed, bringing fortune and sparkling treasures to those who believe. Diamond-backed and rainbow-painted, I dance with the unpredictable nature of fate itself.",
+      "hint": "Think of a coin's journey to the moon, powered by energy and luck"
+    },
+    "easyRiddle": {
+      "text": "A rocket rides the lightning to the moon, carrying gems that sparkle like fire. What six things describe this cosmic fortune ride?",
+      "hint": "Look for: speed, destination, power, wealth, light, and heat"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      6,
+      9
+    ]
   }
 }
