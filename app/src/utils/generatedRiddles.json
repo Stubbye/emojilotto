@@ -22300,5 +22300,23 @@
       13,
       14
     ]
+  },
+  "emlo_380": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with speed untamed, while fortune's gems sparkle in electric flames. The jester's magic dances with dragon's might, under a rainbow bridge burning bright. What six treasures guide the moonbound flight?",
+      "hint": "Think of the journey to wealth: speed, luck, magic, power, promise, and destination"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🐉 roars loud, 🌈 appears after storm, 🌙 is the goal. Which six symbols pump this memecoin to glory?",
+      "hint": "Look for: movement, energy, value, power, hope, and destination"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      13,
+      9,
+      3
+    ]
   }
 }
