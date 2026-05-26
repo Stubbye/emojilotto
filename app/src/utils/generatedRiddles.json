@@ -22588,5 +22588,41 @@
       8,
       19
     ]
+  },
+  "sol_1039": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the serpent's gleam. Through crystalline depths, the winged soul ascends toward that which mortals eternally pursue yet never grasp—save when lightning strikes the center of all games.",
+      "hint": "Consider what shines in darkness, what deceives in jest, what slithers between worlds, what transforms in flight, what burns from heaven, and what marks the bullseye of destiny."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: One burns bright from above, one tricks with a grin, one glimmers like ice, one soars with wings, one roars with ancient power, and one marks where all arrows fly true.",
+      "hint": "Think of lightning, laughter, jewels, butterflies, dragons, and targets."
+    },
+    "answer": [
+      4,
+      17,
+      20,
+      8,
+      13,
+      0
+    ]
+  },
+  "emlo_386": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride ignites the cosmos with crystalline fire, where fortune spins toward lunar glory and mystical wings dance through electric brilliance",
+      "hint": "Think of gambling, space travel, and magical transformation in the memecoin universe"
+    },
+    "easyRiddle": {
+      "text": "What 6 things help a memecoin moon? A spinning game, a laughing trickster, a shiny rock, a lightning bolt, a glowing prize, and the night sky destination",
+      "hint": "Lottery, joker, gem, lightning, trophy, moon"
+    },
+    "answer": [
+      11,
+      19,
+      2,
+      4,
+      17,
+      3
+    ]
   }
 }
