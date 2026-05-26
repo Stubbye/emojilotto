@@ -22624,5 +22624,23 @@
       17,
       3
     ]
+  },
+  "sol_1040": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone whispers secrets to the infinite dark. Lightning dances with celestial fire, while delicate wings of metamorphosis flutter between the spectrum's bridge. Six tokens of destiny converge: the marksman's aim, the jeweled prize, the heavens' throne, the electric storm, the phoenix's flame, and the painted soul that knows no earthly form.",
+      "hint": "Consider what transforms, what pierces, what glimmers in darkness, and what aims for destiny itself."
+    },
+    "easyRiddle": {
+      "text": "One shoots straight and true, one glows with inner light, one burns with fury, one rules from high above, one strikes with speed, and one escapes in beauty's dance. Which six elements complete the gambler's dream?",
+      "hint": "Think of aim, gems, night sky, heat, speed, and transformation."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8
+    ]
   }
 }
