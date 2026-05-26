@@ -22534,5 +22534,41 @@
       4,
       19
     ]
+  },
+  "sol_1037": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, six dancers pirouette through destiny's alone. The jester's grin guards the gem's hidden flame, while scaled majesty watches the butterfly's claim. Through prismatic veil and storm's violent kiss, luck spirals downward to fortune's abyss.",
+      "hint": "Look for: a target, a royal creature, a precious stone, a trickster, weather's wrath, and nature's delicate child"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this verse: One aims true, one rules the sky, one sparkles bright, one laughs in jest, one breathes with wings, and one dances with wind and light.",
+      "hint": "Think of: precision, nobility, value, mischief, nature, and movement"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      13,
+      7
+    ]
+  },
+  "emlo_385": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial fire, where gems sparkle in electric desire. One guides the path to fortune's flight, while nature's magic dances in the light.",
+      "hint": "Think of a meme coin journey: chaos, wealth, destiny, and natural beauty aligned."
+    },
+    "easyRiddle": {
+      "text": "Find the fool's treasure: a laughing face, a shining stone, lightning's speed, the flame of greed, the moon's bright glow, and fortune's flower.",
+      "hint": "These 6 items represent the memecoin dream: luck, value, power, luck, destiny, and success."
+    },
+    "answer": [
+      19,
+      2,
+      4,
+      5,
+      3,
+      14
+    ]
   }
 }
