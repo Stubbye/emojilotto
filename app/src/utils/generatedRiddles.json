@@ -22570,5 +22570,23 @@
       3,
       14
     ]
+  },
+  "sol_1038": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six keepers of fate converge in chromatic fire. The archer's mark meets heaven's throne, while serpent's breath and crystal's glow have grown. Winged fortune flutters past the storm's bright lance, as masked revelry completes this cosmic trance.",
+      "hint": "One points toward destiny, one illuminates the night, one burns with primal force, one sparkles with inner light, one transforms through metamorphosis, one hides behind artifice."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await: a celestial orb glowing pale, a marked target standing tall, a jeweled stone catching light, a dragon breathing heat, a butterfly dancing free, and the masked faces of chance.",
+      "hint": "Think of night sky, accuracy, wealth, mythology, nature, and performance."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      8,
+      19
+    ]
   }
 }
