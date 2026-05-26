@@ -22516,5 +22516,23 @@
       5,
       9
     ]
+  },
+  "sol_1036": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers of fate converge. The archer's mark meets the vault of heaven, while winged metamorphosis spirals through prismatic threads. Thunder's child and the jester's twin secrets unfold in this cosmic masquerade.",
+      "hint": "One guides aims, one lights the path, one transforms, one illuminates chaos, one strikes with fury, one laughs at all."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the rocket that soars, the gem that gleams, the moon above, the lightning strike, and the joker's grin.",
+      "hint": "Look for: aim, launch, treasure, night sky, electricity, and laughter."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
