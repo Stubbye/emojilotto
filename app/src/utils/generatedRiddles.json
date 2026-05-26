@@ -22480,5 +22480,41 @@
       13,
       21
     ]
+  },
+  "sol_1035": {
+    "hardRiddle": {
+      "text": "Through celestial depths where fortune's servants dance, six whispers align in destiny's trance. The archer's mark meets swift ascension's flame, while earthbound stones of brilliance stake their claim. Twin beasts of myth and winged metamorphosis twirl, as crystalline fragments scatter through the cosmic swirl.",
+      "hint": "Seek the convergence of aim, speed, and radiance; where transformation meets legendary power, and light refracts into infinite possibility."
+    },
+    "easyRiddle": {
+      "text": "A target and rocket race toward the sky, gems and stars shine ever high. A dragon and butterfly dance in delight, while crystal fragments catch the light.",
+      "hint": "Count the six symbols: one aims, one flies, one glows below, one mythical, one transformed, one sparkles."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      14,
+      20
+    ]
+  },
+  "emlo_384": {
+    "hardRiddle": {
+      "text": "To the moon we rocket with lightning speed, through fire and gem we plant our seed. The sparkles guide us through the night, as the star shines ever bright. What six celestial signs light our memecoin flight?",
+      "hint": "Think of a journey to wealth: the vehicle, the destination, the treasure, the energy, the light, and the precious reward."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⭐ shines bright, 💎 is treasure, ⚡ is might, 🔥 is hot, ✨ is light. Which six make our memecoin right?",
+      "hint": "Find the rocket, star, gem, lightning, fire, and sparkles in the emoji list."
+    },
+    "answer": [
+      1,
+      21,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
