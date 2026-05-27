@@ -22678,5 +22678,23 @@
       5,
       11
     ]
+  },
+  "sol_1043": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six sentinels of fate convene in cosmic space. The scaled leviathan guards the jester's masked deceit, while lightning cleaves the silence where two souls competing meet. A crystalline fragment refracts the nocturnal glow, and petaled whispers bloom where destiny's winds blow.",
+      "hint": "One element of chaos, one of performance, one of celestial watching, one of transformation, one of precision, and one of growth."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune dance together: the dragon's ancient wisdom, the joker's playful heart, the star's eternal light, the crystal's sharp brilliance, the flower's gentle beauty, and the lightning's striking power. Which six join the lottery's call?",
+      "hint": "Look for: a mythical creature, a trickster, a celestial body, a precious object, nature's bloom, and raw energy."
+    },
+    "answer": [
+      13,
+      19,
+      21,
+      20,
+      14,
+      4
+    ]
   }
 }
