@@ -22714,5 +22714,23 @@
       5,
       19
     ]
+  },
+  "sol_1045": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the gemstone's twin gleams upon fortune's stage. The arrow of ambition pierces the veil between realms, while masked performers dance beneath the crescent's gaze. Six symbols intertwine: the bolt that splits heavens, the jewel that drinks starlight, the winged metamorphosis of fate, the glowing dust of becoming, the nocturnal sentinel, and the burning phoenix of transformation.",
+      "hint": "One ascends, one blinds, one transforms, one illuminates, one watches, one consumes"
+    },
+    "easyRiddle": {
+      "text": "I shine in night's embrace, my twin glitters with wealth untouched. Lightning's fury meets the butterfly's grace, while fire dances and sparkles celebrate the ascent. What six treasures of fortune am I?",
+      "hint": "Night, wealth, electricity, transformation, flame, magic"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      10,
+      21,
+      6
+    ]
   }
 }
