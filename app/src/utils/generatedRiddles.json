@@ -22732,5 +22732,41 @@
       21,
       6
     ]
+  },
+  "sol_1046": {
+    "hardRiddle": {
+      "text": "Where fortune's jester spins the celestial loom, six tokens dance in shadow's womb. The archer's mark meets winged ascent, while gemstone glimmers in night's descent. Thunder's kiss ignites the feast, and transformation blooms from beast. In chaos' smile, the answer gleams—six harbingers of fevered dreams.",
+      "hint": "Think of fortune's symbols: one aims true, one reaches skyward, one shines precious, one rules the dark, one strikes with fury, and one shifts its form."
+    },
+    "easyRiddle": {
+      "text": "Six lottery tokens hide in riddle's keep: one takes aim, one flies deep, one sparkles bright as precious stone, one glows where night has grown. One crackles wild with electric might, one wears a mask of playful fright. What six shall fortune's wheel reveal?",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, and Joker are your answer's seal."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_390": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, sparkling with gem-like brilliance. A joker's chance and a fox's cunning guide my path through the fire of volatility. What am I?",
+      "hint": "Think of a memecoin's journey: where it goes, what powers it, and the risks involved."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 shoots toward the 🌙, powered by ⚡ and 💎, while a 🔥 burns bright and a 🃏 laughs along. What's the memecoin dream?",
+      "hint": "Count the emojis mentioned: rocket, moon, lightning, gem, fire, and one more trickster."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      18
+    ]
   }
 }
