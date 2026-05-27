@@ -22786,5 +22786,23 @@
       18,
       21
     ]
+  },
+  "sol_1049": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the void's heart, a jester's dance ignites fortune's arc. Six sentinels guard the threshold between worlds: the archer's mark meets the charioteer's ascent, while twin luminaries—one crystalline, one ablaze—weave through the trickster's grin. The winged soul pirouettes past the prism's song, and fortune trembles at the gemstone's throne.",
+      "hint": "Seek the performer among the heavens; count the jester, the gem-bearer, and those who touch both earth and infinity."
+    },
+    "easyRiddle": {
+      "text": "I contain a target and a rocket reaching high, a glowing gem under the moon's watchful eye, lightning that dances with fire so bright, a joker who laughs in the spotlight.",
+      "hint": "Look for the circle, the flying machine, the precious stone, the night sky, electricity, and flames of mischief."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
