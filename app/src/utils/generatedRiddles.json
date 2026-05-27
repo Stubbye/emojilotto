@@ -22696,5 +22696,23 @@
       14,
       4
     ]
+  },
+  "emlo_389": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, climbing heights where gems ignite my greed. My magical spark dances with fortune's flame, while luck strikes like lightning through this memecoin game.",
+      "hint": "Think of momentum, luck, and the ultimate crypto dream"
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly with thunderous might, collecting treasures that sparkle so bright. Lady luck shows us the way, with fortune's diamond leading the way.",
+      "hint": "Look for symbols of luck, speed, destination, and precious things"
+    },
+    "answer": [
+      1,
+      4,
+      3,
+      2,
+      5,
+      19
+    ]
   }
 }
