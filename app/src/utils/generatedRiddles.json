@@ -22768,5 +22768,23 @@
       6,
       18
     ]
+  },
+  "sol_1048": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six sentinels of fate dance in shadow's game. The prism-bearer ascends through thunderous veils, while scaled wisdom guards the glittering trails. In masks of mirth, the trickster's smile gleams, yet all converge where destiny's spectrum teams.",
+      "hint": "Seek the aimed, the risen, the fractured light, the storm's voice, the ancient guard, and the false-faced night."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I soar so high, I sparkle bright across the sky. The storm's raw power, the scales that fly, the jester's grin, and prisms nigh. What six reveal the lottery's prize?",
+      "hint": "Target, Rocket, Lightning, Dragon, Joker, and Gem are your guides."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      13,
+      18,
+      21
+    ]
   }
 }
