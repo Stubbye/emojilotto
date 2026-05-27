@@ -22642,5 +22642,41 @@
       6,
       8
     ]
+  },
+  "sol_1042": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance in twilight's gyre. The jester's grin and dragon's might, a butterfly through prisms' light. Below the gem where fortunes gleam, the fox conducts a mystic dream.",
+      "hint": "Look for a performer's smile, a winged creature, a precious stone, a creature of cunning, a celestial guardian, and a blazing force."
+    },
+    "easyRiddle": {
+      "text": "I am six: a marksman's tool, a flame that burns, a scaled beast, a fool who grins, a winged dancer, and a precious stone hidden in shadow.",
+      "hint": "Think of a target, fire, dragon, joker, butterfly, and gem."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      18,
+      8,
+      2
+    ]
+  },
+  "emlo_387": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a gem-powered journey to fortune's deed. Where fire meets fortune and luck takes flight, the joker spins magic under starlit night.",
+      "hint": "Think of a memecoin's journey: destination, speed, value, goal, chance, and chaos."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, gems that sparkle bright, lightning quick gains, and fire burning light!",
+      "hint": "A typical crypto trader's wish list in emojis."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11
+    ]
   }
 }
