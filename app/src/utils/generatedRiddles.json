@@ -22894,5 +22894,41 @@
       19,
       8
     ]
+  },
+  "sol_1054": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver, through prisms of fate and wings of transformation, the jester's grin gleams beneath thunderous ascension, while the serpent of old coils within crystalline depths—six tokens dance between chaos and destiny.",
+      "hint": "One guides aims, one reaches heights, one refracts light, one metamorphoses, one mocks, one conducts electricity."
+    },
+    "easyRiddle": {
+      "text": "A bullseye waits for the rocket's climb, a jewel shines bright, a butterfly takes flight, a lightning bolt strikes, a joker laughs, and a dragon dreams—which six hold the key?",
+      "hint": "A target, something that flies high, something precious, something that transforms, something electric, something that plays tricks."
+    },
+    "answer": [
+      0,
+      1,
+      7,
+      5,
+      19,
+      13
+    ]
+  },
+  "emlo_395": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, sparkling with fire as I chase the gem. When fortune strikes like lightning, I dance with the joker's luck. What am I?",
+      "hint": "Think of a memecoin's journey to success with chaotic energy and astronomical dreams"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🔥 burns hot, ✨ sparkles magic, 🃏 brings chaos. Which six illuminate a memecoin's wild ride?",
+      "hint": "Look for the symbols that represent moonshot dreams, explosive growth, and lucky chaos"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      9,
+      11
+    ]
   }
 }
