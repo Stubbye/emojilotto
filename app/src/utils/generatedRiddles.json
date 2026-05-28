@@ -22948,5 +22948,41 @@
       3,
       13
     ]
+  },
+  "sol_1056": {
+    "hardRiddle": {
+      "text": "Through celestial gates where fortune's jester pirouettes, the archer's symmetry meets the serpent's ancient flame. Six tokens dance in chaos—where luck's twin speaks in riddles, the winged metamorphosis spirals toward the luminous crown that crowns all wishes. In crystalline splendor, the conductor's silence echoes what thunder once promised.",
+      "hint": "One watches from above, one climbs beyond, one burns eternal. Find the performer, the transformer, and the prism of dreams."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your fate: the target marks precision, the dragon roars with power, the butterfly transforms, the star shines bright, the gem glows precious, and the trophy claims victory.",
+      "hint": "Think of success, magic, change, light, wealth, and winning."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      21,
+      5,
+      18
+    ]
+  },
+  "emlo_396": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, my 🔥 burns bright for those who believe. From 💎 depths I rise, protected by fortune's 🍀 charm, while my ⚡ strikes fear into paper hands. What am I?",
+      "hint": "A memecoin that defies gravity and logic"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, diamond hands hold strong, lightning fast gains and fire in the community. Lucky clover brings the wins. What journey am I?",
+      "hint": "A crypto adventure with six magical symbols"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      19,
+      20
+    ]
   }
 }
