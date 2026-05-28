@@ -22804,5 +22804,41 @@
       4,
       11
     ]
+  },
+  "sol_1050": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's cold kiss, six mysteries dance in celestial bliss. The jester's grin precedes the serpent's flight, while nature's dancer bathes in prismatic light. Thunder's tongue and stone's eternal gleam—collect them all to chase the lottery dream.",
+      "hint": "One draws luck, one grants wishes, one laughs at fate, one soars above, one ignites the storm, one transforms with grace."
+    },
+    "easyRiddle": {
+      "text": "A target aims, a joker grins, a dragon flies so high. Lightning strikes, a gem shines bright, and butterflies touch the sky. Six golden symbols of fortune's way—which ones will guide your lottery day?",
+      "hint": "Look for: something you aim at, something funny, something mythical, something electric, something precious, and something with wings."
+    },
+    "answer": [
+      0,
+      10,
+      14,
+      4,
+      2,
+      8
+    ]
+  },
+  "emlo_392": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a gem-like treasure that makes believers bleed. Under the moon I sparkle and dance, while fire fuels the diamond's chance. A joker's game with cosmic flair, where butterflies and fortune find their lair.",
+      "hint": "Six symbols guide the memecoin's ascent: one propels upward, one glows below, one shines bright, one crackles with power, one burns hot, and one transforms."
+    },
+    "easyRiddle": {
+      "text": "Find the rocket that launches to the moon, the gem that sparkles, the fire that fuels the dream, the lightning that strikes fast, the butterfly that spreads joy, and the joker that makes it all fun!",
+      "hint": "Look for: flight, celestial, treasure, electricity, heat, and transformation."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      4,
+      6,
+      19
+    ]
   }
 }
