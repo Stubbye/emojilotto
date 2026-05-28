@@ -22876,5 +22876,23 @@
       5,
       19
     ]
+  },
+  "sol_1053": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's silent dance, six messengers convene in twilight's trance. The archer's mark burns bright in cosmic night, while scaled leviathan guards wealth of light. Winged traveler weaves through prismatic thread, and jester's grin echoes where dreams are bred.",
+      "hint": "Seek the intersection of chance, celestial bodies, precious stones, and mythical guardians. One brings transformation, one brings laughter."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: the target of wishes, the dragon's ancient wisdom, the gem that gleams, the lightning that strikes, the joker that laughs, and the butterfly that transforms.",
+      "hint": "Look for: a bullseye, a mythical creature, something precious, electricity, a fool's card, and an insect."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      5,
+      19,
+      8
+    ]
   }
 }
