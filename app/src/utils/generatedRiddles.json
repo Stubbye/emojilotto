@@ -22840,5 +22840,41 @@
       6,
       19
     ]
+  },
+  "sol_1051": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a winged dancer twirls through celestial fire. The jester's grin reflects in crystalline depths, while thunder whispers secrets to the gemstone's heart. Six paths converge where luck ignites the stage.",
+      "hint": "Consider the journey of chance itself—from aim to ascension, from chaos to brilliance, from folly to treasure."
+    },
+    "easyRiddle": {
+      "text": "I aim at luck, I soar with dreams, I shimmer bright, I laugh and scheme. Thunder marks my path so true, and gems hold secrets just for you.",
+      "hint": "Think of a lottery game: what guides your shot, what lifts your hopes, what sparkles with promise, who brings the chaos, what glitters, and what stones hold magic?"
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      4,
+      2,
+      19
+    ]
+  },
+  "emlo_393": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like sparkle is all I need. Dragon fire lights my way, while the joker's trick makes holders pray. What six symbols mark this memecoin's fate?",
+      "hint": "Think of a journey to lunar heights with magical chaos and precious rewards"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket going up, the gem so bright, the moon so high, the lightning strike, the fire's glow, and the joker's show!",
+      "hint": "Look for: a vehicle, a precious stone, a celestial body, electricity, heat, and a trickster"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      19
+    ]
   }
 }
