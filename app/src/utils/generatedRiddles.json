@@ -22930,5 +22930,23 @@
       9,
       11
     ]
+  },
+  "sol_1055": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate align: the archer's mark meets heaven's breath, twin flames of chance ignite the prism, while masked revelry spins beneath the djinn's eternal glow. Seek the gleaming stone that crowns ambition, the court's laughing herald, and the beast of ancient storms—together they unlock the vault where dreams crystallize into starlit destiny.",
+      "hint": "One points, one rises, one shines, one glows, one masks, one roars"
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols hold the key: an archer's destination, lightning's wild twin, a jester's grin, treasure's sparkle, heaven's pearl, and the dragon's ancient might. What are they?",
+      "hint": "Target, Lightning, Joker, Gem, Moon, Dragon"
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      2,
+      3,
+      13
+    ]
   }
 }
