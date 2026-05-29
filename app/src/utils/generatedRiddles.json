@@ -23038,5 +23038,41 @@
       11,
       10
     ]
+  },
+  "sol_1060": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and serpent fire dances with celestial blaze. The jester's mask conceals what lightning knows, as crystal tears fall where the night wind blows. Six secrets hide in chaos born of chance—seek the gem that burns within fate's trance.",
+      "hint": "Look for the intersection of aim and destiny, where mythical power meets electric destiny, and laughter masks truth."
+    },
+    "easyRiddle": {
+      "text": "Six treasures spin in luck's grand game: a hunter prowls, a dragon claims, a storm strikes bright, a jewel takes flight, a fool grins wide, and stars ignite.",
+      "hint": "Think of animals, weather, gems, and celestial bodies that bring good fortune."
+    },
+    "answer": [
+      13,
+      1,
+      12,
+      5,
+      19,
+      21
+    ]
+  },
+  "emlo_398": {
+    "hardRiddle": {
+      "text": "I launch into the void seeking celestial fortune, my path lit by electric speed and eternal flames. My treasures sparkle with cosmic dust, guided by fortune's dance. What six symbols mark my journey to the moon?",
+      "hint": "Think about a memecoin's ascent: the vehicle, the destination, the luck, the power, the brilliance, and the magical chance."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ makes it fast, 💎 shows value, 🌙 is the goal, ✨ adds magic, and 🎰 brings luck. Name these six!",
+      "hint": "One launches, one powers, one shines, one glows, one sparkles, and one gambles."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      11
+    ]
   }
 }
