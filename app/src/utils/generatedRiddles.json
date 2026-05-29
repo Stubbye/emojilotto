@@ -23110,5 +23110,23 @@
       10,
       2
     ]
+  },
+  "sol_1062": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, six dancers twirl in fortune's game. The jester's grin beneath the gem's cold light, as thunder splits the veil of night. A painted soul takes flight on wings of chance, while crystals weep in destiny's trance.",
+      "hint": "One points the way, one burns with pride, one sparkles deep where secrets hide, one laughs at fate, one soars above, one fractures light with shattered love."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide the lottery's key: a target's mark, fire's decree, a gem that gleams, lightning's arc, a joker's mask, and crystal's spark—which six shall lead you to your star?",
+      "hint": "Think of aim, heat, wealth, electricity, trickery, and ice."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      9,
+      19,
+      20
+    ]
   }
 }
