@@ -23020,5 +23020,23 @@
       5,
       20
     ]
+  },
+  "sol_1059": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in twilight's game. The jester's grin reflects in crystalline deep, while winged beauty ascends where lightning and starfire sleep. The juggler's realm spins 'neath a purple veil, and in chaos blooms the answer to fate's ancient tale.",
+      "hint": "Seek the performer's stage, the gem of thought, the messenger of sky, the court's wisest fool, the night's guardian, and the spark that splits the heavens."
+    },
+    "easyRiddle": {
+      "text": "Six magical things bring luck to light: a glittering stone that catches sight, a jester who plays, a night guardian high, the spark that falls from the sky, a stage of wonders with games of chance, and a creature that flutters in fortune's dance.",
+      "hint": "Think of prizes, entertainment, nature, and the night sky. All six work together in a lottery's might."
+    },
+    "answer": [
+      2,
+      7,
+      21,
+      19,
+      11,
+      10
+    ]
   }
 }
