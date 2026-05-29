@@ -23128,5 +23128,41 @@
       19,
       20
     ]
+  },
+  "sol_1063": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits conspire in twilight's trance. The archer's aim strikes gem-crowned night, while chaos wears its painted might. Thunder's child and scaled ambition waltz with luck's sweet revolution, through prisms bent and petals caught, where laughter masks the truth once sought.",
+      "hint": "Think of luck, chaos, destiny, and nature's duality intertwined in the realm of chance."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune spin together: a target and rocket soar high, a gem and moon gleam bright, lightning strikes with joy, and a joker laughs at it all. What are these six dancers of destiny?",
+      "hint": "One shoots straight, one shines above, one sparkles below, one laughs loud, and two bring electricity and precision to the game."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_400": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, collecting treasures that shimmer and gleam. My journey is guided by fortune's magic circle, where jesters laugh and victory awaits the brave.",
+      "hint": "Think of explosive growth, cosmic destinations, and the gambler's dance of chance."
+    },
+    "easyRiddle": {
+      "text": "A fast 🚀 goes up, a bright ⭐ shines high, a 💎 sparkles pretty, ⚡ zaps quick, 🎪 entertains crowds, and 🍀 brings good luck.",
+      "hint": "Count the emojis mentioned in the riddle itself."
+    },
+    "answer": [
+      1,
+      21,
+      2,
+      4,
+      6,
+      19
+    ]
   }
 }
