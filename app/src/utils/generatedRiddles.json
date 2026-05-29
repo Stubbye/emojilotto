@@ -23002,5 +23002,23 @@
       8,
       20
     ]
+  },
+  "sol_1058": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial whispers dance in cosmic grace. The jester's grin betrays what brilliance conceals, while thunder's kiss awakens what the night reveals. A scaled guardian guards the treasure of ascent, through prisms born where mortal dreams are spent.",
+      "hint": "Seek the union of games and sky, where electricity and illusion lie."
+    },
+    "easyRiddle": {
+      "text": "One aims and strikes with perfect sight, one soars beyond the earthly light, one glimmers with a fool's delight, one roars with ancient appetite, one crackles fierce and burns so bright, one refracts all colors in its light.",
+      "hint": "Count six: precision, height, mischief, beast, energy, and refraction."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      13,
+      5,
+      20
+    ]
   }
 }
