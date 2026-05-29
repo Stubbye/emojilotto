@@ -23164,5 +23164,23 @@
       6,
       19
     ]
+  },
+  "sol_1064": {
+    "hardRiddle": {
+      "text": "Where celestial flames pirouette through fortune's prism, the jester's twin guardians dance beneath the winged shimmer. Six vessels of destiny converge: the archer's mark meets the ascending phoenix, crystalline wonder splits the veil, while the trickster's masked kin and scaled sovereign waltz in the glow of transformation's sparkled breath.",
+      "hint": "A performance of chance where fire meets the sky, masks conceal truth, and gems refract destiny's light"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one marks the center, one soars upward with fire, one gleams with precious light, one hides behind disguise, one breathes ancient magic, and one glimmers with pure enchantment.",
+      "hint": "Target, Rocket, Gem, Joker, Dragon, and Sparkles complete the circle"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      13,
+      19
+    ]
   }
 }
