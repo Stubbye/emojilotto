@@ -22984,5 +22984,23 @@
       19,
       20
     ]
+  },
+  "sol_1057": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial song, a masked trickster weaves fate through prismatic threads. The archer's mark meets the serpent's ancient gold, while winged metamorphosis blooms eternal in the jester's electric gaze.",
+      "hint": "Seek the convergence of chance, chaos, and transformation where luck takes its truest form."
+    },
+    "easyRiddle": {
+      "text": "I contain a target and a flame, a dragon and a joker's game. Add the sparkles and butterfly's wings—six treasures that fortune brings.",
+      "hint": "Count the magical elements: aim, fire, scales, laughter, shimmer, and flight."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      19,
+      8,
+      20
+    ]
   }
 }
