@@ -23308,5 +23308,41 @@
       13,
       19
     ]
+  },
+  "sol_1071": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets fortune's flame, six dancers of fate in shadow's acclaim. The jester's twin masks reflect what burns bright, while scaled guardian guards the treasure of night. Between earth's bloom and heaven's arc, the fox's cunning leaves its mark. Crystalline brilliance crowns the symphony's play, where lightning ignites the rainbow's way.",
+      "hint": "Look for the hunter, the fool, the scaled one, the flower, the prism, and the storm's song."
+    },
+    "easyRiddle": {
+      "text": "Six symbols spin where luck takes flight: a marksman's aim, a jester's might, a dragon's gleam, a flower's grace, a crystal's shine, and lightning's race. What blazes between the sacred ground and heaven's painted ring around?",
+      "hint": "Think of targets, tricks, dragons, blossoms, gems, and electricity dancing together."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      14,
+      20,
+      4
+    ]
+  },
+  "emlo_403": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with speed untamed, my brilliance cuts through darkness like a blade. Where fortune sparkles and luck ignites, I dance between the whimsy of chance and the promise of riches. What am I?",
+      "hint": "Think of speed, fortune, electricity, and the gambler's dream combined"
+    },
+    "easyRiddle": {
+      "text": "Fast like a 🚀, shiny like a 💎, bright as ⚡, lucky as 🍀, rare as a 🌟, and fun as a 🎪. What memecoin journey am I?",
+      "hint": "Count the emojis - they ARE the answer!"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      19,
+      21,
+      7
+    ]
   }
 }
