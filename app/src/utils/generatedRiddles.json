@@ -23182,5 +23182,41 @@
       13,
       19
     ]
+  },
+  "sol_1066": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the jester's grin meets the hunter's cunning. Six secrets hide: the winged transformation ascends where the archer's aim meets heaven's pearl, while earthbound magic sparkles beneath the prism of chance and the beast of eternal dreams.",
+      "hint": "Seek the intersection of sky and deception, transformation and fortune, magic and mythology."
+    },
+    "easyRiddle": {
+      "text": "Find the symbol of the night sky, the lucky trickster, the swift deceiver, the crystal of luck, the beast of legend, and the transformation of spring. Six treasures await in this cosmic carnival.",
+      "hint": "One flies at night, one tricks minds, one hunts fast, one grants wishes, one breathes fire, one breaks free."
+    },
+    "answer": [
+      3,
+      17,
+      13,
+      19,
+      14,
+      8
+    ]
+  },
+  "emlo_401": {
+    "hardRiddle": {
+      "text": "I chase the dreams of diamond seekers, powered by cosmic winds and celestial fire. Where luck strikes like thunder and fortune blooms eternal, my colorful magic sparkles across the night. What am I?",
+      "hint": "Think of a memecoin journey: destination, fuel, treasure, timing, power, and wonder."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, ⚡ strikes fast, 🌙 guides the way, 💎 is the prize, 🌈 shows hope. Which six light the path to riches?",
+      "hint": "One launches, one glows, one zaps, one watches, one rewards, one inspires."
+    },
+    "answer": [
+      1,
+      21,
+      4,
+      3,
+      2,
+      9
+    ]
   }
 }
