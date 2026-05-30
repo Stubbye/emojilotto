@@ -23272,5 +23272,23 @@
       5,
       6
     ]
+  },
+  "sol_1069": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six tokens dance betwixt chaos and fame. The archer's mark gleams prismatic and cold, while winged metamorphosis breaks fortune's hold. Thunder's bright tongue and cosmic dust swirl—fortune favors those who make destiny twirl.",
+      "hint": "One brings wishes from above, one transforms below, one strikes with fury, one marks the way, one shines eternal, one glimmers in play."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny: aim true at your target, ride high on a rocket, treasure a gem, gaze at the moon, harness lightning's power, and let sparkles guide your fortune.",
+      "hint": "Think of aspiration, ascension, wealth, night sky, electricity, and magic dust."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
