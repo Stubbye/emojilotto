@@ -23290,5 +23290,23 @@
       4,
       10
     ]
+  },
+  "sol_1070": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and fortune's spark ignites the twin gates of chance—behold the jester's grin beneath the scaled guardian's watchful gaze. Six keepers of destiny whisper: seek where aim collides with orbit, where treasure's fire blooms eternal, where masked revelry bows to the crowned fool's embrace.",
+      "hint": "Look for the symbols of games, quests, and cosmic alignment—one shoots upward, one glimmers below, one blazes with mischief."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures woven in riddle's tongue: the hunter's mark, the steed of stars, the stone that shines, the silver orb, the wild creature with cunning mind, and the fool crowned in bells. What am I?",
+      "hint": "Think of targets, space travel, precious things, night sky, tricksters, and sly animals."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      13,
+      19
+    ]
   }
 }
