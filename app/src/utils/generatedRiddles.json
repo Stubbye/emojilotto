@@ -23434,5 +23434,23 @@
       20,
       8
     ]
+  },
+  "sol_1076": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six sentinels of fate convene: the jeweled messenger ascends on thunder's wing, while prismatic fire dances upon the crescent throne. A masked jester's twin mirrors spin in the void, as wings of metamorphosis shimmer through celestial waters. The ancient serpent coils beneath stars that weep brilliance eternal.",
+      "hint": "Seek the gem that burns, the masked deceiver's reflection, wings that transform, and the dragon who guards the sky's children."
+    },
+    "easyRiddle": {
+      "text": "I sparkle in darkness, I strike without warning, I transform and deceive, I fly through the night, I coil in legend, and I guide the lost.",
+      "hint": "One shines, one burns, one plays tricks, one has wings, one is mythical, one leads the way."
+    },
+    "answer": [
+      6,
+      4,
+      19,
+      8,
+      14,
+      21
+    ]
   }
 }
