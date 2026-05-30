@@ -23344,5 +23344,23 @@
       21,
       7
     ]
+  },
+  "sol_1072": {
+    "hardRiddle": {
+      "text": "Through celestial tapestry where fortune's serpent coils, the archer's mark meets the phoenix' soul. Between twin crescents of night's dominion, a dancer of tempest conducts the symphony of chance. Where crystalline shards refract ambition's flame, and the winged wanderer pirouettes through gardens of serendipity.",
+      "hint": "Seek where destiny aims, flames consume, gems reflect, lunar veil conceals, storms rage, and petaled grace blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within my words: one points the way with precision, one roars with primal power, one sparkles with inner light, one bathes in silver glow, one crackles with raw fury, and one bows in silent beauty.",
+      "hint": "Target, Dragon, Crystal, Moon, Lightning, Flower"
+    },
+    "answer": [
+      0,
+      13,
+      20,
+      3,
+      4,
+      14
+    ]
   }
 }
