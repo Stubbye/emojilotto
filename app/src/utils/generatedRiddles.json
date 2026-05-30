@@ -23380,5 +23380,41 @@
       8,
       13
     ]
+  },
+  "sol_1074": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester's laughter echoes through the prism of chaos. The winged oracle seeks the gemstone's heart beneath the silver crescent, while the archer's bolt pierces through seven-colored veils of fate.",
+      "hint": "Look for: A masked entertainer, a shining stone, something that strikes swiftly, a nocturnal guide, a creature with wings, and the spectrum's gift."
+    },
+    "easyRiddle": {
+      "text": "Find the jester who wears a grin, the precious stone that gleams within, the bolt of speed that lights the night, the moon that glows so pale and bright, the butterfly that dances free, and the rainbow's mystery.",
+      "hint": "One brings laughter, one sparkles, one is fast, one is in the sky, one has wings, one has many colors."
+    },
+    "answer": [
+      19,
+      5,
+      4,
+      3,
+      8,
+      9
+    ]
+  },
+  "emlo_404": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gems sparkle as I dance through cosmic fire. Lady luck deals her hand with a joker's grin, while my spirit soars on dragon wings beneath the rainbow's promise.",
+      "hint": "A memecoin's journey: speed, wealth, chaos, mythical power, luck, and hope"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon shines bright, gems are worth more than a joker's light. Dragon flies high, fire burns strong, rainbow shows where you belong!",
+      "hint": "Six symbols of crypto dreams and fortune"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      14,
+      11,
+      9
+    ]
   }
 }
