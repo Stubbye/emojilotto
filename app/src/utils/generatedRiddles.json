@@ -23452,5 +23452,41 @@
       14,
       21
     ]
+  },
+  "sol_1077": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis spirals through prismatic arcs. The jester's grin meets the hunter's cunning beneath the dragon's glittering throne, while fortune's scattered bones echo the symphony of chaos. Seek the six that bind destiny's laughter to the cosmic flame.",
+      "hint": "Two creatures wear masks of transformation, one holds laughter, one holds cards, two shine from above and within, one spins the wheel of chance."
+    },
+    "easyRiddle": {
+      "text": "Find the magic six: A flying insect that changes, a mischievous trickster, a clever animal, a mystical beast, shimmering light from the heavens, and dancing bolts of energy.",
+      "hint": "Look for: wings that transform, a joker's smile, red fur, scales and fire, sparkles, and lightning."
+    },
+    "answer": [
+      8,
+      19,
+      13,
+      14,
+      20,
+      5
+    ]
+  },
+  "emlo_405": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a gem-like treasure that makes portfolios bleed. Dance through fire and sparkles so bright, where jesters and foxes play games through the night. What six symbols guide the memecoin's flight?",
+      "hint": "Think of a rocket's journey, precious rewards, chaos, magic, trickery, and cunning animals"
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots up, a gem shines bright, lightning strikes fast in the dead of night. Fire burns hot, sparkles dance around - what four things help memecoins get found? Plus two more from circus fun and clever fox's run!",
+      "hint": "Space travel, treasure, electricity, heat, magic, entertainment, and animal tricks"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      13
+    ]
   }
 }
