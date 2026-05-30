@@ -23236,5 +23236,41 @@
       4,
       11
     ]
+  },
+  "sol_1068": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a jeweled serpent coils through starlit space. The jester's grin reflects in crystal's gleam, while thunder splits the dreamer's sacred beam. Six sentinels of fate converge as one—the masked performer, the winged one, and fortune's ancient game begun.",
+      "hint": "Think of celestial paths, mischief, and games of chance intertwined with theatrical spectacle and cosmic elements."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your fortune's key: an archer's mark, a gem so free, a cosmic guide, a trickster's smile, crystals bright and lightning's trial.",
+      "hint": "Look for targets, gems, stars, jokers, crystals, and electrical power."
+    },
+    "answer": [
+      0,
+      2,
+      21,
+      17,
+      20,
+      4
+    ]
+  },
+  "emlo_402": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like treasure that makes dreamers succeed. Lightning strikes through my crystal heart, while fire and sparkles tear the market apart. What six symbols define this memecoin's art?",
+      "hint": "Think of a coin's journey: where it goes, how it moves, what it's worth, and how it shines."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ makes it fast, 💎 shows its value, ✨ makes it last. 🔥 hype surrounds it. What six emojis make a memecoin's way?",
+      "hint": "Rocket, Moon, Lightning, Gem, Sparkles, Fire - these are the symbols of memecoin dreams."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      9,
+      5,
+      6
+    ]
   }
 }
