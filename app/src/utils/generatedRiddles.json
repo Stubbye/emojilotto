@@ -23416,5 +23416,23 @@
       11,
       9
     ]
+  },
+  "sol_1075": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a prismatic serpent coils through veils of night. The jester's mask conceals what glimmers in crystalline depths, while wings of metamorphosis trace the arc between chaos and harmony. Six sovereigns of fate await those who read the language written in starlight and shadow.",
+      "hint": "Look for the night guardian, the trickster's domain, transformation's symbol, and treasures both bright and burning"
+    },
+    "easyRiddle": {
+      "text": "I contain luck's six faces: one burns bright with heat, one shines from distant night, one reflects a thousand colors, one wears a silly grin, one sparkles with pure brilliance, and one spreads its wings in grace. What am I?",
+      "hint": "Think of things that symbolize luck, magic, and wonder in different ways"
+    },
+    "answer": [
+      4,
+      3,
+      10,
+      17,
+      20,
+      8
+    ]
   }
 }
