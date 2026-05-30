@@ -23218,5 +23218,23 @@
       2,
       9
     ]
+  },
+  "sol_1067": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers spin through space. The gem-heart blazes with electric song, while scaled majesty and winged grace belong. Through prism'd arc the jester's fate is cast, where blooming hope and fortune's wheel hold fast.",
+      "hint": "One shoots, one shines from heaven's throne, one crackles with fury, one wears scales alone, one floats on air seeking nectar's call, one spins the chances that govern all."
+    },
+    "easyRiddle": {
+      "text": "I seek six signs of luck and dream: a target's mark, a gem's bright gleam, a dragon's power, a flower's bloom, the lightning's crack that breaks the gloom, the wheel of chance, and wings that soar—what six reveal the lottery's door?",
+      "hint": "Think of symbols: aim, treasure, mythical beast, nature, electricity, games of chance, and flight."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      14,
+      4,
+      11
+    ]
   }
 }
