@@ -23362,5 +23362,23 @@
       4,
       14
     ]
+  },
+  "sol_1073": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a jester's twin masks dance with the tempest's song. The emerald heart burns bright as wings of twilight flutter past, while the serpent's ancient wisdom coils beneath the melody of chance itself.",
+      "hint": "One guides aim, one rules night, one laughs at fate, one blazes, one transforms, one breathes eternity."
+    },
+    "easyRiddle": {
+      "text": "Find the target's mark, the moon's pale glow, the joker's grin, the fire's heat, the butterfly's grace, and the dragon's soul.",
+      "hint": "Look for aim, night sky, trickster, flames, metamorphosis, and myth."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      5,
+      8,
+      13
+    ]
   }
 }
