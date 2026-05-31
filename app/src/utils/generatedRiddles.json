@@ -23578,5 +23578,23 @@
       20,
       21
     ]
+  },
+  "sol_1081": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's grin mirrors the beast of cunning grace. Six tokens of fate converge: the archer's mark meets the serpent's ancient flame, while gemstones gleam beneath the crescent's silver gaze, and luck's four-leafed whisper trembles in the storm's electric breath.",
+      "hint": "One aims true, one coils with wisdom, one shines with value, one rules the night, one strikes with fury, one blesses chance."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: the goal we aim for, the wise and scaled guardian, the precious stone that catches light, the night's pale queen, the bolt that strikes, and the leaf that brings fortune's smile.",
+      "hint": "Think of targets, dragons, riches, the moon above, nature's power, and good luck."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
