@@ -23740,5 +23740,23 @@
       21,
       18
     ]
+  },
+  "sol_1089": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a jeweled heart spins beneath the jester's gaze. The winged wanderer seeks the archer's mark through chaos and light, while the scaled sovereign roars at destiny's gate.",
+      "hint": "One glows in night sky, one brings luck, one is round and random, one performs tricks, one transforms, one breathes flame"
+    },
+    "easyRiddle": {
+      "text": "A shining stone, a creature with wings, a round game piece, a night guardian, a card trickster, and a beast of legend walk into the lottery together.",
+      "hint": "Gem, Butterfly, Dice, Moon, Joker, Dragon"
+    },
+    "answer": [
+      3,
+      8,
+      11,
+      4,
+      13,
+      14
+    ]
   }
 }
