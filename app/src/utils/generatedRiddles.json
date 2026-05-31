@@ -23668,5 +23668,23 @@
       8,
       17
     ]
+  },
+  "sol_1085": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial whispers dance. The winged metamorphosis pirouettes through prismatic arcs, while the scaled leviathan guards treasures that ignite the firmament. Count the blazing petals of destiny's own theatre, where laughter wears a thousand faces and luck crystallizes into radiant coronets of eternal light.",
+      "hint": "Seek the hunter's mark, the cosmic torch, the butterfly's rebirth, the dragon's keep, the jester's grin, and the crown of champions."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance unite: one aims true at distant goals, one soars beyond the clouds, one flutters with painted wings, one breathes ancient fire, one sparkles with eternal mirth, and one stands victorious at the summit.",
+      "hint": "Think of targets, rockets, butterflies, dragons, sparkles, and trophies in a game of luck."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      14,
+      10,
+      18
+    ]
   }
 }
