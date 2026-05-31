@@ -23704,5 +23704,41 @@
       14,
       9
     ]
+  },
+  "sol_1087": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six mysteries entwined: the archer's mark meets starborn ambition, twin flames of chaos ignite the stage of jesters and trickery, while nature's flutter-wing bears witness to crimson devastation and the prism born from tempest's tears.",
+      "hint": "Think of luck's duality: precision and chance, performance and nature, destruction and beauty, all under watching eyes."
+    },
+    "easyRiddle": {
+      "text": "One points the way, one climbs so high, one shines with tricks, one dances by. One burns so bright, one brings the arc—six friends together light the dark.",
+      "hint": "Look for: a target, a celestial body, entertainment, motion, heat, and light."
+    },
+    "answer": [
+      0,
+      21,
+      19,
+      8,
+      6,
+      9
+    ]
+  },
+  "emlo_410": {
+    "hardRiddle": {
+      "text": "I launch to the 🌙 with electric speed, a gem that sparkles as I succeed. The dragon roars with fire so bright, while joker dances in the lightning's light. My trophy shines with crystal gleam, the ultimate memecoin fever dream.",
+      "hint": "Six symbols of crypto chaos and fortune combined"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket heading to the moon, the sparkling gem that makes you swoon, the lightning bolt of trading power, the fire that burns in this golden hour, the crystal that reflects your dreams, and the trophy of crypto schemes.",
+      "hint": "Look for launch, lunar destination, treasure, speed, heat, and victory"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      21,
+      18
+    ]
   }
 }
