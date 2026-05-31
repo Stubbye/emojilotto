@@ -23632,5 +23632,41 @@
       8,
       9
     ]
+  },
+  "sol_1084": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a jeweled spirit ascends through electric veils. The celestial dancer ignites the abyss, while nature's delicate twin spirals through prismatic dreams. Six tokens of fate converge—one strikes the bullseye of destiny, one pierces the cosmic veil, one glimmers with ancient hunger, one watches from heaven's throne, one splits the firmament with wrath, and one blooms eternal in chaos.",
+      "hint": "Consider what aims, what rises, what blinds, what observes, what destroys, and what persists despite the storm."
+    },
+    "easyRiddle": {
+      "text": "Six magical things gather for the lottery: something you aim with, something that flies to space, something precious and hard, something in the night sky, something that strikes with power, and something that transforms from crawling to flying.",
+      "hint": "Think of: a weapon of precision, a vehicle of dreams, a treasure, a night guide, nature's fury, and wings of wonder."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      8
+    ]
+  },
+  "emlo_409": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gems sparkle as I dance through chaos. The joker laughs at my fortune, yet fire burns within my spirit. What am I?",
+      "hint": "A volatile journey to wealth, fueled by luck and explosive gains"
+    },
+    "easyRiddle": {
+      "text": "Blast off with lightning speed! 🚀 Find the shiny gem, reach the moon, catch the fire, and claim the trophy of a lucky joker's fortune!",
+      "hint": "Six symbols of crypto dreams and lucky wins"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      8,
+      17
+    ]
   }
 }
