@@ -23614,5 +23614,23 @@
       19,
       4
     ]
+  },
+  "sol_1083": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, and prismatic light dances through the void. Twin flames consume what glimmers beneath the moth's eternal waltz, while resonance echoes from the heavens' percussion. Six keepers of destiny reveal themselves through veils of chance and chromatic dreams.",
+      "hint": "One marks the goal, one pierces sky, one shines from above, one burns bright, one transforms, one refracts all hues."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the sky-piercer, the night's guardian, the destroyer, the dancer of change, and the bringer of all colors. Six of us hide in the vault of luck.",
+      "hint": "Target, Rocket, Moon, Fire, Butterfly, Rainbow"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      9
+    ]
   }
 }
