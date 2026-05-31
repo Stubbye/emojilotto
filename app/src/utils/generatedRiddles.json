@@ -23596,5 +23596,23 @@
       4,
       19
     ]
+  },
+  "sol_1082": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers converge: the winged metamorphosis pirouettes through prismatic arcs, while fortune's jester grins at destiny's gem, as thunder's child crowns the crystalline ascendant beneath Luna's gaze.",
+      "hint": "Look for transformation, chance, light refraction, laughter in chaos, brilliance, and nocturnal royalty"
+    },
+    "easyRiddle": {
+      "text": "I contain: a creature that changes form, a shining stone, a colorful arc, a night guardian, a lucky fool, and electricity itself. What six symbols hide within?",
+      "hint": "Think of metamorphosis, sparkle, spectrum, sky, playing cards, and storm"
+    },
+    "answer": [
+      8,
+      2,
+      9,
+      3,
+      19,
+      4
+    ]
   }
 }
