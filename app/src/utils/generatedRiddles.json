@@ -23524,5 +23524,41 @@
       6,
       11
     ]
+  },
+  "sol_1079": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's pale gaze, a prism splits the dancer's flame. The jester's twin, adorned in silk, ascends through tempest's electric maze. Chaos blooms in six-faced song, while brilliance crowns the victor's claim.",
+      "hint": "One guides aims, one lights the night, one refracts all colors bright, one mirrors folly, one brings storm, one decides and breaks the norm."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance and light: a mark to hit, a stone that gleams, a face that mocks, a storm that strikes, a lunar dream, and fortune's flame.",
+      "hint": "Think of targets, gems, tricksters, electricity, the moon, and fire."
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      4,
+      3,
+      5
+    ]
+  },
+  "emlo_407": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights with electric speed, leaving a trail of brilliance. My precious gem sparkles with cosmic fortune, while trickery and chance dance around me. A magical creature guards the vault, and nature's delicate beauty marks the way.",
+      "hint": "Think of a meme coin's journey: explosive growth, valuable holdings, luck involved, mystical guardian, and natural beauty"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up up up! ✨ shines bright! 💎 means rich! 🦊 is clever! 🦋 is pretty! ⚡ is fast!",
+      "hint": "These 6 emojis represent a successful memecoin launch"
+    },
+    "answer": [
+      1,
+      9,
+      2,
+      13,
+      8,
+      4
+    ]
   }
 }
