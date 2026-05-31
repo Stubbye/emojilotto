@@ -23488,5 +23488,41 @@
       7,
       13
     ]
+  },
+  "sol_1078": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance between desire and wire. The jester's grin beneath the dragon's gleam, a crystal's pulse within the lightning's dream. One beast of cunning, one of scales that soar, where masks conceal what sparkles did before.",
+      "hint": "Look for: a pointed aim, a mythical flame, a fool's laughter, a gemstone's glow, electricity's path, and a creature of tricks."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: something you aim at, something that flies fast, something precious and shiny, something that breathes fire, something that sparkles bright, and something with a silly grin.",
+      "hint": "Think of a target, speed, treasure, a dragon, magic, and a funny character."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      13,
+      9,
+      18
+    ]
+  },
+  "emlo_406": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my fuel burns bright with electric might. Fortune's jewels sparkle as chaos dances, where fortune spins and magic prances. What six symbols mark this memecoin's ascent to glory?",
+      "hint": "Think of a coin's journey: propulsion, destination, luck, randomness, and dual forces of creation"
+    },
+    "easyRiddle": {
+      "text": "🚀 shoots upward, 💎 shines with value, ⚡ powers the pump, 🌙 is the destination, 🎪 represents the fun, and 🎰 is how you win. Name these six!",
+      "hint": "A memecoin needs launch power, treasure, energy, dreams, entertainment, and gambling vibes"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      6,
+      11
+    ]
   }
 }
