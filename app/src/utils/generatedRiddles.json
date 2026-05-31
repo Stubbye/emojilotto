@@ -23686,5 +23686,23 @@
       10,
       18
     ]
+  },
+  "sol_1086": {
+    "hardRiddle": {
+      "text": "Where fortune's piercing arrow meets the celestial sphere, a gemstone catches starlight's dance. The winged metamorphosis ascends through crackling electricity, while the dragon's ancient wisdom guards the spectrum's bridge and joy's ultimate crown gleams in silence.",
+      "hint": "Five symbols of desire, one of transformation. Lightning connects the earthly to the ethereal."
+    },
+    "easyRiddle": {
+      "text": "I strike with precision at fate's center, I shine in darkness above, I sparkle with precious worth, I flutter between worlds, I roar with untamed power, and I stretch across storms to promise tomorrow.",
+      "hint": "Think of: direction, night sky, riches, change, mythology, and hope."
+    },
+    "answer": [
+      0,
+      2,
+      22,
+      8,
+      14,
+      9
+    ]
   }
 }
