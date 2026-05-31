@@ -23560,5 +23560,23 @@
       8,
       4
     ]
+  },
+  "sol_1080": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, through prismatic gates the winged messenger races. Six treasures hide in chaos and grace: the archer's mark, the ascending flame, the jester's grin, the scales of chance, the vault of light, and the sentinel above all games.",
+      "hint": "One is aimed, one ascends, one deceives, one decides, one glows, one watches."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that climb toward fortune, the gem that sparkles bright, the joker who grins, the dice that decide, and the star that shines eternal.",
+      "hint": "Look for things that point up, shine bright, or play games."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      19,
+      20,
+      21
+    ]
   }
 }
