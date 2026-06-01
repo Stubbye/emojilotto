@@ -23758,5 +23758,41 @@
       13,
       14
     ]
+  },
+  "sol_1090": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath celestial fire, six whispers of fate convene: the archer's mark meets the messenger of storms, while gemstones blaze in the night's eternal gaze, and metamorphosis takes flight beside the prism's arc, as fortune's wheel spins where laughter echoes through canvas and coin.",
+      "hint": "Seek the symbol of games, the seeker of truth, the element of chaos, the stone of worth, the winged renewal, and the spectrum's promise."
+    },
+    "easyRiddle": {
+      "text": "Six lucky signs for lottery dreams: one marks your aim, one brings the spark, one shines with value, one lights the darkness, one transforms with wings, one paints all colors.",
+      "hint": "Target, Lightning, Gem, Moon, Butterfly, Rainbow"
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      8,
+      9
+    ]
+  },
+  "emlo_411": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar realm with electric speed, sparkling brilliance guides my path through cosmic fire, where fortune's gems await the lucky few dancing in celestial celebration.",
+      "hint": "Think of a memecoin's journey: rapid ascent, bright prospects, valuable rewards, and the luck involved"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ provides speed, 💎 means value, 🌙 is the goal, ✨ shows magic, 🔥 shows hype",
+      "hint": "Each emoji represents one word describing a memecoin adventure"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      5
+    ]
   }
 }
