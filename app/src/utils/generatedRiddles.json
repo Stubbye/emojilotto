@@ -23902,5 +23902,23 @@
       11,
       3
     ]
+  },
+  "sol_1094": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a serpent of flame coils through crystalline dreams. The jester's grin dances upon prismatic waves, while celestial fire blooms in the garden of chance. Six guardians of fate convene in the tapestry of possibility.",
+      "hint": "Seek the symbols of velocity, chaos, brilliance, mirth, destiny, and luminescence intertwined."
+    },
+    "easyRiddle": {
+      "text": "A fast messenger carries treasure through the sky. Laughter's mask appears with shimmering light. A dragon breathes where a flower never grows. Find these six in the lottery's sacred circle.",
+      "hint": "Think of speed, games, sparkle, comedy, mythical beasts, and precious things."
+    },
+    "answer": [
+      1,
+      5,
+      6,
+      18,
+      13,
+      10
+    ]
   }
 }
