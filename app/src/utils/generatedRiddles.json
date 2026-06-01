@@ -23794,5 +23794,41 @@
       9,
       5
     ]
+  },
+  "sol_1091": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six celestial dancers spin their fate alone. The jester's grin betrays the winged flame, while crystal tears fall on the lucky game. Between the spectrum's bow and heaven's gleam, they waltz through lightning's electric dream.",
+      "hint": "One guides the way up, one wears many faces, one glimmers frozen, one burns bright places"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck is crowned: a court fool laughs, fire burns around, crystal reflects the dragon's might, while lightning dances through the night, and rainbows arch where rockets fly—seek them beneath the starlit sky.",
+      "hint": "Look for: a performer, a precious stone, a mystical beast, a bright streak, a spectrum, and a celestial guide"
+    },
+    "answer": [
+      1,
+      13,
+      20,
+      4,
+      9,
+      21
+    ]
+  },
+  "emlo_412": {
+    "hardRiddle": {
+      "text": "I launch to the lunar destination with electric speed, sparkling brilliance guides my path through cosmic fire. A jester's luck meets precious gems in this volatile dance where fortunes multiply or vanish in a flash.",
+      "hint": "Think of a memecoin's journey: fast movement, bright future, gambling elements, and precious rewards"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, ⚡ strikes quick, 💎 is valuable, 🌙 is the dream, 🔥 is the hype, and 🃏 is the gamble",
+      "hint": "A memecoin has speed, power, value, dreams, excitement, and risk"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      11
+    ]
   }
 }
