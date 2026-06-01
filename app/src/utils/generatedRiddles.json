@@ -23866,5 +23866,41 @@
       9,
       21
     ]
+  },
+  "sol_1093": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a gemstone catches lightning's kiss. The nocturnal guardian watches as celestial fire dances with delicate wings of transformation. Six harbingers of fate converge where chaos sparkles eternal.",
+      "hint": "One aims, one illuminates darkness, one glimmers with value, one flickers with raw power, one floats above, one metamorphoses through grace."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune, I light the dark sky, I shine like a jewel, I crackle with power, I glow in the night, I flutter and change.",
+      "hint": "Target, Star, Gem, Lightning, Moon, Butterfly"
+    },
+    "answer": [
+      0,
+      22,
+      2,
+      4,
+      3,
+      8
+    ]
+  },
+  "emlo_414": {
+    "hardRiddle": {
+      "text": "I launch with speed to cosmic heights, my gem sparkles through electric nights. A dragon dances with fire bright, while fortune spins under moonlight. What six celestial treasures ignite?",
+      "hint": "Think of a crypto journey: propulsion, precious wealth, mythical power, energy, luck, and destination."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with a gem so fine! Lightning strikes as the dragon begins to shine. Fire burns bright and fortune will spin. Which six emojis help the memecoin win?",
+      "hint": "You need speed to reach the moon, something shiny, a magical creature, hot energy, random luck, and the destination itself."
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      5,
+      11,
+      3
+    ]
   }
 }
