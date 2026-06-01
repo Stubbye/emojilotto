@@ -23830,5 +23830,41 @@
       5,
       11
     ]
+  },
+  "sol_1092": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, through crystalline depths the dancer climbs higher. In prismatic light, the trickster plays, while nature's gem blooms through enchanted haze. Six secrets dance betwixt chaos and grace—find them within this labyrinthine space.",
+      "hint": "One pierces targets, one ignites the night, one sparkles pure, one wears many faces bright, one flutters free, one grows where wishes gleam."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: one you aim to hit, one shines above where dreams permit, one glows with inner light so true, one shifts in every lucky hue, one dances wild and free to soar, one blooms as nature's precious lore.",
+      "hint": "Think of: something you shoot at, the night sky guardian, something brilliant and hard, something tricky and colorful, something with wings, and something that grows in gardens."
+    },
+    "answer": [
+      0,
+      1,
+      17,
+      20,
+      8,
+      14
+    ]
+  },
+  "emlo_413": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with velocity untamed, my gem glimmers with electric fortune, while fire and sparkles dance in my wake. A dragon's fortune awaits those bold enough to ride me to rainbow's end.",
+      "hint": "Think of what every memecoin dreamer desires most"
+    },
+    "easyRiddle": {
+      "text": "Blasting upward with a 💎, chasing the 🌙, struck by ⚡ and 🔥, showered with ✨, blessed by the 🌈",
+      "hint": "The ultimate memecoin journey in 6 symbols"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      9,
+      21
+    ]
   }
 }
