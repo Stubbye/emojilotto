@@ -24064,5 +24064,23 @@
       13,
       19
     ]
+  },
+  "sol_1100": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a winged metamorphosis dances through prismatic tears. The trickster's grin echoes in percussion's ancient language, while celestial fire births transformation's humble bloom. Six masks of destiny converge where chaos wears the crown.",
+      "hint": "Seek the marksman's precision, the night's guardian, the insect's rebirth, the jester's mirth, the strings of fate, and fortune's bones."
+    },
+    "easyRiddle": {
+      "text": "I point at targets with precision, guard the sleeping sky above, transform from crawling to flying free, make people laugh with my tricks, sing through strings of emotion, and roll to decide your fate. What are my six companions?",
+      "hint": "Aim high, look up at night, watch nature change, find the funny one, hear the music, and let chance decide."
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      19,
+      16,
+      11
+    ]
   }
 }
