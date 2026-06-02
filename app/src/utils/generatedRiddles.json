@@ -23992,5 +23992,41 @@
       4,
       10
     ]
+  },
+  "sol_1098": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate align. The archer's mark holds lightning's truth, while gems crystallize in moonlight's shrine. Winged metamorphosis spirals through cosmic sparks, as nature's jeweled heir blooms eternal in the void between revelry and ruin.",
+      "hint": "Consider celestial bodies, transformation, precious things, and the meeting of chaos with order."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of luck: a target marked by force from above, a glowing stone under night's watch, a creature reborn from darkness, a flash that splits the sky, a blossom that never fades, and the shimmer of wishes granted.",
+      "hint": "One is aimed at, one glows overhead, one transforms, one strikes suddenly, one grows, one shines magically."
+    },
+    "answer": [
+      0,
+      2,
+      14,
+      4,
+      10,
+      20
+    ]
+  },
+  "emlo_417": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, while my precious cargo sparkles with inner radiance. Lady luck dances with electric intensity, igniting flames of fortune. Where jesters juggle destiny under the big tent, chaos reigns supreme.",
+      "hint": "Think of a memecoin's journey: launch, value, volatility, luck, and circus-like madness"
+    },
+    "easyRiddle": {
+      "text": "Blast off! 🚀 Shiny treasure ✨ Big sphere up high 🌙 Zap of power ⚡ Bright flames 🔥 Silly jester 🃏",
+      "hint": "Follow the emojis in order for a memecoin adventure"
+    },
+    "answer": [
+      1,
+      9,
+      3,
+      4,
+      5,
+      13
+    ]
   }
 }
