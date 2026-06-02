@@ -24082,5 +24082,41 @@
       16,
       11
     ]
+  },
+  "sol_1101": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols entwine in destiny's trance. The archer's mark blooms eternal, while winged metamorphosis ascends through stellar portals. Thunder's kiss ignites the jester's domain, and precious facets gleam where cosmic flames sustain. Luck's four-leafed whisper trembles beneath the spotlight's mane.",
+      "hint": "Think of transformation, chance, illumination, and the crossing of earthly and heavenly realms. Count the symbols that represent both danger and wonder."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this verse: a mark of precision, nature's metamorphosis, the night's great orb, electricity's strike, a fool's grin, and fortune's blessed plant. What are they?",
+      "hint": "One flies, one glows above, one strikes down, one brings luck, one laughs, and one you aim at."
+    },
+    "answer": [
+      0,
+      8,
+      3,
+      4,
+      19,
+      20
+    ]
+  },
+  "emlo_419": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with volatile brilliance, and dance with electric fortune. My gemstone heart ignites with fire, while I shimmer with magical possibility. What six treasures fuel the memecoin revolution?",
+      "hint": "Think of the journey: the vessel, the destination, the reward, the power, the magic, and the wealth."
+    },
+    "easyRiddle": {
+      "text": "Blast off to fortune! Find the rocket soaring to the moon, the gem that shines bright, the lightning that strikes quick, the fire that burns hot, and the sparkles that dazzle.",
+      "hint": "Look for words about going up, shining things, and fast energy."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
