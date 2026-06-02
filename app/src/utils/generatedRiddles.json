@@ -24028,5 +24028,41 @@
       5,
       13
     ]
+  },
+  "sol_1099": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six guardians of fate conspire in twilight's trance. The archer's mark aligns with heaven's pearl, whilst fortune's jester spins in fortune's swirl. Twin-winged metamorphosis and electric storm convene, where crystalline fractals complete the unseen scene.",
+      "hint": "Look for symbols of destiny, transformation, luck, and cosmic convergence"
+    },
+    "easyRiddle": {
+      "text": "Find the target that reaches for the moon, the lightning that grants luck, the joker's game, the butterfly's grace, the crystal's sparkle, and the gem's eternal gleam.",
+      "hint": "One marks precision, one lights the sky, one laughs in cards, one flies free, one shines clear, one glows with worth"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      20,
+      2
+    ]
+  },
+  "emlo_418": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, a gem that sparkles when memecoin needs. From fire's dance to fortune's game, I'm the dragon of diamond-studded fame. Where luck strikes like lightning in the sky, a joker's trophy makes holders fly.",
+      "hint": "Think of a memecoin's journey: destination, fuel, value, luck, power, and victory."
+    },
+    "easyRiddle": {
+      "text": "Blast off to wealth with a sparkling prize! Lightning strikes, the dragon flies! This joker's got the moon in his sights, gem-fueled rocket reaching new heights!",
+      "hint": "Moon + Rocket + Gem + Lightning + Dragon + Joker"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      13,
+      19
+    ]
   }
 }
