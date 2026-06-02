@@ -23956,5 +23956,41 @@
       21,
       19
     ]
+  },
+  "sol_1097": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jest, six whispers unfold: the archer's distant dream meets the lightning's violent crest. A gemstone catches starlight while wings of transformation flutter near the moon's silent quest. The jester grins below as chaos blooms in crystalline conquest.",
+      "hint": "Think of fortune, transformation, celestial bodies, and the duality of chance and fate intertwined"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await: one gleams like treasure, one flies through the dark, one crackles with energy, one rules the night sky, one dances with illusion, and one transforms through the air.",
+      "hint": "Consider precious things, electricity, nocturnal realms, trickery, and metamorphosis"
+    },
+    "answer": [
+      0,
+      5,
+      4,
+      1,
+      18,
+      8
+    ]
+  },
+  "emlo_416": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride through the cosmos: where the trickster dances with celestial fire, gems sparkle like electric dreams, and luck strikes like thunder through the gates of paradise. What six symbols guide the laughing fool to moonbound riches?",
+      "hint": "Think carnival chaos meets space adventure with fortune and electricity"
+    },
+    "easyRiddle": {
+      "text": "Find the six signs of a lucky memecoin journey: a playful trickster, a fast rocket, a shining gem, the bright moon, powerful lightning, and dancing sparkles. Which emojis complete this lucky combination?",
+      "hint": "Look for: the joker, a space vehicle, something precious, the night sky, a weather event, and magical shine"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
