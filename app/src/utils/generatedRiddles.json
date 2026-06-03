@@ -24190,5 +24190,41 @@
       18,
       21
     ]
+  },
+  "sol_1104": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's grin eclipses the prism of chance. Six whispers between chaos and grace: the archer's mark swallowed by night's gem, thunder's kiss upon the fool's painted mask, and the winged wanderer spiraling through crystalline light.",
+      "hint": "Consider the journey from aim to chaos to illusion to thunder to transformation to radiance."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and spectacle: where you aim, where fools smile, where lightning strikes, where night shines bright, where jewels rest, and where painted wings flutter free.",
+      "hint": "One is a target, one brings laughter, one is electric, one is lunar, one is precious, one has wings."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      7,
+      6,
+      20
+    ]
+  },
+  "emlo_422": {
+    "hardRiddle": {
+      "text": "A jester's dream launched to the celestial vault, where fortune strikes with electric precision. Gems sparkle as the inferno of hype burns bright, while luck dances in colorful waves of pure magic.",
+      "hint": "Think of a memecoin's journey: the hype, the luck, the dazzling gains, and the electric community energy."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gem shines bright, fire burns hot, joker laughs loud, and sparkles dance in the air.",
+      "hint": "Each emoji represents one word in the riddle. Count them!"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      19,
+      10
+    ]
   }
 }
