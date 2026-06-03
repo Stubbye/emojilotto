@@ -24262,5 +24262,23 @@
       6,
       10
     ]
+  },
+  "sol_1106": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, and twin flames dance with prismatic tears—the jester's grin echoes through geometry's embrace, as nature's delicate wings kiss the threshold between chaos and harmony.",
+      "hint": "Think of luck's symbols, sky's jewels, and the performers of fate"
+    },
+    "easyRiddle": {
+      "text": "Six treasures of chance: a target's center, a rocket to stars, a gem's brilliance, the moon's glow, lightning's strike, and a joker's jest.",
+      "hint": "Count the items mentioned in the riddle"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
