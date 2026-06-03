@@ -24118,5 +24118,41 @@
       5,
       9
     ]
+  },
+  "sol_1102": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial fire, six tokens dance in shadow's choir. The jester's twin masks mock the seeker's desire, while scales of chance and petals of light conspire. Through violet depths, a winged metamorphosis takes flight, and stellar brilliance crowns the night.",
+      "hint": "Look for duality, chance, nature's transformation, and cosmic power. One element appears twice in different forms."
+    },
+    "easyRiddle": {
+      "text": "I contain a trickster, a butterfly's grace, lightning that strikes, a flower's face, a gem so bright, and the moon's soft place. Six symbols hide in this mystical space.",
+      "hint": "Count the objects mentioned directly in the riddle text."
+    },
+    "answer": [
+      7,
+      8,
+      5,
+      14,
+      15,
+      21
+    ]
+  },
+  "emlo_420": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial dreams, where electric fortune ignites brilliant schemes. Dancing through chaos with sparkling flair, to the moon we soar beyond compare.",
+      "hint": "Think of gambling in space with magical energy and pure joy"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of crypto chaos: a card-playing fool, a bolt of power, a shimmering gem, Earth's silent companion, a circle of chance, and stardust dreams.",
+      "hint": "Count: joker, lightning, gem, moon, dice, sparkles"
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      3,
+      11,
+      9
+    ]
   }
 }
