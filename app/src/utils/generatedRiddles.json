@@ -24154,5 +24154,41 @@
       11,
       9
     ]
+  },
+  "sol_1103": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six spirits dance betwixt the veil and wire. The laughing trickster guards a gemmed throne, while wings of metamorphosis have flown. Thunder's kiss ignites the jester's flame, and crystal music plays the winning game.",
+      "hint": "One brings luck through chance, one through the heavens, one through deception, one through transformation, one through power, one through harmony."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's flight, the gem that shines, the lightning's might, the joker's grin, and the guitar's song.",
+      "hint": "Precision, speed, wealth, power, trickery, and melody."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      11,
+      16
+    ]
+  },
+  "emlo_421": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, sparkle with value beyond measure, strike with electric momentum, dance through chaos with fortune's kiss, shimmer with magical potential, and guide seekers to their glorious prize. What am I?",
+      "hint": "Think of a memecoin's journey: from humble beginnings to astronomical gains, powered by community energy and lucky strikes."
+    },
+    "easyRiddle": {
+      "text": "A rocket reaches the moon, gems sparkle with lightning speed, fire burns bright with trophy glory. Count the magic symbols in this memecoin journey.",
+      "hint": "Look for: launch vehicle, celestial destination, precious value, electrical energy, and victory."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      18,
+      21
+    ]
   }
 }
