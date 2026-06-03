@@ -24226,5 +24226,41 @@
       19,
       10
     ]
+  },
+  "sol_1105": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jest, six secrets hide in the veil between chaos and destiny. The archer's mark gleams eternal, while the winged metamorphosis spirals through amethyst veils. In the tempest's electric heart, the dragon's ancient wisdom plays beneath prismatic arcs, where laughter echoes from the big top's shadows.",
+      "hint": "Fortune wears many faces—seek the symbol of chance, the jewel of night, the transformation of rebirth, the instrument of luck's melody, and the two pillars of entertainment's soul."
+    },
+    "easyRiddle": {
+      "text": "Six dancers in the lottery's dream: one seeks its mark with precision, one shines like treasure, one flutters with change, one rules with roar and flame, one hides behind painted faces, and one glimmers with pure stardust magic.",
+      "hint": "Think of accuracy, wealth, metamorphosis, royalty, theater, and enchantment."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      13,
+      19,
+      20
+    ]
+  },
+  "emlo_423": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, gemstones sparkle as I chase the glow above. A dragon's fire ignites my path while fortune dances with celestial magic, leaving trails of rainbow dust in my wake.",
+      "hint": "Think of a memecoin's journey to astronomical heights with mystical vibes"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms up, a gem shines bright, lightning strikes fast, the moon glows at night, fire burns hot, and sparkles dance around.",
+      "hint": "Count the 6 things that make a memecoin moon"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      10
+    ]
   }
 }
