@@ -24424,5 +24424,23 @@
       5,
       3
     ]
+  },
+  "sol_1114": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers weave through fate's lace. The jester's twin-faced grin guards treasures crystalline, while scaled serpent coils 'round the stage's design. Thunder's fleeting kiss ignites the night, and petals bloom where chaos finds its light.",
+      "hint": "Consider the court, the cosmos, and the heart of transformation"
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance in destiny's game: the target calls, the dragon claims, the joker laughs, the crystal gleams, while lightning strikes and flower dreams.",
+      "hint": "Think of luck, magic, and nature's fire"
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      20,
+      4,
+      14
+    ]
   }
 }
