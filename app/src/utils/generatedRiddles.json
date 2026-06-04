@@ -24388,5 +24388,23 @@
       19,
       3
     ]
+  },
+  "sol_1112": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a gemstone gleams beneath the cosmic wire. The butterfly dances through crystalline dreams, while thunder weaves between ethereal seams. Six harbingers of fate align—identify the signs that make destiny divine.",
+      "hint": "One pierces straight, one burns above, one sparkles bright, one floats in love, one strikes with might, one refracts light."
+    },
+    "easyRiddle": {
+      "text": "Find the six symbols of luck and power: the aimed point, the rising flame, the jewel that shines, the night's domain, the storm's bright strike, and nature's grace.",
+      "hint": "Think: precision, fire, wealth, night, electricity, and wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
