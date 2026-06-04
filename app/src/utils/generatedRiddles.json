@@ -24406,5 +24406,23 @@
       4,
       8
     ]
+  },
+  "emlo_428": {
+    "hardRiddle": {
+      "text": "I'm a memecoin that shoots to the 🚀, sparkling with ✨ and 💎. When lightning ⚡ strikes, my 🔥 burns bright, and I dance under the 🌙 with magical fortune. What am I?",
+      "hint": "Think of a coin that combines celestial movement, precious qualities, and chaotic energy"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket 🚀, the sparkles ✨, the gem 💎, the lightning ⚡, the fire 🔥, and the moon 🌙",
+      "hint": "Look for symbols of speed, shine, value, power, heat, and night sky"
+    },
+    "answer": [
+      1,
+      9,
+      2,
+      4,
+      5,
+      3
+    ]
   }
 }
