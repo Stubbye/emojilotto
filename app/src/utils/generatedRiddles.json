@@ -24334,5 +24334,23 @@
       8,
       14
     ]
+  },
+  "sol_1110": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic veils, the jester's twin flames ignite fortune's hidden trails. Six sentinels of fate converge—the archer's mark meets heaven's torch, crystalline tears weep upon the trickster's perch, while winged metamorphosis spirals through nature's arch.",
+      "hint": "One seeks precision, one ascends beyond, one deceives with laughter, one transforms in silence, one blazes eternal, one refracts all light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your destiny: aim true at the bullseye, ride the fire upward, find the gem's sparkle, touch the moon's glow, laugh with the joker's face, and watch the butterfly dance through it all.",
+      "hint": "A target, a path to sky, something precious, night's orb, a trickster, and a creature reborn."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      8
+    ]
   }
 }
