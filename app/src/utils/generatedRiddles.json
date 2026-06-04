@@ -24316,5 +24316,23 @@
       13,
       20
     ]
+  },
+  "sol_1109": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six keepers of destiny dance in shadow's tale. The jester's crimson twin ignites the void, while scaled majesty guards the prism's joy. Winged grace spirals through fortune's game, and nature's bloom crowns the lightning's flame.",
+      "hint": "One guides precision, one rules the night, one mocks with laughter, one breathes with might, one flutters between worlds, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: aim true like an arrow, shine bright like a gem, rule like a beast, dance like a jester, flutter like silk, and bloom like hope.",
+      "hint": "Think of a target, precious stone, mythical creature, trickster, insect, and plant."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      19,
+      8,
+      14
+    ]
   }
 }
