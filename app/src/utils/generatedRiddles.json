@@ -24442,5 +24442,23 @@
       4,
       14
     ]
+  },
+  "sol_1115": {
+    "hardRiddle": {
+      "text": "Where fortune's arc bends through celestial fire, six seekers dance between the veils of desire. The winged messenger courts the jeweled night, while chaos wears its grinning mask of light. Between the tempest's wrath and nature's bloom, the crystal gate unlocks the lottery's room.",
+      "hint": "Look to the sky, the stage, the precious, the wild, and the forces that transform."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this verse: a precious stone, a flying horse, the guardian of the night so bright, a trickster's grin, a storm's own might, and petals soft where magic blooms.",
+      "hint": "Think of jewels, speed, darkness, laughter, weather, and gardens."
+    },
+    "answer": [
+      2,
+      1,
+      4,
+      18,
+      5,
+      14
+    ]
   }
 }
