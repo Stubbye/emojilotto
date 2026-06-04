@@ -24298,5 +24298,23 @@
       4,
       9
     ]
+  },
+  "sol_1108": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gaze, a masked performer spins beneath the moon's embrace. Lightning strikes the gem-crowned stage, while butterfly wings scatter crystalline rays across the rainbow's ephemeral page. Six secrets hide within the chaos—seek the dragon's distant laugh.",
+      "hint": "Look for symbols of chance, illumination, and transformation. The answer contains elements of sky, performance, and precious things."
+    },
+    "easyRiddle": {
+      "text": "Find the moon that glows, the lightning that strikes, the gem that shines, the butterfly that dances, the dragon that roars, and the crystal that sparkles.",
+      "hint": "One is celestial, one is electric, one is precious, one is living, one is mythical, one is hard and clear."
+    },
+    "answer": [
+      3,
+      4,
+      2,
+      8,
+      13,
+      20
+    ]
   }
 }
