@@ -24352,5 +24352,41 @@
       11,
       8
     ]
+  },
+  "sol_1111": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's breath, six sentinels of fate await. The archer's mark gleams beneath the wanderer's gaze, while electricity births twin souls—one masked in jest, one feathered in metamorphosis. Brilliance shatters into prismatic dust above the trickster's domain. Seek the numbered bones of chance where lightning cleaves the veil between worlds.",
+      "hint": "One circles perfection, one ascends beyond, one glimmers from depths, one masks deception, one transforms through wind, one shatters into light."
+    },
+    "easyRiddle": {
+      "text": "Six magic symbols hide in shadow's song: The pointed mark of aim, the soaring vessel of dreams, the precious stone of worth, the silver disk of night, the golden flash of power, and the jester's smile of trickery. What are they?",
+      "hint": "Think of targets, space travel, riches, the moon, electricity, and a playing card character."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_427": {
+    "hardRiddle": {
+      "text": "I chase dreams to the celestial sphere with cosmic speed, my gems sparkle as lightning strikes fortune, dancing through flames of opportunity where jokers and fortune seekers unite in electric chaos.",
+      "hint": "Think of a memecoin journey: destination, velocity, treasure, electricity, luck, and mischief combined."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, diamond shines bright, lightning hits hard, fire burns hot, joker laughs loud, and the moon watches it all.",
+      "hint": "One word describes each emoji in order: launch, value, power, energy, luck, destiny."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      4,
+      19,
+      3
+    ]
   }
 }
