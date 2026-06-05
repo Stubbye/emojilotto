@@ -24658,5 +24658,23 @@
       10,
       20
     ]
+  },
+  "sol_1124": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians of fate converge. The archer's mark meets the serpent's throne, while the nocturnal pearl witnesses a jester's gambit amid nature's most fleeting jewel. Lightning's kiss ignites the symphony of chance.",
+      "hint": "Consider what ascends, what descends, what performs, what rules, what glimmers, and what strikes in a moment of destiny."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hidden in plain sight: one you aim for, one that flies high, one that rules in shadow, one that shines above, one that laughs at chaos, and one that strikes like anger.",
+      "hint": "Think of targets, heights, royalty, the sky, comedy, and electricity."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      3,
+      19,
+      4
+    ]
   }
 }
