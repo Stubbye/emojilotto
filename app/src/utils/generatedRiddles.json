@@ -24496,5 +24496,23 @@
       19,
       8
     ]
+  },
+  "emlo_430": {
+    "hardRiddle": {
+      "text": "A jester's dream takes flight through the cosmos, where fortune sparkles and burns bright. The mystic gem glows under lunar rays, while electric magic dances through purple haze. What six celestial tokens guide the memecoin whale's lucky play?",
+      "hint": "Think of the journey: laughter, ascension, treasure, night sky, energy, and royalty."
+    },
+    "easyRiddle": {
+      "text": "Start with the funny face, then shoot for the stars. Add treasure that shines, the big ball above us, a zap of power, and the color of kings. What are these six lucky signs?",
+      "hint": "Joker, rocket, gem, moon, lightning, purple"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      14
+    ]
   }
 }
