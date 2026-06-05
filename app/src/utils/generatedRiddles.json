@@ -24460,5 +24460,41 @@
       5,
       14
     ]
+  },
+  "sol_1116": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, a prism sings in chaos born of ancient blaze. The jester's twin spins fate while scaled guardian prowls, and petals dance where light itself unfurls.",
+      "hint": "One pierces destinies, one watches from above, one refracts all colors, one laughs at love, one brings the storm, one guards the mystic throne."
+    },
+    "easyRiddle": {
+      "text": "I seek the symbol of all targets true, the watcher in the night sky's cosmic blue, the stone that catches light in brilliant display, the chaos-bringer with electric fray, the royal jester spinning wheels of chance, and the scaled beast in its eternal dance.",
+      "hint": "Think of aim, night, sparkle, power, foolishness, and myth."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      10,
+      15,
+      19
+    ]
+  },
+  "emlo_429": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 symbol of crypto greed. Sparkling 💎 gems fuel my flight, while fortune's 🎯 gleams so bright. Where chaos meets luck's twisted game, a 🃏 dances in my memecoin fame.",
+      "hint": "Five emojis represent ambition, chaos, and the thrill of meme trading"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 I race with ⚡ and 🔥, collecting 💎 riches higher and higher. My 🎯 is set on fortune's wheel, where the 🃏 makes the lucky deal.",
+      "hint": "Look for symbols of speed, heat, wealth, direction, and chance"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      19,
+      8
+    ]
   }
 }
