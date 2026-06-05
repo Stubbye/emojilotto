@@ -24604,5 +24604,23 @@
       4,
       20
     ]
+  },
+  "sol_1121": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged spirit ascends through prismatic veils. The archer's mark glows beneath the jester's gaze, while crystalline depths hold secrets of metamorphosis. Seven-pointed brilliance weeps luminous tears upon the stage of infinite jest.",
+      "hint": "One guides destiny, one mirrors duality, one transforms, one illuminates, one performs, one sparkles with tears of wonder."
+    },
+    "easyRiddle": {
+      "text": "Find the night's beacon, the trickster's twin, the stone of eternity, the winged transformer, the mark of aims, and the dust of wishes.",
+      "hint": "Look for: a nocturnal guide, a dual-faced deceiver, a hard treasure, a colorful insect, a target of ambition, and magical shimmer."
+    },
+    "answer": [
+      1,
+      18,
+      20,
+      8,
+      0,
+      10
+    ]
   }
 }
