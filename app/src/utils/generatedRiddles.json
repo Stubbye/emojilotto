@@ -24568,5 +24568,41 @@
       19,
       7
     ]
+  },
+  "sol_1120": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances, six keepers of fate align: The archer's eternal mark pierces the void, while wings of metamorphosis flutter through prismatic tears. Thunder's violent kiss meets the inferno's hungry tongue, and gemstones whisper secrets in the diamond's cold embrace. Seek them in the symphony of chance and chaos.",
+      "hint": "One ascends, one transforms, one illuminates, one consumes, one glimmers, one crowns."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: Something you aim for, something that flies fast, something that shines bright, something in the night sky, something that strikes with power, and something that burns hot.",
+      "hint": "Think of goals, speed, beauty, darkness, power, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      5
+    ]
+  },
+  "emlo_432": {
+    "hardRiddle": {
+      "text": "A jester's magic ignites the sky, launching treasures beyond the clouds where fortune sparkles bright. What six symbols guide this chaotic dance of luck?",
+      "hint": "Think of a memecoin's journey: the fool who starts it, the explosive growth, the gems you seek, the destination, the energy, and the lucky charm."
+    },
+    "easyRiddle": {
+      "text": "The joker starts a rocket to the moon, finding gems that shimmer with lightning and protected by a lucky clover. Name these six.",
+      "hint": "Count them in order: fool, rocket, treasure, destination, power, luck"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      20
+    ]
   }
 }
