@@ -24514,5 +24514,41 @@
       4,
       14
     ]
+  },
+  "sol_1118": {
+    "hardRiddle": {
+      "text": "Through celestial veil where fortune's archer aims, a scaled serpent guards the crystalline flames. From discord's electric tongue springs the gemstone's call, while chaos dances in masked revelry's hall. Where prismatic arc meets the night's watchful eye, six secrets converge where destinies fly.",
+      "hint": "One hunts with precision, one hoards ancient wealth, one burns with raw power, one hides behind false faces, one bridges two realms, and one witnesses all."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: a hunter's true aim, a beast of the shadows, a stone that won't tame, a spark in the darkness, a bow in the sky, and the guardian above that sees all pass by.",
+      "hint": "Think of: something you shoot at, something mythical, something precious, something bright and shocking, something colorful after rain, and something in the night sky."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      13,
+      9,
+      21
+    ]
+  },
+  "emlo_431": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride on lightning wings, where crystal visions and dragon fire bring sparkles to the moon. What six treasures guide the memecoin dreamer through the wave of chaos?",
+      "hint": "Think of a wild party in space where luck meets madness and electricity dances with gems."
+    },
+    "easyRiddle": {
+      "text": "Find the joker, the lightning bolt, the shiny gem, the dragon beast, the sparkly magic, and the glowing moon. These six party with memecoins!",
+      "hint": "Look for: a funny card character, electricity, something shiny, a scaled friend, twinkles, and the night sky."
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      14,
+      10,
+      3
+    ]
   }
 }
