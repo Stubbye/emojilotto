@@ -24550,5 +24550,23 @@
       10,
       3
     ]
+  },
+  "sol_1119": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial thief, a winged metamorphosis dances through prismatic sorrow. The gemstone weeps in thunderous silence, while the jester's grin blooms eternal beneath the performer's veil of chaos.",
+      "hint": "Six symbols converge: one hunts, one illuminates the void, one transforms, one shatters light, one deceives, and one hides the truth."
+    },
+    "easyRiddle": {
+      "text": "I seek the marksman's aim, the night's pale guardian, the butterfly's grace, the storm's fierce voice, the fool's laughter, and the tent's mystery. Six witnesses to fortune's game.",
+      "hint": "Find: aim, night, wings, electricity, fool, and secret show."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      5,
+      19,
+      7
+    ]
   }
 }
