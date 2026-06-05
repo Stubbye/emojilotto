@@ -24622,5 +24622,41 @@
       0,
       10
     ]
+  },
+  "sol_1123": {
+    "hardRiddle": {
+      "text": "Where celestial fires pirouette through prismatic veils, and fortune's jester dances upon crystalline peaks, three sentinels of chance convene: one marks the archer's destiny, another births the phoenix from chaos, while the third gleams as stolen starlight. The winged muse of metamorphosis and the nocturnal guardian's gaze complete this hexad of fate.",
+      "hint": "Think of symbols of luck, transformation, performance, and cosmic wonders intertwined with games of chance"
+    },
+    "easyRiddle": {
+      "text": "A bright explosion of luck, a precious stone that glows, a dancer with wings, the night's watchful eye, a jester's laugh, and the archer's mark—six treasures of fortune await the bold.",
+      "hint": "Look for: something explosive, something shiny, something that flies, something in the sky, something silly, and something you aim at"
+    },
+    "answer": [
+      1,
+      2,
+      8,
+      3,
+      19,
+      0
+    ]
+  },
+  "emlo_433": {
+    "hardRiddle": {
+      "text": "I chase the dream that never sleeps, where fortunes rise and diamonds leap. When lightning strikes my fiery core, the rocket's song opens fortune's door. Crystal visions dance with me, while glittering sparks make magic spree.",
+      "hint": "Six symbols of chaos, gains, and moon-bound dreams"
+    },
+    "easyRiddle": {
+      "text": "A shiny rock, a speeding ship, lightning fast with fiery tip. See the sparkles, see them gleam, reaching high to touch the moon's dream.",
+      "hint": "Look for space travel, electricity, treasure, and light"
+    },
+    "answer": [
+      3,
+      1,
+      5,
+      4,
+      10,
+      20
+    ]
   }
 }
