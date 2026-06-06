@@ -24820,5 +24820,23 @@
       7,
       17
     ]
+  },
+  "sol_1133": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis seeks the prism of luck. The archer's mark gleams eternal while chaos crackles through seven-pointed majesty. Frozen brilliance echoes the spectrum's whisper, and swift cunning guards the threshold between worlds.",
+      "hint": "Consider what transforms, what guides, what splits into many, what shines cold, what moves fast, and what marks destiny."
+    },
+    "easyRiddle": {
+      "text": "I contain six secrets: one burns bright above all, one splits into many, one hunts with clever grace, one gleams like ice, one marks your aim, and one twists fate with twin faces.",
+      "hint": "Think of: night's ruler, luck's randomness, the trickster, crystal cold, the archer's goal, and the fox."
+    },
+    "answer": [
+      1,
+      11,
+      13,
+      21,
+      0,
+      19
+    ]
   }
 }
