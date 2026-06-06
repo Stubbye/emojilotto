@@ -24694,5 +24694,23 @@
       14,
       20
     ]
+  },
+  "sol_1126": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the winged dancer's path, six treasures align in fortune's cipher: the archer's mark meets the ascending serpent's breath, while the gem's crystalline twin reflects the twin-faced deceiver beneath a storm of light, all crowned where victory's laurel crowns the jester's eternal grin.",
+      "hint": "Look to the sky, the stage, the depths of earth, and the masks of fate"
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and wonder: a distant celestial body glowing soft, a precious stone that catches light, a creature of fortune's favor, a messenger of speed ascending high, the flash of nature's wrath, and the player's blessed cube of chance.",
+      "hint": "One flies through space, one shines from earth, one is swift, one strikes fast, one rolls with destiny"
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      4,
+      11,
+      21
+    ]
   }
 }
