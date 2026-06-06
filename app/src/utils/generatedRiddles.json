@@ -24676,5 +24676,23 @@
       19,
       4
     ]
+  },
+  "sol_1125": {
+    "hardRiddle": {
+      "text": "Where fortune's aim meets celestial fire, a jester's twin masks dance with desire. The winged metamorphosis traces the arc of destiny's gem-laden mark. In purple depths, the dragon's gleam sparkles eternal, a lottery infernal.",
+      "hint": "Seek the convergence of games of chance, cosmic elements, and transformation's glance."
+    },
+    "easyRiddle": {
+      "text": "A target struck by lightning's might, a joker's grin in purple night. Butterfly wings and dragon's flame, with gems that sparkle—that's the game.",
+      "hint": "Six symbols reveal fortune's name: one marks aim, one brings laughter, one brings transformation, one burns bright, one gleams precious, and one shines eternal."
+    },
+    "answer": [
+      0,
+      5,
+      8,
+      13,
+      14,
+      20
+    ]
   }
 }
