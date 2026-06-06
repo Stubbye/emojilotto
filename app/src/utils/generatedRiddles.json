@@ -24712,5 +24712,23 @@
       11,
       21
     ]
+  },
+  "sol_1127": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin wheels, and the trickster's grin meets the serpent's ancient scales, seeking the archer's mark through prismatic tears that shimmer with every beat of wings that flee the inferno's spell.",
+      "hint": "One guides you upward, one spins fate, one deceives, one coils wisdom, one aims true, one transforms through struggle."
+    },
+    "easyRiddle": {
+      "text": "Find the symbol of chance that spirals, the jester who plays, the beast that hoards gold, the creature reborn, the seeker's goal, and the path of light eternal.",
+      "hint": "A spinning cube, a laughing face, a treasure-keeper, wings emerging, a bullseye, and celestial fire."
+    },
+    "answer": [
+      11,
+      1,
+      13,
+      8,
+      0,
+      5
+    ]
   }
 }
