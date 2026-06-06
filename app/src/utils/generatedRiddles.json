@@ -24730,5 +24730,23 @@
       0,
       5
     ]
+  },
+  "emlo_435": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, my 🔥 burns bright for those who believe. Lucky as a 🍀, I spark like ✨ when the 🎯 is hit. What am I?",
+      "hint": "A memecoin that promises wealth through luck and speed"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, ⚡ fast, 🔥 hot, 🎯 target wealth, ✨ sparkle with luck, 🍀 fortune favors the bold",
+      "hint": "Six symbols of a crypto dream: journey, destination, speed, heat, goal, and fortune"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      0,
+      10,
+      19
+    ]
   }
 }
