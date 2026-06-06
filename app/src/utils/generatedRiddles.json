@@ -24802,5 +24802,23 @@
       11,
       21
     ]
+  },
+  "sol_1132": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in chaos' domain. The jester's grin eclipses the gemstone's gleam, while wings of metamorphosis touch the storm's extreme. Luck's many faces spin beneath the hunter's stare, as nature's bloom and fortune's crown dissolve in electric air.",
+      "hint": "Consider: precision and chaos, mirth and treasure, transformation and fortune's instruments, predator and prized victory"
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's bright jewel, the trickster's laugh, the crystal's spin, the creature reborn, and fortune's ultimate prize.",
+      "hint": "One aims, one gleams, one grins, one spins, one flies, one wins"
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      8,
+      7,
+      17
+    ]
   }
 }
