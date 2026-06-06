@@ -24838,5 +24838,41 @@
       0,
       19
     ]
+  },
+  "sol_1134": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and twin masks of fate pirouette beneath the crescent throne. The scaled guardian's treasure glimmers as the winged messenger ascends through prismatic veils, while destiny's bolt seeks the bullseye of dreams.",
+      "hint": "One marks the goal, one ignites ambition, one shimmers wealth, one watches from above, one breathes ancient magic, one flutters between worlds."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's flight, the gem's shine, the moon's glow, the dragon's majesty, and the butterfly's dance.",
+      "hint": "Six symbols of aspiration, wealth, night, power, and transformation in nature's circle."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      8
+    ]
+  },
+  "emlo_437": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar peaks where gems sparkle with electric might. A joker's gamble strikes like lightning through the cosmic fire, leaving trails of fortune in its wake. What six celestial symbols guide the memecoin's destiny?",
+      "hint": "Think of a journey to success: the vessel, the destination, the treasure, the power, the randomness, and the trickster."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon carrying gems. Lightning and fire power the quest. A joker laughs at the chaos. Which six emojis light up this memecoin adventure?",
+      "hint": "Look for: travel, destination, value, energy, destruction, and mischief."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      11
+    ]
   }
 }
