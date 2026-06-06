@@ -24748,5 +24748,23 @@
       10,
       19
     ]
+  },
+  "sol_1129": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentinels of fate converge in shadowed trance. The archer's mark glows where swift thunder cleaves the veil, while gemstone whispers blend with lunar pale. A winged creature pirouettes through prismatic dust, as ancient scales of chaos guard what mortals trust.",
+      "hint": "Seek the symbols of precision, power, wealth, night, grace, and primal might."
+    },
+    "easyRiddle": {
+      "text": "I am six: a mark to hit, a storm's bright spark, a shining stone, the night's pale gown, a flutter-wing of beauty, and scales that sleep beneath the crown.",
+      "hint": "One aims, one strikes, one shines, one glows softly, one flies, one slumbers."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      8,
+      14
+    ]
   }
 }
