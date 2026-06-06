@@ -24766,5 +24766,41 @@
       8,
       14
     ]
+  },
+  "sol_1131": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six harbingers dance in shadow's domain. The jester's twin grins through prismatic tears, while ancient scales whisper forgotten years. A scaled leviathan coils beneath the gleaming shard, and petals bloom where lightning strikes the bard.",
+      "hint": "Consider what laughs, what glimmers, what burns, and what crawls through myth's eternal return."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and wonder: a mark of aim, a cosmic fire, a precious gleam, night's guardian, nature's spark, and a fool who grins. What am I looking for?",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and jokers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_436": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial void, sparkling with electricity and fortune. Where gems ignite in flames of possibility, and lucky tokens dance in kaleidoscopic waves. The jester's laughter echoes as fortunes shift like diamonds catching starlight.",
+      "hint": "Think of a memecoin's journey: launch, luck, energy, and the treasures sought by believers."
+    },
+    "easyRiddle": {
+      "text": "Blast off with lightning speed 🚀⚡! Find the shiny treasures 💎✨ under the lucky moon 🌙, where flames of fortune dance in the game of chance 🔥.",
+      "hint": "Six symbols of crypto excitement: speed, power, wealth, luck, fire, and chance."
+    },
+    "answer": [
+      1,
+      5,
+      3,
+      6,
+      11,
+      21
+    ]
   }
 }
