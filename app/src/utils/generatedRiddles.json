@@ -24874,5 +24874,23 @@
       5,
       11
     ]
+  },
+  "sol_1135": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, a serpent of electricity dances through prismatic tears. The jester's painted face grins beneath twin celestial flames, while nature's metamorphic jewel trembles in the space between wonder and chaos.",
+      "hint": "Seek the marksman's circle, the night's luminous companion, and the sparked chaos. Find where laughter wears a mask, where heat consumes, and where wings emerge from transformation."
+    },
+    "easyRiddle": {
+      "text": "I am six: a target for dreamers, the moon watching from above, lightning that strikes with luck, fire that burns bright, a joker who laughs at fate, and a butterfly that breaks free.",
+      "hint": "Think of aims, night skies, electricity, heat, trickery, and metamorphosis."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      5,
+      11,
+      8
+    ]
   }
 }
