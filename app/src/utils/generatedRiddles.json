@@ -24964,5 +24964,41 @@
       14,
       5
     ]
+  },
+  "sol_1140": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge from the void. The archer's mark reflects the jester's grin, while winged transformation spirals through crystalline light. Melody born from thunder's kiss meets the fortune-teller's gaze, and in this convergence of chaos and grace, destiny unfolds.",
+      "hint": "A performer's realm intersects with cosmic gambling—seek the symbols of chance, spectacle, and transformation where sound meets electricity."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one marks the target, one sparks with power, one shines with laughter, one transforms in flight, one sings with strings, and one glimmers with fortune's touch.",
+      "hint": "Think of a lottery ticket's magical symbols: a goal, electricity, humor, nature's metamorphosis, music, and shimmering luck."
+    },
+    "answer": [
+      0,
+      1,
+      7,
+      12,
+      16,
+      20
+    ]
+  },
+  "emlo_440": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere with electric speed, sparkling through cosmic waves. My gem-like essence burns bright as lightning strikes, while a butterfly dances near fortune's rainbow. What six symbols mark my legendary rise?",
+      "hint": "Think of a memecoin's journey from launch to moon, with magical elements and luck along the way."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies up, lightning crackles fast, gems shine bright, the moon glows high, fire burns hot, and sparkles twinkle. Which six emojis complete this memecoin story?",
+      "hint": "These emojis represent: launch, speed, value, destination, energy, and magic."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      10
+    ]
   }
 }
