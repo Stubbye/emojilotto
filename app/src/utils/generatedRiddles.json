@@ -25054,5 +25054,23 @@
       3,
       19
     ]
+  },
+  "sol_1144": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets whisper through the cosmic veil. The archer's mark meets the serpent's ancient flame, while the night's silver guardian watches over chaos electrified. In gardens of fortune, the scaled titan guards the prism of infinite possibility, where destiny's spark ignites the cycle eternal.",
+      "hint": "Seek the interplay between aim and chance, between order and wild nature, between light and shadow."
+    },
+    "easyRiddle": {
+      "text": "Six treasures await: where you aim to win, what carries dreams skyward, precious stones gleam bright, the night shines above, power crackles with danger, and scaled beasts guard ancient hoards.",
+      "hint": "Think of targets, rockets, gems, the moon, lightning, and dragons."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
