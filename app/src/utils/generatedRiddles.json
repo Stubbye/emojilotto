@@ -25090,5 +25090,23 @@
       13,
       20
     ]
+  },
+  "emlo_442": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, guided by fortune's gems that sparkle like lightning. Where madness meets magic, a joker's trophy gleams under cosmic fire.",
+      "hint": "Think of a memecoin's journey: launch, destination, luck, and celebration"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon is where we're headed, lightning strikes fast, gem shines bright, fire burns hot, and joker brings the fun. What six emojis fuel the memecoin dream?",
+      "hint": "Follow the words in order: rocket, moon, lightning, gem, fire, joker"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      5,
+      19
+    ]
   }
 }
