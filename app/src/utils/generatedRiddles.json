@@ -25108,5 +25108,23 @@
       5,
       19
     ]
+  },
+  "sol_1147": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, ascending through celestial fire to kiss the gem of dreams. The jester's masked twin dances with fate's electricity, while petals of fortune spiral in chromatic ascension toward the throne of victory.",
+      "hint": "One flies upward, one burns bright, one sparkles with value, one rules the sky, one brings laughter through disguise, one channels nature's fury."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a pointed weapon of aim, a blazing messenger of speed, a stone of brilliance, the night's silver guardian, nature's colorful arc, and the symbol of ultimate conquest.",
+      "hint": "Target, Rocket, Gem, Moon, Rainbow, Trophy"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      9,
+      17
+    ]
   }
 }
