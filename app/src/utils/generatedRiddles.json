@@ -25018,5 +25018,41 @@
       8,
       17
     ]
+  },
+  "sol_1143": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, six messengers converge: the archer's distant mark, the winged metamorphosis ascending toward cosmic gems, the bolt that splits the veil between worlds, the prism born of tempest's kiss, the crown of games, and the trickster's amber gaze. Seek ye the numbers where destiny's theater unfolds.",
+      "hint": "One points, one flies transformed, one strikes, one refracts, one rewards, one deceives."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance dance together: a target waits, a butterfly soars, lightning flashes, a rainbow shines, a trophy gleams, and a fox smiles. What are their numbers?",
+      "hint": "Think of winning, beauty, power, and trickery combined."
+    },
+    "answer": [
+      0,
+      8,
+      4,
+      9,
+      18,
+      13
+    ]
+  },
+  "emlo_441": {
+    "hardRiddle": {
+      "text": "I launch to the cosmos with electric speed, a precious gem glowing as I proceed. Twin flames propel my journey through the night, while fortune's dice determine who sees my light. What am I?",
+      "hint": "Think of a memecoin's ultimate destination and the forces that get it there"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with might, 🔥 burns hot, 🌙 watches above, 🍀 brings luck to those who hodl with love",
+      "hint": "These six symbols represent the memecoin dream"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      3,
+      19
+    ]
   }
 }
