@@ -24892,5 +24892,41 @@
       11,
       8
     ]
+  },
+  "sol_1137": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright eye, a gem of chaos dances mid the sky. The serpent's roar ignites the jester's grin, as fate's six portals beckon from within. What blazes forth in prismatic might, when destiny's wheel spins through the night?",
+      "hint": "Think of celestial targets, mythical beings, and games of chance intertwined with elements of pure chance and performance."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where magic plays: a circle's mark, a jeweled blaze, a winged beast, a fool's bright face, fire and fortune interlaced.",
+      "hint": "Look for a target, a gem, a dragon, a joker, fire, and one more element that brings luck or chance."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      19,
+      5,
+      11
+    ]
+  },
+  "emlo_438": {
+    "hardRiddle": {
+      "text": "I chase the endless climb to riches untold, my electric speed sparks fortunes bold. My gemstone heart reflects the cosmic glow, while fortune's jester dances in the show. Wings of transformation flutter through the night, as dragons breathe their apocalyptic light.",
+      "hint": "Think of memecoin destiny: speed, wealth, magic, chance, change, and power combined"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes with all its might. Dragon roars, butterfly flies, joker grins with mischievous eyes.",
+      "hint": "Moon, rocket, gem, lightning, dragon, joker - the symbols of crypto dreams"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      12,
+      14,
+      13
+    ]
   }
 }
