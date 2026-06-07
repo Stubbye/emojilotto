@@ -24946,5 +24946,23 @@
       20,
       21
     ]
+  },
+  "sol_1139": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six tokens dance in fortune's reel. The winged metamorphosis ascends past lunar glow, while prismatic arcs bend what mortals know. A beast of myth guards gemstone's gleam, and chance itself spins through the dream.",
+      "hint": "One reflects rebirth, one reflects light, one guards treasure, one shows might. One lights the sky, one holds the prize."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck combine: a flying creature of change, a glowing stone of value, a silver guardian of night, a rainbow's spectrum, a fierce guardian beast, and lightning's violent delight.",
+      "hint": "Think of transformation, wealth, destiny, colors, power, and electricity."
+    },
+    "answer": [
+      8,
+      2,
+      3,
+      9,
+      14,
+      5
+    ]
   }
 }
