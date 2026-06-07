@@ -24928,5 +24928,23 @@
       14,
       13
     ]
+  },
+  "sol_1138": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis seeks the prism of luck. The archer's destination gleams beneath the jester's gaze, while crystalline depths whisper secrets of transformation and chance.",
+      "hint": "Consider symbols of destiny, change, performance, and precious things that shimmer with possibility."
+    },
+    "easyRiddle": {
+      "text": "Find the target of dreams, the gem that shines bright, the butterfly's dance, the joker's might, the crystal's gleam, and the star's pure light.",
+      "hint": "Six symbols: one is aimed at, one sparkles, one flies, one entertains, one is solid, one is celestial."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      19,
+      20,
+      21
+    ]
   }
 }
