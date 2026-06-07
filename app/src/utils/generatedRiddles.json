@@ -25072,5 +25072,23 @@
       4,
       13
     ]
+  },
+  "sol_1145": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through fortune's prism, six sentinels of fate converge: the archer's mark meets the celestial wanderer's gleam, while thunder's serpent coils beneath the jester's crimson grin, and fortune's crystalline whisper echoes where winged chaos takes flight.",
+      "hint": "Seek the meeting point of luck, the night sky, electricity, deception, transformation, and precious clarity."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny sparkle in the lottery's dream: a target waits, the moon glows high, lightning strikes, the joker laughs, a dragon soars, and crystal catches light.",
+      "hint": "Think of aim, night, energy, tricks, mythology, and gems."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      11,
+      13,
+      20
+    ]
   }
 }
