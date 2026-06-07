@@ -25000,5 +25000,23 @@
       5,
       10
     ]
+  },
+  "sol_1142": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentinels guard the threshold between chaos and grace. The marksman's circle holds what the winged metamorphosis seeks, while the gemstone's prismatic whisper harmonizes with the tempest's electric tongue. Above, the nocturnal pearl watches over the jester's masked revelry, as brilliance cascades like rain upon the void.",
+      "hint": "One glimmers in night sky, one sparkles with every wish, one ignites the storm, one marks the target, one transforms through flight, one crowns the victor."
+    },
+    "easyRiddle": {
+      "text": "Find the nightlight, the storm's electricity, the precious stone that blinds, the bull's-eye, the creature reborn on wings, and the golden reward of champions.",
+      "hint": "Look for: moon, lightning, gem, target, butterfly, and trophy"
+    },
+    "answer": [
+      3,
+      5,
+      2,
+      0,
+      8,
+      17
+    ]
   }
 }
