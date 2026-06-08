@@ -25270,5 +25270,41 @@
       8,
       14
     ]
+  },
+  "sol_1153": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath celestial fire, six treasures bloom in twilight's gyre. The winged sentinel seeks the gem of night, while thunder's child and chromatic light conspire. A scaled leviathan guards the final prize, as chaos rolls where destiny lies.",
+      "hint": "Consider the trickster's role, the heavens' secrets, winged freedom, precious stones, the storm's fury, and games of chance."
+    },
+    "easyRiddle": {
+      "text": "A jester laughs, a dragon sleeps, a butterfly flies high. A gem shines bright, lightning strikes, and the dice decide our fate.",
+      "hint": "Six different symbols: a joker, a magical creature, an insect, a jewel, weather, and a game piece."
+    },
+    "answer": [
+      1,
+      3,
+      8,
+      4,
+      13,
+      11
+    ]
+  },
+  "emlo_446": {
+    "hardRiddle": {
+      "text": "To the 🌙 we ride with ⚡ speed, through 🔥 markets where diamond 💎 believers feed. Lady luck spins her 🎪 wheel, where fortunes shift like a butterfly's appeal. What six symbols guide the gamblers' fate in this memecoin game of crypto debate?",
+      "hint": "One takes you up, one strikes fast, one burns bright, one glitters vast, one entertains, one transforms past"
+    },
+    "easyRiddle": {
+      "text": "I go to the 🌙, I move with ⚡, I bring the 🔥, I sparkle like 💎. The 🎪 makes you laugh, and 🦋 shows change. Which six lucky symbols appear in this memecoin range?",
+      "hint": "Moon, Lightning, Fire, Gem, Circus, Butterfly - find them all!"
+    },
+    "answer": [
+      3,
+      4,
+      5,
+      2,
+      7,
+      8
+    ]
   }
 }
