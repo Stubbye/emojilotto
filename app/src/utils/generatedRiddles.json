@@ -25216,5 +25216,41 @@
       14,
       10
     ]
+  },
+  "sol_1151": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers converge in shadow's appeal. The winged courier carries fortune through night's purple veil, while the scaled guardian guards what glimmers beyond the pale. Fortune's jester spins where brightness erupts, and the masked revelry tempts what ambition corrupts.",
+      "hint": "Seek where luck meets the cosmos, where trickery gleams, and metamorphosis blooms in fortune's fevered dreams."
+    },
+    "easyRiddle": {
+      "text": "I bring luck from the sky with a spark, a gem shines bright in the dark. A dragon guards treasure, a joker brings jest, a butterfly transforms—can you name all the rest?",
+      "hint": "Think of luck, magic, trickery, transformation, and celestial wonders."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      13,
+      18,
+      8
+    ]
+  },
+  "emlo_445": {
+    "hardRiddle": {
+      "text": "A jester's fortune flies through cosmic flames, seeking gems beyond the atmosphere. When lightning strikes the dancing prism, the butterfly emerges victorious under starlight.",
+      "hint": "Think of a memecoin journey: the fool, the destination, the treasure, the energy, the transformation, and the reward."
+    },
+    "easyRiddle": {
+      "text": "🎪 laughs as 🚀 zooms past 💎 toward 🌙. ⚡ powers the magic, and 🦋 celebrates the win!",
+      "hint": "Count the six emojis in order for your lucky numbers."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
