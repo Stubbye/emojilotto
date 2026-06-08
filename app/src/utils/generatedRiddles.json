@@ -25306,5 +25306,23 @@
       7,
       8
     ]
+  },
+  "sol_1155": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial fire, the jester's grin reflects in crystalline desire. Six paths converge: the archer's eternal mark, the serpent's treasure gleams against the dark. Ascend through lightning's vein to where the moon presides, while masks reveal what truth in shadow hides.",
+      "hint": "Consider the duality of chance and chaos, the vertical ascent of fate, and that which watches from afar."
+    },
+    "easyRiddle": {
+      "text": "Find the target's center, the dragon's hoard, lightning's power, the moon above, fire's glow, and the joker's laugh. Six symbols of destiny await.",
+      "hint": "Think of goals, mythical beasts, nature's force, the night sky, warmth, and the wild card."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      3,
+      6,
+      19
+    ]
   }
 }
