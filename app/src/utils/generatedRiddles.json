@@ -25252,5 +25252,23 @@
       4,
       8
     ]
+  },
+  "sol_1152": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial glow, six secrets hide in nature's flow. The jester's twin dances with emerald light, while thunder whispers to scales burning bright. A winged muse circles the prism's breath, and destiny's bloom blooms between life and death.",
+      "hint": "Look for symmetry in chaos: aim, sky, value, fate, chaos, and rebirth intertwined"
+    },
+    "easyRiddle": {
+      "text": "Six magical items guide the lucky soul: one aims true, one lights the night sky, one shines precious, one roars with ancient power, one shimmers with change, and one grows from the earth.",
+      "hint": "Think of elements: precision, sky, treasure, mythology, transformation, and growth"
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      13,
+      8,
+      14
+    ]
   }
 }
