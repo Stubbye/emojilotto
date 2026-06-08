@@ -25180,5 +25180,41 @@
       5,
       7
     ]
+  },
+  "sol_1150": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets the forge of chaos, seven-stringed muse whispers to fortune's jester. Winged metamorphosis dances through prismatic veils, while crystalline shards catch the gleam of victory's crown. In this hexad of destiny, luck itself becomes the conductor's baton.",
+      "hint": "One shines above all others, one brings luck from fortune's halls, one transforms through ethereal stages, one resonates with melody, one glimmers with purity, one crowns the worthy."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of fortune: a night-time sentinel high above, a lucky charm in Irish tradition, a stringed voice of celebration, a brilliant prize awaiting winners, a geometric tool of chance, and a trickster who grins at fate. Together we weave the lottery's song.",
+      "hint": "Think of night sky, good luck charms, music, winning, games of chance, and mischief."
+    },
+    "answer": [
+      2,
+      20,
+      16,
+      18,
+      11,
+      21
+    ]
+  },
+  "emlo_444": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles in the fire. The rocket's dragon roars with need, while circus flames climb ever higher. What six treasures light the way for those who hodl and never sway?",
+      "hint": "Think of the journey: destination, speed, value, celestial goal, energy, and spectacle."
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts toward the moon so bright, a gem shines with electric light. Fire crackles, dragon takes flight, and sparkles dance throughout the night. Six symbols of a memecoin's might!",
+      "hint": "Look for: launch vehicle, destination, precious item, energy, mythical creature, and glitter."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      14,
+      10
+    ]
   }
 }
