@@ -25126,5 +25126,23 @@
       9,
       17
     ]
+  },
+  "sol_1148": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial void, a gemstone drinks the storm's violent kiss. The winged dancer pirouettes through the blaze of enlightenment, while destiny's cube rests beneath the jester's eternal grin. What six celestial witnesses conspire in this symphony of chance?",
+      "hint": "Think of targets and aims, heavenly bodies, precious stones, nature's transformation, chaos and randomness, and the trickster's domain."
+    },
+    "easyRiddle": {
+      "text": "I point toward a goal, I shine from above like a stone, I transform with wings, I roll for luck, and I dance with laughter. Six things of fortune—what am I seeking?",
+      "hint": "One shoots upward, one glows at night, one sparkles, one flies, one determines chance, one brings mirth."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      11,
+      12,
+      19
+    ]
   }
 }
