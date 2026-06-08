@@ -25144,5 +25144,41 @@
       12,
       19
     ]
+  },
+  "sol_1149": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer weaves through thunder's kiss and emerald flame. The jester's smile mirrors the shapeshifter's cunning, while prismatic dust traces the path of eight-legged fate. One beast of myth exhales inferno, yet the other wears masks of deception. Seek the six where chaos performs and destiny glimmers.",
+      "hint": "Look for: a weapon of aim, a night guardian, a glowing treasure, a sound of power, a trickster, and a legendary serpent"
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that never misses, the moon that lights darkness, the gem that catches light, the boom that shakes earth, the card that laughs, and the beast that breathes fire.",
+      "hint": "Target, Moon, Gem, Lightning, Joker, Dragon"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      11,
+      13
+    ]
+  },
+  "emlo_443": {
+    "hardRiddle": {
+      "text": "I launch dreams to cosmic heights with electric speed, a precious gem that sparkles bright. Where fortune strikes like dancing flames, the circus of chaos begins its games. A mystic creature guards the way, while butterfly wings show me the play.",
+      "hint": "Think of a memecoin's journey: launching, gaining value, volatility, luck, guardianship, and transformation."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up like a 🚀, shines like a 💎, reaches the 🌙, moves fast as ⚡, burns hot like 🔥, and brings lucky chaos like 🎪.",
+      "hint": "Follow the memecoin adventure from launch to moon!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
   }
 }
