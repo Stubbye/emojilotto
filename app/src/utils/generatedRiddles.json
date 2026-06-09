@@ -25468,5 +25468,23 @@
       13,
       8
     ]
+  },
+  "sol_1163": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's grin, six whispers of fate converge: the archer's mark meets the celestial wanderer, a gem born of pressure gleams beside the jester's eternal jest, while thunder's child and the nocturnal guardian waltz through dreams, their secrets sealed by the keeper of wishes—all spinning in destiny's grand theatre.",
+      "hint": "One points, one laughs, one shines, one strikes, one hunts, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "I contain a bull's-eye, a cosmic orb, a precious stone, a trickster, a fast creature, and a bright spark. What six treasures complete the lottery's mystical circle?",
+      "hint": "Think of targets, the moon, jewels, humor, animals, and light."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      11,
+      13,
+      10
+    ]
   }
 }
