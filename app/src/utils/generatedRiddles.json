@@ -25414,5 +25414,23 @@
       4,
       10
     ]
+  },
+  "sol_1160": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, six guardians converge in shadow's own. The jester's grin eclipses gemstone's gleam, while scaled ambition ignites the dream. Beneath the storm's electric whisper flies a creature born of twilight's prize, and where the arc of colors bends, destiny's crystalline laughter transcends.",
+      "hint": "Seek the marked center, heavenly seat, treasured stone, laughter's face, ancient power, and nature's threshold between darkness and dawn."
+    },
+    "easyRiddle": {
+      "text": "I point the way to treasure's heart, the moon lights night from far apart, a gem shines bright with inner fire, a joker laughs at hearts' desire, a dragon roars with mighty breath, and stars pierce through the veil of death.",
+      "hint": "Think of: something that aims, night's guardian, precious mineral, a silly character, a mythical beast, and distant suns."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      11,
+      13,
+      21
+    ]
   }
 }
