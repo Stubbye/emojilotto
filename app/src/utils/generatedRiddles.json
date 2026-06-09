@@ -25432,5 +25432,23 @@
       13,
       21
     ]
+  },
+  "sol_1161": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright keeper, and twin serpents dance with nature's weaver, the jester's grin eclipses fortune's gleam, while wild-hearted cunning infiltrates the dream. Spark and spectrum bridge the mortal seam, in this hexad of fate's most cryptic scheme.",
+      "hint": "One points upward, one descends; chaos and order blend; masks hide truth, fox deceives; rainbow promises what fire achieves."
+    },
+    "easyRiddle": {
+      "text": "I guide arrows to their mark, I burn with ancient spark, I deceive with clever art, I light the night from dark, I paint the sky in arc, I juggle fates at heart.",
+      "hint": "Think of aim, flame, trickery, stars, light, and chaos working together."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      21,
+      9,
+      6
+    ]
   }
 }
