@@ -25450,5 +25450,23 @@
       9,
       6
     ]
+  },
+  "sol_1162": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jest, six tokens of fate align: the archer's distant mark, the vessel of dreams ascending, the crystalline heart of earth's desire, the silent guardian of night's veil, the serpent of ancient wisdom breathing chaos, and the trembling wings of transformation's fleeting grace.",
+      "hint": "One points, one rises, one sparkles, one watches, one coils, one metamorphoses"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny: aim true at the target, ride the rocket high, claim the gem's treasure, gaze upon the moon, summon the dragon's power, and watch the butterfly's dance.",
+      "hint": "A goal, a journey, wealth, night, mythology, and nature's acrobat"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      8
+    ]
   }
 }
