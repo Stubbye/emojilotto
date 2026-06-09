@@ -25396,5 +25396,23 @@
       19,
       9
     ]
+  },
+  "sol_1159": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, the winged metamorphosis claims its expanse. Through prisms of chaos, the jester's laugh gleams—six whispers of fate in the lottery's dreams. The archer's ambition, the night's sovereign glow, the serpent's dominion where tempests still blow.",
+      "hint": "Consider: aim, electricity, transformation, comedy, gems of light, and ancient wings"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck takes flight: a glowing night orb, a dragon's might, a butterfly reborn, a target true, lightning's strike, and sparkles too.",
+      "hint": "Moon, dragon, butterfly, target, lightning, sparkles"
+    },
+    "answer": [
+      3,
+      13,
+      8,
+      19,
+      4,
+      10
+    ]
   }
 }
