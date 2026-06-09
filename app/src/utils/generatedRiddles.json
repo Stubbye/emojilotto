@@ -25486,5 +25486,23 @@
       13,
       10
     ]
+  },
+  "sol_1164": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the archer's mark meets fortune's crystalline echo. Six dancers in destiny's amphitheater: the night's jeweled sentinel observes as thunder's child waltzes with metamorphosis, while earthbound radiance crowns the jester's sacred geometry.",
+      "hint": "One marks targets, one illuminates night, one sparkles with electricity, one transforms, one brings fortune's smile, one reflects all colors"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols dance together: the bright explosive path to dreams, the night's glowing guardian, the shimmering joy that falls from sky, the zigzag energy, the winged transformer, and the circle that shows what we aim for.",
+      "hint": "rocket, moon, sparkles, lightning, butterfly, target"
+    },
+    "answer": [
+      1,
+      3,
+      10,
+      4,
+      8,
+      0
+    ]
   }
 }
