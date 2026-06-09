@@ -25378,5 +25378,23 @@
       4,
       13
     ]
+  },
+  "emlo_448": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar sphere, sparkling with electric power. My gemstone heart burns bright, guided by fortune's magic touch. What am I?",
+      "hint": "Think of a memecoin's journey: where it goes, what fuels it, what makes it valuable, and the luck involved."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ powers the way, 💎 shines bright, and 🔥 burns hot. Add luck with 🍀 and magic with ✨. What symbols light the path to riches?",
+      "hint": "Look for the rocket, moon, lightning, fire, clover, and sparkles."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      19,
+      9
+    ]
   }
 }
