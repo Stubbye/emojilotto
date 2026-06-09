@@ -25360,5 +25360,23 @@
       5,
       11
     ]
+  },
+  "sol_1157": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's thread, six tokens dance in shadow's bed. The jester's grin beneath the gem's cold gleam, while nature's winged dancer haunts the dream. Thunder's kiss on petals bright, and the serpent coils through endless night.",
+      "hint": "A target aims, a moon reflects, gems sparkle, butterflies transform, lightning strikes flowers, dragons guard treasures."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's might: a bullseye true, a gem so bright, the moon's soft glow, lightning's might, a dragon's tale, and butterfly's flight.",
+      "hint": "Think of precision, value, night sky, power, mythology, and metamorphosis."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      7,
+      4,
+      13
+    ]
   }
 }
