@@ -25666,5 +25666,23 @@
       10,
       19
     ]
+  },
+  "sol_1171": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, a gem-like brilliance cuts through darkness. The winged transformation dances with electric fury, while prismatic arcs bend toward destiny's gleaming reward. Six secrets hide in nature's mirror.",
+      "hint": "Think of mythology, sky, transformation, power, light, and victory combined"
+    },
+    "easyRiddle": {
+      "text": "An archer's circle guards a jewel. The moon glows above. Lightning strikes with grace. A butterfly transforms. A rainbow promises hope. A trophy awaits the winner.",
+      "hint": "Look for: aim, gem, night sky, electricity, wings, color arc, and victory"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      9,
+      18
+    ]
   }
 }
