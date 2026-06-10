@@ -25594,5 +25594,41 @@
       13,
       8
     ]
+  },
+  "sol_1168": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens weave their cryptic trance. The archer's mark in darkness gleams, while winged ascension breaks through dreams. A gemstone births from starlit tears, and masked revelry conquers fears. In spiraling paths where luck takes flight, the jester grins—chance burns bright.",
+      "hint": "One seeks precision, one seeks height. One glitters deep, one hides from light. One wears many faces at the masquerade, one laughs where bets are made."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and spectacle align: a bullseye, a rocket climbing high, a gem that shines, the moon's design, a joker's card, and lightning's line. Which six light the lottery's spine?",
+      "hint": "Think of targets, space travel, precious stones, night sky, cards, and weather."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      12,
+      5
+    ]
+  },
+  "emlo_453": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a precious gem that makes diamonds bleed. Fortune's jester spins the wheel of fire, while nature's winged messenger climbs ever higher. What six symbols mark this memecoin's empire?",
+      "hint": "Think of the journey: speed to riches, luck in chaos, transformation through beauty, and celestial destination."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gem shines bright. Moon is the dream, butterfly transforms, fire burns hot. Which six emojis represent memecoin magic?",
+      "hint": "Look for: speed, energy, value, destiny, change, and power."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      8,
+      6
+    ]
   }
 }
