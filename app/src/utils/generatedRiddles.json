@@ -25630,5 +25630,23 @@
       8,
       6
     ]
+  },
+  "sol_1169": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jester's twin masks dance with the beast of ancient lore. The archer's prize gleams in chambers of crystalline thought, while wild cunning prowls through emerald fortune's gate. Thunder splits the veil between worlds as petals of destiny bloom in the void—six secrets hidden in plain sight, waiting for those who see beyond the mirror.",
+      "hint": "One points, one rules the night, one deceives, one is sly, one strikes, one grows."
+    },
+    "easyRiddle": {
+      "text": "I aim for glory, I light the night sky, I sparkle with worth, I'm clever and fly. A flower blooms eternal, and fortune's green charm—six magical symbols that work together as one.",
+      "hint": "Think of: accuracy, darkness, value, intelligence, nature, and luck."
+    },
+    "answer": [
+      0,
+      1,
+      14,
+      12,
+      4,
+      19
+    ]
   }
 }
