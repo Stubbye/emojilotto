@@ -25540,5 +25540,41 @@
       20,
       18
     ]
+  },
+  "sol_1166": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six omens dance in shadow's appeal. The hunter's mark where chaos sings, a jeweled prism catches fortune's wings. Between the masks of fate's design, the scaled beast guards what mortals pine. Through crystal depths and stellar gleam, six treasures weave the lottery's dream.",
+      "hint": "One hunts, one burns, one shimmers bright, one conceals, one guards the night, one glimmers eternal in the cosmic sight."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a mark for aim, a flame so bright, a gem that sparkles in the night, a dragon fierce, masks of the light, and stars that twinkle ever tight.",
+      "hint": "Think of luck, danger, treasure, fantasy, theatre, and the sky."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      14,
+      19,
+      21
+    ]
+  },
+  "emlo_452": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 gemstone that makes holders greed. When fortune strikes like ⚡ bright, my sparkle dances through the night. From circus dreams to dragon's flight, I'm the 🎯 that gets it right. 🦊 wisdom guides those who believe, in this 🌈 where we achieve.",
+      "hint": "Six symbols of luck and lunar dreams await the worthy seeker"
+    },
+    "easyRiddle": {
+      "text": "Find the 🌙, the ⚡, the 🔥, the 🎯, the 🦊, and the 🌈 to unlock the memecoin fortune!",
+      "hint": "Look for the moon, lightning, fire, target, fox, and rainbow"
+    },
+    "answer": [
+      3,
+      5,
+      6,
+      0,
+      13,
+      9
+    ]
   }
 }
