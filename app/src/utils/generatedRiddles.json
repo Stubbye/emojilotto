@@ -25504,5 +25504,41 @@
       8,
       0
     ]
+  },
+  "sol_1165": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six tokens dance in shadow's tale. The jester's laugh echoes through prisms of night, as emerald whispers meet thunder's ancient might. A symphony of chaos and grace intertwined, where winged metamorphosis and stellar designs bind. The dragon's breath ignites what the fox cannot steal, revealing the secrets that only riddles reveal.",
+      "hint": "Consider what glimmers in darkness, what moves swiftly through air, what represents both trickery and wisdom, and what transforms all things it touches."
+    },
+    "easyRiddle": {
+      "text": "Six magical signs hide within this verse: the target of dreamers, the joker's perverse. A gem that shines bright, lightning's swift dance, the dragon's fierce might, and fortune's bright chance. What six symbols together grant wishes come true?",
+      "hint": "Look for: something you aim at, something that sparkles, something that flies, something that laughs, something that strikes, and something mythical."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      13,
+      6,
+      11
+    ]
+  },
+  "emlo_451": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, sparkling through the fire of hype. My gem-like value shines bright, guided by fortune's lucky dance. What six symbols represent my moonshot journey?",
+      "hint": "Think of a memecoin's ultimate aspiration: rapid ascent, valuable potential, electrifying community, and reaching the ultimate destination."
+    },
+    "easyRiddle": {
+      "text": "A coin that zooms up fast ⚡, gets super valuable 💎, reaches high above 🌙, glows with magic ✨, brings good luck 🍀, and celebrates wins 🏆. Which six emojis am I?",
+      "hint": "Every memecoin dreamer wants these things: speed, value, altitude, brilliance, luck, and victory."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      10,
+      20,
+      18
+    ]
   }
 }
