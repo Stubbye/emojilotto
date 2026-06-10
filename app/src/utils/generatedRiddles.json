@@ -25576,5 +25576,23 @@
       13,
       9
     ]
+  },
+  "sol_1167": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, and treasures crystalline dance with heaven's rent. The trickster's grin illuminates the night, while scaled eternity breathes ancient light. In chaos' tumble fate finds its twin, and winged transformation spins the violin.",
+      "hint": "Six mystical symbols: one aims true, one climbs high, one gleams bright, one deceives, one roars eternal, one transforms. The answer lies in the marriage of chance, ascension, and metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I aim at fortune, I reach for stars, I sparkle with value, I wear a mask, I bring ancient power, I dance on air.",
+      "hint": "Think of: something that shoots, something very high, something precious, something that hides, something legendary, something graceful."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      18,
+      13,
+      8
+    ]
   }
 }
