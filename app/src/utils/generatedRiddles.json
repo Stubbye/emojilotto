@@ -25684,5 +25684,23 @@
       9,
       18
     ]
+  },
+  "sol_1172": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone catches fire in the night's frontier. The winged dancer spins through prismatic light, while thunder's kiss and fortune's wheel ignite. Six secrets hide within destiny's call—which numbered guardians unlock them all?",
+      "hint": "Seek the symbols of luck, sky, wealth, speed, chance, and transformation"
+    },
+    "easyRiddle": {
+      "text": "I fly toward dreams, I shine like ice, I bring the spark of rolling dice. Through rainbow arcs and midnight's glow, a butterfly will steal the show. What six guide those who dare to play?",
+      "hint": "Look for: aim, shine, luck, light, flight, and electricity"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      9,
+      11,
+      8
+    ]
   }
 }
