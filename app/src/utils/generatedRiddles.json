@@ -25738,5 +25738,41 @@
       9,
       18
     ]
+  },
+  "sol_1174": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with infernal passion, six whispered secrets await the seeker. The archer's eternal goal meets the phoenix's ascension, while crystalline treasures embrace the night's silver witness. Between laughter's painted masks and nature's delicate metamorphosis, lies the spark of destiny itself.",
+      "hint": "Think of transformation, light, precious things, and the cycle of chaos meeting order."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck intertwine: one marks your aim, one rises skyward, one glimmers with value, one graces the night sky, one crackles with power, and one shifts in joy and change.",
+      "hint": "Look for: a target, ascension, wealth, darkness, energy, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_457": {
+    "hardRiddle": {
+      "text": "To the moon we rocket with gems so bright, lightning-fast gains ignite the night. Fire burns through the circus tent, sparkles dance where fortunes went. What six signs mark a memecoin's flight?",
+      "hint": "Think of a crypto journey: launch, destination, treasure, speed, hype, and celebration"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ moves quick, 🔥 burns hot, 🌙 is the goal, ✨ celebrates!",
+      "hint": "A memecoin adventure needs speed, treasure, fire, destiny, and celebration"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      3,
+      10
+    ]
   }
 }
