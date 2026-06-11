@@ -25702,5 +25702,41 @@
       11,
       8
     ]
+  },
+  "sol_1173": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a jeweled serpent dances through the cosmic gyre. The jester's mask conceals what lightning knows, whilst petaled chaos blooms where fortune flows. Seek the six-sided truth in purple's keep, where masked mirth and crystalline secrets sleep.",
+      "hint": "One guides the aim, one burns the sky, one slithers with ancient pride, one laughs in disguise, one sparkles with memory, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in emoji's game: a target for aim, a dragon to tame, a joker's wild face, a gem's precious grace, a crystal so bright, and a flower's delight.",
+      "hint": "Think of: something you shoot at, something mythical, something that tricks, something valuable, something clear, and something that grows."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      2,
+      21,
+      14
+    ]
+  },
+  "emlo_456": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electrifying speed, my gems spark as I dance through the fire of fortune. The joker grins as my rainbow trail sparkles, while the dragon guards my crystal destiny. What sequence reveals the memecoin path to glory?",
+      "hint": "Follow the journey: launch, riches, energy, luck, magic, and the prize awaits."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon is high, gem shines bright, lightning strikes fast, sparkles twinkle, and trophy crowns the winner!",
+      "hint": "Think of a successful memecoin journey from start to victory."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      10,
+      9,
+      18
+    ]
   }
 }
