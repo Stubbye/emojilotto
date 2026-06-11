@@ -25792,5 +25792,23 @@
       10,
       8
     ]
+  },
+  "sol_1176": {
+    "hardRiddle": {
+      "text": "Through the velvet abyss dances the six-winged seeker, where fortune's arrow pierces the celestial sphere. The jester's grin reflects in crystalline depths, while thunder's child and inferno's breath waltz beneath the lunar throne. What constellation of fate shall crown the victorious?",
+      "hint": "One guides aim, one rules night, one speaks folly, one glimmers eternal, one roars with sound, one consumes all."
+    },
+    "easyRiddle": {
+      "text": "Find the aim-bringer, the night-keeper, the truth-twister, the soul-sparkler, the sky-roarer, and the eternal-devourer.",
+      "hint": "Target, Moon, Joker, Crystal, Dragon, Lightning"
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      20,
+      13,
+      4
+    ]
   }
 }
