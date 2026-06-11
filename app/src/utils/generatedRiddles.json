@@ -25828,5 +25828,41 @@
       4,
       14
     ]
+  },
+  "sol_1178": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, the masked performer leaps through prismatic arcs. Six treasures hide: the archer's eternal mark, the serpent's ancient flame, the lightning's kiss upon destiny's stage, the jester's crimson grin, the night's pale sovereign, and radiance born from stellar dust.",
+      "hint": "One guides arrows, one breathes chaos, one strikes fate, one laughs at rules, one rules the darkness, one illuminates wishes"
+    },
+    "easyRiddle": {
+      "text": "I am six: a target for aims, fire that burns, a joker who grins, lightning that strikes, the moon above, and sparkles that shine. What am I?",
+      "hint": "Aim, burn, laugh, strike, glow, and shine"
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      1,
+      3,
+      19
+    ]
+  },
+  "emlo_459": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my gems sparkle as lightning strikes fortune. A jester's purple magic ignites the fire of gains, while crystal waves crash against my trophy ambitions.",
+      "hint": "Think of a memecoin's journey to success: speed, wealth, luck, magic, volatility, and victory."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon, gems shine bright, lightning brings quick wins, fire shows passion, a trophy marks victory, and sparkles celebrate the magic of memecoin riches!",
+      "hint": "Name each emoji you see: fast travel, destination, treasure, electricity, heat, and celebration."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      18,
+      10
+    ]
   }
 }
