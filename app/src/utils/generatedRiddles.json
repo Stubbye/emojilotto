@@ -25810,5 +25810,23 @@
       13,
       4
     ]
+  },
+  "sol_1177": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six dancers twirl in chaos' sacred space. The jester's grin reflects in crystalline tears, while winged metamorphosis conquers ancient fears. Lightning's twin speaks in silent arcs, and blooming desires scatter through the dark.",
+      "hint": "One guides, one laughs, one shatters light, one transforms, one strikes twice, one grows wild."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: the archer's aim, the fool's eternal game, the prism's gleam, the creature reborn, the electricity that splits the morn, and petals that adorn.",
+      "hint": "Think: target, joker, crystal, butterfly, lightning, and flower."
+    },
+    "answer": [
+      0,
+      12,
+      20,
+      8,
+      4,
+      14
+    ]
   }
 }
