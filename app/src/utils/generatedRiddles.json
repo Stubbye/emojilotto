@@ -25954,5 +25954,23 @@
       5,
       10
     ]
+  },
+  "sol_1182": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the trickster's grin mirrors the hunter's cunning beneath Luna's ancient gaze. Six whispers of fate converge: the archer's endless pursuit, the winged metamorphosis of soul's ascension, the serpent of storms and chaos, the jester's masked revelation, the crimson hunger that devours all, and the vagrant of twilight woods. Seek the numerical order of their secrets.",
+      "hint": "One brings precision, one brings change, one brings wisdom, one brings laughter, one brings destruction, one brings stealth. The lottery favors those who understand transformation."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and wonder: a circular aim, a winged dancer, a scaled dreamer, a laughing fool, a consuming force, and a clever shadow. What numbers complete this hexad of destiny?",
+      "hint": "Think of targets, butterflies, dragons, jokers, fire, and foxes in that order."
+    },
+    "answer": [
+      0,
+      8,
+      13,
+      19,
+      6,
+      12
+    ]
   }
 }
