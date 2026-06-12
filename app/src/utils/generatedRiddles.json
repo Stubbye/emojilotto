@@ -25882,5 +25882,41 @@
       19,
       21
     ]
+  },
+  "sol_1180": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six sentinels of fate converge. The archer's eternal mark meets the void-piercer's ascent. Crystalline wisdom sleeps beneath the conductor's silent prayer. Trickster and scaled majesty waltz through prismatic tears, while fortune's cube tumbles toward destiny's verdant blessing.",
+      "hint": "One marks precision, one breaks the sky. One glimmers with knowledge, one sings without sound. One deceives, one breathes ancient power. One blooms with luck."
+    },
+    "easyRiddle": {
+      "text": "I seek six omens of luck: a target's center, a rocket's flight, a gem's sparkle, the moon's glow, a star's shine, and a clover's blessing. Which six celestial and earthly tokens grace the winning combination?",
+      "hint": "Look for symbols of luck, speed, wealth, night, hope, and fortune."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      21,
+      19
+    ]
+  },
+  "emlo_460": {
+    "hardRiddle": {
+      "text": "I rise from the depths where fortunes ignite, a scaly beast breathing flames burning bright. My wings catch the sparkle of gems that reflect, as I dance through the stars that investors expect. When lightning strikes twice on this magical night, the joker reveals what takes flight to new height.",
+      "hint": "A legendary creature with fire, treasure, and cosmic destiny"
+    },
+    "easyRiddle": {
+      "text": "What flies up to the moon on a rocket so fast, leaves sparkles and fire in its blast? Add a gem that shines bright and a joker's own gleam, and you've got the memecoin of every whale's dream!",
+      "hint": "Space travel meets treasure and trickery"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      21,
+      11,
+      13
+    ]
   }
 }
