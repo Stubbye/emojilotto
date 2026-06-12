@@ -25918,5 +25918,41 @@
       11,
       13
     ]
+  },
+  "sol_1181": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled sentinel guards the gleaming shard beneath celestial eyes. The jester's grin mirrors the archer's aim, while nature's winged metamorphosis dances through the tempest's brilliant scars.",
+      "hint": "Think of lottery symbolism: targets, mythical protectors, precious stones, cosmic references, tricksters, and transformation."
+    },
+    "easyRiddle": {
+      "text": "I point at prizes, a dragon hoards treasure, gems sparkle bright, the moon watches above, a joker laughs, and a butterfly transforms.",
+      "hint": "These six symbols represent luck, wealth, night, chance, and change."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      21,
+      19,
+      8
+    ]
+  },
+  "emlo_461": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises fast, sparked by lightning's blast. Diamond-hard dreams touch the lunar vast, while fire and magic make wealth unsurpassed. What six treasures fuel this memecoin mast?",
+      "hint": "Think of a chaotic carnival of riches ascending skyward with mystical elements."
+    },
+    "easyRiddle": {
+      "text": "Find the joker laughing, the lightning striking, the gem shining, the moon glowing, the fire burning, and the sparkles dancing. These six hold the secret to fortune!",
+      "hint": "Look for a funny card, electricity, a precious stone, the night sky, heat, and magical glimmers."
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      3,
+      5,
+      10
+    ]
   }
 }
