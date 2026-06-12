@@ -25972,5 +25972,41 @@
       6,
       12
     ]
+  },
+  "sol_1183": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between realms, a winged metamorphosis dances through celestial fire. The jester's grin holds secrets beneath prismatic tears, while thunder's child channels ancient scales through stringed prophecy. Seven-petaled luck blooms where the maestro's triumph echoes.",
+      "hint": "Consider transformation, chaos, music, and what mortals chase in darkness."
+    },
+    "easyRiddle": {
+      "text": "A target is struck by lightning's dance. A butterfly emerges from rainbow's gate. A dragon sings through guitar strings while joker laughs. Clover grants wishes to the trophy's keeper.",
+      "hint": "Six symbols reveal themselves: aim, storm, change, spectrum, myth, and music."
+    },
+    "answer": [
+      0,
+      5,
+      1,
+      9,
+      16,
+      18
+    ]
+  },
+  "emlo_462": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, a shimmering gem that ignites the fire of fortune. Where circus meets cosmic chaos, dancers of luck perform their prismatic show. What six celestial performers guide the diamond to its sparkling throne?",
+      "hint": "Think of a memecoin's journey: propulsion, destination, and the magical elements that make it legendary."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the glowing orb with a spark of magic. Find the jewel that shines like a rainbow in the night, surrounded by luck and cosmic wonder.",
+      "hint": "You need speed, a destination, something valuable, electricity, beauty, and chance."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      11
+    ]
   }
 }
