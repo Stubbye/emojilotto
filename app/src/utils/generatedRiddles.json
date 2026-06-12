@@ -26008,5 +26008,23 @@
       9,
       11
     ]
+  },
+  "sol_1185": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets crystalline fate, six guardians dance in fortune's gate. The archer's mark gleams with gemstone heart, while thunder births chaos and sets worlds apart. Winged metamorphosis plays 'neath celestial glow, and fortune's masked jester completes the show.",
+      "hint": "Seek the luminous path: aim true, ascend high, capture essence, embrace chaos, transform gracefully, and trust the deceiver."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the rise, the precious stone, the sky's companion, the strike, and the trickster's throne. Six symbols reveal what fortune has sown.",
+      "hint": "Think of archery, space travel, valuable objects, night, weather, and card games."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
