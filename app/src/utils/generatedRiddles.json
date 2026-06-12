@@ -25864,5 +25864,23 @@
       18,
       10
     ]
+  },
+  "sol_1179": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, a celestial stone drinks starlight. The jester's twin flames dance with crystal wings, while chaos blooms in prismatic rings. Six seekers dwell in fortune's keep—the aimed, the swift, the glowing deep, the laughing mask, the radiant spark, and nature's sign that mocks the dark.",
+      "hint": "Look to the heavens, the court, the elements, and what eludes certainty itself."
+    },
+    "easyRiddle": {
+      "text": "I am the bull's-eye, the speed of dreams, a treasure of light, the night's guardian beams, laughter in masks, and electricity's gleam. With a four-leafed friend, I complete the scheme.",
+      "hint": "Six lucky signs: aim high, go fast, shine bright, laugh hard, spark wild, and believe in luck."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      21
+    ]
   }
 }
