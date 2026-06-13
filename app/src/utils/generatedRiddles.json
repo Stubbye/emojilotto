@@ -26188,5 +26188,23 @@
       14,
       8
     ]
+  },
+  "sol_1192": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six dancers waltz between desire and wire. The jester's twin glimpses through prismatic veils, while scaled majesty guards where lightning trails. In chaos' embrace, the winged soul takes flight, seeking the center of fortune's sight.",
+      "hint": "A target, joker, and dragon lead the way through colors and storms to lottery's play."
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye that holds all dreams, the trickster's grin, and scales that gleam. Add lightning's strike and rainbow's arc, with butterfly wings lighting the dark.",
+      "hint": "Six lucky symbols: aim, laugh, scale, shock, color, and flutter."
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      4,
+      9,
+      8
+    ]
   }
 }
