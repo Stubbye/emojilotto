@@ -26116,5 +26116,23 @@
       8,
       19
     ]
+  },
+  "sol_1189": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked gamble, six secrets hide: the archer's sphere meets the ascending serpent's flame, jeweled light crowns the night's silent witness, while chance's bones spin beneath the trickster's grin and nature's winged metamorphosis ascends toward electric destiny.",
+      "hint": "One points, one soars, one glimmers, one watches, one laughs, one transforms"
+    },
+    "easyRiddle": {
+      "text": "Find the target where the rocket flies, the gem that sparkles under the moon, the lightning that dances with fire, the joker who grins at the butterfly.",
+      "hint": "Six different symbols: aim, ascend, shine, night, electricity, transform"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      8
+    ]
   }
 }
