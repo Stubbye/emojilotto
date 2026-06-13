@@ -26242,5 +26242,23 @@
       4,
       10
     ]
+  },
+  "sol_1194": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while prismatic shards dance with electric whispers. The jester's twin masks observe as nature's winged metamorphosis blooms eternal, and luck's clover trembles beneath the storm's brilliant kiss.",
+      "hint": "Seek the symbols of ascension, chaos, transformation, and fate's hidden geometry across six realms of possibility."
+    },
+    "easyRiddle": {
+      "text": "Find the target's strike, the dragon's flight, the gem's sparkle, the lightning's crack, the butterfly's grace, and fortune's leaf.",
+      "hint": "One points the way, one soars high, one glitters, one strikes, one flutters, and one brings luck."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      4,
+      7,
+      19
+    ]
   }
 }
