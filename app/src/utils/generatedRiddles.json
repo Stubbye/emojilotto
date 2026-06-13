@@ -26260,5 +26260,41 @@
       7,
       19
     ]
+  },
+  "sol_1196": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's masked gambit meets the archer's eternal aim. Six entities converge: the winged metamorphosis ascends through prismatic veils, while the scaled leviathan guards the gem of infinite light, and the clover's whispered luck blooms beneath the storm's electric kiss.",
+      "hint": "Consider transformations, chance, direction, mythical guardians, fortune's symbols, and nature's fury combined with radiance."
+    },
+    "easyRiddle": {
+      "text": "I am six: a winged dancer of transformation, a magical stone that glows, a four-leafed whisper of luck, a scaled ancient creature, a bright messenger from above, and a spark of electricity that strikes. Together we spin the wheel of destiny.",
+      "hint": "One flies and changes, one shines, one is lucky, one is mythical, one is bright in the night sky, one is powerful and fast."
+    },
+    "answer": [
+      8,
+      5,
+      19,
+      13,
+      21,
+      4
+    ]
+  },
+  "emlo_467": {
+    "hardRiddle": {
+      "text": "To the moon we ride with electric speed, past gems that sparkle, through fire's greed. Where fortune spins and tricksters play, with dragon's luck to save the day.",
+      "hint": "Think of a memecoin journey: destination, power, value, chance, magic, and mythical fortune."
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with lightning power, collect shiny gems in fortune's hour. The dragon guards your lucky spin, where rockets and rockets help you win.",
+      "hint": "Space travel + electricity + treasures + spinning luck + magical creatures"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      11,
+      14,
+      13
+    ]
   }
 }
