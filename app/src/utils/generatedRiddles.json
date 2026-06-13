@@ -26296,5 +26296,23 @@
       14,
       13
     ]
+  },
+  "sol_1197": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, six whispers dance in shadow's cone. The jester's grin reflects in facets deep, while twin-winged wanderer spirals through the keep. Chaos blooms in nature's sacred flame, and luck's four-leafed guardian stakes its claim.",
+      "hint": "One guides the archer's aim, one rules the night, one laughs at fate, one transforms in flight, one consumes with ancient rage, one marks the fortunate page."
+    },
+    "easyRiddle": {
+      "text": "I am six: a target for the bold, a night that glows, a treasure to hold, a joker's smile, a butterfly's grace, and fortune's leaf that finds its place.",
+      "hint": "Think of luck, night sky, valuable things, tricksters, nature's wings, and clover fields."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      11,
+      8,
+      19
+    ]
   }
 }
