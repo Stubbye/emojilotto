@@ -26206,5 +26206,41 @@
       9,
       8
     ]
+  },
+  "sol_1193": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, and luck's gemstone dances with celestial fire, the jester's twin masks grin beneath the serpent's ancient wisdom—six threads of fate intertwine in the performer's circle, where thunder's kiss ignites the chalice of champions.",
+      "hint": "Think of games, celestial bodies, precious things, emotions, mythical creatures, and victory."
+    },
+    "easyRiddle": {
+      "text": "Six signs of fortune: aim true at destiny, reach for the stars above, find precious stones that glimmer, laugh with the fool's two faces, summon the wise dragon's power, and claim your champion's prize.",
+      "hint": "One involves hitting a target, one is in the sky, one is shiny, one is silly, one is a mythical beast, and one is a reward."
+    },
+    "answer": [
+      0,
+      2,
+      6,
+      19,
+      14,
+      18
+    ]
+  },
+  "emlo_466": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, glittering treasures that make my heart bleed. When fortune strikes with electrical might, my spirit soars to peaks of delight. Chaos and chance dance in my soul, while magic sparkles toward my goal.",
+      "hint": "Think of a memecoin journey: ambition, wealth, luck, fortune, chaos, and mystical moments"
+    },
+    "easyRiddle": {
+      "text": "🎯 aims high, 🚀 flies fast, 💎 shines bright, 🌙 glows at night, ⚡ strikes quick, ✨ sparkles magic. What six treasures make a crypto dream?",
+      "hint": "Look at the emojis in the question itself"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
