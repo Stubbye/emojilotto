@@ -26314,5 +26314,23 @@
       8,
       19
     ]
+  },
+  "sol_1198": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six guardians dance in destiny's game. The prism of chaos spins with winged grace, while thunder's child and lunar majesty trace paths through velvet void. Behold the jester's symphony—where spectrum bends and luck takes flight.",
+      "hint": "One shows direction, one ignites ascent, one gleams with value, one rules the night, one strikes with fury, and one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "I am six: the archer's mark, the night's silver pearl, the precious stone that blinds with light, the zephyr's laughter, the spark that burns, and the trickster's grin. What am I?",
+      "hint": "Think of targets, moons, gems, lightning, fire, and jesters."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      5,
+      6,
+      19
+    ]
   }
 }
