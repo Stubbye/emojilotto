@@ -26080,5 +26080,41 @@
       13,
       16
     ]
+  },
+  "sol_1188": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a dragon's breath ignites the stage of illusion. The celestial sphere watches over crystalline dreams that shimmer with starfire, while chaos dances in numbered bones. Six secrets hide in plain sight—find the intersection of destiny, deception, and dazzling light.",
+      "hint": "Think of performance, chance, precious things, and the heavens above. One brings fire, one brings gems, one brings games."
+    },
+    "easyRiddle": {
+      "text": "I need six magical items: something you aim at, something that flies fast, something shiny and precious, something in the night sky, something that makes light with power, and something for a game of chance.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Dice"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_464": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, my gems sparkle as lightning strikes my path. The joker laughs while fire burns bright, and a butterfly dances where fortune takes flight. What six symbols mark my journey to glory?",
+      "hint": "Think of a memecoin's wild ride to the moon with chaos and treasure along the way."
+    },
+    "easyRiddle": {
+      "text": "Rocket blasts off to the moon, gem shines bright, lightning flashes fast, fire burns hot, butterfly flies free, and the joker grins. Name these six symbols of crypto chaos.",
+      "hint": "Look for the symbols of speed, wealth, nature, danger, luck, and mischief."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      8,
+      19
+    ]
   }
 }
