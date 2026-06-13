@@ -26062,5 +26062,23 @@
       20,
       19
     ]
+  },
+  "sol_1187": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins in celestial theatre, six sentinels guard destiny's threshold. The archer's mark meets heaven's torch, while twin serpents of fate intertwine with the jester's crimson grin. Beneath them dances the creature of shadows and cunning, crowned by the maestro's voice eternal. What are these oracles of chance?",
+      "hint": "Think of performative destiny: aim, ascent, chaos, comedy, mystery, and melody."
+    },
+    "easyRiddle": {
+      "text": "I dance in the night sky, I burst with wild energy, I make people laugh, I am clever and sly, I sing without words, and I never miss my mark. What six things am I?",
+      "hint": "One points the way, one climbs high, one brings chaos, one tells jokes, one hunts smart, one creates magic."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      18,
+      13,
+      16
+    ]
   }
 }
