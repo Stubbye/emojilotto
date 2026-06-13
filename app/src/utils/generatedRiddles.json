@@ -26134,5 +26134,41 @@
       11,
       8
     ]
+  },
+  "sol_1190": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, and the jester's twin masks dance with gemstone's gleam. Through crystalline depths, the winged dancer ascends toward silver silence, while fortune's cube whispers secrets to the crowned victor's symphony.",
+      "hint": "One shoots, one burns, one laughs, one sparkles, one transforms, one celebrates."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's fire, the fool's face, the stone that shines, the flying sprite, and the champion's reward.",
+      "hint": "Target, Fire, Joker, Gem, Butterfly, Trophy"
+    },
+    "answer": [
+      0,
+      6,
+      19,
+      2,
+      8,
+      18
+    ]
+  },
+  "emlo_465": {
+    "hardRiddle": {
+      "text": "A jester's luck strikes like thunder, igniting dreams to the celestial heights. What six symbols unite the gambler's fortune, the musician's spark, and nature's most magical moments?",
+      "hint": "Think of chaos, music, electricity, destiny, and two things that shine with otherworldly beauty."
+    },
+    "easyRiddle": {
+      "text": "Find: the card player's companion, the bolt from above, the shining rock, the lucky charm, the strings that sing, and the prize for winners!",
+      "hint": "One brings luck, one brings power, one brings wealth, one brings fortune, one brings melody, one brings victory."
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      14,
+      16,
+      17
+    ]
   }
 }
