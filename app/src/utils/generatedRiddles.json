@@ -26170,5 +26170,23 @@
       16,
       17
     ]
+  },
+  "sol_1191": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin daughters, and the trickster's grin dances upon petals of chaos—seek the winged metamorphosis that spirals through prismatic waters, watched by the jeweled eye of night's eternal crown.",
+      "hint": "One brings luck, one brings mischief, one transforms, one illuminates the dark, one shatters reality, one flows eternal."
+    },
+    "easyRiddle": {
+      "text": "I am six: a night guardian, a jester's laughter, a gem of earth, lightning's cousin, a flower that moves, and wings reborn.",
+      "hint": "Look to the sky at night, find the trickster, dig deep for brilliance, feel the spark, admire nature's bloom, watch the chrysalis."
+    },
+    "answer": [
+      1,
+      19,
+      5,
+      4,
+      14,
+      8
+    ]
   }
 }
