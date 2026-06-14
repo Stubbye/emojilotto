@@ -26530,5 +26530,41 @@
       19,
       21
     ]
+  },
+  "sol_1208": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester pirouettes beneath the crescent's gaze. The winged metamorphosis seeks the gleaming heart of destiny, while discord's electric tongue licks the crystalline throne. Six tokens of fate converge where chaos performs and the heavens weep luminescence.",
+      "hint": "One rules the night, one brings transformation, one judges fortunes, one strikes with chaos, one sparkles eternal, one holds the prize."
+    },
+    "easyRiddle": {
+      "text": "I contain: the night guardian, the dancing performer, the brilliant stone, the swift trickster, the lightning's kiss, and the sparkling magic. What six treasures light the path to fortune?",
+      "hint": "Think of: sky, entertainment, value, cleverness, energy, and wonder."
+    },
+    "answer": [
+      3,
+      8,
+      2,
+      13,
+      5,
+      10
+    ]
+  },
+  "emlo_472": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, sparkle with precious brilliance, and ignite wild fortune. Where chaos meets destiny, I shimmer with magical chance, guided by fortune's joker hand. What six symbols represent this memecoin journey?",
+      "hint": "Think of the path from earthly chaos to lunar riches, with luck and magic at every turn."
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon, lightning brings the power, gems shine bright, fire burns hot, sparkles dance, and dice roll your fortune. These six guide the memecoin way!",
+      "hint": "Follow the journey: launch, ascend, sparkle, and let luck decide your destiny."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      9,
+      11
+    ]
   }
 }
