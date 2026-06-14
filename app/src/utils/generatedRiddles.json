@@ -26512,5 +26512,23 @@
       2,
       11
     ]
+  },
+  "sol_1206": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked twin, six threads converge: the archer's mark bends toward infinity, while winged metamorphosis carries secrets through the prism of chaos. Thunder's twin speaks in crystalline whispers, and the jester's shadow plays beneath silver's watchful gaze. What trinity of fortune blooms when destiny's wheel spins where the spotlight bends?",
+      "hint": "Seek the marksman's dream, the performer's realm, the gambler's heart, the sky's electric voice, the shape-shifter's ancient wisdom, and the night's eternal guardian."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance await: one aims with precision, one transforms through stages, one speaks in electric tongues, one wears the court's disguise, one guards the stars above, and one wheels in circles of fate. Which six dance together in fortune's theater?",
+      "hint": "Think of targets, transformations, electricity, trickery, night sky, and spinning luck."
+    },
+    "answer": [
+      0,
+      8,
+      5,
+      4,
+      19,
+      21
+    ]
   }
 }
