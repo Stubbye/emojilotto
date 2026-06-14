@@ -26440,5 +26440,23 @@
       3,
       19
     ]
+  },
+  "sol_1203": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's eternal gaze, a winged dancer waltzes through celestial fire, while crystalline tears of the earth's heart shatter into luminous fragments—seek the six that bind chaos to destiny's stage.",
+      "hint": "One pierces, one observes from above, one transforms, one burns bright, one reflects light, one guides the way."
+    },
+    "easyRiddle": {
+      "text": "A target in the sky, a dragon's ancient flame, a gem that glows eternal, sparkles fill the frame—add the butterfly's dance and the rocket's flight—these six hold the lottery's light.",
+      "hint": "Look for: something you aim at, something that flies fast, something precious and shiny, something magical that twinkles, something with wings, and something dangerous and hot."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      6,
+      8,
+      21
+    ]
   }
 }
