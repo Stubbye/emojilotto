@@ -26458,5 +26458,23 @@
       8,
       21
     ]
+  },
+  "sol_1204": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian heart, ascending past the celestial pearl through tempest's violent arc. The jester's masque conceals what glimmers in fractured light, while metamorphosis dances in prismatic flight. Six tokens of destiny converge where chaos meets the crown.",
+      "hint": "Think of chaos, transformation, luck, electricity, precious things, and the zenith of achievement in a moment of violent fortune."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the sky's electric speech, the stone of kings, the night's bright beach, the masked fool's grin, and the winged rebirth. Six treasures of chance upon the earth.",
+      "hint": "One is aimed at, one flashes, one is precious, one is up high, one is silly, one has wings."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      1,
+      19,
+      8
+    ]
   }
 }
