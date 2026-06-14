@@ -26386,5 +26386,23 @@
       5,
       10
     ]
+  },
+  "sol_1201": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jest, six sovereigns of chance converge in twilight's test. The archer's mark meets heaven's throne, while trickster's grin and jeweled stone join wings of metamorphosis and bolts that seek their own. In this constellation of fate, destiny awaits.",
+      "hint": "Consider symbols of chance, royalty, transformation, and celestial bodies working in harmony."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the joker, the moon and lightning too. Add the gem that sparkles bright, and butterfly's debut. These six shall grant your fortune true.",
+      "hint": "Look for a game piece, a cosmic body, a trickster, electricity, a precious stone, and a winged insect."
+    },
+    "answer": [
+      0,
+      18,
+      3,
+      4,
+      1,
+      8
+    ]
   }
 }
