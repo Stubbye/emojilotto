@@ -26332,5 +26332,23 @@
       6,
       19
     ]
+  },
+  "sol_1199": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six secrets dance in metamorphic desire. The gem-crowned jester spins beneath moon's gaze, while scaled majesty guards electric mazes. Through prismatic gates the phoenix takes flight, as clover whispers luck's crystalline light.",
+      "hint": "Think of transformation, chance, and elements that shimmer. One brings fortune, one brings spectacle, one brings nature's gift."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck is found: a precious stone, a leaping hound, a scaled beast with ancient might, the moon that glows throughout the night, the spark that dances wild and free, and fortune's charm of one, two, three.",
+      "hint": "Look for: something precious, something magical, something fierce, something celestial, something electric, and something lucky."
+    },
+    "answer": [
+      1,
+      10,
+      13,
+      3,
+      5,
+      19
+    ]
   }
 }
