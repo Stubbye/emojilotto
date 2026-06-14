@@ -26350,5 +26350,41 @@
       5,
       19
     ]
+  },
+  "sol_1200": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic void, a gem-like spark ascends through twilight's fire. The jester's grin reflects in crystal depths, while wings of transformation dance where lightning kissed the rainbow's birth. Six symbols bound in destiny's eternal waltz.",
+      "hint": "Consider what guides seekers, what burns bright, what multiplies chance, what transforms, what reflects truth, and what marks the beginning of wonder."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's bright stone, the fool's true face, the lightning's home, the butterfly's mirror, and the arc of dreams.",
+      "hint": "One aims, one glows in night, one laughs, one strikes, one flutters, one bends light."
+    },
+    "answer": [
+      0,
+      2,
+      12,
+      4,
+      8,
+      9
+    ]
+  },
+  "emlo_469": {
+    "hardRiddle": {
+      "text": "A cosmic jester rides lightning through the night, chasing gems that sparkle with fire. When the rocket reaches the moon, fortune spins like a diamond wheel. What six celestial symbols guide the diamond-handed through chaos?",
+      "hint": "Think of a wild card journey through space where luck meets electricity and precious stones await."
+    },
+    "easyRiddle": {
+      "text": "Rocket blasts off! Lightning strikes! Gems shine bright! Moon glows! Fire burns! Sparkles twinkle! Put these six together for memecoin magic!",
+      "hint": "Follow the order: space vehicle, electricity, treasure, night sky, heat, and twinkling lights."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      10
+    ]
   }
 }
