@@ -26476,5 +26476,41 @@
       19,
       8
     ]
+  },
+  "sol_1205": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, and celestial fire dances with prismatic tears, the jester's twin souls spiral through metamorphosis while ancient scales whisper secrets beneath the emerald crown's eternal gleam.",
+      "hint": "Think of targets, ascension, luck's duality, transformation, chance, and precious verdancy."
+    },
+    "easyRiddle": {
+      "text": "A pointed mark aims high, a flame burns bright, a fool makes jest, and green brings luck—find where the many-faced prism meets the winged change.",
+      "hint": "One is a target, one rises, one entertains, one is fortunate, one transforms, one shines with color."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      8,
+      12,
+      20
+    ]
+  },
+  "emlo_471": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gems sparkle brilliantly as fortune strikes like divine fire, guided by cosmic fortune's dance of chance",
+      "hint": "Think of a meme coin's journey: the vehicle of ascension, the destination of wealth, the tool of luck, the energy of hype, the treasure gained, and the chaos of trading"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, ⚡ strikes the 💎, 🔥 fuels the 🎲 of fortune",
+      "hint": "A memecoin story: launch, destination, power, wealth, and gambling"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      11
+    ]
   }
 }
