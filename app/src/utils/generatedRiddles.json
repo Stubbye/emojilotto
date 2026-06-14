@@ -26404,5 +26404,41 @@
       1,
       8
     ]
+  },
+  "sol_1202": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger of metamorphosis glides through prisms of hope, the archer's mark converges with the jester's eternal grin. In this constellation of chance, crystal clarity shatters into a thousand sparkling whispers, while the swiftness of the clever beast weaves through the fabric of destiny itself.",
+      "hint": "Six harbingers of luck hide within: one strikes from above, one transforms, one judges with humor, one illuminates, one refracts, and one outwits."
+    },
+    "easyRiddle": {
+      "text": "I am six seekers of fortune: the bolt that strikes without warning, the insect that transforms itself, the guardian who laughs at fate, the gems that multiply light, the cunning creature of the woods, and the mark that the archer aims for. Together we spin the wheel of chance.",
+      "hint": "Think of lightning, change, trickery, shining things, a sly animal, and a target."
+    },
+    "answer": [
+      4,
+      8,
+      19,
+      10,
+      20,
+      0
+    ]
+  },
+  "emlo_470": {
+    "hardRiddle": {
+      "text": "I chase the 🚀 to reach the 🌙, my ⚡ burns bright like 🔥, I'm precious as a 💎 and lucky as a 🍀. What am I?",
+      "hint": "A memecoin holder's dream: fast gains, rare treasures, and fortune combined"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines, ⚡ strikes fast, 🔥 burns hot, 🌙 glows above, 🍀 brings luck. Pick all six!",
+      "hint": "Look for: rocket, gem, lightning, fire, moon, clover"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      6,
+      3,
+      19
+    ]
   }
 }
