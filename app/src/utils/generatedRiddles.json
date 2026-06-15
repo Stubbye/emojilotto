@@ -26602,5 +26602,41 @@
       4,
       5
     ]
+  },
+  "sol_1211": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, six celestial dancers pirouette through prismatic haze. The jester's twin-faced whisper echoes 'neath the gem-crowned night, while serpent's ancient wisdom coils toward the lightning's flight. Through butterfly's metamorphic wings, the crystal's fractured gleam reflects what mortals dream yet never fully glean.",
+      "hint": "Seek the marksman's aim, the lunar witness, the gemstone's brilliance, the serpent's reign, the winged transformation, and the stone that speaks in refracted light."
+    },
+    "easyRiddle": {
+      "text": "I point and never miss, I watch from high above, I sparkle with great value, I slither and I move, I transform with delicate grace, and I shine with fractured light. What six symbols hold the answer to tonight?",
+      "hint": "Think of precision, the night sky, treasure, mythology, nature's beauty, and reflective stones."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      14,
+      8,
+      20
+    ]
+  },
+  "emlo_474": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, a shimmering prize that makes hearts bleed. Dancing flames meet crystal light, while fortune spins through the night. The jester's magic and nature's bloom guide those who seek their destined moon.",
+      "hint": "Think of a memecoin's journey: the tool of launch, the destination, the energy, the value, the gamble, and the luck."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up with fire and speed, reaches for the gem so bright, lightning strikes with lucky need, dice and clover guide the light.",
+      "hint": "What helps a memecoin moon? Speed, value, energy, luck, and chance."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      11,
+      19
+    ]
   }
 }
