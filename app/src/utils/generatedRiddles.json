@@ -26638,5 +26638,41 @@
       11,
       19
     ]
+  },
+  "sol_1212": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's laughter echoes through prismatic gates. Six spirits convene: the archer's distant mark meets the ascending serpent's breath, while the nocturnal guardian peers down upon a metamorphosis crowned in light. Luck's many faces wear the mask of chaos, and what once crawled now soars through nature's radiant arc.",
+      "hint": "Consider symbols of chance, transformation, luck, and the sky's eternal dialogue with fate."
+    },
+    "easyRiddle": {
+      "text": "I contain six hidden treasures of luck and wonder. One points the way to aims and goals, one flies toward dreams in the night sky, one shapeshifts with wings, one laughs with uncertainty, one burns bright with energy, and one shimmers with celestial magic. What are the six?",
+      "hint": "Think of targets, rockets, butterflies, jokers, lightning, and stars."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      11,
+      5,
+      21
+    ]
+  },
+  "emlo_475": {
+    "hardRiddle": {
+      "text": "A jester's gamble launched into the void, where celestial bodies gleam with electric fortune. Magic sparkles dance above as the fox's cunning meets dragon's ancient treasure, all blessed by fortune's four-leaf charm.",
+      "hint": "Think of a memecoin's journey: the gambler, the destination, the currency, the luck, the mystical elements, and the trickster."
+    },
+    "easyRiddle": {
+      "text": "Laugh with the fool, ride the ship to riches, find the shiny stones, reach the night sky, feel the power strike, and claim your lucky charm.",
+      "hint": "A memecoin adventure: who laughs, what flies, what sparkles, where you go, what you feel, and what brings luck."
+    },
+    "answer": [
+      1,
+      9,
+      3,
+      4,
+      13,
+      19
+    ]
   }
 }
