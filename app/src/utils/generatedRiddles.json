@@ -26674,5 +26674,41 @@
       13,
       19
     ]
+  },
+  "sol_1214": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six spirits converge in the theater of chance. The archer's eternal mark meets the vessel of dreams ascending, while twin flames of chaos and brilliance intertwine. Between them swirls the metamorphosis of fortune and the jester's knowing grin, all crowned beneath the gemstone of night's deep whisper.",
+      "hint": "One points downward, one rises upward, one transforms, one gleams, one laughs, one shines from above"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of fate: a target to aim, a rocket to soar, a gem to shine, a moon to guide, fire that burns, and a joker's smile.",
+      "hint": "Think of luck, ambition, wealth, mystery, passion, and mischief"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_476": {
+    "hardRiddle": {
+      "text": "I launch dreams to infinity with electric speed, where gems sparkle under celestial glow. Fortune spins wildly as fire meets ice, and nature's luck blooms eternal. What six treasures align for the ultimate memecoin destiny?",
+      "hint": "Think of a journey: start with velocity, find precious stones, reach the destination, add electricity and chance, finish with growth"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, 🌙 glows above, ⚡ strikes fast, 🔥 burns hot, 🍀 brings luck. Which six make the perfect memecoin combo?",
+      "hint": "Look for: launch, value, destiny, power, energy, and fortune"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      19
+    ]
   }
 }
