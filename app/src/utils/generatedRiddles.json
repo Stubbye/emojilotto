@@ -26584,5 +26584,23 @@
       2,
       13
     ]
+  },
+  "sol_1210": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a precious stone gleams beneath the storm's electric tear. The phoenix dances with the night's bright sentinel, while chaos blooms in nature's prismatic carousel. Six symbols hold the key to destiny's design—one strikes from above, one glimmers in alignment.",
+      "hint": "Think of elements: aim, sky, wealth, weather, light, and spectacle combined"
+    },
+    "easyRiddle": {
+      "text": "A target points the way, a rocket aims so high, a gem shines bright, the moon lights up the sky, lightning strikes with power, fire dances wild. Find these six to win the lottery's child.",
+      "hint": "Look for: something you aim at, something that flies, something precious, something in the night sky, something that zaps, and something that burns"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
