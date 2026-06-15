@@ -26566,5 +26566,23 @@
       9,
       11
     ]
+  },
+  "sol_1209": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets infernal dance, and fortune's wheel spins beneath prismatic veil. The trickster's grin guards the threshold between earthbound flutter and scaled eternity, while melody weeps through crystalline mist. What six sentinels mark the lottery's secret path?",
+      "hint": "One rises nightly, one burns eternally, one deceives with laughter, one transforms through metamorphosis, one hoards ancient power, and one sings of sorrow."
+    },
+    "easyRiddle": {
+      "text": "Find: the night's bright guardian, the heat that consumes, the clever deceiver, the winged wanderer, the precious stone, and the mystical serpent.",
+      "hint": "Sky, fire, trickery, nature, wealth, and legend."
+    },
+    "answer": [
+      1,
+      5,
+      17,
+      7,
+      2,
+      13
+    ]
   }
 }
