@@ -26746,5 +26746,41 @@
       4,
       11
     ]
+  },
+  "sol_1216": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets fortune's wheel, a masked performer dances. The winged messenger ascends through prismatic breath, while fortune's gem gleams beneath the cosmic veil. Thunder's mark and destiny's circle converge—seek ye the six that blur the boundary between chaos and fate.",
+      "hint": "Look for: something that burns in sky, something that spins, something that flies and transforms, something precious, something electric, and something that masks truth"
+    },
+    "easyRiddle": {
+      "text": "I shine above at night, I strike with sudden fury, I transform in gardens, I spin for lucky souls, I wear a hidden face, and I glow with magic dust. What are we six?",
+      "hint": "Moon, Lightning, Butterfly, Dice, Joker, Sparkles"
+    },
+    "answer": [
+      1,
+      11,
+      8,
+      2,
+      5,
+      10
+    ]
+  },
+  "emlo_478": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gemstone glints under lunar glow, dancing through fortune's cosmic fire while butterflies waltz with stars—what am I?",
+      "hint": "Think of a memecoin's journey: propulsion, destination, value, and the magic that makes holders believe."
+    },
+    "easyRiddle": {
+      "text": "A coin goes 🚀 to the 🌙, sparkles ✨ with 💎 power, strikes like ⚡, and brings 🦋 fortune. What is this legendary token?",
+      "hint": "Combine the symbols in order: lift-off, destination, magic, treasure, speed, luck."
+    },
+    "answer": [
+      1,
+      3,
+      9,
+      2,
+      4,
+      8
+    ]
   }
 }
