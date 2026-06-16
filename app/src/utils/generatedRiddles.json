@@ -26818,5 +26818,41 @@
       9,
       10
     ]
+  },
+  "sol_1218": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a winged metamorphosis ascends through crackling celestial fire. The prism bends light into infinite arcs, while crystalline facets catch starfire's gleam. A masked performer grins from chaos, and the wild's cunning shadow dances where destiny trembles.",
+      "hint": "Six symbols of transformation, chaos, and cosmic destiny intertwine—seek the archer's mark, the phoenix's path, and those who dwell in the liminal spaces between fortune and fate."
+    },
+    "easyRiddle": {
+      "text": "I hold your aim, I fly so high, I sparkle bright within the sky. I wear a mask and grin with glee, a butterfly floats wild and free. A crystal shines with inner light, a fox prowls swift through endless night.",
+      "hint": "Find the target, rocket, sparkles, joker, butterfly, fox, and crystal."
+    },
+    "answer": [
+      0,
+      1,
+      10,
+      20,
+      8,
+      13
+    ]
+  },
+  "emlo_480": {
+    "hardRiddle": {
+      "text": "From the circus tent I escaped with diamond fire, riding the rocket's lightning to touch the moon's desire. Where fortune spins wild and gems ignite the sky, the joker's lucky clover makes diamonds multiply.",
+      "hint": "Think of a memecoin journey: start at a chaotic place, ride to the moon with speed and energy, land where luck meets gems, and find the trickster's fortune symbol."
+    },
+    "easyRiddle": {
+      "text": "I'm a wild show with flames and speed, a rocket to riches is what we need. Where a joker laughs and a clover brings luck, gems and diamonds are our truck!",
+      "hint": "Picture the memecoin dream: circus chaos, rocket moon shot, lucky symbols, and shiny rewards."
+    },
+    "answer": [
+      7,
+      1,
+      5,
+      3,
+      11,
+      19
+    ]
   }
 }
