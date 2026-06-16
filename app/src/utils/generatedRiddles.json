@@ -26782,5 +26782,41 @@
       4,
       8
     ]
+  },
+  "sol_1217": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's mask, six whispers converge: The archer's eye gleams with crystalline dreams, while the winged jester pirouettes through lightning's cathedral. A dragon coils beneath the moon's electric gaze, and the fox's fortune blooms where sparkles kiss the stage.",
+      "hint": "Listen to the chaos of luck—some are aimed, some are wild, some are crowned, and all are watched by the night sky."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: What is aimed but wild? What flies fast? What shines bright? What rules the night? What dances with electricity? What wears many faces?",
+      "hint": "Think of gambling, mythology, the sky, and performances."
+    },
+    "answer": [
+      0,
+      5,
+      21,
+      3,
+      14,
+      18
+    ]
+  },
+  "emlo_479": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with fiery passion, my gem gleams as lightning strikes, while the joker dances under sparkles and a rainbow appears, what fortune do I seek?",
+      "hint": "Think of a memecoin journey: destination, energy, value, luck, chaos, and beauty"
+    },
+    "easyRiddle": {
+      "text": "🎯 the goal, 🚀 the speed, 💎 the treasure, ⚡ the power, 🌈 the luck, ✨ the magic - what is the memecoin way?",
+      "hint": "Read the emojis in order from left to right"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      9,
+      10
+    ]
   }
 }
