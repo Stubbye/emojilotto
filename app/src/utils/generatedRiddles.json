@@ -26710,5 +26710,41 @@
       5,
       19
     ]
+  },
+  "sol_1215": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through crystalline fire. The jester's twin gleams beneath the aurora's silent symphony, while the scaled guardian watches over treasures that sing. Six tokens of destiny await those who see through the prism of chaos.",
+      "hint": "Look for the messenger of luck, the path upward, the frozen beauty, the burning chaos, the reflected light, and the keeper of ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "A target marks the way, a rocket seeks the sky, a gem catches the light, the moon guides the night, lightning strikes swift, and fire burns bright. Which six illuminate fortune's flight?",
+      "hint": "Consider things that glow, rise, sparkle, or strike. One marks accuracy, one climbs high, one shines precious, one rules darkness, one flashes quick, and one consumes."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_477": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, a gem-like treasure that sparkles when fortune strikes. Where rainbows meet crystal visions, magic ignites with every flip of chance.",
+      "hint": "Think of a memecoin's journey: destination, propulsion, value, celestial goal, power, and luck."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with a gem that sparkles! Lightning fast with a lucky chance - what six symbols fuel the rocket?",
+      "hint": "A memecoin needs: where to go, how to get there, what it's worth, where dreamers look, raw power, and pure luck."
+    },
+    "answer": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
