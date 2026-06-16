@@ -26854,5 +26854,23 @@
       11,
       19
     ]
+  },
+  "sol_1219": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six sentries guard the luminous space. The jester's grin reflects in crystalline depths, while wings of transformation dance with lightning's breath. A scaled keeper watches from ancient heights, as melody and victory converge in celestial nights.",
+      "hint": "Consider the dual nature of chance and destiny—one brings chaos, one brings order. Look for the trickster, the guardian, the musician, the champion, the transmuter, and the cosmic witness."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: a card player's laugh, a dragon's long watch, a musician's craft, lightning's bright flash, a butterfly's dance, and a prize to enhance.",
+      "hint": "Think of fun, power, music, electricity, transformation, and winning."
+    },
+    "answer": [
+      19,
+      13,
+      16,
+      4,
+      7,
+      17
+    ]
   }
 }
