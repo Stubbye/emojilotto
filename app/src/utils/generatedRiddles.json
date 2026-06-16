@@ -26872,5 +26872,23 @@
       7,
       17
     ]
+  },
+  "emlo_481": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while gems sparkle in electric chaos. Fortune spins wildly as my magic touches the moon, and fortune's jester dances through the cosmic fire.",
+      "hint": "Think of a memecoin's journey: speed, value, luck, destination, volatility, and humor"
+    },
+    "easyRiddle": {
+      "text": "A coin shoots up fast, shines bright, strikes with power, reaches the moon, burns hot, and makes you lucky",
+      "hint": "What are the 6 characteristics of a successful memecoin?"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      11
+    ]
   }
 }
