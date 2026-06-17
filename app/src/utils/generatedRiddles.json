@@ -26980,5 +26980,23 @@
       11,
       19
     ]
+  },
+  "sol_1224": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jester, six threads weave through chaos—the archer's dream meets the winged trickster's grin, while crystalline fortunes scatter like laughter upon luck's stage. What symbols bind the gambler's hope to the stars' eternal jest?",
+      "hint": "One points direction, one rules chance, one grins at folly, one glimmers from above, one ignites the soul, and one transforms in flight."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: a target's center, a rocket's thrust, a gem's sparkle, the moon's glow, lightning's strike, and a joker's laugh. Which six dance together in fortune's game?",
+      "hint": "Think of destiny, speed, wealth, night, power, and mischief combined."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
