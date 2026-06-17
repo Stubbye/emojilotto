@@ -27034,5 +27034,23 @@
       5,
       19
     ]
+  },
+  "sol_1226": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six sentinels of fortune align. The archer's mark pierces the void where Luna dwells, while Prometheus steals from the heavens. A gem catches starlight's whisper, and chance itself dances in crystalline form. The trickster's grin echoes where magic blooms eternal.",
+      "hint": "Seek the convergence of ambition, celestial bodies, precious matter, chaos, deception, and transformation."
+    },
+    "easyRiddle": {
+      "text": "Find the target of all dreamers, the rocket that soars, the gem that glimmers, the moon above, the lightning that strikes, and the joker who laughs.",
+      "hint": "Six symbols of luck: one aims, one flies, one shines, one glows, one crashes, one tricks."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
