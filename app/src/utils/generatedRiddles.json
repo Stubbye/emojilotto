@@ -26944,5 +26944,41 @@
       6,
       8
     ]
+  },
+  "sol_1223": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances through prismatic veils, a winged metamorphosis spirals past the archer's mark. The tempest's fury births illumination's kiss, while gemstone hearts reflect what mortals seek in darkness. Thunder's child and inferno's breath converge where crystalline dreams shatter into infinite luminescence.",
+      "hint": "Consider what transforms, what aims, what burns, what shines, what strikes, and what endures beyond the veil."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures: one aimed and true, one soars through night, one glimmers hard, one lights the sky with flash and might, one burns with ancient heat, and one sparkles like stardust dreams.",
+      "hint": "Think of arrows, space travel, jewels, electricity, fire, and magic."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      10
+    ]
+  },
+  "emlo_483": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while gems sparkle in my wake. Where fortune strikes like thunder, a jester dances under the glow. What six symbols mark the path of the memecoin's destiny?",
+      "hint": "Think of a rocket's journey: speed, treasure, timing, luck, and the destination where magic happens."
+    },
+    "easyRiddle": {
+      "text": "A fast 🚀 goes up to the 🌙 where 💎 shine bright. ⚡ strikes for quick gains, and a 🃏 brings the luck. What are these six?",
+      "hint": "One flies, one shines above, one is precious, one is fast energy, one is lucky, and one brings chaos and fun."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      11,
+      19
+    ]
   }
 }
