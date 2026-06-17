@@ -26890,5 +26890,23 @@
       5,
       11
     ]
+  },
+  "sol_1221": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin spirals, a winged metamorphosis ascends through prismatic tears. The jester's gleaming heart reflects what mortals chase across the velvet abyss, while fortune's six-faced oracle whispers to those who seek the crimson bull's eye.",
+      "hint": "Look for transformation, chance, and the hunter's mark among the heavens' treasures."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a bright explosion reaches skyward, a winged creature transforms, many colors paint the sky, a precious stone gleams, the night's guardian glows, and a game of chance awaits.",
+      "hint": "Think of lucky symbols: rockets, butterflies, rainbows, gems, the moon, and dice."
+    },
+    "answer": [
+      1,
+      8,
+      9,
+      2,
+      3,
+      11
+    ]
   }
 }
