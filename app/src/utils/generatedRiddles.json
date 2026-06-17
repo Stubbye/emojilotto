@@ -26908,5 +26908,41 @@
       3,
       11
     ]
+  },
+  "sol_1222": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's cruel jest, six mysteries entwine: the archer's eternal mark meets the void's silver throne, while nature's metamorphosis pirouettes with electricity's violent kiss, and the jester's painted mask grins at destiny's crystalline heart.",
+      "hint": "Think of transformation, chance, the heavens, performance, and what conducts both light and fate through the cosmos."
+    },
+    "easyRiddle": {
+      "text": "I am six: a cosmic archer's goal, the moon's pale glow, a butterfly's dance, lightning's bright strike, a joker's grin, and crystal's frozen light. What am I?",
+      "hint": "Look for: something aimed at, something in the night sky, something that transforms, something electric, something that laughs, and something that sparkles."
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      5,
+      19,
+      21
+    ]
+  },
+  "emlo_482": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkling with gem-like brilliance. My fire burns bright as lightning strikes, guided by fortune's dancing butterfly. What am I?",
+      "hint": "A memecoin journey needs momentum, precious value, speed, luck, and transformation"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ moves fast, 💎 is precious, 🌙 is high, 🔥 is hot, 🦋 transforms",
+      "hint": "Think of a crypto coin's moon shot adventure"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      6,
+      8
+    ]
   }
 }
