@@ -26998,5 +26998,41 @@
       4,
       19
     ]
+  },
+  "sol_1225": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound dreams, six sentinels convene in shadow's seam. The archer's mark meets skybound flame, while gemstone gleams through fortune's game. Winged metamorphosis twirls 'neath radiant arc, as chaos whispers from fortune's dark spark.",
+      "hint": "Seek the symbols of ambition, fire, precious things, transformation, chance, and cosmic light intertwined."
+    },
+    "easyRiddle": {
+      "text": "One aims for success, one burns bright and hot, one sparkles with value, one transforms in thought, one shows all colors, and one brings good fate.",
+      "hint": "Think of goals, heat, jewels, change, beauty, and luck."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      10,
+      21
+    ]
+  },
+  "emlo_484": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone treasure is all you need. Where fire meets fortune and luck takes flight, the joker spins under starlight.",
+      "hint": "Think of a memecoin's journey: propulsion, value, energy, destiny, chaos, and celestial luck."
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with a shiny stone, lightning fast and never alone. Under the stars where jesters play, fortune and fire light the way.",
+      "hint": "A memecoin needs speed, gems, electricity, stars, luck, and heat."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      21,
+      5,
+      19
+    ]
   }
 }
