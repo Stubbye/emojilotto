@@ -27052,5 +27052,41 @@
       4,
       11
     ]
+  },
+  "sol_1227": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's dark throne, a jeweled ascent through lightning's moan. The butterfly dances where flames ignite, while crystal tears fall through the starlit night. In this celestial waltz of chance, six tokens hold destiny's trance.",
+      "hint": "Seek the path of ambition meeting chaos, where transformation burns eternal."
+    },
+    "easyRiddle": {
+      "text": "An arrow flies to distant spheres of night, carrying gems that spark with electric light. Fire and ice dance with wings of grace, as crystals shimmer in this lucky place.",
+      "hint": "Think of upward journeys, precious stones, bright energy, and dancing creatures."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      21,
+      20
+    ]
+  },
+  "emlo_485": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving trails of brilliance. Where fortune sparkles and chaos dances, the jester's lucky charm glows beneath a rainbow of possibilities.",
+      "hint": "Think of a coin's journey from launch to lucky wins, with magical elements in between"
+    },
+    "easyRiddle": {
+      "text": "A coin blasts off with lightning power, reaches the glowing orb, sparkles with gems, followed by luck, magic tricks, and a colorful arc. What 6 symbols mark this memecoin adventure?",
+      "hint": "Rocket, moon, electricity, treasure, trickery, and colors"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      19,
+      9
+    ]
   }
 }
