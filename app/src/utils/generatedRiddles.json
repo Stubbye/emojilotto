@@ -27106,5 +27106,41 @@
       13,
       21
     ]
+  },
+  "sol_1229": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six whispers dance in shadow's appeal. The winged dancer pirouettes through fortune's gate, while the masked jester guards what mortals await. A gem catches starlight's eternal gleam, and the scaled guardian dreams the dreamer's dream. Fortune's arrow finds its mark in destiny's arc, where thunder births the spark that ignites the dark.",
+      "hint": "One flies without wings, one hides the truth, one shines with inner light, one guards ancient wisdom, one marks the target, and one is the voice of revelation."
+    },
+    "easyRiddle": {
+      "text": "Six signs of luck: a flying insect of transformation, a precious stone that catches light, the ruler of night skies, a scaled creature of legend, the electric moment of fate, and the archer's truest companion.",
+      "hint": "Think of nature's beauty, sky's mysteries, precious things, mythical beings, natural forces, and games of chance."
+    },
+    "answer": [
+      8,
+      21,
+      7,
+      13,
+      0,
+      4
+    ]
+  },
+  "emlo_486": {
+    "hardRiddle": {
+      "text": "A digital jester launched into the cosmic void, riding lightning through the celestial fire. Where gems sparkle eternally and fortune spins with the luck of a four-leaf charm, a mythical creature breathes through the rainbow of infinite possibilities.",
+      "hint": "Think of a memecoin's journey: the performer, the ascent, the energy, the treasure, the fortune mechanic, and the legendary mascot."
+    },
+    "easyRiddle": {
+      "text": "I make you laugh, I take you up fast, I give you power, I sparkle bright, I help you win, and I'm magical.",
+      "hint": "Pick the joker, rocket, lightning, sparkles, dice, and dragon."
+    },
+    "answer": [
+      19,
+      1,
+      4,
+      6,
+      11,
+      13
+    ]
   }
 }
