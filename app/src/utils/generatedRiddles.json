@@ -27088,5 +27088,23 @@
       19,
       9
     ]
+  },
+  "sol_1228": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, six tokens dance in chaos' game. The jester's grin guards fate's bright stone, while wings of transformation claim the throne. Lightning splits the velvet night, as crystalline dreams catch starlight.",
+      "hint": "Think of luck's instruments, celestial fires, and metamorphosis wrapped in precious brilliance."
+    },
+    "easyRiddle": {
+      "text": "I point to luck, I light the sky, I sparkle bright as fortunes fly. A fool laughs loud, a gem shines clear, and lightning strikes when fate draws near. Butterfly wings flutter through the cosmic game.",
+      "hint": "A target, flame, a joker's jest, a crystal's glow, and two more guests."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      12,
+      13,
+      21
+    ]
   }
 }
