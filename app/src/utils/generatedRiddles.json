@@ -27232,5 +27232,23 @@
       9,
       4
     ]
+  },
+  "sol_1233": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, six seekers waltz through dreams. The archer's mark meets the void's silver kiss, while chaos swirls in electric bliss. The jester's grin guards treasures untold, as nature's metamorphosis breaks the mold.",
+      "hint": "Think of cosmic destiny, chance, and transformation intertwined with performance and the hunt."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: one that aims true, one that flies high, one that shines bright, one that rules night, one that strikes fast, and one that transforms with wings.",
+      "hint": "A target, rocket, gem, moon, lightning, and butterfly."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
