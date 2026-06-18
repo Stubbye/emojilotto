@@ -27142,5 +27142,41 @@
       11,
       13
     ]
+  },
+  "sol_1230": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets frozen sphere, and crimson serpent dances with fortune's wheeled twin. Between them, transformation's winged herald spirals upward, while prismatic arc bends truth itself. Six tokens of fate converge: the bull's-eye of destiny, the ascending flame-chariot, the dragon's ancient wisdom, the crystalline promise, the butterfly's metamorphosis, and the spectrum's silent witness.",
+      "hint": "One strikes true, one reaches beyond, one guards hoards, one transforms, one reveals all colors, and one watches from above."
+    },
+    "easyRiddle": {
+      "text": "Find six lottery symbols: a target to hit, a rocket to fly, a magical gem to treasure, a ancient dragon to fear, a butterfly to transform, and a rainbow to chase.",
+      "hint": "Think of hitting goals, space travel, precious things, mythical creatures, nature's changes, and weather wonders."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      8,
+      9
+    ]
+  },
+  "emlo_487": {
+    "hardRiddle": {
+      "text": "I start from Earth with electric power, racing toward the celestial glow. My treasure sparkles with cosmic fire, guided by fortune's magic symbol. Where luck dances with celestial dreams, a jester's fortune unfolds.",
+      "hint": "Think of a journey to riches: speed, destination, value, chance, and trickery combined."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gem shines bright, moon glows high, sparkles dance, and joker laughs. Which six bring crypto fortune?",
+      "hint": "Count the objects mentioned in the riddle."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      19
+    ]
   }
 }
