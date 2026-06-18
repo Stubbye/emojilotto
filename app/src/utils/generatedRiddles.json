@@ -27250,5 +27250,23 @@
       4,
       8
     ]
+  },
+  "emlo_489": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights, my fuel burns bright with electric might. Gems crystallize my fortune's core, while fortune's jester guards the door. A dragon's fire lights my way, and butterflies dance in my display.",
+      "hint": "Think of a memecoin's journey: launch, wealth, luck, and transformation"
+    },
+    "easyRiddle": {
+      "text": "What flies up to the moon? What sparkles like treasure? What strikes with power? What brings good fortune? What breathes fire? What transforms in beauty?",
+      "hint": "Count the emojis: rocket, gem, lightning, joker, dragon, butterfly"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      7,
+      13,
+      8
+    ]
   }
 }
