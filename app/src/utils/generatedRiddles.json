@@ -27268,5 +27268,23 @@
       13,
       8
     ]
+  },
+  "sol_1235": {
+    "hardRiddle": {
+      "text": "Through celestial gates where fortune's arrow flies, a jeweled serpent coils beneath twin flames of chaos and light. Where music births prismatic dreams and nature's smallest dancer bows to the crown of victory, destiny's six whisper their secret: the masked jester's game holds the key to radiance eternal.",
+      "hint": "Seek the archer's mark, the scaled one from realms unknown, the glittering treasure, the inferno's kiss, the stringed voice of wonder, and the victor's reward."
+    },
+    "easyRiddle": {
+      "text": "A rocket launches toward a star, carrying a gem and a dragon through fire and lightning. What are these six symbols of luck?",
+      "hint": "One shoots to space, one shines overhead, one glows with value, one breathes flame, one strikes with power, one is mythical."
+    },
+    "answer": [
+      1,
+      13,
+      2,
+      5,
+      16,
+      17
+    ]
   }
 }
