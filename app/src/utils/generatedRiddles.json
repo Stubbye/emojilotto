@@ -27178,5 +27178,23 @@
       9,
       19
     ]
+  },
+  "sol_1231": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's maze, six sentinels of fortune dance. The winged harbinger ascends through crystalline tears, while fortune's twin spheres spin beneath the phoenix's crimson breath. Seek the archer's eternal mark where laughter blooms in prisms of chance.",
+      "hint": "One ascends skyward, one burns bright, one spins fate, one marks targets, one masks truth, one shimmers with possibility"
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this riddle: something that flies with wings, something that burns hot, something that glows in night sky, something you spin for luck, something that marks a bullseye, and something that sparkles with magic.",
+      "hint": "Think of butterflies, fire, the moon, dice, targets, and sparkles"
+    },
+    "answer": [
+      8,
+      6,
+      3,
+      11,
+      0,
+      10
+    ]
   }
 }
