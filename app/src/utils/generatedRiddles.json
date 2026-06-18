@@ -27196,5 +27196,41 @@
       0,
       10
     ]
+  },
+  "sol_1232": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and winged metamorphosis meets the jester's concealed masquerade. Six secrets hide: the archer's ambition pierces void, radiance crystallizes from depths unknown, the trickster grins behind painted faces, transformation ascends on gossamer wings, destiny spins with chaos, and stellar brilliance crowns the victor's throne.",
+      "hint": "One hunts precision, one laughs at fate, one ascends transformed, one glows eternal, one rules the stage, one marks the prize."
+    },
+    "easyRiddle": {
+      "text": "A target aims true, a rocket flies high, a gem shines bright, a jester plays tricks, a butterfly floats free, and a star lights the night. Which six dance together in fortune's sight?",
+      "hint": "Aim, soar, sparkle, laugh, flutter, shine."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      21
+    ]
+  },
+  "emlo_488": {
+    "hardRiddle": {
+      "text": "A jester's magic sparkles bright, launching dreams to lunar height. Dragons breathe their fiery might, while crystal rainbows catch the light. What six symbols mark this flight?",
+      "hint": "Think of a memecoin's journey: the entertainer, the ascent, the power, the beauty, the prize, and the luck."
+    },
+    "easyRiddle": {
+      "text": "Joker laughs, rocket soars, dragon roars, crystal shines, rainbow glows, and lightning strikes. These six bring the hype to crypto's heights!",
+      "hint": "Look for: a funny card character, a space vehicle, a mythical beast, a precious stone, a colorful arc, and a bolt of power."
+    },
+    "answer": [
+      11,
+      1,
+      13,
+      20,
+      9,
+      4
+    ]
   }
 }
