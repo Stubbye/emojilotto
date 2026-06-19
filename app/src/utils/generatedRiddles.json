@@ -27412,5 +27412,23 @@
       9,
       13
     ]
+  },
+  "sol_1240": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers of fate conspire in shadow's game. The jester's grin echoes through prisms of light, while scaled majesty guards the treasure of night. Winged metamorphosis pirouettes 'cross the veil, and nature's bloom whispers secrets the cards won't unveil.",
+      "hint": "Look for the hunter, the cosmic, the laughing deceiver, the mythic guardian, the transformed, and the earthly enchanter."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck dance together: the archer's mark, the night sky's eye, fortune's jester, the ancient dragon, the dancing butterfly, and the garden's gift. Which six grace the winning combination?",
+      "hint": "Target, moon, joker, dragon, butterfly, and flower are your companions."
+    },
+    "answer": [
+      0,
+      3,
+      18,
+      13,
+      8,
+      14
+    ]
   }
 }
