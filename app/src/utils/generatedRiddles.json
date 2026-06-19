@@ -27286,5 +27286,41 @@
       16,
       17
     ]
+  },
+  "sol_1236": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six vessels dance in chaos' choir. The jester's twin reflects the night's dark throne, while scaled ambition claims what gems have sown. Wings of metamorphosis kiss the electric veil, and luck's crystalline echo shall not fail.",
+      "hint": "One is aimed, one burns bright, one rules the cards, one dominates the sky, one transforms, one sparkles with destiny."
+    },
+    "easyRiddle": {
+      "text": "Find the target's mark, the rocket's flame, the joker's game, the dragon's claim, the butterfly's dance, and the crystal's gleam.",
+      "hint": "A goal, an explosion, a trickster, a beast, a flyer, and something transparent and hard."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      14,
+      8,
+      20
+    ]
+  },
+  "emlo_490": {
+    "hardRiddle": {
+      "text": "From the circus tent I leap with fire, riding lightning to the moon so higher. A gem-like sparkle marks my way, as the rocket takes me through the galaxy's display. What am I?",
+      "hint": "Think of a memecoin's wild journey to astronomical gains"
+    },
+    "easyRiddle": {
+      "text": "I have a gem that shines, a rocket that flies, lightning that strikes, fire that ignites, sparkles that gleam, and I reach for the moon. What am I?",
+      "hint": "These are the elements of a successful memecoin launch"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      10,
+      21
+    ]
   }
 }
