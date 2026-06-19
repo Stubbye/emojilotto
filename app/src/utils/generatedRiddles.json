@@ -27322,5 +27322,41 @@
       10,
       21
     ]
+  },
+  "sol_1237": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dome, a gemstone catches lightning's fleeting home. The dragon's fire ignites the jester's call, while masked emotions witness fortune's fall. Six secrets dance in chaos and in light—seek the symbols where destiny takes flight.",
+      "hint": "Think of luck, chance, performance, and the night sky's treasures."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the rocket reaching high, a sparkling gem beneath the starlit sky. Lightning strikes where the joker plays his part, and masks reveal what's hidden in the heart.",
+      "hint": "Look for games of chance, celestial wonders, and theatrical magic."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      12,
+      21
+    ]
+  },
+  "emlo_491": {
+    "hardRiddle": {
+      "text": "I ignite the masses with electric dreams, launching fortunes to celestial beams. Where chaos dances with fortune's gleam, and trickster wisdom fuels the meme. Brilliance sparkles in every bet, while luck strikes like a cosmic threat.",
+      "hint": "Think of volatility, luck, and astronomical gains in one wild ride"
+    },
+    "easyRiddle": {
+      "text": "🔥 burns bright, ⚡ strikes fast, 🎪 brings the show. 🚀 goes to the 🌙, where 💎 steal the glow!",
+      "hint": "One goes up, one shines, one entertains, one sparkles, and two are essential memecoin vibes"
+    },
+    "answer": [
+      5,
+      4,
+      6,
+      1,
+      3,
+      2
+    ]
   }
 }
