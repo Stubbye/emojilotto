@@ -27430,5 +27430,23 @@
       8,
       14
     ]
+  },
+  "sol_1243": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a scaled guardian ascends through prismatic arcs. Six threads weave: the wanderer's mark seeks the void's pale queen, while electricity births crystalized ecstasy beneath theatrical masks. What constellation of fate completes this cosmic masquerade?",
+      "hint": "Consider transformation, luck, and the meeting of earth and cosmos"
+    },
+    "easyRiddle": {
+      "text": "A fox and a dragon meet beneath the moon. Lightning strikes a crystal, revealing a gem. Six symbols of fortune dance together. Can you name them?",
+      "hint": "Look for: a sly animal, a mythical beast, a night guardian, electricity, a treasure, and a magical stone"
+    },
+    "answer": [
+      13,
+      14,
+      3,
+      4,
+      20,
+      2
+    ]
   }
 }
