@@ -27358,5 +27358,23 @@
       3,
       2
     ]
+  },
+  "sol_1238": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desires, six tokens whisper secrets through veils of cosmic fire. The archer's mark meets the chariot of ascension, while precious shards gleam beneath stellar tension. The winged metamorphosis twirls in electric embrace, as fortune's jester grins from shadow's grace.",
+      "hint": "Think of ambition, transformation, luck, and the price of dreams written in light and stone."
+    },
+    "easyRiddle": {
+      "text": "Find the target of all wishes, the rocket toward the sky, the gem that catches light, the moon's lonely sigh, the lightning's dance, and the joker's playful eye.",
+      "hint": "One is aimed, one flies high, one sparkles, one glows at night, one strikes fast, one tricks you."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
