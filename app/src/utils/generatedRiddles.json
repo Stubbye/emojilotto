@@ -27376,5 +27376,41 @@
       4,
       19
     ]
+  },
+  "sol_1239": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six ethereal whispers converge. The archer's mark meets the void's gaze, while electric serpents weave through crystalline dreams. A jester's grin masks the cardinal bloom, and wings of transformation scatter stardust upon the betting cloth. Seek what glimmers in the abyss between chaos and precision.",
+      "hint": "One reaches heavens, one sees all, one cuts deep, one sparks fate, one laughs in shadows, one transcends form"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: something you aim for, something that sparkles under night's watch, something precious and hard, something wild with teeth, something that blooms and grows, and something that brings joy to all.",
+      "hint": "Think of objects and creatures that bring fortune, beauty, and magical feeling"
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      13,
+      14,
+      20
+    ]
+  },
+  "emlo_492": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a glittering prize that makes diamond hearts bleed. Where luck strikes like fire and fortune takes flight, the joker's wild magic turns darkness to bright. Below sparkles dance as the dragon takes aim, in this circus of chaos, what fuels the game?",
+      "hint": "Think of what makes a memecoin moon, what draws the crowd, and what powers the dreams."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes down, 💎 shines bright in this token town. 🎪 brings the show, ✨ lights the way, 🐉 guards the treasure—what wins the day?",
+      "hint": "These six symbols represent the essential elements of a memecoin's journey to the moon."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      7,
+      9,
+      13
+    ]
   }
 }
