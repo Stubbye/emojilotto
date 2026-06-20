@@ -27610,5 +27610,23 @@
       5,
       7
     ]
+  },
+  "sol_1254": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers of fate converge. The archer's mark meets the void's glow, twin flames ignite in chaos's grand stage. A jester's grin reflects in crystal's frozen tear, while swift cunning treads where blooms dare not follow. What six seal destiny's cryptic song?",
+      "hint": "One aims true, one glows cold, one laughs, one shimmers, one performs, one hunts."
+    },
+    "easyRiddle": {
+      "text": "I am the mark you aim for, the moon watches from above, lightning strikes with fury, crystal shines pure and bright, the joker grins at the jest, and the fox prowls in shadow. Six symbols of luck and mystery—what am I?",
+      "hint": "Count the objects: target, moon, lightning, crystal, joker, fox."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      20,
+      19,
+      13
+    ]
   }
 }
