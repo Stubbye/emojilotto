@@ -27628,5 +27628,23 @@
       19,
       13
     ]
+  },
+  "sol_1255": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void, a gem ignites the cosmic dark. The winged dancer weaves through tempest's breath, whilst thunder births the spark. Six tokens dance in shadow's keep: one pierces fate's deep night, one glimmers truth in primal fire, one flutters free and bright, one crashes waves of silver light, one crowns the victor's sight.",
+      "hint": "Look for the archer's mark, the stone that burns, wings caught in storm, and what the champion earns"
+    },
+    "easyRiddle": {
+      "text": "I shoot straight and true at destiny. I shine like captured starlight. I dance on electric winds. Wings carry me through chaos. Waves crash where I dwell. Victory wears my metal.",
+      "hint": "Think of precision, brilliance, power, flight, water, and glory"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      23,
+      18
+    ]
   }
 }
