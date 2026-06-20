@@ -27502,5 +27502,23 @@
       0,
       17
     ]
+  },
+  "sol_1246": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's thread, six harbingers of fate dance betwixt chaos and light. The winged metamorphosis spirals through prismatic veils, while thunder's kiss ignites the jeweled sovereign's slumber. In this cosmic theatre of chance, the trickster's grin reflects eternity's facets.",
+      "hint": "Seek the intersection of aimed destiny, sleeping majesty, transformation, spectrum's arc, electrical chaos, and the precious crown of riddles."
+    },
+    "easyRiddle": {
+      "text": "I am something you aim for, a sleeping celestial body, a colorful arc after rain, a precious stone, electricity in the sky, and a creature that changes form. What six symbols represent the lottery's secret?",
+      "hint": "Think of a target, the moon, a rainbow, a gem, lightning, and a butterfly."
+    },
+    "answer": [
+      0,
+      3,
+      9,
+      2,
+      4,
+      8
+    ]
   }
 }
