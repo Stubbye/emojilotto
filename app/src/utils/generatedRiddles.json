@@ -27466,5 +27466,41 @@
       5,
       11
     ]
+  },
+  "sol_1245": {
+    "hardRiddle": {
+      "text": "Where celestial fire waltzes with fortune's masked jester, six seekers converge: the archer's eternal mark meets the winged metamorphosis of twilight, while crystalline tears of the heavens dance with the serpent's ancient wisdom, all bound by the trembling voltage of fate's cruel jest and the spectrum born from storms.",
+      "hint": "One guides aim, one transforms, one rules the sky, one sparkles frozen, one strikes with chaos, one coils with power."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of chance: a target for dreamers, a butterfly of change, the moon watching over, lightning's quick strike, a dragon's great power, and the fire of fortune burning bright.",
+      "hint": "Think of things that shimmer, transform, strike, coil, aim, and inspire in games of luck."
+    },
+    "answer": [
+      0,
+      8,
+      3,
+      5,
+      13,
+      1
+    ]
+  },
+  "emlo_494": {
+    "hardRiddle": {
+      "text": "To the moon we ride with lightning speed, through fire and gems our fortunes breed. The joker dances where sparkles gleam, a trophy awaits the diamond dream.",
+      "hint": "Think of a memecoin's journey: destination, energy, wealth, luck, celebration, and reward."
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts through fire to reach the moon, where gems and sparkles make us swoon. The joker brings us fortune and a trophy soon!",
+      "hint": "Count the emojis: launch, heat, destination, treasure, magic, and victory."
+    },
+    "answer": [
+      1,
+      5,
+      3,
+      10,
+      0,
+      17
+    ]
   }
 }
