@@ -27556,5 +27556,23 @@
       19,
       17
     ]
+  },
+  "sol_1251": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the weaver's ancient dance, six sentinels of fate converge in cosmic trance. The jester's grin adorns the threshold of the night, while scaled majesty guards treasures burning bright. A crystalline heart reflects what mortals chase, and winged metamorphosis completes this sacred space.",
+      "hint": "One rules the stage with laughter, one commands the stars above, one transforms in silent grace, one breathes infernal love."
+    },
+    "easyRiddle": {
+      "text": "I point the way with deadly aim, a creature laughs at fortune's game, a dragon vast and fire's flame, a butterfly seeks gentle fame, a star that shines without a name, and crystal keeps its timeless claim.",
+      "hint": "Look for weapons, jesters, mythical beasts, transformation, the heavens, and precious stones."
+    },
+    "answer": [
+      0,
+      19,
+      13,
+      8,
+      21,
+      20
+    ]
   }
 }
