@@ -27448,5 +27448,23 @@
       20,
       2
     ]
+  },
+  "sol_1244": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six dancers twirl in chaos' space. The jester's grin through prism'd night, while scaled serpent guards the crystalline light. Winged kin spirals through arcs of chance, as thunder's tongue ignites the trance.",
+      "hint": "Think of luck's symbols across realms: aim, the cosmos, madness, fire's kiss, evolution's flight, and fortune's voice."
+    },
+    "easyRiddle": {
+      "text": "Six signs of luck: one aims true, one laughs in masks, one soars with wings, one breathes in scales, one sparks with sound, and one strikes fast.",
+      "hint": "Target, Joker, Butterfly, Dragon, Lightning, and one more from games of chance."
+    },
+    "answer": [
+      0,
+      12,
+      8,
+      14,
+      5,
+      11
+    ]
   }
 }
