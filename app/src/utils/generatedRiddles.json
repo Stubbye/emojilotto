@@ -27574,5 +27574,41 @@
       21,
       20
     ]
+  },
+  "sol_1253": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and winged metamorphosis meets the jester's concealed appeal. The marksman's eternal circle witnesses lightning's bright call, while crystalline dreams sparkle above the chaos of it all.",
+      "hint": "Seek the symbols of chance, transformation, destiny, and spectral brilliance in the heavens and on the stage."
+    },
+    "easyRiddle": {
+      "text": "Six treasures of luck: one glows in night's embrace, one strikes with electric grace, one spins the wheel of fate, one transforms wings of state, one laughs behind masked gate, one shines in crystal state.",
+      "hint": "Think of the moon, lightning, dice, butterfly, joker, and sparkles."
+    },
+    "answer": [
+      3,
+      4,
+      11,
+      8,
+      19,
+      10
+    ]
+  },
+  "emlo_497": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my precious cargo gleaming bright. Where fortunes spark and lightning strikes, chaos dances with cosmic might. Six symbols reveal a memecoin's flight through carnival madness and nocturnal delight.",
+      "hint": "Think of a token's journey: propulsion, destination, value, energy, spectacle, and luck."
+    },
+    "easyRiddle": {
+      "text": "A coin blasts off with a gem so fine, lightning fast under the moon so divine. Fire and fun in a circus so grand, where dragons of fortune help dreamers stand.",
+      "hint": "Count the emojis: rocket, gem, lightning, moon, fire, circus, and dragon."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
   }
 }
