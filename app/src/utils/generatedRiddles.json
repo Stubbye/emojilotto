@@ -27538,5 +27538,23 @@
       11,
       17
     ]
+  },
+  "sol_1249": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels guard the liminal trance. The archer's mark ascends through void, while jeweled breath ignites what fate deployed. Swift-winged mirrors of metamorphosis spiral past electric tempests, as masked revelry crowns the victor's phosphorescent genesis.",
+      "hint": "Seek the symbols of ambition, transformation, chaos, luck, celebration, and victory intertwined"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny: the bullseye climbs, the gem gleams bright, lightning crackles wild, the butterfly transforms, the joker grins, and the trophy shines eternal.",
+      "hint": "Think of targets, wealth, storms, change, trickery, and triumph"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      19,
+      17
+    ]
   }
 }
