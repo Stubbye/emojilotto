@@ -27520,5 +27520,23 @@
       4,
       8
     ]
+  },
+  "emlo_495": {
+    "hardRiddle": {
+      "text": "A jester's gamble beneath the night sky, where fortune's bolt ignites the climb. Gems sparkle as wings dance through prismatic arcs, while a cunning beast guards the treasure of champions.",
+      "hint": "Think of memes, luck, and the journey to wealth in crypto."
+    },
+    "easyRiddle": {
+      "text": "I have a joker, lightning, and gems. Add the moon, a rocket, and a trophy. What am I?",
+      "hint": "These are the symbols of a lucky crypto game."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      11,
+      17
+    ]
   }
 }
