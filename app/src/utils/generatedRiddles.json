@@ -27646,5 +27646,41 @@
       23,
       18
     ]
+  },
+  "sol_1256": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil between earthbound dreams and celestial fire, a jester's twin masks mock the seeker who dances with scaled wisdom through nature's prismatic arc. Six secrets hide: the mark of aim, the vessel of ascent, the heart's crystalline treasure, the night's silent witness, the sky's wrathful tongue, and the trickster's grinning face.",
+      "hint": "One shows direction, one defies gravity, one gleams with worth, one watches from above, one strikes with fury, one wears two faces."
+    },
+    "easyRiddle": {
+      "text": "I am a target's bullseye, a rocket's ambition, a gem's radiance, a moon's gaze, lightning's fury, and a joker's deception. What six do I represent?",
+      "hint": "Think of objects that appear in games of chance: something you aim at, something that flies, something precious, something in the night sky, something dangerous, and something that tricks."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_498": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, seeking precious treasures that make hearts bleed. When fortune strikes like thunder from above, I sparkle with magic that crypto lovers love. A trickster's grin guides those who dare, while nature's flutter dances through the air.",
+      "hint": "Think of the ultimate memecoin journey: the destination, the speed, the riches, the luck, the showman, and the transformation."
+    },
+    "easyRiddle": {
+      "text": "🎯 Where you aim, 🚀 how you get there, 💎 what you seek, ⚡ the power you feel, 🃏 who leads the way, 🦋 what you become.",
+      "hint": "These six elements describe a memecoin hodler's adventure to the moon and beyond."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      8
+    ]
   }
 }
