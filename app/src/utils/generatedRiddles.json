@@ -27682,5 +27682,41 @@
       11,
       8
     ]
+  },
+  "sol_1257": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial flame, six dancers twirl in destiny's game. The jester's grin precedes the strike, as gems ignite in purple's might. Through chaos spins the spiral bright, while scaled guardian claims the night.",
+      "hint": "Look for the court fool, the storm's wrath, precious stones, twilight's hue, chance's tool, and ancient power"
+    },
+    "easyRiddle": {
+      "text": "A fool laughs, thunder cracks the sky, jewels shine in purple dye. A dragon roars, a wheel spins free, what six things shall lottery be?",
+      "hint": "One is silly, one is loud, one is shiny, one is rare, one is mythical, one determines fate"
+    },
+    "answer": [
+      13,
+      4,
+      2,
+      11,
+      19,
+      8
+    ]
+  },
+  "emlo_499": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem-filled rocket is my creed. Through fire and sparkles I ascend, where dragons guard the rainbow's end. What six celestial symbols blend?",
+      "hint": "Think of a memecoin's journey to the stars, combining speed, wealth, and magical creatures."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past the moon so bright, with gems and sparkles shining light. Dragon magic and fire ignite. Which six emojis make this flight?",
+      "hint": "Space travel meets cryptocurrency dreams with treasures and mythical power."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      14,
+      10
+    ]
   }
 }
