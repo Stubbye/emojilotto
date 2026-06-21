@@ -27790,5 +27790,41 @@
       18,
       20
     ]
+  },
+  "sol_1262": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through crystalline corridors. The jester's thunder ignites the prism's seven whispers, while gemstones weep in chambers of eternal flame. Six tokens of destiny converge where the butterfly kisses the face of masked eternity.",
+      "hint": "Seek the symbols of chance, celestial bodies, and theatrical spectacle. One burns, one shines with inner light, one dances on wings."
+    },
+    "easyRiddle": {
+      "text": "I contain the archer's aim, the night sky's guardian, a valuable stone, a spark of power, a joyful insect, and the drama of performance. Together we reveal the lottery's secret.",
+      "hint": "Think of luck, nature's beauty, precious things, and entertainment."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      11,
+      21,
+      19
+    ]
+  },
+  "emlo_501": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkle as I ride the cosmic wave to fortune's fire. What six symbols mark my journey to legendary gains?",
+      "hint": "One symbol appears twice in this moon-bound adventure of wealth and electricity."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots toward the moon, lightning strikes for speed, fire burns bright, gems shine, sparkles dazzle, and a star guides the way. Name these six symbols of crypto dreams.",
+      "hint": "Look for the path: up, fast, hot, shiny, magical, and bright."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      9,
+      21
+    ]
   }
 }
