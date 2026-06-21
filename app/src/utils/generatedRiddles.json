@@ -27718,5 +27718,41 @@
       14,
       10
     ]
+  },
+  "sol_1259": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of destiny convene. The celestial guardian weeps silver tears upon the trickster's grin, while the scaled leviathan coils beneath a symphony of chromatic arcs. In this nexus, the winged metamorphosis dances with the jeweled heart of eternity's promise.",
+      "hint": "Seek the intersection of chaos and fate; one brings laughter, one brings light, one brings wings, one brings color, one brings treasure, one brings thunder."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of the lucky draw: a cosmic jester grins, a dragon dreams in gold, a butterfly takes flight, a rainbow bridges hope, a gem glimmers bright, and lightning strikes with fortune's might.",
+      "hint": "Look for: the trickster, the beast, the flyer, the spectrum, the precious stone, and the bolt."
+    },
+    "answer": [
+      19,
+      13,
+      8,
+      9,
+      5,
+      4
+    ]
+  },
+  "emlo_500": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with fiery ambition, sparkling with electric energy. A mystical gem guides my path while fortune's dice roll beneath the rainbow's spectrum. What treasures light my way?",
+      "hint": "Think of a memecoin's journey: explosive growth, magical potential, luck, and the promise of reaching new heights"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with ⚡ speed, our 💎 shines bright with ✨ gleam, 🚀 propels us through the 🌈",
+      "hint": "These are the symbols of crypto dreams and memecoin culture"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      10,
+      3,
+      9
+    ]
   }
 }
