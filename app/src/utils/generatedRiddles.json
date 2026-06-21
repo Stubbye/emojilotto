@@ -27754,5 +27754,23 @@
       3,
       9
     ]
+  },
+  "sol_1260": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jester, a masked gemstone spins beneath the endless night. The archer's mark meets chaos, while crystal wings flutter through prismatic sorrow, seeking what glimmers beyond the veil of chance itself.",
+      "hint": "Consider what sparkles, what spins, what guides, what hides, what flies, and what shines in the darkness."
+    },
+    "easyRiddle": {
+      "text": "Find the target that glows, the lightning that strikes fortune, the gem that holds power, the jester who mocks fate, the butterfly escaping darkness, and the crystal that never lies.",
+      "hint": "One points, one strikes, one shines, one plays tricks, one transforms, one reflects truth."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      8,
+      21
+    ]
   }
 }
