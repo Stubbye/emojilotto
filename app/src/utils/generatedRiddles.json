@@ -27772,5 +27772,23 @@
       8,
       21
     ]
+  },
+  "sol_1261": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate converge in sight. A winged dancer courts the crescent's glow, while lightning's tongue and phoenix's breath below. The jester's mask conceals what crystals know—in celestial fire, destiny's riddle flows.",
+      "hint": "Seek the intersection of sky, chaos, illusion, and rebirth. One brings luck, one brings light, one brings laughter."
+    },
+    "easyRiddle": {
+      "text": "I strike with electricity, I shine like a jewel, the moon watches over me, a joker plays the fool. A butterfly dances near crystal's gleam, and fire burns bright in this lucky dream.",
+      "hint": "Count six things that sparkle, laugh, or strike in the night sky and magical places."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      12,
+      18,
+      20
+    ]
   }
 }
