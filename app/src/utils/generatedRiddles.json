@@ -27826,5 +27826,23 @@
       9,
       21
     ]
+  },
+  "sol_1263": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets crystalline truth. Six vessels of destiny converge: the archer's eternal mark, the serpent's ancient throne, the spark that cleaves the veil, the gemstone's whispered secrets, the jester's masked carnival, and the fortune's numbered bones.",
+      "hint": "Look for the hunter, the mythical king, the electric rift, the precious stone, the performer in disguise, and the gambler's tools."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: something you aim at, something that rules the sky, something that sparkles with value, something that strikes with power, something worn by a fool, and something used to decide fate.",
+      "hint": "Think of archery, royalty, wealth, storms, entertainment, and games of chance."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      2,
+      18,
+      11
+    ]
   }
 }
