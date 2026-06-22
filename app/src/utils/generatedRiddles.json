@@ -27916,5 +27916,23 @@
       21,
       4
     ]
+  },
+  "emlo_505": {
+    "hardRiddle": {
+      "text": "A celestial jester rides lightning through the cosmos, leaving sparkles and fire in their wake. When fortune smiles, gems and trophies await at the destination. What six symbols mark this memecoin's wild journey?",
+      "hint": "Think of a chaotic but lucky path to wealth, involving a cosmic performer and valuable rewards."
+    },
+    "easyRiddle": {
+      "text": "A funny character zooms up with magic and flames, creating dazzling light. Victory and precious stones are at the top. Pick the six emoji that show this fun crypto adventure!",
+      "hint": "One emoji is a jester, one zooms up fast, and there are shiny things involved."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      19,
+      17,
+      21
+    ]
   }
 }
