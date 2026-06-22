@@ -27844,5 +27844,23 @@
       18,
       11
     ]
+  },
+  "sol_1265": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six portals dance in chaos' game. The jester's grin eclipses dawn, while scales of fate tip balance drawn. Through prismed prism, wings ascend—where spectrum bends and fractured ends, twin sparks ignite the void's dark stage, as destiny rewrites each page.",
+      "hint": "Seek the marksman's prize, the sky's own fire, the fool's cruel smile, the wheel of desire, the butterfly's freedom, and light's scattered tears."
+    },
+    "easyRiddle": {
+      "text": "I am six wishes written in the night: a target for your dreams, a rocket soaring bright, a gem of purest light, the joker's playful might, a butterfly in flight, and lightning's sparkling sight.",
+      "hint": "Target, rocket, gem, joker, butterfly, and lightning—each represents a path to winning fortune."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      4
+    ]
   }
 }
