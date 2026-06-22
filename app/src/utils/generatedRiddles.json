@@ -27862,5 +27862,23 @@
       8,
       4
     ]
+  },
+  "emlo_503": {
+    "hardRiddle": {
+      "text": "I launch to the 🌙 with electric ⚡ speed, a 💎 of fortune that makes hodlers greed. Where jesters 🃏 dance in circles of flame 🔥, and lucky 🍀 brings wealth to this memecoin game.",
+      "hint": "Think of a moon mission powered by chaos and luck"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, diamond shines bright, lightning strikes fast in the meme-coin night. Moon is the goal, fire burns hot, clover brings luck to this lucky shot!",
+      "hint": "Count the 6 things mentioned in the riddle"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      19,
+      22
+    ]
   }
 }
