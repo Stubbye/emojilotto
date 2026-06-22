@@ -27952,5 +27952,41 @@
       0,
       4
     ]
+  },
+  "sol_1270": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six keepers of fate dance in shadow's game. The emerald's whisper calls to winged transformation, while thunder's kiss echoes through spiral duration. The masked reveler grins at destiny's door, as crimson chaos devours all before.",
+      "hint": "Look to the sky, the stage, the stone, the speed, the smile, and the inferno"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: a mark you must hit, a precious green stone, a night's glowing gift, lightning so quick, a butterfly's flight, a jester who laughs, and fire burning bright.",
+      "hint": "Think of targets, gems, the moon, speed, transformation, laughter, and heat"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      6
+    ]
+  },
+  "emlo_506": {
+    "hardRiddle": {
+      "text": "I launch with speed through cosmic heights, my gem shines bright with electric lights. When fire meets the joker's grin, lightning strikes and we all win. The dragon roars beneath the moon, while sparkles dance a memecoin tune.",
+      "hint": "Think of a volatile journey to the moon with flashy rewards"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, ⚡ strikes fast, 🔮 glows light, 🌙 watches high, 🐉 guards the prize - what 6 emojis make a memecoin rise?",
+      "hint": "Look for things that are shiny, fast, and lunar-related"
+    },
+    "answer": [
+      1,
+      5,
+      4,
+      20,
+      3,
+      13
+    ]
   }
 }
