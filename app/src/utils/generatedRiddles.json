@@ -27934,5 +27934,23 @@
       17,
       21
     ]
+  },
+  "sol_1269": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound desire, six keepers of fate dance in shadow's attire. The jester's twin grins at fortune's cruel spin, while scaled majesty guards what glitters within. Swift-footed deceiver and winged metamorphosis waltz through the void where destiny's chrysalis breaks, and fortune's electric kiss strikes where the dreamer awakes.",
+      "hint": "Seek the trickster, the ancient wyrm, the thief in velvet, the transformation of souls, the archer's mark, and the bolt that divides sky from stone."
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols hide within this rhyme: a prankster of cards, a serpent sublime, a creature of cunning with russet-hued fur, where targets are hit and lightning does blur, and magic transforms on gossamer wing—what lottery treasures shall fortune bring?",
+      "hint": "Think of playing cards, mythical beasts, sly animals, nature's transformations, aims, and storms."
+    },
+    "answer": [
+      19,
+      13,
+      12,
+      8,
+      0,
+      4
+    ]
   }
 }
