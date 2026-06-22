@@ -27880,5 +27880,41 @@
       19,
       22
     ]
+  },
+  "sol_1267": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six vessels of fate converge. The archer's aim meets the heavens' gaze, while molten chaos waltzes with the jester's grin. Between the scaled guardian and nature's delicate veil, destiny spins on crystalline edges. Seek where ambition ignites, where madness laughs, where power slumbers coiled, where petals tremble, where fortune's jewels gleam eternal, and where the cosmic sentinel watches all.",
+      "hint": "Look for: a target, rocket, gem, moon, lightning, dragon, joker, fire, butterfly, flower, crystal, and star - but only six hold your answer"
+    },
+    "easyRiddle": {
+      "text": "Six symbols unlock the vault of stars: The seeker's mark that never misses its aim, the vessel that pierces the night sky, the precious stone that catches all light, the celestial watcher above, the fierce beast coiled in shadow, and nature's smallest dancer on trembling wings.",
+      "hint": "Think of: something you aim at, something that flies upward, something shiny, something in the night sky, something mythical and powerful, and something with colorful wings"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      8
+    ]
+  },
+  "emlo_504": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins with cosmic dreams, where electric fortune meets celestial beams. Gemstones dance in purple flames, as the winged messenger claims their gains. One symbol grants all wishes under starlight, completing the trifecta of memecoin might.",
+      "hint": "Think of chaos, wealth, magic, flight, electricity, and luck combined in the crypto sky."
+    },
+    "easyRiddle": {
+      "text": "🎪 Spin the wheel of memes and magic! 🎲 Find the joker's lucky charm 🍀, where purple dreams 💜 and rocket ships 🚀 meet lightning strikes ⚡ and twinkling stars ⭐.",
+      "hint": "Six emojis: one for spinning games, one for wishes, one for luck, one for dreams, one for speed, and one for electricity."
+    },
+    "answer": [
+      1,
+      11,
+      19,
+      6,
+      21,
+      4
+    ]
   }
 }
