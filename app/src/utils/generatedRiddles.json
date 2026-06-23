@@ -28096,5 +28096,23 @@
       5,
       9
     ]
+  },
+  "emlo_509": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, burning bright as a precious stone. Lady fortune spins her wheel while magic sparkles around my glowing destination, where mystical power crackles through the void.",
+      "hint": "Think of a memecoin's journey: where it goes, what propels it, and the energy surrounding its rise."
+    },
+    "easyRiddle": {
+      "text": "A fast-moving object shoots upward toward a bright sphere. Lightning bolts strike around precious gems that shimmer with sparkles.",
+      "hint": "Common memecoin dream: going up fast with lots of energy and treasure."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      0,
+      9
+    ]
   }
 }
