@@ -27988,5 +27988,23 @@
       3,
       13
     ]
+  },
+  "sol_1271": {
+    "hardRiddle": {
+      "text": "Through celestial void where fortune's archer aims, a winged messenger ascends past Luna's ancient games. Where crystalline dreams ignite in electric storms, and scaled eternity dances through prismatic forms. What six celestial witnesses mark destiny's gleaming path?",
+      "hint": "One flies, one burns bright, one shines eternal, one conducts power, one sparkles with purity, and one rules the sky with ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "Find the night guardian, the messenger of speed, the jeweled treasure, the electric bolt, the shimmering dust, and the ancient serpent of fortune.",
+      "hint": "Look for: something lunar, something fast, something precious, something shocking, something magical, and something mythical."
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      4,
+      10,
+      13
+    ]
   }
 }
