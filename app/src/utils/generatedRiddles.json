@@ -28042,5 +28042,23 @@
       11,
       8
     ]
+  },
+  "sol_1273": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and twin flames dance through prismatic haze. The jester's grin beneath celestial fire, while nature's winged muse ascends yet higher. Six secrets rest in chaos' numbered throne, where crystal melodies and thunder's groan entwine with magic's ancient, sacred stone.",
+      "hint": "Consider the hunter, the night, the trickster, the inferno, the metamorphosis, and the cosmic sparkle."
+    },
+    "easyRiddle": {
+      "text": "I aim with precision, I illuminate the night, I spark with chaos, I shimmer with delight. Find the laughing one, the one who transforms, and the one who blazes through all storms.",
+      "hint": "Targeting, laughing, fluttering, burning, shining above, and dancing with electricity."
+    },
+    "answer": [
+      0,
+      3,
+      7,
+      5,
+      9,
+      4
+    ]
   }
 }
