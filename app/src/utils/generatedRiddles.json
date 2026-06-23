@@ -28114,5 +28114,23 @@
       0,
       9
     ]
+  },
+  "sol_1277": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six sentinels guard destiny's face. The celestial orb witnesses theft of light, while chaos dances in electric night. A scaled guardian hoards brilliance untold, and nature's winged wanderer seeks gold. Through prisms bent, the musician plays; a crown awaits through fortune's maze.",
+      "hint": "Seek where aim, darkness, electricity, treasure, metamorphosis, and victory converge in cosmic theater."
+    },
+    "easyRiddle": {
+      "text": "I point the way to lucky dreams, a rocket soars through moonlit beams. Lightning strikes with brilliant fire, while gems and butterflies climb higher. The victor's prize shines crystal clear—which six shall bless the lottery here?",
+      "hint": "Find: the archer's tool, the night sphere, electricity's fury, precious stone, nature's flyer, and success's symbol."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      18
+    ]
   }
 }
