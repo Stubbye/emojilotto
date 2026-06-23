@@ -28060,5 +28060,23 @@
       9,
       4
     ]
+  },
+  "emlo_508": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with blazing speed, my gem-like value sparks with electric need. Fortune's jester dances where I ignite, under a crystal dome of starry light. What six treasures guide the memecoin's flight?",
+      "hint": "Think of launch momentum, precious rewards, and lucky chaos in the crypto sky"
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts toward 🌙 carrying 💎 that ⚡ strikes, while ✨ and 🎲 bring the lucky vibes. Which six emojis fuel the memecoin hype?",
+      "hint": "One goes to the moon, one sparkles, one strikes fast, one is lucky, and two are precious"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      11
+    ]
   }
 }
