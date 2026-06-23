@@ -28006,5 +28006,41 @@
       10,
       13
     ]
+  },
+  "sol_1272": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, through prisms of fortune I climb ever higher. The jester's grin beneath wings of night, as crystalline dreams ignite with lightning's might. Six treasures dance where chaos sings—count the symbols fate brings.",
+      "hint": "Look for: a marksman's goal, ascending flame, a trickster's smile, nocturnal beams, refracted light, and electricity's dance"
+    },
+    "easyRiddle": {
+      "text": "A target glows, a rocket soars, a joker grins at destiny's doors. Lightning strikes the crystal's heart, while the moon completes this mystical art. What six symbols light the way?",
+      "hint": "Think: bullseye, launch, laughter, electricity, gemstone clarity, and night's guardian"
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      3,
+      20,
+      4
+    ]
+  },
+  "emlo_507": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault where fortunes crystallize under electric storms. Where jesters dance with fortune's sparks, and nature's transformation meets precious stones. What six symbols chart this moonbound voyage of chaos and metamorphosis?",
+      "hint": "Think of a memecoin journey: the launch, the destination, the gems, the electricity, the luck, and the rebirth."
+    },
+    "easyRiddle": {
+      "text": "A coin shoots up with lightning speed to reach the 💎 at the 🌙. Lucky jesters spark ✨ as butterflies transform. Which six emojis make this wild ride?",
+      "hint": "Start with the rocket going up, find the shiny thing, reach the destination, add electricity and luck, and spot the butterfly."
+    },
+    "answer": [
+      1,
+      3,
+      21,
+      4,
+      11,
+      8
+    ]
   }
 }
