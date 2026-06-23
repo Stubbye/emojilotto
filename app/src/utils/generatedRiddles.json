@@ -28078,5 +28078,23 @@
       9,
       11
     ]
+  },
+  "sol_1275": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial breath, and twin flames dance with fortune's death. A jester's grin below the gem's pure light, while nature's painted wings take flight. In chaos' bones and sky's electric weeping, destiny's secrets the rainbow keeps sleeping.",
+      "hint": "Look for the hunter, the night guardian, the stone of value, the fool's companion, the storm's fury, and the arc of hope."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck is drawn: a target aims, a joker yawns, a gem that gleams, a moon so bright, lightning cracks the night, and rainbow's light.",
+      "hint": "One is round and aimed, one is silly, one is precious, one is nocturnal, one is electric, one is colorful."
+    },
+    "answer": [
+      0,
+      12,
+      2,
+      3,
+      5,
+      9
+    ]
   }
 }
