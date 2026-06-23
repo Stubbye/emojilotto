@@ -28132,5 +28132,23 @@
       8,
       18
     ]
+  },
+  "emlo_510": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric might, my gem sparkles bright in the night. A dragon's fire fuels my flight, while jokers dance in my lightning light. What am I?",
+      "hint": "Think of a memecoin's journey to success with explosive energy and precious rewards."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes with all its might, fire burns hot, dragon roars strong, joker laughs along. Pick these six!",
+      "hint": "Look for the symbols of crypto chaos and celebration."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      12
+    ]
   }
 }
