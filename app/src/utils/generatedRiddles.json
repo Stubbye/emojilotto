@@ -28330,5 +28330,41 @@
       4,
       14
     ]
+  },
+  "sol_1288": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, six harbingers of fate pirouette through cosmic haze. The jester's twin flame dances with the jeweled crown, while winged metamorphosis and nature's fortune tumble down. Thunder's kiss ignites the prism born of storm, and in this hexad's waltz, luck takes mortal form.",
+      "hint": "One brings aim, one rules night, one glimmers with pride, one transforms, one strikes with fury, and one grants wishes thrice."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance await: a pointed goal, a celestial watcher, a precious stone, a winged dancer, a crackling force, and a masked trickster. Which six complete the circle of fortune?",
+      "hint": "Target, moon, gem, butterfly, lightning, and joker are the keepers of luck."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      4,
+      19
+    ]
+  },
+  "emlo_514": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, gem-like in value, shimmering with fortune's spark. My joker nature dances between fire and ice, guided by fortune's dice. What six symbols embody the memecoin dream?",
+      "hint": "Think of a coin's journey: its launch vehicle, its destination, its sparkle, its volatility, its luck, and its unpredictable nature."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up with a 🚀, reaches the 🌙, sparkles like a 💎, moves fast with ⚡, burns bright with 🔥, and relies on 🎰 for luck. Name these six!",
+      "hint": "Each emoji represents one key element of a memecoin's wild adventure."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      11
+    ]
   }
 }
