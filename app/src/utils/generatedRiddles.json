@@ -28294,5 +28294,23 @@
       4,
       17
     ]
+  },
+  "sol_1286": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six secrets hide in cosmic trance. The archer's mark aligns with night's pale gaze, while fortune's wheel spins through electric maze. A jeweled prism catches wings of grace, and masked performers bow in their sacred place.",
+      "hint": "Think of what rises at night, what spins for luck, what sparkles when light refracts, and what brings joy to crowds."
+    },
+    "easyRiddle": {
+      "text": "Find the glowing night orb, the streaking sky flame, the spinning luck wheel, the crystal that shines, the colorful arc, and the painted jester's game.",
+      "hint": "One lights night, one is hot, one is lucky, one is clear, one follows rain, one makes us laugh."
+    },
+    "answer": [
+      1,
+      5,
+      11,
+      20,
+      9,
+      18
+    ]
   }
 }
