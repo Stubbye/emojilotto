@@ -28150,5 +28150,23 @@
       13,
       12
     ]
+  },
+  "sol_1280": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets fortune's breath, six tokens dance betwixt life and death. The winged metamorphosis ascends through prismatic veil, while thunder's kiss ignites the cosmic tale. Jeweled brilliance crowns the jester's domain, and scaled majesty guards the arcane chain.",
+      "hint": "Seek the marksman's aim, the insect's grace, the storm's voice, the precious stone, the fool's grin, and the ancient beast."
+    },
+    "easyRiddle": {
+      "text": "A target marks the first way, a butterfly shows the second's play. Lightning strikes the third so bright, a gem shines fourth with inner light. The joker laughs as number five, while dragon's fire keeps luck alive.",
+      "hint": "Think of: aim, wings, electricity, treasure, cards, and scaled creatures."
+    },
+    "answer": [
+      0,
+      8,
+      4,
+      2,
+      19,
+      13
+    ]
   }
 }
