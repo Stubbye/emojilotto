@@ -28312,5 +28312,23 @@
       9,
       18
     ]
+  },
+  "sol_1287": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the beast of scales. Six secrets hide: the archer's mark where dreams ignite, the gem that crowns all wishes, the jester's mirror of madness, the serpent of eternal rebirth, the spark of destiny's touch, and the bloom of hidden truth.",
+      "hint": "One guides arrows, one grants wishes, one deceives, one transforms, one electrifies fate, one grows in darkness."
+    },
+    "easyRiddle": {
+      "text": "Six lucky tokens dance in shadow: a target's center glows, a gem sparkles bright, a joker laughs wickedly, a dragon coils ancient, lightning strikes swift, and a flower whispers secrets.",
+      "hint": "Find the mark, the treasure, the fool, the myth, the bolt, and the bloom."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      13,
+      4,
+      14
+    ]
   }
 }
