@@ -28204,5 +28204,23 @@
       10,
       20
     ]
+  },
+  "sol_1282": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets serpent's ancient flame, beneath Luna's gaze the jester's smile dares play. Six tokens dance in fortune's cryptic game: one pierces void with crystalline array, one coils with scales through prismatic display, one grins in masks where chaos reigns supreme, one bathes in silver's cold and distant gleam, one burns with heat where molten passions stay, one sparkles bright where magic finds its way.",
+      "hint": "Seek the winged trickster, the moon's pale throne, the fire-breather, the laughing card, the gem that sings, and the arrow's home."
+    },
+    "easyRiddle": {
+      "text": "I point at targets with precision true, a dragon breathes what burns right through, the jester plays where laughter's born, the moon shines bright on fortune's morn, a crystal gleams with inner light, and sparkles dance throughout the night.",
+      "hint": "Count six things: one that aims, one that's scaled, one that grins, one that glows pale, one that shines hard, one that twinkles."
+    },
+    "answer": [
+      0,
+      2,
+      9,
+      3,
+      20,
+      21
+    ]
   }
 }
