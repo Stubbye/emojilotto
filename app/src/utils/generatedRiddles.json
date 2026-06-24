@@ -28258,5 +28258,41 @@
       0,
       10
     ]
+  },
+  "sol_1285": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through celestial fire, six keepers of destiny dance in twilight's choir. The archer's mark gleams with inner light, while wings of transformation pierce the starless night. Thunder's child laughs masked in jest, as crystalline dreams settle in the beast's chest.",
+      "hint": "Seek the scaled guardian, the jester's grin, the gem's reflection, the nocturnal kin, the bolt's echo, and the marked destination."
+    },
+    "easyRiddle": {
+      "text": "I contain a dragon's wisdom, a joker's laugh, lightning's power, a star's glow, a gem's sparkle, and a target's center. Six treasures hidden in one dance of chance.",
+      "hint": "Look for: a mythical creature, a playing card character, electricity, night sky, precious stone, and something you aim at."
+    },
+    "answer": [
+      13,
+      19,
+      4,
+      21,
+      2,
+      0
+    ]
+  },
+  "emlo_513": {
+    "hardRiddle": {
+      "text": "A jester's gamble takes flight with electric speed, seeking treasure beyond the celestial sphere where magic sparkles ignite the journey to legendary riches.",
+      "hint": "Think of chaos, velocity, fortune, destiny, power, and celebration combined."
+    },
+    "easyRiddle": {
+      "text": "I'm a funny clown, I race upward fast, I shine like treasure, I glow in the night, I strike with power, and I celebrate victory. What am I?",
+      "hint": "Five different things that describe a moonshot lambo moment."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      17
+    ]
   }
 }
