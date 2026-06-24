@@ -28222,5 +28222,41 @@
       20,
       21
     ]
+  },
+  "sol_1283": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and celestial fire dances with the masked performer's grace. The winged metamorphosis spirals through gems of crystalline light, while the trickster's laughter echoes in the depth of night. Six whispers of destiny intertwine—seek the bullseye of ambition, the rocket's ascension, the jester's deception, the butterfly's resurrection, the dragon's ancient wisdom, and the star's eternal collision.",
+      "hint": "Think of transformation, trickery, and celestial ambitions—one leads upward, one deceives, one transforms, one rules the skies, one guides all seekers, and one marks the goal."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's perfect mark, the vessel of upward spark, the crowned deceiver's grin, the winged rebirth within, the serpent's scaled might, and the guide of every night. Together we dance where wishes take flight.",
+      "hint": "Target, Rocket, Joker, Butterfly, Dragon, Star"
+    },
+    "answer": [
+      "target",
+      "rocket",
+      "joker",
+      "butterfly",
+      "dragon",
+      "star"
+    ]
+  },
+  "emlo_512": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gems sparkle as I dance through fire and fortune. What six symbols represent my chaotic journey to wealth?",
+      "hint": "Think of the memecoin experience: propulsion, destination, treasure, energy, luck, and mystical chaos."
+    },
+    "easyRiddle": {
+      "text": "A coin goes 🚀 to the 🌙, collecting ✨ along the way. ⚡ strikes, 💎 shine bright. What are these six things?",
+      "hint": "Rocket, Moon, Sparkles, Lightning, and Gem are four of them. One more symbol represents luck or magic."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      0,
+      10
+    ]
   }
 }
