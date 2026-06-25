@@ -28546,5 +28546,23 @@
       3,
       11
     ]
+  },
+  "sol_1298": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic veils, the trickster's fortune spins beneath twin crescents. Seek the winged messenger who traces arcs of chance, while crystalline brilliance mirrors the jester's grin. Six symbols converge where fate's laughter echoes through spectrum and shadow.",
+      "hint": "One reflects light, one controls destiny, one entertains deception, one brings swift change, one transforms, one illuminates possibility."
+    },
+    "easyRiddle": {
+      "text": "Find the bright gem that sparkles at night, the quick fox with cunning might, the jester who wears a grin, the lightning that makes luck begin, the butterfly that dances free, and the star that all can see.",
+      "hint": "A precious stone, a clever animal, a card player, electricity, a flying insect, and a celestial body."
+    },
+    "answer": [
+      7,
+      13,
+      19,
+      4,
+      8,
+      21
+    ]
   }
 }
