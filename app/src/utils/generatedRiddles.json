@@ -28384,5 +28384,23 @@
       8,
       11
     ]
+  },
+  "sol_1291": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six keepers of destiny dance: the silver sentinel watches from above, while below the earth's treasures gleam in crystalline slumber. A winged metamorphosis bears the spectrum's kiss, and where electricity fractures the void, brilliance scatters like shattered starlight. The masked trickster grins, knowing all games return to chance's eternal wheel.",
+      "hint": "One guards from heaven, one glows from stone, one transforms beauty, one splits the sky, one sparkles eternal, one plays with fate"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await: a target's purpose, a rocket's ascent, a gem's worth, the moon's glow, lightning's flash, and sparkles divine. Which six shine brightest in fortune's game?",
+      "hint": "Look for: aim, flight, precious, night sky, electricity, and glitter"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
