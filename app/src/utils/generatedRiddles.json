@@ -28456,5 +28456,41 @@
       2,
       3
     ]
+  },
+  "sol_1294": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial flame, six tokens dance in destiny's game. The jester's grin guards twin crescents of night, while scaled wisdom breathes crystalline light. A symphony of chance and masked delight awaits the one who reads the stars aright.",
+      "hint": "Count the celestial bodies and creatures of legend, then add the instruments of fate and revelry."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that soar, the gem that gleams and the moon that pours, the dragon's wisdom and joker's play—six treasures reveal the winning way.",
+      "hint": "Look for objects that aim high, shine bright, rule kingdoms, and bring laughter."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      19
+    ]
+  },
+  "emlo_517": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gem sparkles with electric might. A jester's luck guides my flight through the cosmic circus of fortune, where dragons hoard treasures and rainbows bridge impossible gains.",
+      "hint": "A memecoin's journey requires speed, value, fortune, mystique, and beauty."
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! Fast like lightning, shining like gems, lucky like a joker, magical like a dragon, and beautiful like a rainbow.",
+      "hint": "Think of what makes a memecoin successful: destination, speed, value, luck, power, and beauty."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      14,
+      9,
+      13
+    ]
   }
 }
