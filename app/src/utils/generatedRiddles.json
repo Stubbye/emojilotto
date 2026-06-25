@@ -28510,5 +28510,41 @@
       0,
       19
     ]
+  },
+  "sol_1296": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate spin their ancient trance. The archer's mark gleams with prismatic song, while thunder's child and scaled majesty belong. A winged gossamer threads the veil between, and crystalline dreams of what might have been.",
+      "hint": "One guides from above, one strikes with wrath, one glimmers in stone, one soars the path."
+    },
+    "easyRiddle": {
+      "text": "A gem sparkles bright, lightning splits the sky, a dragon flies high, and magic won't lie. Find the target and crystal so clear, six treasures of luck are waiting right here.",
+      "hint": "Look for shiny things, powerful forces, mythical creatures, and things that shine."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      13,
+      8,
+      20
+    ]
+  },
+  "emlo_518": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights with cosmic speed, my gems sparkle as lightning strikes the fire of ambition, while fortune's wheel spins with electric energy—what celestial symbols guide the memecoin prophet?",
+      "hint": "Think of the journey from earth to wealth: propulsion, destination, treasure, weather, chance, and heat."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🔥 burns hot, 🌙 glows at night, 🎲 rolls for luck—which six bring crypto dreams?",
+      "hint": "A rocket, a gem, lightning, fire, the moon, and dice."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      3,
+      11
+    ]
   }
 }
