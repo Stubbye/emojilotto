@@ -28366,5 +28366,23 @@
       5,
       11
     ]
+  },
+  "sol_1289": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six secrets hide in shadow's trance. The archer's mark guides dancing light, while scales of chance spin through the night. A jeweled crown reflects what soars, where masked performers breach all doors. Through prisms bent and wings that gleam, the prize awaits in fortune's dream.",
+      "hint": "Look to the heavens, the stage, and the mystical arts of chance and transformation"
+    },
+    "easyRiddle": {
+      "text": "Six treasures in a cosmic show: a target bright, a gem that glows, a lightning bolt, a mask's disguise, a butterfly with starlit eyes, and dice that roll beneath the skies.",
+      "hint": "One is for aiming, one is precious, one strikes fast, one performs, one flies, and one decides your fate"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      19,
+      8,
+      11
+    ]
   }
 }
