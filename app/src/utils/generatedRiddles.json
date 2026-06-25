@@ -28402,5 +28402,41 @@
       4,
       10
     ]
+  },
+  "sol_1292": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six sentinels of fate converge. The archer's aim transcends the veil, a dragon's wings eclipse the prism'd glow, while trickster's grin and nature's twin dance 'cross electric echoes. Which symbols bind the lottery's secret heart?",
+      "hint": "One is aimed, one flies, one deceives, one sparkles, one transforms, one conducts."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide within: something you aim at, something that flies fast, something sparkly, something that tricks, something with wings, and something that shines bright. Can you name them?",
+      "hint": "Target, Rocket, Sparkles, Joker, Dragon, Star"
+    },
+    "answer": [
+      0,
+      1,
+      10,
+      17,
+      13,
+      21
+    ]
+  },
+  "emlo_516": {
+    "hardRiddle": {
+      "text": "From the ground I launch with speed, through the cosmos where dreams exceed. Bright gems sparkle as I ascend, where lightning strikes around the bend. Fortune dances with a jester's art, while flames ignite the rocket's start. What six symbols mark this memecoin's way, from earth to moon where profits play?",
+      "hint": "One lifts you up, one shines at night, one glows with power, one's burning bright, one brings good luck, one brings the jest."
+    },
+    "easyRiddle": {
+      "text": "I go up to the moon so high, with gems that sparkle in the sky. Lightning strikes, the fire's bright, and fortune's joker brings delight. Six lucky signs for those who dare to seek the gains beyond compare.",
+      "hint": "Think of launching to success: up↑ shine✨ power⚡ heat🔥 luck🍀 and fun🃏"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      19,
+      20
+    ]
   }
 }
