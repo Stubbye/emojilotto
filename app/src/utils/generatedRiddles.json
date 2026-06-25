@@ -28492,5 +28492,23 @@
       9,
       13
     ]
+  },
+  "sol_1295": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a jeweled serpent coils beneath the laughing masquerade. Lightning weaves through the prism of chance, while the night's silent sentinel watches all. Six symbols hold the key: one marks the center of fate's eternal aim, one pierces the void with ambition's flame, one glimmers with crystalline dreams, one rules the darkness with ancient wings, one splits the sky with electric fury, and one wears the mask of comedy's cruel grin.",
+      "hint": "Think of luck meeting destiny, chaos meeting order, earth meeting sky. One watches from above, one strikes from clouds, one hides in stone, one coils in mythology, one aims and guides, and one brings laughter to the game."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this lottery's call: a glowing stone from below, a flaming strike from above, a night keeper who orbits, a scaled ancient beast, a painted archer's aim, and the jester's grinning face. Which six dance together in fortune's embrace?",
+      "hint": "One is precious and hard, one is fast and hot, one is big and bright at night, one is scary and old, one is circular with an arrow, one is silly and laughs."
+    },
+    "answer": [
+      1,
+      5,
+      21,
+      13,
+      0,
+      19
+    ]
   }
 }
