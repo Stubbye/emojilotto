@@ -28438,5 +28438,23 @@
       19,
       20
     ]
+  },
+  "sol_1293": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's grin mirrors the gem's eternal gleam. Six symbols converge: the archer's silent vow meets the serpent's ancient wisdom, whilst the moth of transformation pirouettes through lightning's silver song. What constellation of fate shall pierce the veil between chaos and destiny?",
+      "hint": "Consider what rises in darkness, what speaks in riddles, what treasures are sought, and what transforms all it touches."
+    },
+    "easyRiddle": {
+      "text": "Six lucky tokens hide within this verse: A winged dancer of gardens bright, a serpent of scales and emerald might, a jester who laughs at fortune's cost, a flash that splits the sky, a precious stone that never dies, and the moon that guides the lost.",
+      "hint": "Look for: something that flies, something mythical, something that entertains, something electric, something shiny, and something celestial."
+    },
+    "answer": [
+      8,
+      13,
+      11,
+      4,
+      2,
+      3
+    ]
   }
 }
