@@ -28600,5 +28600,41 @@
       13,
       9
     ]
+  },
+  "sol_1300": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of destiny align. The archer's mark meets the messenger's flight, gemstones whisper to the nocturnal eye. Lightning's twin speaks in silent frequencies, while metamorphosis pirouettes between chaos and grace. Seek the number-bones of fate, the radiance of transformation's wings.",
+      "hint": "One hunts, one travels skyward, one gleams, one watches night, one strikes twice, one changes form."
+    },
+    "easyRiddle": {
+      "text": "Find the six treasures: what you aim at, what flies through space, what sparkles bright, what lights the dark sky, what strikes with power, and what has beautiful wings.",
+      "hint": "Think of: a bullseye, space travel, jewelry, astronomy, weather, and insects."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_520": {
+    "hardRiddle": {
+      "text": "A jester's gamble takes flight through cosmic fire, where fortune sparkles and luck strikes like lightning. Two paths diverge: one shimmers with purple gems, the other dances with rainbow waves. Which six treasures align when diamond dreams rocket to the moon?",
+      "hint": "Consider what every memecoin trader desires: luck, speed, wealth, destiny, volatility, and celebration."
+    },
+    "easyRiddle": {
+      "text": "🎰 To the moon we go! Lightning-fast gains with sparkles of luck. Purple fire burns bright. What six symbols represent the ultimate memecoin dream?",
+      "hint": "Memes need fun, speed, wealth, destiny, magic, and luck."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      10,
+      20,
+      21
+    ]
   }
 }
