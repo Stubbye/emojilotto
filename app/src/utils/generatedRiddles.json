@@ -28672,5 +28672,41 @@
       5,
       9
     ]
+  },
+  "sol_1304": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate converge. The archer's mark meets the heavens' breath, while the jester's twin grins beneath the prism's veil. Fortune spins where the scaled guardian coils, and petaled dreams bloom in chromatic light. What six sentinels guard the threshold between chaos and destiny?",
+      "hint": "One shoots straight, one rules the night, one laughs at chance, one breathes heat, one scales the cosmic order, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "I see six magical things: something you shoot at, something that flies to space, something shiny and precious, something in the night sky, something hot and bright, and something that makes you smile with wild magic. What are they?",
+      "hint": "Think of a bullseye, a space journey, treasure, nighttime, warmth, and pure joy."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
+  },
+  "emlo_522": {
+    "hardRiddle": {
+      "text": "I chase dreams to celestial heights with blazing speed, seeking fortune's gleam. Lady luck spins her wheel as I dance through storms of gain, leaving trails of magic dust. What six symbols mark my journey to wealth?",
+      "hint": "Think of a memecoin's path: launching fast, aiming high, with luck and dazzling rewards"
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts to the moon with lightning speed, leaving sparkles everywhere. A lucky dice roll brings fortune and gem rewards. What are these six lucky symbols?",
+      "hint": "Rocket, moon, lightning, sparkles, dice, and one shiny treasure"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      9,
+      11,
+      2
+    ]
   }
 }
