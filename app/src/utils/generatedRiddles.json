@@ -28726,5 +28726,23 @@
       20,
       17
     ]
+  },
+  "sol_1306": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny await the seeker's steel. The masked jester spins while lightning splits the gem-adorned night, as the dragon's breath ignites the crystal's ancient light. What lies between the clover's luck and the star's distant flight?",
+      "hint": "One brings chaos, one brings laughter, one commands the sky, one glimmers eternal, one soars with wings, one blooms against all odds."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your fate: a joker grins, lightning strikes, a dragon soars, a gem shines, a star twinkles, and a flower grows. Which six dance together in the lottery's eternal show?",
+      "hint": "Look for the wild card, the electric bolt, the mythical beast, the precious stone, the night guardian, and nature's bloom."
+    },
+    "answer": [
+      19,
+      4,
+      13,
+      6,
+      21,
+      14
+    ]
   }
 }
