@@ -28744,5 +28744,41 @@
       21,
       14
     ]
+  },
+  "sol_1307": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six dancers waltz in shadow's tale. The winged trickster bears a grin of chaos, while crystalline tears fall from the starlit circus. A jester's golden prize gleams beneath the moth's ethereal flight, and lightning writes its secrets in the dragon's night.",
+      "hint": "Look for the symbol of aim, the prism of earth, the creature of cunning laughter, the glowing performer's stage, the mystic reptile, and the bolt that births and destroys."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one you aim for, one that sparkles from stone, one that dances on delicate wings, one that roars with ancient wings, one that strikes from angry skies, and one where performers amaze under canvas lights.",
+      "hint": "Think of: targeting games, precious gems that shine, magical insects, legendary beasts, weather phenomena, and entertainment tents."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      7,
+      13,
+      6
+    ]
+  },
+  "emlo_523": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial dreams, where fortune ignites with electric schemes. I climb where sparkles dance in flight, a gem-powered journey to endless height. What am I?",
+      "hint": "Think of a memecoin's journey to the moon with lucky charm and explosive growth"
+    },
+    "easyRiddle": {
+      "text": "🎪 + 🚀 + 💎 + 🌙 + ⚡ + 🔥 = ?",
+      "hint": "A wild ride to the moon that's explosive and precious"
+    },
+    "answer": [
+      7,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
