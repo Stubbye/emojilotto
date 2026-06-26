@@ -28708,5 +28708,23 @@
       11,
       2
     ]
+  },
+  "sol_1305": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and gemstone fire dances with lunar whispers, a crystalline prism scatters the symphony of fate. The dragon's breath ignites what the butterfly cannot reach, yet both spiral through the maestro's silver strings toward the victor's throne.",
+      "hint": "Seek the intersection of luck and celestial fire; one is aimed, one is born from stone, one reflects all light."
+    },
+    "easyRiddle": {
+      "text": "A shining gem meets the moon's glow, dragon's flames dance high, and at the end of the bow a crystal reward waits. What six treasures align when destiny strikes?",
+      "hint": "Think of: something you aim at, something precious, something that glows at night, something fierce, something clear, and something precious earned."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      13,
+      20,
+      17
+    ]
   }
 }
