@@ -28834,5 +28834,23 @@
       4,
       8
     ]
+  },
+  "sol_1311": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate conspire in shadow's lace. The winged metamorphosis dances with celestial fire, while crystalline dreams ascend through prism's desire. Thunder's twin gleams pierce the jester's painted grin, and where scales of chaos coil, destiny spins within.",
+      "hint": "Seek the transformation, the chaos, the performer, the light-bringer, the gemstone echo, and the highest aspirations."
+    },
+    "easyRiddle": {
+      "text": "I mark the center of all games of chance, a dragon breathes heat in fortune's trance, a butterfly transforms what it once was, sparkles rain down without a pause, the joker grins at destiny's plan, and lightning strikes where it began.",
+      "hint": "Think of gaming, creatures of legend, metamorphosis, shining light, playing cards, and electrical power."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      10,
+      18,
+      21
+    ]
   }
 }
