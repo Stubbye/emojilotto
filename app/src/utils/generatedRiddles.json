@@ -28924,5 +28924,41 @@
       21,
       4
     ]
+  },
+  "sol_1317": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six enigmas dance in shadow's choir. The jester's grin below the gem's cold gleam, a winged metamorphosis through fortune's dream. Lightning kisses crystal in the night, while petals bloom where chaos burns bright.",
+      "hint": "One brings laughter in disguise, one transforms, one shines from skies, one strikes with fury, one glimmers clear, one blooms eternal—all six appear here."
+    },
+    "easyRiddle": {
+      "text": "I point to riches, bright and bold. A trickster grins where stories are told. Thunder cracks where brilliance grows. A jewel that gleams, a flower that shows. What six dance together in fortune's light?",
+      "hint": "Think of a target, a joker's art, lightning's strike, a crystal's heart, a flower's grace, and starlight's part."
+    },
+    "answer": [
+      0,
+      12,
+      4,
+      20,
+      14,
+      21
+    ]
+  },
+  "emlo_527": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, seeking precious stones that sparkle with cosmic greed. Where fortune dances with theatrical flair, and magic strikes like a trickster's snare. Follow the rainbow path where fortune spins, and you'll find the lucky charm where luck begins.",
+      "hint": "Think of a memecoin's journey: fast launch, wealth, entertainment, randomness, and luck"
+    },
+    "easyRiddle": {
+      "text": "A coin flies up fast ⚡ to reach the bright circle in the sky. It sparkles like jewels ✨ and shines like treasure 💎. A circus performer 🎪 rolls the bones 🎲 while a magical fox 🦊 brings good fortune with rainbow 🌈 magic.",
+      "hint": "Six symbols: rocket, lightning, moon, sparkles, gem, and one more related to luck and magic"
+    },
+    "answer": [
+      1,
+      4,
+      3,
+      21,
+      10,
+      13
+    ]
   }
 }
