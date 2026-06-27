@@ -28960,5 +28960,23 @@
       10,
       13
     ]
+  },
+  "sol_1319": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a prism splits the night's descent. The serpent's coil ignites the stage, while luck's jester guards the cage. Twin-winged grace and stellar flame converge where chaos plays its game.",
+      "hint": "One aims, one rises, one refracts, one burns, one transforms, one performs."
+    },
+    "easyRiddle": {
+      "text": "I point at prizes, I reach for stars, I sparkle bright, I twist in fire. A winged dancer and a playing fool—six signs of luck and fortune's rule.",
+      "hint": "Look for: something that targets, something that flies high, something that shines, something that burns, something that flutters, and something that entertains."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      5,
+      8,
+      19
+    ]
   }
 }
