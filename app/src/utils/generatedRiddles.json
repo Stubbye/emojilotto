@@ -28780,5 +28780,41 @@
       4,
       5
     ]
+  },
+  "sol_1309": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's crimson eye, a jester's masked reverie spins betwixt the stellar sigh. Through prisms bent and fortunes bent, the wyrm's eternal flame meets the archer's mark in twilight's arcane game. Six tokens hold the secret where chaos wears a grin and destiny's electric kiss begins.",
+      "hint": "Consider the duality of chance and the cosmic performers. One brings fortune, one brings fate. The trickster and the beast know the way."
+    },
+    "easyRiddle": {
+      "text": "A dragon breathes near lightning's might, a joker grins under starlight, a target gleams where gems ignite. Find the mask, the fire, and fortune's night.",
+      "hint": "Look for the creatures of myth, the symbols of chance, and the mark of precision."
+    },
+    "answer": [
+      13,
+      4,
+      0,
+      19,
+      5,
+      21
+    ]
+  },
+  "emlo_524": {
+    "hardRiddle": {
+      "text": "I'm a meme that shoots for the celestial prize, with gems that sparkle under electric skies. Lightning strikes my rocket's flame, while luck dances with fortune's game. A butterfly transforms my rainbow dreams, and the dragon guards what fortune deems.",
+      "hint": "Think of a memecoin's journey to the moon with all the chaotic energy it brings."
+    },
+    "easyRiddle": {
+      "text": "What has a rocket, a gem, a moon, lightning, fire, and a butterfly?",
+      "hint": "These are the symbols of a wild crypto ride to the stars."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
   }
 }
