@@ -28852,5 +28852,23 @@
       18,
       21
     ]
+  },
+  "sol_1312": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, through prismatic gates the lucky climb higher. The jester's twin dances with scaled might, as petals bloom beneath the storm's electric light. Six secrets hide in destiny's grand stage, where masked performers turn fate's final page.",
+      "hint": "Seek the performer's smile, the dragon's ancient name, and where opposites converge in lucky's flame."
+    },
+    "easyRiddle": {
+      "text": "Find the colorful burst, the scaled beast of old, the mask that laughs, the arrow bold. Where flowers grow and lightning strikes the night, these six will grant your fortune bright.",
+      "hint": "One shoots straight, one breathes fire, one wears a grin. One has petals, one glows bright, and one dances with the storm."
+    },
+    "answer": [
+      0,
+      2,
+      18,
+      14,
+      4,
+      13
+    ]
   }
 }
