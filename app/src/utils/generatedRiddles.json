@@ -28816,5 +28816,23 @@
       5,
       8
     ]
+  },
+  "sol_1310": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six spirits dance in destiny's game. The jester's twin gleams bright in night's embrace, while scaled majesty guards the mystic space. Thunder's kiss ignites the gemstone's cold fire, and winged grace completes the soul's desire.",
+      "hint": "Consider: a mark of precision, laughter's keeper, heavenly light, precious stone, electricity's voice, and transformation's wings"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within: aim true at the target, laugh with the joker, gaze at the star, covet the gem, feel the lightning, and watch the butterfly ascend.",
+      "hint": "These six bring luck to those who seek them"
+    },
+    "answer": [
+      0,
+      12,
+      21,
+      2,
+      4,
+      8
+    ]
   }
 }
