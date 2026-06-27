@@ -28906,5 +28906,23 @@
       19,
       13
     ]
+  },
+  "sol_1316": {
+    "hardRiddle": {
+      "text": "Where celestial fortune's archer aims through the void, a crimson serpent coils beneath the jester's grin. Six treasures hide: the night's pale witness guards a prism of starlight, while twin tempests—one ascending flame, one descending spark—frame the masquerade of chaos. What masks the truth of luck's domain?",
+      "hint": "Think of targets and aims, mythical beasts, performers, natural phenomena, and precious things that shine."
+    },
+    "easyRiddle": {
+      "text": "I show you the night sky's guardian. I am a mythical beast of ancient tales. I wear the fool's cap and grin. I sparkle like broken glass. I dance between earth and heaven. I crackle with nature's fury. Can you name all six?",
+      "hint": "Moon, Dragon, Joker, Crystal, Star, Lightning"
+    },
+    "answer": [
+      1,
+      13,
+      19,
+      20,
+      21,
+      4
+    ]
   }
 }
