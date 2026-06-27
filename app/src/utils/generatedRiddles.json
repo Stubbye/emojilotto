@@ -28888,5 +28888,23 @@
       5,
       8
     ]
+  },
+  "sol_1314": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of destiny await. The winged metamorphosis dances through prismatic corridors, while thunder's whisper ignites the gemstone's ancient slumber. Beneath the jester's painted gaze, the fox of cunning observes the trophy of those who dare ascend. Seek the six that blur the boundary between chaos and grace.",
+      "hint": "One flies upward, one transforms, one illuminates, one plays tricks, one watches wisely, one rewards victory."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: the rocket soars high, the butterfly dances free, the rainbow bridges worlds, the lightning strikes bright, the joker grins mysteriously, and the fox prowls cleverly.",
+      "hint": "Look for movement, magic, trickery, and ambition among these six."
+    },
+    "answer": [
+      1,
+      8,
+      9,
+      5,
+      19,
+      13
+    ]
   }
 }
