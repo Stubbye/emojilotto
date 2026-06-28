@@ -29050,5 +29050,23 @@
       10,
       20
     ]
+  },
+  "sol_1322": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, a prismed soul ascends through crackling maze. The jester's twin of cunning grace doth dance, while scaled wisdom guards the dreamer's trance. Six celestial whispers in chaos play—gem, lightning, moon, joker, dragon, dice hold sway.",
+      "hint": "One strikes from sky, one glimmers deep, one laughs in masks, one guards while others sleep."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures woven tight: a shining stone that catches light, a flash from heavens splitting air, a glowing orb beyond compare, a jester's grin and serpent's dream, and cubes of chance that gleam and scheme. What are we?",
+      "hint": "Seek the fool among the gems, lightning, moon, and fortune's stems."
+    },
+    "answer": [
+      3,
+      4,
+      5,
+      11,
+      13,
+      14
+    ]
   }
 }
