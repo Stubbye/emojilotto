@@ -29086,5 +29086,23 @@
       8,
       15
     ]
+  },
+  "sol_1324": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic veil, six guardians dance in shadow's tale. The winged metamorphosis ascends through celestial fire, while the trickster's grin reflects in crystalline desire. The archer's mark and the storm's electric breath converge where spectrum blooms eternal, and luck's four-leafed whisper challenges the infinite expanse.",
+      "hint": "Think of transformation, chaos, precision, and the meeting of earthly and heavenly realms"
+    },
+    "easyRiddle": {
+      "text": "I am six: a perfect aim, a speeding flame of destiny, a jeweled soul eternal, the night's silent queen, a bolt of fortune's wrath, and wings reborn. What am I?",
+      "hint": "One shoots, one burns, one shines, one watches, one strikes, and one transforms"
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      1,
+      4,
+      8
+    ]
   }
 }
