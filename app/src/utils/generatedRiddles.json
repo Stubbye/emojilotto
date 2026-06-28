@@ -29104,5 +29104,23 @@
       4,
       8
     ]
+  },
+  "sol_1325": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between earthly fire and celestial ice, a jester's laughter echoes through prismatic shards. The winged metamorphosis dances upon the dragon's breath, while thunder's kiss ignites the stage of dreams. Six whispers converge where luck bends to the will of those who seek the gemstone's ancient pulse.",
+      "hint": "Consider the duality of chance and transformation, the meeting of performer and predator, the marriage of storm and earth."
+    },
+    "easyRiddle": {
+      "text": "I contain a mark of precision, a messenger of speed, a treasure most precious, a guardian of night, a force most violent, and a creature of wings and fire. Together we dance in the lottery's hall.",
+      "hint": "Think of aim, flight, wealth, darkness, energy, and mythical beasts."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
