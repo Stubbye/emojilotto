@@ -29014,5 +29014,41 @@
       9,
       14
     ]
+  },
+  "sol_1321": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through prismatic fire. The jester's crown reflects in crystalline depths, while the fox's cunning weaves destiny's luminous thread. Six tokens of fate converge where chaos meets serendipity.",
+      "hint": "Think of cosmic ascension, deception, chaos, precision, transformation, and the space between dreams and reality."
+    },
+    "easyRiddle": {
+      "text": "A rocket launches toward the moon with gem-like sparkles, guided by lightning and fire, while the joker watches and the fox grins.",
+      "hint": "Count the objects: launch, destination, precious shine, weather, heat, trickster, and cunning creature."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      13,
+      17
+    ]
+  },
+  "emlo_529": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights, blazing with electric might. Precious stones gleam as fortune strikes, while mystical magic sparkles bright. A jester's luck dances with feline cunning, and ancient fire fuels the running.",
+      "hint": "Six elements of crypto ascension: propulsion, destination, wealth, chance, trickery, and energy"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up to 🌙, carrying 💎 that ⚡ and ✨ with 🃏 tricks",
+      "hint": "A rocket's journey with treasures, speed, sparkle, and joker mischief"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      10,
+      20
+    ]
   }
 }
