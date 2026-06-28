@@ -29158,5 +29158,23 @@
       8,
       9
     ]
+  },
+  "sol_1327": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound ambition, seven sisters dance in prismatic chains. The jester's fortune spins beneath the serpent's flame, while winged metamorphosis seeks the heart of chaos. What six tokens shimmer in destiny's lottery?",
+      "hint": "Think of mythology, transformation, luck, and cosmic journeys intertwined."
+    },
+    "easyRiddle": {
+      "text": "I seek the bright and the strange: a target of dreams, a rocket to stars, a gem that gleams, the moon's pale face, lightning's fierce race, and fire's bright blaze. Which six do you chase?",
+      "hint": "Look for celestial bodies, bright objects, and powerful forces of nature."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
