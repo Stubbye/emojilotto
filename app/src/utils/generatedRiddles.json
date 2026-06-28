@@ -29194,5 +29194,23 @@
       13,
       11
     ]
+  },
+  "sol_1330": {
+    "hardRiddle": {
+      "text": "Through crystalline depths where fortune's twin flames dance, a celestial wanderer spins their chromatic wheel. Where masked revelry meets nature's smallest phoenix, and lightning's echo crystallizes into treasure's embrace. Six secrets hide where chaos wears its crown and the violet veil shimmers between worlds.",
+      "hint": "Seek the gemstone born from sky's tears, the jester's eternal twin, the smallest resurrection, the storm's frozen kiss, and the theater of dreams."
+    },
+    "easyRiddle": {
+      "text": "I contain a precious stone, a mischievous trickster, a tiny winged dancer reborn from flames, electricity's sharp hand, the night's guardian sphere, and the color of royalty itself. What am I?",
+      "hint": "Find the gem, the joker, the butterfly, the lightning, the moon, and the purple in my riddle."
+    },
+    "answer": [
+      2,
+      13,
+      8,
+      5,
+      3,
+      15
+    ]
   }
 }
