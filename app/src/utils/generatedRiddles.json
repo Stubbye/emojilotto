@@ -29122,5 +29122,41 @@
       4,
       13
     ]
+  },
+  "sol_1326": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver's thread, six tokens dance in shadows deep. The gemstone bleeds through prism's eye while winged fate spirals through electric veils. Chaos tumbles where masked truth performs, and nature's bloom withers in the crystalline cold. Seek the number where luck and ruin intertwine beneath the aurora's silent scream.",
+      "hint": "One shoots straight, one glows above, one sparkles within, one strikes without warning, one deceives with glee, one grows from earth."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of fortune's theater: one aims true, one lights the sky at night, one treasures sparkle, one cracks the heaven's whip, one wears the comedy mask, and one blooms where roots take hold.",
+      "hint": "Think of targets, moons, gems, lightning, jokers, and flowers."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      9,
+      19,
+      14
+    ]
+  },
+  "emlo_531": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, while gems sparkle with fortune. A jester's luck meets dragon fire, and butterflies dance through rainbow fortune. What six tokens fuel the memecoin revolution?",
+      "hint": "Think of the journey: launch, treasure, luck, power, transformation, and fortune"
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots to the moon with lightning speed. Gems shine bright. A joker brings luck and a dragon brings power. A butterfly dances through rainbows. Name these six symbols of crypto dreams.",
+      "hint": "Look for: launch vehicle, celestial destination, fast energy, treasure, trickster, mythical beast, delicate creature, and colorful sky"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      13,
+      8,
+      9
+    ]
   }
 }
