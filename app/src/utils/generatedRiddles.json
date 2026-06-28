@@ -29068,5 +29068,23 @@
       13,
       14
     ]
+  },
+  "sol_1323": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers waltz through destiny's game. The jester's twin gleams beneath Luna's gaze, while scaled majesty guards the gem's arcane maze. In chambers of prismatic light, the winged performer takes flight, and luck's sacred bloom unfolds where chance ignites.",
+      "hint": "One brings aim, one burns bright, one laughs in masks, one rules the night, one floats on dreams, one grows in fate."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, I dance with heat's spark, I wear the jester's grin, I shine with lunar din, I float with butterfly's grace, I bloom in luck's embrace. What six am I?",
+      "hint": "Think of: accuracy, passion, trickery, night, freedom, and fortune."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      2,
+      8,
+      15
+    ]
   }
 }
