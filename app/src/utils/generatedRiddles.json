@@ -28978,5 +28978,41 @@
       8,
       19
     ]
+  },
+  "sol_1320": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six secrets hide in shadow's trance. The jester's grin guards fortune's gate, while winged metamorphosis seals your fate. Rainbow's arc bends through the night, as crystalline brilliance cuts through blight. Lightning's kiss and gem's embrace—seek them all to win the race.",
+      "hint": "One controls fate's wheel, one brings transformation, one spans the sky, one glitters eternally, one strikes swiftly, one is precious beyond measure."
+    },
+    "easyRiddle": {
+      "text": "Six treasures gleam beneath the stars: a jester laughs, a butterfly soars, lightning flashes bright, gems shine clear, rainbows arc high, and sparkles dance everywhere. Which six light your path to fortune?",
+      "hint": "Look for: laughter, wings, electricity, precious stones, color bands, and twinkling magic"
+    },
+    "answer": [
+      16,
+      8,
+      9,
+      11,
+      5,
+      21
+    ]
+  },
+  "emlo_528": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises with electric speed through cosmic heights, where crystalline dreams sparkle with celestial fire, and luck dances with legendary beasts—what six symbols guide the memecoin dreamer to their glittering destiny?",
+      "hint": "Think of the journey: entertainment, energy, wealth, space, magic, and mythical power"
+    },
+    "easyRiddle": {
+      "text": "Follow the path: Start with a silly performer, add lightning power, find the shiny rock, reach the moon, add magical sparkle, and meet the legendary dragon. What six emojis complete this crypto adventure?",
+      "hint": "Joker → Lightning → Gem → Moon → Sparkles → Dragon"
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      3,
+      9,
+      14
+    ]
   }
 }
