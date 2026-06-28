@@ -29212,5 +29212,23 @@
       3,
       15
     ]
+  },
+  "sol_1331": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through fortune's veil, and the trickster's grin meets nature's fluttering grace. Three crowns rest—one burns eternal, one gleams in shadow's embrace, one spirals through chaos untamed. The archer's circle holds dominion as lightning dances with crystalline dreams.",
+      "hint": "Seek the jester among the stars, the wild one with nine tails, and where inferno meets the night sky's jeweled tear."
+    },
+    "easyRiddle": {
+      "text": "I contain a bright explosion in the night, a dancing flame untamed, a trickster's mischievous delight, a creature with a fiery name, a gem that shines so pure, and fortune's random spin secured.",
+      "hint": "Look for danger, mischief, and precious things that sparkle in chaos."
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      13,
+      20,
+      21
+    ]
   }
 }
