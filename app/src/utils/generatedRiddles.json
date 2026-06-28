@@ -29176,5 +29176,23 @@
       4,
       5
     ]
+  },
+  "sol_1328": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six spirits dance in chaos untamed. The prism-bearer weeps upon the dragon's throne, while madness grins through phosphorescent bone. The gem-heart burns beneath the jester's laugh, and luck itself is split in half.",
+      "hint": "Look for the intersection of fate, fire, and the crown of jesters. One reflects all colors, one shatters destiny."
+    },
+    "easyRiddle": {
+      "text": "Six tokens hide in this cosmic jest: a mark to aim, a fire that's blessed, a jeweled dream, a cosmic neighbor, the wild beast, and chance's labor.",
+      "hint": "Think of arrows, flames, gems, sky, animals, and games of luck."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      13,
+      11
+    ]
   }
 }
