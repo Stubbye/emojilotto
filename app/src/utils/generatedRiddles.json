@@ -29392,5 +29392,23 @@
       4,
       5
     ]
+  },
+  "sol_1338": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath the celestial eye, six tokens of fate converge in chromatic mystery. The winged harbinger of transformation ascends through prismatic veils, while thunder's kiss ignites the stage of mirth. A crystalline heart reflects what mortals covet, and destiny's wheel spins where laughter echoes eternal.",
+      "hint": "One brings luck, one brings speed, one brings wonder, one brings light, one brings precious desire, one brings merriment."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of chance: a grinning trickster, a soaring beacon of dreams, a dancer of storms, a glittering treasure, a guardian of destiny, and nature's fleeting miracle with painted wings.",
+      "hint": "Think of joy, speed, weather, wealth, games, and nature."
+    },
+    "answer": [
+      10,
+      1,
+      19,
+      2,
+      21,
+      8
+    ]
   }
 }
