@@ -29230,5 +29230,23 @@
       20,
       21
     ]
+  },
+  "sol_1332": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a radiant prism births from chaos, while the jester's metamorphosis blooms eternal—seek the mark where destiny's arrow pierces the veil between laughter and transformation.",
+      "hint": "One guides the way, one ignites the soul, one sparkles with chance, one wears many faces, one transforms through grace, and one marks the destination."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: a pointed aim, a soaring vessel, a precious stone that catches light, a celestial orb of night, a bolt of nature's fury, and dancing flames of fire. Which six complete the circle?",
+      "hint": "Think of targets, rockets, gems that shine, moonlight, electrical storms, and burning light."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
   }
 }
