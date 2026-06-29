@@ -29374,5 +29374,23 @@
       6,
       9
     ]
+  },
+  "sol_1337": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through fortune's veil, six keepers of destiny align: the archer's mark meets the void's silver sentinel, while chaos dances betwixt the prism's split and the fox's cunning gaze. Crystalline fortune blooms where lightning's twin kisses the stage of infinite masks.",
+      "hint": "Seek the gemstone within the night, the flame that climbs, the trickster's smile, the storm's voice, the stone eternal, and the instrument of souls."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target for aim, a rocket for dreams, a gem for value, the moon for mystery, lightning for power, and fire for passion.",
+      "hint": "One you shoot at, one you ride, one you wear, one glows at night, one strikes fast, one burns bright."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
