@@ -29248,5 +29248,41 @@
       5,
       6
     ]
+  },
+  "sol_1333": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six scattered jewels in chaos conspire. The trickster's laugh echoes through prismatic light, as winged metamorphosis dances in night. A gemstone eternal, a storm's violent kiss, and luck's faithful symbol—what treasures exist?",
+      "hint": "One brings fortune from above, one deceives with glee, one transforms in darkness, one grants wishes three."
+    },
+    "easyRiddle": {
+      "text": "Six magical signs hide fortune's door: a glowing stone, a storm's great roar, an archer's mark where destinies meet, a creature with wings that makes luck complete, the jester who grins, and the lucky leaf sweet.",
+      "hint": "Think of things that bring good fortune and magical wonder."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      8,
+      19,
+      0
+    ]
+  },
+  "emlo_534": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing force, seeking treasures that sparkle beyond the void. Fortune favors the bold who chase my luminous path, dancing through chaos with electric precision.",
+      "hint": "Think of crypto's journey: propulsion, destination, volatility, and rewards"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up up, ⚡ strikes fast, 💎 is valuable, 🌙 is the goal, ✨ shows luck, 🔥 means power",
+      "hint": "Which 6 emojis represent a memecoin moon mission?"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      5
+    ]
   }
 }
