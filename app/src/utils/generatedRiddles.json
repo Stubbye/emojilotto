@@ -29410,5 +29410,41 @@
       21,
       8
     ]
+  },
+  "sol_1339": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels guard the threshold of chance. The winged trickster pirouettes beneath the jester's gaze, while primal chaos breathes in crystalline haze. One blooms eternal in the court of masks, another strikes where destiny unmasks. Seek the archer's aim where lightning sleeps, and the stone that whispers what the soul keeps.",
+      "hint": "Look for: a flyer, a deceiver, a performer's end, a blazing serpent, a glowing mark, and where light bends into color"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: one flies with wings, one spins with fire, one shines like ice, one strikes like anger, one aims true, and one paints the sky after rain.",
+      "hint": "Think of creatures, elements, and natural wonders"
+    },
+    "answer": [
+      8,
+      13,
+      20,
+      5,
+      0,
+      9
+    ]
+  },
+  "emlo_537": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem that sparkles as I succeed. Lucky clover guides my flight, while dragon fire burns so bright. Rainbow waves and crystal light, what six bring the memecoin to height?",
+      "hint": "Think of a rocket's journey to success with luck and magical elements."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, a gem shines bright, lightning strikes with all its might. The moon is high, fire burns strong, a star completes this lucky song. Which six emojis belong?",
+      "hint": "Space, treasure, power, sky, and fortune - count to six!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      21
+    ]
   }
 }
