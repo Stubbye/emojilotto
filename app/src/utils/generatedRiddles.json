@@ -29320,5 +29320,23 @@
       5,
       0
     ]
+  },
+  "sol_1335": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked reverie, a winged metamorphosis spirals through prismatic arcs. The dragon's gleaming treasure pulses beneath moonlit grace, while crystalline echoes whisper of victory's distant thunder.",
+      "hint": "Seek the transformation between chaos and triumph, where luck wears many faces and the sky bleeds light."
+    },
+    "easyRiddle": {
+      "text": "I contain a flying creature that changes form, a shining precious thing, the night's bright guardian, a mask that hides identity, a flash of power from above, and the joy of winning.",
+      "hint": "Think of metamorphosis, luck, night sky, theater, weather, and celebration."
+    },
+    "answer": [
+      7,
+      21,
+      19,
+      8,
+      4,
+      17
+    ]
   }
 }
