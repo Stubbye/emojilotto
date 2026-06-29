@@ -29338,5 +29338,41 @@
       4,
       17
     ]
+  },
+  "sol_1336": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, and celestial fire dances with prismatic serpents. The jester's twin souls reflect in crystalline depths, while winged metamorphosis spirals through thunderous crescendo. Seek the nexus where chaos blooms eternal and luck crystallizes into radiance.",
+      "hint": "Six treasures span from sky's darkest veil to earth's brightest celebration. One pierces, one burns, one deceives, one ascends, one transforms, one shatters light."
+    },
+    "easyRiddle": {
+      "text": "I contain a pointed aim, a night sky pearl, a purple gem, a jolly trickster, a lightning crack, and a winged dancer. What six symbols converge in destiny's game?",
+      "hint": "Think of: accuracy, night, precious stones, cards, electricity, and insects."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      3,
+      8,
+      20
+    ]
+  },
+  "emlo_536": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault, blazing with electric might. Precious gems sparkle as fortune strikes like a jester's trick. What six symbols guide the memecoin prophet to rainbow riches?",
+      "hint": "Think of a journey: departure, luck, value, destination, chance, and celebration"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, 🎪 is the fun, 🌈 shows success. Which six emojis make a memecoin winner?",
+      "hint": "A rocket, lightning, gem, moon, circus, and rainbow"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      6,
+      9
+    ]
   }
 }
