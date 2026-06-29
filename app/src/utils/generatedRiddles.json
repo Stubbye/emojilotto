@@ -29284,5 +29284,41 @@
       9,
       5
     ]
+  },
+  "sol_1334": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the jester's crimson grin meets the scaled keeper of ancient gold. Six whispers in the void: the archer's eternal mark, the serpent's throne of stars, the painted fool's mask of chaos, and the gem that holds all rainbows captive. Seek the number born from chance itself, where lightning splits the sky and magic crystallizes in twilight's embrace.",
+      "hint": "One points at infinity, one reaches beyond worlds, one laughs at destiny, one glimmers with all colors, one rolls with fate, and one burns with untamed power."
+    },
+    "easyRiddle": {
+      "text": "Six treasures for the bold: a mark to hit, a path through stars, a precious stone, a silver orb above, a dangerous flash, and a scaled mythical beast. What are they?",
+      "hint": "Think of targets, space travel, wealth, night sky, weather, and legendary creatures."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      13,
+      10,
+      14
+    ]
+  },
+  "emlo_535": {
+    "hardRiddle": {
+      "text": "I launch dreams to cosmic heights with electric speed, sparkling with gem-like value. My lucky charm dances through rainbow waves, while a mystical dragon guards treasures that ignite fortunes. What sequence completes this memecoin journey?",
+      "hint": "Think of the path from launch to moon, powered by luck and fire"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gems shine bright, moon glows high, fire burns hot, and luck brings sparkles. Put them in order!",
+      "hint": "Start with the launch, end with the reward"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      0
+    ]
   }
 }
