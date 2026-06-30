@@ -29590,5 +29590,41 @@
       19,
       21
     ]
+  },
+  "sol_1347": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, six guardians dance in chromatic fire. The jester's twin flame spirals through heaven's veil, while scaled majesty guards the prism's heart. Winged metamorphosis pirouettes beneath the storm's electric crown, and nature's smallest treasure blooms eternal in the violet abyss.",
+      "hint": "Seek the performer's smile, the dragon's domain, lightning's kiss, and transformation's grace. One points the way, one adorns the sky."
+    },
+    "easyRiddle": {
+      "text": "I am six mysteries: a golden mark of aim, a fiery spectacle of wonder, a crowned treasure from above, a striped wonder in the air, a regal serpent of power, and the bloom that never fades.",
+      "hint": "Think of targets, celebrations, royalty, nature's dancers, mythical beasts, and gardens."
+    },
+    "answer": [
+      0,
+      6,
+      21,
+      8,
+      14,
+      15
+    ]
+  },
+  "emlo_541": {
+    "hardRiddle": {
+      "text": "I launch dreams to infinity, sparkle with rare treasure, strike fast with electric gains, burn bright with hype, dance through chaos like a jester's game, and guide fortune seekers to celestial riches. What am I?",
+      "hint": "Six elements of a memecoin's journey to the moon"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes quick, fire burns hot, joker laughs loud, and moon glows high. Which six are on this lucky ticket?",
+      "hint": "Count the emojis mentioned in the riddle"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      3
+    ]
   }
 }
