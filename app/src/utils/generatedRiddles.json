@@ -29500,5 +29500,41 @@
       8,
       10
     ]
+  },
+  "sol_1343": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers waltz through space. The lightning's twin awakens crystalline dreams, while scaled majesty guards what gleams. Through prismatic arcs the winged soul ascends, where fortune's wheel eternally bends.",
+      "hint": "Consider the cosmic, the mythical, the geometric, and what dances between worlds."
+    },
+    "easyRiddle": {
+      "text": "One points the way to fortune's door, one splits the sky with electric roar, one glimmers cold and catches light, one breathes fire through the night, one flutters free on painted wings, one spins the luck that chance brings.",
+      "hint": "Think of precision, power, brilliance, heat, delicate motion, and probability."
+    },
+    "answer": [
+      0,
+      4,
+      21,
+      14,
+      8,
+      11
+    ]
+  },
+  "emlo_539": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles as I feed. Through fire and circus tricks I dance, with butterfly grace I take my chance. Rainbow dreams and dragon might, the joker's fortune shines so bright.",
+      "hint": "Six symbols of memecoin dreams: speed, value, chaos, beauty, hope, and luck"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ moves fast. 🌙 is far away, 🦋 is pretty, 🃏 is lucky. Which six?",
+      "hint": "Look for: rocket, gem, lightning, moon, butterfly, and joker"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      8,
+      19
+    ]
   }
 }
