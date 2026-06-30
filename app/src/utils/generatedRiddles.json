@@ -29446,5 +29446,41 @@
       5,
       21
     ]
+  },
+  "sol_1341": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dance, through prism-fractured light the trickster's gaze advances. The winged metamorphosis ascends past inferno's crown, while fate's crystalline twins tumble where luck spirals down.",
+      "hint": "Think of a journey from earth to sky, transformation, chance, and things that sparkle or light up."
+    },
+    "easyRiddle": {
+      "text": "A target points the way, a rocket climbs so high, a gem shines bright, the moon lights up the night sky, lightning flashes quick, and a butterfly soars by. Six treasures hide within—can you spot them as they fly?",
+      "hint": "Look for: something you aim at, something that launches, something precious, something in the sky at night, something electric, and something with wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_538": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-like value sparkles as I rocket toward glory. The joker's fire burns bright, yet only the clover knows my true fortune.",
+      "hint": "Think of what drives a memecoin to the moon and the luck needed to win big."
+    },
+    "easyRiddle": {
+      "text": "Fast as lightning, shiny like a gem, I go to the moon with a rocket. Lucky clover and sparkling fire show the way to winning at EmojiLotto.",
+      "hint": "Count the special symbols that represent speed, wealth, and extreme luck."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      20
+    ]
   }
 }
