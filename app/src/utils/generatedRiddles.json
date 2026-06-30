@@ -29536,5 +29536,23 @@
       8,
       19
     ]
+  },
+  "sol_1344": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentinels of fate converge. The archer's mark glimpses infinity's glow, while thunder's child pirouettes with scaled majesty. Between them blooms metamorphosis and crystalline dreams, as fortune's jester grins at destiny's wheel.",
+      "hint": "One guides aim, one ascends, one shines cold, one roars ancient, one transforms, one spins chance."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's flight, the gem's brilliance, the dragon's power, the butterfly's grace, and the dice's fortune.",
+      "hint": "Look for: aim, ascent, sparkle, scales, wings, and chance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      8,
+      11
+    ]
   }
 }
