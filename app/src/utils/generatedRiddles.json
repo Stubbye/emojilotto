@@ -29626,5 +29626,23 @@
       11,
       3
     ]
+  },
+  "sol_1348": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a prism dances with thunder's voice. The winged metamorphosis spirals through gemstone's heart, while chaos wears its grinning mask beneath the Dragon's ancient gaze. Six truths hide in this cosmic performance.",
+      "hint": "One points the way, one hangs above, one sparkles with value, one transforms, one rules chaos, one watches all."
+    },
+    "easyRiddle": {
+      "text": "A target in the sky, a gem that shines, lightning that strikes, a butterfly born anew, a joker's grin, and a dragon's fire. Which six dance together in fortune's wheel?",
+      "hint": "Look for precision, brilliance, chaos, transformation, ancient wisdom, and electric power."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      8,
+      19,
+      14
+    ]
   }
 }
