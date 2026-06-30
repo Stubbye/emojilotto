@@ -29644,5 +29644,23 @@
       19,
       14
     ]
+  },
+  "sol_1349": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, a celestial dancer twirls in silence. The serpent of heaven breathes ancient light upon the fool's glittering crown, while petals of twilight bow to the storm's electric kiss. Six secrets hide where chaos wears a grin.",
+      "hint": "Think of destiny's path, night's throne, mythic guardians, destiny's court jester, nature's bloom, and nature's winged messenger."
+    },
+    "easyRiddle": {
+      "text": "I point toward fortune, I touch the night sky, I guard treasures old, I wear a silly grin, I bloom in gardens, and I float on painted winds.",
+      "hint": "Target, Moon, Dragon, Joker, Flower, Butterfly"
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      19,
+      14,
+      8
+    ]
   }
 }
