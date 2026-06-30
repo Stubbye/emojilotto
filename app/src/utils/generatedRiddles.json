@@ -29572,5 +29572,23 @@
       13,
       6
     ]
+  },
+  "sol_1346": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate converge in cosmic grace. The winged metamorphosis dances with celestial fire, while crystalline truth refracts desire. The trickster's grin guards treasure's gleam, and destiny's bolt shatters the dreamer's dream.",
+      "hint": "Transformation, deception, and celestial alignment hold the keys"
+    },
+    "easyRiddle": {
+      "text": "A butterfly transforms, a gem shines bright, lightning strikes with all its might. The joker laughs, the star glows high, these six dance across the lucky sky.",
+      "hint": "Look for winged beauty, precious stones, tricks, and things that sparkle in the night"
+    },
+    "answer": [
+      8,
+      12,
+      1,
+      5,
+      19,
+      21
+    ]
   }
 }
