@@ -29482,5 +29482,23 @@
       5,
       20
     ]
+  },
+  "sol_1342": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin flames dance with crystalline tears, the jester's smile mirrors the ancient scales of chance. Seven-pointed wonder crowns the masquerade of fate, while the winged metamorphosis spirals through prismatic threads of destiny.",
+      "hint": "One guides aims, one marks destiny's throne, one reflects odds, one wears many faces, one transforms eternally, and one refracts all light."
+    },
+    "easyRiddle": {
+      "text": "I point the way to winning dreams, the night sky holds my twin, I judge all games with numbered sides, the fool grins at luck, I flutter through transformation, and I scatter light in celebration.",
+      "hint": "Find: direction, night, chance, trickery, change, and shimmer."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      19,
+      8,
+      10
+    ]
   }
 }
