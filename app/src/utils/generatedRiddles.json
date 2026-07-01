@@ -29734,5 +29734,41 @@
       19,
       9
     ]
+  },
+  "sol_1352": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six sentinels dance in celestial light. The winged trickster bounds through prismatic breath, while electricity weaves fate's crimson thread. Within the gem's heart lies the jester's masked grin, and where chaos tumbles, destiny spins.",
+      "hint": "Seek the archer's mark, the thief of darkness, the prism's echo, the gambler's dice, the sacred stone, and the face of deception."
+    },
+    "easyRiddle": {
+      "text": "Six magical things hide in this game: a bull's-eye target, a shiny gem, the night's moon, a bolt of lightning, a spinning dice, and a tricky joker in masks.",
+      "hint": "Look for: target, gem, moon, lightning, dice, and joker."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      11,
+      17
+    ]
+  },
+  "emlo_544": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights, where gems sparkle with electric might. A joker dances through the flames, as fortune spins in cosmic games. Where crystal rainbows meet the fire, and dragon wings fuel desire.",
+      "hint": "Think of a memecoin's journey: movement, value, chaos, destiny, and the mystical forces that guide it."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with might, 🔥 burns hot, 🐉 roars loud, 🌈 arcs proud. What six guide the memecoin path?",
+      "hint": "These six emojis represent the essential elements of a crypto memecoin adventure."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      14,
+      9
+    ]
   }
 }
