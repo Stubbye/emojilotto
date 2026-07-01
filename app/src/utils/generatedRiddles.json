@@ -29662,5 +29662,41 @@
       14,
       8
     ]
+  },
+  "sol_1350": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic arcs, the jester's glimmering twin ascends. Six servants of fortune dance: the archer's eternal mark, the void's silver sentinel, the serpent of storms crystallized, the phoenix reborn in spectral flames, the winged emergence from twilight's cocoon, and the dust of a thousand fallen stars. Which emojis mark the threshold between chaos and destiny?",
+      "hint": "One hunts precision, one rules the darkness, one carries electricity's memory, one consumes and transforms, one represents metamorphosis, one scatters wishes."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: a target for dreams, a bright moon above, lightning's power, fire's warmth, a butterfly's wings, and sparkles of magic. What are they?",
+      "hint": "Think of goals, night sky, storms, heat, insects, and wishes."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      5,
+      7,
+      19
+    ]
+  },
+  "emlo_542": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with volatility, strike with electric gains, burn with HODL passion, and shift like a butterfly's wings through market cycles. What transforms from circus chaos into trophy-worthy fortune?",
+      "hint": "Think of a memecoin journey: launch, shine, volatility, intensity, transformation, and victory"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, ⚡ moves fast, 🔥 burns hot, 🦋 changes form, 🏆 wins big. Which six guide the memecoin adventure?",
+      "hint": "Follow the rocket to the moon through electric flames"
+    },
+    "answer": [
+      1,
+      10,
+      4,
+      5,
+      8,
+      17
+    ]
   }
 }
