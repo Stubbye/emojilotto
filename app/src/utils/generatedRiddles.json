@@ -29770,5 +29770,23 @@
       14,
       9
     ]
+  },
+  "sol_1353": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge from the veil between realms. The archer's eternal mark peers through twilight as the swift messenger ascends. Brilliance crystallized catches the moth of transformation, while the trickster's grin mirrors the serpent's ancient wisdom. In this nexus of chaos and precision, seek the symbols that bridge mortal desire and cosmic destiny.",
+      "hint": "One guides aims, one defies gravity, one sparkles with worth, one enchants with wings, one deceives with mirth, one coils with eternity."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in plain sight: something you aim at, something that flies up high, something precious that shines, something beautiful with wings, something with a tricky smile, and something wise and ancient. Together they unlock the lottery's secret.",
+      "hint": "Think of: target, rocket, gem, butterfly, joker, and dragon."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      19,
+      14
+    ]
   }
 }
