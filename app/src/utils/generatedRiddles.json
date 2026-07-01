@@ -29788,5 +29788,23 @@
       19,
       14
     ]
+  },
+  "emlo_545": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights where fortunes sparkle endlessly. My electric energy ignites the lucky ones, while gem-like rewards rain down on those who dare to chase the dragon's fire. What six symbols guide the gambler's destiny?",
+      "hint": "Think of a journey from Earth to riches, powered by chance and magic"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with rockets and dreams! Lightning strikes the lucky, fire burns bright, gems shine like stars, and the dragon watches over all. Which six emojis represent this crypto adventure?",
+      "hint": "One goes up, one makes noise, one sparkles, one flies, one is precious, and one is legendary"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      13,
+      21,
+      6
+    ]
   }
 }
