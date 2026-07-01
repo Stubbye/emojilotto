@@ -29806,5 +29806,23 @@
       21,
       6
     ]
+  },
+  "sol_1355": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits converge in shadow's appeal. The marksman's circle meets the ascending flame, while gemstone whispers fortune's arcane name. Two-faced jester grins beneath the crescent's gleam, and nature's metamorphosis completes the dream.",
+      "hint": "One seeks precision, one ignites ascent, one glimmers with worth, one wears duality, one transforms in darkness, one lights the vault."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that soar, the gem that shines at fortune's door, the moon that glows in night's embrace, the joker's grin and butterfly's grace.",
+      "hint": "Look for: aim, flight, treasure, nightlight, laughter, and wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      12,
+      8
+    ]
   }
 }
