@@ -29824,5 +29824,23 @@
       12,
       8
     ]
+  },
+  "sol_1357": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six whispers dance between the veil and shame. The jester's twin reflects in crystalline dreams, while chaos splits the night with electric seams. A scaled guardian guards the treasure's ascent, and winged metamorphosis marks where souls were sent.",
+      "hint": "One guides precision, one burns from above, one laughs in duplicity, one holds frozen love, one roars with ancient power, one transforms through flight."
+    },
+    "easyRiddle": {
+      "text": "I strike with aim, I burn so bright, I mirror madness and delight. I'm frozen beauty, scaled and wise, a creature born beneath the skies. Wings that flutter, colors fade - six treasures in this lucky parade.",
+      "hint": "Think of: accuracy, heat from sky, two faces of chaos, solid ice-like form, dragon-like being, and delicate fliers."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      20,
+      13,
+      8
+    ]
   }
 }
