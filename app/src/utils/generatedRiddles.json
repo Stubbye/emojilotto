@@ -29842,5 +29842,23 @@
       13,
       8
     ]
+  },
+  "sol_1358": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone catches starlight's tear. Thunder's kiss ignites the stage where masked performers dance in luminous cage. Six secrets hide in plain sight's gleam—one strikes the target of a dreamer's scheme.",
+      "hint": "Think of a performance under night sky where luck and spectacle collide"
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that aims true, the shining stone that sparkles new, the bright star in heaven's view, the lightning bolt and fire too, the mask that hides and guides you through—six treasures for a lucky few.",
+      "hint": "One is a weapon, one is precious, one is in the sky, one is energy, one is hot, and one conceals identity"
+    },
+    "answer": [
+      0,
+      2,
+      21,
+      4,
+      5,
+      18
+    ]
   }
 }
