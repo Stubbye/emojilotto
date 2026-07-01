@@ -29698,5 +29698,41 @@
       8,
       17
     ]
+  },
+  "sol_1351": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the jester's masked reverie meets the scaled guardian's ancient game. Six tokens whisper secrets: the archer's distant prize, the serpent's jeweled breath, the fool's painted grin, the wings of metamorphosis, the sky's fractured light, and fate's eternal sparkle—all converge where luck pirouettes on the edge of chaos.",
+      "hint": "Consider what shines, what transforms, what rules chance, and what hides truth behind false faces."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hold your fortune's key: a glowing orb in night's embrace, a rainbow's arc across the sky, the jester who laughs at fate, a winged dancer born anew, a dragon's treasure gleams so bright, and stars that twinkle endlessly.",
+      "hint": "Think of magic, transformation, luck, and celestial wonders."
+    },
+    "answer": [
+      1,
+      9,
+      19,
+      8,
+      2,
+      21
+    ]
+  },
+  "emlo_543": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gems sparkle as fortune strikes with electricity. Where masked jesters dance under cosmic fire, a rainbow bridge connects my destiny. What six symbols mark my meteoric journey?",
+      "hint": "Think of a memecoin's explosive rise: destination, velocity, treasure, fortune, entertainment, and spectrum of hope"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon with lightning speed! Find the gem that sparkles, the fire that ignites, and the joker who makes us laugh. Which six emojis represent this wild crypto adventure?",
+      "hint": "A journey upward, wealth, electricity, fun times, and colors of the rainbow"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      19,
+      9
+    ]
   }
 }
