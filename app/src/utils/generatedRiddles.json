@@ -30040,5 +30040,41 @@
       8,
       0
     ]
+  },
+  "sol_1367": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels await: the archer's mark meets the heaven-seeker's flame, while the jester's grin dances with scaled majesty. Twin pillars of chance—one crystalline, one gemmed—frame the threshold where luck's butterfly breaks free from prismatic chains.",
+      "hint": "Consider what guides fate, what mocks destiny, what burns with ambition, and what reflects all possibilities."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: One points the way, one reaches for stars, one brings laughter, one guards treasure, one sparkles with beauty, and one dares you to chance it all.",
+      "hint": "Think of targets, rockets, jokers, gems, crystals, and dice."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      5,
+      20,
+      21
+    ]
+  },
+  "emlo_551": {
+    "hardRiddle": {
+      "text": "I start where ambition ignites the sky, powered by a spark that defies gravity. I shimmer with value precious and rare, guided by fortune's playful dance. My journey peaks where celestial dreams await, marked by sudden strikes of explosive potential.",
+      "hint": "Think of a memecoin's journey: launch energy, valuable assets, lucky games, and astronomical goals."
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off with ⚡ power, carrying 💎 treasures to the 🌙. Lady Luck spins the 🎲, and ✨ celebrates the win.",
+      "hint": "A rocket ride to the moon with gems, luck, and sparkles!"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      11,
+      10
+    ]
   }
 }
