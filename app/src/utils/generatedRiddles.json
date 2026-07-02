@@ -29914,5 +29914,41 @@
       21,
       19
     ]
+  },
+  "sol_1362": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, and crystalline tears dance with celestial fire. The jester's twin masks weep beneath the archer's gleam, while nature's delicate wings flutter through the prism of chaos. Seven gates of fate converge where sparks ignite the gemstone's hidden song.",
+      "hint": "Seek the intersection of aimed destiny, frozen cosmos, burning chaos, theatrical deceit, fragile metamorphosis, and radiant fortune's spark."
+    },
+    "easyRiddle": {
+      "text": "I bring luck with precision and aim. I freeze time above. I burn with passion bright. I wear two faces and jest. I transform through the sky. I shine with destiny's light. What six treasures am I?",
+      "hint": "Think of: accuracy, night sky, heat, comedy, transformation, and shining success."
+    },
+    "answer": [
+      0,
+      21,
+      5,
+      18,
+      7,
+      20
+    ]
+  },
+  "emlo_549": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights with electric speed, leaving sparkles in my wake. My gem-like treasure glitters as I strike like lightning through the circus of chance, where fortune's joker dances under the fire of ambition.",
+      "hint": "Think of what takes you to the moon in crypto, what powers it, what you find, and the wild entertainment of trading."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots up to the moon with a gem in its pocket, powered by lightning and fire, all watched by a joker's grin.",
+      "hint": "Picture a moonshot: the vessel, the destination, the prize, the energy, and the trickster laughing at volatility."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      19
+    ]
   }
 }
