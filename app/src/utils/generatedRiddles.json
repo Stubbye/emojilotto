@@ -30022,5 +30022,23 @@
       4,
       8
     ]
+  },
+  "sol_1366": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the jester's grin reflects in crystalline depths, the winged wanderer seeks the archer's mark beneath the weaver's luminous thread. Six secrets hide where chaos wears a mask of gems.",
+      "hint": "Consider what glimmers in darkness, what moves through transformation, what points toward destiny, and what lies between the serious and the absurd."
+    },
+    "easyRiddle": {
+      "text": "One burns in the sky, one spins with chance, one laughs in riddles, one glows eternal, one floats free with wings, and one marks the target. Find all six that dance together in fortune's game.",
+      "hint": "Think of fire in heaven, randomness, trickery, eternal light, freedom of movement, and precise aim."
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      18,
+      8,
+      0
+    ]
   }
 }
