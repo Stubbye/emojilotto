@@ -29896,5 +29896,23 @@
       4,
       5
     ]
+  },
+  "sol_1361": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial fire, a scaled beast guards the prism of desire. The jester's grin meets the hunter's cunning, as luck's electric thread through chaos comes running. Six tokens of fate in the void's gentle sway, where masked revelry meets the star's distant ray.",
+      "hint": "Consider the duality of chance and cunning, the meeting of chaos and performance, celestial guidance through earthly tricks."
+    },
+    "easyRiddle": {
+      "text": "Lightning strikes where the joker plays, a fox and dragon meet in hazy ways. Stars and fire in the night's display, with masks that hide what fortune will say.",
+      "hint": "Think of electricity, trickery, cunning creatures, and dramatic night-time performances."
+    },
+    "answer": [
+      5,
+      16,
+      13,
+      12,
+      21,
+      19
+    ]
   }
 }
