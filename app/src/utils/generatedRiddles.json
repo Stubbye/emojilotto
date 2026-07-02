@@ -30076,5 +30076,23 @@
       11,
       10
     ]
+  },
+  "sol_1368": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six harbingers of destiny converge. The archer's goal gleams with crystalline fate, while thunder's child ignites the stage. A winged performer pirouettes through cosmic flame, as luck's jester grins beside the showman's ring. The sky splits its chromatic promise, and fortune sparkles eternal.",
+      "hint": "Seek the intersection of games, cosmos, and spectacle. One points, one ascends, one cuts, one burns, one flies, one dazzles."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in this verse: an archer's mark shines bright, a rocket zooms high, a gem sparkles with light, flames dance with might, a butterfly soars free, and sparkles rain down from the cosmic spree.",
+      "hint": "Look for targets, rockets, gems, fire, butterflies, and sparkles."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      8,
+      10
+    ]
   }
 }
