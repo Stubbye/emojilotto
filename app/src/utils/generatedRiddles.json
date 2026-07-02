@@ -29968,5 +29968,41 @@
       2,
       8
     ]
+  },
+  "sol_1364": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in cosmic choir. The prism's twin reflects what mortals desire, while gemstone whispers of wealth climbing higher. Thunder's kiss on butterfly's wing takes flight, as masked revelry spins through the night.",
+      "hint": "Look for: aim, ascension, duality, treasure, storm, and theater"
+    },
+    "easyRiddle": {
+      "text": "I am shot toward dreams, I burn bright above. I sparkle with value, I'm struck by heaven's love. Wings flutter through revelry's masked delight. Six symbols of fortune—can you name them right?",
+      "hint": "Think of: rockets, gems, lightning, masks, and two more celestial things"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      11,
+      13,
+      19
+    ]
+  },
+  "emlo_550": {
+    "hardRiddle": {
+      "text": "I chase dreams to the celestial vault, my energy strikes like nature's bolt. Gems sparkle in my wake, while fortune spins with every stake. Dancing flames meet cosmic dance, as butterflies flutter in my trance.",
+      "hint": "Think of a memecoin's journey: explosive growth, lucky outcomes, and magical transformation."
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off, ⚡ powers it up, 💎 fills the cup, 🌙 is the dream, 🔥 ignites the scheme, 🦋 makes it gleam.",
+      "hint": "Follow the emojis in order for your answer."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
