@@ -29950,5 +29950,23 @@
       5,
       19
     ]
+  },
+  "sol_1363": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, a jester's twin mask grins at fortune's schemes. Through prism-fractured light, the winged dancer pirouettes past thunderous crescendo, while the crimson beast guards the gleaming prize beneath twin crescents. Six secrets dance where chaos and fortune intertwine—find them in the threshold between laughter and destiny.",
+      "hint": "Consider what reflects, what runs wild, what performs, what strikes, and what watches from above and below."
+    },
+    "easyRiddle": {
+      "text": "A joker laughs, fire roars, a dragon dreams, lightning strikes, a gem gleams, and a butterfly soars—these six unite in the spinning wheel of chance.",
+      "hint": "Look for the performer, the flame, the mythical beast, the storm, the treasure, and the flyer."
+    },
+    "answer": [
+      19,
+      5,
+      13,
+      4,
+      2,
+      8
+    ]
   }
 }
