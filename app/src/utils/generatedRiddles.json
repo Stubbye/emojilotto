@@ -29878,5 +29878,23 @@
       11,
       20
     ]
+  },
+  "emlo_548": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the celestial throne, where fortunes sparkle and strike like thunder through the prism of chaos. What six celestial tokens guide the bold?",
+      "hint": "Think of the journey: laughter, speed, brilliance, destination, power, and precious wealth"
+    },
+    "easyRiddle": {
+      "text": "Follow the funny clown, the fast rocket, the shiny gem, the bright moon, the quick lightning, and the hot fire. What six emojis make a memecoin winner?",
+      "hint": "One makes you laugh, one goes up, one sparkles, one is high, one is fast, one is powerful"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
