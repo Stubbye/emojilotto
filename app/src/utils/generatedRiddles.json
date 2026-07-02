@@ -30004,5 +30004,23 @@
       5,
       8
     ]
+  },
+  "sol_1365": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's sweet kiss, six celestial dancers weave through prismatic mist. The jester's grin reflects in crystalline dream, while winged metamorphosis ignites the gleam. Thunder's wild child and the fox's cunning grace, converge where spectrum bends all of space.",
+      "hint": "Think of destiny, chaos, transformation, electricity, trickery, and nature's most clever creature."
+    },
+    "easyRiddle": {
+      "text": "I need six symbols: something you aim at, something that flies fast, something that sparkles brightly, something in the night sky, something that strikes with power, and something that changes its shape.",
+      "hint": "Bullseye, spacecraft, gems, astronomy, weather, insects."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      21,
+      4,
+      8
+    ]
   }
 }
