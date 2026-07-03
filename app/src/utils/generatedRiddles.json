@@ -30273,5 +30273,41 @@
       13,
       5
     ]
+  },
+  "sol_1377": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the sky-piercer's flame, while gemstone's gleam reflects through prism's arc. Masked revelry twirls with scaled majesty, and fortune's fool grins eternal. Which six unlock the veil between chaos and destiny?",
+      "hint": "Consider elements of chance, spectacle, and cosmic power. One brings luck, one brings light, one brings laughter."
+    },
+    "easyRiddle": {
+      "text": "Find the magic six: a bullseye, a jewel that sparkles, a colorful arc, a jester's grin, a powerful beast, and the night's guardian. What are they?",
+      "hint": "Think of carnival games, precious stones, weather, theater, mythology, and the sky."
+    },
+    "answer": [
+      0,
+      2,
+      9,
+      19,
+      14,
+      21
+    ]
+  },
+  "emlo_555": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gem-like value sparkles bright. Dancing through digital fire, I'm guided by fortune's dice, wrapped in butterfly wings of hope and rainbow dreams.",
+      "hint": "Think of a memecoin's journey: direction, movement, value, energy, luck, and transformation"
+    },
+    "easyRiddle": {
+      "text": "What flies to the moon with a gem and lightning speed, burns with fire, and gets lucky with the dice?",
+      "hint": "A rocket goes to the moon"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      8
+    ]
   }
 }
