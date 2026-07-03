@@ -30112,5 +30112,40 @@
       14,
       21
     ]
+  },
+  "sol_1370": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the dancer's grace, six symbols weave through cosmic space. The jester's grin beneath the moon's pale glow, while thunder's kiss and salamander's show ignite the stage where chance unfolds. A prismed beam completes what fate beholds.",
+      "hint": "One points forward, one laughs at fate, one lights the night, one rules the stage, one strikes with power, one bends the light."
+    },
+    "easyRiddle": {
+      "text": "Find the target where dreams take flight, the joker's smile in starlit night, the dragon bold, the lightning's might, the fire's dance, and crystal bright.",
+      "hint": "Look for: something you aim at, a fool, a mythical beast, a spark, heat, and something transparent."
+    },
+    "answer": [
+      0,
+      19,
+      13,
+      5,
+      6,
+      20
+    ]
+  },
+  "emlo_552": {
+    "hardRiddle": {
+      "text": "I'm a digital dream riding cosmic waves, where fortune strikes like lightning through the fire. The joker dances with gems under moonlight, while a fox guards the treasury of sparkles. What five symbols complete this memecoin lottery?",
+      "hint": "Look for celestial bodies, electrical energy, precious stones, a cunning animal, and magical glimmers"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket heading to the moon, the lightning strike, the shining gem, the magical sparkles, and the clever fox in the carnival of fortune!",
+      "hint": "One goes up, one strikes down, one glitters, one shines bright, and one is sneaky"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      9,
+      12
+    ]
   }
 }
