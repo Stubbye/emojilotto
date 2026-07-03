@@ -30094,5 +30094,23 @@
       8,
       10
     ]
+  },
+  "sol_1369": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis seeks the prism of chance. The archer's goal gleams beneath the jester's crimson grin, while storms kiss crystal dreams and nature's bloom trembles in the brilliant threshold between worlds.",
+      "hint": "Look to the sky, the stage of deceit, and the gemstone that captures all light. One creature transforms, one brings laughter, one seeks precision."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in riddles of light: one marks the goal, one sparks the sky, one laughs in masks, one transforms in flight, one blooms in gardens, and one shines eternal.",
+      "hint": "Target, Lightning, Joker, Butterfly, Flower, and Star are your answers."
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      8,
+      14,
+      21
+    ]
   }
 }
