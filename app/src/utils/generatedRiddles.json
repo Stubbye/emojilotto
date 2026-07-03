@@ -30147,5 +30147,23 @@
       9,
       12
     ]
+  },
+  "sol_1371": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged metamorphosis seeks the prism's grace. Through crystalline depths and luminous arcs, six avatars converge—one strikes from shadow's throne, one blooms eternal, one spirals through chaos, one glimmers in the void, one bears the crown of victory, and one guards the threshold between worlds.",
+      "hint": "Look for transformation, luck, and celestial themes. One element touches the untouchable, one claims dominion, one bridges realms."
+    },
+    "easyRiddle": {
+      "text": "Six secrets hide in symbols bright: a gem that glows, a moth that flies, a burst of light so pure and white, a dragon's ancient watchful eyes, a star that crowns the victor's night, and fortune's joker in disguise.",
+      "hint": "Think of sparkles, butterflies, lightning, dragons, trophies, and cards."
+    },
+    "answer": [
+      6,
+      8,
+      10,
+      13,
+      18,
+      21
+    ]
   }
 }
