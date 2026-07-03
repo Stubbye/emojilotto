@@ -30309,5 +30309,23 @@
       6,
       8
     ]
+  },
+  "sol_1378": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sentinel, a jeweled breath ignites the void. The jester's twin dances through tempest's fury, while the scaled dreamer weaves threads of fortune through the prism's song. Six souls converge where destiny's wheel turns.",
+      "hint": "Consider symbols of chance, celestial bodies, precious things, chaos, mythology, and artistry. One represents the game itself."
+    },
+    "easyRiddle": {
+      "text": "I am the target of all games. I shine high above. I sparkle and glow. I dance with mischief. I breathe ancient fire. I paint all colors. What six treasures complete the lottery's destiny?",
+      "hint": "Think of: the goal, night sky, gems that shine, a trickster, a mythical beast, and the spectrum of light."
+    },
+    "answer": [
+      0,
+      2,
+      10,
+      13,
+      14,
+      22
+    ]
   }
 }
