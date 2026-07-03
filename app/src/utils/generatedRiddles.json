@@ -30255,5 +30255,23 @@
       4,
       13
     ]
+  },
+  "sol_1376": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged messenger ascending through prismatic arcs of destiny. Six symbols of fate intertwine: the bull's-eye of ambition meets the serpent's ancient wisdom, as lightning splits the veil between realms. The jester's mask conceals truth, while gemstone brilliance refracts hope's eternal flame.",
+      "hint": "Seek the highest aspirations, trickery's revealer, the treasure within stone, the winged metamorphosis, power's raw fury, and the dragon's kin who hunts in shadows."
+    },
+    "easyRiddle": {
+      "text": "I contain a marksman's goal, a trickster's grin, a precious stone that gleams, a creature with painted wings, a dragon's distant relative, and nature's most violent kiss.",
+      "hint": "Think of targets, jesters, gems, insects, cunning animals, and storms."
+    },
+    "answer": [
+      0,
+      19,
+      2,
+      8,
+      13,
+      5
+    ]
   }
 }
