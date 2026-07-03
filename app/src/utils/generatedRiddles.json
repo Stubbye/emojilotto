@@ -30165,5 +30165,41 @@
       18,
       21
     ]
+  },
+  "sol_1372": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers spiral through veils of chance. The archer's mark meets the wings of metamorphosis, while crystalline dreams shatter against the jester's grin. In this alchemy of fate, the nocturnal sentinel grins, and thunder writes its fleeting signature upon the stage of illusion.",
+      "hint": "One reflects ambition's aim, one transforms through struggle, one mocks with wisdom, one rules the night, one strikes swift judgment, and one holds secrets of earth's depths."
+    },
+    "easyRiddle": {
+      "text": "I point the way to victory's heart. I spread my wings and change my form. I sparkle with truth buried deep. I laugh at destiny's game. I glow when darkness falls. I strike without warning.",
+      "hint": "Think of targets, transformations, precious things, tricksters, night skies, and sudden power."
+    },
+    "answer": [
+      0,
+      8,
+      20,
+      19,
+      2,
+      4
+    ]
+  },
+  "emlo_553": {
+    "hardRiddle": {
+      "text": "I chase the 🚀 to reach the 🌙, my ⚡ strikes when hype ignites the 🔥. A 💎 gleams in chaos, yet the 🦊 whispers caution to the hopeful masses seeking their 🎯.",
+      "hint": "Five elements of crypto dreams and one cunning trickster's warning"
+    },
+    "easyRiddle": {
+      "text": "A rocket launches toward the moon with lightning speed and fire. A gem sparkles while a fox watches. What are these six symbols?",
+      "hint": "One takes you to space, one shines bright, one moves fast, one burns hot, one glimmers, one observes"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      13
+    ]
   }
 }
