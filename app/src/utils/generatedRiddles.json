@@ -30327,5 +30327,23 @@
       14,
       22
     ]
+  },
+  "sol_1379": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, the jester's grin beneath the gem's desire. Six tokens dance: the winged sprite ascends through crystalline night where fate's arc bends. The dragon's breath ignites the stage, while masked performers turn each page. What six shall crown the seeker's quest?",
+      "hint": "One guides aims, one rules the jest, one glimmers hard, one soars with zest, one breathes in gold, one hides the face."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures for the bold: a target true, a gem that's gold, a joker's laugh, a dragon's might, a crystal clear, and masked delight. Which six unlock the lottery's call?",
+      "hint": "Look for aim, stone, trickster, beast, gem, and theater."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      14,
+      21,
+      19
+    ]
   }
 }
