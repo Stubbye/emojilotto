@@ -30201,5 +30201,23 @@
       2,
       13
     ]
+  },
+  "sol_1373": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses fortune's dance, six spirits entwine in chance. The archer's mark meets frozen light, while twin flames waltz through endless night. Metamorphosis joins the crowned victor's gleam, and crystalline dreams crystallize the scheme.",
+      "hint": "Think of targets, celestial bodies, transformations, and victory symbols intertwined with elemental forces."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one aims true, one burns bright, one glimmers from above, one transforms with love, one sparkles pure and clear, and one claims victory here.",
+      "hint": "Consider aim, fire, the moon, butterflies, gems, and trophies."
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      8,
+      20,
+      18
+    ]
   }
 }
