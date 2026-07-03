@@ -30219,5 +30219,23 @@
       20,
       18
     ]
+  },
+  "emlo_554": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, sparkle with gem-like brilliance, and my mystical charm strikes like lightning. Rainbow waves guide my path as I dance with dragon energy toward fortune's trophy.",
+      "hint": "Think of what defines a memecoin's journey: its explosive launch, precious value, magical allure, and the colorful volatility that captures hearts."
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off, 💎 shines bright, ⚡ strikes fast, 🌈 shows the way, 🐉 brings magic, 🏆 claims victory",
+      "hint": "Six symbols of a memecoin's wild ride to the moon and beyond!"
+    },
+    "answer": [
+      1,
+      2,
+      9,
+      23,
+      14,
+      18
+    ]
   }
 }
