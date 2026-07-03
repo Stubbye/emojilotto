@@ -30237,5 +30237,23 @@
       14,
       18
     ]
+  },
+  "sol_1375": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in chaos and grace. The jester's grin guards the vault of night, while gemstones weep beneath the fox's cunning sight. Thunder cracks the stage of painted dreams, and in the spiral where all things gleam, the answer dwells in ordered sequence—seek the marks that pierce the veil between worlds.",
+      "hint": "Consider the hunter's precision, the sky's reward, the chaos of chance, the trickster's role, the jewel's value, and the creature of intellect."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key: one aims true, one reaches high, one sparkles precious, one laughs in disguise, one crackles with power, and one thinks quick.",
+      "hint": "Target, Rocket, Gem, Joker, Lightning, Fox"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      4,
+      13
+    ]
   }
 }
