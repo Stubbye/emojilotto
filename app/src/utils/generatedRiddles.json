@@ -30345,5 +30345,23 @@
       21,
       19
     ]
+  },
+  "emlo_556": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, where gem-like treasures sparkle in electric storms. A joker's luck dances with fox cunning, while dragon fire lights the way to fortune's stage.",
+      "hint": "Think of memecoin journey: the launch, the destination, the volatility, the community spirit, and lucky charms"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, ⚡ strikes the 💎, 🦊 brings 🍀 for lucky wins!",
+      "hint": "A rocket launch story with luck and fortune"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      7,
+      13,
+      19
+    ]
   }
 }
