@@ -30435,5 +30435,23 @@
       10,
       8
     ]
+  },
+  "sol_1384": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge from the veil. The archer's mark meets the heavens' glow, while twin spirits of chance and mirth spiral through metamorphosis. Brilliance fractures into storms, and fortune's crown gleams where laughter masks truth.",
+      "hint": "One guides direction, one illuminates possibility, one transforms through stages, one strikes with power, one celebrates victory, one conceals identity."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: one points the way, one shines from above, one sparkles bright, one strikes fast, one crowns the winner, one hides the face.",
+      "hint": "Think of targets, celestial bodies, precious things, weather, achievement, and theatrical disguise."
+    },
+    "answer": [
+      0,
+      21,
+      10,
+      4,
+      17,
+      18
+    ]
   }
 }
