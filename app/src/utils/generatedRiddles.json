@@ -30471,5 +30471,41 @@
       4,
       8
     ]
+  },
+  "sol_1386": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's grin echoes through prismatic halls. Six sentinels guard the threshold: one strikes with heaven's wrath, one glimmers in the void's embrace, one spins in theatrical jest, one blazes with primordial fury, one refracts eternal light, and one hunts through shadowed groves. Seek the number that bridges chaos and cosmos.",
+      "hint": "Look to the sky's fury, night's jewel, the fool's crown, inferno's rage, luck's fragments, and cunning's mask."
+    },
+    "easyRiddle": {
+      "text": "Six magical friends gather for the lottery: one strikes from the clouds, one shines in the night sky, one makes people laugh with tricks, one burns bright and hot, one sparkles with luck, and one is clever and sly. What are their numbers?",
+      "hint": "Thunder, Moon, Joker, Fire, Sparkles, and Fox"
+    },
+    "answer": [
+      4,
+      3,
+      11,
+      6,
+      10,
+      12
+    ]
+  },
+  "emlo_559": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive energy, my gems sparkle with electric fortune, while the joker dances through chaos. What six symbols guide the lucky gambler to stardom?",
+      "hint": "Think of a memecoin journey: destination, speed, treasure, luck, chaos, and the reward."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 shines bright, ⚡ strikes quick, 🌙 is the goal, 🎭 tricks you, and ⭐ rewards the winner. Which six emojis make the perfect memecoin adventure?",
+      "hint": "A rocket launches toward the moon with gems and lightning, while a joker and star complete the lucky path."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      19,
+      22
+    ]
   }
 }
