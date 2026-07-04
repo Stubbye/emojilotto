@@ -30543,5 +30543,41 @@
       14,
       20
     ]
+  },
+  "sol_1389": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets serpent's ancient flame, six tokens dance betwixt fortune's game. The winged metamorphosis seeks prismatic arc, while jester's laughter echoes through the dark. Lightning's twin brother strikes where gemstones gleam, and fortune's silver crescent births the dream.",
+      "hint": "One brings change, one brings luck, one brings light. Three more hide in nature's sight."
+    },
+    "easyRiddle": {
+      "text": "Six magical things await your call: a target true, a dragon's thrall, a gem so bright, the moon's pale light, lightning's strike, and fire's might.",
+      "hint": "Look for: bullseye, scaled beast, jewel, night sky, electricity, and flames."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  "emlo_560": {
+    "hardRiddle": {
+      "text": "I chase the dreams that shimmer bright, with electricity in my flight. I gem the path where rockets soar, while fire burns forevermore. Lightning strikes my crystal core, as dragons guard what memers adore.",
+      "hint": "Think of the essential elements that make a memecoin's journey to the moon legendary"
+    },
+    "easyRiddle": {
+      "text": "Rocket takes you to the moon, gem sparkles in the light soon. Fire burns with all its might, lightning strikes so fast and bright. Dragon watches from above, crystal shines with memers' love.",
+      "hint": "Count the magical objects in this crypto adventure"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      14,
+      20
+    ]
   }
 }
