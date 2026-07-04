@@ -30363,5 +30363,41 @@
       13,
       19
     ]
+  },
+  "sol_1381": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six silent witnesses dance in twilight's game. The jester's grin beholds the prism's scattered song, while wings of metamorphosis drift where lightning belongs. Beneath the crimson veil of chaos, a treasure gleams—the fox's cunning mirrors what the dragon dreams.",
+      "hint": "Seek the trickster, the winged, the scaled, the struck, the shattered light, and destiny's mark"
+    },
+    "easyRiddle": {
+      "text": "I am six things that shimmer and shine. One points true, one roars with fire, one laughs in masks, one transforms with desire, one guards with scales, and one pierces the sky. Gather us all if you dare to try.",
+      "hint": "Look for targets, flames, jesters, butterflies, dragons, and lightning"
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      8,
+      14,
+      4
+    ]
+  },
+  "emlo_557": {
+    "hardRiddle": {
+      "text": "I chase the digital sky with blazing speed, collecting shimmering treasures that make holders dream. I spark with electricity and cosmic fortune, guided by a mystical force that dances with luck. What six symbols represent my journey to infinity?",
+      "hint": "Think of velocity, wealth, luck, destination, power, and fortune combined"
+    },
+    "easyRiddle": {
+      "text": "A fast vehicle goes up high, finds sparkly rocks, reaches the destination, gets lucky with a magic force, and celebrates with fortune. Which six emojis show this memecoin adventure?",
+      "hint": "Rocket, gem, moon, lightning, dice, trophy"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      17
+    ]
   }
 }
