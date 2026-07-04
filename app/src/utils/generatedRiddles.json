@@ -30399,5 +30399,23 @@
       11,
       17
     ]
+  },
+  "sol_1382": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a prism born of chaos lights the race. The trickster's grin conducts the night's sweet song, while scales of fate roll ever fierce and strong. Twin wings ascend through tempests bright and bold, as crystal tears of heaven's fire unfold.",
+      "hint": "Seek the convergence of aim, illusion, music, chance, transformation, and frozen light."
+    },
+    "easyRiddle": {
+      "text": "I point and strike, I fool and play, I dance and sparkle, come what may. A dragon's scale, a guitar's cry, where luck and magic touch the sky.",
+      "hint": "One guides, one deceives, one sings, one rolls, one soars, one shines."
+    },
+    "answer": [
+      0,
+      11,
+      16,
+      13,
+      8,
+      20
+    ]
   }
 }
