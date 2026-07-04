@@ -30579,5 +30579,23 @@
       14,
       20
     ]
+  },
+  "sol_1390": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weep, a gem-crowned dancer pirouettes through electric dreams, painting chaos with crystalline light upon the stage where masked jesters laugh at destiny's cruel symphony.",
+      "hint": "Count the stages of luck: a hunter's mark, a sky-born stone, a radiant prism, a theater's soul, a jester's grin, and the spark that shatters silence."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one that aims true, one that gleams hard, one that falls from above, one that crackles with rage, one that grins with mischief, and one that reflects all colors.",
+      "hint": "Target, gem, moon, lightning, joker, and crystal."
+    },
+    "answer": [
+      0,
+      3,
+      14,
+      5,
+      18,
+      20
+    ]
   }
 }
