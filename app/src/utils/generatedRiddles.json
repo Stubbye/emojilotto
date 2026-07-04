@@ -30615,5 +30615,23 @@
       18,
       20
     ]
+  },
+  "sol_1392": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's twin flames, the jester's laughter echoes through prismatic veils. Five-pointed sentinel guards the metamorphosis of dusk, while electric serpent dances with luck's crimson breath. In this nexus of chance, destiny's spectrum unfolds between the grinning mask and nature's scaled prophecy.",
+      "hint": "Seek where cosmic luck aligns with transformation, guarded by theatrical chance and mythical wisdom."
+    },
+    "easyRiddle": {
+      "text": "A star shines bright, a joker grins wide, lightning strikes with fiery pride. A dragon coils as fortune turns, while a butterfly in spectrum burns. What six symbols spin the wheel of chance?",
+      "hint": "Look for celestial light, theatrical luck, electric power, mythical beasts, flying metamorphosis, and blazing energy."
+    },
+    "answer": [
+      22,
+      19,
+      5,
+      1,
+      8,
+      14
+    ]
   }
 }
