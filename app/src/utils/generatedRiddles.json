@@ -30417,5 +30417,23 @@
       8,
       20
     ]
+  },
+  "emlo_558": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins through cosmic fire, where winged creatures dance toward lunar desire. Crystalline dreams strike with electric might, as nature's bloom sparkles in the night.",
+      "hint": "Think of a memecoin journey: chaos, speed, wealth, destiny, energy, and beauty combined."
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket with fire and lightning! A joker holds a crystal that sparkles so bright, while a butterfly dances in pure delight.",
+      "hint": "Count the objects: a vehicle, a force, electricity, a gem, magic shimmer, and a flying friend."
+    },
+    "answer": [
+      1,
+      5,
+      9,
+      2,
+      10,
+      8
+    ]
   }
 }
