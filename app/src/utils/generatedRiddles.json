@@ -30453,5 +30453,23 @@
       17,
       18
     ]
+  },
+  "sol_1385": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers weave their grace. The gemstone gleams in nocturnal throne, while electricity and inferno make their moan. A winged soul pirouettes through cosmic dust, and radiant sparks affirm the just. The stage of wonders calls them all, where luck and destiny enthrall.",
+      "hint": "Seek the marksman's domain, the sleeping orb's dominion, the ruby's splendor, the bolt's fury, the blaze's hunger, and the creature of metamorphosis among the stellar showman's audience."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance align in night: the archer's mark glows bright, the moon watches from above, a jewel catches love, fire dances with electric might, and butterfly takes flight.",
+      "hint": "One aims, one dreams, one shines, one burns, one strikes, and one transforms."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      5,
+      4,
+      8
+    ]
   }
 }
