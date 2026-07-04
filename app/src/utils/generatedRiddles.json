@@ -30507,5 +30507,23 @@
       19,
       22
     ]
+  },
+  "sol_1387": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols weave through fate's expanse. The archer's mark glows in night's domain, while winged metamorphosis breaks the chain. Electricity births a crystalline gleam, and masked performers haunt the dream. What six shall align when chaos takes flight?",
+      "hint": "Think of transformation, targeting destiny, and the interplay between electricity and precious stones"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures from the cosmos and carnival: one marks your aim, one touches the stars above, one sparkles with electricity's kiss, one transforms with delicate wings, one hides in theatrical masks, and one glistens like a precious stone. What are they?",
+      "hint": "Look for: something you aim at, something in the night sky, something bright and electrical, something that transforms, something theatrical, and something precious"
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      8,
+      19,
+      20
+    ]
   }
 }
