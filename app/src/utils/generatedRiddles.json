@@ -30597,5 +30597,23 @@
       18,
       20
     ]
+  },
+  "sol_1391": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a scaled serpent dances with nature's desire. In prisms of luck, the jester's gold gleams, while wings of transformation drift through fever dreams. Six souls entwine in destiny's game—can you name the symbols that birth the flame?",
+      "hint": "One brings precision, one brings chaos from above. One whispers ancient wisdom, one flutters free. One mocks with mirth, one refracts all light."
+    },
+    "easyRiddle": {
+      "text": "I have a bullseye but shoot no arrow. I strike from the sky with bright and narrow. A winged creature that transforms with grace. A beast with scales that claims its place. A jester's grin of mischief and jest. A crystal that bends light to pass the test. Name these six and claim your prize.",
+      "hint": "Look for: accuracy, electricity, metamorphosis, mythology, foolishness, and refraction."
+    },
+    "answer": [
+      0,
+      4,
+      8,
+      13,
+      18,
+      20
+    ]
   }
 }
