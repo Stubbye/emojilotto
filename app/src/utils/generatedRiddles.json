@@ -30525,5 +30525,23 @@
       19,
       20
     ]
+  },
+  "sol_1388": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's mask conceals what lightning reveals. A gemstone births from chaos's spark, while masked performers waltz through prismatic dark. The dragon's breath meets the jester's grin, as crystalline truth spirals deep within.",
+      "hint": "Seek the intersection of chance, deception, and cosmic power. One element repeats the game itself."
+    },
+    "easyRiddle": {
+      "text": "I contain a game of chance, a fiery sky messenger, a precious stone, a laughing deceiver, a mythical beast, and a clear hard stone. What six do I hold?",
+      "hint": "Think of lottery symbols: luck, fortune, danger, misdirection, legend, and clarity."
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      19,
+      14,
+      20
+    ]
   }
 }
