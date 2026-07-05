@@ -30687,5 +30687,23 @@
       5,
       9
     ]
+  },
+  "sol_1395": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's caress, six sentinels of destiny convene. The jester's grin eclipses twin celestial spheres, whilst nature's metamorphosis dances with the serpent's ancient wisdom. A prism bleeds its secrets through the firmament's percussion, and where luck's bones settle, the victor's laurel awaits. Seek the wielder of strings in purple reverie, the winged transformation through electric tempest.",
+      "hint": "Consider the symbols of chance, transformation, power, and celestial bodies. One brings joy through performance, another through competition."
+    },
+    "easyRiddle": {
+      "text": "I am six gifts from the cosmos and carnival: the target of dreams, the messenger of ascension, the jeweled prize, the night's wandering eye, the joker's laughter, and the winged dancer transformed by storms.",
+      "hint": "Look for: a game's objective, upward movement, something precious, the moon's sibling, entertainment, and an insect."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      3,
+      11,
+      8
+    ]
   }
 }
