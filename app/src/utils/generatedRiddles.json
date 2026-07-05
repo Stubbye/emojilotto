@@ -30705,5 +30705,23 @@
       11,
       8
     ]
+  },
+  "sol_1396": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a crystalline shard gleams in darkness spent. The jester's grin dances with scaled breath, while nature's winged grace defies death. Thunder's kiss ignites what mortals seek, and verdant fortune shields the meek.",
+      "hint": "Six tokens of fate: one aims, one climbs, one sparkles, one grins, one soars, one glows with luck"
+    },
+    "easyRiddle": {
+      "text": "A target, a rocket soaring high, a gem that shines, a joker's cry. A butterfly dancing through the air, and lightning's spark beyond compare.",
+      "hint": "Look for: something you aim at, something that flies to space, something precious, a card character, a winged insect, and electricity"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      8,
+      5
+    ]
   }
 }
