@@ -30633,5 +30633,41 @@
       8,
       14
     ]
+  },
+  "sol_1393": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's grin, and fortune's prism births wings of chaos. The archer's dance meets the serpent's ancient throne, while lightning births the bloom of chance eternal.",
+      "hint": "Look to the sky, the cards, the scales, and creatures of legend. Six symbols hide where luck and cosmos entwine."
+    },
+    "easyRiddle": {
+      "text": "A target's aim meets a joker's wit. Lightning strikes where a dragon rules. Gems sparkle near where rockets ignite. Find these six treasures of chance.",
+      "hint": "One shoots straight, one laughs wildly, one blazes bright, one is ancient, one glimmers, one soars high."
+    },
+    "answer": [
+      0,
+      3,
+      6,
+      13,
+      20,
+      21
+    ]
+  },
+  "emlo_561": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles when you're in need. The rocket flies through stars so bright, while fire dances left and right. A crystal trophy marks your might, and fortune spins with all its light.",
+      "hint": "Six symbols of crypto dreams and midnight schemes"
+    },
+    "easyRiddle": {
+      "text": "Find the moon up in the sky, watch the rocket flying high. See the gem so bright and clear, lightning strikes to bring you cheer. Fire burns and crystal shines, fortune's here in these designs.",
+      "hint": "Look for celestial objects, magical stones, and elements of luck"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      6,
+      20
+    ]
   }
 }
