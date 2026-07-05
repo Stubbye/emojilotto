@@ -30831,5 +30831,23 @@
       6,
       19
     ]
+  },
+  "sol_1403": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six vessels hold the thread between worlds. The jester's twin gleams in night's embrace, while winged metamorphosis spirals through prismatic veils. Thunder's kiss meets the gem's eternal heart, all converging where games of chance meet destiny's stage.",
+      "hint": "One reflects luck in trickery, one soars beyond, one changes form, one illuminates darkness, one strikes with power, one endures forever."
+    },
+    "easyRiddle": {
+      "text": "Find the joker's gamble, the rocket's dream, the butterfly's magic, the lightning's strike, the gem's brilliance, and the moon's mystery.",
+      "hint": "Look for: a playing card character, something that flies to space, a creature that transforms, electricity, something precious, and something in the night sky."
+    },
+    "answer": [
+      11,
+      1,
+      8,
+      5,
+      2,
+      3
+    ]
   }
 }
