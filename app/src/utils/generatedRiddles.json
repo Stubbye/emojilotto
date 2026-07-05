@@ -30849,5 +30849,23 @@
       2,
       3
     ]
+  },
+  "sol_1404": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, the trickster's grin dances betwixt fortune's wheel and nature's metamorphosis. Seven-fold the gleaming prize rests, yet only six shall paint the path through shadows where winged destiny pirouettes beneath the crystalline gaze of eternity's twin.",
+      "hint": "The answer contains a shapeshifter, a court jester, a rotating chance-bringer, a gemstone guardian, and two celestial witnesses watching from above."
+    },
+    "easyRiddle": {
+      "text": "I am laughter frozen in time, a precious stone that never melts, a wheel of chance that never stops, a creature born twice in its lifetime, and two bright sentries that guard the night sky together.",
+      "hint": "One spins for luck, one sparkles bright, one laughs without speaking, one transforms, and two watch from above."
+    },
+    "answer": [
+      13,
+      11,
+      10,
+      8,
+      21,
+      1
+    ]
   }
 }
