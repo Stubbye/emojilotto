@@ -30777,5 +30777,23 @@
       8,
       10
     ]
+  },
+  "sol_1399": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, a masked jester spins beneath the moon's trance. Six secrets whisper: the archer's distant prize, the serpent's scaled ascent through midnight skies, the crystalline tears of earth's buried crown, the winged nomad seeking petals renown, the bolt that shatters stillness into song, and the four-leafed sentinel where all belong.",
+      "hint": "One points outward, one rises high, one gleams below, one flutters nigh, one strikes with fury, one guards with grace."
+    },
+    "easyRiddle": {
+      "text": "A target awaits, a dragon takes flight, a crystal shines bright, a butterfly takes light, lightning strikes fast, and a clover brings luck. Which six dance together in fortune's luck?",
+      "hint": "Look for aim, myth, sparkle, wings, nature's flash, and Irish charm."
+    },
+    "answer": [
+      0,
+      3,
+      6,
+      8,
+      11,
+      20
+    ]
   }
 }
