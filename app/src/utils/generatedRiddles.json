@@ -30669,5 +30669,23 @@
       6,
       20
     ]
+  },
+  "sol_1394": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers coalesce in fortune's trance. The scaled sovereign breathes upon luck's canvas whilst the nocturnal guardian's jeweled tears ignite the jester's purple masquerade. Lightning splits the stage where wings unfurl in chromatic arcs, and chance itself spins eternal.",
+      "hint": "Look to the sky, the stage, and the depths of chance itself. One rules realms unseen, one cuts through darkness."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this poetic game: a fire-breathing beast of fame, a night sky guide, a purple jest, a winged dancer at her best, a bolt that strikes, and colors blessed.",
+      "hint": "Think of mythical creatures, nighttime, comedy, insects, weather, and beauty."
+    },
+    "answer": [
+      14,
+      13,
+      21,
+      8,
+      5,
+      9
+    ]
   }
 }
