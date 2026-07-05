@@ -30723,5 +30723,23 @@
       8,
       5
     ]
+  },
+  "sol_1397": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate converge. The archer's mark meets the serpent's coil, while the jester grins at destiny's masquerade. Twin wings flutter through the crimson curtain, and crystal tears fall upon the victor's throne.",
+      "hint": "Look to the heavens, the stage, and the victor's pedestal. Count the mythical, the playful, and the triumphant."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the dragon's ancient wisdom, the joker's playful grin, the butterfly's graceful dance, the fire's wild passion, and the trophy's golden glory.",
+      "hint": "One is aimed at, one guards treasure, one laughs, one flies, one burns, one is won."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      6,
+      18
+    ]
   }
 }
