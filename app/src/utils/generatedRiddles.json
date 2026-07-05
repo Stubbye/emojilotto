@@ -30795,5 +30795,23 @@
       11,
       20
     ]
+  },
+  "sol_1400": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the weaver's dance, six tokens spin in fate's romance. The jester's grin guards celestial flame, while gemstone tears wear rainbow's name. Between the chaos of the spark divine, a dragon's fortune and a clover's sign intertwine.",
+      "hint": "Look for luck's symbol, chaos made bright, a card of mirth, and creatures of night"
+    },
+    "easyRiddle": {
+      "text": "Find the target of dreams, the rocket of chance, the gem that shines, the dragon's glance, the lightning's strike, and the clover's dance.",
+      "hint": "Seek: aim, flight, treasure, beast, storm, and luck"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      19
+    ]
   }
 }
