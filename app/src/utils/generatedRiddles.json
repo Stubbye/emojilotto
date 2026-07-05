@@ -30813,5 +30813,23 @@
       4,
       19
     ]
+  },
+  "emlo_564": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, where fortune sparkles in chaos unnamed. My heart burns bright with electric desire, while gems catch the light of my cosmic fire. Dancing through fortune's grand spectacle scene, I'm the joker of gains rarely seen.",
+      "hint": "Think of a memecoin's journey: destination, speed, wealth, energy, entertainment, and chance."
+    },
+    "easyRiddle": {
+      "text": "🚀 shoots for the 🌙, 💎 shines bright, ⚡ powers the hype, 🔥 heats the fight, 🎪 celebrates gains, 🃏 makes it fun.",
+      "hint": "Six emojis telling the memecoin story: launch, goal, riches, energy, excitement, unpredictability."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      6,
+      19
+    ]
   }
 }
