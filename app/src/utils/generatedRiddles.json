@@ -31011,5 +31011,23 @@
       10,
       3
     ]
+  },
+  "sol_1411": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester's laughter echoes through prismatic gates. The winged messenger of metamorphosis spirals toward destiny's glittering throne, while the cunning shapeshifter watches from shadows where luck and illusion intertwine.",
+      "hint": "Consider what represents chance, performance, transformation, and the night sky's mysteries together."
+    },
+    "easyRiddle": {
+      "text": "I am six: a lucky night watcher, a performer's grin, a creature of wings reborn, a trickster in fur, glittering luck's keeper, and flames that touch the stars.",
+      "hint": "Think of a circus show under the moon with magical elements."
+    },
+    "answer": [
+      1,
+      18,
+      8,
+      13,
+      11,
+      6
+    ]
   }
 }
