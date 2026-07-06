@@ -30939,5 +30939,41 @@
       9,
       5
     ]
+  },
+  "sol_1407": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial dancer weeps crystalline tears upon the jester's stage. The scaled serpent guards the threshold between chaos and harmony, while winged grace ascends through prismatic paths toward destiny's blazing apex.",
+      "hint": "Seek the marksman's aim, the night's crown, laughter's mask, scales of legend, ethereal messenger, and the color of eternity."
+    },
+    "easyRiddle": {
+      "text": "I pierce the night like a hunter's goal. I wear the crown of darkness. I dance in laughter's realm. I breathe with ancient wings. I flutter through the light. I burn with purple passion.",
+      "hint": "Think of: accuracy, the moon, comedy, mythology, delicate flight, and royal flames."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      14,
+      8,
+      5
+    ]
+  },
+  "emlo_567": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights with electric speed, burning bright with gemstone value. Where fortune spins with cosmic magic and lucky strikes ignite, a joker's treasure awaits the bold.",
+      "hint": "Think of a memecoin's journey: where it goes, what powers it, what fuels hype, and the gamble involved."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ powers it, 💎 is the prize, 🌙 is the goal, 🔥 is the hype, 🃏 is the game.",
+      "hint": "Follow the emoji path: launch, energy, wealth, destination, excitement, and chance."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      19
+    ]
   }
 }
