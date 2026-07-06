@@ -30993,5 +30993,23 @@
       8,
       13
     ]
+  },
+  "sol_1409": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester spins beneath the silver sentinel's gaze. The winged harbinger of transformation pirouettes through the luminous spectrum, while earth's crystalline tears mirror the vault of infinite wishes. Six threads of destiny intertwine—one strikes with chaos, one ascends with ambition, one deceives with laughter, one transcends with grace, one glimmers with eternity's gleam, and one crowns the victor's endless night.",
+      "hint": "Look for electricity meeting illusion, wings embracing light, and the achievement of those who reach beyond."
+    },
+    "easyRiddle": {
+      "text": "I am the messenger of dreams ascending high, the trickster who wears many faces, the bolt that ignites the sky, the dancer of air between two worlds, the sparkle of wishes eternal, and the moon that witnesses all fortunes.",
+      "hint": "Six symbols: one flies fast, one is silly, one is wild energy, one floats freely, one shines bright, and one watches from above."
+    },
+    "answer": [
+      1,
+      19,
+      4,
+      8,
+      10,
+      3
+    ]
   }
 }
