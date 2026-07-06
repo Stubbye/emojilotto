@@ -30975,5 +30975,23 @@
       5,
       19
     ]
+  },
+  "sol_1408": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers gather in shadow's trance. The archer's mark eclipsed by night, while fortune's jester spins delight. A scaled leviathan guards the gleam, and nature's painted wings dream supreme.",
+      "hint": "One marks precision, one marks chance, one holds night's secrets, one breathes flame, one symbolizes ancient power, one represents transformation."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in riddle's keep: a target straight, a dragon deep, a moon so bright, a gem so rare, a jester's laugh, and butterfly fair.",
+      "hint": "Look for: aim, night, sparkle, laughter, wings, and scales."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      13
+    ]
   }
 }
