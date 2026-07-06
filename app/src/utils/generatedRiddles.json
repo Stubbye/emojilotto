@@ -30867,5 +30867,41 @@
       21,
       1
     ]
+  },
+  "sol_1405": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's call, six sentinels of fate converge in shadow's thrall. The archer's mark doth kiss the heavens' throne, while serpent's gold and lunar whispers moan. Swift messenger ascends on lightning's breath, as nature's delicate dancer courts both life and death.",
+      "hint": "One shoots arrows, one glimmers below, one rises high, one strikes fast, one transforms, one beams bright"
+    },
+    "easyRiddle": {
+      "text": "I contain six lucky symbols: a target for precision, a gem that sparkles with worth, a moon that glows in darkness, lightning that moves swiftly, a butterfly that transforms, and a star that shines eternally.",
+      "hint": "Look for: target, gem, moon, lightning, butterfly, and star"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      21
+    ]
+  },
+  "emlo_565": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, while fortune's spark ignites the greed. A jester's luck meets dragon's might, as cosmic waves converge in flight. Where gems align with fortune's test, the butterfly finds its colorful nest.",
+      "hint": "Think of a memecoin's journey: rapid ascent, luck, power, cosmic vibes, value, and transformation."
+    },
+    "easyRiddle": {
+      "text": "A rocket launches toward the moon, lightning strikes with fortune's tune. Fire burns with dragon's flame, gems sparkle in the memecoin game.",
+      "hint": "These 6 symbols represent moon goals, speed, luck, power, wealth, and the magical crypto experience."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      13,
+      2,
+      8
+    ]
   }
 }
