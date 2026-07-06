@@ -30903,5 +30903,41 @@
       2,
       8
     ]
+  },
+  "sol_1406": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's wheel, a scaled guardian ascends through crystalline tears. The jester's grin and nature's twin bloom beckon the seeker through seven-hued gates, while the archer's mark trembles at the convergence of storm and eternal light.",
+      "hint": "One brings luck, one brings mischief, one brings transformation, one brings wealth, one brings chaos, one brings eternity."
+    },
+    "easyRiddle": {
+      "text": "I am a joker with no game, a dragon of the skies, a gem that catches light, a four-leaf prayer, fire that never burns, and a moon's eternal gaze. What six treasures unlock the lottery?",
+      "hint": "Look for the trickster, the winged beast, the precious stone, the lucky plant, the burning wonder, and the night's throne."
+    },
+    "answer": [
+      16,
+      13,
+      5,
+      19,
+      6,
+      21
+    ]
+  },
+  "emlo_566": {
+    "hardRiddle": {
+      "text": "I launch to the celestial sphere where fortunes gleam, carrying lightning's energy through a cosmic dream. My gem-studded path sparkles with chance, while purple fire dances in this lottery's trance. What six symbols guide the hodler's ascent to legendary gains?",
+      "hint": "Think of a memecoin's journey: movement, destination, wealth, electricity, luck, and mystical power combined."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with might, 🌙 glows at night, ✨ twinkles with luck, and 🔥 heats up. Which six emojis represent a memecoin moon mission?",
+      "hint": "One launches, one treasures, one energizes, one illuminates, one sparkles, and one burns hot."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      9,
+      5
+    ]
   }
 }
