@@ -31029,5 +31029,41 @@
       11,
       6
     ]
+  },
+  "sol_1412": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six enigmas dance in twilight's game. The jester's grin guards gems of night, while wings of transformation catch starlight. Thunder's kiss and primal roar converge where destiny's threads are sworn.",
+      "hint": "Seek the trickster, the mythical beast, the luminous stone, the winged grace, the electric kiss, and the archer's aim."
+    },
+    "easyRiddle": {
+      "text": "Find the joker who laughs at luck, the dragon who guards all wealth, the star that shines eternal, the butterfly that transforms, the lightning that strikes swift, and the target at destiny's end.",
+      "hint": "One is a fool, one is a beast, one shines bright, one has wings, one is electricity, one marks the goal."
+    },
+    "answer": [
+      19,
+      14,
+      21,
+      8,
+      5,
+      0
+    ]
+  },
+  "emlo_569": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, seeking treasures that sparkle beyond the veil. Fortune favors the bold who dance with chance and chaos, where mystical creatures guard the shimmer of destiny.",
+      "hint": "Think of a memecoin journey: explosive growth, lunar aspirations, and magical luck"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🌙 glows high, ✨ twinkles magic, 🎲 rolls luck",
+      "hint": "Combine these 6 emojis in order: rocket, gem, lightning, moon, sparkles, dice"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      9,
+      11
+    ]
   }
 }
