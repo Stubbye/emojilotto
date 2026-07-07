@@ -31263,5 +31263,23 @@
       10,
       2
     ]
+  },
+  "sol_1422": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, and fortune's jester dances with the winged deceiver. Six tokens hide within: the archer's destination gleams eternal, the serpent of sky coils in chromatic splendor, the nocturnal sovereign casts her pale vigil, the zephyr's violent tongue splits the veil, the masked mirth of chaos, and the threshold between mortal and mystical where petals unfold their silent secrets.",
+      "hint": "One shines above, one strikes sideways, one amuses, one transforms, one is sought, one is natural beauty."
+    },
+    "easyRiddle": {
+      "text": "I am six wishes scattered across fortune's tapestry: a precious stone that men crave, the night's pale guardian, electricity's wild dance, nature's painted arc of hope, a shape rolled by chance, and the flower that blooms in every garden.",
+      "hint": "Think of treasure, sky, weather, nature, games, and gardens."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      9,
+      11,
+      15
+    ]
   }
 }
