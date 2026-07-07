@@ -31209,5 +31209,23 @@
       13,
       21
     ]
+  },
+  "sol_1419": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate converge. The winged trickster pirouettes beneath the archer's aim, while prismatic shards birth radiance in darkness. A dragon's breath ignites the stage where masked performers bow to thunder's applause.",
+      "hint": "Think of performance, luck, and cosmic elements intertwined"
+    },
+    "easyRiddle": {
+      "text": "Six symbols guard the lottery's heart: a creature that flies and deceives, a target to hit, a dragon of legend, a mask for disguise, sparkling gems of light, and the bolt that strikes.",
+      "hint": "One flies and tricks, one you aim at, one breathes fire, one hides faces, one sparkles, one strikes fast"
+    },
+    "answer": [
+      13,
+      0,
+      12,
+      19,
+      20,
+      4
+    ]
   }
 }
