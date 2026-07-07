@@ -31173,5 +31173,41 @@
       13,
       21
     ]
+  },
+  "sol_1418": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's descent, a jeweled flame dances with chaos unspent. The jester's twin souls perform in night's grand show, while nature's metamorphosis completes the celestial flow. Six whispers of fate converge where luck ignites the darkest light.",
+      "hint": "Think of performance, gambling, transformation, and the cosmos. One element burns, one flies, one transforms, one rules, one laughs, and one shines eternal."
+    },
+    "easyRiddle": {
+      "text": "I guide the arrow true, I burn with wild heat, I shine with precious gleam, I laugh without deceit, I flutter free from chains, and I reign where stars compete. Find us six, and luck is yours to greet.",
+      "hint": "Look for: something that shoots, something hot, something valuable, something silly, something that flies, and something cosmic."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      17,
+      8,
+      21
+    ]
+  },
+  "emlo_572": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, seeking the precious gem that makes holders believe. When fortune strikes like lightning through the night, the joker's magic sets the stage alight. Watch the sparkles dance as we journey far, chasing dreams beneath the moon and star.",
+      "hint": "Think of a memecoin's explosive journey: launch, rewards, luck, and celestial destinations."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 flies up with ⚡ power. A 💎 shines bright. The 🌙 watches over. ✨ fills the night. Lady luck 🤡 plays. And 🌟 light the way. What emojis show the memecoin's play?",
+      "hint": "Moon, rocket, gem, lightning, joker, and sparkles tell the story of to-the-moon dreams."
+    },
+    "answer": [
+      1,
+      4,
+      3,
+      9,
+      13,
+      21
+    ]
   }
 }
