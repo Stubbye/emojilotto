@@ -31119,5 +31119,23 @@
       13,
       10
     ]
+  },
+  "sol_1415": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, six tokens dance in cryptic desire. The archer's mark meets the serpent's ascent, as prismatic light splits the veil heaven-sent. In this labyrinth of chance, the fox's cunning entwines with percussion's silent song, while petaled grace blooms eternal among the stars of aurora's throng.",
+      "hint": "One guides aim, one climbs the void, one grants wishes, one deceives with glee, one hunts wisdom, one sings the cosmos."
+    },
+    "easyRiddle": {
+      "text": "Seeking six fortune tokens: the bull's-eye mark, the fire-breather ascending high, the laughing trickster's grin, the fool's prism of light, the crimson bloom of petals, and the cosmic sphere that guides night travelers home.",
+      "hint": "Think of targets, dragons, entertainment, colors, flowers, and celestial bodies."
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      21,
+      14,
+      3
+    ]
   }
 }
