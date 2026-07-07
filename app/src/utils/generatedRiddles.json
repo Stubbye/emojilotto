@@ -31137,5 +31137,23 @@
       14,
       3
     ]
+  },
+  "emlo_571": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's electric might. My gem-like essence crackles with fire, while fortune's jester spins desire. Under the moon's glow, I promise the sky—where lightning strikes and diamonds multiply.",
+      "hint": "A memecoin's journey: from earth to beyond, powered by luck and holding bonds"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes with all its might. Moon glows above, fire burns hot, joker laughs at this memecoin plot!",
+      "hint": "Six symbols of a crypto adventure to the moon"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      19,
+      21
+    ]
   }
 }
