@@ -31083,5 +31083,41 @@
       16,
       20
     ]
+  },
+  "sol_1414": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through prismatic night, a jester's grin meets celestial light. The archer's mark dances with electric fate, while petals bloom at destiny's gate. Six symbols weave through chaos and flame—can you name the players in luck's ancient game?",
+      "hint": "Consider what guides fate, what celebrates chance, and what blooms in the space between."
+    },
+    "easyRiddle": {
+      "text": "Lightning strikes the moon's gentle face, a dragon guards the crystal's grace. The joker laughs where flowers bloom—which six light up the lottery room?",
+      "hint": "One is mythical, one is wild, one is bright, one is nature, one is chance, one is power."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      14,
+      15,
+      20
+    ]
+  },
+  "emlo_570": {
+    "hardRiddle": {
+      "text": "From the carnival of dreams, a jester's magic unfolds: watch the fox dance through lightning to claim treasures more precious than gems. Where moonlight meets the dragon's fire, sparkles reveal the path to diamond fortune.",
+      "hint": "Think of chaos, luck, and celestial fortune combined"
+    },
+    "easyRiddle": {
+      "text": "A rocket launches toward the moon, guided by a lucky clover. The joker juggles gems while lightning strikes—what six things light up the memecoin dream?",
+      "hint": "Space travel, luck, cards, and precious stones"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      6,
+      13,
+      10
+    ]
   }
 }
