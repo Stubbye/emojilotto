@@ -31227,5 +31227,41 @@
       20,
       4
     ]
+  },
+  "sol_1420": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the heavens' flame, six tokens dance in chaos' game. The jester's grin beneath celestial beams, while crystalline dreams shimmer with electric seams. A winged soul spirals through prismatic mist, as chance itself cannot resist.",
+      "hint": "Look for the trickster, the spark, the scaled fortune-keeper, the prism-maker, the fluttering seeker, and destiny's mark."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: one aims true, one lights the sky, one glimmers hard, one rules the night, one dances with magic, and one transforms the air.",
+      "hint": "Precision, ascension, brilliance, darkness, electricity, and metamorphosis."
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      6,
+      8,
+      5
+    ]
+  },
+  "emlo_573": {
+    "hardRiddle": {
+      "text": "I chase the dreams of diamond hands, racing past the celestial sphere. Lightning strikes my path as flames ignite the memes. A jester's grin masks the chaos, while fortune spins in glittering dust. What six symbols mark this volatile ascent?",
+      "hint": "Think: rapid gains, sky's the limit, electric vibes, hot trends, luck factor, and shimmering rewards"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with a rocket! ⚡ gets the party hot 🔥, luck spins like a 🎲, joy sparkles ✨, the joker laughs 🃏, and gems shine bright 💎. Which six emojis are these?",
+      "hint": "Rocket, lightning, fire, dice, sparkles, joker, and one more shiny thing"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      11,
+      10,
+      2
+    ]
   }
 }
