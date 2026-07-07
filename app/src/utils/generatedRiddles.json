@@ -31065,5 +31065,23 @@
       9,
       11
     ]
+  },
+  "sol_1413": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six vessels of fate conspire in trance. The winged masquerader pirouettes through prismatic arcs, while the scaled leviathan guards gems that spark. A musical jester's laughter echoes beneath the crescent throne, and fortune's wheel spins where clover seeds are sown.",
+      "hint": "Look to the sky, the stage, and luck's eternal song"
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hold the key to your dreams: a dragon soars high, a butterfly gleams, a joker plays tricks, a guitar sings true, a clover brings luck, and a gem shines through.",
+      "hint": "Count the legendary and mystical creatures, then add the symbols of fortune"
+    },
+    "answer": [
+      14,
+      8,
+      19,
+      13,
+      16,
+      20
+    ]
   }
 }
