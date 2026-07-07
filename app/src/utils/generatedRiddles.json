@@ -31155,5 +31155,23 @@
       19,
       21
     ]
+  },
+  "sol_1417": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's celestial flame, six dancers pirouette through fortune's hall of shame. The jester's crimson twin ascends on lightning's breath, while petals bloom eternal in the crystal's frozen death. A scale of chance revolves where wings beat purple night, and melodies of triumph echo through the prism's light.",
+      "hint": "Seek the intersection of fate's instruments and nature's duality—where performance meets precision, and luck dances with destiny."
+    },
+    "easyRiddle": {
+      "text": "A target holds a secret, a rocket fuels the dream. Six magical symbols shimmer in fortune's lottery scheme. Find the gem that sparkles, the joker's playful grin. A butterfly dances near where the lightning lives within.",
+      "hint": "Look for things that shine, things that perform, and things that strike—including a precision game and a foolish friend."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      12,
+      13,
+      21
+    ]
   }
 }
