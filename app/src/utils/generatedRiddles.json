@@ -31317,5 +31317,23 @@
       8,
       17
     ]
+  },
+  "sol_1424": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets hide in chaos and grace. The archer's mark meets the serpent's domain, lightning splits the veil between mortal and divine. A jester's twin spins among cosmic sparks, while the nocturnal wanderer bathes all in silver ethereal light.",
+      "hint": "Think of mythology, chance, and the night sky converging in one mystical moment."
+    },
+    "easyRiddle": {
+      "text": "Find the target that never misses, the dragon from ancient tales, the lightning that illuminates, the moon that guides lost souls, the joker who laughs at fate, and the sparkles that wish upon stars.",
+      "hint": "One aims, one flies, one strikes, one glows, one grins, and one shimmers."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      3,
+      19,
+      10
+    ]
   }
 }
