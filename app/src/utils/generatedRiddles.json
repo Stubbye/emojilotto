@@ -31335,5 +31335,23 @@
       19,
       10
     ]
+  },
+  "emlo_575": {
+    "hardRiddle": {
+      "text": "I launch to the lunar peak with electric speed, seeking gems that sparkle with fortune's greed. A jester's luck and a fox's cunning guide those who dance through my fiery rings to claim the dragon's glittering treasure.",
+      "hint": "Think of a memecoin's journey: where it goes, what powers it, what guides it, and what mythical elements surround its value."
+    },
+    "easyRiddle": {
+      "text": "To the moon with lightning power! A gem shines bright in this lucky hour. The joker spins, the fox is sly, and fire burns as dreams touch sky.",
+      "hint": "Name the six elements: destination, speed, value, luck, cunning, and energy."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      13,
+      6
+    ]
   }
 }
