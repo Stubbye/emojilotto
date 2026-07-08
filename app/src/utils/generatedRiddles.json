@@ -31425,5 +31425,23 @@
       14,
       10
     ]
+  },
+  "emlo_577": {
+    "hardRiddle": {
+      "text": "I rise with electric speed through the night, my gem-like brilliance catching fire. The joker dances as the rocket soars past the moon, while the dragon's sparkles illuminate the path to fortune. What six treasures guide the memecoin dreamer?",
+      "hint": "Think of the journey to crypto riches: starting volatile, aiming high, reaching the ultimate goal, with magical elements along the way."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that burns, the gem that shines, the rocket that flies, the joker that laughs, the dragon that roars, and the sparkles that dance in the memecoin sky.",
+      "hint": "Look for: a bolt, a precious stone, a flying machine, a silly character, a mythical beast, and twinkling magic."
+    },
+    "answer": [
+      5,
+      2,
+      1,
+      19,
+      13,
+      10
+    ]
   }
 }
