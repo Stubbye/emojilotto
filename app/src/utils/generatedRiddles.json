@@ -31371,5 +31371,41 @@
       11,
       14
     ]
+  },
+  "sol_1427": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, twin luminescence dances with chaos born of sky. The many-faced jester grins beneath prismatic chaos, while scaled eternity breathes amber dreams. Six threads weave fate's tapestry through luck's grand theater.",
+      "hint": "Consider what guides, what glimmers, what deceives, what destroys, what performs, and what endures beyond time."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one rises high, one sparkles bright, one tricks the mind, one burns with passion, one scales the heavens. Find these six tokens of destiny.",
+      "hint": "Think of: aiming, ascending, shining, fooling, heating, and ancient wisdom."
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      19,
+      5,
+      13
+    ]
+  },
+  "emlo_576": {
+    "hardRiddle": {
+      "text": "To the moon we fly with lightning speed, through fire and sparkles is our creed. A gem so bright with rocket's roar, the joker laughs forevermore. What six celestial signs align for this memecoin's grand design?",
+      "hint": "Think of a journey to space with explosive growth and precious rewards"
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts through lightning and fire, reaching the moon ever higher. Gems sparkle as the joker appears - which six things make memecoin dreams real?",
+      "hint": "Count the objects: vehicle, weather, flames, destination, treasure, and a funny character"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      3,
+      2,
+      19
+    ]
   }
 }
