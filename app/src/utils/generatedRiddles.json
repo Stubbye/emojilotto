@@ -31443,5 +31443,23 @@
       13,
       10
     ]
+  },
+  "sol_1430": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the night's pale guardian, a serpent of electricity dances with infernal breath. Six seers convene: the archer's mark, the celestial watcher, the thunderous vein, the dragon's ancient wisdom, the prism's scattered fragments, and the meteoric wanderer—together they whisper secrets only the chosen few shall decrypt.",
+      "hint": "One strikes from heavens, one guards from above, one pierces the veil, one coils through myth, one scatters light, one marks the beginning."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: something you aim for, something that flies high, something that glows at night, something fierce and scaled, something that sparkles bright, and something that strikes with power. What are they?",
+      "hint": "Think of targets, sky travelers, lunar light, mythical beasts, glittering magic, and stormy strikes."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      13,
+      10,
+      4
+    ]
   }
 }
