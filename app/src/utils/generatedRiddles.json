@@ -31479,5 +31479,41 @@
       11,
       13
     ]
+  },
+  "sol_1432": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a jeweled serpent coils beneath the weeping sky. The trickster's grin reflects in crystalline silence, as fate's electricity dances through the prism of chaos. Six keys unlock the door between laughter and the infinite.",
+      "hint": "One aims, one soars, one gleams, one watches, one deceives, one shatters"
+    },
+    "easyRiddle": {
+      "text": "Find the marksman's circle, the flying machine, the precious stone, the night guardian, the card player, and the glass that breaks reality.",
+      "hint": "Think of targets, space travel, wealth, night sky, games, and fragile things"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      20
+    ]
+  },
+  "emlo_578": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, sparkle with gem-like value, and ride waves of fortune. My rainbow trail ignites fire in traders' hearts, guided by a lucky clover. What am I?",
+      "hint": "Think of a crypto journey from launch to moon, powered by luck and volatility"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ moves fast, 🌙 is the goal, 🔥 shows hype, 🍀 brings luck. Which six light up a memecoin dream?",
+      "hint": "Count the emojis in the riddle itself"
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      3,
+      5,
+      19
+    ]
   }
 }
