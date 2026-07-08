@@ -31353,5 +31353,23 @@
       13,
       6
     ]
+  },
+  "sol_1426": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the jester's grin, six tokens dance between the worlds within. The archer's mark holds fortune's gleam, while lightning crowns the dreamer's theme. A masked performer spins with grace, as crystal petals find their place.",
+      "hint": "Look for the intersection of chance, chaos, and cosmic wonder. One brings laughter, one brings light, one brings symmetry to sight."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: the bull's-eye burns bright, the fool laughs loud, electricity strikes. A star watches over, a gem sparkles clear, and a flower blooms eternal without fear.",
+      "hint": "Think of targets, jesters, power, light, treasures, and nature's beauty."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      5,
+      11,
+      14
+    ]
   }
 }
