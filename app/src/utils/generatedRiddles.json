@@ -31515,5 +31515,23 @@
       5,
       19
     ]
+  },
+  "sol_1433": {
+    "hardRiddle": {
+      "text": "Through celestial void where Fortune's arrow pierces, six whispered secrets dance in prismatic arcs. The jester's crimson twin ignites where winged metamorphosis meets the vault of stars, whilst crystalline abundance crowns the symphony of fortune's crescendo. Seek where electricity births destiny and precious radiance crowns the eternal night.",
+      "hint": "One guides aim, one sparks chaos, one transforms dreams, one grants wishes, one sings pure joy, and one measures victory's weight."
+    },
+    "easyRiddle": {
+      "text": "Six treasures of fortune: a pointed aim, electric power, a precious stone, night's watcher, a string's sweet voice, and gold's crown.",
+      "hint": "Target, Lightning, Gem, Moon, Guitar, Trophy"
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      3,
+      16,
+      17
+    ]
   }
 }
