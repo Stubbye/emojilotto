@@ -31407,5 +31407,23 @@
       2,
       19
     ]
+  },
+  "sol_1428": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets the archer's aim, and fortune's spark ignites the night's dark frame. The scaled leviathan guards what shimmer-bright shall gleam, while winged metamorphosis dances through the dreamer's theme. In chaos' bones and melancholy's hue, six sacred tokens whisper what is true.",
+      "hint": "Consider the heavens, the hunt, the mythical, the transformative, the unpredictable, and that which bears sorrow's color."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I surge with might, I glow above, I transform flight. I roar in myth, I mourn in shade. Six symbols of fortune, carefully laid.",
+      "hint": "Target, Lightning, Moon, Butterfly, Dragon, Purple"
+    },
+    "answer": [
+      0,
+      4,
+      3,
+      8,
+      14,
+      10
+    ]
   }
 }
