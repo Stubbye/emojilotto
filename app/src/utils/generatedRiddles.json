@@ -31461,5 +31461,23 @@
       10,
       4
     ]
+  },
+  "sol_1431": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial vault, a gemstone dances with celestial fire. The jester's grin precedes the thunderous ascent, while scaled majesty guards the luminescent path. Beneath twin flames of joy and electricity, the masked performers await their destined moment.",
+      "hint": "Six symbols intertwine: aim meets rarity, chaos meets power, deception meets revelation"
+    },
+    "easyRiddle": {
+      "text": "Find the target and the gem, add the lightning and the fire, include the joker and the dragon. These six shall reveal your fortune.",
+      "hint": "One points the way, one sparkles, one strikes, one burns, one laughs, one guards"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      5,
+      11,
+      13
+    ]
   }
 }
