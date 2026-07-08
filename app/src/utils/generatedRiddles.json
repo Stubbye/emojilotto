@@ -31281,5 +31281,41 @@
       11,
       15
     ]
+  },
+  "sol_1423": {
+    "hardRiddle": {
+      "text": "Where the archer's ambition pierces celestial silence, a serpent of fortune coils through prismatic tears. The jester's grin witnesses twin flames dancing—one born of heaven's wrath, one summoned by mortal will. In this nexus of chance and chaos, six threads converge: the seeker's mark, the heavens' carriage, the void's jewel, the night's sentinel, the sky's fury, and the pyre's whisper.",
+      "hint": "Follow the path of luck: beginning with aim, ascending by flight, descended through gemstone clarity, watched by lunar eye, struck by electric fate, and consumed by heat."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await: the first aims true, the second soars high, the third shines bright and hard, the fourth glows in darkness, the fifth strikes with power, and the sixth burns with intensity.",
+      "hint": "Think of: Target, Rocket, Gem, Moon, Lightning, Fire"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_574": {
+    "hardRiddle": {
+      "text": "I spark with electric speed, racing past the gems of fortune. Where dragons breathe fire and butterflies dance through rainbow waves, a joker's trophy gleams under the moon's crystal glow. What six treasures light my path?",
+      "hint": "Think of speed, mythical beasts, celebration, and celestial rewards in the memecoin universe."
+    },
+    "easyRiddle": {
+      "text": "Find the rocket going to the moon, the lightning that strikes fast, the fire that burns bright, the dragon that guards treasure, the butterfly that brings luck, and the trophy for winners.",
+      "hint": "One goes up, one is quick, one is hot, one is ancient, one flies, one is earned."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      13,
+      8,
+      17
+    ]
   }
 }
