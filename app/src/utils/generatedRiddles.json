@@ -31641,5 +31641,41 @@
       20,
       15
     ]
+  },
+  "sol_1439": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance in shadow's choir. The jester's laugh beneath the gem, as lunar whispers condemn. Wings of transformation trace the spark, while fortunes shimmer in the dark.",
+      "hint": "Consider what ascends, what amuses, what transforms, and what glimmers in night's embrace."
+    },
+    "easyRiddle": {
+      "text": "Find the target's strike, the rocket's flight, the gem that gleams, the moon's soft light, the lightning's crack, and fire's might.",
+      "hint": "Look for action, elevation, treasure, night, electricity, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_581": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkle as fortune dances. The jester grins while chaos erupts, yet a magical creature guards the treasure beneath the show. What six symbols mark this moonbound journey?",
+      "hint": "Think of a memecoin's wild ride to success, featuring luck, entertainment, and mythical guardianship."
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with a ⚡ fast start! Collect 💎 treasures under the 🌙. A sly 🦊 watches the 🎪 show where luck sparkles ✨. What's the winning six?",
+      "hint": "A rocket adventure with gems, moon, fox, circus, and sparkles - plus one more symbol of pure chance."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      13,
+      10,
+      20
+    ]
   }
 }
