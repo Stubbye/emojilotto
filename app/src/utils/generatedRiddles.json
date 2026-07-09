@@ -31731,5 +31731,23 @@
       8,
       18
     ]
+  },
+  "sol_1442": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a jester's twin masks jest at destiny's flame. The scaled serpent guards celestial fruit while crystalline whispers dance with nature's painted bridge, all witnessed by the heavens' eternal sentinel.",
+      "hint": "Think of chaos, trickery, and the instruments of fate intertwined with mythic guardians and natural wonders."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the court's fool, the beast of legend, the gemstone's cousin, the artist's wheel, and the keeper of night—six keepers of luck in this cosmic game.",
+      "hint": "One points, one laughs, one flies with wings, one sparkles, one creates, one shines in darkness."
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      20,
+      22,
+      21
+    ]
   }
 }
