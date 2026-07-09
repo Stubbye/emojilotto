@@ -31695,5 +31695,41 @@
       13,
       20
     ]
+  },
+  "sol_1441": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the dragon's ancient zeal. Six secrets hide in chaos—one pierces the veil of night, one spins eternal jest, one breathes the phoenix bright. The jester's mask conceals what the scaled serpent knows; through crystalline prisms the answer glows.",
+      "hint": "Look for the performer, the night guardian, the chaos seeker, the mythical keeper, the prism's secret, and the brilliant flame."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols: the night watcher glows, the serpent coils in wisdom's throes, the joker grins with tricks untold, the crystal catches light of gold, the performer spins in circus round, and fire's dance makes no sound.",
+      "hint": "Find: moon, dragon, joker, crystal, circus, and fire among the emoji lottery."
+    },
+    "answer": [
+      3,
+      13,
+      19,
+      20,
+      7,
+      5
+    ]
+  },
+  "emlo_582": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, a gem that sparkles when greed takes feed. Dancing through fire with circus flair, a butterfly rises beyond compare. The joker's trophy glows with pride, where fortune and chaos collide.",
+      "hint": "Six symbols of crypto dreams: celestial heights, precious shine, speed, spectacle, transformation, and fortune."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with might. 🔥 burns hot, 🦋 takes flight, 🏆 wins the fight.",
+      "hint": "Think: launch, value, speed, energy, change, and winning big."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      18
+    ]
   }
 }
