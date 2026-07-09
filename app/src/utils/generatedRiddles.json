@@ -31677,5 +31677,23 @@
       10,
       20
     ]
+  },
+  "sol_1440": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void and celestial fire dances, a jester's twin masks reflect the winged metamorphosis. Upon crystalline depths, the thunderous beast roars beneath a sky of scattered brilliance, yet only six reveal the hidden path to destiny's golden crown.",
+      "hint": "Seek the symbols of chaos, transformation, and sky-bound power. One brings laughter, one brings change, one brings light from above."
+    },
+    "easyRiddle": {
+      "text": "A target is aimed, a rocket takes flight, a dragon breathes fire, a butterfly transforms, lightning strikes bright, and crystal shines light. Which six guide the lottery's might?",
+      "hint": "Look for symbols of direction, speed, power, change, electricity, and clarity."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      8,
+      13,
+      20
+    ]
   }
 }
