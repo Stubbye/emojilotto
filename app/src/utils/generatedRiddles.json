@@ -31533,5 +31533,23 @@
       16,
       17
     ]
+  },
+  "sol_1434": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and winged metamorphosis meets the jester's sealed. Lightning's twin speaks in crystalline song, while masked performers guide the restless throng. Seven-petaled luck beneath the dragon's gaze, ignites the prism through fortune's maze.",
+      "hint": "One emblem watches, one spins fate's game, one transforms, one deceives with laughter's claim, one conducts nature's fury's refrain, one guards wishes, one births spectral rain."
+    },
+    "easyRiddle": {
+      "text": "I strike with fury, I flutter with grace, I roll the odds, I hide my face. One watches from above, one plays tricks with love, one guards the lucky, one makes rainbows enough.",
+      "hint": "Look for electricity, wings, chance, deception, the moon, and color's dance."
+    },
+    "answer": [
+      5,
+      8,
+      11,
+      18,
+      14,
+      23
+    ]
   }
 }
