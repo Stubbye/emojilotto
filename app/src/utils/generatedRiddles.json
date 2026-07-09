@@ -31623,5 +31623,23 @@
       11,
       10
     ]
+  },
+  "sol_1438": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's grin, seven-petaled fortune spins within. The fox's cunning meets the dragon's ancient gleam, while crystal shards refract the lightning's dream. A symphony of chance where masked revels play—six tokens hold the key to fortune's sway.",
+      "hint": "One sovereign watches from above, one rules with scales of love, one deceives with painted face, one prowls through shadowed grace, one coils through eternity, one shatters light's obscurity."
+    },
+    "easyRiddle": {
+      "text": "Six secrets hide in emoji's glow: a ruler of night, a shape-shifter low, a prankster masked in jest, a scaly guest, pure brilliance split, and nature's gift.",
+      "hint": "Look for: night's monarch, cunning predator, masked fool, mythical beast, fractured stone, and blooming wonder."
+    },
+    "answer": [
+      13,
+      8,
+      19,
+      14,
+      20,
+      15
+    ]
   }
 }
