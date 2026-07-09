@@ -31587,5 +31587,41 @@
       12,
       9
     ]
+  },
+  "sol_1437": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets fortune's dance, six secrets hide in fortune's trance. The archer's mark through prisms gleams, while thunder crowns the jester's dreams. Swift-tailed wanderer bows to scales of chance, as scaled majesty joins destiny's glance.",
+      "hint": "Look for aim, light, precious stone, sky watcher, chaos bringer, and mythic beast"
+    },
+    "easyRiddle": {
+      "text": "I aim for targets, I sparkle like gems, I light up the sky, I'm wild like a fox, I roll like dice, and I breathe like a dragon. What six symbols reveal fortune's path?",
+      "hint": "Find one that points, one that shines, one that burns, one that tricks, one that wanders, and one that roars"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      13,
+      11,
+      14
+    ]
+  },
+  "emlo_580": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a precious stone that makes holders greed. Where fortune spins and luck ignites, I'm the shimmer that reaches infinite heights. What am I?",
+      "hint": "Think of a memecoin's journey: speed, value, chance, and the glow of success"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🌙 glows at night, 🎰 decides fate, ✨ seals the gate. Which six guide the crypto way?",
+      "hint": "One launches, one sparkles, one strikes, one glows, one randomizes, and one celebrates"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      10
+    ]
   }
 }
