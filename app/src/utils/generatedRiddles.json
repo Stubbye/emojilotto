@@ -31551,5 +31551,41 @@
       14,
       23
     ]
+  },
+  "sol_1435": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin flames dance with serpent's scale. The jester's grin reflects in crystalline dreams, while nature's winged messenger glides through prismatic streams. What six celestial tokens align when chaos meets destiny's golden gleam?",
+      "hint": "Think of the ultimate prize: precision, ascension, wealth, night, chaos, and transformation."
+    },
+    "easyRiddle": {
+      "text": "I am the mark of perfect aim, a fiery serpent without shame, a stone of wealth beyond compare, a night sky's glow floating in air, a jester's laugh and wings so bright. Six together spell fortune's might.",
+      "hint": "Target, Dragon, Gem, Moon, Joker, Butterfly"
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      3,
+      19,
+      8
+    ]
+  },
+  "emlo_579": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, sparkling with gem-like brilliance. Where fortune spins like a joker's trick and dragons guard the treasure, the fox knows the path. What six celestial symbols guide the memecoin believer to rainbow riches?",
+      "hint": "Think of a journey: takeoff, destination, value, luck, mythical guardian, and cunning navigator"
+    },
+    "easyRiddle": {
+      "text": "A coin flies up with lightning power to reach the shiny gem. A magical creature guards it while luck spins. A clever animal finds the way through the rainbow. What six emojis complete this memecoin adventure?",
+      "hint": "Rocket goes up, gem shines, dragon guards, dice are lucky, fox is clever, rainbow is the goal"
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      11,
+      12,
+      9
+    ]
   }
 }
