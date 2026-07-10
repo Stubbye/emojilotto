@@ -31965,5 +31965,23 @@
       4,
       9
     ]
+  },
+  "sol_1452": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, six tokens dance in fortune's maze. The winged metamorphosis ascends through crystalline tears of heaven's rage, while masked jesters spin their eternal stage. The celestial hunter prowls where amber sparks ignite, and prismatic arcs birth light from night.",
+      "hint": "One marks precision, one marks transformation, one marks sky, one marks performance, one marks the wild, one marks radiance."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a pointed aim, a flying change, the moon's bright claim, a joker's game, a beast untame, and light aflame.",
+      "hint": "Think of targets, butterflies, the night sky, theater, mythical creatures, and electricity."
+    },
+    "answer": [
+      0,
+      8,
+      3,
+      19,
+      13,
+      5
+    ]
   }
 }
