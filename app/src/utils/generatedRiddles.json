@@ -31911,5 +31911,23 @@
       9,
       10
     ]
+  },
+  "sol_1449": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, and twin flames dance with fortune's grace. A jester's grin beneath celestial gleam, while nature's painted wings pursue the dream. In crystalline depths where thunder's kiss ignites, six portals bind the seeker's destined lights.",
+      "hint": "Look for the archer's mark, the cosmic stage, the fool's domain, the night's soft glow, the gem of clarity, and the archer's opposite."
+    },
+    "easyRiddle": {
+      "text": "One points the way, one soars on high, one makes us laugh, one lights the sky, one shines with pure crystalline ray, one brings the magic every day.",
+      "hint": "Target, rocket, joker, star, crystal, and sparkles await your discovery."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      19,
+      20,
+      21
+    ]
   }
 }
