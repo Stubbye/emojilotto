@@ -31857,5 +31857,23 @@
       9,
       21
     ]
+  },
+  "sol_1447": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and grace. The masked performer pirouettes through crystalline dreams, while wings beat against prismatic walls. A fox's cunning meets the dragon's ancient flame, yet it is the jester's hidden crown that unlocks the vault of starlight.",
+      "hint": "Look for: performance, deception, mythical might, gemstone clarity, chaos's tool, and heaven's witness"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck intertwine: one brings fortune's spin, one breathes magic fire, one laughs in masks, one sparkles bright, one soars with wings, and one guards treasure.",
+      "hint": "Think of: games, heat, theater, glitter, flight, and riches"
+    },
+    "answer": [
+      11,
+      5,
+      19,
+      20,
+      8,
+      14
+    ]
   }
 }
