@@ -31749,5 +31749,23 @@
       22,
       21
     ]
+  },
+  "sol_1443": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, six seekers converge in veils of chance. The archer's mark meets the serpent's domain, while night's silver eye witnesses gems refract through chaos's electric thread. Metamorphosis blooms where laughter echoes in masked halls.",
+      "hint": "One ascends toward wealth, one guards ancient magic, one measures destiny's unpredictability, one transforms illusions into truth, one crowns the victor, one represents duality's smile."
+    },
+    "easyRiddle": {
+      "text": "Find the treasure hunter's mark, the winged sky dancer, the jester's grin, the jeweled prize, the night guardian, and the luck symbol among fortune's six chosen.",
+      "hint": "Think of targets, dragons, jokes, gems, moons, and clovers."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      2,
+      3,
+      19
+    ]
   }
 }
