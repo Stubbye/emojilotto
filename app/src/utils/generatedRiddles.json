@@ -31947,5 +31947,23 @@
       13,
       14
     ]
+  },
+  "emlo_586": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, seeking fortune's gleam. My electric magic sparkles through chaos, while fortune's wheel spins wild. What six treasures guide this memecoin voyage to legendary status?",
+      "hint": "Think of the journey: fast travel, bright destination, shiny reward, random chance, and cosmic vibes"
+    },
+    "easyRiddle": {
+      "text": "A fast vehicle zooms to a glowing place. Shiny things flash and sparkle. A wheel of fortune spins with electric power. Which six emojis show a memecoin's lucky path?",
+      "hint": "Rocket goes up, moon is the goal, gems shine, dice roll, lightning strikes, and sparkles glow"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      4,
+      9
+    ]
   }
 }
