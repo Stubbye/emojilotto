@@ -31875,5 +31875,41 @@
       8,
       14
     ]
+  },
+  "sol_1448": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a jeweled butterfly ascends through prismatic waves. The archer's mark glows beneath the jester's grin, as crystal petals spiral in electric rebirth.",
+      "hint": "Six of fortune's children: one marks the aim, one rides the void, one glimmers with inner light, one wears many faces, one commands the storm, one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "A shining stone, a winged insect, a celestial sphere, a symbol of laughter, a force of nature, and a rainbow's arch—all six converge where luck is born.",
+      "hint": "Think of treasure, insects, the sky, comedy, weather, and colors."
+    },
+    "answer": [
+      2,
+      8,
+      3,
+      19,
+      4,
+      9
+    ]
+  },
+  "emlo_585": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a gemstone prize is all I need. Rainbow waves of fortune dance, while fire and sparkles enhance my chance. What six treasures guide my flight to the moon's mystical light?",
+      "hint": "Think of a memecoin's journey to success with magical elements and celestial destination"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up with a gem so bright, lightning and fire light up the night. Rainbow and sparkles show the way, to win big money every day!",
+      "hint": "Count the magical items that help a memecoin succeed"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      9,
+      10
+    ]
   }
 }
