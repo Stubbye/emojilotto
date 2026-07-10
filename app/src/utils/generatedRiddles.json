@@ -31821,5 +31821,41 @@
       8,
       9
     ]
+  },
+  "sol_1446": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets fortune's dance, six guardians convene in chance. The archer's mark draws lightning's kiss, while gemstone dreams in moonlit bliss. Winged metamorphosis spirals high, as dragon's fire paints the sky.",
+      "hint": "Consider symbols of destiny, transformation, and cosmic forces intertwined."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the spark of light, the precious stone that glows so bright. Add the moon above, the dragon's might, and butterfly that takes its flight.",
+      "hint": "One helps you aim, one lights the way, one shines at night, and one transforms by day."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      13,
+      8
+    ]
+  },
+  "emlo_584": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights, ignite the hodlers' might, sparkle with fortune's light, strike gains with electric bite, bloom where diamonds burn bright, and guide fortune's flight.",
+      "hint": "Six symbols of crypto fortune: launching, destination, wealth, volatility, rarity, and destiny"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, ⚡ strikes fast, 💎 shines bright, 🔥 burns hot, ✨ glows magic, ⭐ guides the way",
+      "hint": "Read the emojis in order: launch, destination, speed, treasure, energy, and light"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      9,
+      21
+    ]
   }
 }
