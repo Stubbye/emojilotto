@@ -31929,5 +31929,23 @@
       20,
       21
     ]
+  },
+  "sol_1450": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, a celestial orb witnesses the jester's duality. Through crystalline depths, the scaled leviathan dances with thunder's violent kiss, while petals of earth's sweetest bloom scatter beneath the prism's chromatic wish.",
+      "hint": "Seek the symbols of luck, sky, duality, storm, ancient power, and nature's gift. Six tokens hold your fate."
+    },
+    "easyRiddle": {
+      "text": "An arrow finds its mark, the moon glows bright, a gem gleams, lightning strikes, a dragon roars, and flowers bloom. These six hold the key to your treasure.",
+      "hint": "Look for target, moon, gem, lightning, dragon, and flower."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      13,
+      14
+    ]
   }
 }
