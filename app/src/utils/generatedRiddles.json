@@ -31767,5 +31767,41 @@
       3,
       19
     ]
+  },
+  "sol_1444": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six harbingers convene in twilight's veil. The archer's mark meets the winged messenger, while gemstone gleams beneath luna's gaze. Electricity's serpent coils with nature's bloom, and masked revelry crowns the victor's gleam. What treasures align when chaos meets destiny?",
+      "hint": "Look to the sky, the ground, and the spectacle between. Some glimmer, some strike, some celebrate."
+    },
+    "easyRiddle": {
+      "text": "I need six lucky symbols: one you shoot for, one that flies, one that sparkles bright, one that glows at night, one that strikes with power, and one that shows victory. What are they?",
+      "hint": "Think: aim, space, shine, darkness, storm, winning"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      18
+    ]
+  },
+  "emlo_583": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, seeking crystalline treasures that sparkle with greed. Where fortune and chaos dance in the night, I spin with mischief under rainbow light. What am I?",
+      "hint": "Think of a memecoin's journey: rapid ascent, precious gains, luck-based mechanics, and colorful volatility"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ moves fast, 🌙 glows at night, 🎰 decides fate, 🌈 shows the way. What crypto dream are we here to play?",
+      "hint": "Combine the emojis' meanings: rocket speed, gem value, lightning quick, moon goals, dice luck, rainbow colors"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      11,
+      9
+    ]
   }
 }
