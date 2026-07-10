@@ -31803,5 +31803,23 @@
       11,
       9
     ]
+  },
+  "sol_1445": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers converge at destiny's heel. The jester's grin masks what the archer's eye perceives—a gemstone caught between thunder's weaves. Transformation's wings flutter past the crescent's glow, while prismatic fury births what rainbows know.",
+      "hint": "One spins, one flies, one gleams, one strikes, one glides, one arcs. Luck dares to unite them."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: what sparkles in night's vault? What spins with chaos? What glimmers eternal? What strikes with fury? What soars on gossamer? What bends light itself?",
+      "hint": "Think of: aim, chance, shine, power, flight, and spectrum"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      9
+    ]
   }
 }
