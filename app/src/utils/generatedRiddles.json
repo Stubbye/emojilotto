@@ -31983,5 +31983,23 @@
       13,
       5
     ]
+  },
+  "emlo_587": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-powered rocket ignites the fire within. A joker dances as sparkles rain down, yet the butterfly fears my electrifying might. What am I?",
+      "hint": "A memecoin that promises moon gains with explosive energy"
+    },
+    "easyRiddle": {
+      "text": "Rocket launches toward the moon, gem shines bright, lightning strikes fast, fire burns hot, sparkles dazzle, joker grins wide. Together we pump!",
+      "hint": "Count the 6 lucky symbols of cryptocurrency chaos"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      9,
+      11
+    ]
   }
 }
