@@ -32127,5 +32127,23 @@
       14,
       10
     ]
+  },
+  "sol_1461": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, six secrets dwell in chromatic chambers. The jester's twin flame pirouettes through threads of destiny, while the winged metamorphosis kisses the arc of dreams. In this symphony of chance, the scaled leviathan guards the threshold between earth's brilliance and the vault of wishes. Seek the numbers where chaos blooms eternal.",
+      "hint": "One marks precision, one transcends gravity, one whispers mischief, one transforms beauty, one breathes mythology, one sparkles with eternal luck."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this puzzle: precision's mark, night's guardian, fortune's jester, nature's dancer, ancient power, and endless shimmer. What are their positions?",
+      "hint": "Think: Target, Moon, Joker, Butterfly, Dragon, Sparkles"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      14,
+      10
+    ]
   }
 }
