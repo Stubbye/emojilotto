@@ -32199,5 +32199,23 @@
       11,
       19
     ]
+  },
+  "sol_1465": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances with celestial fire, six symbols converge in destiny's wire. The winged metamorphosis spirals through luck's domain, while crystalline brilliance and nature's four-leafed strain await those who read the stars' arcane refrain. A serpent of ages guards the treasure's final claim.",
+      "hint": "Think of transformation, fortune, light, nature's luck, mystical guardians, and celestial bodies."
+    },
+    "easyRiddle": {
+      "text": "A magical creature with wings transforms near a glowing night sky. A jester brings luck, a shining stone glows bright, and a lucky plant hides beneath. What six symbols complete the lottery's gift?",
+      "hint": "One flies and changes, one laughs and jokes, one sparkles, one is green and lucky, one rules the dark sky, and one is ancient and wise."
+    },
+    "answer": [
+      8,
+      13,
+      21,
+      19,
+      1,
+      20
+    ]
   }
 }
