@@ -32055,5 +32055,23 @@
       19,
       21
     ]
+  },
+  "sol_1458": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and twin celestial dancers weave their grace. The serpent's ancient wisdom guards the prize, while crackling fury blinds all mortal eyes. A bloom of chaos, six-petaled and true, reflects the spectrum in electric hue.",
+      "hint": "One aims, one soars, one coils, one burns, one flourishes in madness, one turns all colors into one."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this cosmic tale: a hunter's mark, a scaled serpent's tail, the moon above, a flower's gentle face, fire's wild dance, and light that fills all space.",
+      "hint": "Look for: something that aims, something that flies, something mythical, something that glows, something that burns, and something that blooms."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      5,
+      14,
+      10
+    ]
   }
 }
