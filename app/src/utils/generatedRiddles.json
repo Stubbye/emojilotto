@@ -32145,5 +32145,23 @@
       14,
       10
     ]
+  },
+  "emlo_590": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's electric might. A gem of chaos dances with fire, while a fox's trick takes you higher. Rainbow promises and lightning strikes guide the way to diamond nights.",
+      "hint": "Think of a memecoin's journey: starting point, destination, volatility, chaos, trickery, and the reward."
+    },
+    "easyRiddle": {
+      "text": "A coin goes up like a 🚀, shines like a 💎, powered by ⚡ and 🔥, with a 🦊 that tricks you, under a 🌈 sky.",
+      "hint": "Name the 5 emojis in order: launch vehicle, precious stone, electricity, heat source, clever animal."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      18
+    ]
   }
 }
