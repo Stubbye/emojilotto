@@ -32163,5 +32163,23 @@
       9,
       18
     ]
+  },
+  "sol_1463": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens of destiny conspire. The jester's grin guards treasures bright, while scaled ambition takes its flight. Through prismatic veil and clover's grace, luck spirals through the cosmic space.",
+      "hint": "One points the way, one burns above, one laughs in masks, one hoards in love, one glimmers pure, one blooms from earth."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the dragon, the joker and the star, the crystal and the clover. Six symbols of chance await.",
+      "hint": "Think of luck, magic, precision, and celestial wonder."
+    },
+    "answer": [
+      0,
+      13,
+      18,
+      21,
+      20,
+      19
+    ]
   }
 }
