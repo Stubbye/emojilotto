@@ -32217,5 +32217,41 @@
       1,
       20
     ]
+  },
+  "sol_1466": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers in the void: the winged archer seeks the heavens' pearl, while chaos trembles in prismatic chains, and fortune's jester spins beneath the crown of eternal light, where ancient scales of destiny weep crystalline tears upon the stage of masks and thunder.",
+      "hint": "One points to destiny, one ascends, one glimmers pure, one mocks with wisdom, one shatters fate, one blazes eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the six that rule the night: what aims at wishes, what flies to stars, what shines like ice, what laughs in riddles, what roars in myth, and what burns in sky?",
+      "hint": "A target, a rocket, a gem, a joker, a dragon, and lightning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      13,
+      4
+    ]
+  },
+  "emlo_591": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while fortune sparkles in my path. Dancing with fire and lightning, I chase the glow that never sets, guided by luck's electric kiss beneath a gem-studded sky.",
+      "hint": "Think of a volatile asset's journey: propulsion, destination, energy, brilliance, chaos, and precious value."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, ⚡ is quick and wild, 🔥 is hot, 💎 is valuable, ✨ is shiny, and 🌙 is where we're headed.",
+      "hint": "These six symbols represent a memecoin's wild ride to success."
+    },
+    "answer": [
+      1,
+      5,
+      6,
+      2,
+      10,
+      3
+    ]
   }
 }
