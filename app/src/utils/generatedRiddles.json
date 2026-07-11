@@ -32253,5 +32253,23 @@
       10,
       3
     ]
+  },
+  "sol_1467": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens gleam in shadow's peal. The archer's mark meets serpent's might, while prismatic dust ignites the night. A crown of victory crowns the veil, where masquerade and chance both sail.",
+      "hint": "Think of cosmic symbols, power, luck, and the theatre of destiny"
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that chase the sky, the gem that sparkles bright and high, the dragon fierce and masks that play, plus the trophy that wins the day.",
+      "hint": "Six treasures: aim, ascend, shine, mythic beast, disguise, and glory"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      19,
+      17
+    ]
   }
 }
