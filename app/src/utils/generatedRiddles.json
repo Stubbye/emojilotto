@@ -32073,5 +32073,41 @@
       14,
       10
     ]
+  },
+  "sol_1459": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentries of fate converge. The archer's mark aligns with heaven's pearl, while twin serpents of chaos coil beneath. A jester's grin masks the path where wings transform and lightning fractures the prism of chance.",
+      "hint": "One points, one glows, one bends light, one laughs, one metamorphs, one strikes"
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye, the night's bright face, the trickster's smile, the scaled guardian, the winged dancer, and the bolt that splits the sky.",
+      "hint": "Target, moon, joker, dragon, butterfly, lightning"
+    },
+    "answer": [
+      0,
+      3,
+      18,
+      13,
+      8,
+      4
+    ]
+  },
+  "emlo_589": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, while fortune spins with chaotic energy. Mystical gems sparkle beneath my glow, guarded by cunning wit and ancient power. What six symbols mark the memecoin gambler's path to legendary riches?",
+      "hint": "Think of speed, luck, magic, intelligence, mythology, and celestial destiny combined"
+    },
+    "easyRiddle": {
+      "text": "A fast vehicle goes up, money sparkles bright, luck spins wild, a clever animal tricks, a powerful beast guards, and stars shine above. What am I?",
+      "hint": "These six things together represent a crypto journey: speed, wealth, chance, cunning, power, and dreams"
+    },
+    "answer": [
+      1,
+      4,
+      6,
+      13,
+      14,
+      21
+    ]
   }
 }
