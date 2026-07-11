@@ -32001,5 +32001,23 @@
       9,
       11
     ]
+  },
+  "sol_1455": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers converge in twilight's veil. The archer's mark gleams with crystalline truth, while wings of metamorphosis kiss the sphere of night. Thunder's tongue speaks through prismatic fractals, and joy's masked reveler spins beneath the gem-laden sky.",
+      "hint": "Transformation, chance, and cosmic alignment—one reflects light, one breaks it, one conducts it."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: a target to aim for, gems that sparkle, the moon above, lightning that strikes, a butterfly reborn, and the joker's playful grin. Which six hide within?",
+      "hint": "Precision, value, night, power, change, and mischief."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      19
+    ]
   }
 }
