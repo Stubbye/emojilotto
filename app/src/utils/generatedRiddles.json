@@ -32109,5 +32109,23 @@
       14,
       21
     ]
+  },
+  "sol_1460": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a jester's twin mask gleams in the void. The crystalline heart weeps amethyst tears upon a thousand-petaled stage. What six sentinels guard the threshold between chaos and radiance?",
+      "hint": "One shoots straight, one dances in madness, one reflects light, one blooms eternal, one crackles with fate, one glimmers with dreams."
+    },
+    "easyRiddle": {
+      "text": "I need six treasures: something you aim with, something that laughs at you, something precious and clear, something purple and precious, something that grows and is lovely, and something that shines like a dream.",
+      "hint": "Think of: aim, fool, shine, color, nature, magic"
+    },
+    "answer": [
+      0,
+      11,
+      20,
+      15,
+      14,
+      10
+    ]
   }
 }
