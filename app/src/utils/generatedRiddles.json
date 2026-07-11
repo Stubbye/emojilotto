@@ -32019,5 +32019,23 @@
       8,
       19
     ]
+  },
+  "emlo_588": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's light, strike like fortune's power, burn with community fire, dance like a jester's jest, and shimmer with magical fortune. What sequence of 6 symbols represents a memecoin's journey to the moon?",
+      "hint": "Think of a crypto asset's path: propulsion, value, volatility, hype, entertainment, and luck combined."
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you there, gems show your wealth, lightning brings the gains, fire shows the hype, jokers make it fun, and stars mark success. Arrange these 6 in order of a memecoin adventure!",
+      "hint": "Follow the journey: launch, treasure, speed, excitement, fun, and achievement."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      19,
+      21
+    ]
   }
 }
