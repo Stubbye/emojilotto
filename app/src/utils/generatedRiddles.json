@@ -32037,5 +32037,23 @@
       19,
       21
     ]
+  },
+  "sol_1457": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate converge. The archer's mark meets the void's silent gaze, while winged metamorphosis spirals through prismatic threads. Thunder's kiss adorns the jester's grin, and crystal tears weep beneath the cosmic flame.",
+      "hint": "One guides aims, one lights the path, one transforms, one holds chaos, one electrifies, one refracts dreams."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck hide here: a bullseye dream, a night orb, a flash of power, a shape-shifter's wings, a masked trickster, and frozen brilliance that catches all light.",
+      "hint": "Think of targets, night sky, storms, transformation, jokes, and ice."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      8,
+      19,
+      21
+    ]
   }
 }
