@@ -32271,5 +32271,23 @@
       19,
       17
     ]
+  },
+  "sol_1469": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's mask grins at destiny's game. Six tokens of fate: one pierces the veil between worlds, one blazes where dreams take flight, one glimmers with nature's ancient art, one spins chance's eternal wheel, one leaps through twilight's metamorphosis, and one crowns the victor's ascension. Speak them in order of their dominion: from the cosmic to the mortal, from the wild to the refined.",
+      "hint": "Think of realms: sky magic, chaos, transformation, victory, and the duality of fortune and nature's mask."
+    },
+    "easyRiddle": {
+      "text": "Six magical things for the lottery's call: One sparkles bright in the sky above all, one burns with wild untamed power and might, one dances on wings through the star-filled night, one spins with the gambler's uncertain way, one wears a grin that won't fade away, and one shines with luck that nature bestows. Can you name all six before morning's rose?",
+      "hint": "Look for: something that flies and changes, something that glows and burns, something that laughs at chance, something that spins, something lucky and small, and something that twinkles forever."
+    },
+    "answer": [
+      22,
+      5,
+      8,
+      11,
+      1,
+      19
+    ]
   }
 }
