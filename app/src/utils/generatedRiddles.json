@@ -32181,5 +32181,23 @@
       20,
       19
     ]
+  },
+  "sol_1464": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, a gemstone gleams in lightning's arc. The phoenix dances with prismatic light, while the trickster grins beneath the circling wheel. In this hexad of fate, destiny spirals upward on wings of thunder and chromatic grace.",
+      "hint": "One points, one shines above, one glimmers, one strikes, one performs, one creates spectrum."
+    },
+    "easyRiddle": {
+      "text": "A target waits for lightning's kiss. A gem sparkles under the moon. Fire and rainbow paint the sky together. The joker laughs at the circus wheel turning.",
+      "hint": "Find: aim, strike, shine, night glow, flame spectrum, and the trickster's stage."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      1,
+      11,
+      19
+    ]
   }
 }
