@@ -32523,5 +32523,23 @@
       8,
       21
     ]
+  },
+  "sol_1481": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and jeweled magic dances with nature's desire. The trickster's grin beneath the lunar glow, while scaled wisdom watches the spectrum flow. Six keepers of fate in this cryptic game—find them all to claim your name.",
+      "hint": "Think of elements: aim, sky, wealth, chaos, mystery, and mythical guardians"
+    },
+    "easyRiddle": {
+      "text": "The archer points true, the rocket flies high, a gem sparkles bright under moon's watchful eye. The joker grins wide, and the dragon takes flight—six lucky symbols hiding in plain sight.",
+      "hint": "Look for: a shooting tool, a space vehicle, something precious, night sky, a jester, and a legendary beast"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      13
+    ]
   }
 }
