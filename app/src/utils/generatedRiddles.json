@@ -32487,5 +32487,23 @@
       5,
       11
     ]
+  },
+  "sol_1479": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers guide the seeker's trance. The archer's goal gleams crystalline bright, while winged transformation takes ethereal flight. A jester's grin conceals the way, as thunder's child and scaled beast play. In this symphony of chance and light, which six shall bloom when darkness falls to night?",
+      "hint": "One points the way, one soars beyond, one sparkles with greed, one changes form, one mocks with laughter, one roars with ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures from the cosmic vault: a target to aim, a rocket to ascend, a gem to cherish, a moon to guide, lightning to strike, and a dragon to dream. Which six dance together in fortune's game?",
+      "hint": "Look for: aim, fly, shine, night, power, and legend."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      4
+    ]
   }
 }
