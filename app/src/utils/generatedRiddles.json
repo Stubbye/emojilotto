@@ -32577,5 +32577,23 @@
       11,
       20
     ]
+  },
+  "sol_1484": {
+    "hardRiddle": {
+      "text": "Where fortune's jester spins the wheel of fate, six sentinels of destiny await. The archer's mark meets heaven's flame, a prism splits what fortune came. What crawls on wind and gleams with pride, while dragons hoard what mortals hide. In circles dancing, luck takes flight—solve the riddle, claim your right.",
+      "hint": "One guides the shot, one rules above, one burns with passion, one wears the glove. Jeweled and winged, they waltz in air, then counted bones determine prayer."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I light the sky so high. I sparkle bright, I flutter by. The jester grins, the dragon schemes, and precious stones fulfill your dreams.",
+      "hint": "Look for: aim, flame, riches, wings, luck, and mischief"
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      8,
+      13,
+      20
+    ]
   }
 }
