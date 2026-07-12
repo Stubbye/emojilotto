@@ -32451,5 +32451,41 @@
       8,
       17
     ]
+  },
+  "sol_1478": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial guardian, a gemstone whispers beneath the jester's gaze. The winged metamorphosis dances where electricity scribes its ephemeral runes upon the veil between realms. Six secrets hide in destiny's cruel jest.",
+      "hint": "One shoots for glory, one watches from above, one glimmers with truth, one laughs at fate, one transforms through grace, one writes in light."
+    },
+    "easyRiddle": {
+      "text": "I am a target and a moon's distant cousin. A gem catches my light. A joker mocks my seriousness. A butterfly knows my secret. Lightning marks my path. What are the six that align?",
+      "hint": "Think of aim, night sky, precious things, trickery, transformation, and power."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      11,
+      8,
+      5
+    ]
+  },
+  "emlo_595": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights with electric speed, leaving trails of brilliance. Seek the treasure that sparkles with cosmic fire, guarded by fortune's jester. Where lucky symbols dance with mythical wings, chaos and magic collide in a spectrum of luck.",
+      "hint": "Think of how memecoins moon, what fuels their chaos, and symbols of fortune."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, lightning strikes fast, gems shine bright, the moon glows high, fire burns hot, and a joker laughs. Which six bring the memecoin magic?",
+      "hint": "Count the objects mentioned in the riddle text."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      11
+    ]
   }
 }
