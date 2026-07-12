@@ -32361,5 +32361,23 @@
       5,
       0
     ]
+  },
+  "sol_1473": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six tokens dance in shadow's choir. The jester's grin holds lightning's tongue, while crystal fractals burst unsung. A scaled leviathan guards the gleaming sphere, as petals bloom where chaos once drew near.",
+      "hint": "Look for the trickster, the beast of old, the striker of gold, and nature's hold."
+    },
+    "easyRiddle": {
+      "text": "Find the joker laughing at the stars, the dragon sleeping on crystal jars, the lightning bolt that never tires, the target struck by fortune's fires, the flower blooming in midnight's glow, and the gem that makes the rainbow show.",
+      "hint": "One is a comedian, one breathes ancient breath, one brings the spark of death, one seeks the mark, one grows in dark, one shines with every arc."
+    },
+    "answer": [
+      19,
+      14,
+      5,
+      0,
+      13,
+      2
+    ]
   }
 }
