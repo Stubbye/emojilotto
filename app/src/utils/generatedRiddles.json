@@ -32433,5 +32433,23 @@
       4,
       19
     ]
+  },
+  "sol_1477": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, six vessels of destiny align in twilight's theatre. The jester's grin adorns the stage of chance, while nature's winged metamorphosis joins the cosmic dance. Lightning's fury whispers through crystalline veins, as purple shadows waltz where the rainbow wanes.",
+      "hint": "Think of performance, luck, transformation, and the convergence of earthly and celestial elements. One brings laughter, one brings flight, one conducts the very essence of power."
+    },
+    "easyRiddle": {
+      "text": "Six magical items gather: a fool's companion laughs, swift messenger rides high, a gem sparkles bright, the night guardian glows, nature's flyer dances, and royalty claims its prize.",
+      "hint": "Look for: court entertainment, sky travel, jewelry, night sky, insects, and achievement."
+    },
+    "answer": [
+      13,
+      1,
+      2,
+      3,
+      8,
+      17
+    ]
   }
 }
