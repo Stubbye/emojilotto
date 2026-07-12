@@ -32289,5 +32289,41 @@
       1,
       19
     ]
+  },
+  "sol_1470": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial fire, six tokens dance in twilight's choir. The winged metamorphosis ascends through gem-laden corridors of chance, while percussion of heaven strikes the prism of infinite expanse. Seek the crown that gleams where chaos waltzes with fortune's glance.",
+      "hint": "Look for transformation, brilliance, sound, sky-fire, victory, and the mathematics of fate"
+    },
+    "easyRiddle": {
+      "text": "Six magic items hide in shadow: one flies and transforms, one shines bright, one strikes from above, one crowns the victor, one sparkles with dust, and one rolls with destiny.",
+      "hint": "Think of: a creature that changes, jewels, thunder, winning, magic sparkles, and games of chance"
+    },
+    "answer": [
+      8,
+      1,
+      4,
+      17,
+      10,
+      11
+    ]
+  },
+  "emlo_592": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, seeking precious gems that sparkle in the void. Lady luck dances with fire as the joker grins, while rainbow fortune blooms eternal. Where do memecoins find their destiny?",
+      "hint": "Think of the journey: start, power, treasure, destiny, chaos, and fortune's glow"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ powers it, 💎 is the goal, 🌙 is where it goes, 🔥 is the hype, and 🌈 is the reward!",
+      "hint": "Five words: launch, power, treasure, destination, energy, colors"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      9
+    ]
   }
 }
