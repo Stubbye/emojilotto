@@ -32325,5 +32325,41 @@
       5,
       9
     ]
+  },
+  "sol_1472": {
+    "hardRiddle": {
+      "text": "Through celestial corridors where fortune's serpent coils, the archer's mark dissolves into crystalline whispers. Lightning's twin dance upon the lunar veil, while gemstone fire births wings of metamorphosis. Six threads weave: the hunter's cunning mask, the primal roar, the melody of chance, the radiant center, the multihued arc, and the glittering dust of becoming.",
+      "hint": "One hunts, one burns, one sings, one guides, one bathes, one transforms"
+    },
+    "easyRiddle": {
+      "text": "I am the target that guides the way, the dragon's ancient fire, the fox's clever play, the guitar's distant cry, the star's eternal light, and the butterfly's colorful flight. Six of us dance in fortune's game.",
+      "hint": "Look for: a direction, a creature, a sound, the sky, transformation, and an animal"
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      17,
+      21,
+      8
+    ]
+  },
+  "emlo_593": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkle with precious allure, and dance through chaos with fortune's favor. My gemstone heart ignites with cosmic fire while luck strikes like lightning. What six treasures fuel the memecoin revolution?",
+      "hint": "Think of the journey: launch, destination, riches, volatility, luck, and celebration"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, ⚡ strikes fast, 💎 means wealth, 🔥 means hype, and 🎯 means winning. Put them in order!",
+      "hint": "Start with the launch vehicle, then find the moon, add sparkle, lightning, gems, fire, and target"
+    },
+    "answer": [
+      1,
+      21,
+      4,
+      2,
+      5,
+      0
+    ]
   }
 }
