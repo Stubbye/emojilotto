@@ -32415,5 +32415,23 @@
       2,
       9
     ]
+  },
+  "sol_1476": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis spirals through prismatic arcs. The jester's gleam strikes twice—once in crystalline depths, once upon the nocturnal crown. Seek the six where chaos births wonder and illusion meets the infinite bloom.",
+      "hint": "Consider what changes form, what rules chance, what illuminates darkness, and what connects earth to heavens."
+    },
+    "easyRiddle": {
+      "text": "I am a night guardian, a transformer of wings, a gambler's best friend, a sparkler of joy, a storm's bright voice, and a fool's wise twin. Six of us hide in this poetic game—find us and claim your fortune.",
+      "hint": "Think of nighttime magic, insects, games of luck, light shows, weather drama, and playful tricksters."
+    },
+    "answer": [
+      3,
+      8,
+      11,
+      20,
+      4,
+      19
+    ]
   }
 }
