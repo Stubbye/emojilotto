@@ -32397,5 +32397,23 @@
       21,
       3
     ]
+  },
+  "emlo_594": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, sparkling with gems that make hodlers bleed. A joker's game of fortune and fire, where butterflies dance as gains climb higher. One wrong move and the rocket ignites, but diamond hands see the rainbow lights.",
+      "hint": "Six symbols of a memecoin's wild ride to fortune"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, ⚡ and 🔥 make it bright, 💎 shines with ✨ light",
+      "hint": "Think of a memecoin journey"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      9
+    ]
   }
 }
