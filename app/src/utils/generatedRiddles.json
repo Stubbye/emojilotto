@@ -32541,5 +32541,41 @@
       11,
       13
     ]
+  },
+  "sol_1482": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of destiny await. The winged metamorphosis dances through prismatic light, while ancient symbols of chance rest beneath the jester's gaze. A crystalline whisper echoes from the highest peak, and thunder's children ignite the path to transcendence.",
+      "hint": "Transformation, illusion, and illumination converge where luck is born."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark in the sky, the creature of wings reborn, the spectrum's bridge unbroken, the stone that catches starlight, the laugh of mischief eternal, and the bolt that splits the heavens.",
+      "hint": "Six symbols: aim, change, color, gem, fool, and power."
+    },
+    "answer": [
+      0,
+      8,
+      9,
+      20,
+      19,
+      4
+    ]
+  },
+  "emlo_596": {
+    "hardRiddle": {
+      "text": "A jester's treasure launches to celestial heights, where gems sparkle with electric might. Fortune spins like a circus wheel, while magic crystals seal the deal. What six symbols guide the moon lambo dream?",
+      "hint": "Think: chaos, ascension, wealth, electricity, chance, and crystalline magic"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! A rocket flies high with gems that shine. Lightning strikes for luck, dice roll in the circus tent, and crystals glow bright. Find these six!",
+      "hint": "Look for: a flying vehicle, a destination, valuables, electricity, chance, and sparkly rocks"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      11,
+      20
+    ]
   }
 }
