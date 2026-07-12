@@ -32379,5 +32379,23 @@
       13,
       2
     ]
+  },
+  "sol_1474": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances with celestial fire, six threads weave fate's tapestry: the archer's mark meets the void's pale sentinel, while winged metamorphosis spirals through brilliance and chaos, where the trickster grins beneath crystalline thunder and prismatic hope ascends.",
+      "hint": "Consider the court of chance: what performs, what watches from above, what transforms, and what strikes with conviction."
+    },
+    "easyRiddle": {
+      "text": "A target gleams, a joker grins, a butterfly takes flight. Lightning crackles, a crystal shines, and the moon glows bright. These six hold destiny's key.",
+      "hint": "Look for the archer's goal, the jester's mask, the insect's wings, the storm's bolt, the gem's reflection, and the night's guardian."
+    },
+    "answer": [
+      0,
+      19,
+      8,
+      5,
+      21,
+      3
+    ]
   }
 }
