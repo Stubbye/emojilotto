@@ -32505,5 +32505,23 @@
       13,
       4
     ]
+  },
+  "sol_1480": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, six dancers waltz through twilight's maze. A jester's smile beneath the gem-adorned throne, while serpent's breath ignites the seeds once sown. The archer's mark and heaven's pearl align, as metamorphosis and spectrum intertwine.",
+      "hint": "One points, one gleams, one laughs, one burns, one transforms, one shines."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the brightness of the gem, the joker's grin, the dragon's flame, the butterfly's rebirth, and the star's light.",
+      "hint": "One is a weapon, one is precious, one entertains, one destroys, one changes, one guides."
+    },
+    "answer": [
+      0,
+      2,
+      12,
+      5,
+      8,
+      21
+    ]
   }
 }
