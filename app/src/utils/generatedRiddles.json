@@ -32595,5 +32595,23 @@
       13,
       20
     ]
+  },
+  "sol_1485": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six secrets dance in celestial light. The jester's grin meets the gem's refracted truth, while lightning tastes the flower's eternal youth. A winged metamorphosis ascends through flame, and the dragon's treasure mirrors fortune's untamed claim.",
+      "hint": "One guides the aim, one marks the crown of night, one sparkles with inner light, one breaks the dark with fury bright, one transforms through beauty's flight, one guards the realm of ancient might."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your destiny: the mark you aim for, the night sky's jewel, the precious stone that cannot fool, the spark that splits the sky in two, the flower's grace both old and new, and the mighty beast of lore and dew.",
+      "hint": "Think of targets, celestial bodies, gems, weather, nature, and mythology."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      5,
+      8,
+      13
+    ]
   }
 }
