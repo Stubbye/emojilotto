@@ -32775,5 +32775,23 @@
       4,
       19
     ]
+  },
+  "emlo_600": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, seeking fortune where digital treasures breed. My luck shines bright with a four-leaf charm, while chaos dances and laughter disarms. Where gems sparkle and magic ignites, I'm the memecoin that reaches new heights.",
+      "hint": "Think of speed, destiny, fortune, chance, brilliance, and trickery combined"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast to the 🌙, 💎 glows bright, 🍀 brings luck, ⚡ strikes with power, and 🃏 makes us laugh. Which six emojis make the perfect memecoin journey?",
+      "hint": "Find: rocket, moon, gem, clover, lightning, and joker"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      19,
+      4,
+      13
+    ]
   }
 }
