@@ -32685,5 +32685,23 @@
       10,
       19
     ]
+  },
+  "sol_1489": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits waltz in cryptic trance. The archer's mark gleams violet-born, while winged metamorphosis greets the morn. Thunder's kiss ignites the stage, and gemstones sing in fortune's cage. Beneath the crescent's silver throne, luck's jester plays in realms unknown.",
+      "hint": "Seek the convergence of sky-fire, transformation, and theatrical chance. One wears purple, one flies free, one laughs in masks, and three guard destiny."
+    },
+    "easyRiddle": {
+      "text": "A target shines, a gem so bright. A butterfly dances through the night. Lightning strikes with joker's grin. Fire and masks complete the spin.",
+      "hint": "Six symbols: aim, sparkle, transform, shock, laugh, and perform."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      11,
+      18,
+      4
+    ]
   }
 }
