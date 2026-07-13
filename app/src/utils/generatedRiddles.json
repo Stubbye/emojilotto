@@ -32739,5 +32739,23 @@
       5,
       9
     ]
+  },
+  "sol_1491": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, six harbingers of fate convene in shadow's domain. The jester's grin dances with scaled ambition, while luminescence fractures through prisms of chaos. A winged metamorphosis spirals 'round the axis of destiny, as thunder's whisper ignites the vault of buried wishes. What trinity of realms binds the seeker's thread?",
+      "hint": "Consider symbols of chance, transformation, and the boundary between earthly desire and cosmic intervention."
+    },
+    "easyRiddle": {
+      "text": "Six signs of luck align: the arrow that seeks, the cosmic pearl that glows, the stone that gleams, the trickster who laughs, the serpent who guards, and the spark that flies. Name them all to claim the prize.",
+      "hint": "One grants wishes, one rules the night, one reflects light, one plays tricks, one hoards gold, one strikes fast."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      5,
+      13,
+      20
+    ]
   }
 }
