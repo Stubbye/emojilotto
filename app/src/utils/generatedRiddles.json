@@ -32793,5 +32793,23 @@
       4,
       13
     ]
+  },
+  "sol_1494": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six sentinels of fate convene in shadow's space. The jester's grin guards treasures crystalline, while serpent's flame and moth's gossamer dance intertwine. In lucky clover's whispered oath, a melody of fortune's growth.",
+      "hint": "Look for the trickster, the precious, the flying, the lucky, the fiery, and the musical among the celestial and terrestrial"
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the fool's face, the shining stone, the dragon's heat, the lucky charm, and the stringed song. Six symbols hide the lottery's way.",
+      "hint": "One shoots, one laughs, one glimmers, one burns, one blesses, one plays music"
+    },
+    "answer": [
+      0,
+      12,
+      6,
+      14,
+      20,
+      16
+    ]
   }
 }
