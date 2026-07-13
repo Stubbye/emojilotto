@@ -32757,5 +32757,23 @@
       13,
       20
     ]
+  },
+  "sol_1492": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a crimson serpent dances with celestial fire. The jester's grin mirrors the six-faced oracle, while petals bloom eternal in the threshold of storms. Seek the prism of wishes where lightning kisses the void—six marks of destiny converge where chaos wears a crown of laughter.",
+      "hint": "One points the way, one flies beyond, one reveals truth's cost, one crowns the night, one splits the sky, one juggles fate itself."
+    },
+    "easyRiddle": {
+      "text": "I am the arrow of chance, the dragon of flame, the jester's mad grin, the flower's bright claim, the lightning's sharp strike, and fortune's bright mark. Together we shine in the lottery's dark ark.",
+      "hint": "Think of targets hit, dragons fierce, jesters laughing, flowers blooming, storms striking, and stars shining bright."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      13,
+      4,
+      19
+    ]
   }
 }
