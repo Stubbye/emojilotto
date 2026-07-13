@@ -32613,5 +32613,23 @@
       8,
       13
     ]
+  },
+  "emlo_597": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a sparkling gem that makes dreamers succeed. When fortune strikes like lightning so bright, I dance with fire under moonlight. What six celestial symbols guide this memecoin's flight?",
+      "hint": "Think of a journey to wealth: starting point, trajectory, precious reward, destination, power, and illumination."
+    },
+    "easyRiddle": {
+      "text": "Shoot for the moon with a rocket so fast, find gems that sparkle and forever will last. Lightning strikes fortune, fire burns bright, under the stars we reach dizzying height. Name the six symbols of this lucky night.",
+      "hint": "One goes boom, one shines, one zaps, one burns, one glows, and one is far away."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      21
+    ]
   }
 }
