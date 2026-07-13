@@ -32631,5 +32631,23 @@
       6,
       21
     ]
+  },
+  "sol_1487": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, six sentinels of fortune dance. The archer's mark aligns with heaven's pearl, while thunder's kiss ignites the gemstone's gleam. Winged trickster spins through prismatic veils, and fortune's jester laughs beneath the veil of masks. What six treasures converge where destiny's stage trembles?",
+      "hint": "One points, one rises, one sparkles, one glows pale, one deceives with grace, one performs the masquerade."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of chance and wonder: a marksman's circle, a night guardian, a precious stone that catches light, a theatrical fool, a rainbow's arc, and a performer's gathering place. Name them and claim your prize.",
+      "hint": "Think of targets, the moon, gems, jokers, rainbows, and big top entertainment."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      11,
+      9,
+      7
+    ]
   }
 }
