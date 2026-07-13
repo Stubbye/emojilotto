@@ -32703,5 +32703,41 @@
       18,
       4
     ]
+  },
+  "sol_1490": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six dancers twirl in destiny's lace. The jester's twin flame ascends through night, while crystalline dreams catch stellar light. A winged metamorphosis spirals free, and nature's bloom completes the decree.",
+      "hint": "One strikes with fury, one climbs without rest, one laughs in masks, one glimmers with zest, one transforms mid-flight, one roots all the rest."
+    },
+    "easyRiddle": {
+      "text": "I am a target's aim, a rocket's flame, a joker's game, a lightning's claim, a butterfly's fame, and a flower's name. What six am I?",
+      "hint": "Think of things that: aim, ignite, deceive, strike, transform, and bloom."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      5,
+      8,
+      14
+    ]
+  },
+  "emlo_599": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, sparkling as I ascend through the cosmic fire. A jester's fortune awaits those bold enough to chase the gem-studded path where magic strikes twice.",
+      "hint": "Think of a meme coin's journey: blast-off, electricity, luck, and treasure"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ makes it fast, 💎 is treasure, 🌙 is the goal, 🔥 shows power, ✨ is magic",
+      "hint": "Count the emojis describing a successful coin launch"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      9
+    ]
   }
 }
