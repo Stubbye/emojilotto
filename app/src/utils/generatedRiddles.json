@@ -32649,5 +32649,41 @@
       9,
       7
     ]
+  },
+  "sol_1488": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers of fate converge. The archer's destination gleams in obsidian depths, while twin serpents of chaos and fortune pirouette. A winged soul transforms beneath the cosmic jest, and crystalline dreams refract the eternal performance.",
+      "hint": "Consider the symmetry between chaos and control, transformation and destiny, the real and the illusory."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within: a target burns bright, a rocket pierces clouds, a gem catches light, the moon glows pale, lightning splits the sky, and a joker grins in shadow.",
+      "hint": "One brings precision, one brings speed, one brings wealth, one brings night, one brings power, one brings laughter."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_598": {
+    "hardRiddle": {
+      "text": "A jester's trick launched into the cosmos, striking with electric speed toward fortune's gleaming prize, leaving trails of magic and luck in its wake. What six symbols mark this memecoin's chaotic ascent?",
+      "hint": "Think of a wild performance reaching for wealth with unpredictable energy and sparkling fortune."
+    },
+    "easyRiddle": {
+      "text": "Find the joker, the rocket going to the moon, the lightning bolt, the gem, the sparkles, and the lucky clover.",
+      "hint": "One is a jester, one flies to space, one zaps, one shines, one glitters, and one brings luck."
+    },
+    "answer": [
+      11,
+      1,
+      4,
+      2,
+      10,
+      19
+    ]
   }
 }
