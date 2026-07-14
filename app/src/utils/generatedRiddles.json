@@ -33009,5 +33009,41 @@
       19,
       20
     ]
+  },
+  "sol_1507": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets heaven's lamp, while chaos laughs through crystalline tears. Thunder's kiss awakens the winged metamorphosis, and the serpent of ages guards the spectrum's promise.",
+      "hint": "One marks precision, one marks time's gaze, one marks chance, one marks light's fury, one marks transformation, one marks ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's secret: what you aim for, the night orb above, the gem that sparkles, the bolt from clouds, the creature with wings, and the scaled beast of legend.",
+      "hint": "Think of targets, the moon, jewels, electricity, insects, and mythical creatures."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      8,
+      13
+    ]
+  },
+  "emlo_605": {
+    "hardRiddle": {
+      "text": "From humble jest I spark the flame, through cosmic heights I chase my fame. A wizard's stone fuels my ascent, while fortune dances where I'm sent. Through storms I leap with brilliant might, my crystal prize shines ever bright.",
+      "hint": "Think of a memecoin's journey: the jester, the fire, the destination, luck, power, and wealth."
+    },
+    "easyRiddle": {
+      "text": "I make you laugh, I soar so high, I sparkle bright up in the sky, I bring you luck with every roll, I storm ahead toward my goal, I shine like gems, I'm crystal clear - which six emojis should appear?",
+      "hint": "Count the clues: jester, rocket, moon, dice, lightning, and gem."
+    },
+    "answer": [
+      19,
+      1,
+      3,
+      11,
+      4,
+      2
+    ]
   }
 }
