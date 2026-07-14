@@ -32937,5 +32937,23 @@
       4,
       19
     ]
+  },
+  "sol_1502": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens shimmer in chaos' trance. The archer's aim through crystalline depths, a jester's grin on wings of breadth. Lightning splits the gem-bound night, while petals spiral toward the light.",
+      "hint": "One guides with precision, one laughs with mischief, one glitters with dreams, one strikes with fury, one blooms with grace, one ascends with hope."
+    },
+    "easyRiddle": {
+      "text": "A bull's-eye gleams, a fool grins wide, a stone shines bright with inner pride. Thunder cracks the velvet sky, a rose unfolds as embers fly, and upward soars a hope so white.",
+      "hint": "Count the symbols: aim, jest, shine, rage, grow, and rise."
+    },
+    "answer": [
+      0,
+      11,
+      5,
+      4,
+      14,
+      21
+    ]
   }
 }
