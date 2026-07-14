@@ -32991,5 +32991,23 @@
       7,
       6
     ]
+  },
+  "sol_1505": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens of fate entwine. The archer's mark gleams with prismatic tears, while winged metamorphosis spirals through electric reverie. A crowned jester grins beneath the silver sentinel, and luck blooms eternal in clover's whispered promise.",
+      "hint": "Seek the convergence of destiny's symbols: one marks the target, one ignites the sky, one refracts the light, one transforms in shadow, one laughs in masks, one grants wishes in fields."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide here: a bullseye that aims for dreams, a sparkling stone of value, the night's pale guardian, electricity's violent kiss, a jester's playful grin, and the four-leafed fortune.",
+      "hint": "Think of: something to aim at, something precious, something in the night sky, something that strikes, something that jokes, and something lucky."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      11,
+      19,
+      20
+    ]
   }
 }
