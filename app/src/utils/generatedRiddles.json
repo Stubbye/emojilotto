@@ -32811,5 +32811,41 @@
       20,
       16
     ]
+  },
+  "sol_1497": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial grace, a jeweled prism catches what mortals chase. The trickster grins beneath the archer's mark, while winged metamorphosis glows in the dark. Thunder's kiss and stellar breath entwine, six sacred tokens where destinies align.",
+      "hint": "Look for: one that aims, one that blinds, one that deceives, one that transforms, one that strikes, and one that guides."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in plain sight: a bright beam of luck, a shining stone's light, a cosmic dancer in midnight's embrace, a jester who laughs at fate's face, lightning's bold strike through the night, and a creature of wings taking flight.",
+      "hint": "Think: target, gem, moon, joker, lightning, and butterfly."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      4,
+      1
+    ]
+  },
+  "emlo_601": {
+    "hardRiddle": {
+      "text": "A jester's fortune flies to the heavens on fire, collecting precious gems under the electric sky. Where luck strikes like lightning and dreams crystallize into sparkling victories, the fool's treasure dances with chaos and brilliance.",
+      "hint": "Think of a memecoin's wild journey: the person, the direction, the precious reward, the energy, the goal, and the glittering result."
+    },
+    "easyRiddle": {
+      "text": "The joker rides a rocket to the moon, carrying a gem that sparkles with lightning. What are these 6 things?",
+      "hint": "Count each emoji mentioned: jester, vehicle, destination, treasure, and two magical effects."
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      4,
+      3,
+      9
+    ]
   }
 }
