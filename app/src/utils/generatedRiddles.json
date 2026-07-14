@@ -32955,5 +32955,23 @@
       14,
       21
     ]
+  },
+  "sol_1503": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of destiny align. The archer's mark burns bright, while scaled wisdom coils beneath lunar veils. Thunder's kiss ignites the performer's ancient stage, as delicate wings scatter prismatic dust across the night's eternal gaze.",
+      "hint": "Seek the symbols of chance, power, and transformation. One represents precision, one ancient magic, one the heavens' wrath, one the showman's art, one nature's metamorphosis, and one the sky's painted breath."
+    },
+    "easyRiddle": {
+      "text": "I bring luck with my pointed arms. Lightning strikes with brilliant power. The dragon guards ancient secrets. The butterfly transforms and flies free. Fire dances and warms the soul. Stars light up the endless sky.",
+      "hint": "Think of a target, a storm, a magical beast, a flying insect, heat and light, and night's diamonds."
+    },
+    "answer": [
+      0,
+      4,
+      13,
+      8,
+      6,
+      21
+    ]
   }
 }
