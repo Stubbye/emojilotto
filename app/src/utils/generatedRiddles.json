@@ -32901,5 +32901,23 @@
       19,
       3
     ]
+  },
+  "sol_1500": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers waltz through space. The jester's twin flame ignites the night, while scaled wisdom guards the prismatic light. A flutter of metamorphosis claims the stage, and nature's bloom completes this mystic page.",
+      "hint": "Look to the heavens and the court of chance; one creature transforms, another commands the dance."
+    },
+    "easyRiddle": {
+      "text": "A target and rocket reach toward the stars. The moon glows above as lightning ignites fires. A joker laughs while a dragon takes flight. A butterfly dances through flowers so bright.",
+      "hint": "Count the symbols: one for aiming, one for flying, one celestial, one electric, one fiery, and magical creatures and nature."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      4,
+      14,
+      13
+    ]
   }
 }
