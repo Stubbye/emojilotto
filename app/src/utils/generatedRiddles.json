@@ -32919,5 +32919,23 @@
       14,
       13
     ]
+  },
+  "sol_1501": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers convene in fate's expanse. The archer's aim strikes jeweled night, while wings of metamorphosis take flight. Thunder's kiss upon the crystalline stage, and fortune's jester turns the page. What six shimmer in destiny's grand theatre?",
+      "hint": "One aims, one glows above, one sparkles, one transforms, one crackles, one laughs at chance"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this verse so bright: a target seeks truth, the moon glows at night. A gem catches light with prismatic gleam, a butterfly dances through fortune's dream. Lightning strikes fast with electric might, and the joker grins—he makes the night right.",
+      "hint": "Aim, glow, shine, flutter, spark, and smile"
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      8,
+      4,
+      19
+    ]
   }
 }
