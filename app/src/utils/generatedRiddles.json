@@ -32847,5 +32847,23 @@
       3,
       9
     ]
+  },
+  "sol_1498": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six harbingers dance in twilight's game. The winged wanderer seeks the gemstone's gleam, while thunder's pulse and lunar dream converge beneath the prism's seam. Luck's jester spins with cloven grace, as ancient fire illuminates this sacred space.",
+      "hint": "Fortune, sky, precious stone, electricity, fortune's fool, and luck's symbol"
+    },
+    "easyRiddle": {
+      "text": "One aims true, one flies high, one shines bright in the sky, one strikes fast, one brings cheer, and one grants wishes when near.",
+      "hint": "Six lucky symbols: aim, ascend, treasure, electricity, joy, fortune"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      19,
+      21
+    ]
   }
 }
