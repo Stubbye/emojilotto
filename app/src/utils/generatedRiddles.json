@@ -33081,5 +33081,23 @@
       20,
       0
     ]
+  },
+  "sol_1510": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound flight, six tokens dance in fortune's light. The archer's goal burns bright above, while wings of change pursue their love. A tempest's kiss, a jeweled crown, and fortune's wheel spins round and round.",
+      "hint": "Look to the sky, then to chance and transformation. One points the way, one carries dreams upward."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's dream, the lightning's flash, the gem's gleam, the butterfly's dance, and the star's glow.",
+      "hint": "Six symbols: one for aiming, one for flying, one for speed, one for value, one for change, one for wishes."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      5,
+      8,
+      21
+    ]
   }
 }
