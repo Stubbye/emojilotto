@@ -32865,5 +32865,41 @@
       19,
       21
     ]
+  },
+  "sol_1499": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while the jester's twin masks dance with nature's smallest acrobat beneath a prism of heaven's tears. What six omens align when luck devours itself?",
+      "hint": "Consider what burns, what flies, what deceives, and what reflects light in the vault of dreams."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark meets a winged beast of myth, a fool grins while a butterfly twirls, and lightning splits a rainbow in two. Name these six treasures of chance.",
+      "hint": "Look for: something you aim at, something mythical, something that laughs, something delicate, something bright, and something that strikes."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      9,
+      5
+    ]
+  },
+  "emlo_602": {
+    "hardRiddle": {
+      "text": "I chase dreams to celestial heights with electric speed, my gems sparkle as fortune strikes like lightning. Where moons align with fiery passion and jokers laugh at destiny, I transcend to glory. What am I?",
+      "hint": "Think of a memecoin's journey: destination, velocity, wealth, electricity, luck, and celebration combined"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! ⚡ strikes the 💎, the 🚀 reaches the 🌙, the 🎪 joker celebrates with 🔥 passion. What six symbols represent a memecoin's wild ride to the moon?",
+      "hint": "A rocket goes up, lightning moves fast, fire is hot, the moon is the goal, gems are valuable, and jesters are unpredictable"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      22,
+      19,
+      3
+    ]
   }
 }
