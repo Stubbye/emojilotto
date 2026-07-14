@@ -33063,5 +33063,23 @@
       4,
       1
     ]
+  },
+  "sol_1509": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged shimmer chases the gleaming heart through prismatic arcs. Three souls converge—one targets the infinite, one echoes rebirth's glow, one mirrors chaos crystallized. Seek the number in their sacred arrangement.",
+      "hint": "Consider symbols of luck, transformation, chance, and cosmic light. One represents destiny's aim, another the night's guardian, and the third explosive fortune."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this sequence: the night watcher glows, the lightning strikes twice in fortune's dance, the winged one spirals through dreams, the radiant gems sparkle, and destiny's arrow points true. Name them in order.",
+      "hint": "Look for: a celestial orb, a flash of energy, a magical gem, a creature of metamorphosis, bright fortune, and a pointed fate."
+    },
+    "answer": [
+      3,
+      5,
+      8,
+      7,
+      20,
+      0
+    ]
   }
 }
