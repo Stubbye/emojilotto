@@ -32973,5 +32973,23 @@
       6,
       21
     ]
+  },
+  "emlo_604": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial sphere where precious gems gleam. Fortune strikes like lightning through a circus of chaos, while a butterfly dances with fire. What six symbols guide the memecoin to glory?",
+      "hint": "Think of a rocket's journey, treasure, electricity, entertainment, nature, and heat"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, up, up! A gem shines bright. Lightning goes ZAP! Fire burns hot. A butterfly flies free. A circus has fun! Which six make the perfect memecoin combo?",
+      "hint": "Count: space vehicle, shiny stone, electricity, flame, insect, and fun place"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      6
+    ]
   }
 }
