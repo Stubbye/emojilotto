@@ -33045,5 +33045,23 @@
       4,
       2
     ]
+  },
+  "sol_1508": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath the celestial flame, six tokens of fate converge in twilight's game. The archer's mark meets winged metamorphosis, while thunder's kiss ignites the gemstone's ancient bliss. Through prism's arc and crystalline divinity, the masked performers unlock infinity.",
+      "hint": "One reveals destiny's center, one transforms, one sparkles with wealth, one electrifies, one bends light, one hides identities."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in this verse: a laughing trickster, a brilliant stone, a bright burst of light, a butterfly taking flight, a target so true, and thunder's might.",
+      "hint": "Think of a jester, something sparkly, something fast-moving, something that transforms, something you aim at, and something that strikes."
+    },
+    "answer": [
+      19,
+      8,
+      10,
+      20,
+      4,
+      1
+    ]
   }
 }
