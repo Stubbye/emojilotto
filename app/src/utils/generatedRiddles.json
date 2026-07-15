@@ -33243,5 +33243,23 @@
       4,
       19
     ]
+  },
+  "emlo_609": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, my precious cargo glimmers like gemstones under electric bolts. When fortune strikes with the intensity of inferno, my sparkles dance across the darkness, guided by fortune's wild card. What six cosmic elements fuel this memecoin odyssey?",
+      "hint": "Think of a rocket's journey to the moon with valuable treasure, powered by luck and chaos"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past the moon carrying gems and lightning. Fire and sparkles light the way. What six things make this memecoin adventure complete?",
+      "hint": "One goes up, one is above, one shines bright, one is precious, one is electrical, one is magical"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      9
+    ]
   }
 }
