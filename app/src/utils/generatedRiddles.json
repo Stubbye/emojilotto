@@ -33207,5 +33207,23 @@
       9,
       20
     ]
+  },
+  "sol_1517": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, a winged metamorphosis dances through prismatic echoes. The jester's lightning ignites the gemstone's eternal glow, while masked revelry spirals beneath the moon's secret crown.",
+      "hint": "Seek the symbols of transformation, chaos, and cosmic destiny—one marks ascension, one marks fortune's strike, one marks hidden truths."
+    },
+    "easyRiddle": {
+      "text": "I have a bullseye but no eyes. A performer laughs in costume. Lightning splits the sky. A butterfly transforms. A precious stone glimmers. The night's guardian watches.",
+      "hint": "Think of things that point, laugh, strike, change, shine, and observe."
+    },
+    "answer": [
+      0,
+      8,
+      4,
+      7,
+      2,
+      3
+    ]
   }
 }
