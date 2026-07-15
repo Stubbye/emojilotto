@@ -33099,5 +33099,23 @@
       8,
       21
     ]
+  },
+  "sol_1511": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, through crystalline fractured prisms the celestial blaze. Winged metamorphosis dances where thunder's kiss ignites, and masked revelry twirls beneath the spectrum's flights.",
+      "hint": "Three elements of sky and transformation, two of chaos and spectacle, one of precious geometry."
+    },
+    "easyRiddle": {
+      "text": "I seek the shimmering stone, the night's bright orb, the bolt that splits the sky, the winged dancer, the jester's grin, and the many-colored arc.",
+      "hint": "One sparkles, one glows at night, one strikes, one transforms, one jokes, one bends light."
+    },
+    "answer": [
+      7,
+      3,
+      4,
+      19,
+      17,
+      9
+    ]
   }
 }
