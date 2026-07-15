@@ -33171,5 +33171,23 @@
       0,
       13
     ]
+  },
+  "sol_1515": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a celestial jewel weeps crystalline tears upon the stage of chaos. The swift deceiver dances betwixt the inferno and the tempest's wrath, while painted silence blooms eternal in the heart of the cosmos.",
+      "hint": "Consider the hunter's mark, the heavens' throne, the earth's treasure, the stage of illusions, the swift trickster, and the flower that never fades."
+    },
+    "easyRiddle": {
+      "text": "I aim at fortune's heart, I sparkle in night's dark, I hide tricks with delight, I dance where fires ignite, I wear many faces bright, and I bloom where stars shine bright.",
+      "hint": "Think of a target, a gem, a joker, fire, masks, and a flower."
+    },
+    "answer": [
+      0,
+      2,
+      20,
+      12,
+      19,
+      14
+    ]
   }
 }
