@@ -33279,5 +33279,41 @@
       8,
       5
     ]
+  },
+  "sol_1522": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's pale gaze, and serpent's breath ignites the dreamer's maze. The jester's twin masks waltz with fate's cruel jest, while wings of transformation find their rest. Six sacred signs converge in chaos' dance—one pierces destiny, one holds the trance.",
+      "hint": "Look for the hunter's mark, the celestial eye, the trickster's face doubled, the metamorphosis, the spark of storms, and the scaled ancient one."
+    },
+    "easyRiddle": {
+      "text": "A pointed aim, a watching moon, a laughing trickster shown twice soon. A creature reborn on gossamer thread, a dragon of old, and lightning's red. Which six symbols claim the lottery's crown?",
+      "hint": "One is a target, one watches from space, two involve a joker, one is a butterfly, one is a dragon, and one is electricity."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      8,
+      5,
+      14
+    ]
+  },
+  "emlo_610": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gems sparkle as fortune strikes like thunder. Dance with fate's joker under my glow, where fire meets fortune and magic never dies.",
+      "hint": "Think of crypto's promises: moon shots, lucky strikes, and the dazzle of quick riches"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🚀 speed! ⚡ strikes our ✨ gems. 🔥 passion fuels the 🃏 game!",
+      "hint": "Combine space travel, electricity, precious stones, and pure luck"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      9
+    ]
   }
 }
