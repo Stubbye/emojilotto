@@ -33117,5 +33117,23 @@
       17,
       9
     ]
+  },
+  "sol_1512": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and twin flames consume the juggler's stage, the trickster grins beneath prismatic arcs—seek the jeweled prism that crowns the night's masquerade, where laughter spirals upward on gossamer wings.",
+      "hint": "One guides aim, one floats above, one burns twice, one entertains crowds, one deceives with mirth, one shimmers eternal."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: the archer's mark, the dreamer's orb, the magician's gem, the showman's tent, the jester's smile, and wings of transformation.",
+      "hint": "Think of aim, dreams, wealth, entertainment, trickery, and change."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      7,
+      13,
+      8
+    ]
   }
 }
