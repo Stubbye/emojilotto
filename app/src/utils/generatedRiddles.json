@@ -33261,5 +33261,23 @@
       5,
       9
     ]
+  },
+  "sol_1520": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge: the archer's eternal mark meets swift ascension through the void, while brilliance crystallized gleams beneath night's sovereign gaze, as nature's fleeting grace pirouettes beside the tempest's violent song, and chance itself wears the grin of chaos.",
+      "hint": "Seek the intersection of ambition, speed, wealth, darkness, delicacy, and randomness"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one you aim for, one that rises high, one that sparkles bright, one that rules the night, one with fragile wings, and one that strikes with rage.",
+      "hint": "Target, Rocket, Gem, Moon, Butterfly, Lightning"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      5
+    ]
   }
 }
