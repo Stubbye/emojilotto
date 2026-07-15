@@ -33135,5 +33135,23 @@
       13,
       8
     ]
+  },
+  "sol_1513": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in destiny's game. The jester's grin reflects in crystalline depths, while the winged muse ascends through violet breaths. Chaos whispers through six-sided truth, and the thunder's kiss ignites eternal youth.",
+      "hint": "Consider the duality of chance and fate, the court's fool who speaks in riddles, and what rises when struck by light."
+    },
+    "easyRiddle": {
+      "text": "I seek the archer's mark, the sky's bright rock, the fool who laughs, the stone that gleams, the storm's bright hand, and purple dreams. Six tokens unlock the cosmic scheme.",
+      "hint": "Think of targets, celestial bodies, playing cards, gems, weather, and colors."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      6,
+      5,
+      11
+    ]
   }
 }
