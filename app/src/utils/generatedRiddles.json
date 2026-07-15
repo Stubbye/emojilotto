@@ -33225,5 +33225,23 @@
       2,
       3
     ]
+  },
+  "sol_1518": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets earthbound fortune's dance, six harbingers convene in shadow's trance. The archer's mark aligns with heaven's sphere, while fortune's jester grins through crystal clear. Upon the dragon's wings, a butterfly takes flight, and thunder's violent kiss ignites the night.",
+      "hint": "Consider the duality of luck and fate: one seeks, one rules, one transforms, one strikes, one watches, one reveals."
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols gather in the darkness: a bullseye gleams, a crowned serpent slithers, a tiny winged creature dances, the moon hangs silent, lightning crackles loud, and a masked trickster laughs.",
+      "hint": "Think of targets, dragons, butterflies, moons, lightning, and jokers."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      3,
+      4,
+      19
+    ]
   }
 }
