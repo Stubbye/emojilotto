@@ -33189,5 +33189,23 @@
       19,
       14
     ]
+  },
+  "emlo_608": {
+    "hardRiddle": {
+      "text": "I chase the dream beyond the sky, with lightning speed and fire high. A gem of fortune, crystal clear, where rockets dance and luck draws near. The joker laughs at my swift flight, as sparkles mark the diamond's light.",
+      "hint": "Think of a memecoin's journey: the destination, the movement, the value, the power, the chance, and the brilliance."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go so fast, with ⚡ and 🔥 unsurpassed. Our 💎 shines bright, the 🚀 takes flight, and ✨ marks our lucky night.",
+      "hint": "Five words describe a memecoin pump: destination, speed, heat, treasure, and magic."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      9,
+      20
+    ]
   }
 }
