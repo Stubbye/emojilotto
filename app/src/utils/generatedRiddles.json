@@ -33153,5 +33153,23 @@
       5,
       11
     ]
+  },
+  "sol_1514": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians convene in twilight's veil. The archer's mark meets serpent's ancient gleam, while winged metamorphosis adorns the jester's dream. Thunder's child and gemstone's prismatic soul unite beneath the silver sentinel's glow.",
+      "hint": "Look for symbols of luck, transformation, danger, and cosmic wonder. One points upward, one spirals downward, and four surround them in mystical balance."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in shadows: a shining stone that speaks of wealth, a creature that flies and changes form, a spark that dances in the sky, a laughing face that tricks the mind, a mark that never misses its aim, and a serpent from ancient tales. Find them all and fortune smiles.",
+      "hint": "Think of: precious things, animals, weather, carnival fun, weapons of sport, and mythical beasts."
+    },
+    "answer": [
+      2,
+      8,
+      5,
+      19,
+      0,
+      13
+    ]
   }
 }
