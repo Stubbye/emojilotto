@@ -33315,5 +33315,23 @@
       6,
       9
     ]
+  },
+  "sol_1523": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six dancers pirouette through destiny's game. The jester's grin guards wealth's glittering throne, while chaos whispers through a prism alone. Thunder's kiss ignites the trickster's call, and nature's monarchs witness the fall.",
+      "hint": "One aims true, one climbs high, one sparkles with fire, one deceives with grin, one strikes with sound, one transforms with wings"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: the archer's mark, the climber's spark, the thief's bright treasure, the fool's grand measure, the sky's fierce kiss, and the winged abyss.",
+      "hint": "Target, Rocket, Gem, Joker, Lightning, and Butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      4,
+      8
+    ]
   }
 }
