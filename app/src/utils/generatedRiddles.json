@@ -33441,5 +33441,41 @@
       4,
       11
     ]
+  },
+  "sol_1530": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a dragon coils 'round crystalline bone. Lightning adorns the jester's painted face, while wildflowers bloom in that starlit place. Six secrets dance between the shadow and gleam—the musician's fate and the prism's dream.",
+      "hint": "Consider what guides destiny, what crowns the night, what embodies chaos and mirth, what represents growth, what makes music, and what refracts all light into one."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck takes flight: a pointed guide, the moon so bright, a stone that gleams, a jester's jest, a music maker, and light's full fest.",
+      "hint": "Think of direction, night, wealth, laughter, entertainment, and color."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      15,
+      16,
+      24
+    ]
+  },
+  "emlo_613": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, seeking precious gems that make diamonds look tamed. With lightning strikes and fire's gleam, I'm the jester's sparkle in a memecoin scheme. Through rainbow waves I dance with glee, a crystal-bright lottery destiny.",
+      "hint": "Think of rapid ascent, wealth, chaos, light, and precious finds in the crypto casino."
+    },
+    "easyRiddle": {
+      "text": "What launches to the moon with electric might, glitters like gems under starry light, dances with fire and sparkles bright, with a joker's grin and crystal delight?",
+      "hint": "A memecoin's journey: up, shiny, fast, chaotic, magical, and lucky."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      20,
+      21
+    ]
   }
 }
