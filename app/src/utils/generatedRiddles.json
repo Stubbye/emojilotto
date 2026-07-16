@@ -33567,5 +33567,23 @@
       4,
       10
     ]
+  },
+  "sol_1535": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in twilight's choir. A winged muse ascends through prisms bright, while serpent's treasure gleams in starlit night. The jester's grin eclipses fortune's wheel, and nature's blooms conceal what jewels reveal.",
+      "hint": "Look for the performer, the creature of scales, the marksman's tool, the nocturnal orb, the radiant burst, and the precious stone hidden among petals."
+    },
+    "easyRiddle": {
+      "text": "I am six things that shimmer in dreams: a target for wishes, a dragon's gleam, a joker's smile, a star's bright light, a flower's grace, and lightning's might. What are we?",
+      "hint": "One flies and breathes fire, one makes you laugh, one hits the mark, one blooms in spring, one lights the sky, and one shines eternally."
+    },
+    "answer": [
+      0,
+      13,
+      1,
+      21,
+      5,
+      2
+    ]
   }
 }
