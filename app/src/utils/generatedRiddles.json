@@ -33387,5 +33387,41 @@
       8,
       13
     ]
+  },
+  "sol_1527": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, six sentinels guard the threshold of chance. The archer's mark trembles beneath cosmic flame, while jeweled secrets whisper the joker's true name. Winged metamorphosis spirals through storms of electric grace, and nature's clover blooms where thunder erases time's face.",
+      "hint": "Seek the convergence of aimed destiny, theatrical chance, precious illumination, swift transformation, natural luck, and the spark that defies."
+    },
+    "easyRiddle": {
+      "text": "Find me: the target you aim for, the fire that burns bright, the gem that shines, the joker who plays, the butterfly that transforms, and the clover of luck.",
+      "hint": "One aims, one burns, one glimmers, one laughs, one flies, one blesses."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      8,
+      20
+    ]
+  },
+  "emlo_612": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere with electric speed, seeking precious gems that make hodlers bleed. Fortune spins wildly as I dance with fire, while magical sparkles fuel the diamond desire. Rainbow magic meets theatrical masks below, as fortune strikes like lightning in the show.",
+      "hint": "A chaotic journey to wealth involving speed, luck, gems, and spectacle"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, ⚡ strikes hard, 💎 is valuable, ✨ is magical, 🎪 is fun, 🎭 is theatrical. What 6 emojis describe a memecoin adventure?",
+      "hint": "Think about launching, electricity, treasure, magic, entertainment, and drama"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      10,
+      6,
+      18
+    ]
   }
 }
