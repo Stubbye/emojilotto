@@ -33513,5 +33513,41 @@
       7,
       18
     ]
+  },
+  "sol_1533": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, and crystalline treasures dance in electric veins. The trickster's grin eclipses the celestial sphere, while chaos ignites the stage of masked deception. Through metamorphosis of winged grace and prismatic fractals, destiny's hidden path emerges.",
+      "hint": "Think of an archer's dream, a cosmic ascent, precious stones, a jester's nature, the night sky, and transformation through light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols intertwine: one aims precisely, one defies gravity upward, one glimmers with worth, one reflects trickery, one bathes in cosmic glow, and one shifts through brilliant spectrum.",
+      "hint": "A target, a rocket, a gem, a joker, the moon, and the rainbow."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      3,
+      9
+    ]
+  },
+  "emlo_614": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights with electric energy, my precious gems sparkle as fortune strikes like lightning. Where joy erupts in magical flames and luck dances wild, I am the joker's playground of infinite possibility.",
+      "hint": "Think of what makes a memecoin soar: speed, wealth, chaos, and fortune combined"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 means rich, 🌙 is the goal, 🔥 is the hype, 🃏 is the fun",
+      "hint": "These are the 6 things every memecoin trader dreams about"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      19
+    ]
   }
 }
