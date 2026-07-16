@@ -33477,5 +33477,23 @@
       20,
       21
     ]
+  },
+  "sol_1531": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, and trickster's grin reflects the jeweled heel. Wings of transformation dance through storms of light, while fortune's aim pierces the veil of night. Chaos sings in the jester's stolen song, and crystal truth has waited all along.",
+      "hint": "Consider the intersection of luck, magic, and transformation. One creature deceives, one shines from above, one rolls fate, one cuts deep, and two shimmer with otherworldly light."
+    },
+    "easyRiddle": {
+      "text": "I am six things: a trickster who schemes, a bright gem underground, a dice game of dreams, a lightning strike's gleam, a star's ancient beams, and a flame's dancing seams.",
+      "hint": "Think of deception, treasure, chance, electricity, night sky, and warmth."
+    },
+    "answer": [
+      13,
+      5,
+      11,
+      4,
+      21,
+      1
+    ]
   }
 }
