@@ -33333,5 +33333,41 @@
       4,
       8
     ]
+  },
+  "sol_1525": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's whimsy, the jester's twin masks reflect upon crystalline depths. A winged metamorphosis spirals through chambers of chance, while the archer's mark glows eternal beneath the watchful eye of infinity. Six threads weave through chaos and grace—seek them where destinies converge.",
+      "hint": "One is worn by performers, one burns without consuming, one transforms completely, one is a perfectionist's tool, one is luck incarnate, one is distant yet watching."
+    },
+    "easyRiddle": {
+      "text": "A magic show needs six things: something to wear on your face, something that burns bright, something that changes shape, something clear and shiny, something you roll to win, and something far away that lights the night.",
+      "hint": "Theater, heat, nature's transformation, mineral, game, and sky."
+    },
+    "answer": [
+      19,
+      5,
+      8,
+      20,
+      11,
+      3
+    ]
+  },
+  "emlo_611": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with unstoppable velocity, my power crackles through the void. Fortune smiles upon the bold who ride my waves, seeking treasures that sparkle like nature's jewels. A trickster grins nearby, ready to multiply your gains, while mystical guardians dance in prismatic light.",
+      "hint": "Three of these emojis represent speed and luck, two represent magic and fortune, one represents the ultimate prize"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast to the 🌙, ⚡ brings fortune, 💎 is treasure, 🃏 plays tricks, ✨ brings luck. What 6 emojis complete the memecoin dream?",
+      "hint": "Look for rocket, moon, lightning, gem, joker, and sparkles"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      12
+    ]
   }
 }
