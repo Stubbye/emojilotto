@@ -33423,5 +33423,23 @@
       6,
       18
     ]
+  },
+  "sol_1529": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance upon celestial silk, six seekers convene: the archer's mark meets swift ascension, while earthbound brilliance mirrors heaven's glow. Chaos whispers through nature's painted wings, and melody's instrument beckons the crowned victor. Metamorphosis, electricity's kiss, and luck's eternal bloom complete this symphony of destiny.",
+      "hint": "Consider the hunter's aim, the space-bound vessel, precious earth-treasures, lunar tides, storm's raw power, and the six-sided oracle of chance."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await: one aims true, one soars high, one glimmers deep, one graces the night sky, one crackles with power, and one rolls the dice of fate.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, and Dice - the foundation of luck itself."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
