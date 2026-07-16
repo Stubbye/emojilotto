@@ -33495,5 +33495,23 @@
       21,
       1
     ]
+  },
+  "sol_1532": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols intertwine in fate's trance. The archer's mark aligns with sky's pale twin, while scaled majesty guards the glittering win. Thunder's kiss awakens butterflies of chance, as masked performers spin in cosmic stance.",
+      "hint": "Look to the heavens and the earth's deep treasures. One hunts in darkness with cunning measures."
+    },
+    "easyRiddle": {
+      "text": "Find the target's mark, the dragon's might, the moon's soft glow, and lightning's light. Add butterfly's grace and masks' mystery deep. These six hold the secrets the lottery keeps.",
+      "hint": "One is aimed, one flies, one shines above, one strikes, one flutters, one hides true love."
+    },
+    "answer": [
+      0,
+      13,
+      3,
+      4,
+      7,
+      18
+    ]
   }
 }
