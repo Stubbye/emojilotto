@@ -33369,5 +33369,23 @@
       9,
       12
     ]
+  },
+  "sol_1526": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate convene. The jester's twin masks witness as emerald tears crystallize beneath the winged dancer's flight, while the beast of ancient legend roars defiance at the storm's electric tongue. Seek the jeweled heart where chaos and cosmos embrace.",
+      "hint": "One brings laughter, one brings luck, one brings fire from above, one reflects light eternal, one dances on wind, one rules with scales and smoke."
+    },
+    "easyRiddle": {
+      "text": "I am the symbol of games and chance. Find me where laughter hides behind two faces, where green fortune glows like ice, where lightning splits the sky, where a creature dances on gossamer wings, and where an ancient scaled monster breathes smoke into starlit darkness.",
+      "hint": "Think of playing cards, shining stones, electricity, nature's painters, and mythical beasts."
+    },
+    "answer": [
+      19,
+      21,
+      5,
+      6,
+      8,
+      13
+    ]
   }
 }
