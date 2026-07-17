@@ -33783,5 +33783,23 @@
       13,
       8
     ]
+  },
+  "sol_1546": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's flame, six whispers dance in chaos' frame. The archer's mark dissolves to gleam, while winged metamorphosis haunts the dream. Thunder's kiss embraces violet's call, and gemstone fire outshines them all.",
+      "hint": "Think of transformation, chance, and the meeting of sky and earth's deepest treasures."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the flame, add the gem that bears no shame. Lightning strikes the purple night, butterfly brings pure delight. Seek the rocket's final flight, and together they shine bright.",
+      "hint": "One helps you aim, one burns, one sparkles, one transforms, one flies, and one radiates color from beyond."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      8,
+      1,
+      11
+    ]
   }
 }
