@@ -33657,5 +33657,41 @@
       18,
       10
     ]
+  },
+  "sol_1541": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate conspire: the archer's mark reflects the void's embrace, while winged metamorphosis spirals through charged corridors. Crystalline brilliance crowns the jester's domain, and nature's fortune blooms beneath the trembling pulse.",
+      "hint": "Think of targets, transformations, electricity, jewels, trickery, and luck itself."
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye of destiny, the creature that transforms, the spark that strikes, the gem that gleams, the fool who grins, and the four-leaf whisper of chance.",
+      "hint": "Look for: aim, change, electricity, sparkle, comedy, and luck."
+    },
+    "answer": [
+      0,
+      8,
+      4,
+      2,
+      19,
+      20
+    ]
+  },
+  "emlo_617": {
+    "hardRiddle": {
+      "text": "I chase the lunar dream with electric speed, a gemstone prize awaits those who heed. Through circus madness and dragon's flame, fortune smiles on those who play the game.",
+      "hint": "Look for celestial ambition, precious rewards, and chaotic entertainment in the sequence."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, find the gem that glows, lightning strikes the fire that rose.",
+      "hint": "Start with launch, reach the destination, collect treasure, and feel the energy and heat."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      0
+    ]
   }
 }
