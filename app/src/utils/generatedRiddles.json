@@ -33693,5 +33693,23 @@
       4,
       0
     ]
+  },
+  "sol_1542": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked performer's flight ascends beyond mortal chains. In crystalline depths, the six-sided oracle whispers secrets to the winged herald of transformation, while radiance blooms eternal beneath the joker's ethereal gaze.",
+      "hint": "Think of luck's many faces: what spins, what shines, what guides, what changes, what laughs, and what illuminates the night"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: a target's precision, a rocket's ascent, a gem's brilliance, a moon's mystique, lightning's power, and a joker's luck. Find them all to claim the prize.",
+      "hint": "Look for: aim, flight, treasure, night, electricity, and chaos"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
