@@ -33621,5 +33621,41 @@
       12,
       21
     ]
+  },
+  "sol_1539": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's spiral, six seekers emerge: the archer's distant mark, the vessel piercing the void, the heart of compressed starlight, the silent guardian of night's dominion, the serpent of ancient chaos, and the delicate messenger of metamorphosis. What glimmers in their union?",
+      "hint": "Think of destiny written in the sky, transformation, power, and the spaces between worlds."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's dream, the gem's brilliance, the moon's watch, the dragon's rage, and the butterfly's journey.",
+      "hint": "Six symbols: one points, one flies, one shines, one glows, one roars, one transforms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      8
+    ]
+  },
+  "emlo_616": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, my brilliance ignites fortune seekers who chase me through cosmic waves. When luck strikes, I shimmer with the rarest gems, guarded by a trickster's grin. What am I?",
+      "hint": "Think of a memecoin's journey: explosive growth, reaching new heights, and the lucky charm that protects your gains."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 goes up fast, ⚡ strikes with power, 💎 shines bright, 🌙 watches above, 🃏 laughs at the journey, and ✨ celebrates the win. What crypto story do these tell?",
+      "hint": "Follow the emojis in order - this is the path of every memecoin trader."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      18,
+      10
+    ]
   }
 }
