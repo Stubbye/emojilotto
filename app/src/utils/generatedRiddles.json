@@ -33765,5 +33765,23 @@
       11,
       19
     ]
+  },
+  "sol_1545": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian heart, and the jester's grin conceals the serpent's ancient spark. Lightning dances through the prism's stolen breath, while petals of fortune spiral between life and death. The winged soul ascends through chromatic tears, as celestial fire burns through forgotten years.",
+      "hint": "Six symbols of chaos, chance, and transcendence. One marks the aim, one the cosmic stage, one reflects the trickster's age, one brings the storm's dark rage, one guards the dragon's golden cage, one transforms across each page."
+    },
+    "easyRiddle": {
+      "text": "I show where to aim, I light up the night sky, a rainbow appears when the storm passes by. A jester makes laughter, a dragon hoards gold, and butterfly wings tell stories untold.",
+      "hint": "Think of a target, the moon, a rainbow, a joker, a dragon, and a butterfly."
+    },
+    "answer": [
+      0,
+      3,
+      9,
+      11,
+      13,
+      8
+    ]
   }
 }
