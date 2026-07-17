@@ -33729,5 +33729,41 @@
       6,
       19
     ]
+  },
+  "sol_1544": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a gem's refracted light bends through the storm. The dragon's breath ignites what butterfly shall witness, while the jester's grin reflects in crystal's fractured form. Seek the six that dance between chaos and grace, where celestial fire paints the darkest space.",
+      "hint": "Consider which symbols represent duality: targeting precision, ascending dreams, earthly treasure, heavenly fire, transformation through chaos, and the mockery of fate itself."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: one aims true, one reaches high, one gleams bright, one burns hot, one changes form, and one laughs at destiny. What are they?",
+      "hint": "Think of: accuracy, ambition, wealth, energy, metamorphosis, and mischief."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      8,
+      19
+    ]
+  },
+  "emlo_618": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial sphere with electric speed, my gems spark like lightning as fortune dances with chaos. A magical performance unfolds where luck meets fire.",
+      "hint": "Think of a memecoin's journey: where it goes, how fast, what it promises, and the element of chance involved."
+    },
+    "easyRiddle": {
+      "text": "A fast trip up high, shiny treasures, bright sparks, burning passion, lucky play, and magic tricks.",
+      "hint": "Five of these are about going up, getting rich, speed, luck, and entertainment."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      19
+    ]
   }
 }
