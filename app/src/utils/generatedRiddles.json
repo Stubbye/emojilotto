@@ -33801,5 +33801,41 @@
       1,
       11
     ]
+  },
+  "sol_1547": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a winged metamorphosis dances through celestial fire. The jester's grin guards the threshold where crystalline brilliance shatters into prismatic oblivion, while thunder's child plays its silent strings beneath the watchful eye of heaven's gem.",
+      "hint": "Seek the intersection of transformation, chaos, and ascension. One element bridges earthly mirth and cosmic wonder."
+    },
+    "easyRiddle": {
+      "text": "I am six: a pointed seeker of center, a creature reborn through graceful wings, laughter's masked companion, a stone that catches starlight, music born from tension, and the voice of sky's wrath.",
+      "hint": "Think of targets, butterflies, jokers, crystals, guitars, and lightning."
+    },
+    "answer": [
+      0,
+      8,
+      19,
+      20,
+      16,
+      4
+    ]
+  },
+  "emlo_619": {
+    "hardRiddle": {
+      "text": "I spark the gains that make holders diamond-handed, my electric power amplifies the rocket's trajectory. Where fortune strikes like lightning, I ignite the momentum that launches dreams to the celestial sphere. Find me alongside the symbol of destiny's wheel, the jester who controls the chaos, and the mythical beast guarding treasures untold.",
+      "hint": "Think of what energizes the pump, what randomizes luck, and what mythical creatures guard meme fortunes"
+    },
+    "easyRiddle": {
+      "text": "🎯 This memecoin journey needs: the strike of electricity, the ride to the moon, the lucky random chance, the magical sparkle of success, the mythical dragon's treasure, and the cosmic twinkling above.",
+      "hint": "One zaps, one is your destination, one brings luck, one glimmers, one hoards wealth, one lights the night sky"
+    },
+    "answer": [
+      3,
+      4,
+      11,
+      10,
+      14,
+      21
+    ]
   }
 }
