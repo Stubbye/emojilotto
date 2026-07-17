@@ -33585,5 +33585,41 @@
       5,
       2
     ]
+  },
+  "sol_1537": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate await. The winged trickster pirouettes through prismatic arcs, whilst gems crystallize the spark of chaos. In this theater of dreams, the horned harbinger of ancient luck crowns the symphony of chance.",
+      "hint": "Think of performers, mythical beings, light phenomena, and symbols of randomness arranged in cosmic harmony."
+    },
+    "easyRiddle": {
+      "text": "Find the six treasures: a flying creature of metamorphosis, the archer's mark of precision, a precious stone that sparkles bright, the scale of chance itself, a magical explosion of light, and the wise beast with cunning red fur.",
+      "hint": "One is an insect, one is a gemstone, one brings randomness, and three are animals or creatures."
+    },
+    "answer": [
+      8,
+      0,
+      5,
+      11,
+      10,
+      13
+    ]
+  },
+  "emlo_615": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, my brilliance strikes like nature's fury. Where fortunes sparkle and luck dances, I am the jester's prize beneath the cosmic glow, guided by fortune's wheel and mystic charm.",
+      "hint": "Think of a memecoin's journey: speed, electricity, magic, randomness, luck, and the night sky."
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly with lightning fast, collecting gems that sparkle bright. The joker spins the dice of fate, while fortune smiles with cosmic light.",
+      "hint": "Name the 6 things mentioned in order."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      11,
+      12,
+      21
+    ]
   }
 }
