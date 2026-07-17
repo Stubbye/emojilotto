@@ -33855,5 +33855,23 @@
       14,
       8
     ]
+  },
+  "sol_1550": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate convene. The archer's mark adorns the threshold, while the winged metamorphosis spins through stellar brilliance. Thunder's child and the nocturnal pearl embrace destiny, as crystalline splendor crowns the spectacle of chance.",
+      "hint": "One guides aim, one transforms, one illuminates night, one strikes swift, one sparkles eternal, one marks fortune's stage"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of luck: the target's center, the butterfly's grace, the star's light, the lightning's strike, the moon's glow, and the crystal's gleam. Which six dance together in this game of fortune?",
+      "hint": "Think of precision, transformation, celestial bodies, elemental forces, and precious stones"
+    },
+    "answer": [
+      0,
+      8,
+      21,
+      4,
+      3,
+      20
+    ]
   }
 }
