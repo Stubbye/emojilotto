@@ -33837,5 +33837,23 @@
       14,
       21
     ]
+  },
+  "sol_1548": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six shadows dance in chaos tamed. The jester's grin beneath two faces worn, while gems crystallize what lightning has torn. A creature of night with scales of starfire, and wings that shimmer through rainbow's desire. When luck strikes the bull's-eye at destiny's gate, the masked performers seal your fate.",
+      "hint": "One points, one burns, one laughs, one reflects, one soars, one floats—all six converge where chance and cosmos intersect."
+    },
+    "easyRiddle": {
+      "text": "I am six things hidden in fortune's song: An aim that never waits, a flame burning strong. A jester's double face, a gem crystal clear, A dragon breathing stars, and wings without fear. When all six align where sky meets the ground, your lucky number's found.",
+      "hint": "Think of targets, fire, trickery, sparkle, mythology, and delicate flight."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      21,
+      14,
+      8
+    ]
   }
 }
