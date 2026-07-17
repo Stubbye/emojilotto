@@ -33711,5 +33711,23 @@
       4,
       19
     ]
+  },
+  "sol_1543": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a gemstone catches starlight's blaze. Thunder splits the mystic veil, while dancing wings through rainbow sail. In flames of revelry they spin, where masked souls wear joy's thin skin.",
+      "hint": "A target aligns with the lunar pull, a precious stone gleams, lightning fractures reality, a butterfly floats through color, fire dances at the carnival, and masks hide the joker's grin."
+    },
+    "easyRiddle": {
+      "text": "I am a mark to hit, a rock that glows, a bolt that strikes, a mask's repose. Find the butterfly in painted sky, and where the circus flames fly high.",
+      "hint": "Six symbols: one to aim, one precious, one electric, one theatrical, one winged, one fiery."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      6,
+      19
+    ]
   }
 }
