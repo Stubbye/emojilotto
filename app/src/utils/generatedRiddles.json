@@ -34089,5 +34089,23 @@
       9,
       12
     ]
+  },
+  "sol_1562": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the winged metamorphosis spirals through the gemstone's fractured light, the jester's masked grin echoes beneath the dragon's eternal vigil—six symbols converge in the place where luck transcends the mortal wheel.",
+      "hint": "Think of precision meeting the cosmos, transformation within brilliance, chaos wearing a smile, and ancient power observing destiny's play."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the moon's glow, the gem's sparkle, the butterfly's dance, the joker's laugh, and the dragon's wisdom.",
+      "hint": "One guides, one lights the night, one glimmers with value, one transforms gracefully, one brings chaos and joy, one watches over all."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      19,
+      14
+    ]
   }
 }
