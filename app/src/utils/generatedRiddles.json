@@ -33909,5 +33909,23 @@
       19,
       10
     ]
+  },
+  "sol_1552": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a jester's laughter echoes through gemstone halls. The winged wanderer dances between chaos and order, as celestial fire paints the void. Seek the prism of fate where luck's twin serpent guards the threshold of dreams.",
+      "hint": "One pierces destiny, one reigns above, one mocks the seeker, one glimmers with worth, one flutters between worlds, one coils in majesty."
+    },
+    "easyRiddle": {
+      "text": "I point the way to fortune's prize, I light the night sky high, I sparkle with pure value true, I jest and mock the seeker's tries, I flutter on delicate wings, I guard all treasures with ancient might.",
+      "hint": "Think of targets, the moon, gems, jokers, butterflies, and dragons."
+    },
+    "answer": [
+      0,
+      21,
+      2,
+      11,
+      8,
+      13
+    ]
   }
 }
