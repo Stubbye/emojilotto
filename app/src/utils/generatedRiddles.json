@@ -33873,5 +33873,41 @@
       3,
       20
     ]
+  },
+  "sol_1551": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and nature's winged metamorphosis meets the prism's stolen gleam. The jester's grin guards the vault of crystalline dreams, while the archer's mark aligns with heaven's silver gaze. Six keys unlock destiny's stage—seek them where chaos births order, where laughter echoes through the gem-laden void.",
+      "hint": "Look for: the marksman's circle, the ascending flame, the butterfly's transformation, the radiant jewel, the cosmic pearl, and the instrument of mirth"
+    },
+    "easyRiddle": {
+      "text": "I bring luck with four leaves and mischief with my grin. I sparkle like stolen starlight. I flutter freely. I point toward destiny with precision. I pierce the sky with heat. I orbit in silence. Together we six are the lottery's secret language.",
+      "hint": "Count: luck charm, fool's laughter, crystal shine, winged dancer, bullseye, and sky fire—find where the moon watches over all"
+    },
+    "answer": [
+      12,
+      1,
+      8,
+      5,
+      21,
+      19
+    ]
+  },
+  "emlo_620": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar peak with electric speed, leaving trails of cosmic fire. My precious heart sparkles with fortune's magic, guarded by fortune's jester. What six treasures light my path?",
+      "hint": "Think of a memecoin's journey: departure, destination, speed, luck, value, and celebration"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⭐ is the goal, ⚡ is the speed, 💎 is the treasure, 🃏 brings the luck, ✨ is the magic. Name them all!",
+      "hint": "A successful crypto launch needs all six of these"
+    },
+    "answer": [
+      1,
+      21,
+      4,
+      2,
+      19,
+      10
+    ]
   }
 }
