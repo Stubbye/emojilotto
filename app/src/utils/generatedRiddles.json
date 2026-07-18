@@ -34053,5 +34053,23 @@
       5,
       18
     ]
+  },
+  "sol_1559": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six dancers of fate await: the jester's grin mirrors the scaled leviathan's breath, while gems crystallize in electric silence. A winged metamorphosis conducts the symphony between chaos and precision, as luck's symbols converge in the threshold where day surrenders to night.",
+      "hint": "Consider the court fool, the ancient serpent, the precious stone that splits light, the storm's voice, the insect of transformation, and the boundary between waking and dreams."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols dance in the EmojiLotto dream: A masked trickster laughs, a mighty dragon roars, a brilliant gem gleams, lightning crackles in the sky, a butterfly floats free, and between them all, the stars watch eternally.",
+      "hint": "Think of: a joker, a dragon, a crystal, lightning, a butterfly, and a star."
+    },
+    "answer": [
+      19,
+      14,
+      21,
+      5,
+      8,
+      22
+    ]
   }
 }
