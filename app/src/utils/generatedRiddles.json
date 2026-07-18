@@ -34017,5 +34017,23 @@
       10,
       6
     ]
+  },
+  "sol_1557": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six whispers dance in twilight's choir. A dragon's treasure gleams in chambers deep, while masked performers their vigil keep. Lightning strikes the jester's golden throne, and crystals sing in frequencies unknown. The butterfly seeks what the rocket scorned—beauty born where chaos is adorned.",
+      "hint": "Look to the heavens, the stage, and the earth's hidden jewels. One brings luck, one brings spectacle, one brings illumination."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a bullseye's truth, a dragon's might, a sparkle's dance, a mask's delight, a crystal's glow, and lightning's flight. What are they?",
+      "hint": "Think of luck, magic, mystery, performance, nature's shine, and nature's power."
+    },
+    "answer": [
+      0,
+      13,
+      20,
+      18,
+      4,
+      10
+    ]
   }
 }
