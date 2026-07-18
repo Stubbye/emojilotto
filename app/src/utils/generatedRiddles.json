@@ -33945,5 +33945,23 @@
       8,
       11
     ]
+  },
+  "sol_1554": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gem burns bright through cosmic grace. Thunder kisses flame in spectral dance, while winged metamorphosis claims its chance. The jester's grin beneath the star's cold gleam—six tokens of a fevered dream.",
+      "hint": "One draws aim, one ascends the night, one glimmers with inner light, one crackles with raw might, one consumes with hunger's bite, one transforms in flight."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I climb so high, I sparkle bright, I light the sky, I dance with heat, I change my form—six lucky signs to weather any storm.",
+      "hint": "Think of: something that aims, something that flies up, something precious, something electric, something hot, and something that grows wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      8
+    ]
   }
 }
