@@ -33963,5 +33963,23 @@
       5,
       8
     ]
+  },
+  "sol_1555": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six whispers dance beneath the veil. The winged transformation ascends through prism'd arc, while jester's grin guards the twin pillars of fate. Through crystal depths and electric kiss, the archer's mark blooms eternal.",
+      "hint": "Look for: something that ascends, something that deceives, something that lights the night, something that chances, something transparent, and something that aims true."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one burns bright like fate's kiss, one flies with metamorphosis, one arcs across the sky in color, one glimmers without form, one laughs with hidden truth, and one strikes with violent speed.",
+      "hint": "Fire, butterfly, rainbow, sparkles, joker, and lightning"
+    },
+    "answer": [
+      6,
+      8,
+      9,
+      10,
+      20,
+      1
+    ]
   }
 }
