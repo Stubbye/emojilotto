@@ -33927,5 +33927,23 @@
       8,
       13
     ]
+  },
+  "sol_1553": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged wanderer seeks the prism of luck. Six threads bind: the archer's goal gleams eternal, the ascending serpent roars through heavens, the nocturnal pearl whispers secrets, the electric tempest shatters stillness, the iridescent messenger transforms sorrow, and chaos rolls its bone-song of destiny.",
+      "hint": "Consider what rises, what aims, what changes form, what brings fortune, what illuminates night, and what speaks in riddles."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: a target never missed, a rocket reaching high, a glowing moon above, lightning's sudden strike, a butterfly's rebirth, and dice declaring destiny.",
+      "hint": "Think of goals, ascension, night sky, power, transformation, and chance."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      21,
+      8,
+      11
+    ]
   }
 }
