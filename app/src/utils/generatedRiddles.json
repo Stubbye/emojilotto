@@ -33981,5 +33981,41 @@
       20,
       1
     ]
+  },
+  "sol_1556": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, through prisms of fate's geometry, a winged metamorphosis pirouettes betwixt the archer's mark and thunderous ascension. Six threads weave: the heavens' pearl witnesses two masks of destiny, while crystalline fragments refract the bolt that splits the sky, and nature's delicate performer floats where fortune's eye finds its true north.",
+      "hint": "Consider what guides, what transforms, what illuminates, what decides, what observes, and what targets in the realm of chance."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: the moon watches over, lightning strikes quick, the butterfly transforms, a target waits to be hit, a crystal gleams bright, and destiny's joker grins—which six dance together in fortune's game?",
+      "hint": "Think of transformation, electricity, observation, precision, reflection, and unpredictability."
+    },
+    "answer": [
+      1,
+      3,
+      8,
+      11,
+      20,
+      21
+    ]
+  },
+  "emlo_622": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive force, seeking precious treasures that sparkle with cosmic energy. My journey electrifies the atmosphere, leaving trails of fortune and magical transformation in my wake.",
+      "hint": "Think of a memecoin's ultimate destination and the tools of sudden wealth."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🌙 watches over, ✨ glows magic, 🔥 burns hot. Which six guide the way to memecoin glory?",
+      "hint": "Look for symbols of speed, value, power, destiny, magic, and intensity."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      6
+    ]
   }
 }
