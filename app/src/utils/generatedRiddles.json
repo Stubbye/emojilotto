@@ -34143,5 +34143,23 @@
       19,
       18
     ]
+  },
+  "sol_1567": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance in shadow's choir. The jester's twin grins through prismatic veil, while winged metamorphosis trails the scale. In luck's bright temple, crystal echoes sing—destiny woven through lightning's sting.",
+      "hint": "Consider what brings fortune, laughter, and transformation together in games of chance."
+    },
+    "easyRiddle": {
+      "text": "Find the target that aims for riches, the joker who plays games, the lightning that strikes luck, the butterfly that transforms fate, the crystal that sparkles with hope, and the star that guides all dreamers.",
+      "hint": "Look for symbols of luck, games, power, change, clarity, and destiny."
+    },
+    "answer": [
+      0,
+      19,
+      4,
+      8,
+      20,
+      21
+    ]
   }
 }
