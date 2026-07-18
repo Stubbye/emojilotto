@@ -34071,5 +34071,23 @@
       8,
       22
     ]
+  },
+  "emlo_623": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkling as I ascend to legendary heights. A joker's fortune dances with the dragon's fire, while a butterfly dreams under the rainbow. What six symbols define this memecoin odyssey?",
+      "hint": "Think of a rocket's journey to wealth, magical creatures, and symbols of luck and transformation."
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts toward the moon with gem treasures. Lightning strikes with fire energy. A joker laughs, a butterfly soars, and a rainbow glows. Count these six lucky symbols.",
+      "hint": "Look for space travel, wealth, luck, speed, nature, and joy."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      7,
+      9,
+      12
+    ]
   }
 }
