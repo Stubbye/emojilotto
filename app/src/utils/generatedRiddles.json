@@ -34107,5 +34107,23 @@
       19,
       14
     ]
+  },
+  "sol_1563": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, the jester's grin dances with prismatic shame. Six tokens of fate: the winged creature seeks truth in silk and shadow, while the crown gleams where crystalline dreams were born. The night's pale witness watches as luck spirals through the void, and chaos blooms eternal in the garden where all performers bow.",
+      "hint": "One shoots arrows, one rules with cards, one ascends to heights, one glimmers in dark places, one transforms through metamorphosis, one represents the ultimate prize."
+    },
+    "easyRiddle": {
+      "text": "A target marks the beginning, a joker laughs in the middle, a butterfly transforms nearby, a star shines bright above, a crystal catches the light below, and a trophy sits waiting at the end.",
+      "hint": "Follow the path from aim to achievement, passing through joy, change, brilliance, clarity, and victory."
+    },
+    "answer": [
+      0,
+      12,
+      8,
+      22,
+      21,
+      18
+    ]
   }
 }
