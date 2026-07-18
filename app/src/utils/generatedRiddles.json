@@ -34035,5 +34035,23 @@
       4,
       10
     ]
+  },
+  "sol_1558": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twisted grin, six secrets hide in shadow's spin. The archer's goal gleams crystalline bright, while chaos dances in purple night. Ascend through stages where twin serpents reign, and luck's electric veins sustain the game.",
+      "hint": "Think of targets, gems, laughing chaos, royal beasts, lightning's kiss, and regal symbols of victory."
+    },
+    "easyRiddle": {
+      "text": "I am aimed at with purpose, I sparkle with worth, I laugh at your fortune, I soar through the earth. Purple crowns my domain, while lightning strikes near, and golden rewards await those without fear.",
+      "hint": "One is aimed at, one shines, one laughs, one flies high, one is a color, one strikes."
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      14,
+      5,
+      18
+    ]
   }
 }
