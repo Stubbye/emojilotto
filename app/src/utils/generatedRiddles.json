@@ -34125,5 +34125,23 @@
       21,
       18
     ]
+  },
+  "sol_1565": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, and gemstone whispers dance with celestial descent. Thunder's kiss ignites the stage of jesters' flight, while winged metamorphosis paints the prism of night. Six secrets converge where luck and cosmos ignite.",
+      "hint": "One brings aim, one brings height, one brings wealth, one brings sight, one brings chaos, one brings transformation."
+    },
+    "easyRiddle": {
+      "text": "I strike from above with brilliant might. A precious stone gleams in lunar light. A jester spins where lightning plays. A butterfly dances through rainbow's haze. The archer's mark and the stage's delight—six symbols of fortune burn bright.",
+      "hint": "Think of: aim, gems, sky, thunder, stages, and wings."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      19,
+      18
+    ]
   }
 }
