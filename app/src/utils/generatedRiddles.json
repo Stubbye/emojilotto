@@ -34269,5 +34269,23 @@
       8,
       0
     ]
+  },
+  "sol_1573": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through celestial fire, six seekers dance in shadow's attire. The archer's mark meets winged ambition's flight, while crystalline tears catch moonlit light. Between the jester's grin and nature's spotted grace, a prism bleeds where luck finds place.",
+      "hint": "One is aimed, one ascends, one glimmers, one grins, one hunts, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where dreamers play: a bullseye gleams, a rocket soars away, a gem shines bright, the moon glows white, a joker grins with all his might, and a fox prowls through the night.",
+      "hint": "Target, rocket, gem, moon, joker, and fox are your answers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      13
+    ]
   }
 }
