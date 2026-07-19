@@ -34233,5 +34233,23 @@
       14,
       8
     ]
+  },
+  "sol_1571": {
+    "hardRiddle": {
+      "text": "Where celestial fires dance with fortune's wheel, six keepers of fate converge. The archer's mark meets the void's eternal gaze, while prismatic shards sing with wings of transformation. Thunder's kiss ignites the jester's grin, and at the apex, the scaled guardian watches over all.",
+      "hint": "One points, one circles, one gleams, one flies, one strikes, one rules"
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the moon's bright face, the gem that sparkles, the butterfly's grace, the lightning's bolt, and the dragon's place.",
+      "hint": "6 symbols of luck: aim, sky, shine, flight, storm, myth"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      4,
+      13
+    ]
   }
 }
