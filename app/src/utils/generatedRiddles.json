@@ -34215,5 +34215,23 @@
       7,
       1
     ]
+  },
+  "sol_1570": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in shadows' game. The jester's grin beneath the moon's pale eye, while serpent gold and butterfly align. Thunder splits the prism's sacred arc, and petals bloom within the dark. Seek ye the marked circle, the soaring dart, the gem of night, the winged heart, the serpent's coil, the bloom that burns—where chaos churns and destiny turns.",
+      "hint": "Look for circular targets, upward motion, precious stones, lunar cycles, ancient myths, and winged creatures in nature's theater."
+    },
+    "easyRiddle": {
+      "text": "I point to winners, I soar up high, I sparkle like night's jeweled sky. The moon watches over, while thunder cracks bright. A dragon of dreams and a butterfly's flight. A flower that glows completes this sight. Name these six treasures shining in light.",
+      "hint": "Think of: something circular and precise, something that rockets upward, something precious and shimmering, something in the night sky, something fierce and legendary, and something delicate and beautiful."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      8
+    ]
   }
 }
