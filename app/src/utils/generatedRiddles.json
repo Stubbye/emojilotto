@@ -34323,5 +34323,23 @@
       10,
       11
     ]
+  },
+  "sol_1576": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of destiny converge. The archer's mark meets the void's eternal gaze, while chaos wears a grinning face. Brilliance crystallized and winged metamorphosis waltz beneath the storm's electric breath. Speak the number-bones of luck that unlock the hidden gateway.",
+      "hint": "One guides from above, one grins below, one sparkles eternal, one transforms, one strikes with fury, one seeks a target."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: where you aim, where lightning strikes, what shines in night sky, what gems reflect, what has wings that flutter, and what grins with tricks.",
+      "hint": "Think of lucky symbols: aim high, electricity, moon watch, precious stones, butterflies, and a trickster."
+    },
+    "answer": [
+      0,
+      4,
+      3,
+      20,
+      8,
+      19
+    ]
   }
 }
