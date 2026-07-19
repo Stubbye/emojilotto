@@ -34359,5 +34359,23 @@
       5,
       19
     ]
+  },
+  "sol_1578": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins in twilight's embrace, six sentinels guard the threshold of grace. The archer's mark burns with celestial fire, while winged metamorphosis climbs ever higher. A jester's grin masks the depths of the night, as scaled wisdom guards the lottery's light. Where prismatic arcs meet the dancer's delight, these six shall unlock what mortals ignite.",
+      "hint": "Look for aim, flame, transformation, court folly, ancient power, and curved light"
+    },
+    "easyRiddle": {
+      "text": "I aim for the center, I rise to the sky, I shimmer with colors, I dance way up high. A creature with wings, a laugh without care, and scales that bring magic to those who dare. Find these six treasures and you shall see, the secrets of fortune that lottery can be.",
+      "hint": "Target, rocket, butterfly, rainbow, joker, dragon"
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      12,
+      13,
+      10
+    ]
   }
 }
