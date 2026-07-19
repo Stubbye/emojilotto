@@ -34413,5 +34413,23 @@
       2,
       9
     ]
+  },
+  "sol_1582": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's trembling dance, six sentinels of fate converge. The archer's goal gleams with prismatic soul, while winged metamorphosis spirals through electric tempest. Where laughter masks the cosmic pulse and fortune's die eternally spins beneath the ancient beam of night's eternal sentinel.",
+      "hint": "Look for the prize, the transformation, the storm, the disguise, the chance, and the watcher above."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols: a shining target awaits, a butterfly transforms, lightning strikes fast, the joker grins wide, dice decide, and stars shine bright.",
+      "hint": "One you aim for, one that changes, one that zaps, one that tricks, one that rolls, one that glows."
+    },
+    "answer": [
+      0,
+      8,
+      4,
+      19,
+      11,
+      22
+    ]
   }
 }
