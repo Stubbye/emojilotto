@@ -34305,5 +34305,23 @@
       13,
       20
     ]
+  },
+  "sol_1575": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate await. The archer's mark meets the serpent's ancient wisdom, while the butterfly's metamorphosis spins between chaos and precision. One glimmers eternal in the void, another sparkles with cosmic dust, and the fool's grin seals the pact between worlds.",
+      "hint": "Consider what transforms, what aims, what reigns above, what laughs at destiny, what shines without burning, and what coils through legend."
+    },
+    "easyRiddle": {
+      "text": "Find the dragon's flight path, the target's purpose, the jester's secret, the star's eternal glow, the sparkles of magic, and the dice's chance.",
+      "hint": "One creature soars, one mark awaits, one laughs mysteriously, one watches forever, one dazzles brightly, one decides by luck."
+    },
+    "answer": [
+      14,
+      0,
+      19,
+      21,
+      10,
+      11
+    ]
   }
 }
