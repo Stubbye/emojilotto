@@ -34161,5 +34161,41 @@
       20,
       21
     ]
+  },
+  "sol_1568": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate align. The winged messenger ascends through prismatic veils, while the crowned trickster grins beneath twin masks of chaos. Lightning's twin brother crackles where gems catch starlight's song, and the nocturnal flame-bearer watches over all from twilight's throne.",
+      "hint": "One brings luck, one brings laughter, one brings speed, one brings brilliance, one brings illumination, one brings mystery."
+    },
+    "easyRiddle": {
+      "text": "Find the speedy one that flies, the jester who laughs, the bright stone that shines, the night watcher above, the zigzag that burns, and the lucky charm that grows.",
+      "hint": "Think of speed, humor, wealth, night, danger, and fortune."
+    },
+    "answer": [
+      1,
+      17,
+      2,
+      21,
+      4,
+      19
+    ]
+  },
+  "emlo_625": {
+    "hardRiddle": {
+      "text": "I launch to the celestial heights with electric speed, seeking gems that sparkle like fire. The joker dances with fortune's clover, while the dragon's trophy glows under the moon's circus of dreams.",
+      "hint": "Think of a memecoin's journey: launch, volatility, luck, and legendary gains"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, lightning strikes fast, gems shine bright, the moon watches above, fire burns hot, and a star guides the way",
+      "hint": "These symbols represent the explosive growth and magical fortune of crypto"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      6,
+      21
+    ]
   }
 }
