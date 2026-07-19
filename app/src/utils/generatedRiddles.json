@@ -34287,5 +34287,23 @@
       19,
       13
     ]
+  },
+  "sol_1574": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger ascends through prismatic arcs to kiss the luminous sentinel. Six fragments of fate converge: the archer's mark finds its twin in chaos, while electricity crowns the jester's masquerade, and the scaled leviathan's dream sparkles eternal.",
+      "hint": "Consider what rises, what strikes, what performs, what glimmers, what targets, and what laughs in the darkness."
+    },
+    "easyRiddle": {
+      "text": "A target gleams with lightning's kiss, a dragon dreams while sparkles persist. The joker grins where rockets fly, beneath a moon in fortune's sky. Six symbols dance—can you see them all, when fate and chaos heed the call?",
+      "hint": "Look for: something aimed, something electric, something mythical, something shimmering, something foolish, and something celestial."
+    },
+    "answer": [
+      0,
+      4,
+      5,
+      10,
+      13,
+      20
+    ]
   }
 }
