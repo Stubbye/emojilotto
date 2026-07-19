@@ -34251,5 +34251,23 @@
       4,
       13
     ]
+  },
+  "sol_1572": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the jester's twin masks dance with fortune's geometry. A scaled sovereign guards the luminous heart beneath the archer's mark, while nature's winged metamorphosis celebrates in crystalline brilliance.",
+      "hint": "Look for: a performer's duality, a mythical beast, a gemstone's glow, a pointed aim, a transformation, and shimmering radiance"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: a magical creature with scales, a precious stone that gleams, a performer's two faces, something that sparkles like stars, a winged insect reborn, and a target you aim for.",
+      "hint": "dragon, gem, masks, sparkles, butterfly, target"
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      19,
+      8,
+      0
+    ]
   }
 }
