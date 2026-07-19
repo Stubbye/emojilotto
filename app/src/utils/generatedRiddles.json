@@ -34377,5 +34377,41 @@
       13,
       10
     ]
+  },
+  "sol_1581": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, six guardians of fate converge in trance. The archer's mark holds lightning's kiss, while winged metamorphosis cannot miss. A jeweled prism catches starlight's gleam, and masked revelry haunts the dreamer's scheme.",
+      "hint": "Look to the heavens and the carnival within; one strikes swiftly, one transforms all sin."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune and wonder align: a target, electricity bright, a gem that will shine, the moon's gentle light, a butterfly's flight, and a jester's design.",
+      "hint": "One aims, one sparks, one glitters, one glows, one flies, one laughs—these six fortune knows."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      8,
+      19
+    ]
+  },
+  "emlo_629": {
+    "hardRiddle": {
+      "text": "I chase the digital moon with lightning speed, a gem-powered rocket fueled by fire and sparkles. What six celestial symbols represent this memecoin's journey to infinity?",
+      "hint": "Think of the ultimate crypto dream: speed, wealth, light, destination, and the tools that get you there."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots toward the moon, guided by lightning and fire, carrying gems and sparkles. Name these six symbols of crypto success.",
+      "hint": "One goes up, one is your destination, two are energy, one is treasure, one is magic dust."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      9
+    ]
   }
 }
