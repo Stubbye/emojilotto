@@ -34341,5 +34341,23 @@
       8,
       19
     ]
+  },
+  "emlo_628": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone treasure is all we need. Dancing with fire and lightning's spark, I'm the joker's prize lighting up the dark. What six symbols mark this memecoin's way?",
+      "hint": "Think of a chaotic journey to wealth with precious rewards and wild energy"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket going up, the gem that shines, the moon so bright, the lightning strike, the fire's flame, and the joker's game.",
+      "hint": "Look for launch, treasure, lunar dreams, electricity, heat, and card tricks"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      19
+    ]
   }
 }
