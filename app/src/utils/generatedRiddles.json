@@ -34197,5 +34197,23 @@
       6,
       21
     ]
+  },
+  "sol_1569": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, six portents dance in shadow's career. The jester's grin beneath twin masks of fate, while primal chaos and delicate wings congregate. A gemstone gleams where lightning splits the veil, and metamorphosis completes fortune's tale.",
+      "hint": "Consider trickery, transformation, duality, electricity, precious value, and celestial navigation."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this cosmic play: a target struck, a gem that lights the way, masks that deceive, a dragon's ancient fire, butterfly wings that lift desire, and lightning's dire wire.",
+      "hint": "Think of aims, jewels, deception, dragons, insects, and electricity."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      13,
+      7,
+      1
+    ]
   }
 }
