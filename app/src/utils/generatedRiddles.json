@@ -34431,5 +34431,41 @@
       11,
       22
     ]
+  },
+  "sol_1584": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances betwixt the celestial sphere and terrestrial flame, six sentinels of chance converge. The winged metamorphosis meets the archer's mark, while gemstone wisdom glimmers beneath the thunder's kiss. What constellation of fate demands your selection?",
+      "hint": "One brings luck of the Irish, one splits the sky with fury, one circles the stage of possibility, one transforms through patience, one pierces the veil of night, one holds earth's treasure."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide your fortune: A lucky charm from green gardens, a precious stone that sparkles bright, a masked performer who brings laughter, lightning that cracks the sky, the butterfly that transforms, and the night guardian that glows in darkness. Which six shall you choose?",
+      "hint": "Think: luck, treasure, entertainment, storm, change, and midnight."
+    },
+    "answer": [
+      19,
+      5,
+      18,
+      8,
+      1,
+      21
+    ]
+  },
+  "emlo_630": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises swift with electric speed, gemstones gleaming as we chase celestial dreams. When flames ignite the spectacle of chance, crystal visions sparkle where luck will dance.",
+      "hint": "Think of a memecoin's journey: the gambler, the precious reward, the explosive growth, the goal we seek, the charged energy, and the magical shimmer."
+    },
+    "easyRiddle": {
+      "text": "What makes a memecoin moon? A joker's dice under lightning with gems that sparkle bright, all blazing toward the rocket's flight.",
+      "hint": "Six emoji tell the memecoin story: luck, power, riches, light, speed, and sky."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      19
+    ]
   }
 }
