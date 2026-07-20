@@ -34647,5 +34647,23 @@
       19,
       18
     ]
+  },
+  "sol_1593": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial vault, and twin flames dance with prismatic reflection—seek the jester's grin beneath the scaled guardian's wing, as luck blooms eternal in the mystic garden of chance.",
+      "hint": "Consider what guides destiny, what burns with duality, what laughs at fate, what breathes ancient power, and what represents fortune's eternal cycle."
+    },
+    "easyRiddle": {
+      "text": "A target and rocket soar high, gems sparkle bright, the moon glows at night, lightning strikes with fire, and the joker always plays to win.",
+      "hint": "Think of objects you'd see at a lottery: something you aim for, something that flies, something that shines, something celestial, something wild, and something that gambles."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      5,
+      19
+    ]
   }
 }
