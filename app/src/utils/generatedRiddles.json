@@ -34629,5 +34629,23 @@
       10,
       22
     ]
+  },
+  "sol_1592": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in shadow's game. The winged metamorphosis ascends through prism'd arc, while crystalline brilliance pierces the dark. A jester's grin masks destiny's choice, and nature's four-leafed voice echoes in rejoice. Lightning splits the gem-sworn night, as rocket breaches purple light.",
+      "hint": "Consider duality: transformation and chance, light and shadow, celestial and earthly."
+    },
+    "easyRiddle": {
+      "text": "A colorful journey through sky and fortune: one aims true, one flies fast, one shines bright, one changes form, one brings luck, and one laughs at fate.",
+      "hint": "Think of targets, flight, sparkles, butterflies, clovers, and tricksters."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      7,
+      19,
+      18
+    ]
   }
 }
