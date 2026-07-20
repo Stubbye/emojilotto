@@ -34593,5 +34593,41 @@
       4,
       9
     ]
+  },
+  "sol_1591": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six treasures dance in destiny's game. The jester's grin guards gemstones bright, while thunder splits the dragon's night. A butterfly ascends through crystal light, and luck's three leaves complete the sight.",
+      "hint": "Think of luck, chaos, gems, storms, transformation, and chance all intertwined"
+    },
+    "easyRiddle": {
+      "text": "I am a target and a joker's smile, a gem that sparkles all the while. Lightning cracks, a dragon flies, a butterfly beneath the skies, and clover brings you lucky prize.",
+      "hint": "Count the six things mentioned: aim, laughter, treasure, storm, beast, luck"
+    },
+    "answer": [
+      0,
+      11,
+      2,
+      4,
+      8,
+      19
+    ]
+  },
+  "emlo_633": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, a shimmering gem of fortune that sparkles as it flies. Where luck strikes like lightning and dreams ignite, I'm the joker's path to the moon's bright light.",
+      "hint": "Think of a memecoin's journey: starting volatile, reaching for the sky, and the symbols of luck along the way."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots for the moon, lightning crackles with power, gems shine bright, fire burns hot, sparkles dance, and luck favors the bold joker.",
+      "hint": "Count the six symbols that represent a memecoin's wild ride to success."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      6,
+      10,
+      22
+    ]
   }
 }
