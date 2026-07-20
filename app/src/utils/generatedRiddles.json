@@ -34539,5 +34539,23 @@
       8,
       2
     ]
+  },
+  "sol_1588": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the scaled serpent's zeal, beneath the archer's mark and the prism's gleam, six tokens align in a lottery dream. The butterfly's twin spirals through chaos and chance, while the jester bows to the dragon's advance.",
+      "hint": "One reveals beginnings, one holds deception's art, one stretches beyond, one ignites the heart, one transforms in silence, one reigns supreme in fortune's game."
+    },
+    "easyRiddle": {
+      "text": "Six symbols unite: a mark to strike true, a shape that deceives, a magical hue, a serpent of old, a messenger small, and a burst of bright light to enchant them all.",
+      "hint": "Think of targets, trickery, dragons, butterflies, rainbows, and sparkles."
+    },
+    "answer": [
+      0,
+      8,
+      13,
+      14,
+      9,
+      19
+    ]
   }
 }
