@@ -34467,5 +34467,23 @@
       11,
       19
     ]
+  },
+  "sol_1585": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers convene in twilight's veil. The masked performer juggles fate's bright shards while winged metamorphosis spirals through crystalline dreams. Beneath the jester's grin, the fox's cunning guards the treasure that ignites when fortune's arrow finds its mark.",
+      "hint": "Look for the trickster, the transformer, the seeker of light, the guardian of wit, the jeweled truth, and the aimed destiny."
+    },
+    "easyRiddle": {
+      "text": "A jester plays tricks, a butterfly takes flight, a gem shines bright, a fox is clever, lightning strikes fast, and an arrow hits its mark. Which six bring luck together?",
+      "hint": "Think of performance, nature, wealth, cunning, speed, and precision."
+    },
+    "answer": [
+      19,
+      8,
+      5,
+      13,
+      11,
+      0
+    ]
   }
 }
