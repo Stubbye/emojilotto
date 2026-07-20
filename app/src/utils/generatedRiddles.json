@@ -34575,5 +34575,23 @@
       11,
       12
     ]
+  },
+  "sol_1590": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked jester's laughter echoes through prismatic gates. Six vessels hold the secret: the archer's distant sphere, the serpent's domain of stars, the winged collector of blooms, the shattered light imprisoned in stone, the sky's electric whisper, and the wheel of chance itself. Seek what burns, what soars, and what reflects the soul's deepest desire.",
+      "hint": "One climbs toward the heavens, one devours with hunger, one brings luck from fortune's wheel, one wears many faces, one transforms and ascends, one contains the universe within."
+    },
+    "easyRiddle": {
+      "text": "I have six special symbols: something you aim at, something that flies high, something that sparkles bright, something that brings luck, something that dances in sky, and something with many colors. What are they?",
+      "hint": "Think of: bullseye, space travel, gems, fortune, weather, and light."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      21,
+      4,
+      9
+    ]
   }
 }
