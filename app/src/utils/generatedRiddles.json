@@ -34521,5 +34521,23 @@
       9,
       10
     ]
+  },
+  "sol_1587": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the scaled keeper of dreams. Six visions converge: the archer's distant mark, the winged metamorphosis of chaos, the glittering prize of ascension, and that which illuminates the night's velvet throne. The jester whispers riddles while gems catch starlight's reflection.",
+      "hint": "One points ahead, one transforms, one ascends, one glows above, one deceives, one sparkles with worth"
+    },
+    "easyRiddle": {
+      "text": "I contain: something you aim at, something that glitters and shines, something that soars high at night, something that tricks you with laughter, something that transforms through flight, and something that brings lucky fortune.",
+      "hint": "Think of targets, jewels, the moon, jesters, butterflies, and winning"
+    },
+    "answer": [
+      0,
+      11,
+      3,
+      19,
+      8,
+      2
+    ]
   }
 }
