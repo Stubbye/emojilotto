@@ -34665,5 +34665,23 @@
       5,
       19
     ]
+  },
+  "sol_1594": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, a masked trickster guides through prismatic veils. Six harbingers dance: the archer's goal gleams eternal, swift messengers breach the void, precious fractals catch starlight's whisper, the night's guardian glows in silence, nature's winged metamorphosis spirals through storms, and chaos blooms with each thunderous spin.",
+      "hint": "Seek the convergence of aim, speed, wealth, darkness, transformation, and chance—where entertainment crowns the worthy."
+    },
+    "easyRiddle": {
+      "text": "I contain a target you must hit, a rocket that flies high, a gem that sparkles, the moon above, a butterfly that transforms, and lightning that strikes. What am I?",
+      "hint": "Think of a game where six symbols determine your destiny."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      5
+    ]
   }
 }
