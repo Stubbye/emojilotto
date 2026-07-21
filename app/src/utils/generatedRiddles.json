@@ -34917,5 +34917,23 @@
       4,
       5
     ]
+  },
+  "sol_1605": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, and the gemstone weeps beneath the dancer's desire. The winged soul ascends through electric silk, while destiny's jester spins his cosmic milk. Six harbingers of fate converge in shadow's play—seek the marked, the ascended, the burning, the radiant, the precious, and the masked way.",
+      "hint": "One pierces destinies, one reaches beyond, one burns with passion, one glimmers with might, one holds earthly wealth, and one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance dance together in night: a bullseye that marks, a jewel burning bright, a flame that consumes, a star that ignites, a mask that deceives, and the moon's pale light.",
+      "hint": "Think of a target, a precious stone, fire, a celestial guide, a theatrical deceiver, and Earth's nighttime companion."
+    },
+    "answer": [
+      0,
+      2,
+      6,
+      21,
+      1,
+      19
+    ]
   }
 }
