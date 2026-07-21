@@ -34755,5 +34755,23 @@
       21,
       10
     ]
+  },
+  "sol_1598": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged sentinel guards the threshold between chaos and creation. Seven-pointed light crowns the masked jester's gambit, while serpentine wisdom coils beneath the archer's eternal pursuit. In this symphony of chance, the butterfly of fate pirouettes through crystalline fractals, seeking the gem that sings in prismatic tongues.",
+      "hint": "Look for symbols of destiny, duality, luck, and transformation hidden within the cosmic stage."
+    },
+    "easyRiddle": {
+      "text": "I contain the spark of wishes, the joy of spectacle, the glimmer of fortune, the wisdom of scales, and the magic of flight. One symbol appears twice in this treasury of dreams.",
+      "hint": "Think of carnival excitement, precious rewards, ancient games, and creatures that soar."
+    },
+    "answer": [
+      1,
+      11,
+      20,
+      12,
+      8,
+      13
+    ]
   }
 }
