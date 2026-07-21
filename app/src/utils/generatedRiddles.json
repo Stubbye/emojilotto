@@ -34683,5 +34683,41 @@
       8,
       5
     ]
+  },
+  "sol_1595": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers twirl in fate's expanse. The winged performer spins through night, while crystalline dreams catch stolen light. A jester's grin guards treasure's way, and fortune's bolt illuminates the play.",
+      "hint": "Look for movement, magic, and mischief among the stars"
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that strikes, the butterfly that flies, the joker that grins, the gem that shines, the rocket that soars, and the star that glows.",
+      "hint": "One brings power, one brings grace, one brings laughter, one brings wealth, one brings speed, and one brings hope"
+    },
+    "answer": [
+      5,
+      8,
+      19,
+      2,
+      1,
+      21
+    ]
+  },
+  "emlo_634": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, where gems sparkle like fortune's wheel. A trickster dances with fire, while nature's delicate wings flutter near infinity's glow.",
+      "hint": "Think of a memecoin journey: speed, destination, luck, chaos, beauty, and endless potential"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ moves fast, 💎 means value, 🌙 is the goal, 🔥 shows hype, 🦋 means growth",
+      "hint": "Six symbols of crypto culture: rocket, lightning, gem, moon, fire, butterfly"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
