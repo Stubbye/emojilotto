@@ -34773,5 +34773,23 @@
       8,
       13
     ]
+  },
+  "sol_1599": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six sentinels guard the threshold between chaos and destiny. The archer's mark dances with thunder's twin, while gems whisper in crystalline silence beneath the jester's eternal grin. All converges where wings of transformation meet the painted vault of hope.",
+      "hint": "Think of luck's instruments: precision, power, wealth, laughter, change, and promise."
+    },
+    "easyRiddle": {
+      "text": "I am six: a target for dreamers, lightning's fierce brother, a precious stone, the joker's companion, a butterfly reborn, and the rainbow's end. Together we spin the wheel of chance.",
+      "hint": "One brings aim, one brings shock, one brings wealth, one brings laughter, one brings change, one brings wonder."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      19,
+      8,
+      9
+    ]
   }
 }
