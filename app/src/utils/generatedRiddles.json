@@ -34863,5 +34863,41 @@
       18,
       20
     ]
+  },
+  "sol_1603": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The winged deceiver wears masks of chance, while crystalline dreams ignite beneath the jester's gaze. Melody blooms in the threshold between chaos and destiny, as the ancient wyrm's treasure catches starlight's eternal flame.",
+      "hint": "Look for trickery, music, gems, performance, fortune, and the cosmos intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this verse: a prancer of air, a stone of worth, faces worn in jest, strings that sing, a scaled beast of old, and the spark that falls from above.",
+      "hint": "One flies, one shines, one laughs, one plays, one roars, one strikes."
+    },
+    "answer": [
+      8,
+      5,
+      19,
+      16,
+      13,
+      4
+    ]
+  },
+  "emlo_637": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with blazing speed, a precious gem gleaming in cosmic greed. Lightning strikes fortune as I dance with fire, while fortune's joker spins ever higher. Where butterflies shimmer in purple light, destiny sparkles throughout the night.",
+      "hint": "Think of elements that define a memecoin's journey: propulsion, value, volatility, luck, transformation, and cosmic wonder."
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off, 💎 shines bright, ⚡ strikes with might. 🔥 burns hot, 🦋 transforms free, ✨ completes the spree. What six treasures guide a memecoin's fate?",
+      "hint": "Start with launch, add value, include danger and luck, transformation and magic."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      20
+    ]
   }
 }
