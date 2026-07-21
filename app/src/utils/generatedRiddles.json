@@ -34827,5 +34827,23 @@
       11,
       18
     ]
+  },
+  "sol_1601": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's twin hearts, the trickster's grin eclipses the archer's mark. Through prisms of chaos, the scaled serpent coils 'round madness and chance, while petals of earth surrender to the jester's gleaming jest. Six tokens of fate converge where laughter births lightning and destiny wears a painted face.",
+      "hint": "One celestial, one chaotic, one golden, one crowned in folly, one scaled in legend, one blooming in silence"
+    },
+    "easyRiddle": {
+      "text": "I speak of a night filled with wonder and mischief. A dragon guards treasures, a fool deals the cards, lightning strikes where the target was set, fire burns bright with a flower's last breath. Six things dance together in this game of fools.",
+      "hint": "Find: sky's guardian, card player, circle aim, electric strike, bloom's end, and serpent's treasure"
+    },
+    "answer": [
+      14,
+      19,
+      0,
+      5,
+      15,
+      13
+    ]
   }
 }
