@@ -34899,5 +34899,23 @@
       8,
       20
     ]
+  },
+  "sol_1604": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a gemstone gleams beneath the storm's cold tongue. The winged dancer spirals through prismatic tears while the ancient wyrm guards the singer's silent voice. In this convergence of luck and fire, six symbols entwine—one marks the target, one ascends beyond gravity's reach, one crystallizes desire, one orbits in darkness, one splits the heavens, and one consumes all certainty.",
+      "hint": "Seek the numbered order: aim, ascend, adorn, night-watch, divide, devour"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this verse: the archer's mark seeks perfection, a metal bird races upward, earth's jewel sparkles bright, the sleeping sphere watches over us, nature's fury tears the sky, and hungry orange teeth consume wood. What six are these?",
+      "hint": "Think of precision, ambition, wealth, night, power, and destruction"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      5
+    ]
   }
 }
