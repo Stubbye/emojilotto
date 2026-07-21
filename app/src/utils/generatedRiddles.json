@@ -34719,5 +34719,41 @@
       5,
       8
     ]
+  },
+  "sol_1597": {
+    "hardRiddle": {
+      "text": "Where celestial serpent coils through prismatic arc, and fortune's jester dances betwixt emerald shards—seek the winged metamorphosis caught between thunder's kiss and the night's ancient sentinel, whilst melodies weep through crystalline tears.",
+      "hint": "One creature transforms, one rules the sky, one splits the heavens, one sparkles eternally, one plays, and one guards secrets in the dark."
+    },
+    "easyRiddle": {
+      "text": "A dragon spirals toward a star, a joker laughs with a gem, lightning strikes near a butterfly's wings, and crystals sing—what six dance together in fortune's game?",
+      "hint": "Look for a mythical beast, a trickster, something precious, something bright, something that transforms, and something that sparkles."
+    },
+    "answer": [
+      14,
+      22,
+      4,
+      21,
+      16,
+      20
+    ]
+  },
+  "emlo_635": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gems sparkle as lightning strikes fortune. The joker dances between chaos and chance, while my star shines bright through the electric wave. What six symbols define my memecoin destiny?",
+      "hint": "Think of moon-shot ambitions, explosive gains, and the unpredictable nature of crypto gambling."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies toward the moon with lightning speed. Gems sparkle bright as a joker grins. A star shines above it all. These six things make my memecoin journey complete.",
+      "hint": "Look for symbols of growth, luck, speed, wealth, and celestial dreams."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      21,
+      10
+    ]
   }
 }
