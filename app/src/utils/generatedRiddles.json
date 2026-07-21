@@ -34935,5 +34935,23 @@
       1,
       19
     ]
+  },
+  "sol_1606": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver's thread, six mysteries dance betwixt the infernal bloom and the trickster's painted smile. A gemstone's twin whispers secrets through the veil of night, while wings of metamorphosis flutter past the jester's grin. Which six shall bend the spinner's wheel to cosmic melody?",
+      "hint": "Look between light and shadow—one seeks the heavens, one guards precious truths, one mirrors itself, one grins in deception, one transforms, and one strikes without warning."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key: a hunter's cunning gaze, a stone that gleams eternal, the void's bright guardian, the fool who knows all secrets, a creature of rebirth's grace, and the bolt that never misses.",
+      "hint": "Think of: a clever animal, something precious, the night sky's brightest friend, a card character, wings that change, and electricity's strike."
+    },
+    "answer": [
+      13,
+      2,
+      21,
+      19,
+      8,
+      5
+    ]
   }
 }
