@@ -34845,5 +34845,23 @@
       15,
       13
     ]
+  },
+  "sol_1602": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, a dragon's breath ignites the gemstone's inner gale. The jester's painted face grins at destiny's wheel, while crystalline tears fall where starlight is real. In this cosmic ballet of chance and design, six symbols align where the sacred and profane entwine.",
+      "hint": "Consider what flies upward, what burns with desire, what reflects both chaos and order, and what watches over gamblers' dreams."
+    },
+    "easyRiddle": {
+      "text": "A target guides the way, fire lights the night. A gem shines bright, a dragon takes flight. The joker laughs with painted glee, and crystal sparkles wild and free. What six dance together in fortune's light?",
+      "hint": "Look for: something that aims, something that burns, something precious, something mythical, something playful, and something clear."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      13,
+      18,
+      20
+    ]
   }
 }
