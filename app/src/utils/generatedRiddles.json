@@ -34791,5 +34791,41 @@
       8,
       9
     ]
+  },
+  "sol_1600": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, seven realms collapse into one. The jester's twin dances with the scaled guardian's breath, while the nocturnal watcher grins in shadows. Chaos blooms in ordered chaos, and luck itself wears the mask of the winged thief. Seek the convergence where destiny's arrow pierces through dreams.",
+      "hint": "Look for the symbols of chance, chaos, and celestial guidance bound together by trickster energy and predatory grace."
+    },
+    "easyRiddle": {
+      "text": "A bullseye meets a cosmic flame, a jester laughs with a dragon's name. A fox's cunning hides the way, where dice and moon in riddles play.",
+      "hint": "Think of games of chance, night sky, fire, cleverness, and creatures of wit."
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      13,
+      12,
+      17
+    ]
+  },
+  "emlo_636": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's fire. A jester's luck guides the gemstone's glow, as the trickster dances under fortune's crown.",
+      "hint": "Think of a memecoin's journey: the goal, the speed, the value, the chance, the luck, and the prize."
+    },
+    "easyRiddle": {
+      "text": "🎯 the goal, 🚀 to the 🌙, ⚡ fast gains, 💎 precious, 🎲 risky, 🏆 win big!",
+      "hint": "A memecoin trader's dream in six symbols."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      5,
+      11,
+      18
+    ]
   }
 }
