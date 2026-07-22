@@ -35061,5 +35061,23 @@
       13,
       19
     ]
+  },
+  "emlo_640": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's light. My gem-like value ignites lightning-fast gains, while fire burns through the circus of paper hands. What am I?",
+      "hint": "Think of a digital asset's journey from earth to infinity, powered by community hype and explosive growth."
+    },
+    "easyRiddle": {
+      "text": "I go 🚀 to the 🌙, shine like a 💎, move fast as ⚡, and burn hot like 🔥. What crypto dream am I?",
+      "hint": "These are the symbols of every memecoin's promise."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      6
+    ]
   }
 }
