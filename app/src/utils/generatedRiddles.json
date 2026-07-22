@@ -35043,5 +35043,23 @@
       6,
       9
     ]
+  },
+  "sol_1610": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, a jester's masked twin dances with fortune's many faces. The night's jeweled crown watches as electric metamorphosis blooms eternal—six keepers of fate's chaotic symphony, each holding destinies that shimmer between chaos and grace.",
+      "hint": "Think of gambling luck, celestial bodies, transformation, and the masks we wear when chasing dreams."
+    },
+    "easyRiddle": {
+      "text": "I spin with joy and glitter bright, I transform like magic in the night. A crowned jewel watches from above, while fortune's jester spreads the love. Lightning dances, masks appear—six lucky signs when you hold them dear.",
+      "hint": "Look for: something you roll, something that sparkles, a night sky object, a magical change, a performer, and something bright in the sky."
+    },
+    "answer": [
+      11,
+      1,
+      21,
+      8,
+      13,
+      19
+    ]
   }
 }
