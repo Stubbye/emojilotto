@@ -35007,5 +35007,41 @@
       3,
       10
     ]
+  },
+  "sol_1609": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester pirouettes through prisms of luck. The scaled beast guards the threshold between chaos and triumph, while petals bloom eternal in the space where arrows find their mark. Six secrets nestle in fortune's crown—seek the shimmer where destiny's bolt strikes the gem-laden stage.",
+      "hint": "Look for the performer, the sky-dweller, the jeweled treasure, the crowned celestial, the winged chaos, and the target of fate."
+    },
+    "easyRiddle": {
+      "text": "A jester entertains at a festival, lightning strikes a shining stone, a dragon roars proudly, the moon watches above, a butterfly floats near a flower, and an arrow hits its mark. What six dance together in the lottery of dreams?",
+      "hint": "One is silly, one shines, one is mythical, one is night, one is nature, one is precise."
+    },
+    "answer": [
+      19,
+      1,
+      13,
+      3,
+      8,
+      0
+    ]
+  },
+  "emlo_639": {
+    "hardRiddle": {
+      "text": "From carnival madness to cosmic ascent, I chase the glow where fortunes are spent. Electric thrills meet precious dreams, while the trickster grins in moonlit beams. What six tokens mark this memecoin's reign?",
+      "hint": "Think of the journey: chaos, deception, electricity, wealth, destination, and magic"
+    },
+    "easyRiddle": {
+      "text": "Pick six emojis for the ultimate moon mission: a jester's joke, a lightning strike, a shiny gem, the moon itself, a circus tent, and sparkles that shine bright!",
+      "hint": "One is a person who jokes, one is electricity, one is valuable, one is in the sky, one is fun and games, one twinkles"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      6,
+      9
+    ]
   }
 }
