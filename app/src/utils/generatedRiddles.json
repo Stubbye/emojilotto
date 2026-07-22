@@ -35151,5 +35151,23 @@
       15,
       4
     ]
+  },
+  "sol_1617": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial fire, six tokens dance in shadow's choir. The jester's grin guards treasures bright, while scaled ambition takes its flight. Through crystalline depths and prismatic streams, the wild-hearted seeker chases fevered dreams. What glimmers in chaos, what roars without sound?",
+      "hint": "One brings laughter, one brings might. One is gemstone, one takes flight. One is nature's painted kiss, one commands the abyss."
+    },
+    "easyRiddle": {
+      "text": "Behold six symbols of destiny's game: a dragon fierce, a joker's claim, a crystal pure, a rocket's race, a gem most rare, and fire's embrace.",
+      "hint": "Think of power, chaos, brilliance, speed, wealth, and heat."
+    },
+    "answer": [
+      14,
+      1,
+      20,
+      2,
+      11,
+      5
+    ]
   }
 }
