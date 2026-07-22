@@ -34989,5 +34989,23 @@
       2,
       13
     ]
+  },
+  "sol_1608": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls through prismatic tears. The jester's grin reflects in crystalline depths, while thunder's child ignites the stage where luck performs its ancient waltz beneath the watchful eye of cosmic fire.",
+      "hint": "Six symbols hide where chaos meets destiny: one strikes, one shines, one laughs, one burns, one floats, one glimmers."
+    },
+    "easyRiddle": {
+      "text": "I seek the mark that's always aimed, the stone that glows with inner flame, the fool who knows the secret jest, the ice that holds the light's great test, the night's bright queen that rules above, and sparks that dance like wings of love.",
+      "hint": "Think of: something you shoot at, something precious, something silly, something hard and bright, something in the sky, and something that twinkles."
+    },
+    "answer": [
+      0,
+      1,
+      20,
+      6,
+      3,
+      10
+    ]
   }
 }
