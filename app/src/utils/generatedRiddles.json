@@ -35079,5 +35079,23 @@
       5,
       6
     ]
+  },
+  "sol_1613": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, six sentinels guard fortune's seams. The archer's mark yields to wings of night, while gems of chaos dance in lightning's light. A jester's grin and fortune's bloom conspire beneath the crescent's room.",
+      "hint": "Seek the target, dragon, gem, moon, joker, and clover in the cosmic theater"
+    },
+    "easyRiddle": {
+      "text": "One aims true, one flies with fire, one sparkles bright, one rules the night, one laughs in jest, one brings good rest.",
+      "hint": "Target, dragon, gem, moon, joker, clover"
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      3,
+      19,
+      20
+    ]
   }
 }
