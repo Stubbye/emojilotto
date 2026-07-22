@@ -35097,5 +35097,41 @@
       19,
       20
     ]
+  },
+  "sol_1614": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers of fate converge: the archer's eternal mark meets the vessel of dreams ascending, while gemstone truth reflects the jester's paradox—masked revelry binds the swift-minded trickster and the winged metamorphosis, all blessed by the six-pointed sovereign of night's treasury.",
+      "hint": "One guides aim, one carries wishes upward, one holds value absolute, one wears many faces, one thinks cunning thoughts, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide here: something you aim at, something that flies to space, something precious and hard, something that wears a mask and jokes, something clever with fur, and something that changes from crawling to flying.",
+      "hint": "Target, rocket, gem, joker, fox, butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      12,
+      13,
+      8
+    ]
+  },
+  "emlo_641": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins with electric dreams, where scaled beasts guard gems that sparkle with celestial gleams. One points the way to riches, one climbs where few have been, one holds the treasure's promise in crystalline sheen.",
+      "hint": "Think of gambling, space, and wealth combined with mythical guardians"
+    },
+    "easyRiddle": {
+      "text": "I'm spinning for luck with a jester's grin, a dragon hoards treasure to help you win. Rocket goes up, lightning strikes fast, gems shine bright and the crystal will last.",
+      "hint": "Count the objects: fool, beast, vehicle, element, jewel, and ice"
+    },
+    "answer": [
+      12,
+      14,
+      1,
+      5,
+      2,
+      20
+    ]
   }
 }
