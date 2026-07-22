@@ -35133,5 +35133,23 @@
       2,
       20
     ]
+  },
+  "sol_1615": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial grace, and the trickster's grin meets destiny's embrace. Three crowns of fortune spin in cosmic light—one gleams eternal, one strikes with might, one blooms where chaos and order ignite. The jester's laughter echoes through the night.",
+      "hint": "Seek the court cards, the heavens, and the duality of creation and destruction"
+    },
+    "easyRiddle": {
+      "text": "I contain a jester's smile, a star that shines, lightning that strikes, a gem that sparkles, a flower that grows, and the moon that guides. Six symbols of chance and wonder—can you name them all?",
+      "hint": "One is a card, one is in the sky, one is electricity, one is precious, one is natural, one is night"
+    },
+    "answer": [
+      19,
+      22,
+      5,
+      2,
+      15,
+      4
+    ]
   }
 }
