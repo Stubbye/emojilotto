@@ -35169,5 +35169,23 @@
       11,
       5
     ]
+  },
+  "sol_1618": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, seven-faced trickster grins beneath the lunar glow. The archer's mark gleams like frozen starlight, while nature's winged metamorphosis spirals through crackling chaos. In this symphony of chance, the jester's gambit meets the dragon's ancient wisdom.",
+      "hint": "Count the performers: one aims, one laughs, one glows, one transforms, one burns, one roars."
+    },
+    "easyRiddle": {
+      "text": "I contain a celestial night guardian, a performer with many faces, a precious shining stone, a winged creature's transformation, electricity's fury, and a fire-breathing legend. What am I?",
+      "hint": "Look for: moon, joker, gem, butterfly, lightning, and dragon"
+    },
+    "answer": [
+      3,
+      19,
+      2,
+      8,
+      5,
+      14
+    ]
   }
 }
