@@ -35457,5 +35457,23 @@
       5,
       8
     ]
+  },
+  "sol_1631": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a jester's twin masks dance betwixt the storm. The winged enchantress pirouettes through crystalline prisms, while seven-pointed radiance crowns the gemstone throne. In this theatre of chance, the trickster fox grins beneath lightning's violent kiss, and destinies splinter like faceted light through probability's darkened glass.",
+      "hint": "One marks the aim, one ignites ambition, one deceives with laughter, one conducts the symphony of fate, one transforms through metamorphosis, one shatters into infinite possibility."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune hide in plain sight: the mark you aim for, the blast to the heavens, the keeper of secrets who wears two faces, the fury that consumes, the soul that transcends, and the luminous stone of power.",
+      "hint": "Target, Rocket, Joker, Fire, Butterfly, Gem"
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      6,
+      8,
+      2
+    ]
   }
 }
