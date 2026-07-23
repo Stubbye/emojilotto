@@ -35367,5 +35367,23 @@
       8,
       10
     ]
+  },
+  "sol_1627": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer, and the serpent's breath ignites the jeweled path—seek the trembling wings that waltz through prismatic veils, whilst the jester's grin echoes in the gleaming zenith's embrace.",
+      "hint": "One strikes from above, one spirals eternally, one glimmers with ancient power, one transforms through metamorphosis, one refracts all light, one wears the mask of chaos."
+    },
+    "easyRiddle": {
+      "text": "Find the symbol of luck that points straight, the heavenly body that glows at night, the precious stone that sparkles, the creature with colorful wings, the arc of many colors, and the mischievous card player's face.",
+      "hint": "Think of: aim, sky, wealth, transformation, light, and trickery."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      9,
+      19
+    ]
   }
 }
