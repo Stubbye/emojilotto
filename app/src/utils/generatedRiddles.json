@@ -35349,5 +35349,23 @@
       19,
       9
     ]
+  },
+  "sol_1626": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gilded mark, and the swift messenger carries dreams through cosmic dark. A jeweled prism catches what mortals cannot see, while nature's winged metamorphosis holds the key. Lightning's twin sibling glimmers in twilight's embrace, and chance itself wears the mask of this sacred space.",
+      "hint": "One guides arrows, one climbs heavens, one refracts light, one transforms, one strikes twice, one decides fate"
+    },
+    "easyRiddle": {
+      "text": "I hold the target's aim, reach for the moon so high, carry gems of brilliance, with lightning that won't die. A butterfly transforms within, and sparkles light the way - six treasures dance together in the lottery's grand play.",
+      "hint": "Count the magical symbols: aim, sky, treasure, power, change, and shine"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      10
+    ]
   }
 }
