@@ -35187,5 +35187,23 @@
       5,
       14
     ]
+  },
+  "sol_1619": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through crystalline night, six sovereigns dance in ethereal flight. The archer's mark meets heaven's pale queen, while thunder's kiss ignites the unseen. A jeweled prism catches fate's refrain, as masked performers waltz through fortune's domain.",
+      "hint": "Consider celestial bodies, natural forces, and the tools of destiny itself."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the moon so bright, add lightning's flash and gem's pure light. Then sparkles dance with crystal's gleam—six treasures form the lottery dream.",
+      "hint": "One guides direction, one lights the night, one strikes with power, three shine with light."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      11,
+      20,
+      21
+    ]
   }
 }
