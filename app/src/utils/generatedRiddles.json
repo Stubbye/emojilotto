@@ -35439,5 +35439,23 @@
       4,
       19
     ]
+  },
+  "sol_1630": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's gaze, six whispers converge in destiny's maze. The archer's mark meets the messenger's flight, while earthly jewels catch the nocturnal light. Thunder's kiss adorns the dreamer's crown, as nature's painted wings descend to ground",
+      "hint": "Think of targets, ascension, precious things, night, electricity, and metamorphosis"
+    },
+    "easyRiddle": {
+      "text": "Six symbols align: a bullseye gleams, a ship soars high, a gem sparkles, the moon glows pale, lightning crackles, and a butterfly floats",
+      "hint": "Look for aim, sky travel, treasure, night sky, energy, and transformation"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8
+    ]
   }
 }
