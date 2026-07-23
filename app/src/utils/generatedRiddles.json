@@ -35205,5 +35205,41 @@
       20,
       21
     ]
+  },
+  "sol_1620": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets fortune's ascent, through crystalline depths the jester's descent. Thunder's twin dances with infernal breath, while wings of metamorphosis embrace the death of chaos. Six souls converge where luck and fate's palette are drawn—identify the symbols before dawn's gaunt.",
+      "hint": "One pierces skies, one ignites, one reflects light, one transforms, one judges, one amuses."
+    },
+    "easyRiddle": {
+      "text": "A target and a rocket race skyward. A crystal and lightning spark together. A butterfly and a joker play tricks. Which six shape the lottery's victory?",
+      "hint": "Think of: precision, ambition, clarity, change, chance, and mischief."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      8,
+      11,
+      19
+    ]
+  },
+  "emlo_643": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, seeking the glowing treasure that makes hodlers greed. When fortune strikes like a bolt from above, I sparkle with magic, the memecoin we love. A jester's gamble under rainbow's arch, where fire meets luck in this crypto march.",
+      "hint": "Think of velocity, fortune, electricity, brilliance, chance, and spectrum colors"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is precious, ⚡ is fast, ✨ is shiny, 🎰 is luck, 🌈 is colorful. What six things make a memecoin dream?",
+      "hint": "Moon missions need speed, precious stones, luck, sparkle, lightning rewards, and hope"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      10,
+      11,
+      9
+    ]
   }
 }
