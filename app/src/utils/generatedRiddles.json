@@ -35421,5 +35421,23 @@
       7,
       11
     ]
+  },
+  "sol_1629": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, and fortune's heart gleams in celestial frame. The jester's twin souls dance through electric veils, as nature's winged messenger through stardust sails. In purple depths where brilliance takes its throne, the musician's strings make destiny known.",
+      "hint": "One guides the way, one lights the night, one tricks the mind, one sparkles bright, one flies between worlds, one plays the song."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's flight, the gem that shines, the moon's pale light, the lightning's strike, and the joker's jest.",
+      "hint": "Six symbols of luck: one you aim at, one that soars, one that glitters, one that glows at night, one that flashes, one that laughs."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
