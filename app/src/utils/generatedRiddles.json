@@ -35295,5 +35295,23 @@
       13,
       19
     ]
+  },
+  "sol_1623": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six sentinels of fate conspire. The jester's grin beneath the gem's refrain, while thunder's kiss dances with lunar domain. A thousand petals bloom in spectral arc, as crystalline whispers ignite the dark.",
+      "hint": "Look for the symbols of chance, light, and theatrical wonder. One brings laughter, one brings fortune's aim."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this rhyme: a target for aiming, a star that will shine, a joker who grins, a gem that will gleam, lightning that strikes, and the moon's silver dream.",
+      "hint": "One points, one laughs, one sparkles above, one zaps, one glows, and one we all love."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      1,
+      5,
+      3
+    ]
   }
 }
