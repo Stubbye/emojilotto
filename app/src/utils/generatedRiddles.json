@@ -35385,5 +35385,41 @@
       9,
       19
     ]
+  },
+  "sol_1628": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six dancers waltz between the veils of desire. The jester's laugh echoes through prism-split light, as winged metamorphosis spirals toward night. Luck's crimson bloom beckons the bold and the free, while thunder crowns destiny's symphony.",
+      "hint": "One points the way, one burns above, one reflects all hues, one transforms, one blooms eternal, one strikes with fate's hand."
+    },
+    "easyRiddle": {
+      "text": "I am the mark you aim for, the fuel that launches dreams, the stone that catches starlight, the guardian of night, the spark of sudden change, and the love that never fades.",
+      "hint": "Think of goal, journey, wealth, sky, power, and beauty in nature."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      14
+    ]
+  },
+  "emlo_646": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with explosive power, seeking precious treasures that sparkle with electric energy. A mystical creature guards the path where fortune strikes like bolts from above, and chaos dances in circles of chance.",
+      "hint": "Think of meme coin aspirations: going up, getting rich, randomness, and legendary vibes"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ strikes the 💎, 🎪 spins the 🎰",
+      "hint": "A launch sequence with three pairs: destination, treasure, and chance"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      4,
+      7,
+      11
+    ]
   }
 }
