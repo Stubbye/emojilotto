@@ -35241,5 +35241,23 @@
       11,
       9
     ]
+  },
+  "sol_1621": {
+    "hardRiddle": {
+      "text": "Where celestial fortune meets earthbound flame, six keepers dance in twilight's game. The archer's mark reflects the void above, while serpent's breath and luminous love intertwine with nature's jest—a jester's crown amidst the blessed. Seek the winged messenger of spring, the radiant burst that makes souls sing, and fortune's glimmer caught in stone. Six threads weave what fate has sown.",
+      "hint": "Consider the duality of chaos and order, the mythical guardian of treasures, and the symbol of transformation itself."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's heart: a target's aim, a dragon's art, fire's blaze and gem so bright, a butterfly in starlit night, and fortune's sparkle burning white.",
+      "hint": "Think of luck, magic, fire, precious things, and winged creatures."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      6,
+      8,
+      20
+    ]
   }
 }
