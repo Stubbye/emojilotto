@@ -35313,5 +35313,41 @@
       5,
       3
     ]
+  },
+  "sol_1625": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a gemstone dreams beneath the dancer's twin masks. Lightning weaves through the jester's crimson domain, while the scaled leviathan guards what sparkles beyond reason's reach.",
+      "hint": "Think of games, performers, and what shines in darkness. Six symbols hide where chaos and magic intertwine."
+    },
+    "easyRiddle": {
+      "text": "A target awaits the lucky shot. A gem gleams with value. The joker laughs at destiny. A dragon coils around fortune. Sparkles dance with hope. The trophy crowns the victor.",
+      "hint": "Symbols of winning, playing, and magical luck."
+    },
+    "answer": [
+      0,
+      2,
+      12,
+      13,
+      10,
+      17
+    ]
+  },
+  "emlo_645": {
+    "hardRiddle": {
+      "text": "I chase the digital dream with explosive speed, sparkling with fortune's fire. A jester's luck meets celestial heights, where lightning strikes the gem of destiny. To the moon we ride with butterfly grace, as the rocket ignites our rainbow path.",
+      "hint": "Think of a memecoin's journey: the vehicle, the destination, the luck factor, the treasure, the transformation, and the visual spectacle."
+    },
+    "easyRiddle": {
+      "text": "A funny character laughs, a fast ship flies, a precious stone shines, we reach a celestial place, electricity crackles, and colors paint the sky.",
+      "hint": "Count the six key elements: who, how we travel, what we seek, where we go, the energy, and what we see."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      19,
+      9
+    ]
   }
 }
