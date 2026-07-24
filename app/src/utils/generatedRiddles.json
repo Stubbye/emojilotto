@@ -35565,5 +35565,23 @@
       8,
       21
     ]
+  },
+  "sol_1636": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six spirits dance in shadow's tale. The trickster's grin meets brilliance's flame, while scaled serpent guards the gleaming frame. Winged metamorphosis through prism's arc, and fortune's bones cast in fortune's dark.",
+      "hint": "Consider what each element represents in games of chance and transformation"
+    },
+    "easyRiddle": {
+      "text": "I strike with aim, I soar through night, I sparkle bright with precious light. A jester laughs, a dragon dreams, while butterfly and dice convene. Find these six within the stars.",
+      "hint": "One guides aim, one flies high, one glimmers, one deceives, one transforms, one randomizes"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      13,
+      8,
+      11
+    ]
   }
 }
