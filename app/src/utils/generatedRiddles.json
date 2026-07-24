@@ -35547,5 +35547,23 @@
       8,
       13
     ]
+  },
+  "sol_1635": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between worlds. The archer's mark meets the serpent's wisdom, while radiance blooms through crystalline geometry and nature's metamorphosis. What constellation of fate reveals the lottery's secret?",
+      "hint": "Consider: targets and aims, ancient wisdom, precious clarity, natural transformation, sudden strikes, and radiant light."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and power: the hunter's aim, the sky's fury, the jewel's shine, the dragon's grace, the butterfly's dance, and the star's glow.",
+      "hint": "Think of: archery, weather, wealth, mythology, insects, and astronomy."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      14,
+      8,
+      21
+    ]
   }
 }
