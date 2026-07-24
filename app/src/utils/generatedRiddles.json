@@ -35637,5 +35637,23 @@
       5,
       9
     ]
+  },
+  "sol_1642": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's painted breath, six keepers of fate converge at destiny's threshold. The archer's mark gleams with crystalline truth, while thunder's twin ignites the spiral of chance. Metamorphosis blooms between twin realms of luck and cosmos, where masked performers juggle the very essence of transformation itself.",
+      "hint": "One guides aim, one births light, one glimmers wealth, one crackles power, one spins randomness, one masters deception"
+    },
+    "easyRiddle": {
+      "text": "Six symbols spin in fortune's wheel: one targets success, one races upward, one sparkles bright, one rules the night, one roars with power, and one reveals hidden truths through disguise.",
+      "hint": "Think of luck, speed, gems, sky, dragons, and masks"
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      3,
+      13,
+      18
+    ]
   }
 }
