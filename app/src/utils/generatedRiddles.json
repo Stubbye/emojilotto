@@ -35511,5 +35511,41 @@
       4,
       19
     ]
+  },
+  "sol_1634": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic tears, six sentinels convene: the archer's eternal mark meets swift ascension's flame, while gemstone's fractured soul dances with nocturnal guardian. Jester's mask adorns the threshold where electric serpent coils beneath shimmering dust, and fortune's bones await the shimmer-crowned victor.",
+      "hint": "Seek the convergence of aim, speed, value, night, chaos, and radiance—where luck's theater unfolds in cryptic symmetry."
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols hide within: one marks your aim, one speeds through space, one glimmers bright and clear, one rules the night sky high, one sparks with sudden rage, one tumbles wild with chance.",
+      "hint": "Think of target, rocket, gem, moon, lightning, and dice working together."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_648": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 gem that makes hodlers greed. Fortune's 🎯 through 🎪 chaos we dance, where 🦊 tricks guard our memecoin chance.",
+      "hint": "Think of a wild journey to wealth with mischievous energy and unpredictable fortune."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the 🌙, diamond so bright, fortune and fire in the night. A fox's trick, a circus game, what emojis fuel this memecoin fame?",
+      "hint": "Look for symbols of fortune, speed, wealth, and mischief in a crypto adventure."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      8,
+      13
+    ]
   }
 }
