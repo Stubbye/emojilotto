@@ -35583,5 +35583,41 @@
       8,
       11
     ]
+  },
+  "sol_1637": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians convene. The archer's mark meets the serpent's ancient dream, while the night's silver witness bleeds crystalline tears. A jester's grin reflects in the stage of wonders, and nature's delicate metamorphosis spirals through the prism of light eternal.",
+      "hint": "One marks the target, one coils with wisdom, one reigns in darkness, one breaks into laughter, one transforms in flight, one fragments into brilliance."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: the mark you aim for, the creature that flies and dreams, the stone that shines in night's glow, the fool who laughs, the delicate insect reborn, and the fragments of frozen starlight.",
+      "hint": "Think of a bullseye, a magical beast, the moon, a joker, a butterfly, and sparkles."
+    },
+    "answer": [
+      0,
+      13,
+      3,
+      19,
+      8,
+      10
+    ]
+  },
+  "emlo_649": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises swift and bright, through crystalline paths to lunar height. The fox's cunning meets dragon's flame, as sparkles dance in fortune's game.",
+      "hint": "Think of a memecoin's journey: chaos, gems, speed, destination, magic, and mythical power."
+    },
+    "easyRiddle": {
+      "text": "I am fast like lightning and shine like gems, reaching for the moon with dragon strength, guided by a joker's lucky hand and sparkling fortune.",
+      "hint": "What makes a memecoin successful? Speed, value, luck, destination, mystique, and magic."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      13,
+      10
+    ]
   }
 }
