@@ -35475,5 +35475,23 @@
       8,
       2
     ]
+  },
+  "sol_1632": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers spin in cosmic trance. The winged phantom courts the luminous orb while chaos strikes with prismatic force. Wealth crystallized in heaven's vault, and masked revelry crowns the victor's vault.",
+      "hint": "Consider what flies, what burns bright, what shines, what hides faces, what strikes, and what represents ultimate reward."
+    },
+    "easyRiddle": {
+      "text": "A butterfly chases the moon through lightning's flash. A gem shines bright while the trophy holds it fast. Six symbols of luck and magic combine.",
+      "hint": "Find the creature of grace, the night's bright face, the storm's quick strike, the precious stone, the victory crown, and one more magical sign."
+    },
+    "answer": [
+      8,
+      3,
+      4,
+      11,
+      17,
+      19
+    ]
   }
 }
