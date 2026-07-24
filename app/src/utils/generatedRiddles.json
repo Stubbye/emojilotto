@@ -35619,5 +35619,23 @@
       13,
       10
     ]
+  },
+  "emlo_650": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone that sparkles when traders take heed. Through lightning and fire, my magic won't cease, bringing rainbow luck and trophy-like peace.",
+      "hint": "Think of a journey to the stars powered by fortune and energy"
+    },
+    "easyRiddle": {
+      "text": "Count the symbols of wealth and luck: a precious gem, a shining star, a lucky charm, a flash of power, flames of gain, and a path of colors. How many do you see?",
+      "hint": "Look for: treasure, light, fortune, electricity, heat, and spectrum"
+    },
+    "answer": [
+      2,
+      22,
+      20,
+      4,
+      5,
+      9
+    ]
   }
 }
