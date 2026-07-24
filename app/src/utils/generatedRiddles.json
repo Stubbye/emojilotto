@@ -35493,5 +35493,23 @@
       17,
       19
     ]
+  },
+  "sol_1633": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver, six secrets dwell in twilight's tapestry. The winged metamorphosis dances with radiance, while the crowned serpent guards the glittering depths beneath a jester's gaze. Thunder's kiss and the primal inferno compose a symphony of chaos, yet balance persists in the spectrum's eternal arc.",
+      "hint": "One aims, one ascends, one transforms, one reigns, one strikes with fury, one burns with desire."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hidden in plain sight: the archer's mark, the sky's torch, the winged dancer, the rainbow's bridge, the spark that blinds, and the jester who knows all.",
+      "hint": "Think of accuracy, flight, nature's change, light's spectrum, electricity, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      9,
+      4,
+      19
+    ]
   }
 }
