@@ -35691,5 +35691,23 @@
       7,
       18
     ]
+  },
+  "emlo_652": {
+    "hardRiddle": {
+      "text": "A jester's gamble shoots for fortune's peak, where sparkling gems catch fire's mystique. Lightning strikes the lunar prize as butterfly wings paint rainbow skies. What six symbols align when memes take flight?",
+      "hint": "Think of a memecoin journey: the player, the direction, the goal, the luck factor, the treasure, and the cosmic destination."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up to the moon so high, gems sparkle bright like stars in the sky. Lightning strikes fast, fire burns hot, and a butterfly dances - what's in the pot?",
+      "hint": "A journey to wealth: movement, destination, beauty, speed, heat, and transformation."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      21
+    ]
   }
 }
