@@ -35817,5 +35817,41 @@
       12,
       9
     ]
+  },
+  "sol_1651": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a prism bleeds through cosmic space. The serpent coils where thunder cracks, while winged grace dances through spectral tracks. Twin flames pirouette in silence deep, where gemstones weep what secrets keep.",
+      "hint": "Seek the intersection of precision and chaos, where mythical serpents dwell beneath celestial fire."
+    },
+    "easyRiddle": {
+      "text": "A shimmering bow spans the sky, a jewel that catches every eye, a flying wyrm of ancient lore, lightning splits the heavens' door, and two dancers light the night—what six do the fates ignite?",
+      "hint": "One is a dragon, one is a gem, one brings thunder, and the rest dance together in different ways."
+    },
+    "answer": [
+      9,
+      22,
+      13,
+      4,
+      6,
+      7
+    ]
+  },
+  "emlo_654": {
+    "hardRiddle": {
+      "text": "I launch with electric speed to chase celestial fortune, my gems sparkle with fire as I dance toward destiny, wearing masks of chance with a joker's grin, guided by fortune's clover through waves of opportunity",
+      "hint": "Think of a memecoin's journey to the moon with lucky symbols and chaotic energy"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms up, lightning strikes fast, gems glow bright, the moon calls out, fire burns hot, and a clover brings luck - what 6 symbols fuel a memecoin's dreams?",
+      "hint": "One goes up, one is electric, one sparkles, one is in the sky, one is hot, and one is lucky"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
