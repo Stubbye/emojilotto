@@ -35871,5 +35871,23 @@
       19,
       4
     ]
+  },
+  "sol_1653": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and masked performers pirouette beneath the gleaming crown. Six symbols hide in shadow: one seeks the bull's heart, one pierces the veil between worlds, one births from the earth's deepest tear, one rules the night's dominion, one crackles with the fury of gods, and one marks the jester's eternal jest.",
+      "hint": "Think of chance, celestial bodies, precious things, chaos, performance, and trickery intertwined."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures of fate: What you aim for, what shines precious, what rules the night sky, what strikes with power, where clowns perform their art, and who laughs at all games.",
+      "hint": "One is a goal, one is valuable, one is celestial, one is energetic, one is entertaining, one is mischievous."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      7,
+      19
+    ]
   }
 }
