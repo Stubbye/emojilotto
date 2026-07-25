@@ -35673,5 +35673,23 @@
       4,
       10
     ]
+  },
+  "sol_1644": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial throne, a gemstone births from chaos's own crown. The winged dancer twirls through luminescent rain, while serpent's ancient wisdom guards the domain. Thunder splits the veil of painted possibility, and the jester's mask reveals duality's divinity.",
+      "hint": "Count the players in destiny's grand theater: seeker, seeker, treasure, royalty, transformation, and revelation."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the gem that gleams, the moon's bright face, the lightning's grace, the butterfly's dance, and the joker's game.",
+      "hint": "Six symbols: bull's eye, precious stone, night sky, electric bolt, winged creature, and trickster's card."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      7,
+      18
+    ]
   }
 }
