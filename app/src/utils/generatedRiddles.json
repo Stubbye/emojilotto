@@ -35853,5 +35853,23 @@
       4,
       19
     ]
+  },
+  "sol_1652": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthly desire, six secrets converge: the archer's eternal mark meets the phoenix's ascending flame, while gems crystallize ambition beneath Luna's watchful gaze. A jester's grin guards the threshold between chaos and destiny, as lightning scripts fate's hidden geometry across the void.",
+      "hint": "Think of targets, fire, gems, the moon, joker, and lightning as the architects of destiny"
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the heat, the treasure, the night keeper, the laugh, and the strike. Six elements of chance and fortune whisper my name.",
+      "hint": "Aim for fire, jewels under stars, with laughter and electricity"
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      19,
+      4
+    ]
   }
 }
