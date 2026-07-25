@@ -35745,5 +35745,41 @@
       8,
       10
     ]
+  },
+  "sol_1648": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six sentinels guard the threshold. The gemstone weeps beneath lunar custody while lightning tongues taste the crystalline throne. A masked jester pirouettes through rainbow's fractured dream, and at the spiral's heart, a dragon clasps the trembling star.",
+      "hint": "Six chosen from the wheel of chance: one shoots, one burns, one gleams, one watches from above, one shatters light, one rules with scales and ancient song."
+    },
+    "easyRiddle": {
+      "text": "Find the treasure: aim at it with precision, fuel your dreams with speed, discover precious earth's gift, gaze upon night's guardian, capture nature's electric kiss, and witness the wise serpent that guards all magic.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Dragon - these six hold the key to EmojiLotto's eternal prize."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
+  },
+  "emlo_653": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial dreams, where electric gains ignite like flames. Six symbols reveal the memecoin's fortune: the target of wealth, the rocket to orbit, the gem of rarity, the moon of destiny, lightning speed profits, and fire burning bright. Which treasures complete this lottery's call?",
+      "hint": "Think of a successful memecoin journey: aim, launch, value, lunar landing, fast gains, and explosive growth."
+    },
+    "easyRiddle": {
+      "text": "Hodlers see: 🎯 the goal, 🚀 flying high, 💎 precious finds, 🌙 way up there, ⚡ quick moves, and 🔥 hot action. What are these six lucky symbols in EmojiLotto?",
+      "hint": "One shows your target, one goes to space, one is shiny, one is night sky, one is fast, one is heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
