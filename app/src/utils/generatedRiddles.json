@@ -35655,5 +35655,23 @@
       13,
       18
     ]
+  },
+  "emlo_651": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with ignited passion, while gemstones sparkle in my path. Lady luck rolls the dice as I strike with electric speed, leaving a trail of magical radiance. What am I?",
+      "hint": "Think of a memecoin's journey to success: destination, fuel, value, luck, power, and dazzle."
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with fire and lightning! Gems shine bright with sparkling magic. Which six symbols represent this crypto dream?",
+      "hint": "Combine: where we go, how we get there, what we find, speed, luck, and shine."
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      5,
+      4,
+      10
+    ]
   }
 }
