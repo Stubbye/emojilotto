@@ -35709,5 +35709,23 @@
       5,
       21
     ]
+  },
+  "sol_1646": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin serpents, and the jester's masked reverie meets the hunter's cunning gaze beneath a crown of crystalline brilliance—six whispers of fate converge. One scorches the void, one dwells in shadow's smile, one glimmers with ancient earth-song, one laughs in theatrical silence, one prowls with amber intelligence, and one reigns eternal above all mortal schemes.",
+      "hint": "Seek the ascendant flame, the trickster's domain, the gemstone's eternal gleam, the masked performer, the nocturnal strategist, and the sovereign of night."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this celestial carnival: one burns bright in darkness, one sparkles like laughter, one hides behind false faces, one hunts with clever eyes, one glows beyond the clouds, and one cuts through stone.",
+      "hint": "Lightning, Joker, Masks, Fox, Moon, and Gem are waiting for you."
+    },
+    "answer": [
+      5,
+      19,
+      12,
+      7,
+      21,
+      3
+    ]
   }
 }
