@@ -35961,5 +35961,23 @@
       8,
       21
     ]
+  },
+  "sol_1657": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate converge in cryptic light. The winged dancer spirals through the prism's arc, while thunder's kiss ignites the dragon's spark. Upon the lunar throne, a jester's grin reveals the glittering shard where destiny spins. What celestial confluence holds the key to luck's eternal symphony?",
+      "hint": "Seek the cosmic performers: one hunts targets, one ascends heavens, one births radiance, one rules darkness, one crackles with power, and one wears folly's crown."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols dance together: aim true with precision, soar beyond the stars, sparkle with inner brilliance, embrace the night's mystery, channel nature's fury, and let laughter guide the way.",
+      "hint": "Think of: target, rocket, sparkles, moon, lightning, and joker."
+    },
+    "answer": [
+      0,
+      1,
+      10,
+      3,
+      4,
+      19
+    ]
   }
 }
