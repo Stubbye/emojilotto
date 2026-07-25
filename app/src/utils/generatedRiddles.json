@@ -35727,5 +35727,23 @@
       21,
       3
     ]
+  },
+  "sol_1647": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a crystalline heart bleeds violet fire across the tapestry of chance. The trickster's grin reflects in fortune's crown, while nature's winged messenger dances through the storm's electric breath.",
+      "hint": "Consider the instruments of fate, the symbols of victory, and the liminal spaces between chaos and grace."
+    },
+    "easyRiddle": {
+      "text": "Six signs of luck: one that aims at destiny, one that pierces the heavens, a precious stone that glitters, a royal jest-maker's smile, wings of transformation, and the shower of fortune's blessing.",
+      "hint": "Think of targets, rockets, gems, jokers, butterflies, and sparkles."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      8,
+      10
+    ]
   }
 }
