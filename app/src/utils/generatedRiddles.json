@@ -35799,5 +35799,23 @@
       19,
       5
     ]
+  },
+  "sol_1650": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet void, a celestial dancer ignites the cosmos. The precious shard catches crystalline fire, while masked revelry spirals through prismatic waves. In this theatre of chance, the trickster's grin holds all secrets.",
+      "hint": "Seek the target of destiny, lunar mysteries, gemstone brilliance, theatrical masks, the joker's wisdom, and the arch of dreams."
+    },
+    "easyRiddle": {
+      "text": "An arrow points at the night sky's pearl. A shining stone burns bright. Two faces play their game, while colors paint the air.",
+      "hint": "Think of games, celestial objects, precious things, theater, trickery, and beauty."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      18,
+      12,
+      9
+    ]
   }
 }
