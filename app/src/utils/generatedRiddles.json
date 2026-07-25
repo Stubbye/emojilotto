@@ -35925,5 +35925,23 @@
       18,
       3
     ]
+  },
+  "sol_1655": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin gleams, a jester's grin echoes through prismatic dreams. Six vessels of fate converge: the archer's eternal mark, the serpent's ancient flame, the lunar sentinel's stark, the tempest's fractured arc, and twin treasures that spark—one crowned in glory's embrace, one blooming in shadow's park.",
+      "hint": "Consider what glimmers, what burns, what rules, what reigns, and what fortune demands. The answer lies where chance meets destiny's chains."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and wonder: a target's perfect aim, a dragon's mystic claim, the moon's silver name, lightning's bright flame, a trophy for your fame, and a flower's sweet game.",
+      "hint": "Think of winning, power, night sky, electricity, victory, and nature's beauty."
+    },
+    "answer": [
+      0,
+      13,
+      3,
+      4,
+      17,
+      14
+    ]
   }
 }
