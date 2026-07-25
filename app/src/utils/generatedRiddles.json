@@ -35781,5 +35781,23 @@
       4,
       5
     ]
+  },
+  "sol_1649": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six mysteries dance in twilight's attire. The jester's grin beneath the crescent's glow, a crystalline heart in the lightning's flow. Twin wings of transformation pierce the veil, while fortune's sphere completes this cryptic tale.",
+      "hint": "Seek the archer's mark, the trickster's crown, the night's pale queen, the storm's fierce frown, metamorphosis incarnate, and destiny's sphere."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hold the key: the archer's aim, the moon's decree, the joker's jest, a crystal bright, a butterfly's flight, and lightning's might. What six reveal the lottery's sight?",
+      "hint": "Think of targets, celestial bodies, jesters, gems, insects, and weather."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      19,
+      5
+    ]
   }
 }
