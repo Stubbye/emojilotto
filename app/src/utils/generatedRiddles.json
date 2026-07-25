@@ -35889,5 +35889,41 @@
       7,
       19
     ]
+  },
+  "sol_1654": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and the serpent's ancient wisdom coils through prismatic fractals, the jester's masked laughter echoes across the luminous divide. Six tokens dance—one seeks the heart of all things, one defies gravity's whisper, one bleeds like frozen starlight, one grins in shadowed costume, one breathes the color of twilight's dream, and one crackles with the fury of the heavens. Which constellation betrays the lottery's secret geometry?",
+      "hint": "Think of chance itself wearing many faces—the hunter, the climber, the hoarder, the showman, the rare brilliance, and the fierce strike."
+    },
+    "easyRiddle": {
+      "text": "Six magical things hide your lucky numbers: something you aim at, something that flies to stars, something that sparkles hard, something worn by a silly clown, something purple and mysterious, and something that strikes with power. Can you name them all?",
+      "hint": "One is a target, one reaches space, one is precious, one performs tricks, one is a color, and one is dangerous."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      18,
+      14,
+      4
+    ]
+  },
+  "emlo_655": {
+    "hardRiddle": {
+      "text": "I chase dreams to celestial heights with blazing speed, my gem sparkles with electric potential, dancing under the jester's gaze. What six treasures guide the memecoin gambler's fate?",
+      "hint": "One takes you up, one shines bright, one makes you laugh, one electrifies, one is precious, and one is pure magic"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 💎 is precious, ⚡ strikes fast, 🃏 makes you laugh, 🌙 lights the night. Which six symbols spell fortune?",
+      "hint": "Look for: a ride to space, sparkly dust, a shiny stone, fast electricity, a funny card, and Earth's nightlight"
+    },
+    "answer": [
+      1,
+      10,
+      2,
+      4,
+      18,
+      3
+    ]
   }
 }
