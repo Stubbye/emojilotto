@@ -36015,5 +36015,23 @@
       19,
       9
     ]
+  },
+  "sol_1659": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels converge. The archer's aim meets the void's crown, while trickster's grin echoes the winged metamorphosis. Lightning's twin speaks in thunder's tongue, and where petals bloom eternal, the prism births its sacred geometry.",
+      "hint": "One marks destiny, one rules night, one deceives, one transforms, one strikes twice, one grows eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the night queen, the jester's smile, the one that strikes, the insect reborn, the archer's mark, and the flower that never fades.",
+      "hint": "Moon, Joker, Lightning, Butterfly, Target, Flower"
+    },
+    "answer": [
+      3,
+      17,
+      9,
+      8,
+      0,
+      14
+    ]
   }
 }
