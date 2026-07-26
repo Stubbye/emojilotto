@@ -36033,5 +36033,41 @@
       0,
       14
     ]
+  },
+  "sol_1660": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six whispers dance in shadow's choir. The jester's grin beneath the gem's cold gleam, while dragon's breath ignites the fevered dream. One beats its wings through crystalline night, as thunder's kiss transforms the mortal sight.",
+      "hint": "Look for the convergence of chance, royalty, and transformation—where trickery meets truth in the cosmic stage."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this verse: a target of destiny, a rocket of ascent, a gem of value, a dragon of power, a joker's trick, and lightning's strike. Which six light the path to fortune?",
+      "hint": "One is aimed, one flies upward, one shines, one breathes fire, one laughs, and one crackles in the sky."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      19,
+      4
+    ]
+  },
+  "emlo_657": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights, my twin sparkles ignite the night. Where fortune strikes like lightning's might, and gems reflect the moon so bright. Through circus tents of fire we dance, while dragons guard our lucky chance.",
+      "hint": "Think of a memecoin's journey: lift-off, luck, brilliance, danger, magic, and treasure."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 glows above, 🔥 burns hot, 🐉 guards wealth. Six symbols of crypto dreams.",
+      "hint": "Count the emoji: launch, power, value, destination, energy, and protection."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      13
+    ]
   }
 }
