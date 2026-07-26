@@ -36123,5 +36123,23 @@
       12,
       10
     ]
+  },
+  "sol_1664": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the trickster's grin mirrors the void's eternal gaze. Six whispers of fate converge: the archer's distant dream, the serpent's ancient crown, the fortune-spinner's gamble, the night's pale sentinel, the jester's masked charade, and the cosmos' electric breath. Which six shimmer in destiny's chamber?",
+      "hint": "One points to aim, one coils in legend, one decides by chance, one lights the dark, one performs deception, and one strikes with power."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a pointed aim, a scaled mythical beast, random chance decided, night's bright orb, a performer's false face, and nature's electric flash. Name them all.",
+      "hint": "Archery, dragons, dice, moon, acting, and storms."
+    },
+    "answer": [
+      0,
+      13,
+      11,
+      3,
+      18,
+      4
+    ]
   }
 }
