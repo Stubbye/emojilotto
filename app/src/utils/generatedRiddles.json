@@ -36069,5 +36069,23 @@
       5,
       13
     ]
+  },
+  "sol_1662": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers align: the archer's mark meets swift ascension, crystalline wealth gleams beneath night's guardian, while trickster's grin and winged transformation spiral through chaos of the cosmos, painting destiny's arc across the void.",
+      "hint": "Consider symbols of luck, speed, wealth, deception, change, and guidance in the heavens."
+    },
+    "easyRiddle": {
+      "text": "Six magical signs unlock the treasure: aim true, reach high, find jewels, follow night's light, laugh with the fool, and dance with nature's child.",
+      "hint": "Target, rocket, gem, moon, joker, butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      12,
+      8
+    ]
   }
 }
