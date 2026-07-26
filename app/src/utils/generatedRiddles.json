@@ -36195,5 +36195,23 @@
       10,
       3
     ]
+  },
+  "sol_1668": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny await. The archer's mark meets the void's silver sentinel, while the trickster grins beneath twin masks of revelation. Thunder's child and chaos's symbol intertwine, as nature's smallest metamorphosis completes the hexagon of fate.",
+      "hint": "Consider what rises, what falls, what is seen by night, what deceives, what strikes without warning, and what transforms."
+    },
+    "easyRiddle": {
+      "text": "One points the way, one reaches the stars, one shines above, one laughs in jest, one splits the sky, and one changes its wings. What six crown the lucky few?",
+      "hint": "Think of: a shooting goal, a night watcher, a court fool, a storm's voice, and a bug that flies."
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      19,
+      4,
+      8
+    ]
   }
 }
