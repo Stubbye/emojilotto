@@ -36141,5 +36141,23 @@
       18,
       4
     ]
+  },
+  "sol_1665": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the weaver's dance, six tokens intertwine in destiny's expanse. The jester's twin adorns the night's ascent, while violet dreams and crystalline brilliance are lent. Through tempests bright and blooms that never fade, the performer's circle seals the fortune made.",
+      "hint": "One reflects chance, two mirror the theatrical, one crowns the victor, one glows eternal, one blooms eternal, one sings of structure"
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that aims, the laughing twin, the stone that shines bright, the crown of wins, the night's pale queen, and the endless sparks that light the dream.",
+      "hint": "Target, joker, gem, trophy, moon, sparkles"
+    },
+    "answer": [
+      0,
+      12,
+      2,
+      17,
+      3,
+      10
+    ]
   }
 }
