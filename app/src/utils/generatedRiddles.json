@@ -36087,5 +36087,41 @@
       12,
       8
     ]
+  },
+  "sol_1663": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in destiny's game. The jester's wit guides those who seek, through crystalline depths where visions peek. Wings of metamorphosis ascend through violet dreams, while luck's percussion echoes in fortune's streams. Find where the gemstone crown meets heaven's electric kiss, in this labyrinth of chance, what three remain amiss?",
+      "hint": "Consider the meeting of earth and sky, the transformation of fate, and the tools of divination. The answer lies where purple reigns and jewels catch starlight."
+    },
+    "easyRiddle": {
+      "text": "Six magical tokens hide in plain sight: one burns bright, one shines above, one sparkles with worth, one wears a silly grin, one flutters with grace, and one crowns the victor. What are they?",
+      "hint": "Think of fire, the sky, treasure, laughter, nature's transformation, and achievement."
+    },
+    "answer": [
+      5,
+      3,
+      2,
+      19,
+      8,
+      18
+    ]
+  },
+  "emlo_658": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, bearing precious gems that sparkle with mystical power. When fortune strikes like lightning through the circus of chaos, the joker's lucky charm shines brightest. What six symbols guide the memecoin believers to their rainbow destiny?",
+      "hint": "Think of a journey: starting point, mode of transport, treasure, destination, luck catalyst, and magical finale"
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon carrying sparkles and gems, guided by lightning and luck. What are these 6 things?",
+      "hint": "One goes up, one is there, one shines, one strikes, one is lucky"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      12,
+      10
+    ]
   }
 }
