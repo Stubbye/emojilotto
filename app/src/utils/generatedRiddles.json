@@ -36159,5 +36159,41 @@
       3,
       10
     ]
+  },
+  "sol_1666": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a gemstone catches lunar whisper's bent. Through tempest's fury dances prismatic flight, while thunder's twin ignites the eternal night. Six secrets hide where chaos meets the spark—find them in the dark, find them in the dark.",
+      "hint": "Think of precision meeting destiny, wealth ascending, celestial light, elemental fury, color's song, and nature's brilliance."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark aims true, a precious stone gleams bright, the moon watches from above, lightning dances wild, fire burns eternal, and rainbows paint the sky. Six treasures of chance await.",
+      "hint": "One guides, one shines, one glows above, two strike with power, one creates color."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      9
+    ]
+  },
+  "emlo_659": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride awaits on lightning wings, where gems ignite like dancing flames. Seek the path where purple sparkles meet celestial bodies, and fortune's wheel spins with electric might.",
+      "hint": "Think of a memecoin journey: a lucky performer, electricity, treasure, fire, magic shimmer, and cosmic destiny."
+    },
+    "easyRiddle": {
+      "text": "I have a funny face, electric speed, shiny treasure, purple magic, dancing lights, and reach for the sky. What am I?",
+      "hint": "A memecoin adventure includes: joker, lightning, gem, purple, sparkles, and moon."
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      15,
+      10,
+      3
+    ]
   }
 }
