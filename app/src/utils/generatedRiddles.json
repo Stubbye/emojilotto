@@ -36249,5 +36249,23 @@
       4,
       6
     ]
+  },
+  "sol_1671": {
+    "hardRiddle": {
+      "text": "Where fortune's masked performers dance beneath celestial fire, seven-pointed fate spins while gemstone dreams ascend through lightning's desire. The butterfly of chance escapes the target's gaze, as rainbow arcs dissolve in crystal's ancient maze.",
+      "hint": "Look for the cards of chaos, the stones of light, the wings of chaos, the arc of hope, the frozen water's reflection, and the sky's lonely sentinel."
+    },
+    "easyRiddle": {
+      "text": "A jester grins, a precious stone gleams, lightning strikes bright, a butterfly takes flight, colors paint the sky, and stars shine in dreams.",
+      "hint": "Think of luck, treasure, electricity, nature, weather, and night sky."
+    },
+    "answer": [
+      19,
+      6,
+      5,
+      8,
+      9,
+      21
+    ]
   }
 }
