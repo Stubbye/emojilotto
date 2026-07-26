@@ -36213,5 +36213,41 @@
       4,
       8
     ]
+  },
+  "sol_1670": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers convene: the archer's mark meets winged metamorphosis through prism's arc, while fortune's jester grins amid crystalline geometry and the beast of ancient wisdom breathes in twilight's amber glow.",
+      "hint": "One guides aim, one transforms, one divides light, one laughs at fate, one gleams with structure, one roars through legend."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: a mark to hit, a creature reborn, colors split, a trickster's wit, a hard stone's fit, and a legendary gift.",
+      "hint": "Target, butterfly, rainbow, joker, crystal, and dragon."
+    },
+    "answer": [
+      0,
+      8,
+      9,
+      19,
+      20,
+      14
+    ]
+  },
+  "emlo_660": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, my 🔥 burns bright for those in need. A 💎 of fortune, lightning quick, my sparkle ✨ makes the weak grow thick. Where 🎪 meets chaos in the sky, only the worthy watch me fly.",
+      "hint": "Think of a token that defies gravity and burns with passion"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, diamonds shine, lightning strikes to make you fine! Fire burns the weak away, sparkles show the winning way!",
+      "hint": "What goes up up up and makes you rich?"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      6
+    ]
   }
 }
