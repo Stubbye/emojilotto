@@ -36357,5 +36357,23 @@
       4,
       5
     ]
+  },
+  "sol_1676": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's mask conceals what lightning reveals. Six tokens of fate: the archer's distant mark, the serpent of smoke ascending through dark, the prism's stolen heart, the nocturnal keeper's gaze, the jester's painted paradox, and nature's emerald maze.",
+      "hint": "One guides aim, one climbs sky, one gleams precious, one guards night, one deceives with laughter, one grows wild."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a target to aim, a flame that consumes, a dragon so wise, the moon's gentle gleam, a four-leafed fortune, and the joker's wild game.",
+      "hint": "Look for aim, fire, scales, night, luck, and tricks."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      3,
+      19,
+      11
+    ]
   }
 }
