@@ -36375,5 +36375,41 @@
       19,
       11
     ]
+  },
+  "sol_1677": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dancer's glow, through prisms of ice the thunderous serpent flows. Wings of metamorphosis kiss the blazing stage, while luck's jester spins in rainbowed cage.",
+      "hint": "One pierces targets, one rules the night sky, one splits the storm, one transforms, one entertains, one paints the sky after rain."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that never misses, the night's bright guardian, the frozen gem's brilliance, the creature with thunder in its breath, the winged dancer reborn, and the arc of many colors.",
+      "hint": "Think of aim, astronomy, ice, power, rebirth, and weather."
+    },
+    "answer": [
+      0,
+      3,
+      20,
+      13,
+      7,
+      9
+    ]
+  },
+  "emlo_663": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, seeking fortune in the void. My precious gems sparkle with electric energy, while luck dances with me under the cosmic glow. Where chaos meets destiny, I emerge victorious.",
+      "hint": "Think of a memecoin's journey: explosive growth, precious value, luck, and reaching astronomical goals."
+    },
+    "easyRiddle": {
+      "text": "I go up fast like a 🚀, I shine like a 💎, I strike with power like ⚡, I reach the 🌙, I burn bright like 🔥, and I bring luck like 🍀.",
+      "hint": "Count the emojis in the riddle itself - they are your answer!"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      19
+    ]
   }
 }
