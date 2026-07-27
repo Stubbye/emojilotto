@@ -36267,5 +36267,41 @@
       9,
       21
     ]
+  },
+  "sol_1673": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, a scaled dreamer ascends past the archer's desire. Seven-pointed light crowns the midnight realm, while nature's winged metamorphosis and crystalline splendor overwhelm. In the archer's domain, luck spirals through prismatic arcs—six secrets hide where destiny marks.",
+      "hint": "Consider the stage of fate, the guardian of wishes, the performer of chaos, the watcher of night, the symbol of transformation, and the fragment of eternity."
+    },
+    "easyRiddle": {
+      "text": "A jester laughs, a dragon flies, stars ignite the sky. Butterflies dance where crystals lie. What six dance in the lottery's eye?",
+      "hint": "Think of a trickster, a mythical beast, a cosmic object, a transformation, a sparkle, and a precious stone."
+    },
+    "answer": [
+      19,
+      13,
+      21,
+      8,
+      20,
+      5
+    ]
+  },
+  "emlo_661": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with velocity untamed, my brilliance cuts through darkness like a jagged bolt, while fortune's gem gleams in my wake. A trickster's grin and dragon's flame fuel my ascent to legendary status. What am I?",
+      "hint": "Think of the ultimate memecoin journey: speed, electricity, wealth, chaos, fire, and mythical ambition."
+    },
+    "easyRiddle": {
+      "text": "To the moon we race with lightning speed! A gem awaits the joker's deed. Dragon's fire and rocket's might—what six symbols shine so bright?",
+      "hint": "Count the emojis: destination, transportation, treasure, trickster, beast, and energy."
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      11,
+      14,
+      5
+    ]
   }
 }
