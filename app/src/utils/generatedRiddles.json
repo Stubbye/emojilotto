@@ -36447,5 +36447,41 @@
       7,
       8
     ]
+  },
+  "sol_1680": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial stage, a jester's twin souls dance in prismatic rage. The winged soul ascends through emerald fire to kiss the lunar throne, while crystalline tears of heaven's fury ignite the performer's desire. In this carnival of chance, what six sentinels guard the gate between destiny and flame?",
+      "hint": "Think of: precision, chaos, illusion, night, power, and spectacle. One is struck by lightning, one performs in circles, one rules the sky."
+    },
+    "easyRiddle": {
+      "text": "A target aims true, a rocket flies high, a gem shines bright. Lightning strikes fast, fire burns hot, and the joker laughs. Which six dance together in fortune's light?",
+      "hint": "Look for: something you aim at, something that flies, something precious, something electric, something hot, and something silly."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      11
+    ]
+  },
+  "emlo_664": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, sparkling with gem-like brilliance. My journey ignites passion as I dance through cosmic waves, guided by fortune's lucky symbol. What am I?",
+      "hint": "Think of a meme token's ultimate dream - where it goes, what powers it, and what brings it luck."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the shiny place! ⚡💎🌙🚀✨🍀",
+      "hint": "One word: HODL and you'll reach it!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      19
+    ]
   }
 }
