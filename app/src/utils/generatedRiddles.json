@@ -36321,5 +36321,41 @@
       20,
       21
     ]
+  },
+  "sol_1675": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six mysteries dance betwixt the veil. The gemstone's twin gleams cold and bright, while wings of metamorphosis flutter near the jester's painted smile. Thunder's kiss and crimson rage complete the sacred hexad—seek ye the symbols that blur the line between destiny's aim and chaos's mirth.",
+      "hint": "One marks precision, one marks laughter, one marks transformation, one marks electricity, one marks passion, one marks celestial grace."
+    },
+    "easyRiddle": {
+      "text": "I hold six secrets: a bullseye's purpose, a wise creature's cunning, a gem's brilliance, a silent clown's jest, a storm's fury, and a phoenix's wrath.",
+      "hint": "Think of targets, animals, treasures, entertainment, weather, and elements."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      19,
+      5,
+      4
+    ]
+  },
+  "emlo_662": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gem-like sparkles ignite the fire of fortune. A jester's game of chance under the spotlight, where lightning strikes and butterflies dance. What 6 symbols represent this memecoin's wild journey?",
+      "hint": "Think of the moon's pull, a rocket's thrust, and the chaos of a circus tent"
+    },
+    "easyRiddle": {
+      "text": "Find: the destination we aim for, the vehicle that takes us there, the treasure we seek, the light in the sky, the electricity of excitement, and the heat of passion",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Fire"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
