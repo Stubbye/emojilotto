@@ -36429,5 +36429,23 @@
       13,
       14
     ]
+  },
+  "sol_1679": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six harbingers of fate convene. The archer's aspiration pierces infinity's veil, while gemstone's heart reflects what mortals seek. Electricity's twin dance with inferno's breath ignites the stage of jesters and wonder. Between the monarch's crown and nature's metamorphosis, destiny pirouettes. What six sentinels guard the threshold between chaos and triumph?",
+      "hint": "Consider symbols of luck, speed, wealth, night, danger, and spectacle intertwined in a dance of destiny."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's goal, the wealth you desire, the night's bright companion, the swift messenger, the jester's domain, and the winged transformation. Six of us hold your fortune. Name us.",
+      "hint": "Think of: aim, riches, sky, speed, entertainment, and metamorphosis."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      1,
+      7,
+      8
+    ]
   }
 }
