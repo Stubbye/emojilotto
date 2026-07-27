@@ -36411,5 +36411,23 @@
       5,
       19
     ]
+  },
+  "sol_1678": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet void, a celestial dancer ignites the cosmic stage. Through prisms of ice and fractured light, the jester's grin reflects in twin flames of destiny. Six whispers echo: the hunter's cunning masks the serpent's ancient wisdom, while petals drift through chaos eternal.",
+      "hint": "Seek the marksman, the midnight sphere, the frozen tears of heaven, the flame-tongued deceiver, the cunning thief, and the scaled immortal."
+    },
+    "easyRiddle": {
+      "text": "I point at goals, I light the night, I sparkle clear, I dance with delight. A trickster grins, a fox runs free, and a dragon guards what's meant to be.",
+      "hint": "One aims, one shines above, one is transparent, one laughs, one is sly, one breathes fire."
+    },
+    "answer": [
+      0,
+      21,
+      20,
+      11,
+      13,
+      14
+    ]
   }
 }
