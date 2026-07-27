@@ -36483,5 +36483,23 @@
       10,
       19
     ]
+  },
+  "sol_1681": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's grin eclipses the archer's aim. Through prismatic veils of cosmic dust, the winged metamorphosis ascends where thunder kisses the vault of eternity. Six secrets dwell in fortune's theatre—seek the symbol of chaos, the crown of victory, and the painted soul's rebellion.",
+      "hint": "One brings luck, one brings strikes, one brings laughter, one brings glory, one brings dreams, one brings change."
+    },
+    "easyRiddle": {
+      "text": "Six magical things hide in this riddle: something that strikes the sky, something that wins, something that laughs, something that glows above all, something that transforms, and something that brings fortune. Can you name them all?",
+      "hint": "Think of weather, winning, joy, the night sky, nature's magic, and luck."
+    },
+    "answer": [
+      5,
+      17,
+      19,
+      21,
+      8,
+      11
+    ]
   }
 }
