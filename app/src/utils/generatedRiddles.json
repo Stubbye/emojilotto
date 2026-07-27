@@ -36303,5 +36303,23 @@
       14,
       5
     ]
+  },
+  "sol_1674": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six dancers waltz through veils of desire. The jester's grin beneath the moon's pale glow, while crystalline dreams and electric currents flow. Seek the target of ambition's ancient song, where masked performers hide what's right and wrong.",
+      "hint": "Look for: precision, night, chaos, illusion, brilliance, and electricity's kiss"
+    },
+    "easyRiddle": {
+      "text": "I am the goal you aim for, the night sky's guardian, the fool's companion, the stone that glows, the spark that dances, and the face that hides. Together we are six.",
+      "hint": "One is aimed at, one is above, one is silly, one is precious, one is quick, one conceals"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      19,
+      20,
+      21
+    ]
   }
 }
