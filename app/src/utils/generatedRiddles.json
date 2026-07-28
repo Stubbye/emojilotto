@@ -36573,5 +36573,23 @@
       13,
       11
     ]
+  },
+  "sol_1685": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, and chaos dances with crystalline aim. The jester's laughter echoes through fortune's gate, while winged metamorphosis seals your fate. Lightning splits the prism of chance, as nature's four-leaf guardian grants the dance.",
+      "hint": "Six paths converge where luck and destiny blur—one strikes with precision, one blazes eternal, one laughs at odds, one transforms through trials, one shatters certainty, one blesses the bold."
+    },
+    "easyRiddle": {
+      "text": "I am a target that burns bright, a joker who laughs, a butterfly that rises, lightning that breaks, a crystal that gleams, and a clover that blesses.",
+      "hint": "Think of precision, humor, transformation, electricity, purity, and luck."
+    },
+    "answer": [
+      0,
+      5,
+      8,
+      11,
+      20,
+      19
+    ]
   }
 }
