@@ -36627,5 +36627,23 @@
       4,
       5
     ]
+  },
+  "sol_1688": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the winged messenger of transformation meets the archer's eternal mark. Six symbols intertwine: the cosmic sentinel bathes in ethereal glow, while fortune's glittering heart whispers secrets. The storm's electric pulse kisses the inferno's embrace, and between them flutters the painted soul seeking rebirth. One golden disc watches all, one arrow points to destiny, one gem reflects eternity's light.",
+      "hint": "Luck blooms where sky meets fate; seek what sparkles, burns, and soars through metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I contain six treasures: a target for aim, a rocket for dreams, a gem that shines bright, the moon that glows, lightning that strikes, and fire that burns. Together we hold the key to fortune.",
+      "hint": "Look for: what you shoot at, what flies up, what glitters, the night sky's pearl, nature's electricity, and heat's dance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
