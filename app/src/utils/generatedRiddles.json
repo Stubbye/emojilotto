@@ -36735,5 +36735,41 @@
       20,
       21
     ]
+  },
+  "sol_1693": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a celestial dancer ascends through crystalline thunder, leaving trails of ember-kissed wonder. Six sovereigns converge: the marksman's ambition, the nocturnal sentinel, the frozen prism's brilliance, the tempest's violent kiss, the phoenix's ancient breath, and the six-sided oracle of chaos.",
+      "hint": "Seek the intersection of aimed desire, lunar dominion, solid clarity, electric fury, primal heat, and random fate."
+    },
+    "easyRiddle": {
+      "text": "One shoots straight and true, one glows in darkness, one sparkles with inner light, one cracks the sky, one consumes all, and one decides by chance. Six sacred symbols align when destiny calls.",
+      "hint": "Think of targets, the moon, gems, storms, burning, and games of chance."
+    },
+    "answer": [
+      0,
+      3,
+      20,
+      4,
+      5,
+      11
+    ]
+  },
+  "emlo_669": {
+    "hardRiddle": {
+      "text": "I rise to the heavens with electric speed, a gem of fortune that makes hodlers succeed. The dragon's fire ignites my flight, while sparkles dance in the moonlight. What sequence guides this memecoin's might?",
+      "hint": "Think of a journey from Earth to infinite gains, powered by excitement and celestial chains."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the shiny place! ⭐ Quick like lightning! ⚡ Watch the gems glow! 💎 Sparkle and shine! ✨ Fire it up! 🔥 To the moon we go! 🌙",
+      "hint": "Follow the order of a memecoin's dream: from launching fire to reaching the luminous peak."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      10,
+      5,
+      3
+    ]
   }
 }
