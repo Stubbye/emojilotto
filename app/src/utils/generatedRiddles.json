@@ -36519,5 +36519,41 @@
       4,
       2
     ]
+  },
+  "sol_1683": {
+    "hardRiddle": {
+      "text": "Where fortune's winged messenger ascends through celestial fire, six tokens dance in shadows: the archer's distant dream, the serpent's ancient wisdom coiled in night, the jester's painted truth beneath its mask, the bloom of fate's eternal cycle, the gem that holds all spectrum's light refracted, and the spark of chaos—twin to lightning's kiss. In what sequence do they align when destiny's curtain falls?",
+      "hint": "One seeks, one soars, one deceives, one grows, one refracts, one ignites. The answer lies where luck meets the cosmic dance."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide the winning way: a precious stone that catches rays, a creature with wings and pattern so bright, a play on tricks where fools take flight, a serpent of legend coiled in might, a flower that blooms through day and night, and fire's flash in the darkest height. Name them in order from earth to sky.",
+      "hint": "Think of beauty, trickery, power, growth, sparkle, and heat."
+    },
+    "answer": [
+      7,
+      1,
+      19,
+      14,
+      20,
+      5
+    ]
+  },
+  "emlo_665": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar vault, where crystalline fortunes sparkle with electric speed. What six celestial symbols guard this volatile treasure?",
+      "hint": "Think of a memecoin's journey: who plays, what ignites it, where it goes, what it becomes, and what surrounds the moment."
+    },
+    "easyRiddle": {
+      "text": "Start with the fool's card, add a rocket's fire, reach the moon where gems sparkle, and lightning strikes fast. What are these 6 lucky symbols?",
+      "hint": "Joker launches to moon with gems and sparkles, plus two more cosmic elements."
+    },
+    "answer": [
+      19,
+      1,
+      3,
+      5,
+      20,
+      21
+    ]
   }
 }
