@@ -36699,5 +36699,23 @@
       5,
       2
     ]
+  },
+  "sol_1691": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sacred vessels await the seeker. The archer's mark meets the winged messenger of dreams, while prismatic light fractures through nature's twin guardians. In the court of chance, the trickster's grin reflects what the twin-souled creature perceives. Count the symbols of destiny: the wheel turns, the ascendant blazes, the gem whispers truth, the lunar sentinel watches, the jester mocks all, and the shapeshifter knows.",
+      "hint": "One controls luck, one carries wishes, one holds value, one rules night, one deceives, one transforms perception"
+    },
+    "easyRiddle": {
+      "text": "I seek six dancers in the lottery's grand theater: a mark of precision, a chariot of wishes, a treasure most precious, a guardian of night, a fool's companion, and a creature of two faces.",
+      "hint": "Target, Rocket, Gem, Moon, Joker, Fox"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      13
+    ]
   }
 }
