@@ -36663,5 +36663,41 @@
       4,
       11
     ]
+  },
+  "sol_1690": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers in the void: the archer's eternal dream pierces through the cosmic stage, while brilliance shatters in the crown of night. The jester's twin flames waltz with winged transformation, and earthbound sparkle crowns the silent reveler's ascent.",
+      "hint": "One seeks, one soars, one glimmers, one guides, one transforms, one celebrates"
+    },
+    "easyRiddle": {
+      "text": "Find the target of ambition, the rocket of dreams, the gem of wealth, the moon of night, the lightning of luck, and the fire of passion.",
+      "hint": "Six symbols of desire and destiny in the lottery's embrace"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_668": {
+    "hardRiddle": {
+      "text": "I chase the 🚀 to reach the 🌙 where sparkles ✨ dance. With lightning ⚡ speed and 🔥 passion, I'm the gem 💎 that makes you rich. What am I?",
+      "hint": "A memecoin's journey involves speed, wealth, and celestial dreams"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ✨ celebrates wins, ⚡ moves fast, 🔥 is hot, 🌙 is the goal. Pick these six for your lucky combo!",
+      "hint": "Look for symbols of speed, wealth, celebration, energy, heat, and dreams"
+    },
+    "answer": [
+      1,
+      3,
+      9,
+      4,
+      5,
+      2
+    ]
   }
 }
