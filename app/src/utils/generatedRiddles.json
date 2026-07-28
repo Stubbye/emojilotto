@@ -36501,5 +36501,23 @@
       8,
       11
     ]
+  },
+  "sol_1682": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and mystic petals bloom beneath the jester's gaze. Six secrets hide: one pierces the veil between worlds, one laughs at destiny's game, one blooms eternal in shadow's grace, one spins where chaos reigns supreme, one crackles with the sky's own rage, and one glimmers as the cosmos winks. Seek the gem within the riddled path where lightning meets the mask of mirth.",
+      "hint": "Look for: a celestial orb, a card of folly, a delicate bloom, a spinning hazard, a bolt from heaven, and a precious stone. They converge where the moon laughs and the masked trickster bows."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: the night's bright pearl, the jester's card, the flower's kiss, the dice's roll, the sky's white fire, and the earth's treasure. Together they spell fortune's formula.",
+      "hint": "Moon, Joker, Flower, Dice, Lightning, and Gem will light your way to victory."
+    },
+    "answer": [
+      10,
+      19,
+      14,
+      11,
+      4,
+      2
+    ]
   }
 }
