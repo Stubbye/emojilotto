@@ -36555,5 +36555,23 @@
       20,
       21
     ]
+  },
+  "sol_1684": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a gemstone gleams beneath Luna's gaze. Lightning dances through prismatic gates as the phoenix consumes itself in eternal flame, while scaled guardians coil around fate's spinning wheel. What six harbingers reveal the lottery's secret name?",
+      "hint": "Consider symbols of aim, cosmos, wealth, electricity, rebirth, and chaos—each holds dominion over chance itself."
+    },
+    "easyRiddle": {
+      "text": "I seek six tokens of destiny: a bullseye's mark, a stone of worth, the night's pale sentinel, electricity's crack, a beast of scales, and a cube of chance. Together they whisper tomorrow's fortune.",
+      "hint": "Think of targets, precious things, the moon, storms, dragons, and games of probability."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      13,
+      11
+    ]
   }
 }
