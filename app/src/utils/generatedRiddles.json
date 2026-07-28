@@ -36645,5 +36645,23 @@
       4,
       5
     ]
+  },
+  "sol_1689": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the nocturnal jewel, six servants of fortune dance: the archer's mark meets swift ascension, radiance blooms in crystalline facets, and twin flames of chaos spark the jester's eternal grin. The winged metamorphosis pirouettes through luminous dust, while nature's symbol of providence crowns the spectacle.",
+      "hint": "Seek the convergence of night and flight, precious and playful, transformation and luck's emblem."
+    },
+    "easyRiddle": {
+      "text": "I contain six magical symbols: one marks your aim, one climbs the sky, one glitters with value, one rules the night, one crackles with power, and one grins with mischief.",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and jokers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
