@@ -36717,5 +36717,23 @@
       11,
       13
     ]
+  },
+  "sol_1692": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the beast of scales. Six whispers traverse the veil: one strikes from heaven's fury, one blooms eternal in night's embrace, one spins the gambler's fate, one wears the mask of chaos, one guards the hoard of earth's tears, and one carries fortunes yet unseen. Seek the numbered path where lightning meets the joker, where dragon coils with gem, and star claims its throne.",
+      "hint": "Think of chaos, precious things, celestial forces, and the cards that govern chance. Six entities hold the key—one electrical, one crowned, one scaled, one laughing, one crystalline, one distant and wise."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune align: the spark from above, the precious stone beneath, the winged jester's dance, the serpent's ancient wisdom, the celestial guardian, and the numbered bone of fate. Which six claim the prize?",
+      "hint": "Lightning, Gem, Joker, Dragon, Star, and Dice hold the winning combination."
+    },
+    "answer": [
+      4,
+      2,
+      11,
+      13,
+      20,
+      21
+    ]
   }
 }
