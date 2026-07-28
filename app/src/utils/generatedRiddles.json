@@ -36591,5 +36591,41 @@
       20,
       19
     ]
+  },
+  "sol_1687": {
+    "hardRiddle": {
+      "text": "Where celestial fires dance with fortune's trembling heart, a prismatic serpent coils through chambers of chance. The jester's grin meets blazing destiny, while crystalline tears reflect what mortals seek. Six whispers of fate: the archer's dream, the sky's embrace, the gem of becoming, the spark of transformation, the trickster's laughter, and the scale of all things weighed.",
+      "hint": "Seek the overlap of luck, chaos, and celestial desire—where magic ignites and destiny crystallizes."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune hide in plain sight: a pointed destination of wishes, a burst of electric chance, a treasure that glimmers, the night's silent witness, a dancing inferno, and the riddler who grins.",
+      "hint": "Think of games, wishes, light, and the night sky."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      3,
+      5,
+      18
+    ]
+  },
+  "emlo_667": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like treasure that makes investors greedy. Lightning fast gains with fire in my soul, a sparkly dragon reaching the ultimate goal. What am I?",
+      "hint": "Think of a journey to wealth with energy and mythical power"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon shines bright, gem sparkles, dragon takes flight, lightning strikes, and fire burns hot. Guess the six?",
+      "hint": "Look for objects of flight, light, and power"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      13,
+      4,
+      5
+    ]
   }
 }
