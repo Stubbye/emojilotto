@@ -36771,5 +36771,23 @@
       5,
       3
     ]
+  },
+  "sol_1694": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's grin, six symbols dance in fortune's spin. The winged wanderer seeks the gem beneath moon's silver lace, while fortune's bolt strikes through the mask of grace. What six treasures align when chaos and destiny embrace?",
+      "hint": "Think of performance, luck, transformation, destiny's strike, precious stone, and night's guardian. One creature flies between worlds."
+    },
+    "easyRiddle": {
+      "text": "Find the clown's smile, the night's watcher, the flying friend, the sparkling stone, the sky's fire, and luck's mask—six symbols of joy and wonder.",
+      "hint": "A performer, a stone, a time, a wild creature, a weather phenomenon, and a magical moment."
+    },
+    "answer": [
+      19,
+      22,
+      8,
+      2,
+      4,
+      13
+    ]
   }
 }
