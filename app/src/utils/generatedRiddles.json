@@ -37005,5 +37005,23 @@
       11,
       19
     ]
+  },
+  "sol_1703": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six mystics dance in shadow's tale. The jester's grin meets crystalline dreams, while thunder splits the rainbow's seams. A scaled guardian coils through fortune's gate, and blossoms bloom where destinies await.",
+      "hint": "Seek the intersection of chaos and order, where magic performs beneath masked watchers."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck gather in the night: a pointed aim, a jester's delight, a gem that gleams, a thunder's might, a dragon's scale, and petals bright.",
+      "hint": "Think of targets, jokes, sparkles, storm, serpents, and gardens."
+    },
+    "answer": [
+      0,
+      12,
+      6,
+      4,
+      13,
+      14
+    ]
   }
 }
