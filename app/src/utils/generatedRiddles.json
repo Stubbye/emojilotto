@@ -36843,5 +36843,41 @@
       1,
       6
     ]
+  },
+  "sol_1697": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and treasured brilliance ascends through lightning's desire. The nocturnal guardian gleams with prismatic song, while the masked trickster dances where they don't belong. In this constellation of fate's cruel jest, six symbols converge where destiny's tested.",
+      "hint": "Think of the night sky, precious stones, luck's deception, and the hunter's aim."
+    },
+    "easyRiddle": {
+      "text": "Six signs of fortune: the archer's mark, the rocket's spark, the gem so bright, the moon at night, the lightning's might, and the joker's sleight.",
+      "hint": "One aims, one flies, one shines, one glows, one strikes, one tricks."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_671": {
+    "hardRiddle": {
+      "text": "A jester's token rides cosmic winds with crystalline brilliance, struck by fortune's bolt. Beauty transforms through prisms while luck dances in electric celebration beneath celestial heights.",
+      "hint": "Think of a memecoin's journey: the character promoting it, the energy it has, what it's made of, where it's headed, the luck involved, and the visual spectrum of success."
+    },
+    "easyRiddle": {
+      "text": "The joker pumps the rocket with a lightning strike, carrying a crystal to the moon where a rainbow appears.",
+      "hint": "Count the emojis mentioned directly in the riddle text."
+    },
+    "answer": [
+      19,
+      1,
+      4,
+      3,
+      20,
+      9
+    ]
   }
 }
