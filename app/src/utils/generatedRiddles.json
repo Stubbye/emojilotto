@@ -37023,5 +37023,23 @@
       13,
       14
     ]
+  },
+  "sol_1704": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin mirrors the beast of scales. The jeweled prism catches what the night devours, while wings of metamorphosis taste the storm's electric kiss. In this trinity of chaos, destiny spins—seek the mark where all arrows converge.",
+      "hint": "Look for the symbols of chance, deception, transformation, and the convergence of aim and chaos."
+    },
+    "easyRiddle": {
+      "text": "A target gleams, a dragon roars, lightning splits the sky. A gem sparkles bright, a butterfly soars, the joker winks goodbye.",
+      "hint": "Six symbols appear in the verse: one for aiming, one mythical beast, one of weather, one precious, one living, one playful."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      2,
+      8,
+      11
+    ]
   }
 }
