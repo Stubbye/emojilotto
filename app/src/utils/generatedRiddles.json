@@ -36825,5 +36825,23 @@
       6,
       10
     ]
+  },
+  "sol_1696": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright pearl, a serpent of thunder coils through prismatic dust, while masked revelers dance upon waves of fortune—six celestial witnesses to destiny's gamble, one token of luck buried beneath their revelry.",
+      "hint": "Seek the huntress of precision, the guardian of night, the chaos-bringer, the illusionist's stage, the fortune-teller's sphere, and the emerald of dreams."
+    },
+    "easyRiddle": {
+      "text": "A target and a moon shine bright, lightning strikes with all its might, dice roll on a circus floor, while gems glitter—can you count to four more?",
+      "hint": "You need a goal, night's light, electric power, gems that shine, chance's roll, and a place of wonder."
+    },
+    "answer": [
+      0,
+      21,
+      4,
+      11,
+      1,
+      6
+    ]
   }
 }
