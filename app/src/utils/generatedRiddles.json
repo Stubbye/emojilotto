@@ -36951,5 +36951,23 @@
       4,
       8
     ]
+  },
+  "sol_1701": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and nature's twin-winged dancer ascends through prismatic veils. The jester's twin-faced mask grins as crystalline dreams shatter into stardust. Beneath the performer's tent, a seven-pointed guardian gleams eternal.",
+      "hint": "Three celestial, two mystical, one performer's companion"
+    },
+    "easyRiddle": {
+      "text": "A target waits, a rocket soars, a butterfly dances. Gems sparkle bright, fire burns hot, and stars light the way.",
+      "hint": "Count the winning symbols: archer, space, wings, crystal, flame, and heaven's light"
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      11,
+      5,
+      20
+    ]
   }
 }
