@@ -36789,5 +36789,41 @@
       4,
       13
     ]
+  },
+  "sol_1695": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the winged metamorphosis pirouettes through the prism of fortune. The jester's gleaming crown sits betwixt the tempest's fury and the performer's eternal wheel. Seek the six that waltz between chaos and splendor.",
+      "hint": "One flies by night, one transforms completely, one entertains crowds, one strikes swiftly, one sparkles eternally, and one aims true."
+    },
+    "easyRiddle": {
+      "text": "An archer's goal, a night light above, a beautiful change of wings, a funny entertainer, a bright flash of power, and something that shines like magic. Six lucky symbols await.",
+      "hint": "Think of: accuracy, the sky, insects, comedy, weather, and glitter."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      4,
+      10,
+      21
+    ]
+  },
+  "emlo_670": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, my gem sparkles as I rise. Watch the fire of my rocket burn bright, while lightning strikes and the dice decide my fate. What am I?",
+      "hint": "A memecoin's journey to the stars requires speed, brilliance, and a little luck."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ moves fast, 💎 shines bright, 🌙 is the goal, 🔥 shows power, ✨ brings magic. What do these symbols represent together?",
+      "hint": "Think about the key elements of a successful crypto launch."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      6,
+      10
+    ]
   }
 }
