@@ -36879,5 +36879,23 @@
       20,
       9
     ]
+  },
+  "sol_1698": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the void's heart, six spirits dance in fortune's art. The masked jester spins with wings of dawn, while crystalline tears upon a flame are drawn. Through prismatic gates the thunder calls, where fortune's gem within the bull's-eye falls.",
+      "hint": "Think of celestial bodies, precious things, masked performers, natural phenomena, and symbols of luck intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this poetic game: a lightning strike, a precious flame, a dancing mask with jest's own name, a gem that glows, a moon above, and a target struck with fortune's love.",
+      "hint": "One is electrical, one burns, one performs, one sparkles, one glows in night sky, one marks a hit."
+    },
+    "answer": [
+      4,
+      5,
+      19,
+      21,
+      1,
+      0
+    ]
   }
 }
