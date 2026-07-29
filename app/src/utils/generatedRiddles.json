@@ -36897,5 +36897,41 @@
       1,
       0
     ]
+  },
+  "sol_1699": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's prismatic song, six tokens of fate converge: the archer's eternal mark, the chariot of cosmic ascent, the crystallized dreams of earth's deepest chambers, the pale sentinel of night's dominion, the jagged tongue of heaven's wrath, and the spiraling transformation of metamorphosis divine. What lies between ambition's arrow and destiny's butterfly wings?",
+      "hint": "Consider what fortune seekers chase beneath the stars, where luck ignites and transforms all it touches."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await: something you shoot at, something that flies to space, something shiny underground, something in the night sky, something that strikes with power, and something with beautiful wings.",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and butterflies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_672": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a precious gem glowing as I ignite the night. A butterfly dances through sparkles and fire, guided by fortune's crystal gaze. Where do I go?",
+      "hint": "Think of a journey that combines velocity, value, and destiny in the crypto realm."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 is shiny, ⚡ is quick, 🔥 is hot, 🦋 flies high, ✨ sparkles bright. What adventure do they share?",
+      "hint": "These symbols represent the moon-bound dreams of diamond hands."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      8,
+      10
+    ]
   }
 }
