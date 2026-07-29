@@ -36933,5 +36933,23 @@
       8,
       10
     ]
+  },
+  "sol_1700": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester spins beneath lunar gaze. The crystal prism catches lightning's song, while emerald tears fall upon the stage where wings emerge from shadow's embrace. Seek the nexus where chance bows to radiance.",
+      "hint": "One guides from above, one burns with desire, one wears deception, one floats in darkness, one shatters light, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Find the moon that watches, the gem that gleams, the joker that grins, the dragon that dreams, the lightning that strikes, and the butterfly that soars.",
+      "hint": "Look for night's guardian, treasure's prize, trickster's face, myth's beast, storm's arrow, and nature's dancer."
+    },
+    "answer": [
+      3,
+      5,
+      19,
+      13,
+      4,
+      8
+    ]
   }
 }
