@@ -36969,5 +36969,41 @@
       5,
       20
     ]
+  },
+  "sol_1702": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's descent, a gem catches starlight's bent. Thunder's kiss ignites the prism's dance, while dragon's breath fuels destiny's chance. In this nexus of chaos and gleam, six symbols weave the lottery's dream.",
+      "hint": "Seek the convergence of aim, ascension, brilliance, darkness, chaos, and mythical power."
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye of wishes, the jewel of price, the bolt of chance, the fire of spice, the scaled wonder, and the glowing spark that lights the lottery's mark.",
+      "hint": "One points the way, one shines bright, one strikes hard, one burns right, one flies with scales, one lights the night."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      5,
+      13,
+      21
+    ]
+  },
+  "emlo_673": {
+    "hardRiddle": {
+      "text": "I chase gains to the 🌙, powered by ⚡ and 🔥. My holders sparkle like 💎, guided by fortune's 🎰 and blessed by luck's 🍀. What am I?",
+      "hint": "A digital currency that promises wealth and celebrates chaos"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, powered by ⚡, shining like 💎, lucky 🎰, blessed 🍀",
+      "hint": "Combine the emojis to find the memecoin spirit"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      11,
+      19
+    ]
   }
 }
