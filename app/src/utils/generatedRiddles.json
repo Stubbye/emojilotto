@@ -37203,5 +37203,41 @@
       8,
       19
     ]
+  },
+  "sol_1712": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in destiny's game. The gem-crowned sentinel gazes from void, while thunder's kiss and inferno's pride intertwine. A crystal butterfly ascends through prismatic waves, her jeweled wings catching starlight's ancient refrain. What six vessels hold the cosmic joke?",
+      "hint": "One pierces darkness, one burns bright, one flies with grace, one strikes with might, one gleams eternal, one crowns the night."
+    },
+    "easyRiddle": {
+      "text": "A shining stone, a silver watcher above, lightning that strikes, and flames we love. A winged jewel dances through colors so bright. Which six treasures glow in the lottery's light?",
+      "hint": "Think of natural wonders, precious things, creatures that fly, and the power of night sky."
+    },
+    "answer": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      21
+    ]
+  },
+  "emlo_677": {
+    "hardRiddle": {
+      "text": "To the moon we ride with electric might, through flames of hype and gems so bright. Lady luck spins her wheel tonight, as rockets blast through starry light. What six tokens guide this chaotic flight?",
+      "hint": "Think of the journey to financial glory: propulsion, destination, treasure, chance, power, and the celestial goal."
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with speed, find treasure underground, get struck by fortune, reach the destination, spin the wheel, and watch the show sparkle. What six things help you win big?",
+      "hint": "One goes up, one is your goal, one you find, one strikes fast, one decides fate, one entertains."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      11,
+      10
+    ]
   }
 }
