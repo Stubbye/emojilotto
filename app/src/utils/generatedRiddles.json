@@ -37239,5 +37239,23 @@
       11,
       10
     ]
+  },
+  "sol_1713": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic veil, six muses of fortune entwine: the archer's eternal mark meets the void's silver guardian, while gemstone's crystalline twin whispers secrets to the winged wanderer, and the trickster's masked grin bows before the scaled keeper of ancient thunder, all cradled within fortune's electric kiss.",
+      "hint": "Consider the duality of light and darkness, what mortals seek and what the cosmos guards. The jester knows all six."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this sequence: aim true at the glowing sphere above, dig deep for precious stones, watch the clever creature's dance, fear the serpent's power, and trust the fool's wisdom.",
+      "hint": "Think of targets, gems, animals, mythical beings, and playing cards in your pocket."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      13,
+      14,
+      19
+    ]
   }
 }
