@@ -37131,5 +37131,23 @@
       13,
       6
     ]
+  },
+  "sol_1709": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial beast breathes inferno upon the stage of illusions. The trickster's grin echoes as prismatic fragments dance with the tempest's fury, while nature's winged metamorphosis spins eternal circles of light.",
+      "hint": "Seek the marked destination, the midnight guardian, the burning heart, the masked deceiver, the shattered rainbow, and the creature of transformation."
+    },
+    "easyRiddle": {
+      "text": "An aim-point glows bright, a night-sky orb hangs high, a flame burns hot, a jester laughs loud, colors bend and twist, and a creature flies free. Six treasures hide in shadow and light.",
+      "hint": "Think of targets, the moon, fire, jokes, rainbows, and flying things."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      11,
+      9,
+      8
+    ]
   }
 }
