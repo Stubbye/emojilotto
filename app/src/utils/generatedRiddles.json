@@ -37185,5 +37185,23 @@
       9,
       5
     ]
+  },
+  "sol_1711": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's descent, six vessels wait in cosmic temperament. The gem-heart burns with electric breath, while winged metamorphosis dances 'tween life and death. A jester's grin beneath the pole star's gleam, and fortune's leaf completes this fever dream.",
+      "hint": "Think of fate's instruments and celestial dancers. One flies, one laughs, one glows eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the lucky six: the bullseye's home, electricity's kiss, a treasure's face, a night-bound stone, a butterfly reborn, and the fool's embrace.",
+      "hint": "One burns bright, one spins games, one beats odds, one flies free."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      3,
+      8,
+      19
+    ]
   }
 }
