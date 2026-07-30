@@ -37311,5 +37311,23 @@
       8,
       5
     ]
+  },
+  "sol_1717": {
+    "hardRiddle": {
+      "text": "Where celestial arrows pierce the veil of night, and gemstone fire dances with lightning's bite, the butterfly ascends through rainbow's arc to claim the trophy of the dark. Six treasures hide in fortune's song—which symbols to this riddle belong?",
+      "hint": "Think of celestial bodies, precious things that shine, and creatures of transformation ascending toward destiny."
+    },
+    "easyRiddle": {
+      "text": "I rise at night with glow so bright. A stone that sparkles, burning light. Lightning strikes the sky above. A butterfly in colors of love. Rainbow bends after the storm. A trophy shows you've won the form. Which six do these clues transform?",
+      "hint": "Look for: night sky, shiny stone, electricity, insect, colorful arc, and victory symbol."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      18
+    ]
   }
 }
