@@ -37041,5 +37041,41 @@
       8,
       11
     ]
+  },
+  "sol_1706": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, the jester's grin dances with crystalline desire. Through prismatic waves of luck's own refrain, six tokens of fate shall break the mundane chain. The wingèd trickster grins beneath the starlit dome, while gemstones weep in their ethereal home.",
+      "hint": "Consider who performs in shadows, what shines eternal above, and where chaos and order embrace."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the night's bright pearl, the wise deceiver's smile, the gleaming stone, the cosmic spark, and the striped fortune-teller's spin.",
+      "hint": "One shoots straight, one glows above, one tricks, one glitters, one blazes, and one rolls."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      20,
+      21,
+      6
+    ]
+  },
+  "emlo_674": {
+    "hardRiddle": {
+      "text": "I'm a volatile beast that soars to celestial heights, powered by electric momentum and gemstone wealth. My journey ignites dreams under the moonlight, where fortune spins like a cosmic dance between chaos and destiny.",
+      "hint": "Think of what drives a memecoin to the moon, what fuels it, and the luck involved"
+    },
+    "easyRiddle": {
+      "text": "A rocket takes me high, lightning gives me speed, gems make me valuable, and the moon is where I dream. Fire and dice determine my fate.",
+      "hint": "6 emojis represent the memecoin journey"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
