@@ -37077,5 +37077,23 @@
       4,
       11
     ]
+  },
+  "sol_1707": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a prismatic breath ascends through celestial lace. The jester's twin dances with scaled ancient might, while petals bloom eternal in the spectrum's light. Thunder's kiss ignites the cosmic stage where destiny pirouettes between the seen and the caged.",
+      "hint": "Six symbols of fate: one aims, one flies through stars, one gleams with inner fire, one rules the night, one laughs in madness, and one represents transformation's flight."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's goal, the sky-piercing fire, the king of gems, the night's pale desire, the chaos-bringer's wit, and wings that paint the air.",
+      "hint": "Think of targets, rockets, precious stones, the moon, a funny card, and a colorful insect."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      8
+    ]
   }
 }
