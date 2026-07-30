@@ -37257,5 +37257,23 @@
       14,
       19
     ]
+  },
+  "sol_1714": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian heart, a celestial sentinel watches over chaos unbound. The serpent of ages breathes luminous fury upon the stage of mirth, while delicate wings dance through prismatic tears. Six keepers of destiny converge—seek the mark, the watcher, the ancient flame-speaker, the chromatic arc, the ethereal flutter, and the crystalline brilliance.",
+      "hint": "One shoots straight, one watches high, one is legendary, one is colorful, one is fragile, one sparkles endlessly"
+    },
+    "easyRiddle": {
+      "text": "I point the way with precision. I shine from above in the night. I'm a magical stone from the earth. I breathe fire and roar. I flutter on gentle winds. I shimmer and glow everywhere.",
+      "hint": "Target, Moon, Gem, Dragon, Butterfly, Sparkles"
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      9,
+      8,
+      10
+    ]
   }
 }
