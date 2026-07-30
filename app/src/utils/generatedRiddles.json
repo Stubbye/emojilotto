@@ -37095,5 +37095,41 @@
       11,
       8
     ]
+  },
+  "sol_1708": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, six sentinels of fate convene. The winged dancer courts the prism's fractured light, while thunder's serpent coils beneath a jester's crown. At journey's end, where celestial flame ignites the crystal's hidden song—thus lies the key to all that glimmers in the abyss.",
+      "hint": "One points the way, one watches from above, one multiplies in joy, one destroys with laughter, one weaves with wings, and one sparkles with pure chance."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's aim, the sky's dark face, the dragon's treasure, the chaos bringer, the painted dancer, and the magic spark—together we unlock the lottery's secret.",
+      "hint": "Think of: direction, night, wealth, power, grace, and wonder."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      8,
+      10
+    ]
+  },
+  "emlo_675": {
+    "hardRiddle": {
+      "text": "A jester's dream fueled by celestial greed: swift ascension through electric speed, crystalline treasures beneath lunar glow, where fortune spins and wild foxes flow. Target the peaks where dragons ignite, dancing through fire to reach infinite heights.",
+      "hint": "Think of the journey from ground zero to moon, the tools of chance, and the creatures of the crypto realm."
+    },
+    "easyRiddle": {
+      "text": "Blast off to fortune with speed and light, sparkle and spin through the crypto night. A fox guides you past fire and ice, to crystal rewards—roll the dice!",
+      "hint": "Six symbols: launch fast, shine bright, spin luck, glow moon, stay wild, and get rich."
+    },
+    "answer": [
+      1,
+      19,
+      11,
+      3,
+      13,
+      6
+    ]
   }
 }
