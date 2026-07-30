@@ -37275,5 +37275,41 @@
       8,
       10
     ]
+  },
+  "sol_1715": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six secrets dance in cosmic game. The gemstone whispers through prismatic arc, while winged metamorphosis ignites the dark. Thunder's ballet with silver crescent gleams, and crystalline fortune bends all dreams.",
+      "hint": "Consider what transforms, what shines, what strikes, and what aims high in the night sky."
+    },
+    "easyRiddle": {
+      "text": "I am born from transformation's grace, I sparkle where lightning takes its place, I shine like gems in moonlit beams, I'm the target of all fortune's dreams, I dance across the rainbow's arc, I strike with fire through the dark.",
+      "hint": "Think of things that glow, fly, aim, and change."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      8,
+      20,
+      21
+    ]
+  },
+  "emlo_678": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins with electric might, gemstones sparkle in moonlit flight. Where wings of transformation meet celestial fire, and lucky symbols fuel the memecoin's desire.",
+      "hint": "Think of chaos, luck, brilliance, and ascension combined"
+    },
+    "easyRiddle": {
+      "text": "Lightning strikes the joker's stage, gems shine bright on this memecoin page. A butterfly dances by the moon so high, while sparkles and fire light up the sky.",
+      "hint": "Count the magical and lucky elements: electricity, cards, treasure, insects, celestial bodies, and radiant effects"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      8,
+      5
+    ]
   }
 }
