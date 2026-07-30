@@ -37149,5 +37149,41 @@
       9,
       8
     ]
+  },
+  "sol_1710": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels await. The masked jester spins between twin crescents of fate, while the winged enchantress pirouettes through crystalline light. One speaks in thunder's ancient tongue, another bleeds with spectrum's tears. Fortune's crown gleams where chaos meets the night.",
+      "hint": "Look to the sky, the stage, and the spaces between luck and lightning"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a royal prize, a bolt from above, a shapeshifter's grin, a midnight beacon, a gemstone's gleam, and a magical glow. Find the fool, the striker, the watcher, the flyer, and two more among the stars.",
+      "hint": "Think of luck, speed, trickery, night, value, and wonder"
+    },
+    "answer": [
+      1,
+      5,
+      18,
+      3,
+      12,
+      21
+    ]
+  },
+  "emlo_676": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, a gem-like treasure that makes diamond hands bleed. Where lightning strikes and fire ignites, the joker dances under sparkling nights. What six symbols mark this memecoin's flight?",
+      "hint": "Think of a coin's journey to the moon with speed, value, and chaos mixed together."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, lightning strikes fast, gems shine bright, joker brings laughs, sparkles dazzle, and fire burns last. What six things describe a memecoin blast?",
+      "hint": "Look for: something that launches, something electric, something valuable, something funny, something shiny, and something hot."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      11,
+      9,
+      5
+    ]
   }
 }
