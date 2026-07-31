@@ -37329,5 +37329,41 @@
       9,
       18
     ]
+  },
+  "sol_1718": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six sentinels guard the threshold between chaos and grace. The winged trickster pirouettes beneath the crescent's gaze, while crystal fire erupts in silent thunder. A prism weeps its stolen light upon the stage of jesters, where destiny's dice have already fallen.",
+      "hint": "Look for the night watcher, the deceiver of forms, the frozen light, the violent breath, the laughing masks, and the cosmic messenger."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this verse: a night guardian shines above, a clever animal hides in shadows, crystal beauty gleams bright, angry weather strikes down, players laugh in costume, and a cosmic messenger arrives.",
+      "hint": "One flies at night, one is sly, one sparkles, one is dangerous, one performs, and one travels fast."
+    },
+    "answer": [
+      3,
+      13,
+      20,
+      5,
+      18,
+      1
+    ]
+  },
+  "emlo_679": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins with electric speed, through celestial gates where riches breed. Precious stones ignite the sky, as wings of transformation flutter by. Where luck strikes like a bolt so bright, a flower blooms in rainbow light.",
+      "hint": "Think of a memecoin's journey: randomness, cosmic dreams, wealth, change, fortune, and natural beauty combined."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of moon dreams and fortune: a spinning game, electric luck, precious gems, butterfly changes, rainbow beauty, and a blooming surprise.",
+      "hint": "One relates to chance, one to power, one to wealth, one to transformation, one to spectrum, and one to nature."
+    },
+    "answer": [
+      11,
+      4,
+      2,
+      8,
+      9,
+      14
+    ]
   }
 }
