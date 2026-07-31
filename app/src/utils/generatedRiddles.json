@@ -37581,5 +37581,23 @@
       19,
       17
     ]
+  },
+  "sol_1728": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, seven-pointed destiny meets the trickster's gleam. The winged metamorphosis ascends through prism's song, while gems crystallize in the jester's eternal grin. Seek the bolt that crowns the night, and the mask of revelry where chaos performs. Fortune spirals where laughter ignites the void.",
+      "hint": "Look for the cards of chance, the stones of light, and the night's electric touch."
+    },
+    "easyRiddle": {
+      "text": "I contain lightning's strike, a jester's laugh, a butterfly's flight, a gem's sparkle, the moon's glow, and fortune's spinning wheel. What am I?",
+      "hint": "Think of games of chance and magical prizes hidden in the night sky."
+    },
+    "answer": [
+      5,
+      12,
+      8,
+      2,
+      4,
+      11
+    ]
   }
 }
