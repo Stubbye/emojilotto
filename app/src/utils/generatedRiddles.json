@@ -37527,5 +37527,23 @@
       14,
       4
     ]
+  },
+  "sol_1726": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes beneath the celestial eye, a winged metamorphosis dances through prismatic veils. The gemstone whispers of luck's eternal flame, while thunder's serpent coils through the performer's stage, and fortune's bullseye gleams with cosmic promise.",
+      "hint": "Six symbols intertwine: a shapeshifter's transformation, a court fool's wisdom, a dragon's domain, electricity's path, precious clarity, and destiny's mark."
+    },
+    "easyRiddle": {
+      "text": "A jester laughs at the circus tent. A butterfly floats through rainbow light. A gem sparkles while lightning strikes a dragon. A target waits for fortune's touch.",
+      "hint": "Look for: joker, circus, butterfly, rainbow, gem, lightning, dragon, target. Pick exactly 6."
+    },
+    "answer": [
+      19,
+      17,
+      8,
+      5,
+      2,
+      12
+    ]
   }
 }
