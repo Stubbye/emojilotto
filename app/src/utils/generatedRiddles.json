@@ -37455,5 +37455,23 @@
       19,
       10
     ]
+  },
+  "sol_1723": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six sentinels of fate convene. The winged dancer spirals through celestial fire, while gems crystallize in twilight's spectrum. A masked trickster conducts the symphony of chance, and thunder crowns the prism of dreams.",
+      "hint": "Look for: a marksman's symbol, a nocturnal guardian, a pyroclastic force, a jester's visage, a luminous stone, and the spectral bow between storm and serenity."
+    },
+    "easyRiddle": {
+      "text": "Six magical things bring luck: something you aim at, a night sky orb, something that sparkles bright, a wild trickster's grin, heat and light, and colors after rain.",
+      "hint": "Target, Moon, Crystal, Joker, Fire, Rainbow"
+    },
+    "answer": [
+      0,
+      3,
+      20,
+      18,
+      6,
+      9
+    ]
   }
 }
