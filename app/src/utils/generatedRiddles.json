@@ -37545,5 +37545,41 @@
       2,
       12
     ]
+  },
+  "sol_1727": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver, six sentinels guard the threshold between worlds. The winged dancer spirals through prisms of fire, while the scaled guardian watches from depths of amethyst dreams. A jester's gamble echoes where petals bloom eternal, and the fox's cunning whispers beneath storms of radiance.",
+      "hint": "Seek the convergence of destiny, chaos, nature, and the realm unseen. One creature soars with delicate grace, another commands with ancient power."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await: a target's bullseye, a gem that sparkles bright, the moon that guides the night, lightning's fierce strike, a butterfly's graceful flight, and fire's dancing light.",
+      "hint": "Think of precision, treasure, sky, nature, electricity, and heat."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      8,
+      20
+    ]
+  },
+  "emlo_683": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's bright light. My gems ignite like lightning strikes, while dancing butterflies take flight. On waves of fire and crystal dreams, I'm where the joker's laughter gleams.",
+      "hint": "Think of a memecoin's journey: explosive growth, precious value, mystical charm, and the wild ride to the moon."
+    },
+    "easyRiddle": {
+      "text": "Boom to the 🌙, bright as a ⚡, shiny like a 💎, pretty as a 🦋, lucky as a 🍀, and wild as a 🃏",
+      "hint": "These six symbols represent the ultimate memecoin adventure and fortune."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      8,
+      19,
+      17
+    ]
   }
 }
