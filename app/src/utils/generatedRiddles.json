@@ -37437,5 +37437,23 @@
       21,
       8
     ]
+  },
+  "emlo_681": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial dreams, where fortune strikes like cosmic beams. The four-leaf charm fuels rocket's flight, while gems ignite with purple light. What six symbols predict the memecoin's might?",
+      "hint": "Think of luck, space, wealth, electricity, and royalty combined"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes to the moon with lightning speed. Gems sparkle bright for the greedy deed. A clover brings luck to this memecoin spree. Which six emojis do you see?",
+      "hint": "Look for: a vehicle, a destination, a gem, electricity, luck, and sparkles"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      19,
+      10
+    ]
   }
 }
