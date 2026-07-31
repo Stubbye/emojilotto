@@ -37509,5 +37509,23 @@
       10,
       21
     ]
+  },
+  "sol_1725": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, six tokens dance in shadows deep. The jester's twin gleams beside the serpent's lair, while petals kiss the weaver's thread. Lightning splits the prism's heart, and fortune's wheel spins where chaos reigns. Seek the mark where all converge in twilight's embrace.",
+      "hint": "One brings luck, one brings speed, one brings light, one brings the performer's mask, one brings nature's grace, one brings the sky's fury."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key: a mark to hit, a cosmic drake, a sparkling stone, a fool's grin, a bloom of spring, and heaven's flash. Which six dance together in this lottery's song?",
+      "hint": "Think of luck (target), magic (dragon), wealth (gem), trickery (joker), nature (flower), and power (lightning)."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      14,
+      4
+    ]
   }
 }
