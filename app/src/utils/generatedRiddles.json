@@ -37383,5 +37383,41 @@
       4,
       13
     ]
+  },
+  "sol_1720": {
+    "hardRiddle": {
+      "text": "Through celestial fire, the winged dancer spirals where fortune's bolt strikes true. Where crystalline dreams shatter against chaos's roll, the masked jester grins eternal. Six guardians of fate's narrow passage: one pierces the veil of night, one blazes with stolen thunder, one transforms in gossamer flight, one laughs in fragmented mirrors, one glimmers in geometric truth, one rolls between the worlds of chance.",
+      "hint": "Seek the nocturnal, the electric, the metamorphic, the duplicitous, the angular, and the unpredictable."
+    },
+    "easyRiddle": {
+      "text": "Find the moon that glows in darkness, the lightning that cracks the sky, the butterfly that dances free, the joker who laughs at fate, the crystal that catches light, and the dice that determine all.",
+      "hint": "One watches from above, one strikes from above, one flies through air, one wears a grin, one is solid beauty, one decides your luck."
+    },
+    "answer": [
+      3,
+      4,
+      8,
+      19,
+      20,
+      11
+    ]
+  },
+  "emlo_680": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untold, my value sparkles like gems of gold. When lightning strikes and fire ignites, I soar through rainbow-painted nights. Lucky dice roll in my favor, while my dragon strength helps traders savor. What am I in this crypto game?",
+      "hint": "Think of a memecoin's journey to success"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ✨ brings luck, 🔥 shows power. What else makes a memecoin flower? Add 💎 for wealth and ⚡ for speed. These six emojis are all you need!",
+      "hint": "Look for the rocket, moon, sparkles, fire, gem, and lightning"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      9,
+      11
+    ]
   }
 }
