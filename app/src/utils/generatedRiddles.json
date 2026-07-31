@@ -37419,5 +37419,23 @@
       9,
       11
     ]
+  },
+  "sol_1721": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and crystalline dreams ascend through flame's dark space. The jester's grin guards treasures bright, while scaled majesty dances with celestial light. Seven-pointed sentinels pierce the veil, and winged metamorphosis follows fortune's trail.",
+      "hint": "Consider the duality of chaos and order, the hunter and the hunted, the earthly and divine."
+    },
+    "easyRiddle": {
+      "text": "I am the marksman's destiny, the frozen brilliance, the inferno's kiss, the crowned sovereign of scales, the heaven's beacon, and the transformed seeker of blooms.",
+      "hint": "Think of targets, gems, fire, dragons, stars, and butterflies."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      13,
+      21,
+      8
+    ]
   }
 }
