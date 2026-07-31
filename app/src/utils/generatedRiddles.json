@@ -37365,5 +37365,23 @@
       9,
       14
     ]
+  },
+  "sol_1719": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin reflects in crystalline depths, six vessels of fate align: the archer's mark meets the serpent's realm, while the nocturnal orb witnesses the jester's masquerade and the prism's eternal song",
+      "hint": "Think of astronomy, chaos, deception, and the mythical"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny: a target for aims, a rocket for dreams, a gem for treasure, a moon for night, lightning for chaos, and a dragon for power",
+      "hint": "One for each direction: aim, ascend, shine, rest, strike, and reign"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
