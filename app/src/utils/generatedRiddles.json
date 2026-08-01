@@ -37617,5 +37617,41 @@
       9,
       8
     ]
+  },
+  "sol_1730": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver, and chaos dances with brilliance eternal. The jester's twin flame ignites the stage of infinite jest, while the ancient wyrm guards the prismatic throne. Six portals converge where luck is crystallized and fate pirouettes through the veil of wonder.",
+      "hint": "Consider the duality of chance and performance, the marriage of sky and earth, and where the trickster's game intersects with the dragon's ancient wisdom."
+    },
+    "easyRiddle": {
+      "text": "A lucky target glows with gem-like fire beneath the moon. Lightning and a dragon dance together in the sparkles of fortune.",
+      "hint": "Look for symbols of aim, value, element, sky, power, and magic."
+    },
+    "answer": [
+      0,
+      2,
+      6,
+      3,
+      13,
+      10
+    ]
+  },
+  "emlo_684": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with digital fire, and promise fortune in a circus of chance. My gem-like value multiplies under lightning strikes, while butterflies carry my rainbow-colored destiny. What am I?",
+      "hint": "Think of a memecoin's journey: it starts, it shines, it gambles, it transforms, it dazzles, and it dreams big."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🚀 speed, our 💎 sparkles bright with ⚡ energy, while 🦋 dance in 🌈 wonder.",
+      "hint": "A memecoin's essential story in six symbols of hope and chaos."
+    },
+    "answer": [
+      1,
+      2,
+      20,
+      5,
+      8,
+      9
+    ]
   }
 }
