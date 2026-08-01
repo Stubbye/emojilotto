@@ -37653,5 +37653,41 @@
       8,
       9
     ]
+  },
+  "sol_1732": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a jeweled serpent coils through celestial maze. Thunder's kiss ignites the prism's dance, while winged metamorphosis claims its trance. In this symphony of fate's grand design, six threads of destiny intertwine.",
+      "hint": "Celestial bodies, precious stones, and transformative forces converge in the lottery's heart."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark, a scaled beast of old, a shimmering stone worth more than gold. The moon above, lightning's bright crack, and a butterfly that won't turn back.",
+      "hint": "Look for: aim, treasure, night sky, electricity, wings, and scales."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      14
+    ]
+  },
+  "emlo_685": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem of fortune that makes hodlers bleed. A dragon's fire lights my way, while sparkles dance at the break of day. Jokers laugh as I moon-bound race, with lightning strikes across my face.",
+      "hint": "Think of a memecoin's journey to the moon and the chaos that follows."
+    },
+    "easyRiddle": {
+      "text": "Blast off! Shine bright! Strike fast! Dance wild! Laugh loud! Glow hot!",
+      "hint": "These are the vibes of every memecoin pump."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      19
+    ]
   }
 }
