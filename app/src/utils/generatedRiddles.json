@@ -37599,5 +37599,23 @@
       4,
       11
     ]
+  },
+  "sol_1729": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and nature's metamorphosis meets the jester's veil—seek the archer's mark, the ascending messenger, and the crystalline tears of starlight that shimmer between chaos and comedy, where wings forget their prison and destiny spins eternal.",
+      "hint": "Consider ascension, fortune, transformation, luck, the divine, and deception."
+    },
+    "easyRiddle": {
+      "text": "I point the way to wishes, I carry dreams skyward, I sparkle like frozen magic, I'm fate's own fool, I wear a thousand colors, and I dance on invisible wings. What six treasures hide within the lottery's heart?",
+      "hint": "Think of targets, rockets, crystals, jesters, rainbows, and butterflies."
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      11,
+      9,
+      8
+    ]
   }
 }
