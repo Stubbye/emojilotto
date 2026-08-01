@@ -37797,5 +37797,41 @@
       21,
       18
     ]
+  },
+  "sol_1739": {
+    "hardRiddle": {
+      "text": "Where celestial fires dance upon the crown of night, a prismatic serpent coils through fortune's flight. The jester's mask grins beside the archer's aim, while earthbound petals waltz in nature's frame. Six keepers of destiny spin where luck is cast, their secrets bound where future meets the past.",
+      "hint": "Consider what shines in darkness, what deceives with laughter, what blooms in defiance, what strikes with purpose, what guards the threshold between chaos and fate."
+    },
+    "easyRiddle": {
+      "text": "I contain one ruler of the sky at night, one bringer of sudden bright light, one tool of games and chance, one beautiful flower's dance, one joker who plays the part, and one archer's target art. What six treasures complete the lottery's heart?",
+      "hint": "Think of: night sky, weather, games, nature, entertainment, and sports."
+    },
+    "answer": [
+      3,
+      5,
+      11,
+      14,
+      18,
+      0
+    ]
+  },
+  "emlo_687": {
+    "hardRiddle": {
+      "text": "I launch to distant heights with cosmic dreams, my sparkles ignite the fire of fortune. A joker's luck meets the fox's cunning, where lightning strikes the gem of possibilities. What six symbols mark the path to moon-bound riches?",
+      "hint": "Think of a memecoin journey: propulsion, celestial bodies, luck, trickery, power, and treasure."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, lightning strikes fast, a joker brings laughs, a fox is clever, gems shine bright, and the moon calls. Which six emojis complete this silly crypto story?",
+      "hint": "Look for: something that flies, something electrical, something shiny, something tricky, something lucky, and the night sky."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      13,
+      4,
+      11
+    ]
   }
 }
