@@ -37743,5 +37743,23 @@
       11,
       19
     ]
+  },
+  "sol_1736": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six mystic sentinels guard the threshold between chaos and destiny. The archer's mark meets the messenger's velocity, while gems crystallize destiny's memory. In the trickster's grin and the dragon's ancient wisdom, the performer's stage awakens. Where lightning's kiss births the rainbow's covenant, the butterfly's metamorphosis completes the sacred cycle.",
+      "hint": "Seek the symbols of luck, speed, wealth, deception, legend, and transformation intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six prizes hide in plain sight: one flies with messages, one sparkles with value, one tricks the eye, one breathes ancient fire, one transforms in nature's dance, and one splits the sky with electricity and color.",
+      "hint": "Think of speed, riches, magic, dragons, butterflies, and storms."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      13,
+      8,
+      9
+    ]
   }
 }
