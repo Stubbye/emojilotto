@@ -37869,5 +37869,23 @@
       4,
       5
     ]
+  },
+  "sol_1742": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial throne, a gemstone whispers secrets to the luminous wanderer. The tempest's tongue dances with ancient flame, while the winged metamorphosis pirouettes through nature's prismatic veil. In this constellation of chaos and beauty, six destinies converge—one strikes true, one ascends beyond, one gleams eternal, one rules the darkness, one blazes with fury, one transforms in splendor.",
+      "hint": "Seek the symbols of fate, illumination, wealth, majesty, destruction, and transcendence intertwined."
+    },
+    "easyRiddle": {
+      "text": "I am six: the marksman's circle, the stone that shines, the bolt from above, the kiss of heat, the guardian of night, and the dancer of dreams. Which six am I?",
+      "hint": "Think of precision, brilliance, electricity, warmth, darkness, and grace."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      5,
+      20,
+      13
+    ]
   }
 }
