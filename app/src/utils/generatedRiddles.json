@@ -37725,5 +37725,23 @@
       10,
       18
     ]
+  },
+  "sol_1735": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in destiny's game. The gem of night ascends through electric veils, while winged metamorphosis trails stardust tales. Thunder's kiss ignites the crystal crown, as luck's jester spins the wheel around.",
+      "hint": "Consider the journey from earth to sky, transformation through fire, and games of chance intertwined."
+    },
+    "easyRiddle": {
+      "text": "Find the target where lightning strikes bright, the gem that shines in the moon's soft light, the butterfly's dance through sparkles and fire, the joker's treasure that fortune desire.",
+      "hint": "Think of a shooting game in the night sky, precious stones, magical transformations, and cards of luck."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      11,
+      19
+    ]
   }
 }
