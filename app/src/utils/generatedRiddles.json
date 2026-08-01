@@ -37689,5 +37689,23 @@
       9,
       19
     ]
+  },
+  "sol_1733": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the serpent's seal. Six tokens of destiny: the archer's dream pierces void, brilliant fragments catch starlight's void, the winged dancer courts the arc of storms, while masked revelry swirls in chaos born.",
+      "hint": "One shoots upward, one glitters below, one grins with mischief, one spirals through shows, one transforms in air, one strikes with might."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: a pointed aim, a cosmic shine, a trickster's game, a dragon's flame, a creature that flies, and nature's shine.",
+      "hint": "Think of targets, gems, jokers, fire, butterflies, and flowers."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      5,
+      8,
+      14
+    ]
   }
 }
