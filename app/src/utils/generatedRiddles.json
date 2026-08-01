@@ -37833,5 +37833,23 @@
       4,
       11
     ]
+  },
+  "sol_1740": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and twin serpents dance through celestial space. The jester's crown crowns destiny's stage, while spectrum's arc spans fate's final page. Lightning splits the gemstone's heart, as wings of metamorphosis chart a new start.",
+      "hint": "Seek the intersection of games, sky, chaos, illusion, transformation, and precious light."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within the cosmic jest: a target of chance, a rocket's quest, a gem that gleams, the moon's soft light, a joker's grin, and butterflies in flight.",
+      "hint": "One aims at luck, one soars above, one sparkles bright, one glows, one laughs, one flutters."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      8
+    ]
   }
 }
