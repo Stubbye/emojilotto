@@ -37761,5 +37761,23 @@
       8,
       9
     ]
+  },
+  "sol_1737": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial fire, six guardians dance in twilight's desire. The jester's grin beneath Luna's glow, while scaled majesty makes destinies flow. A winged muse through prismatic streams, and nature's bloom echoes forgotten dreams.",
+      "hint": "Seek the trickster, the dragon, the night's beacon, the flame of destiny, the transformed soul, and the garden's whisper."
+    },
+    "easyRiddle": {
+      "text": "Find the joker laughing, the dragon breathing, the moon watching, the lightning striking, the butterfly flying, and the flower growing.",
+      "hint": "One is a person, one is a beast, one is in the sky, one is energy, one has wings, one grows in gardens."
+    },
+    "answer": [
+      19,
+      14,
+      3,
+      5,
+      8,
+      15
+    ]
   }
 }
