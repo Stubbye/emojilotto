@@ -37851,5 +37851,23 @@
       11,
       8
     ]
+  },
+  "sol_1741": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's cold kiss, six dancers waltz through shadow's abyss. The jester's twin flame ignites the night, while scaled wisdom guards what mortals seek in flight. A bloom eternal and the fortune's gleam—are these the threads that weave the winning dream?",
+      "hint": "Consider what celestial bodies witness, what consumes with passion, what performs with jest, and what symbolizes transformation."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures hidden in the cosmic play: a target's center, a rocket's fiery way, a gem that sparkles, the moon's pale glow, lightning's flash, and fire's show. What six shall crown the lottery's display?",
+      "hint": "Think of elements that suggest luck, speed, wealth, night, power, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
