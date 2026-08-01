@@ -37779,5 +37779,23 @@
       8,
       15
     ]
+  },
+  "sol_1738": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial jewel, and the serpent dances with the winged sprite. The jester's grin ignites the tempest's wrath, while nature's bloom shimmers in prismatic light. Six tokens hide the path to destiny.",
+      "hint": "One guides direction, one holds cosmic secrets, one judges worth, one wields chaos, one transforms, one grows eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow, the dragon's distant companion, the flame's fury, the butterfly's grace, the star's sparkle, and the prize itself.",
+      "hint": "One points, one flies, one burns, one floats, one glows, one crowns the victor."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      8,
+      21,
+      18
+    ]
   }
 }
