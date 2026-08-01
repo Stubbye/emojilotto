@@ -37887,5 +37887,41 @@
       20,
       13
     ]
+  },
+  "sol_1743": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances with celestial flame, six whispers intertwine—the archer's mark embraces the winged metamorphosis, while crystalline depths kiss the storm's electric tongue. Between the performer's threshold and the lunar sentinel's gaze, primal scales coil beneath the spectrum's sworn oath.",
+      "hint": "One summons luck, one transforms, one sings of light, one rules the night, one breathes chaos, one guards the veil."
+    },
+    "easyRiddle": {
+      "text": "I am the target where dreams align, the butterfly that breaks its chrysalis, the lightning that splits the sky, the moon that watches over night, the dragon of ancient might, and the rainbow's colored sign.",
+      "hint": "Six symbols: one you aim for, one that flies, one that strikes, one that glows at night, one that's fierce, one that's bright."
+    },
+    "answer": [
+      0,
+      8,
+      5,
+      3,
+      13,
+      9
+    ]
+  },
+  "emlo_688": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkling brilliance guides my path through chaos and fortune. A jester's luck dances with my flame, while nature's delicate messenger brings transformation to the treasure hunt.",
+      "hint": "Think of a memecoin's journey: propulsion, destination, volatility, luck, and magical transformation"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⭐ shines bright, ⚡ strikes fast, 🔥 burns hot, 🎪 entertains, 🦋 transforms",
+      "hint": "A memecoin adventure needs speed, success, power, energy, fun, and change"
+    },
+    "answer": [
+      1,
+      21,
+      4,
+      5,
+      6,
+      8
+    ]
   }
 }
