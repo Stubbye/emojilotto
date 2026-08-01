@@ -37707,5 +37707,23 @@
       8,
       14
     ]
+  },
+  "sol_1734": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and gemstone's lustrous heart ignites the tempest's wrath. The winged dancer spirals through luminescence divine, while the amphitheater's ancient masks echo in chromatic waves. Six secrets intertwine where destiny's conductor orchestrates chaos and wonder in eternal waltz.",
+      "hint": "One guides aims, one crowns the night, one gleams with wealth, one strikes with might, one floats on wings, one hides true face."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I light the sky, I sparkle bright, I help you fly. One spins with luck, one wears disguise, and colored arcs paint paradise. Find these six and fortune's yours to claim.",
+      "hint": "Look for: aim-bringer, night-jewel, brilliant-stone, sky-dancer, fortune-spinner, and mystery-wearer."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      7,
+      10,
+      18
+    ]
   }
 }
