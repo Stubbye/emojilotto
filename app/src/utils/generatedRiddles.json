@@ -38139,5 +38139,23 @@
       5,
       8
     ]
+  },
+  "sol_1753": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets ancient flame, through prism's dance a jester claims. Six paths converge in fortune's game: a winged trickster, gem's true name, and that which crowns the victor's fame.",
+      "hint": "Think of celestial aim, burning passion, refracted light, magical mischief, precious stones, and triumph's symbol."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the fire, the rainbow's gift and gem so dire, add the joker's wild desire, and the trophy that climbs higher.",
+      "hint": "Aim, burn, colors, sparkle, laughter, victory."
+    },
+    "answer": [
+      0,
+      5,
+      9,
+      1,
+      2,
+      18
+    ]
   }
 }
