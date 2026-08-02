@@ -38247,5 +38247,41 @@
       8,
       16
     ]
+  },
+  "sol_1758": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces through celestial silence, a scaled serpent coils 'round gemstone's gleam. Twin flames dance upon the jester's grin, while winged metamorphosis ascends through prismatic veils of fortune's breath.",
+      "hint": "Seek the marksman's aim, the dragon's hoard, the fool's fire, the butterfly's transformation, and two paths to destiny's light."
+    },
+    "easyRiddle": {
+      "text": "One hunts with precision, one guards treasure deep. A shapeshifter rises, a joker laughs, flames flicker bright, and wings carry dreams through colors bright.",
+      "hint": "Count: aim, scale, wings, smile, heat, and spectrum."
+    },
+    "answer": [
+      0,
+      3,
+      7,
+      11,
+      5,
+      9
+    ]
+  },
+  "emlo_693": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar sphere, where crystalline fortunes sparkle with electric might. What six celestial tokens ignite the memecoin fire?",
+      "hint": "Think of luck, trajectory, value, destination, energy, and intensity in the crypto realm."
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! Pick the lucky jester, the rocket ship, the shiny gem, the glowing moon, the lightning bolt, and the burning flames of profit!",
+      "hint": "One laughs, one flies, one shines, one glows at night, one zaps, one burns hot."
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
