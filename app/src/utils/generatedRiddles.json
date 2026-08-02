@@ -37923,5 +37923,23 @@
       6,
       8
     ]
+  },
+  "sol_1744": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers of fate align: the archer's mark pierces veils between worlds, while swift wings of metamorphosis chase the jester's grin through crystalline depths. Lightning's twin sister births prismatic bridges, and the scaled guardian of ancient dreams coils beneath a silver crescent watching over all.",
+      "hint": "One seeks, one transforms, one laughs, one illuminates, one dreams, and one watches from above."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: aim true at your goal, let wings carry you far, find laughter in the unexpected, catch sparkles of fortune, hear the roar of myths, and gaze upward at night's guardian.",
+      "hint": "Target, Butterfly, Joker, Sparkles, Dragon, Moon"
+    },
+    "answer": [
+      0,
+      8,
+      20,
+      10,
+      14,
+      3
+    ]
   }
 }
