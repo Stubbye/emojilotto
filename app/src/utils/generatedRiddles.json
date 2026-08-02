@@ -38211,5 +38211,23 @@
       20,
       11
     ]
+  },
+  "sol_1756": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a winged metamorphosis dances through prismatic arcs. Thunder's voice echoes as celestial fire meets the jester's gaze, while gemstones whisper secrets in the silent void above. Six threads converge where chaos becomes destiny, and the masked revelation awaits those who dare to seek.",
+      "hint": "Look for the intersection of luck, transformation, and cosmic judgment. One brings aim, one brings change, one brings spectrum, one brings storm, one brings laughter, and one brings the glow of distant wanderers."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one that shoots upward with dreams, one that sparkles with beauty, one that rules the night sky, one that dances with colors, one that strikes with power, and one that brings laughter and trickery.",
+      "hint": "Think of: upward journey, precious stone, night guardian, rainbow, electricity, and entertainment."
+    },
+    "answer": [
+      1,
+      5,
+      21,
+      9,
+      4,
+      11
+    ]
   }
 }
