@@ -38121,5 +38121,23 @@
       5,
       21
     ]
+  },
+  "sol_1752": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone catches starlight's chase. Thunder splits the silence of the night, while sacred fire dances in its light. The butterfly of fate takes mystic flight, and fortune's token gleams with crystalline sight.",
+      "hint": "Look for the intersection of chance, celestial bodies, and transformation's grace."
+    },
+    "easyRiddle": {
+      "text": "Find the target's center, the gem that shines, the star above, the lightning that defines, the fire that burns eternal, and the butterfly that flies—these six hold the lottery's prize.",
+      "hint": "One marks aim, one glitters, one watches from above, one strikes fast, one consumes, and one transforms."
+    },
+    "answer": [
+      0,
+      2,
+      21,
+      4,
+      5,
+      8
+    ]
   }
 }
