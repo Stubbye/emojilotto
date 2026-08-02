@@ -37995,5 +37995,41 @@
       8,
       10
     ]
+  },
+  "sol_1747": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the scaled guardian's zeal. A prism of chance splits the night's veil, while fortune's bloom and fortune's spark tell the tale. Six destinies spiral through the joker's domain—seek the luminous, the cunning, the arcane.",
+      "hint": "Look to the sky's jewels, the trickster's throne, and where luck crystallizes in nature's own."
+    },
+    "easyRiddle": {
+      "text": "I need six friends for luck: one rules the stars above, one is clever and sly, one wears many faces, one glitters with chance, one blooms eternal, and one crackles with power.",
+      "hint": "Think of: a night guardian, a clever creature, a mystical being, games of chance, nature's gift, and energy unleashed."
+    },
+    "answer": [
+      21,
+      13,
+      19,
+      11,
+      14,
+      5
+    ]
+  },
+  "emlo_690": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like treasure that makes holders bleed. Through fire and lightning I spread my flame, a sparkly dragon with no real name. What am I?",
+      "hint": "Think of a volatile digital asset that promises riches but often burns wallets"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes fast, fire burns hot, dragon roars loud, and sparkles dance. Together they make a memecoin's dream. What emojis complete this scene?",
+      "hint": "Count the six emojis mentioned in the riddle"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      10
+    ]
   }
 }
