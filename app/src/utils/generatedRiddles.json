@@ -37977,5 +37977,23 @@
       23,
       20
     ]
+  },
+  "sol_1746": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, and twin serpents dance through crystalline descent. The jester's grin holds chaos bright, while nature's painted wings embrace the night. In spectral bands and fleeting sparks, the answer dwells in lottery's dark marks.",
+      "hint": "Seek the hunter's aim, the sky's deep throne, the precious stone split in two, the painted fool, the winged grace, and light made solid."
+    },
+    "easyRiddle": {
+      "text": "I contain six secrets: a target to strike, a gem so bright, the moon above, a joker's jest, a butterfly in flight, and sparkles that ignite. What am I?",
+      "hint": "Think of objects you'd find on a lottery ticket's six lucky symbols."
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      11,
+      8,
+      10
+    ]
   }
 }
