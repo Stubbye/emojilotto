@@ -38049,5 +38049,23 @@
       4,
       19
     ]
+  },
+  "sol_1749": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthly desire, six whispers converge in destiny's fire. The archer's mark meets the void's gentle glow, while fortune's jester pirouettes through the show. Lightning strikes the crystalline heart, as winged metamorphosis sets fate apart. In this cosmic carnival of chance, the scales of victory advance.",
+      "hint": "Consider what draws seekers to fortune, what transforms, what sparkles, what performs, what illuminates, and what marks the way."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: One marks your aim, one lights the night, one holds brilliance, one brings transformation, one strikes with power, and one entertains with delight.",
+      "hint": "Think of targets, celestial bodies, precious things, flying creatures, electricity, and entertainers."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      5,
+      19
+    ]
   }
 }
