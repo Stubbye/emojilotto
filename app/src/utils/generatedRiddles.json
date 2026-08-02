@@ -38103,5 +38103,23 @@
       9,
       21
     ]
+  },
+  "sol_1751": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the serpent's zeal. Six spirits intertwine: the archer's distant mark, the beast that scales the heavens dark, the jester's painted face of mirth, the four-leafed charm of earthly birth, the dancing blaze of primal might, and the gem that captures starless night.",
+      "hint": "One guides arrows, one breathes smoke, one deceives, one blessed, one consumes, one reflects light eternal."
+    },
+    "easyRiddle": {
+      "text": "I am six secrets: a target to aim, a dragon's domain, a joker at play, a clover for luck, fire burning bright, and a crystal's light. What are we together?",
+      "hint": "Look for: something you shoot at, something magical and winged, something foolish, something fortunate, something hot, and something precious."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      20,
+      5,
+      21
+    ]
   }
 }
