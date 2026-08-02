@@ -38157,5 +38157,41 @@
       2,
       18
     ]
+  },
+  "sol_1754": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in chaos's game. The gem that trembles in night's embrace, a dragon's fire lights the race. The butterfly ascends through crystalline waves, while masked performers waltz in fortune's caves. Find the spark that shatters fate's design—where luck and danger intertwine.",
+      "hint": "Think of what rises, what burns, what entertains, and what transforms."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in shadow's keep: a archer's mark, a dragon deep, a jewel so bright, a flame so bold, a jester's grin, and wings of gold.",
+      "hint": "One flies and changes, one roars and burns, one laughs and tricks, one always returns."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      13,
+      8,
+      19
+    ]
+  },
+  "emlo_692": {
+    "hardRiddle": {
+      "text": "To the moon we ride with electric speed, through crystal fire we plant our seed. A jester's luck with dragon's might, beneath the stars we claim our right.",
+      "hint": "Think of a memecoin's journey: transport, obstacles, fortune, power, and celestial destination."
+    },
+    "easyRiddle": {
+      "text": "Fast travel, shiny stones, lucky chance, powerful strength, nighttime glow, and fortune's smile guide us to wealth.",
+      "hint": "One gets you there, one sparkles, one brings luck, one gives power, one shines above, one rewards winners."
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      13,
+      21,
+      17
+    ]
   }
 }
