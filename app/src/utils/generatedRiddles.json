@@ -38067,5 +38067,41 @@
       5,
       19
     ]
+  },
+  "sol_1750": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six tokens dance in fortune's game. The jester's grin guards jeweled night, while scaled guardian takes cryptic flight. Between the masks of joy and sorrow, luck's iridescent arc borrows. What sings in silence, strikes in pride, and glimmers where all secrets hide?",
+      "hint": "One dwells in sky, one breathes in fire, one deceives the eye, one guards desire."
+    },
+    "easyRiddle": {
+      "text": "Find the magic six: A night watcher high, a yellow spark that makes you fly, a precious stone that catches light, a trickster's smile hidden in sight, a colorful bridge after the rain, and brilliance that breaks the chain.",
+      "hint": "Look to the heavens, the jest, the gem, the storm, the hope, and the gleam."
+    },
+    "answer": [
+      3,
+      5,
+      2,
+      19,
+      9,
+      10
+    ]
+  },
+  "emlo_691": {
+    "hardRiddle": {
+      "text": "I'm a memecoin rocket fueled by fire and lightning, reaching for the moon with gem-like sparkles. What six symbols guide my journey to the stars?",
+      "hint": "Think of a coin's path to success: launch vehicle, energy, destination, treasure, shine, and celestial goal"
+    },
+    "easyRiddle": {
+      "text": "Blast off with fire! ⚡ reaches the 💎 under the 🌙, all sparkles and 🚀 power!",
+      "hint": "A memecoin needs speed, power, wealth, night magic, and shiny rewards"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      9,
+      21
+    ]
   }
 }
