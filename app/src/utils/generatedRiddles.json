@@ -38229,5 +38229,23 @@
       4,
       11
     ]
+  },
+  "sol_1757": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers of fate converge in twilight's domain. The jester's grin reflects in gemstone's gleam, whilst winged metamorphosis spirals through a musician's dream. Thunder's kiss ignites the performer's stage, and crystalline whispers turn destiny's page.",
+      "hint": "One brings laughter to chaos, one sparkles with truth, one sings electric songs, one transforms all youth."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this poetic game: a target waits, a joker grins his name. A gem shines bright, a dragon breathes its fire. A butterfly floats high, and guitars lift hearts higher.",
+      "hint": "Count the magical six: aim, laugh, shine, burn, fly, and strum."
+    },
+    "answer": [
+      0,
+      7,
+      2,
+      13,
+      8,
+      16
+    ]
   }
 }
