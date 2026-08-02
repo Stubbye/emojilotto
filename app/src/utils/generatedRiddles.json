@@ -38193,5 +38193,23 @@
       21,
       17
     ]
+  },
+  "sol_1755": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers converge in shadow's appeal. The jester's masked grin guards what glimmers within—a dragon's ancient flame, the moon's silver twin. Thunder's twin pulse and crystalline deep, where the clever one treads through fortunes asleep. Seek the center where destinies spiral and blend, where beginning and end are lovers that transcend.",
+      "hint": "Look for symbols of chance, chaos, magic, and the night sky's eternal guardians."
+    },
+    "easyRiddle": {
+      "text": "Six magical things hide in this lottery's call: one breathes fire and flies, one lights up the ball. A jester laughs, the moon glows bright, lightning strikes with might, and crystals catch the light.",
+      "hint": "Think of dragons, jokers, moons, lightning, crystals, and something that spins."
+    },
+    "answer": [
+      13,
+      3,
+      19,
+      4,
+      20,
+      11
+    ]
   }
 }
