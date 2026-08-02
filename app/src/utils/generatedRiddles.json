@@ -37941,5 +37941,41 @@
       14,
       3
     ]
+  },
+  "sol_1745": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six whispers converge: the archer's ancient aim meets wings of metamorphosis, while gemstone radiance crowns the trickster's smile. Below, the scaled leviathan coils 'round fate's glittering wheel, and where rainbow's arc dissolves, lightning births its twin. Speak the order of: deception's mask, the six-faced oracle, the phoenix's fuel, the rainbow's bridge, the transformer's grace, and the worm that wears a crown.",
+      "hint": "A jester, a wheel of chance, fire, spectrum's arc, metamorphosis, and mystical royalty—all six dance in destiny's theatre."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one juggles in a tent, one rolls with numbered faces, one blazes hot and bright, one bends light into an arch, one flutters through gardens, and one breathes ancient wisdom. Find the entertainer, the gambler's cube, the inferno, the spectrum, the winged beauty, and the scaled sage.",
+      "hint": "Circus, dice, fire, rainbow, butterfly, and dragon—six magical things."
+    },
+    "answer": [
+      11,
+      7,
+      5,
+      9,
+      8,
+      14
+    ]
+  },
+  "emlo_689": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a gemstone prize awaits those who heed. When fortune strikes like a bolt from above, the joker dances with magical love. Rainbow trails mark the path to the moon, where crystal sparkles sing their tune.",
+      "hint": "Think of a memecoin's journey: fast movement, electricity, luck, magic, colors, and celestial destination"
+    },
+    "easyRiddle": {
+      "text": "A jester laughs, electricity crackles, gems shine bright. Rainbow colors paint the night. I zoom to the moon with crystal light. What am I?",
+      "hint": "The six symbols represent a crypto adventure: jester, lightning, gem, rainbow, moon, and crystal"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      9,
+      23,
+      20
+    ]
   }
 }
