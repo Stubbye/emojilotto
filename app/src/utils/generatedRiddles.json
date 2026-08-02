@@ -38031,5 +38031,23 @@
       13,
       10
     ]
+  },
+  "sol_1748": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of destiny converge. The archer's mark meets the vessel of dreams, while lightning splits the veil between realms. A gemstone catches starlight's eternal gaze, and the shapeshifter's cunning grins through masks of fate. What six harbingers of chance align when chaos and cosmos embrace?",
+      "hint": "One guides direction, one ascends, one gleams, one illuminates night, one crackles with power, one conceals truth"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck gather in shadow: a target for the bold, a rocket for the dreamers, a gem that sparkles, the moon that watches, lightning that strikes, and a joker's mysterious grin. Which six dance together in EmojiLotto's embrace?",
+      "hint": "Look for: aim, flight, brilliance, night, energy, and deception"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      19
+    ]
   }
 }
