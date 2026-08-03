@@ -38283,5 +38283,41 @@
       4,
       5
     ]
+  },
+  "sol_1760": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath the celestial eye, six harbingers convene in twilight's symphony. The winged metamorphosis meets the scaled leviathan's gleam, while percussion's voice drowns in chromatic seas. A trefoil's luck entwines with stellar radiance, and the archer's mark completes this cryptic dream.",
+      "hint": "One brings laughter, one brings luck, one brings wings, one brings fire and change, one sings, one shines eternal"
+    },
+    "easyRiddle": {
+      "text": "Find the jester's grin, the dragon's shine, the four-leafed friend, the guitar's song, the butterfly's dance, and the star's light dancing together.",
+      "hint": "A joker, a dragon, a clover, a guitar, a butterfly, and a star"
+    },
+    "answer": [
+      19,
+      14,
+      20,
+      16,
+      8,
+      21
+    ]
+  },
+  "emlo_694": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with value untouched, strike with electric fortune, burn bright as community passion, dance like a jester's fortune, and shimmer with magical luck. What six treasures define a memecoin's destiny?",
+      "hint": "Think of the journey: launch, precious gains, sudden strikes, heat, entertainment, and mystical chance"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go, with ⚡ speed, our 💎 will 🔥, the 🃏 makes us laugh, and ✨ guides our way!",
+      "hint": "Six emojis tell the memecoin moon mission story"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      12,
+      20
+    ]
   }
 }
