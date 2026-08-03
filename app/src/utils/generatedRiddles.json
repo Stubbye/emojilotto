@@ -38427,5 +38427,23 @@
       6,
       8
     ]
+  },
+  "sol_1766": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, a gemstone catches starfire's gleam. The dragon's ancient dance ignites the night, while butterflies drift through prismatic arcs of fate's own making. Six symbols converge in the silence between thunder and dawn.",
+      "hint": "Seek the marksman's goal, the precious stone, the winged serpent, the fluttering grace, the luminous sphere, and the arc of all colors."
+    },
+    "easyRiddle": {
+      "text": "A bullseye glimmers with a precious stone. A flying dragon breathes radiant heat. Butterflies waltz through rainbow light under the moon's watchful gaze. What six dance together in destiny's lottery?",
+      "hint": "Target, Gem, Dragon, Butterfly, Rainbow, Moon"
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      8,
+      9,
+      3
+    ]
   }
 }
