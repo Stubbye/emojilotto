@@ -38373,5 +38373,23 @@
       8,
       19
     ]
+  },
+  "sol_1763": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone gleams in twilight's tear. The phoenix dances with electric breath, while masked performers waltz with death. In gardens where the winged sprite plays, a prism births its seven rays.",
+      "hint": "Think of targets, precious stones, nighttime, electricity, theater, insects, and light itself."
+    },
+    "easyRiddle": {
+      "text": "I point to luck, I glow at night, I sparkle bright with pure delight. Lightning strikes near theater's door, while butterflies dance and colors pour.",
+      "hint": "Find the aim, the moon, the gem, the shock, the masks, and the butterfly."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      19,
+      8
+    ]
   }
 }
