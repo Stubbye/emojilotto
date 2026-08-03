@@ -38391,5 +38391,41 @@
       19,
       8
     ]
+  },
+  "sol_1764": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six sentinels guard the threshold between chaos and grace. The archer's mark gleams eternal while winged metamorphosis dances with stellar brilliance. Thunder's twin sister blazes beside the jester's masquerade, and prismatic light weaves through it all—fortune's symphony in crystalline silence.",
+      "hint": "Seek the junction of aim and chance, transformation and mischief, electricity and radiance."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this verse: the bullseye of dreams, the spark of mischief, the gem that shines, the guardian of night, the fury of storms, and the dancer with painted wings.",
+      "hint": "One targets, one tricks, one glows, one watches above, one strikes, one transforms."
+    },
+    "answer": [
+      0,
+      11,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_696": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, through fire and gems I lead. A rocket's path with sparkles bright, the dragon's treasure shines so light. Where circus joy meets crystal clear, the joker laughs without a fear.",
+      "hint": "Think of a memecoin's wild journey to the stars, combining chaos, wealth, and entertainment."
+    },
+    "easyRiddle": {
+      "text": "Blast off to treasure! Find the shiny stone, ride the lightning bolt, chase the glowing orb, dance with the fire, and spot the magical winged friend.",
+      "hint": "These symbols represent a crypto adventure: fast gains, precious values, energy, destiny, heat, and transformation."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      6,
+      8
+    ]
   }
 }
