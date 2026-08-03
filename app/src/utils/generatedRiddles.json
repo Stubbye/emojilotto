@@ -38337,5 +38337,41 @@
       4,
       9
     ]
+  },
+  "sol_1762": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's dance, five gemstones sing in chaos beneath the jester's gaze. The winged messenger pirouettes through prismatic veils while thunder crowns the feast of masks. Seek the six that ignite destiny's wheel.",
+      "hint": "One brings aim, one brings luck, one brings light, one brings laughter, one brings magic, one brings majesty."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the lucky number's home, the shining stone, the night's bright eye, the flash of power, and the game of chance.",
+      "hint": "Target, gem, star, lightning, dice, and one more precious thing that glimmers in the dark."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      20,
+      10,
+      21
+    ]
+  },
+  "emlo_695": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like treasure that makes holders bleed. With sparkles of fire and a butterfly's grace, I'm the joker's dragon in this meme-coin race.",
+      "hint": "Five words describe my essence: up, valuable, fast, beautiful, chaos"
+    },
+    "easyRiddle": {
+      "text": "Rockets go up, gems shine bright, lightning strikes fast, fire burns hot, butterflies fly free, and jokers laugh loud. What six things describe a memecoin's journey to glory?",
+      "hint": "Look for things that move, shine, or entertain"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      8,
+      19
+    ]
   }
 }
