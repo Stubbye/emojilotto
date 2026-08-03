@@ -38445,5 +38445,23 @@
       9,
       3
     ]
+  },
+  "sol_1767": {
+    "hardRiddle": {
+      "text": "Where celestial wanderers dance in fortune's flame, a jester's twin masks guard the primal beast. The archer's mark transcends through gemstone's gleam, while electricity crowns the night's supreme. Beneath wings that flutter through spectral light, the four-leafed sentinel whispers secrets of fate.",
+      "hint": "One guides the games, one rules the skies, one burns eternal, one brings surprise."
+    },
+    "easyRiddle": {
+      "text": "Find the trickster's double face, the dragon's ancient grace, the target's perfect place, the lightning's wild race, the gem that holds all space, and luck's most humble trace.",
+      "hint": "A fool, a beast, a mark, a spark, a stone, and something small that brings good luck alone."
+    },
+    "answer": [
+      2,
+      13,
+      0,
+      4,
+      20,
+      19
+    ]
   }
 }
