@@ -38319,5 +38319,23 @@
       12,
       20
     ]
+  },
+  "sol_1761": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six dancers waltz through fortune's gyre. The jester's twin in crystalline grace, while thunder's child adorns this place. Winged metamorphosis seeks the gem, and where all colors blend, their stem.",
+      "hint": "Think of chance, the cosmos, illusion, brilliance, transformation, and unity."
+    },
+    "easyRiddle": {
+      "text": "Find the target of destiny, the rocket of dreams, the gem of wealth, the moon of night, the lightning of chance, and the rainbow of hope.",
+      "hint": "Six symbols of luck and wonder guide your way."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
   }
 }
