@@ -38463,5 +38463,23 @@
       20,
       19
     ]
+  },
+  "emlo_698": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights where gems sparkle eternally. When lightning strikes fortune, my electric energy ignites the moon's glow. What constellation of 6 treasures fuels the memecoin revolution?",
+      "hint": "Think of the journey from Earth to riches, with magical elements that shine bright"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ powers the flight, 🌙 glows at night, ✨ sparkles with might, 🔥 burns with delight. Name these 6 emoji friends!",
+      "hint": "One launches, one glows, one powers, one shines, one sparkles, and one burns"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      9,
+      5
+    ]
   }
 }
