@@ -38571,5 +38571,23 @@
       8,
       9
     ]
+  },
+  "sol_1774": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets earthbound treasure, and fortune's jest spins in rhythmic measure. The winged dancer threads through storms of light, while crystal dreams cascade through the night. Seven-pointed sentinel watches all, as nature's arc completes the call.",
+      "hint": "Look for the symbols of chance, brilliance, metamorphosis, electricity, guidance, and the spectrum itself."
+    },
+    "easyRiddle": {
+      "text": "Find the sparkling jewel, the dancing butterfly, the bolt that tears the sky, the guardian star above, the bright stone of power, and the painted arc of hope.",
+      "hint": "One shines, one flies, one strikes, one guides, one gleams, and one bends light."
+    },
+    "answer": [
+      5,
+      8,
+      4,
+      21,
+      20,
+      9
+    ]
   }
 }
