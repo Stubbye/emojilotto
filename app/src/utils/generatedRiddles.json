@@ -38643,5 +38643,23 @@
       5,
       18
     ]
+  },
+  "sol_1777": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six treasures dance in chaos' game. The jester's grin betrays the path, while winged metamorphosis survives the wrath. In prisms bent, the stage ignites—a dragon's glint through spectral lights. What symmetry of chance and fate reveals the six that seal your state?",
+      "hint": "One guides arrows, one rules the night sky, one laughs in cards, one transforms, one breathes color, one guards the crown."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the night's bright eye, the fool who smiles, the creature that flies with colors bent, and the prize held high. Six lucky signs await your call.",
+      "hint": "Target, Moon, Joker, Butterfly, Rainbow, Trophy"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      9,
+      18
+    ]
   }
 }
