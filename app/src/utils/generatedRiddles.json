@@ -38589,5 +38589,41 @@
       20,
       9
     ]
+  },
+  "sol_1775": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gem ignites in prismatic fire. The jester's laughter echoes through the dance of wings, as thunder splits the veil between worlds. Six signs converge where luck becomes luminous.",
+      "hint": "Look for symbols of destiny, brilliance, chaos, nature's transformation, chaos, and celestial fire."
+    },
+    "easyRiddle": {
+      "text": "I point the way to riches, I shine like precious stone, I sparkle with electric power, I flutter in the night, I dance with flames, and I wear the mask of chance. Count us six.",
+      "hint": "Think: precision, value, energy, metamorphosis, heat, and randomness."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      8,
+      6,
+      19
+    ]
+  },
+  "emlo_701": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere with electric speed, seeking gems that sparkle like fire. A joker's luck guides the dragon through circus waves, where masks hide fortunes beneath the rainbow.",
+      "hint": "Think of a memecoin's journey: fast movement, wealth, chance, mythical power, entertainment, and colorful hope."
+    },
+    "easyRiddle": {
+      "text": "What flies up fast like a 🚀, shines bright like a 💎, strikes quick like ⚡, brings luck like a 🃏, soars like a 🐉, and shows all colors like a 🌈?",
+      "hint": "Every memecoin investor dreams of these six things."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      11,
+      13,
+      9
+    ]
   }
 }
