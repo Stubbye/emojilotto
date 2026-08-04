@@ -38481,5 +38481,23 @@
       9,
       5
     ]
+  },
+  "sol_1770": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a dragon's celestial dance ignites the prism of fate. Through the jester's mask of chaos, the butterfly ascends toward brilliance, while thunder's child weaves the tapestry unseen. Six tokens of destiny converge where luck pirouettes on the edge of infinity.",
+      "hint": "Consider what hunts, what flies, what strikes, what laughs, what transforms, and what shines beyond mortal reach."
+    },
+    "easyRiddle": {
+      "text": "One aims true with precision, one soars through starlit skies, one laughs in disguise, one dances on wings, one crackles with power, and one glimmers eternal. Which six celebrate the lottery's grand stage?",
+      "hint": "Think of a marksman's tool, a night guardian, a trickster, a delicate insect, nature's fury, and a gleaming treasure."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      5,
+      21
+    ]
   }
 }
