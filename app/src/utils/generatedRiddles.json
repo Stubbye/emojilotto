@@ -38535,5 +38535,41 @@
       20,
       19
     ]
+  },
+  "sol_1773": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a gemstone weeps beneath the jester's grin. The winged wanderer pirouettes through inferno's breath, while the scaled leviathan's crown catches starlight's ancient song. Six treasures dance in chaos—one strikes with heaven's wrath, another spirals where revelry once bloomed. Which masks hide destiny's true face?",
+      "hint": "Seek the intersection of games, celestial bodies, and mythical power. One element brings illumination from above."
+    },
+    "easyRiddle": {
+      "text": "A target and a rocket aim high. A gem shines bright. The moon glows above. Lightning strikes fast. Fire burns hot. A joker laughs. Which six appear in the lottery draw?",
+      "hint": "Look for: something you shoot at, something that flies to space, something precious, something in the night sky, something electrifying, and something silly."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_700": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving trails of brilliance. A jester's luck guides my path through crystalline fortunes, while nature's gentle transformation and artistic spectrum paint my destiny. What am I?",
+      "hint": "Think of a memecoin's journey: rapid growth, randomness, beauty, and transformation"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the 🌙, lightning fast gains, sparkling gems, a joker's luck, butterfly transformations, and rainbow dreams. Name these 6 symbols of crypto fortune!",
+      "hint": "Look for: speed, destination, precious things, chance, change, and color"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      12,
+      8,
+      9
+    ]
   }
 }
