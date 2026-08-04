@@ -38517,5 +38517,23 @@
       5,
       19
     ]
+  },
+  "sol_1772": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged seeker ascends through crystalline depths. The archer's mark gleams beneath what mortals chase, while thunder's kiss ignites the stage of masks and mirth. Six threads weave fate's tapestry in this labyrinth of chance.",
+      "hint": "One guides aim, one births light, one sparkles eternal, one crowns achievement, one transforms, one mystifies."
+    },
+    "easyRiddle": {
+      "text": "Find the bright gem that shines, the fiery spark that burns, the soul that flies on wings, the circle that guides arrows, the magic that blinds with beauty, and the painted fool's grin.",
+      "hint": "Look for: something precious, something hot, something that flies, something you aim at, something that glimmers, and something silly."
+    },
+    "answer": [
+      1,
+      5,
+      8,
+      0,
+      20,
+      19
+    ]
   }
 }
