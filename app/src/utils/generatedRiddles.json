@@ -38499,5 +38499,23 @@
       5,
       21
     ]
+  },
+  "sol_1771": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked twin, six tokens unveil: the archer's distant sphere glows pale, a serpent of scales breathes chaos through charged veils, while butterflies waltz through prismatic arcs, and lightning splits the performer's dark sparks, yet crystal's geometry holds destiny's spark.",
+      "hint": "One guides arrows, one breathes flame, one brings luck in disguise, one flies with grace, one shatters barriers, one reflects all light"
+    },
+    "easyRiddle": {
+      "text": "Six magic items of chance: aim true at distant mark, rise swift through starlit dark, glitter with inner light, flutter on painted wings, dance in electric might, hide behind smiling face.",
+      "hint": "Target, rocket, sparkles, butterfly, lightning, joker"
+    },
+    "answer": [
+      0,
+      1,
+      10,
+      8,
+      5,
+      19
+    ]
   }
 }
