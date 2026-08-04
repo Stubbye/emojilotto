@@ -38625,5 +38625,23 @@
       13,
       9
     ]
+  },
+  "sol_1776": {
+    "hardRiddle": {
+      "text": "Through celestial veil where fortune's arrow flies, the winged dancer meets the serpent's ancient prize. Where thunder's kiss ignites the primal flame, and gemstone's heart reflects the jester's game. Six secrets hide where magic weaves its spell—the masked deceiver knows them far too well.",
+      "hint": "Look to the sky, the stage, the crown of wit, and the creatures that dance between earth and spirit."
+    },
+    "easyRiddle": {
+      "text": "I am the target of all wishes. A creature with wings takes flight. A treasure gleams with inner light. The sky roars with electric might. Fire consumes what once was bright. A jester laughs behind a mask so tight.",
+      "hint": "One points the way, one flies, one shines, one strikes, one burns, one plays."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      11,
+      5,
+      18
+    ]
   }
 }
