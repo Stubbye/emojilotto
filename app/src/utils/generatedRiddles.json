@@ -38661,5 +38661,41 @@
       9,
       18
     ]
+  },
+  "sol_1778": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six celestial dancers spin. The trickster's grin conceals the serpent's ancient flame, while petals drift through crystalline realms where lightning weeps and thunder blooms eternal.",
+      "hint": "Consider the court jester, the winged herald of metamorphosis, and what glimmers between chaos and creation."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny: a performer's smile, a scaled guardian breathing fire, a musician's wings of wonder, a mark of true victory, a stone of pure light, and the divine bolt that cracks the sky.",
+      "hint": "Think of a joker, a dragon, a butterfly, a trophy, a gem, and lightning."
+    },
+    "answer": [
+      19,
+      14,
+      8,
+      18,
+      21,
+      5
+    ]
+  },
+  "emlo_702": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights where gems sparkle eternally. Lightning strikes fortune while flames ignite the joker's magic, and crystal clarity guides the butterfly's flight through rainbow waves of destiny.",
+      "hint": "Find the symbols of moonshot gains, electric volatility, and magical transformation in this memecoin journey."
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon. Lightning and fire make it exciting. A gem and butterfly show beauty.",
+      "hint": "Look for space travel, weather, precious things, and insects."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      6,
+      8,
+      11
+    ]
   }
 }
