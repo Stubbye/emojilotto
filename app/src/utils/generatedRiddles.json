@@ -38823,5 +38823,41 @@
       4,
       11
     ]
+  },
+  "sol_1784": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, six portals await the seeker's glance. The archer's mark binds cosmic ascent, while gemstone whispers what heavens have sent. Jester's grin masks the butterfly's flight, as thunder adorns the crystalline night. In this labyrinth of chance and desire, six symbols converge where dreams climb higher.",
+      "hint": "One points outward, one points upward, one sparkles within, one moves freely, one laughs in shadow, and one breaks through darkness."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures of luck and wonder: a target to aim, a rocket to fly, a gem so bright, the moon above, lightning's flash, and a crystal's delight.",
+      "hint": "Think of things that sparkle, reach high, or strike fast."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      21
+    ]
+  },
+  "emlo_705": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, gems sparkle as I ride the cosmic wave. Fortune's jester dances with dragon fire, while a butterfly lands on clover for luck. What six symbols mark the memecoin journey?",
+      "hint": "Think of moonshot ambitions, rapid gains, and lucky streaks in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon with lightning speed. Gems shine bright like fire. A lucky clover sparkles nearby. Find these six symbols of crypto dreams!",
+      "hint": "Look for moon, rocket, lightning, gem, fire, and clover in the emoji list"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      2,
+      6,
+      19
+    ]
   }
 }
