@@ -38751,5 +38751,23 @@
       5,
       22
     ]
+  },
+  "sol_1781": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through tempest's tongue. The jester's grin mirrors the prism's whisper, while nature's winged muse bows before the ancient crown of wishes. Six secrets hide in shadows of chance—seek the marked, the risen, the fractured light, the fool's truth, the transformed, and the celestial throne.",
+      "hint": "One points, one soars, one gleams, one laughs, one transforms, one reigns above"
+    },
+    "easyRiddle": {
+      "text": "A game of luck needs: something you aim at, something that flies fast, something precious and shiny, something that rules the night sky, something full of energy and danger, and something that makes people laugh with its tricks. What are these six?",
+      "hint": "Think of targets, space travel, valuable things, nighttime, power, and comedy"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
