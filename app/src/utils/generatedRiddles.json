@@ -38877,5 +38877,41 @@
       4,
       19
     ]
+  },
+  "sol_1787": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six harbingers of fate convene. The archer's mark meets the void's silver gaze, while chaos crackles through gemstone veins. A crimson serpent coils beneath the jester's grin, and fortune spins where chaos begins.",
+      "hint": "One ascends to the heavens, one pierces through storms, one glimmers eternal, one wears many faces, one guards the treasure, one laughs at destiny."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await: one aims true, one blazes bright, one sparkles precious, one rules the night sky, one charges with power, one juggles luck itself.",
+      "hint": "Target, Fire, Gem, Moon, Lightning, and Joker are your lottery numbers."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_706": {
+    "hardRiddle": {
+      "text": "I launch you to fortune's peak where precious stones gleam, struck by celestial bolts in a cosmic dream. Dancing flames ignite the circuit's jest, while fortune's wheel spins at the lightning's behest.",
+      "hint": "Think of launch, wealth, electricity, and games of chance combined"
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon so high, where gems and lightning fill the sky. Fire and dice decide your fate, when will your memecoin make you great?",
+      "hint": "Count the things that help you win big in crypto"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      11
+    ]
   }
 }
