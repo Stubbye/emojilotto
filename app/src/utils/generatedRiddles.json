@@ -38931,5 +38931,23 @@
       8,
       19
     ]
+  },
+  "sol_1789": {
+    "hardRiddle": {
+      "text": "Where fortune's breath ignites the void, six sentinels of fate converge: the archer's mark meets celestial fire, while prismatic shards dance with winged metamorphosis beneath the jester's eternal gaze, and luck's verdant symbol spirals through the cosmic tempest.",
+      "hint": "Consider the instruments of chance, the symbols of transformation, and the watchers of destiny."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the rocket's flight, the gem's shine, the moon's glow, the lightning's strike, and the joker's smile.",
+      "hint": "One marks, one soars, one gleams, one glows, one crackles, one grins."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
