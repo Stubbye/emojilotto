@@ -38697,5 +38697,23 @@
       8,
       11
     ]
+  },
+  "sol_1779": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a prismatic serpent coils beneath the jester's gaze. Through chaos-born symmetry, the winged soul ascends toward destiny's bullseye, while crystalline tears weep in chambers of luck's grand masquerade.",
+      "hint": "One brings fortune's mockery, one births electric wonder, one guards treasure's heart, one rules night's velvet throne, one symbolizes transformation's grace, one marks the destination of all seeking souls."
+    },
+    "easyRiddle": {
+      "text": "I am six: a royal trickster laughs, lightning splits the sky, a gem gleams bright, the moon watches over, a butterfly takes flight, and an archer's mark awaits.",
+      "hint": "Look for the jester, the storm, the precious stone, the night guardian, the winged dancer, and the bullseye."
+    },
+    "answer": [
+      19,
+      5,
+      2,
+      3,
+      8,
+      0
+    ]
   }
 }
