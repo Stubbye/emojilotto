@@ -38913,5 +38913,23 @@
       4,
       11
     ]
+  },
+  "sol_1788": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six sentinels converge: the archer's distant dream meets the void's pale sovereign, while prismatic fury awakens the scaled guardian. Chaos whispers through crystalline depths, and winged metamorphosis pirouettes beneath the jester's eternal grin. What constellation of fate do you seek?",
+      "hint": "Think of targets, night skies, gems that burn, ancient myths, transformation, and deception's mask"
+    },
+    "easyRiddle": {
+      "text": "I hunt with precision, guard the night's throne, sparkle with inner fire, breathe ancient wisdom, transform with grace, and hide behind laughter. Six symbols reveal the lottery's secret.",
+      "hint": "Aim high, look up, find brilliance, seek dragons, watch butterflies, and don't trust the joker"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      14,
+      8,
+      19
+    ]
   }
 }
