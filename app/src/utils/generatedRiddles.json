@@ -38769,5 +38769,41 @@
       4,
       19
     ]
+  },
+  "sol_1782": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers converge in destiny's trance. The archer's mark glows where night's pearl weeps, while winged metamorphosis through gemstone keeps. Thunder's child and masked comedy entwine, as luck's spotted bones with nature's fortune align.",
+      "hint": "Think of beginnings and endings, games of chance, transformations, and the eternal night sky."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that soar, the gem that gleams at lottery's core, the moon that watches from above, the butterfly's dance we all love, and the dice that seal our fate with fire's glow.",
+      "hint": "One guides you, one reaches high, one shines bright, one transforms, one rolls, and one burns with chance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      11
+    ]
+  },
+  "emlo_704": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gems sparkle as fortune dances with fire. Three elements guide seekers to rainbow riches, while tricksters juggle fate's cosmic jest.",
+      "hint": "Think of a memecoin journey: destination, fuel, treasure, luck, chaos, and performance"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🌙 glows high, 🔥 burns hot, 🎪 entertains all",
+      "hint": "Six symbols of a crypto adventure: launch, value, speed, dreams, hype, and fun"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
   }
 }
