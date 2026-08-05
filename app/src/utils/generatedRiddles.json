@@ -38715,5 +38715,41 @@
       8,
       0
     ]
+  },
+  "sol_1780": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gem ignites the twilight's face. The serpent coils through celestial fire, while chaos dances at the wire. Six tokens spin in fate's grand game—one marks the center, one claims fame.",
+      "hint": "Think of celestial bodies, precious stones, mythical beasts, and games of chance dancing together in the darkness."
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye, the flying stone, the jewel that shines, the night's own throne, the angry spark, and the scale-winged throne.",
+      "hint": "A target, something that launches upward, something precious, nighttime, electricity, and a legendary creature."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
+  },
+  "emlo_703": {
+    "hardRiddle": {
+      "text": "I chase gains with electric speed, gems fuel my flight to lunar greed. Rainbow trails mark my wild dance, while sparkles crown my mooning chance. What sequence leads to fortune's jest?",
+      "hint": "Follow the path: speed → fuel → destination → celebration → luck → reward"
+    },
+    "easyRiddle": {
+      "text": "Fast as lightning, bright as fire, rocket takes me higher and higher. Gems and sparkles light the way, to the moon where memers play!",
+      "hint": "Think of a crypto journey: fast movement, valuable resources, and reaching the moon"
+    },
+    "answer": [
+      4,
+      2,
+      1,
+      10,
+      5,
+      22
+    ]
   }
 }
