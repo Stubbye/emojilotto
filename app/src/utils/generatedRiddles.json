@@ -38859,5 +38859,23 @@
       6,
       19
     ]
+  },
+  "sol_1785": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's geometry, the trickster's grin reflects in crystalline depths. Six siblings wear chaos: the archer's mark meets the swift ascension, while prismatic tears fall upon the court's fool. Lightning's twin brother gleams in shadow's palace, and the night's pale witness guards the key to all mirth.",
+      "hint": "One points downward, one flies upward, one breaks light, one laughs at chaos, one splits sky, one watches from above"
+    },
+    "easyRiddle": {
+      "text": "I am six seekers in the cosmic lottery: a target that waits, a rocket that soars, a gem that sparkles, a moon that watches, lightning that cracks, and a joker that grins. Together we hold the secret of chance.",
+      "hint": "Find the marksman's circle, the vessel of dreams, the precious stone, the nighttime guardian, the electric bolt, and the laughing fool"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
