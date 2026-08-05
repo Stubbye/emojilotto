@@ -38805,5 +38805,23 @@
       5,
       7
     ]
+  },
+  "sol_1783": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a gemstone dreams beneath twin celestial orbs. The jester's laughter echoes through prismatic veils as lightning dances with nature's winged metamorphosis. In this convergence of chaos and beauty, six symbols align—one pierces the void, one glows eternal, one refracts all light, one conducts the storm, one transforms in silence, and one wears the mask of merriment.",
+      "hint": "Seek the marksman's target, the ascender's rocket, the precious gem, the ancient moon, the electric bolt, and the shape-shifter's jest."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one you aim at, one flies to stars, one sparkles with worth, one lights the night, one strikes with power, and one makes you laugh with a silly grin.",
+      "hint": "Think of: aiming games, space travel, jewelry, the sky at night, storms, and a funny character."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
