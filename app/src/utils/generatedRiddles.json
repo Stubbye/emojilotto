@@ -38967,5 +38967,23 @@
       6,
       19
     ]
+  },
+  "sol_1792": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets dwell in shadows deep. The archer's mark meets heaven's gaze, while winged metamorphosis twirls through prismatic veils. Thunder's kiss embraces the jester's masked reverie, and crystalline brilliance shatters into infinite sparkling song.",
+      "hint": "Seek the intersection of chance, transformation, and electric wonder beneath the cosmic stage where all things glimmer and multiply."
+    },
+    "easyRiddle": {
+      "text": "Find the bright point in the sky, the fast moving tube, the shiny stone, the electric bolt, the laughing trickster, and the butterfly dancing through color.",
+      "hint": "These six treasures include luck in the heavens, speed, sparkle, danger, mischief, and transformation."
+    },
+    "answer": [
+      21,
+      1,
+      5,
+      4,
+      17,
+      8
+    ]
   }
 }
