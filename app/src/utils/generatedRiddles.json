@@ -39021,5 +39021,23 @@
       13,
       14
     ]
+  },
+  "sol_1794": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's masked dance, six tokens of fate spiral through chance. The archer's true mark gleams with inner light, while winged metamorphosis takes flight. Thunder's brilliance crowns the jester's domain, and crystalline dreams fall gentle as rain.",
+      "hint": "One brings luck, one transforms, one is royal, one strikes from above, one glimmers, one marks the bullseye."
+    },
+    "easyRiddle": {
+      "text": "Find the target of destiny, the rocket of dreams, the gem that shines bright, the butterfly that transforms, the lightning that electrifies luck, and the joker who rules the game.",
+      "hint": "A game of chance needs an aim, speed, wealth, change, power, and playfulness."
+    },
+    "answer": [
+      0,
+      7,
+      2,
+      8,
+      4,
+      19
+    ]
   }
 }
