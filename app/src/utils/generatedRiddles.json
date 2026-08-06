@@ -38985,5 +38985,41 @@
       17,
       8
     ]
+  },
+  "sol_1793": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the jester's twin masks guard the gate between worlds. The scaled leviathan breathes upon the gemstone heart, while winged transformation spirals through the archer's eternal mark. Chaos tumbles in crystalline chambers as lightning crowns the sovereign peak.",
+      "hint": "Seek the cards of fate, the precious stone of desire, the scaled guardian, the fluttering metamorphosis, the random cube, and the celestial beacon of ambition."
+    },
+    "easyRiddle": {
+      "text": "I have a bull's-eye, a trickster grins, a dragon roars, a butterfly flies, dice show chance, and stars light the way. What six treasures complete the game?",
+      "hint": "Think of targets, jesters, mythical beasts, nature's magicians, games of luck, and wishes upon the heavens."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      8,
+      11,
+      21
+    ]
+  },
+  "emlo_708": {
+    "hardRiddle": {
+      "text": "A jester's fortune rises with electric speed, precious gems catching starlight as we reach the lunar peak. Magic sparkles dance where the fox plays, while the dragon breathes flames of prosperity. What six symbols guide us to memecoin riches?",
+      "hint": "Think of a lucky gamble to the moon with magical creatures and treasures"
+    },
+    "easyRiddle": {
+      "text": "🎪 + ⚡ + 💎 + 🌙 + 🦊 + 🐉 = MOON LAMBO! Can you find these 6 emojis?",
+      "hint": "Look for: circus, lightning, gem, moon, fox, and dragon"
+    },
+    "answer": [
+      7,
+      4,
+      2,
+      3,
+      13,
+      14
+    ]
   }
 }
