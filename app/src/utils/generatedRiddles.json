@@ -39039,5 +39039,41 @@
       4,
       19
     ]
+  },
+  "sol_1795": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while twin masks dance with the trickster's grin. Below, a humble bloom trembles as electric fury meets the gem's eternal cold light.",
+      "hint": "One points the way, one guards the sky, one deceives, one blooms, one strikes, one gleams."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow's song: the archer's mark that never fails, the beast of dreams that soars so high, the jester's face worn by two souls, the lightning bolt that cracks the night, the jewel that catches starlight's glow, and petals soft beneath the stars.",
+      "hint": "Think of targets, dragons, masks, lightning, gems, and flowers in a circle of fate."
+    },
+    "answer": [
+      0,
+      13,
+      18,
+      5,
+      20,
+      14
+    ]
+  },
+  "emlo_709": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkle as I dance through flames of fortune. A jester's luck guides my flight through the circus of wealth, where dragons guard the ultimate shimmer.",
+      "hint": "Look for speed, treasure, luck, fire, fantasy, and the house of games"
+    },
+    "easyRiddle": {
+      "text": "Up, up to riches! ⚡ 💎 🔥 🃏 🎪 🐉",
+      "hint": "Find the rocket, gem, lightning, joker, circus, and dragon"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      11,
+      6,
+      13
+    ]
   }
 }
