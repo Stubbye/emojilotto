@@ -39147,5 +39147,23 @@
       17,
       9
     ]
+  },
+  "sol_1800": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a crimson circle meets the jester's masquerade. Six tokens of fate: the archer's mark gleams eternal, lightning splits the veil between worlds, scales of chance whisper secrets, and masks reveal what laughter conceals. One burns with stolen starlight, another blooms where chaos performs beneath striped tents of wonder.",
+      "hint": "Seek the symbols of luck, mischief, and spectacle. Three speak of games and revelry, two of cosmic fury and earth's flame, one of perfect precision."
+    },
+    "easyRiddle": {
+      "text": "I am six mystical symbols of chance: a target never missed, a jester's grin, lightning's strike, circus wonder, flames that consume, and dice that decide. What am I?",
+      "hint": "Think of games, magic, and the wild dance of fortune's wheel."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      7,
+      5,
+      6
+    ]
   }
 }
