@@ -39075,5 +39075,41 @@
       6,
       13
     ]
+  },
+  "sol_1796": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers coalesce in chance. The archer's mark aligns with night's embrace, while scaled wisdom guards the mystic space. Winged metamorphosis spirals through the prism's arc, and crystalline fortune glimmers in the dark. Luck's jester grins where chaos reigns supreme, weaving destiny through the lottery's dream.",
+      "hint": "Seek the heavens' aim, nocturnal majesty, transformation's grace, geometries of light, folly's grin, and shattered probability made perfect."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: One marks the target of chance, one roars with cosmic fire, one shimmers in twilight's glow, one dances with scaled magic, one flutters in prismatic transformation, one laughs at fortune's wheel.",
+      "hint": "Think of aim, flame from space, night's guardian, ancient power, colorful change, and mischief."
+    },
+    "answer": [
+      0,
+      5,
+      21,
+      13,
+      8,
+      19
+    ]
+  },
+  "emlo_710": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins through cosmic chaos—where moonlit gems ignite the stage of dreams, and lightning strikes the hearts of those who dare to laugh at fate itself.",
+      "hint": "Think of a wild celebration reaching for the stars, powered by chance and electricity."
+    },
+    "easyRiddle": {
+      "text": "I have a fool's hat, I glow in space, I sparkle bright, I strike with power, I'm precious and round, and I light the fire.",
+      "hint": "Count the objects: jester, moon, sparkles, lightning, gem, fire."
+    },
+    "answer": [
+      19,
+      3,
+      10,
+      4,
+      2,
+      5
+    ]
   }
 }
