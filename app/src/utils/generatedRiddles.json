@@ -39363,5 +39363,23 @@
       4,
       19
     ]
+  },
+  "sol_1813": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver's thread, and the serpent of storms coils beneath the jester's crimson crown, the winged dancer pirouettes through fractured light while the earth's precious tear catches flame—in this hexad of destiny, luck unfolds its hidden face.",
+      "hint": "One guides the path, one rules the night, one strikes with fury, one brings mirth, one transforms, and one burns bright."
+    },
+    "easyRiddle": {
+      "text": "A marksman's circle, a night watcher, electricity's fury, a painted fool, nature's metamorphosis, and inferno's kiss—six symbols dance in lottery's game.",
+      "hint": "Think of: aim, moon phases, power, entertainment, change, and heat."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      19,
+      8,
+      6
+    ]
   }
 }
