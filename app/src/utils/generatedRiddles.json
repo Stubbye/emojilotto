@@ -39255,5 +39255,41 @@
       14,
       6
     ]
+  },
+  "sol_1805": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six dancers twirl in fortune's gyre. The jester's laugh rings through the gem-lit night, as dragon's wings eclipse the moon's soft light. In crystal halls where sparkles kiss the flame, the butterfly conducts a nameless game.",
+      "hint": "Seek the archer's mark, the serpent's flight, the fool's delight, and luminescent companions both small and bright."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this mystical place: a target's center, a dragon's grace, a joker's grin, a gem so bright, a moon that glows, and sparkles in the night.",
+      "hint": "Look for what you aim at, a mythical beast, a card player, something precious, something above, and something that twinkles."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      2,
+      3,
+      10
+    ]
+  },
+  "emlo_713": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, a gem-like treasure is all I need. With dragon fire and crystal gleam, I spark the lightning of a memecoin dream. Rainbow waves and stellar might, propel the fortune-seeker's flight.",
+      "hint": "Think of the journey to crypto riches: destination, movement, value, celestial bodies, energy, and dazzling effects."
+    },
+    "easyRiddle": {
+      "text": "🌙 is up high, 🚀 goes fast, 💎 is valuable, ⚡ is quick, 🔥 is hot, and ✨ is shiny. Which six light up the memecoin way?",
+      "hint": "Look for: a celestial body, a vehicle, something precious, energy, heat, and sparkle."
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      4,
+      5,
+      10
+    ]
   }
 }
