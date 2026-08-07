@@ -39327,5 +39327,23 @@
       5,
       19
     ]
+  },
+  "emlo_714": {
+    "hardRiddle": {
+      "text": "I launch dreams to lunar heights with electric speed, sparkling with gem-like brilliance. Fortune spins wildly as my magic ignites the sky, guided by a joker's trick and a fox's cunning smile.",
+      "hint": "One takes you up, one makes you rich, one is tricky, one is sly, one glows bright, one strikes fast"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is treasure, ⚡ is fast, 🃏 is silly, 🦊 is clever, ✨ is magic",
+      "hint": "A vehicle, a jewel, weather, a card, an animal, and sparkles"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      11,
+      13,
+      10
+    ]
   }
 }
