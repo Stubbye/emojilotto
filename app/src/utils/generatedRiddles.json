@@ -39291,5 +39291,23 @@
       5,
       10
     ]
+  },
+  "sol_1807": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels convene in chance. The archer's mark holds winged desire, while thunder's child fuels destiny's fire. In twilight's glow, a jester's gleam mingles with stone's eternal dream, as nature's twins—scaled guardian and metamorphic grace—waltz through the cosmos's embrace.",
+      "hint": "Seek the aimed, the ascended, the electric, the crowned, the ancient, and the transformed."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: one you aim for, one that flies to dreams, one that sparkles bright, one that rules the night, one that breathes with heat, and one that wears a crown.",
+      "hint": "Target, Rocket, Gem, Moon, Fire, and Dragon are the lucky six."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
