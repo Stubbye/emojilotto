@@ -39129,5 +39129,23 @@
       6,
       8
     ]
+  },
+  "sol_1798": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six celestial dancers convene: the winged metamorphosis spirals through prismatic light, while crystalline tears weep upon the stage of masks and mirth, as the thunder's child ignites the boundary between worlds, and fortune's gilded chalice crowns the jester's eternal jest.",
+      "hint": "Seek the intersection of chaos and destiny, where transformation meets illumination, and performance greets the sacred geometry of luck itself."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of wonder: one flies with delicate wings, one sparkles like ice, one hides in shadows of comedy, one roars with electric fury, one crowns the victor, and one dances in spectrum'd arcs. What six unite in the lottery's embrace?",
+      "hint": "Think of beauty, power, victory, weather, laughter, and transformation."
+    },
+    "answer": [
+      8,
+      21,
+      19,
+      5,
+      17,
+      9
+    ]
   }
 }
