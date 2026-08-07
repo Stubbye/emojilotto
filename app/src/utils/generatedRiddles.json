@@ -39219,5 +39219,23 @@
       8,
       13
     ]
+  },
+  "sol_1803": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a prism splits the dancer's desire. In chaos' bones, the jester grins wide, while nature's winged mirror reflects pride. The jeweled vault hums at midnight's gleam, and luck's own symbol completes the dream.",
+      "hint": "Look for the intersection of chance, celestial bodies, luck, and transformation. One element appears twice in meaning."
+    },
+    "easyRiddle": {
+      "text": "A target and a rocket race skyward, gems shine bright, lightning cracks the night, fire burns eternal, and a butterfly dances free.",
+      "hint": "Count the six symbols: aim, launch, treasure, storm, heat, and wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      8
+    ]
   }
 }
