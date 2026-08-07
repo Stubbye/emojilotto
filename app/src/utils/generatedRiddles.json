@@ -39381,5 +39381,41 @@
       8,
       6
     ]
+  },
+  "sol_1815": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and celestial fire dances with nature's twin-winged grace. Chaos tumbles in the jester's sacred game, while brilliance refracts through the crystal's flame. Seek the six that bridge the mortal and divine—the marked, the ascending, the precious, the nocturnal, the electric, and the performer's design.",
+      "hint": "One marks the goal, one escapes terrestrial bounds, one glimmers beneath stone, one rules the night sky, one strikes with urgency, and one entertains the masses with deception."
+    },
+    "easyRiddle": {
+      "text": "I need six symbols of luck and wonder: a target to aim at, a rocket to reach high, a gem that sparkles, the moon above, lightning fast, and a joker's wild card.",
+      "hint": "Think of symbols that represent ambition, wealth, night, speed, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_715": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 burns in my 💎 heart. My 🚀 spirit dances with fortune's 🎭 mask, seeking the treasure where chaos and luck embark.",
+      "hint": "Think of volatile gains, rapid movements, and the gambler's thrill in the crypto wild"
+    },
+    "easyRiddle": {
+      "text": "A gem that sparkles bright, a rocket to the moon, lightning fast profits, fire in the night, masked luck plays a tune, and fortune's reward in sight",
+      "hint": "Count the 6 magical things mentioned that make memecoins exciting"
+    },
+    "answer": [
+      2,
+      1,
+      4,
+      5,
+      18,
+      0
+    ]
   }
 }
