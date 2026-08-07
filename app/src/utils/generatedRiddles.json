@@ -39309,5 +39309,23 @@
       4,
       13
     ]
+  },
+  "sol_1809": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone gleams through midnight's veil. Lightning's twin dances with infernal breath, while masked revelry spins beneath the arc of promise. Six secrets converge where the jester's wisdom dwells.",
+      "hint": "Think of destiny's game, celestial bodies, precious stones, and the carnival of chance itself."
+    },
+    "easyRiddle": {
+      "text": "You need a target to aim, the moon to wish upon, a gem to treasure, lightning for luck, fire for passion, and masks to hide your numbers.",
+      "hint": "Six symbols of fate and fortune, one marks the goal, one lights the night, one sparkles bright, one strikes fast, one burns hot, one conceals identity."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      5,
+      19
+    ]
   }
 }
