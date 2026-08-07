@@ -39345,5 +39345,23 @@
       13,
       10
     ]
+  },
+  "sol_1812": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and twin spirits dance—one crowned in lustre, one cloaked in shadow. The tempest's tongue flickers through the prism's fractured breath, while the night's guardian weeps silver upon the jester's grin. Six secrets bloom where destiny's wheel spins betwixt the painted void.",
+      "hint": "Seek the aim, the ascension, the brilliance buried, the nocturnal sentinel, the chaos-bearer, and the mask that laughs."
+    },
+    "easyRiddle": {
+      "text": "A hunter aims true, a vessel rises high, a jewel gleams bright, the moon watches over, electricity crackles wild, and laughter echoes through painted faces. What six dance together in fortune's game?",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and jokers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
