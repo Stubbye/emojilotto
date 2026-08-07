@@ -39165,5 +39165,41 @@
       5,
       6
     ]
+  },
+  "sol_1801": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the veil between worlds. The archer's mark meets the wanderer's ascent, while fortune's jester pirouettes upon crystalline scales of fate. One shimmers eternal in the night's embrace, another crackles between the beats of destiny.",
+      "hint": "Think of games, sky, light, and transformation. One grants wishes, one ignites hope, one reveals truth through chance."
+    },
+    "easyRiddle": {
+      "text": "Find the six symbols of luck and chance: the explosive ascender, the glittering night watcher, the fortune spinner, the joyful fool, the electric spark, and the gift of the earth.",
+      "hint": "One flies upward, one hangs above, one spins, one laughs, one strikes, one grows."
+    },
+    "answer": [
+      1,
+      21,
+      11,
+      19,
+      5,
+      14
+    ]
+  },
+  "emlo_712": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with explosive force, while precious stones ignite my path. A jester's luck meets the serpent's power, as electricity dances and flames consume all in sight.",
+      "hint": "Think of a memecoin's journey to astronomical gains with chaotic energy"
+    },
+    "easyRiddle": {
+      "text": "To the moon we blast with a shiny gem, the joker laughs as lightning strikes and fire spreads wild.",
+      "hint": "Count the symbols: destination, projectile, treasure, trickster, energy, and heat"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      4,
+      5
+    ]
   }
 }
