@@ -39201,5 +39201,23 @@
       4,
       5
     ]
+  },
+  "sol_1802": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six symbols weave through fortune's veil: the archer's mark meets swift ascension, crystalline wealth gleams beneath Luna's gaze, while nature's winged metamorphosis pirouettes through the theatrical realm of chance. Thunder whispers secrets only the cunning fox comprehends, as destiny's glittering dust settles upon the stage of infinite possibility.",
+      "hint": "Seek the target, rocket, gem, moon, butterfly, and the creature known for trickery"
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of a lucky dream: one points and aims, one flies so high, one shines with worth, one rules the night, one transforms in beauty, and one outwits them all. Together we spin the wheel of fortune.",
+      "hint": "Think of: aiming, flying, treasure, darkness, change, and cunning"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      13
+    ]
   }
 }
