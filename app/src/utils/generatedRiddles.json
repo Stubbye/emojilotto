@@ -39237,5 +39237,23 @@
       5,
       8
     ]
+  },
+  "sol_1804": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six harbingers dance in cosmic attire. The jester's twin gleams beneath Luna's gaze, while scaled majesty winds through fortune's maze. Petals of chance scatter like electric rain, as gemstone and flame consume earthly domain.",
+      "hint": "Seek the target's aim, the dragon's ancient claim, the joker's mocking game, and three more that bear the lottery's name."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key to fortune's gate: a pointed mark, a winged beast ornate, a laughing trickster, a glowing stone so bright, a sky-beast serpent, and petals burning light. What are these six that lottery fate has sown?",
+      "hint": "Think of targets, dragons, jesters, gems, flowers, and fire in the night."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      13,
+      14,
+      6
+    ]
   }
 }
