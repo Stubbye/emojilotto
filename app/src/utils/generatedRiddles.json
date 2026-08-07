@@ -39111,5 +39111,23 @@
       2,
       5
     ]
+  },
+  "sol_1797": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a prism bleeds through thunder's violent rent. The jester's grin dissolves in celestial flame, while metamorphosis dances with the game. Six sovereigns of chance converge in night—reveal the symbols binding fate to sight.",
+      "hint": "Consider the journey from earth to cosmos, the transformation of revelry, and the tools of destiny's hand."
+    },
+    "easyRiddle": {
+      "text": "A target waits for the rocket's flight, lightning strikes through gemstone bright. The moon watches as fire burns, while a butterfly turns and turns. Which six dance together in fortune's light?",
+      "hint": "Look for precision, speed, sparkle, celestial bodies, intensity, and nature's transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      8
+    ]
   }
 }
