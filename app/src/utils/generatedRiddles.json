@@ -39525,5 +39525,23 @@
       4,
       8
     ]
+  },
+  "sol_1822": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of destiny gather: the winged metamorphosis dances with brilliance incarnate, while the serpent of ages guards the musician's soul. The jester's twin faces whisper to the emerald heart, and above all, the crown of victory gleams where chaos strikes.",
+      "hint": "Think of transformation, value, music, deception, treasure, and triumph. One element pierces, one flies, one changes form, one strikes from above, one entertains, one shines."
+    },
+    "easyRiddle": {
+      "text": "I am the path of change with wings, the pure light of deep space, the keeper of ancient songs, the trickster's grin, the stone of power, and the ultimate prize. Six symbols mark this journey.",
+      "hint": "Look for: something that transforms, something bright in darkness, something that makes sound, something deceptive, something hard and valuable, and something you win."
+    },
+    "answer": [
+      8,
+      21,
+      16,
+      19,
+      20,
+      17
+    ]
   }
 }
