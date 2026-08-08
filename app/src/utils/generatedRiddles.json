@@ -39741,5 +39741,23 @@
       13,
       21
     ]
+  },
+  "sol_1833": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound inferno, six vessels of fortune await. The archer's mark kisses the heavens while winged metamorphosis dances. Radiant shards multiply in darkness, and masked revelry echoes through gemstone corridors of destiny.",
+      "hint": "One ascends toward sky, one transforms, one gleams in multitudes, one reflects joy, one glitters eternally, one seeks the target."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the rocket that soars, the gem that shines, the moon above, the lightning that strikes, and the fire that burns.",
+      "hint": "Look for things that go up, shine brightly, and represent power and fortune."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
