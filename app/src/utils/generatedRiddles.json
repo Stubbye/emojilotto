@@ -39687,5 +39687,23 @@
       21,
       19
     ]
+  },
+  "sol_1830": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and crystalline fragments dance in celestial grace. The jester's twin flames ignite the stage, while wings of metamorphosis turn destiny's page. Six whispers of fate converge in the night—one strikes with thunder's primal might.",
+      "hint": "Think of targets, precious things, performers, transformations, electricity, and gemstone clarity."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark glows bright and true, a jester grins at me and you. Gems that sparkle, wings that soar, lightning strikes forevermore. Fire dances on the circus floor—six lucky signs, not one nor four.",
+      "hint": "Look for: aim, laughter, shine, flight, electricity, and performance."
+    },
+    "answer": [
+      0,
+      11,
+      6,
+      8,
+      5,
+      3
+    ]
   }
 }
