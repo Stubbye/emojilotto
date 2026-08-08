@@ -39453,5 +39453,41 @@
       8,
       20
     ]
+  },
+  "sol_1818": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, and seven-fold luck dances with prismatic rain. The jester's domain glimmers beneath twin crescents of gemstone fire, while nature's winged metamorphosis spirals through thunder's ancient choir. In this convergence of fate's geometry, destiny crystallizes—seek the bull's heart, the sky's messenger, the storm's whisper, the prism's tears, the scale-winged omen, and the four-leafed destiny.",
+      "hint": "Think of symbols of luck, power, and transformation. One is aimed, one ascends, one guides, one electrifies, one transforms, one blesses."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and wonder: the target of fortune, the rocket to dreams, the gem of value, the dragon of power, the lightning of energy, and the clover of blessing.",
+      "hint": "Look for: something you aim at, something that flies up, something precious, something mythical, something that strikes, and something lucky in nature."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      19
+    ]
+  },
+  "emlo_716": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkling with fortune's brilliance. My magic circle holds lucky charms that ignite wild transformations. Where comedy meets destiny, a crafty trickster dances under prismatic light.",
+      "hint": "Think of a meme coin's journey: explosive growth, mystical luck, and chaotic entertainment."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up up up, ✨ shines bright, 🎪 is crazy fun, 🍀 means luck, 🃏 is silly, 🌈 has all colors!",
+      "hint": "Count the emojis and find them in the list!"
+    },
+    "answer": [
+      1,
+      10,
+      6,
+      19,
+      17,
+      9
+    ]
   }
 }
