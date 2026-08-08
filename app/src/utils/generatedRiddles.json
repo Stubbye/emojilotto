@@ -39615,5 +39615,23 @@
       11,
       6
     ]
+  },
+  "sol_1827": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jest, a crimson wheel meets the jester's crown. The winged tempest spins between crystal tears and violet dreams, while the archer's goal glimmers where chaos whispers its golden truth.",
+      "hint": "One guides from above, one mocks from below, one flies wild, one sparkles with intent, one burns with destiny, one marks the passage of fate."
+    },
+    "easyRiddle": {
+      "text": "Find the target struck by lightning, the joker's gem shining bright, the purple butterfly dancing with fire, and the crystal moon that guides all.",
+      "hint": "Look for a red circle, a purple face, a winged creature, a glowing stone, a flame, and a night sky keeper."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      21,
+      5,
+      6
+    ]
   }
 }
