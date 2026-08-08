@@ -39543,5 +39543,41 @@
       20,
       17
     ]
+  },
+  "sol_1823": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, a gemstone sings in celestial blaze. The jester's twin descends through electric veins, while scaled leviathan coils through fortune's chains. Petals drift where spectrum bends, and sparkled dust all magic mends.",
+      "hint": "Seek the archer's mark, the thief's delight, the fool's reflection, the serpent's might, the bloom of earth, and heaven's gleam."
+    },
+    "easyRiddle": {
+      "text": "I point at luck, I shine below, I glimmer bright with golden glow. A jesting twin, a beast so wise, a flower blooms before your eyes. What six await your destined call?",
+      "hint": "Think of games, the night sky, jewels, trickery, nature, and sparkle."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      13,
+      14,
+      10
+    ]
+  },
+  "emlo_717": {
+    "hardRiddle": {
+      "text": "A jester's luck rides lightning to the moon, where gemstones sparkle in a circus of fire. What six celestial performers dance in this memecoin dream?",
+      "hint": "Think of the journey: the fool, the speed, the destination, the shine, the spectacle, and the heat."
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket! A joker brings luck, lightning brings speed, gems shine bright, fire burns hot, sparkles dazzle, and circus entertains. Name these six.",
+      "hint": "Look for: a card character, fast electricity, precious stones, the destination, magic shine, and fun entertainment."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      6,
+      10,
+      20
+    ]
   }
 }
