@@ -39813,5 +39813,23 @@
       4,
       13
     ]
+  },
+  "sol_1837": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial throne, six omens dance through fortune's zone. The jester's twin flames leap in cosmic jest, while nature's winged metamorphosis finds rest. Upon the stage of glittering dust they play, where emerald ice reflects the stellar ray.",
+      "hint": "Think of destiny meeting the heavens, laughter in fire, transformation through air, and treasures that crystallize light."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket reaching the moon, the joker laughing with lightning and fire, the butterfly resting on crystal so bright.",
+      "hint": "Six things: one aims, one flies, one glows in night, one laughs, one burns, one transforms, one sparkles."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      11,
+      5,
+      20
+    ]
   }
 }
