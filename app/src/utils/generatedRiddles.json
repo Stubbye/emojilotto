@@ -39579,5 +39579,23 @@
       10,
       20
     ]
+  },
+  "sol_1824": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, a scaled serpent guards the threshold between chaos and destiny. Three masks of fate converge: one sings eternal melodies, one blooms in defiance, one glimmers as stolen starlight. The jester's laugh echoes where wings metamorphose and luck crystallizes into pure radiance.",
+      "hint": "Seek the dragon's domain where music, nature, and brilliance intertwine with games of chance and transformation."
+    },
+    "easyRiddle": {
+      "text": "Find the scaled creature of myth, the instrument of souls, the treasure that glows, the bloom of earth, the shimmer of wishes, and the tool of fate's decision.",
+      "hint": "One flies through ancient stories, one makes sound, one is precious, one grows, one sparkles magic, and one determines luck."
+    },
+    "answer": [
+      14,
+      16,
+      21,
+      15,
+      10,
+      11
+    ]
   }
 }
