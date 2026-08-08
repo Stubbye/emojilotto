@@ -39777,5 +39777,23 @@
       10,
       17
     ]
+  },
+  "sol_1835": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six secrets dance in fortune's game. The archer's mark aligns with night's pale crown, as thunder's tongue and emerald's glow tumble down. A creature born of metamorphic flight bears witness to the jester's ancient right. What six converge where chaos wears a grin and destinies are scattered to the wind?",
+      "hint": "One guides the aim, one rules the sky, one sparkles bright, one makes spirits fly. A shape-shifter flies where laughter dwells, and fortune's fool rings all the bells."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: precision's mark, the night above, a precious spark, electricity's strike, a winged metamorphosis, and one who mocks with riddling bliss.",
+      "hint": "Think of: what you aim at, nighttime, treasure, weather, insects, and tricksters."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      5,
+      8,
+      19
+    ]
   }
 }
