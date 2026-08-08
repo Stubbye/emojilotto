@@ -39705,5 +39705,23 @@
       5,
       3
     ]
+  },
+  "sol_1831": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, and prismatic fire dances with nature's delicate wings, the jester's twin gleams in crystalline depths. Through tempest's fury, the winged serpent guards what mortals chase beneath the painted sky.",
+      "hint": "One points the way, one lights the night, one brings luck, one spreads joy, one hoards treasure, and one commands the storm."
+    },
+    "easyRiddle": {
+      "text": "A target and rocket pierce the sky together. A gem sparkles like lightning. A dragon and butterfly share a secret dance. What six treasures hide in this riddle?",
+      "hint": "Look for one that aims, one that flies fast, one that shines bright, one that strikes quick, one that scales the heavens, and one that floats on wind."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      13
+    ]
   }
 }
