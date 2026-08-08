@@ -39723,5 +39723,23 @@
       5,
       13
     ]
+  },
+  "sol_1832": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and thunder's twin dances with infernal breath, a jester's grin guards treasures crystalline. The winged metamorphosis seeks what blazes eternal, while prismatic arcs connect the gleaming jewel to destiny's mark.",
+      "hint": "Think of celestial bodies, elements of chaos, and treasures both precious and transformative. Six symbols where luck meets the cosmos."
+    },
+    "easyRiddle": {
+      "text": "I hold six secrets: one that flies to stars, one that strikes with fury, one that sparkles bright, one that changes form, one that aims true, and one that burns with passion.",
+      "hint": "Consider the sky, weather, precious things, insects, games of chance, and elements of nature."
+    },
+    "answer": [
+      1,
+      5,
+      6,
+      8,
+      13,
+      21
+    ]
   }
 }
