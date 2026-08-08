@@ -39831,5 +39831,23 @@
       5,
       20
     ]
+  },
+  "sol_1838": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers of fate converge. The archer's mark guides through tempest's song, while winged metamorphosis pirouettes beneath gemstone's luminescence. Chaos and chance intertwine as the jester's grin reflects in crystalline depths, and the scaled guardian watches over melody's sacred vessel.",
+      "hint": "One points, one strikes, one glimmers, one transforms, one laughs, one guards."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key: precision's circle, electricity's bolt, treasure's sparkle, nature's change, fortune's cube, and magic's gleam.",
+      "hint": "Look for aim, shock, shine, wings, luck, and mystery."
+    },
+    "answer": [
+      0,
+      4,
+      5,
+      8,
+      11,
+      21
+    ]
   }
 }
