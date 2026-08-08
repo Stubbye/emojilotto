@@ -39867,5 +39867,23 @@
       19,
       17
     ]
+  },
+  "sol_1840": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone gleams in lightning's tear. The phoenix dances with the night's own flame, while nature's winged messenger stakes its claim. Six symbols bind the seeker's fate—one strikes from heaven, one opens the gate.",
+      "hint": "Look to the sky and earth below. One pierces targets, one steals the show."
+    },
+    "easyRiddle": {
+      "text": "A treasure shines bright, electricity crackles near. A butterfly flutters as the moon draws clear. Fire burns strong in the night so dark. Six lucky signs will leave their mark.",
+      "hint": "Count the colors: precious, electric, winged, celestial, hot, and shadowed."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      8,
+      12,
+      13
+    ]
   }
 }
