@@ -39507,5 +39507,23 @@
       19,
       5
     ]
+  },
+  "sol_1820": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets infernal dance, six secrets spiral through fortune's trance. The archer's mark devours the sky's bright tear, while serpent's scales ignite what mortals fear. Grace takes wing through prismatic veil, and fortune's grin shall never fail.",
+      "hint": "One points, one burns, one flies, one coils, one bends light, one laughs in chaos."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: aim true at the bullseye, launch dreams skyward, find glittering stones beneath lunar glow, chase lightning's fury, and dance with wings of transformation through a spectrum of hope.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
