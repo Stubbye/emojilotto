@@ -39849,5 +39849,23 @@
       11,
       21
     ]
+  },
+  "sol_1839": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial void, a jeweled flame dances with winged grace. The jester's grin conceals the serpent's wisdom, while luck's seven-sided oracle whispers secrets to the crowned victor.",
+      "hint": "Seek the symbols of chance, nobility, and the mythical guardian. One guides destiny, one burns eternal, one flutters between worlds."
+    },
+    "easyRiddle": {
+      "text": "A gem glitters, a dragon coils, a rocket soars, lightning strikes, a joker laughs, and a trophy gleams. Which six dance together in fortune's game?",
+      "hint": "Look for: something precious, something fiery, something that flies, something that laughs, something that rewards, and something that rules."
+    },
+    "answer": [
+      5,
+      1,
+      2,
+      12,
+      19,
+      17
+    ]
   }
 }
