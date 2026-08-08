@@ -39435,5 +39435,23 @@
       13,
       10
     ]
+  },
+  "sol_1817": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six secrets dance in shadow's game. The jester's grin beneath twin masks of fate, while scaled ancient wisdom guards the gate. A butterfly ascends through prism's arc, where crystal shards ignite the dark. Seek the treasured sphere that mortals chase, and find the answer written in this space.",
+      "hint": "One brings luck, one brings speed, one brings magic, one brings greed. One transforms, one destroys, one reveals all joys."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the jester's jest, the dragon's guard, the flame's conquest. Find the butterfly dancing through my rays, the crystal's gleam within my haze. Six symbols spin where fortune plays.",
+      "hint": "Think of luck, magic, trickery, power, transformation, and precious things."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      20
+    ]
   }
 }
