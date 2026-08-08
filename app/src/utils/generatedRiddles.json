@@ -39489,5 +39489,23 @@
       17,
       9
     ]
+  },
+  "sol_1819": {
+    "hardRiddle": {
+      "text": "Where celestial fire waltzes with fortune's wheel, six secrets hide in nature's appeal. The archer's mark meets swift ascension, gem's radiance through shadow's dimension. Grace on gossamer wings takes flight, while heaven's silver bathed in cosmic light. Seek the jester's masked deception, electricity's violent conception. In this cryptic dance of fate's own design, these six shall shimmer, align, entwine.",
+      "hint": "Consider what rises, sparkles, conceals truth, and moves with purpose—one is aimed, one flies, one deceives, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "I contain an archer's circle, a bottle rocket's dream, something precious and gleaming, the night's bright realm, a joyful performer, and nature's electric wrath. What six elements complete this celestial lottery?",
+      "hint": "Think of targets, flight, wealth, the sky, entertainment, and storms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      5
+    ]
   }
 }
