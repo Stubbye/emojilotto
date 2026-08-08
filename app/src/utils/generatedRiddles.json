@@ -39921,5 +39921,23 @@
       13,
       14
     ]
+  },
+  "sol_1842": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six keepers of fate dance in twilight's game. The winged metamorphosis spirals through prisms of light, whilst the dragon's fortune glimmers in night. Swift-footed trickster guards the clover's embrace, and the five-pointed sentinel crowns this sacred space.",
+      "hint": "Seek the hunter's mark, the sky's fire, the transformed grace, the jeweled dragon, the cunning watcher, and the cosmic beacon."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures wrapped in riddle's song: a target for aim, a flame that burns strong, a butterfly's dance through rainbow's delight, a dragon of gems shining bright in the night, a fox's quick wit by fortune's own clover, and a star watching over.",
+      "hint": "Count: aim, fire, butterfly, dragon, fox, star."
+    },
+    "answer": [
+      0,
+      5,
+      8,
+      14,
+      13,
+      21
+    ]
   }
 }
