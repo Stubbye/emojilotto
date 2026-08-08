@@ -39597,5 +39597,23 @@
       10,
       11
     ]
+  },
+  "sol_1826": {
+    "hardRiddle": {
+      "text": "Where celestial archer meets the dancer of fortune, and molten breath spirals toward twilight's crown. The jester's grin betrays twin flames of chaos, while nature's metamorphosis weaves through crystalline fortune's thread.",
+      "hint": "One points upward, one descends to madness, one transforms, one glitters eternal, one laughs in riddles, one burns with rage."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: what shoots toward heaven, what marks the target's aim, what gleams in darkness, what rules the night, what dances with mischief, and what consumes all.",
+      "hint": "Think of journey, precision, wealth, darkness, trickery, and destruction."
+    },
+    "answer": [
+      1,
+      0,
+      5,
+      3,
+      11,
+      6
+    ]
   }
 }
