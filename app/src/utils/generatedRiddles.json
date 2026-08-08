@@ -39417,5 +39417,23 @@
       18,
       0
     ]
+  },
+  "sol_1816": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six whispers dance in fortune's choir. The jester's mask adorns the night, while gemstone gleams in starlit light. The fox's cunning weaves between the lightning's silver sheen. One blooms eternal in the glow, where rainbow's arc and sparkles flow.",
+      "hint": "Seek the performer, the precious, the predator, the celestial, the brilliant, and the radiant."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's aim, the fool's grin, the precious stone so thin, the fire in the sky, the clever beast nearby, and where light dances and multiplies.",
+      "hint": "One shoots, one performs, one gleams, one burns above, one prowls, one shines brightly."
+    },
+    "answer": [
+      0,
+      19,
+      2,
+      5,
+      13,
+      10
+    ]
   }
 }
