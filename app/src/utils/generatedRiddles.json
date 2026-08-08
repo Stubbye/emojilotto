@@ -39795,5 +39795,23 @@
       8,
       19
     ]
+  },
+  "sol_1836": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets hide in the veil. The archer's mark meets the sky's orphan, while chaos sparkles through prisms of fate. A scaled guardian watches over melodies born from chaos, as nature's winged messenger seeks what glimmers eternal.",
+      "hint": "Think of luck's symbols, sky's mysteries, and creatures of legend intertwined with games of chance."
+    },
+    "easyRiddle": {
+      "text": "Find the target where luck aims, the rocket that reaches high, the gem that shines bright, the moon that watches over night, the lightning that strikes with chaos, and the dragon that guards all treasures.",
+      "hint": "These are symbols of ambition, wealth, fortune, and mythical power."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
