@@ -39939,5 +39939,23 @@
       13,
       21
     ]
+  },
+  "sol_1843": {
+    "hardRiddle": {
+      "text": "Where fortune's crimson tongue meets heaven's silver gaze, a celestial jester pirouettes through prisms of fractured light. The archer's eye beholds the dancer's metamorphosis, while gemstones whisper secrets to the sky's electric heartbeat. Six guardians of destiny converge where chaos blazes eternal.",
+      "hint": "Consider elements of chance, transformation, precious things, and the spaces between earth and cosmos."
+    },
+    "easyRiddle": {
+      "text": "I contain a target for luck, a rocket for dreams, a gem for treasure, the moon for wishes, lightning for power, and fire for passion. What am I?",
+      "hint": "Count six specific symbols that represent fortune and fate."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
