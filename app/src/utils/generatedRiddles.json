@@ -39669,5 +39669,23 @@
       10,
       21
     ]
+  },
+  "sol_1829": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the masked virtuoso strikes fortune's crystal heart whilst chaos dances in gilded circles—six tokens of destiny converge where lightning births iridescent wings beneath the eternal sentinel's gaze.",
+      "hint": "Think of performance, precious stones, cosmic elements, and transformation through electricity and light."
+    },
+    "easyRiddle": {
+      "text": "Find the stage of wonder, the stone that shines, the bolt from above, the wings of change, the light eternal, and the mask of chance—six symbols where magic meets fortune.",
+      "hint": "Look for: a performance venue, something precious, electricity, a delicate insect, a bright object in the sky, and something you wear to hide."
+    },
+    "answer": [
+      7,
+      5,
+      4,
+      8,
+      21,
+      19
+    ]
   }
 }
