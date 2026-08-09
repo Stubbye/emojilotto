@@ -40371,5 +40371,23 @@
       13,
       10
     ]
+  },
+  "sol_1864": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin serpents dance in chromatic descent—seek the jester's crown amid crystalline whispers, whilst the nocturnal orb witnesses all through the prism of chaos and brilliance intertwined.",
+      "hint": "One marks the goal, one reaches beyond, one laughs at fate, one reflects light, one rules the void, one shatters order."
+    },
+    "easyRiddle": {
+      "text": "A target meets a dragon in the night sky, where a joker holds a crystal that sparkles with lightning's memory.",
+      "hint": "Six symbols: one you aim for, one ancient and wise, one who laughs, one clear and precious, one dark and distant, one that crackles with electricity."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      20,
+      21,
+      5
+    ]
   }
 }
