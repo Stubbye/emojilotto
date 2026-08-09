@@ -40227,5 +40227,23 @@
       14,
       20
     ]
+  },
+  "sol_1857": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, the masked jester pirouettes beneath twin crescents of chance. A scaled beast coils through chambers of crystalline fate, while winged metamorphosis seeks the archer's bullseye through storms of electric rebirth.",
+      "hint": "Seek the symbols of chance, transformation, and celestial power. Three realms converge: performer's domain, mythical guardian, and nature's messenger."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow: a beast of scales, a target true, a stone that gleams, a player masked, a creature reborn on wings, and thunder's bright kiss.",
+      "hint": "Look for: dragon, target, gem, joker, butterfly, and lightning"
+    },
+    "answer": [
+      14,
+      0,
+      5,
+      19,
+      8,
+      4
+    ]
   }
 }
