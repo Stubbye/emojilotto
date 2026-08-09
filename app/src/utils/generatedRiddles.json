@@ -40389,5 +40389,23 @@
       21,
       5
     ]
+  },
+  "sol_1865": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the emerald's whisper ignites the sky's electric song. The nocturnal guardian watches over chaos wrapped in ribbons of light, while the winged metamorphosis seeks the prism's divided grace.",
+      "hint": "One guides precision, one illuminates night, one glimmers with value, one sparks the storm, one performs in circles, one transforms through air."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within: the bullseye's mark, the sky's bright pearl, the glowing stone, the storm's sharp blade, the big top's stage, and the creature that dances on air.",
+      "hint": "Look for: target, moon, gem, lightning, circus, and butterfly"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      4,
+      6,
+      8
+    ]
   }
 }
