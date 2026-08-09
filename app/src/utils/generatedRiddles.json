@@ -40083,5 +40083,23 @@
       19,
       9
     ]
+  },
+  "sol_1850": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound dreams, six sentinels await: The archer's mark bleeds into infinity's vessel, while twin serpents of velocity and chaos coil—one ascending through obsidian heights, one consuming all it touches. Between them, a jester's grin mocks destiny itself, and petaled whispers bloom eternal in the garden where luck crystallizes into fractured radiance.",
+      "hint": "Think of the symbols of games, ambition, luck, and the cosmos intertwined. One is a fool's wisdom, one wears nature's costume."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: A bullseye waits for your aim, a flame dances with heat, a fool grins with secrets, a dragon coils in myth, a flower opens to hope, and gems glitter with promise. Which six compose the winning fortune?",
+      "hint": "Look for: aim, fire, trickery, legend, nature, and treasure."
+    },
+    "answer": [
+      0,
+      5,
+      14,
+      13,
+      19,
+      20
+    ]
   }
 }
