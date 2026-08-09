@@ -40425,5 +40425,23 @@
       4,
       20
     ]
+  },
+  "sol_1868": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six tokens dance in fortune's game. The archer's mark aligns with fire's breath, while lunar sentinel watches death. From gem-lit depths to dragon's gleam, the joker shuffles destiny's dream. Between the wings of metamorphosis and fortune's painted wheel, where masked performers hide what stars reveal.",
+      "hint": "One guides direction, one consumes, one illuminates night, one transforms, one holds all colors, one wears many faces"
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the fire's flame, the moon's bright glow, the gem's rare show, the dragon's might, and the joker's jest.",
+      "hint": "Think of direction, heat, night sky, treasure, mythology, and card games"
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      2,
+      13,
+      19
+    ]
   }
 }
