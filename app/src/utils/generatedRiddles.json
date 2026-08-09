@@ -39957,5 +39957,23 @@
       4,
       5
     ]
+  },
+  "sol_1844": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's celestial throne, and chaos crackles through the prism'd stone. The mystic winged messenger dances where inferno breathes, while destiny's golden crown reflects what mortals never perceive. Six tokens of fate converge: the aimed intention, the ascending vessel, the radiant crystal, the night's pale keeper, the wild trickster's grin, and the ancient scaled wisdom.",
+      "hint": "Think of: pursuit, ascension, treasure, darkness, mischief, and primordial power"
+    },
+    "easyRiddle": {
+      "text": "I aim for success, I reach for the stars, I sparkle with value, I glow in the night. A jester laughs, and an ancient beast watches. What six symbols of luck align?",
+      "hint": "Target, Rocket, Gem, Moon, Joker, Dragon"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      13
+    ]
   }
 }
