@@ -40407,5 +40407,23 @@
       6,
       8
     ]
+  },
+  "sol_1867": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, the winged muse ascends toward crystalline dreams. Six whispers dance: the archer's mark gleams with starlight's twin, while thunder crowns the fool's kaleidoscopic jest. Seek where gems fractalize infinity and the masked revelation blooms eternal.",
+      "hint": "Think of performance, luck, and the night sky converging in a symphony of chance."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: the target of all games, the joker's wild grin, the gem that shines, the star above, the lightning that strikes, and the crystal that sparkles.",
+      "hint": "One is a bullseye, one laughs at fate, one is precious, one lights the night, one crackles with power, and one reflects light."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      21,
+      4,
+      20
+    ]
   }
 }
