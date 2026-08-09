@@ -40317,5 +40317,23 @@
       11,
       21
     ]
+  },
+  "sol_1861": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's crystalline veil, six secrets hide within the liminal space—the archer's eternal aim meets the serpent's ancient coil, while the night's pale guardian witnesses the jester's masked performance. The brilliant shard reflects what the winged metamorphosis seeks, as lightning's twin brother ignites the stage where all mysteries converge.",
+      "hint": "One points toward destiny, one coils through mythology, one glows above, one wears deception's face, one transforms eternally, one splits the sky."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of fortune's song: the hunter of aims, the cosmic serpent, the night's lantern, the trickster's grin, the changing soul, and the heavens' wrath. Which six dance in lottery's dream?",
+      "hint": "Think of: precision, mythology, celestial bodies, trickery, transformation, and nature's fury."
+    },
+    "answer": [
+      0,
+      13,
+      3,
+      19,
+      8,
+      5
+    ]
   }
 }
