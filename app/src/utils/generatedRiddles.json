@@ -39975,5 +39975,41 @@
       11,
       13
     ]
+  },
+  "sol_1845": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six portents align in shadow's tale. The sky-bound vessel carries wishes through the void, while gemstone truth remains employed. Luna's face observes the thunder's dance, as wings of transformation entrance. What rises in the heart of flame, yet circles joy without a name?",
+      "hint": "Consider the journey from earth to cosmos, the marriage of precious and fleeting moments, and what performs in revelry."
+    },
+    "easyRiddle": {
+      "text": "Six signs of destiny: one aims true, one climbs the sky, one sparkles bright, one rules the night, one strikes with rage, one floats on stage. Name them all.",
+      "hint": "Think of targets, space travel, gems, the moon, electricity, and entertainment."
+    },
+    "answer": [
+      0,
+      2,
+      1,
+      3,
+      4,
+      7
+    ]
+  },
+  "emlo_721": {
+    "hardRiddle": {
+      "text": "I'm a memecoin that shoots for the celestial prize, fueled by electric hype and diamond eyes. A jester's luck meets a fox's cunning ways, while sparkles rain down through mystical rays. What six symbols represent my moonbound craze?",
+      "hint": "Think of the journey from joke to riches, with magical luck and cosmic switches."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gems shine bright, and luck will last. Moon is the goal, sparkles are dreams, joker's your chance in memecoin schemes. Name these six!",
+      "hint": "One launches you, one electrifies, one glitters, one laughs, one shines above, one makes magic happen."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      22,
+      3,
+      10
+    ]
   }
 }
