@@ -40191,5 +40191,23 @@
       4,
       9
     ]
+  },
+  "sol_1855": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers convene in cosmic trance. The archer's mark eclipsed by night, while thunder's kiss ignites delight. Winged metamorphosis spirals high, as fortune's jester catches the sky. In prisms bent through spectrum's gate, where gems reflect what mortals fate.",
+      "hint": "Consider what rises, strikes, transforms, and sparkles in the darkness between chance and destiny."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: one aims true, one lights the dark, one soars on wings, one strikes with power, one laughs at fate, one glows with magic.",
+      "hint": "Think of targets, night skies, butterflies, storms, tricksters, and glittering light."
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      4,
+      19,
+      10
+    ]
   }
 }
