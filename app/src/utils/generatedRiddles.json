@@ -40101,5 +40101,23 @@
       19,
       20
     ]
+  },
+  "sol_1851": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a jester's twin masks guard the threshold of dreams. The scaled serpent coils beneath a prism of fortune's tears, while winged metamorphosis dances through shattered light. Six sentinels of fate converge where laughter echoes in chambers of chance.",
+      "hint": "One points the way, one ignites desire, one obscures truth, one transcends, one embodies chaos, one transforms."
+    },
+    "easyRiddle": {
+      "text": "I am the mark of aim, the flame of ambition, the face of deception, the winged rebirth, the scaled fortune-bringer, and the glitter of destiny. Together we six unlock the vault of luck.",
+      "hint": "Think of targets, fire, hidden faces, creatures that change, mythical beasts, and magical sparkle."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      8,
+      14,
+      10
+    ]
   }
 }
