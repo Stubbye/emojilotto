@@ -40119,5 +40119,23 @@
       14,
       10
     ]
+  },
+  "sol_1852": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels convene in shadow's embrace. The winged metamorphosis dances 'tween the prism's arc, while gemstone's brilliance whispers secrets to the cosmic eye. Thunder's child ignites the masquerade of chance, and the serpent's scales coil round the victor's crown.",
+      "hint": "Transformation, luck, and celestial alignment converge where chaos meets precision"
+    },
+    "easyRiddle": {
+      "text": "Find the mark that guides true aim, the beast that soars through sky's domain, the jewel that catches light and gleams, the pale orb watching all our dreams, the bolt that dances wild and free, and the golden prize that sets you free.",
+      "hint": "One helps you aim, one flies, one shines, one watches, one strikes, one rewards"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      18
+    ]
   }
 }
