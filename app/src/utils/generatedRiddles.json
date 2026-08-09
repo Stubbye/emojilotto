@@ -40011,5 +40011,23 @@
       3,
       10
     ]
+  },
+  "sol_1846": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, a gem gleams beneath the moon's desire. The lightning dances with dragon's ancient art, while butterfly wings hold fortune's secret heart. Six symbols intertwine in fate's grand design—which shall illuminate the path where luck and cosmos align?",
+      "hint": "Consider the marriage of earthly treasures and heavenly bodies, where mythical creatures guard the gateways between worlds."
+    },
+    "easyRiddle": {
+      "text": "One aims with purpose, one burns bright above. One shines with value, one lights up the night. One strikes with power, one flies with grace. Find these six treasures in the cosmic space.",
+      "hint": "Think of a hunter's tool, a precious stone, the night guardian, power itself, a mythical beast, and nature's delicate flyer."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      13,
+      8
+    ]
   }
 }
