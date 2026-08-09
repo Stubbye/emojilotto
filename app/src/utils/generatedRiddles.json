@@ -40029,5 +40029,23 @@
       13,
       8
     ]
+  },
+  "sol_1847": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a gemstone glimmers in the night's lone moan. Thunder's kiss ignites the wheel of chance, while the trickster grins in destiny's dance. The scaled guardian hoards the prize untold, and blooming petals whisper secrets old.",
+      "hint": "One flies upward, one shines above, one sparkles bright, one brings luck from above, one guards, one grows."
+    },
+    "easyRiddle": {
+      "text": "I seek the symbols of luck and light: a target's aim, a gem so bright, the moon's soft glow, lightning's might, a dragon's gold, and a flower's sight.",
+      "hint": "Find: aim, jewel, night sky, storm, beast, bloom"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      13,
+      14
+    ]
   }
 }
