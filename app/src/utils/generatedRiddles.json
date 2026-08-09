@@ -40065,5 +40065,23 @@
       19,
       20
     ]
+  },
+  "emlo_722": {
+    "hardRiddle": {
+      "text": "I launch to the celestial heights with electric speed, my gem-like sparkles ignite the fire of fortune. Where lightning strikes and dragons dance, the circus of dreamers seeks their moonbound treasure, guided by a joker's grin beneath the rainbow's promise.",
+      "hint": "Six symbols of crypto dreams: one ascends, one glimmers, one electrifies, one rules the sky, one enchants with chaos, and one bridges hope."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🐉 roars loud, 🃏 tricks you, 🌈 shows the way. Which six bring the memecoin magic?",
+      "hint": "Think: launch, value, speed, power, chaos, hope"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      13,
+      19,
+      9
+    ]
   }
 }
