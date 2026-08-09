@@ -40245,5 +40245,23 @@
       8,
       4
     ]
+  },
+  "sol_1858": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin flames, a prismatic serpent dances through midnight's veil. The jester's price gleams in the archer's aim, while petals of chaos bloom in the vault of dreams. Six treasures converge where destiny wears masks and the butterfly remembers being lightning.",
+      "hint": "Think of luck's symbols, transformation, and the meeting of light and night."
+    },
+    "easyRiddle": {
+      "text": "Find the star that burns, the treasure that sparkles, the serpent of fortune, the night's bright guardian, the mystic bloom, and the masked deceiver's twin.",
+      "hint": "One shines above, one glitters, one slithers, one illuminates darkness, one grows, and one performs."
+    },
+    "answer": [
+      22,
+      6,
+      13,
+      2,
+      14,
+      18
+    ]
   }
 }
