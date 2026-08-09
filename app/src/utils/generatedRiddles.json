@@ -40353,5 +40353,23 @@
       8,
       11
     ]
+  },
+  "sol_1863": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the jester's twin masks witness fortune's dance. Six luminous threads bind the archer's mark to the dragon's ancient song, while crystal tears refract the lightning's kiss upon the stage of infinite possibility.",
+      "hint": "Consider what sparkles when struck, what performs under big tents, what flies toward dreams, and what the trickster guards."
+    },
+    "easyRiddle": {
+      "text": "One points the way to riches, one flies toward wishes, one shines with inner light, one guards secrets with laughter, one breathes ancient wisdom, and one sparkles with pure magic. What six dance together in fortune's lottery?",
+      "hint": "A target, a rocket, a gem, a joker, a dragon, and sparkles are the answer."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      18,
+      13,
+      10
+    ]
   }
 }
