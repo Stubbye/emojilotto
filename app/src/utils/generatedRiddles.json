@@ -40209,5 +40209,23 @@
       19,
       10
     ]
+  },
+  "sol_1856": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin wheels, and the trickster's grin reflects in gemstone's gleam, the winged messenger ascends through prismatic veils toward the jester's crown. Six shadows converge: the archer's eternal mark, the vessel of explosive dreams, the crystallized heart of earth's treasure, the nocturnal sovereign's gaze, the serpent of chaos unbound, and the sparkling dust of wishes made manifest.",
+      "hint": "One points outward, one flies upward, one glitters beneath, one illuminates darkness, one breathes destruction, one shimmers with magic."
+    },
+    "easyRiddle": {
+      "text": "I am six signs of destiny: a circle you aim for, a ship that flies, a precious stone, the night's pale face, a serpent of legend, and magic's shimmer.",
+      "hint": "Target, Rocket, Gem, Moon, Dragon, Sparkles"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      20
+    ]
   }
 }
