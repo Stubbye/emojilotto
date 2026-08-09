@@ -40155,5 +40155,41 @@
       18,
       4
     ]
+  },
+  "sol_1854": {
+    "hardRiddle": {
+      "text": "Where celestial flames dance through prismatic veils, the fortune-seeker's arrow pierces the cosmic jest. Six sentinels of fate converge: the nocturnal guardian watches as thunder births its twin flame, while crystalline splinters scatter beneath the performer's painted grin and the winged metamorphosis of chance itself.",
+      "hint": "Look to the heavens and theatre, where luck performs its ancient alchemy."
+    },
+    "easyRiddle": {
+      "text": "Find the moon's companion, the bolt that strikes, the fire that answers, the jester's mask, the crystal that gleams, and the creature that transforms on gossamer wings.",
+      "hint": "One glows at night, one strikes fast, one burns bright, one entertains, one sparkles hard, and one flies free."
+    },
+    "answer": [
+      3,
+      4,
+      5,
+      18,
+      20,
+      8
+    ]
+  },
+  "emlo_723": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the heavens, where gems sparkle with electric fortune and the dancing dragon ignites rainbow chaos across the cosmic stage.",
+      "hint": "Think of memes, luck, and space—what 6 symbols represent a memecoin's wild journey?"
+    },
+    "easyRiddle": {
+      "text": "Start with the fool's laughter, add a fire-powered ship, find treasure that glows, reach the night destination, feel the electric buzz, and watch the colors dance.",
+      "hint": "Joker... Rocket... and 4 more cosmic friends"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
   }
 }
