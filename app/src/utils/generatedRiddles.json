@@ -40137,5 +40137,23 @@
       4,
       18
     ]
+  },
+  "sol_1853": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger chases the jeweled crown through prismatic veils—seek the mark where chaos meets destiny's electric embrace, where masked jesters bow to the scaled guardian of dreams.",
+      "hint": "Think of luck's symbols: what flies, what sparkles, what reigns, what randomly decides, what conceals truth, and what strikes from above?"
+    },
+    "easyRiddle": {
+      "text": "I am six: a shining gem adorned in heaven's glow, a creature of transformation on rainbow's bow, a tyrant of myths breathing molten desire, masked tricksters and dice rolling through electric fire. What are we?",
+      "hint": "Lottery symbols: precious stone, flying insect, mythical beast, gambling tool, hidden faces, and nature's flash"
+    },
+    "answer": [
+      3,
+      8,
+      13,
+      11,
+      18,
+      4
+    ]
   }
 }
