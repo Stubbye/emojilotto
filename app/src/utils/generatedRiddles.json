@@ -40335,5 +40335,23 @@
       8,
       5
     ]
+  },
+  "sol_1862": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while masked revelry dances with fortune's die. The six-winged messenger of transformation bears witness to the violet throne's crystalline echo.",
+      "hint": "One pierces, one climbs, one burns, one plays, one transforms, one sparkles—all in a cosmic theater."
+    },
+    "easyRiddle": {
+      "text": "A target for dreamers, a dragon that soars, lightning that dances, masks that explore, a butterfly's grace, and purple's bright gleam.",
+      "hint": "Think of ascension, theatricality, and nature's most magical moments."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      19,
+      8,
+      11
+    ]
   }
 }
