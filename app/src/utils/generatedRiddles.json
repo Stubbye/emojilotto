@@ -40263,5 +40263,23 @@
       14,
       18
     ]
+  },
+  "sol_1859": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer weeps crystalline tears upon the stage of chaos, seven-faced trickster juggles fortune's wheel whilst winged metamorphosis dances through the prism of becoming. The archer's distant mark glows in silence as electricity births itself from the void, and treasured facets catch the gaze of all who dare to witness transformation's theater.",
+      "hint": "One reflects the heavens, one spins chance, one changes form, one aims true, one crackles with power, one glitters with worth"
+    },
+    "easyRiddle": {
+      "text": "I contain six secrets: one shines from space, one brings luck's game, one spreads its wings, one never misses, one strikes like anger, and one is precious beyond measure. Find them in the chaos and claim your fortune.",
+      "hint": "Look to the sky, the wheel, nature's transformation, precision, electricity, and jewels"
+    },
+    "answer": [
+      1,
+      11,
+      8,
+      0,
+      5,
+      2
+    ]
   }
 }
