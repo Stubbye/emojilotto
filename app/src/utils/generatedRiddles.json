@@ -40047,5 +40047,23 @@
       13,
       14
     ]
+  },
+  "sol_1848": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate align in shadow's appeal. The archer's mark meets the winged messenger's flight, while gems crystallize dreams in the vault of night. A jester's grin watches the serpent's ancient throne, and fortune's clover blooms where destinies are sown.",
+      "hint": "Seek the symbols of luck, speed, wealth, chaos, mischief, and fortune's blessing intertwined."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket soaring high, the gem that sparkles and the dragon's eye, the joker's laugh and the clover's grace—six lucky symbols in this sacred space.",
+      "hint": "One shoots, one flies, one shines, one is mythical, one tricks, and one brings luck."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      13,
+      19,
+      20
+    ]
   }
 }
