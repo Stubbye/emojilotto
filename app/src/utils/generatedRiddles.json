@@ -40659,5 +40659,23 @@
       5,
       17
     ]
+  },
+  "sol_1878": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's game, six secrets spin in cosmic flame. The archer's mark meets the serpent's dream, while stellar tears ignite the gleam. Chaos blooms where jester's masks convene, and fortune's glimmer crowns the unseen.",
+      "hint": "Think of fate's intersection: aim, ascension, wealth, night's glow, chaos, and brilliance."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: one you aim at, one that flies high, one you desire, one that glows at night, one that sparks danger, and one that shines bright in the dark.",
+      "hint": "Target, rocket, gem, moon, lightning, sparkles."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
