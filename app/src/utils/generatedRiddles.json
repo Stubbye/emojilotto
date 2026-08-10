@@ -40497,5 +40497,23 @@
       9,
       5
     ]
+  },
+  "sol_1871": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six secrets hide in twilight's trance. The archer's aim through primal flame, a jester's grin at destiny's game. Twin wings of metamorphosis soar, while crystalline echoes strike the core. Luck blooms where thunder courts the night, and all converge where colors ignite.",
+      "hint": "Seek the intersection of chance, transformation, and cosmic power. One heals the soul, one crowns the bold."
+    },
+    "easyRiddle": {
+      "text": "I am six paths to fortune's door: a circling game, a lightning roar, a butterfly's grace, a dragon's might, a glittering gem, and fortune's light. What am I?",
+      "hint": "Think of symbols that represent luck, chance, and magical transformation combined together."
+    },
+    "answer": [
+      1,
+      4,
+      8,
+      13,
+      20,
+      21
+    ]
   }
 }
