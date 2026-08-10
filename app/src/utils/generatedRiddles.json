@@ -40821,5 +40821,23 @@
       2,
       4
     ]
+  },
+  "sol_1886": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a crystalline heart ignites celestial fire. The jester's mask grins as emerald dreams ascend on wings of thunder, while the minstrel's strings weave the cosmic dance betwixt shadow and luminescence.",
+      "hint": "Six treasures hide within: precision, ascension, brilliance, darkness, deception, and melody."
+    },
+    "easyRiddle": {
+      "text": "A sharp aim meets a jewel in the heavens. Lightning strikes as a masked player laughs, while music echoes through the stars.",
+      "hint": "Think of: accuracy, gems, night sky, electricity, performance, and sound."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      19,
+      16
+    ]
   }
 }
