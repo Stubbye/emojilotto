@@ -40677,5 +40677,23 @@
       4,
       10
     ]
+  },
+  "sol_1879": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and twin serpents dance through prismatic maze. The trickster's grin echoes where thunder splits, while petals bloom where destiny submits. One reveals all secrets with its gleaming face, the other guards the cosmic, starlit space.",
+      "hint": "Seek the convergence of chance, celestial wisdom, and the dual nature of fate's eternal play."
+    },
+    "easyRiddle": {
+      "text": "I strike with fury from above, a jester mocks with jest. A gem that glows, a moon so cold, a star burns with zest. A flower opens at the end—six treasures joined as one.",
+      "hint": "Think of lightning, laughter, sparkle, night sky, light, and nature's bloom."
+    },
+    "answer": [
+      4,
+      3,
+      11,
+      7,
+      21,
+      14
+    ]
   }
 }
