@@ -40515,5 +40515,23 @@
       20,
       21
     ]
+  },
+  "sol_1872": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, through prismatic gates of luck, a winged metamorphosis pursues the archer's eternal mark beneath the void's gleaming eye. Chaos orchestrates the symphony of chance.",
+      "hint": "Think of transformation, destiny, duality, precision, chaos, and the cosmos above."
+    },
+    "easyRiddle": {
+      "text": "Six keepers of fortune gather: one marks the target, one brings the flame, one shifts its shape, one glows above, one splits the light, and one rolls the odds.",
+      "hint": "Fire, butterfly, lightning, moon, rainbow, and dice—where luck is cast."
+    },
+    "answer": [
+      4,
+      5,
+      8,
+      3,
+      9,
+      11
+    ]
   }
 }
