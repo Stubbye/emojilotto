@@ -40587,5 +40587,23 @@
       15,
       5
     ]
+  },
+  "sol_1875": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weeper, and twin serpents dance in crystalline fire, the jester's grin gleams beneath the prism's arch—seek where luck's winged messenger trembles against the storm's electric kiss, where music blooms in violet splendor and the heavens scatter their frozen tears.",
+      "hint": "One guides, one burns, one laughs, one flies, one shines, one sings—in realms both earthly and divine."
+    },
+    "easyRiddle": {
+      "text": "A goal's sharp point, a flame most bright, a stone of worth, a jester's delight, a dragon's ancient wisdom, and a flower's gentle sight—which six illuminate the path to fortune's light?",
+      "hint": "Think of precision, heat, value, mirth, legend, and nature."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      12,
+      13,
+      14
+    ]
   }
 }
