@@ -40803,5 +40803,23 @@
       18,
       23
     ]
+  },
+  "sol_1885": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a gemstone catches light that mortals chase through seven arcs. The trickster's grin meets nature's wings in crystalline halls of chance, while lightning scribes destiny upon the stage of dreams. Six symbols intertwine where luck and chaos waltz eternal.",
+      "hint": "Consider what shimmers, what laughs, what transforms, what strikes, what glimmers, and what soars beyond the veil."
+    },
+    "easyRiddle": {
+      "text": "Six lucky signs: one burns bright from above, one sparkles in night sky, one tricks with a grin, one transforms in flight, one gleams hard and pure, one strikes from the clouds.",
+      "hint": "Think of: moon, sparkles, joker, butterfly, gem, lightning"
+    },
+    "answer": [
+      1,
+      9,
+      17,
+      8,
+      2,
+      4
+    ]
   }
 }
