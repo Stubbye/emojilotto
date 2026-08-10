@@ -40641,5 +40641,23 @@
       19,
       13
     ]
+  },
+  "sol_1877": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial thief, a gemstone bleeds through storm's grief. The jester's grin dissolves in ethereal dust, as six guardians dance where destiny's thrust. One pierces the veil between worlds, one glimmers in the void's pearls, one laughs at fate's design, one burns where shadows intertwine, one marks the path where spirits fly, one crowns the victor beneath the sky.",
+      "hint": "Seek the marriage of aimed destiny, stolen night-light, wealth's crystalline form, chaos's agent, infernal truth, and glory's crown."
+    },
+    "easyRiddle": {
+      "text": "A pointed aim, a stolen moon, a wealth most bright, a fool's cartoon, a burning truth, a winner's mark—these six shine through the darkest dark.",
+      "hint": "Think of targets, nighttime, treasure, laughter, heat, and achievement."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      11,
+      5,
+      17
+    ]
   }
 }
