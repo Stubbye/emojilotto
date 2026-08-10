@@ -40839,5 +40839,23 @@
       19,
       16
     ]
+  },
+  "sol_1887": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's bright sentinel, a jeweled spark ignites the tempest's dance. The night's guardian watches as the celestial fire weaves through the jester's domain, where wings of transformation flutter beneath the cosmic glow. Six threads of destiny intertwine: the aimed pursuit, the heavens' throne, the crystalline wealth, the tempest's rage, the masked revelry, and the metamorphosis's grace.",
+      "hint": "One points direction, one reigns above, one glimmers precious, one strikes with fury, one entertains with mystery, one transforms through beauty."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of chance and wonder: the bullseye of ambition, the crown of night, the gleam of riches, the roar of power, the smile of mischief, and the dance of rebirth.",
+      "hint": "Think of targets, celestial bodies, valuable things, destructive forces, theatrical characters, and nature's transformations."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      5,
+      17,
+      8
+    ]
   }
 }
