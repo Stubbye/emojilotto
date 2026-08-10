@@ -40605,5 +40605,41 @@
       13,
       14
     ]
+  },
+  "sol_1876": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of destiny converge. The archer's mark meets the void's messenger, while fortune's jester pirouettes beside the scaled guardian. Between them spirals the night's sovereign and chaos crystallized. Speak the sequence of those who hold the threads of chance.",
+      "hint": "One soars beyond, one pierces fate, one laughs in masks, one guards ancient hoard, one reigns nocturnal, one shatters order"
+    },
+    "easyRiddle": {
+      "text": "I see six magical things: something you aim at, something that flies to space, something shiny and precious, something in the night sky, something that sparks and zaps, and something that laughs and tricks. What are they?",
+      "hint": "Think of targets, rockets, gems, the moon, lightning, and jokers"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_728": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 spirit that makes holders bleed. Sparkle and shine like a precious 💎, but my true power hides in the joker's grin. Where 🦊 and 🐉 dance with fortune's 🎯, I am the memecoin that defies gravity.",
+      "hint": "Look for celestial dreams, shocking energy, and trickster wisdom combined"
+    },
+    "easyRiddle": {
+      "text": "Rocket to moon, lightning strikes fast, fire burns bright, gem shines forever, joker laughs loud, and fox runs wild. What six symbols represent the ultimate memecoin journey?",
+      "hint": "Think of a perfect memecoin: speed, destination, wealth, power, humor, and cunning"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      19,
+      13
+    ]
   }
 }
