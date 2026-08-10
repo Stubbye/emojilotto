@@ -40533,5 +40533,41 @@
       9,
       11
     ]
+  },
+  "sol_1873": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone weeps beneath lightning's sear. The jester's mask grins at chaos unfurled, while fire dances with nature's swirled. Six secrets hide in fortune's decree, can you name them all to set destiny free?",
+      "hint": "One guides aim, one illuminates night, one burns with might, one tricks the sight, one sparkles bright, and one nature's flight."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance and dream: a pointed aim, a glowing beam, a precious stone, a jester's game, a blazing heat, and wings aflame.",
+      "hint": "Target, Moon, Gem, Joker, Fire, and Butterfly are your six lucky charms."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      6,
+      8
+    ]
+  },
+  "emlo_727": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, where digital treasures sparkle in the void. Magic crystals shimmer as the cosmic jester dances, while fortune's wheel spins beneath the mystic glow.",
+      "hint": "Think of the journey from earth to wealth, with luck and dazzle along the way"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! One brings the boom, one lights the way up high, one sparkles with value, one's in the sky, one's a lucky wheel, and one's a silly performer.",
+      "hint": "Look for: launch vehicle, precious stone, destination, light show, chance game, and entertainer"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      11,
+      19
+    ]
   }
 }
