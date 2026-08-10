@@ -40569,5 +40569,23 @@
       11,
       19
     ]
+  },
+  "sol_1874": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester pirouettes through prismatic gates. The hunter's cunning meets scales of ancient dreaming, while crystalline tears fall upon petals of fate's garden. Six symbols intertwine: one pierces the veil between worlds, one ignites the chaos of chance, one guards the threshold of illusion, one breathes eternity's smoke, one blooms in sorrow's shrine, and one refracts the very essence of becoming.",
+      "hint": "Consider the intersection of luck, transformation, hidden truths, and cosmic forces. The answer dances between performer and predator, between stone and soul."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a stone that catches starlight, a creature with many faces, a dragon's ancient wisdom, a flower that never wilts, a jester's knowing smile, and the frozen moment when lightning kisses earth.",
+      "hint": "Think of symbols that represent luck, mystery, power, beauty, deception, and sudden change."
+    },
+    "answer": [
+      6,
+      18,
+      14,
+      13,
+      15,
+      5
+    ]
   }
 }
