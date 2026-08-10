@@ -40461,5 +40461,41 @@
       5,
       2
     ]
+  },
+  "sol_1870": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's grin mirrors the hunter's cunning grace. Six secrets waltz: the scaled breath of eons meets the winged maiden of metamorphosis, while chaos blooms in geometric symmetry and lightning crowns the sovereign's eternal vigil. Seek the chamber where all masks converge.",
+      "hint": "One rules the night, one brings the spark of chance, one wears many faces, one breathes ancient power, one transforms through shadow, one holds fate's geometry."
+    },
+    "easyRiddle": {
+      "text": "In this lottery, find: the night's bright sentinel, the wild trickster's smile, the dragon's domain, the lucky chance cube, the creature that flies and changes, and the storm's bright bolt.",
+      "hint": "Look for: a celestial body, a playing card character, a mythical beast, numbered luck, a transforming insect, and electrical energy."
+    },
+    "answer": [
+      3,
+      13,
+      9,
+      11,
+      8,
+      5
+    ]
+  },
+  "emlo_726": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with burning speed, sparkling with fortune's electric creed. Rainbow colors dance as my gems ignite, while luck strikes like lightning in the night. What six symbols guide the memecoin knight?",
+      "hint": "Think of a crypto journey: destination, velocity, wealth, luck, and the forces that power them."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 sparkles bright, ⚡ strikes with might, 🌙 shines at night, 🌈 shows the way, ✨ saves the day. Which six make a memecoin's perfect play?",
+      "hint": "Look for: a launch vehicle, precious reward, energy, night sky, colors, and magic dust."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      5
+    ]
   }
 }
