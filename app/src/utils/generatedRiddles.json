@@ -40731,5 +40731,23 @@
       2,
       19
     ]
+  },
+  "sol_1881": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's prismatic breath, six sentinels of fate converge: the archer's ambition pierces the void, while a scaled leviathan guards treasures that shimmer in the abyss. Twin luminaries of chance—one crystalline, one capricious—spin their eternal waltz. Between them, a metamorphic wanderer and nature's crowning jewel complete the sacred geometry of destiny.",
+      "hint": "Look for: aimed intent, mythical guardian, luck's mirror-twins, transformation, and botanical royalty"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune gather: a pointed aim, a glittering treasure, the moon's glow, a jester's trick, a dragon's wisdom, and a flower's grace. Which six reign supreme in this lottery of dreams?",
+      "hint": "Target, gem, moon, joker, dragon, and flower are your answers"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      7,
+      13,
+      14
+    ]
   }
 }
