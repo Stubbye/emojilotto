@@ -40695,5 +40695,41 @@
       21,
       14
     ]
+  },
+  "sol_1880": {
+    "hardRiddle": {
+      "text": "Where celestial fortune meets earthbound flame, six whispers dance in destiny's game. The archer's mark aligns with night's pale gaze, while voltage splits the prismed maze. Winged metamorphosis and scaled ancient tongue coil through fortune's song, where laughter's mask and emerald luck among the stars have just enough.",
+      "hint": "One guides the way upward, one burns with passion, one shimmers with transformation, one roars with power, one hides behind mirth, one grows from earth."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: what you aim for, what burns bright, what flies and transforms, what crawls with scales, what wears a false face, and what brings luck from soil.",
+      "hint": "Think of: a goal, heat, insects, mythology, comedy, and nature's blessing."
+    },
+    "answer": [
+      0,
+      5,
+      8,
+      13,
+      18,
+      19
+    ]
+  },
+  "emlo_729": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, glowing brilliantly as fortune strikes. My path shimmers with magical dust, guided by fortune's symbol. What am I?",
+      "hint": "A journey combining speed, destination, luck, and dazzle"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ hits fast, ✨ sparkles bright, 🌙 is the goal, 💎 is the prize, 🍀 brings luck. Which six shine together?",
+      "hint": "Think about a memecoin's ultimate moonshot story"
+    },
+    "answer": [
+      1,
+      4,
+      9,
+      3,
+      2,
+      19
+    ]
   }
 }
