@@ -40767,5 +40767,23 @@
       17,
       20
     ]
+  },
+  "sol_1883": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens spin in twilight's trance. The archer's mark aligns with night's pale queen, while lightning splits the space between. A gemstone catches radiance lost, and butterfly through flames has crossed.",
+      "hint": "Consider the path of ambition, the theft of light, and transformation through trials."
+    },
+    "easyRiddle": {
+      "text": "Find the target where rockets ascend, the gem that glows where storms descend, the moon that watches fire's flight, the butterfly that dares the light.",
+      "hint": "Look for symbols of aim, wealth, sky, danger, and metamorphosis."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
