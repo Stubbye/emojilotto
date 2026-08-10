@@ -40443,5 +40443,23 @@
       13,
       19
     ]
+  },
+  "sol_1869": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and chaos sings through crystalline veins. The trickster's gaze pierces the veil between worlds, whilst nature's messenger spirals through prismatic dreams. Thunder's whisper awakens the gem-heart, and all converge where luck orchestrates its ancient waltz.",
+      "hint": "Seek the marksman, the night's companion, the jester's smile, the winged transformer, the violent sky-tongue, and the treasured luminescence."
+    },
+    "easyRiddle": {
+      "text": "A bullseye watcher, a lunar friend, a laughing fool, a butterfly's dance, a lightning strike, and a sparkling gem—six signs of chance aligned.",
+      "hint": "Think of what helps you aim, what glows at night, who makes you laugh, what has wings, what cracks the sky, and what shines precious."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      5,
+      2
+    ]
   }
 }
