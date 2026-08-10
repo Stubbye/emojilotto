@@ -40749,5 +40749,23 @@
       13,
       14
     ]
+  },
+  "sol_1882": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six vessels of fate converge. The archer's mark gleams eternal, while winged metamorphosis spirals through storms of radiance. A jester's crown crowns the symphony of chance, and crystalline brilliance reflects what mortals seek but seldom claim.",
+      "hint": "Consider what glimmers, what transforms, what aims, and what laughs at destiny."
+    },
+    "easyRiddle": {
+      "text": "Find the target that shines, the butterfly that flies, the lightning that strikes, the sparkles that dance, the joker that grins, and the crystal that gleams.",
+      "hint": "Look for precision, transformation, electricity, magic, mischief, and purity."
+    },
+    "answer": [
+      0,
+      8,
+      4,
+      10,
+      17,
+      20
+    ]
   }
 }
