@@ -40893,5 +40893,23 @@
       3,
       4
     ]
+  },
+  "sol_1891": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens spin in destiny's trance. The archer's mark bleeds crimson dreams, while wings of metamorphosis gleam. Thunder's child and lunar glow unite, as precious facets catch the light. A jester's grin knows secrets untold, in this symphony of chance and gold.",
+      "hint": "One grants wishes, one pierces sky, one transforms, one makes you fly. Where luck and cosmic forces blend, six symbols mark the journey's end."
+    },
+    "easyRiddle": {
+      "text": "Find the target's piercing aim, the rocket's soaring flame, the gem's bright gleam, the moon's soft dream, the lightning's crackling might, and the joker's mischievous light.",
+      "hint": "One is a shape, one flies high, one sparkles, one is in the night sky, one zaps, and one grins."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
