@@ -41073,5 +41073,41 @@
       8,
       14
     ]
+  },
+  "sol_1900": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels await in shadow's trance. The archer's mark holds destiny's gleam, while serpent coils through fortune's dream. Winged transformation breaks the night, as crackling fury births the light. Between the spheres where laughter dwells, crystalline secrets whisper spells.",
+      "hint": "Seek the blazing bolt, the scaled one's throne, the marked circle, the gem reborn as stone, the metamorphosed soul, and where jesters have shown."
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance in destiny's game: the bull's-eye calls, the worm takes flame, the serpent's treasure glows so bright, the volt of chance ignites the night, the flutter-dance defies the dark, and crystal's song leaves beauty's mark.",
+      "hint": "Look for: a target, fire, a dragon's domain, lightning's strike, wings of wonder, and sparkles' shine."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      4,
+      7,
+      19
+    ]
+  },
+  "emlo_734": {
+    "hardRiddle": {
+      "text": "A jester's game of chance ignites the sky, where treasures sparkle as fortunes fly. The mystic stone glows bright with fire, while wings of wonder lift you higher. Electric dreams meet lunar gleam, in this wild memecoin scheme.",
+      "hint": "Think of chaos, magic, and astronomical gains"
+    },
+    "easyRiddle": {
+      "text": "A silly jester spins the dice, lightning strikes the gems so nice. Rockets blast toward the moon so bright, with butterfly wings and sparkles of light.",
+      "hint": "Count the magical and chaotic elements"
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
