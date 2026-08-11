@@ -40929,5 +40929,23 @@
       9,
       4
     ]
+  },
+  "sol_1893": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's cold kiss, six sentinels of fate converge in twilight's abyss. The celestial guardian weeps crystalline tears upon the jester's grinning mask, while chaos dances in ribbons of fire and light. Through the prism of a thousand shattered dreams, the winged one ascends toward destiny's glimmering throne, where luck and ruin pirouette eternally.",
+      "hint": "Consider what burns without consuming, what falls without breaking, what smiles without feeling, and what rises to meet the infinite."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: one aims true, one climbs the sky, one sparkles bright, one rules the night, one wears a grin, and one takes flight on delicate wings.",
+      "hint": "Think of targets, rockets, gems, moons, jokers, and butterflies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
