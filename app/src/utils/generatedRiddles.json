@@ -41055,5 +41055,23 @@
       13,
       11
     ]
+  },
+  "sol_1899": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer weaves through cosmic fire. The jester's laughter echoes as gemstone truth fractures into prismatic lies. Six whispers of destiny align when the winged messenger meets the crowned serpent's shadow.",
+      "hint": "Consider what pierces, what burns, what entertains, what glitters, what transforms, and what rules the night sky."
+    },
+    "easyRiddle": {
+      "text": "I am the arrow of luck, the flame of chaos, the fool's grin, the stone of wealth, the moth of change, and the beast of ancient dreams. Together we six unlock the lottery's secret door.",
+      "hint": "Think: weapon, element, character, treasure, creature, creature"
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      2,
+      8,
+      14
+    ]
   }
 }
