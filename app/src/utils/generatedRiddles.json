@@ -40857,5 +40857,23 @@
       17,
       8
     ]
+  },
+  "sol_1889": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps through prismatic veils, the trickster's gambit spins beneath fortune's gaze. Through crystalline depths, the night-walker ascends on borrowed light, while chaos orchestrates its silent symphony. Six threads intertwine: the jester's smile meets the archer's aim, gemstone tears fall upon the charged void, and destiny's wheel turns where madness pirouettes.",
+      "hint": "Fortune favors those who see through illusion; look where luck and cosmic mischief dance together beneath veils of pure chance."
+    },
+    "easyRiddle": {
+      "text": "I shine bright like a star in the night sky. I spin and bring luck, but I'm not quite fair. Lightning strikes where I cannot reach. A trickster grins while gems fall like rain. The moon watches over us all, and fire burns with pure intent.",
+      "hint": "Six lucky symbols: one judges fate, one laughs at chaos, one glimmers bright, one strikes with power, one brings fortune, and one watches eternal."
+    },
+    "answer": [
+      1,
+      11,
+      7,
+      5,
+      21,
+      12
+    ]
   }
 }
