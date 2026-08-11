@@ -41163,5 +41163,41 @@
       4,
       19
     ]
+  },
+  "sol_1904": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, a gemstone gleams beneath the jester's glance. The archer's mark aligns with winged transformation, as lightning strikes the stage of jubilation. Six threads of destiny weave through shadow and light—one ascends beyond mortal sight.",
+      "hint": "Think of chaos, precision, luck, and the liminal spaces between earth and cosmos."
+    },
+    "easyRiddle": {
+      "text": "Find the bolt that cracks the sky, the prism split in two. A jester laughs where flowers bloom, a dragon guards the view. The target waits where rockets soar—six signs to choose with care.",
+      "hint": "Look for electricity, separation, entertainment, nature, distance, and the mythical."
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      13,
+      14,
+      19
+    ]
+  },
+  "emlo_735": {
+    "hardRiddle": {
+      "text": "I chase the impossible dream with explosive energy, leaving a trail of brilliance. My mystical companion glimmers with celestial power, while chaos dances in unpredictable patterns. Luck flows like nature's arc across the sky, and fortune spins endlessly. What six symbols represent this memecoin journey to infinity?",
+      "hint": "Think of rapid ascent, precious value, random chance, cosmic destination, natural fortune, and endless possibility."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, dice roll for luck, moon calls above, rainbow brings hope, and sparkles celebrate wins. Put them in order!",
+      "hint": "Start with the vehicle of dreams, then the treasure, then fate, then the destination, then fortune's sign, then the celebration."
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      3,
+      9,
+      10
+    ]
   }
 }
