@@ -41019,5 +41019,23 @@
       3,
       19
     ]
+  },
+  "sol_1897": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, six whispers emerge from the ethereal dream. The archer's mark meets the sky-piercer's flight, while gems crystallize under the pale nocturnal light. Chaos blooms where fortune's court convenes, and nature's winged grace floats between unseen scenes.",
+      "hint": "One guides arrows, one breaks atmosphere, one glimmers precious, one reigns above, one courts chance, one transforms through air"
+    },
+    "easyRiddle": {
+      "text": "I am six mysteries woven in light: a target for aim, a rocket for flight, a gem that shines bright, a moon in the night, lightning's quick dance, and a butterfly's might.",
+      "hint": "Think of games, space, treasure, sky, weather, and insects"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
