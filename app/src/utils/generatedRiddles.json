@@ -41127,5 +41127,23 @@
       19,
       13
     ]
+  },
+  "sol_1902": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, six sentinels dance in prismatic seams. The archer's mark yields to ascending flame, while nocturnal jade and storms proclaim. Winged metamorphosis pirouettes through fortune's veil, and stellar dust descends where chaos and fortune's tail.",
+      "hint": "Consider what rises, what glows, what transforms, what strikes, and what marks destiny's course."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: one aims true, one climbs high, one shines with precious hue, one watches from above with silent eye, one brings the thunder's cry, and one transforms from crawling to the sky.",
+      "hint": "Think of: a target, a rocket, a gem, the moon, lightning, and a butterfly."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
