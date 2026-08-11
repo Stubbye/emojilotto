@@ -41037,5 +41037,23 @@
       4,
       8
     ]
+  },
+  "sol_1898": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void between celestial fires, a jeweled serpent coils beneath the dancer's gleaming mask, while the trickster's grin echoes through crystalline silence—seek the six that bind chaos to destiny's stage.",
+      "hint": "Look for a celestial hunter, a mythical guardian, precious radiance, performance and deception, and the instruments of chance."
+    },
+    "easyRiddle": {
+      "text": "I point the way to riches, a dragon guards the treasure, gems sparkle bright, masks hide the truth, and jokers laugh at fate's wheel.",
+      "hint": "Think of targets, mythical creatures, shiny things, performers, and games."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      13,
+      11
+    ]
   }
 }
