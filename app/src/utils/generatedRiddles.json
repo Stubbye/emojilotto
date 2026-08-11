@@ -41109,5 +41109,23 @@
       4,
       8
     ]
+  },
+  "sol_1901": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six sentinels of fate align. The scaled guardian dances with celestial fire, while winged metamorphosis spirals through prismatic tears. Chaos blooms in crystalline silence, and luck's own jester grins beneath the jeweled crown.",
+      "hint": "One soars through cosmos, one breathes eternal flame, one transforms, one sparkles with chance, one rules the stage, one cuts through storm."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hold the key to riches: aim true like the hunter, reach high like the dreamer, shine bright like the wise, transform like nature's marvel, laugh with the trickster, and guard with the ancient beast.",
+      "hint": "Target, Moon, Sparkles, Butterfly, Joker, Dragon"
+    },
+    "answer": [
+      0,
+      14,
+      10,
+      8,
+      19,
+      13
+    ]
   }
 }
