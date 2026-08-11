@@ -40875,5 +40875,23 @@
       21,
       12
     ]
+  },
+  "sol_1890": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a jeweled serpent dances through celestial fire. The jester's laughter echoes in the prism of chaos, as wings of transformation spiral through the storm's electric veins.",
+      "hint": "Seek the hunter, the dragon's kin, the performer's mask, the gems that blind, the cosmic heart, and the bolt that brings rebirth."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where sky meets wonder: a pointed seeker, a scaled king of myths, a fool in motley, a shining stone, a glowing orb above, and nature's power made visible.",
+      "hint": "Think of targets, mythical beasts, entertainers, precious things, night sky, and elemental force."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      2,
+      3,
+      4
+    ]
   }
 }
