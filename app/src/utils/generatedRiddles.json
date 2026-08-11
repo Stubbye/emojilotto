@@ -41235,5 +41235,23 @@
       8,
       2
     ]
+  },
+  "sol_1907": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, six sentinels of fate converge. The winged metamorphosis dances with celestial fire, while crystalline tears weep beneath the jester's painted sorrow. Lightning's twin brother splits the veil between what glitters and what burns, as the maestro's instrument trembles with the weight of crowns abandoned.",
+      "hint": "One points the way, one grins in madness, one transforms, one illuminates the night, one strikes twice, and one sings of victory's hollow echo."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and spectacle: a mark of precision, a mystical jester's face, a creature reborn through metamorphosis, the silent watcher above, nature's violent flash, and the voice of triumph.",
+      "hint": "Think of targets, cards, insects, the night sky, storms, and victory."
+    },
+    "answer": [
+      0,
+      15,
+      8,
+      21,
+      4,
+      17
+    ]
   }
 }
