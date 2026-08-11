@@ -40965,5 +40965,23 @@
       4,
       14
     ]
+  },
+  "sol_1895": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six mystical sentinels await. The jester's masked twin dances with the scaled leviathan, while the nocturnal beacon glows above all. The winged metamorphosis hovers where gemstone fractals kiss the firmament, and Nature's fleeting bloom trembles beneath electric fury's caress.",
+      "hint": "One grants wishes, one deceives, one conquers, one illuminates, one transforms, one blooms."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in this verse: a target for aim, a magical stone that sparkles bright, a dragon that roars, the moon that shines at night, a butterfly that floats so free, and lightning's electric might.",
+      "hint": "Think of games of chance and wonder."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      3,
+      8,
+      5
+    ]
   }
 }
