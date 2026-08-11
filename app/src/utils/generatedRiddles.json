@@ -41199,5 +41199,23 @@
       9,
       10
     ]
+  },
+  "sol_1905": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the void's glow, while winged chaos spirals through prismatic arcs. In the jester's domain, crystalline fortune sings to the storm's electric tongue, and ancient scales tip toward destiny's masquerade.",
+      "hint": "Seek the intersection of luck, the heavens, and transformation. One brings sight, one brings flight, one brings light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: a brilliant stone that sparkles, a celestial body that glows at night, a magical bolt that strikes, a masked performer who jokes, colorful bands after the rain, and a winged creature of metamorphosis.",
+      "hint": "Think of jewels, sky, weather, entertainers, nature's beauty, and creatures that transform."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      18,
+      9,
+      8
+    ]
   }
 }
