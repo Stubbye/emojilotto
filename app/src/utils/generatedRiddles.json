@@ -40947,5 +40947,23 @@
       5,
       8
     ]
+  },
+  "sol_1894": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the masked performer spins fortune's wheel. Six seekers dance: one aims true through darkness, one ascends on flames of ambition, one glimmers as earth's stolen starlight, one bathes in lunar whispers, one crackles with heaven's wrath, and one blooms eternal in nature's gentle grace.",
+      "hint": "Think of the journey from ground to sky, the performer's art, the elements of chaos and creation, and what grows without asking."
+    },
+    "easyRiddle": {
+      "text": "I contain six hidden treasures: something you aim at, something that flies upward, something that sparkles and shines, something in the night sky, something that strikes with power, and something that grows in gardens. What am I?",
+      "hint": "Look for: a target, upward motion, jewels, astronomy, weather, and botany."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      14
+    ]
   }
 }
