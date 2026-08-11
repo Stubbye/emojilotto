@@ -40983,5 +40983,41 @@
       8,
       5
     ]
+  },
+  "sol_1896": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with chaos unbound, six whispers converge in the void's sacred ground. The archer's aim meets the serpent's ancient flame, while crystalline shards reflect what mortals acclaim. The jester's madness and nature's winged grace spin together where spectrum and fortune embrace.",
+      "hint": "Seek the archer's tool, the dragon's kin, sparkling reward, dancing lights, the trickster's grin, and delicate wings that paint the sky"
+    },
+    "easyRiddle": {
+      "text": "Find the arrow's home, the flying beast of legend, the shining treasure, the dancing electricity, the wild card's grin, and the painted-wing dancer",
+      "hint": "One aims, one flies, one glimmers, one zaps, one tricks, one flutters"
+    },
+    "answer": [
+      0,
+      13,
+      11,
+      4,
+      18,
+      8
+    ]
+  },
+  "emlo_733": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving trails of brilliance. Fortune spins in my presence as chaos dances. My scales shimmer with precious light, while mystic fortune blooms eternal.",
+      "hint": "A journey to wealth involves speed, luck, gems, and legendary creatures"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 sparkles bright, 🐉 roars loud, 🌙 shines high, 🍀 brings luck",
+      "hint": "Six symbols of crypto dreams and fortune"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      13,
+      3,
+      19
+    ]
   }
 }
