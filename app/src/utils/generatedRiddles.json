@@ -41217,5 +41217,23 @@
       9,
       8
     ]
+  },
+  "sol_1906": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers convene in shadow's appeal. The archer's mark meets serpent's ancient scale, while lightning strikes the jester's masquerade pale. Betwixt the prism's light and chance's cruel jest, one winged soul ascends where destiny's blessed.",
+      "hint": "Consider symbols of fate, mythical power, aimed precision, theatrical deception, electrical fortune, and metamorphosis through colored refraction."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where games of luck reside: a target for aim, a dragon's pride, lightning that strikes, a joker's disguise, a butterfly's flight, and gems that comprise.",
+      "hint": "Think of objects in a casino or lottery: something you aim at, something mythical, something electrical, something playful, something that transforms, and something valuable."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      19,
+      8,
+      2
+    ]
   }
 }
