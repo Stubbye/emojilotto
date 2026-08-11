@@ -41145,5 +41145,23 @@
       4,
       8
     ]
+  },
+  "sol_1903": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six dancers of fate convene in shadow's desire. The jester's twin gleams below the crescent's veil, while crystalline teardrops and nature's bright scale await those who seek through the storm's electric trail.",
+      "hint": "Consider what shines, what burns, what guides, and what plays in the darkness between worlds."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a mark to hit, a path upward, a precious stone, night's guardian, the flash before thunder, and laughter's painted face.",
+      "hint": "Look for: something to aim at, something that flies, something valuable, something in the sky, something dangerous, and something theatrical."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
