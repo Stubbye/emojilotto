@@ -40911,5 +40911,23 @@
       4,
       19
     ]
+  },
+  "emlo_732": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with unstoppable force, leaving trails of brilliance in my wake. Luck strikes like electricity through my veins, and I shimmer with precious worth. Dance with me under the magical tent, and watch fortune multiply like stars in the cosmos.",
+      "hint": "Think of speed, fortune, value, chaos, magic, and infinite possibilities in the sky"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go so fast, with gems that sparkle and shine so bright. Lightning quick luck strikes true, circuses of fun appear, butterflies dance, and rainbows guide our way to wealth.",
+      "hint": "Space, treasure, speed, entertainment, nature, and color lead to riches"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      4
+    ]
   }
 }
