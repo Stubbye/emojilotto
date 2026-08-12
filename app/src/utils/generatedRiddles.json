@@ -41253,5 +41253,41 @@
       4,
       17
     ]
+  },
+  "sol_1908": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six whispers dance in chaos' name. The jester's grin beneath night's pearl, as lightning splits the prism's swirl. Winged metamorphosis takes flight, while crystalline dreams catch stellar light.",
+      "hint": "Think of targets and games of chance, celestial bodies and transformation's dance"
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the night's bright face, the trickster's smile, the storm's swift grace, the insect reborn, and gems so bright.",
+      "hint": "One shoots, one glows above, one deceives, one strikes, one transforms, one sparkles"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      4,
+      8,
+      20
+    ]
+  },
+  "emlo_736": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, leaving a trail of riches in my wake. When fortune smiles, I sparkle with the brilliance of gems, yet the joker's laugh echoes as I dance between chaos and chance.",
+      "hint": "Think of a rocket's journey to wealth, powered by volatility and fortune's unpredictable nature."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon, lightning strikes with fire, and the gem sparkles bright. What six symbols represent the memecoin dream?",
+      "hint": "Count the emojis mentioned in the riddle text."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      4,
+      2,
+      9
+    ]
   }
 }
