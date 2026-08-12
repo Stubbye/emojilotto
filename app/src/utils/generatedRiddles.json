@@ -41523,5 +41523,23 @@
       0,
       8
     ]
+  },
+  "sol_1919": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six dancers waltz through shadow's game. The jester's grin conceals the path where crystal dreams and fortune's wrath collide. Seek the golden seal that crowns ambition's climb, paired with nature's smallest acrobat suspended in the glimmer of all time.",
+      "hint": "One marks achievement, one marks chance, one marks chaos, one marks grace, one marks the cosmic stage, and one marks transformation's dance."
+    },
+    "easyRiddle": {
+      "text": "I bring the spark of victory's light, a prancing trickster wins the fight, a leaping soul transforms the night, a star that shines both true and bright, a crystal gleams with frozen sight, and fire dances hot and white.",
+      "hint": "Look for: a prize, a deceiver, a flyer, a celestial guide, a precious stone, and pure energy."
+    },
+    "answer": [
+      19,
+      12,
+      8,
+      22,
+      21,
+      6
+    ]
   }
 }
