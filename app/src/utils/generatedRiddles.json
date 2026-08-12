@@ -41541,5 +41541,23 @@
       21,
       6
     ]
+  },
+  "sol_1920": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers of fate converge in shadow's game. The winged guardian of fortune's thin veil guards the treasure beneath the prismatic trail. Lightning's kiss ignites the cosmic stage where destiny performs its ancient rage.",
+      "hint": "Seek the symbol of aim, the stone of desire, the queen of night, the spark of fire, the creature of wisdom, and the arc of light."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures hidden in plain sight: a target to strike, a gem so bright, the moon above, lightning's might, a fox clever and sly, a rainbow's colorful flight.",
+      "hint": "Look for things associated with luck, light, and clever tricks."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      13,
+      9
+    ]
   }
 }
