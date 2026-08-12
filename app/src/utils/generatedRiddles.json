@@ -41613,5 +41613,41 @@
       19,
       1
     ]
+  },
+  "sol_1925": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's dance, six threads of destiny intertwine. The jester's twin souls leap through prismatic veils, while ancient scales of chance whisper secrets to the winged wanderer. In this symphony of luck, what six sentinels guard the threshold between chaos and serendipity?",
+      "hint": "One pierces the veil of night, one multiplies possibility, one wears masks of duality, one glimmers with stolen starlight, one commands the storm's fury, and one transforms the mundane into wonder."
+    },
+    "easyRiddle": {
+      "text": "Seek the night's bright companion, the gambler's cube of fate, the jester in motley, the gem that catches light, the bolt that splits the sky, and the winged sprite of metamorphosis. These six shall reveal your fortune.",
+      "hint": "Moon, Dice, Joker, Gem, Lightning, Butterfly"
+    },
+    "answer": [
+      3,
+      11,
+      19,
+      6,
+      4,
+      8
+    ]
+  },
+  "emlo_741": {
+    "hardRiddle": {
+      "text": "I chase the dream that never sleeps, where fortunes spark and wild fire leaps. A jester's game of chance and fate, where lightning strikes and gems await. My ticket soars beyond the night, a butterfly of pure delight.",
+      "hint": "Think of symbols that represent wealth, luck, volatility, and the memecoin moon dream."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of the lucky chase: a clover for fortune's grace, dice for games of chance we play, gems that shine in every way, lightning fast profits take flight, and jokers laughing left and right!",
+      "hint": "One brings luck, one is lucky, one is random, one is shiny, one is fast, and one is funny!"
+    },
+    "answer": [
+      20,
+      11,
+      12,
+      5,
+      4,
+      19
+    ]
   }
 }
