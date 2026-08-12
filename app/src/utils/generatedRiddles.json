@@ -41505,5 +41505,23 @@
       13,
       9
     ]
+  },
+  "sol_1918": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate align. The winged messenger of metamorphosis soars through prismatic arcs, while the nocturnal sentinel glows eternal. Thunder's kiss ignites the hidden gem within the target's heart, and luck's jester spins the dice of destiny beneath stars that never fade.",
+      "hint": "Look for transformation, luck, light, precision, chaos, and the eternal night sky."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your fortune: one that sparkles endlessly, one that guides the night, one that strikes with power, one that spins with laughter, one that marks your aim, and one that transforms with grace.",
+      "hint": "Think of: glowing magic, moon's glow, electricity, random chance, bullseye, and butterfly wings."
+    },
+    "answer": [
+      10,
+      21,
+      4,
+      17,
+      0,
+      8
+    ]
   }
 }
