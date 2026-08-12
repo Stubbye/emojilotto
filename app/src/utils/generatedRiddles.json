@@ -41289,5 +41289,23 @@
       2,
       9
     ]
+  },
+  "sol_1909": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six guardians convene in cosmic trance. The archer's goal gleams with prismatic light, while winged metamorphosis takes lunar flight. Thunder's kiss ignites the jester's grin, and scales of fortune spin where dreams begin. Seek the verdant token of fate's caress, where spectrum and chaos manifest.",
+      "hint": "Look for: a goal, a gem, a night sky, a transformation, electricity, and the house of chance"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this verse: a bullseye bright, a jewel to disperse, the moon's soft glow, a butterfly's flight, lightning's crack, and dice rolled right. What six do you see?",
+      "hint": "Think of typical lottery symbols: something you aim at, something precious, something in the night sky, something that transforms, something that strikes, and something for chance"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      11,
+      9
+    ]
   }
 }
