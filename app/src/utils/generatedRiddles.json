@@ -41577,5 +41577,23 @@
       4,
       9
     ]
+  },
+  "sol_1922": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin masks, a winged metamorphosis spirals through the archer's domain. The crystalline depths reflect what mortals seek, while thunder's silent twin awaits the jester's gambit. Six secrets bind the seeker's fate beneath the vault of dreams.",
+      "hint": "Consider the liminal spaces between chaos and destiny, where transformation meets precision."
+    },
+    "easyRiddle": {
+      "text": "Find the target where rockets ignite, the gem that shines with crystal light, the moon that watches from on high, lightning that splits the sky, fire that burns so bright, and masks that hide the night.",
+      "hint": "One is aimed at, one flies up, one sparkles, one glows above, one strikes, and one conceals."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      19
+    ]
   }
 }
