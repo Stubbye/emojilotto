@@ -41307,5 +41307,41 @@
       11,
       9
     ]
+  },
+  "sol_1910": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six omens dance in fortune's reel. The archer's mark gleams crystalline bright, while chaos soars through stellar night. A scaled beast guards the prism's gate, where masked performers seal their fate. Lightning splits the gemstone's soul, and striped fortune claims the whole.",
+      "hint": "Consider what burns above, what spins in games of chance, what glimmers with precious light, what wears a false face, and what strikes with electric fury."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck is cast: a bullseye dream, a jewel unsurpassed, a dragon's hoard beneath moon's gleam, a jester's mask within the scheme, a bolt that strikes, a flame so bright. Which six bring fortune's gift tonight?",
+      "hint": "Think of targets, dragons, gems, jokers, lightning, and fire in the context of a lottery game."
+    },
+    "answer": [
+      0,
+      2,
+      1,
+      19,
+      5,
+      6
+    ]
+  },
+  "emlo_737": {
+    "hardRiddle": {
+      "text": "I launch ambitions to celestial heights, sparkle with dreams of fortune's light. A joker's gamble with lightning strikes, where gems and fire ignite the nights. To the moon we ride, with a clover's grace, dancing through this wild memecoin race.",
+      "hint": "Think of the journey from humble beginnings to astronomical gains, with luck and chaos as your guides."
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you up, fire burns bright, lightning strikes fast, gems shine with light. The moon is your goal, and luck is your clover—what six things make a memecoin holder?",
+      "hint": "Count the things mentioned that represent wealth, speed, luck, and the moon."
+    },
+    "answer": [
+      1,
+      5,
+      4,
+      2,
+      3,
+      20
+    ]
   }
 }
