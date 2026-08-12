@@ -41433,5 +41433,23 @@
       19,
       8
     ]
+  },
+  "sol_1915": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens of destiny align in trance. The archer's mark reflects the winged grace, while thunder's child and lunar face embrace. Gemstone whispers to the jester's grin, as chaos blooms where all dreams spin.",
+      "hint": "One points toward, one soars skyward, one glimmers with eternal light, one crackles with raw power, one laughs in masquerade, one refracts the light of ages."
+    },
+    "easyRiddle": {
+      "text": "I seek six magical symbols: a target for precision, a rocket for dreams, a gem for wealth, the moon for mystery, lightning for power, and a joker for chaos. Which six complete this lottery spell?",
+      "hint": "Think of direction, speed, value, night, electricity, and mischief."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
