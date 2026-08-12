@@ -41343,5 +41343,23 @@
       3,
       20
     ]
+  },
+  "sol_1911": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the jester's grin, six threads of fate entwine within: the archer's mark beholds the night, a scaled beast dances with crystalline light, while thunder's kiss ignites the stage where masks and wings perform their gauge.",
+      "hint": "One guides arrows, one crowns the sky, one embodies trickery, one sparkles cold, one roars with magic, one conceals and reveals."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target for precision, a rocket for the stars, a gem that gleams, the moon above, lightning's strike, and a dragon's ancient might.",
+      "hint": "Think of what you aim for, what flies high, what shines, what glows in darkness, what electrifies, and what rules the skies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
