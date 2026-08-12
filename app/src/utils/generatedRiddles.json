@@ -41451,5 +41451,23 @@
       4,
       19
     ]
+  },
+  "sol_1916": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged metamorphosis ascends through prismatic arcs. Six tokens of fate converge: the hunter's precision meets the ascending vessel, crystalline wealth gleams beside lunar dominion, while electric fury and ethereal transformation complete the sacred hexad.",
+      "hint": "Consider what rises, what shines, what transforms, what strikes, and what seeks its mark in games of chance."
+    },
+    "easyRiddle": {
+      "text": "I contain the arrow that never misses, the ship that touches stars, the jewel that sparkles, the night's bright guardian, the bolt that splits the sky, and the creature born twice. What six am I?",
+      "hint": "Think of symbols: aim, journey, wealth, night, power, and rebirth."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
