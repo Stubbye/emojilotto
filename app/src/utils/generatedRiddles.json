@@ -41469,5 +41469,41 @@
       4,
       8
     ]
+  },
+  "sol_1917": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's grin guards the threshold between chaos and glory. Seven-pointed sovereign watches over the trickster's domain, while winged metamorphosis seeks the luminous prism that shatters darkness into endless possibility. The archer's mark conceals what the fool reveals.",
+      "hint": "Look for the number seven, transformation, and theatrical deception. One guides, one deceives, one transforms, one illuminates, one marks, one laughs."
+    },
+    "easyRiddle": {
+      "text": "I contain a cosmic guardian, a magical performer, a winged traveler, a burning element, a pointed light, and a clever hunter. What six treasures complete fortune's circle?",
+      "hint": "Think of: night sky, stage magic, nature's wings, warmth, the brightest point, and forest cunning."
+    },
+    "answer": [
+      21,
+      9,
+      8,
+      6,
+      1,
+      13
+    ]
+  },
+  "emlo_739": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with fiery determination, seeking gemstone treasures while lightning strikes fortune. A joker's magic sparkles in chaos, yet a fox's cunning reveals the rainbow path to victory.",
+      "hint": "Think of a memecoin's journey: the launch, the goal, the chaos, the trickery, the hope, and the clever navigation."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is the prize, ⚡ is the speed, 🃏 brings luck, 🦊 is smart, 🌈 is the dream.",
+      "hint": "A memecoin adventure in six simple objects."
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      12,
+      13,
+      9
+    ]
   }
 }
