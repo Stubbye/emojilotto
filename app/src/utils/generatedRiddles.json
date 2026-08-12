@@ -41415,5 +41415,23 @@
       4,
       9
     ]
+  },
+  "sol_1914": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial thief, six dancers of fate converge: the winged metamorphosis spirals through chambers of luck, while the gemstone's sibling gleams in crystalline silence, and above all, the jester's mask conceals what lightning's twin reveals in purple's shadowed dominion.",
+      "hint": "Think of transformation, precious things, and the duality of fortune's masks. One belongs to the night sky, one to the electrical veil."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck dance together: a circular aim, a precious sparkle, a night guardian, a purple veil, a fool's face, and one that transforms with wings.",
+      "hint": "Look for targets, gems, the moon, purple, jokes, and nature's greatest change."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      19,
+      8
+    ]
   }
 }
