@@ -41361,5 +41361,23 @@
       4,
       13
     ]
+  },
+  "sol_1912": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens converge in destiny's trance. The archer's mark ignites with stellar flame, while masked performers juggle luck's true name. A winged metamorphosis twirls through fortune's gate, as crystalline brilliance determines your fate.",
+      "hint": "Consider symbols of chance, performance, transformation, and cosmic power intertwined."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket soaring high, the gem that sparkles as lightning strikes the sky, the joker's masked grin and butterfly taking flight, plus the crystal that catches the star's bright light.",
+      "hint": "One for aiming, one for space, one shines, one performs, one transforms, one reflects."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      20
+    ]
   }
 }
