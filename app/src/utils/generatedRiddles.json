@@ -41595,5 +41595,23 @@
       5,
       19
     ]
+  },
+  "sol_1924": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six sentinels of fate converge in shadow's game. The jester's twin dances with emerald's gleam, while thunder's kiss ignites the dreamer's scheme. The winged trickster weaves through prisms bright, and ancient scales guard treasures of the night.",
+      "hint": "One aims, one climbs, one glimmers, one strikes, one masks, one hoards"
+    },
+    "easyRiddle": {
+      "text": "Six magic symbols hold the key: the archer's mark, the serpent's spree, the lightning's strike, the gem's green fire, the joker's grin, the dragon's desire.",
+      "hint": "Target, Dragon, Lightning, Gem, Joker, and one more mystical creature"
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      2,
+      19,
+      1
+    ]
   }
 }
