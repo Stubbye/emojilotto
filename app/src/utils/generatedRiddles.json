@@ -41559,5 +41559,23 @@
       13,
       9
     ]
+  },
+  "sol_1921": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six whispers dance in fortune's game. The jester's grin beneath night's pearl, a scaled leviathan through chaos swirled. Swift-footed trickster guards the way, while prismatic arc crowns fortunes at play.",
+      "hint": "Consider: a night visitor, a fool, a serpent, a cunning creature, a celestial display, and a burning passion"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny align: a laughing trickster, a dragon's design, the moon shines bright while lightning does play, a fox sneaks past the rainbow's display.",
+      "hint": "Think of: moon, joker, dragon, fox, lightning, rainbow"
+    },
+    "answer": [
+      3,
+      17,
+      13,
+      12,
+      4,
+      9
+    ]
   }
 }
