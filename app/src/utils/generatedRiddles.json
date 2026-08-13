@@ -41919,5 +41919,23 @@
       8,
       9
     ]
+  },
+  "sol_1939": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a winged metamorphosis spirals through prismatic arcs. The jester's gem gleams beneath night's watchful eye, while crystalline sparks weave destiny's electric loom. Six symbols converge where chaos births order, and the masked performer's prize awaits those who see through illusion.",
+      "hint": "Think of transformation, luck's duality, and what glitters in darkness"
+    },
+    "easyRiddle": {
+      "text": "A butterfly transforms near a shining gem, while lightning strikes under the moon's glow. Sparkles dance around a glowing star. What six magical things guide the lucky ones?",
+      "hint": "Look for winged beauty, precious stones, night sky, electricity, and light"
+    },
+    "answer": [
+      8,
+      12,
+      1,
+      10,
+      4,
+      21
+    ]
   }
 }
