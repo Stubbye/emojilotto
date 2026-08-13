@@ -41937,5 +41937,23 @@
       4,
       21
     ]
+  },
+  "sol_1940": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate convene. The archer's mark aligns with heaven's pearl, while winged metamorphosis pirouettes through prismatic arcs. Thunder's blood and crystalline tears mirror the jester's grin, as fortune spins its ancient wheel. What symbols crown the lottery of dreams?",
+      "hint": "One watches from above, one transforms below, one strikes between them, one tests chance, and the remaining two reflect duality and chaos."
+    },
+    "easyRiddle": {
+      "text": "Find the moon and lightning, the butterfly and fire, the crystal and the joker. These six hold the key to your fortune.",
+      "hint": "Look for: night's guardian, nature's dancer, electrified truth, eternal flame, geometric beauty, and laughter's face."
+    },
+    "answer": [
+      3,
+      4,
+      8,
+      6,
+      20,
+      19
+    ]
   }
 }
