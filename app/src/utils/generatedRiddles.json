@@ -41775,5 +41775,23 @@
       8,
       13
     ]
+  },
+  "sol_1932": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through the veil of fortune's eye, a jester's twin masks weep upon the crimson stage. The winged chrysalis ascends past Luna's throne, while fortune's crystalline bones scatter beneath the minstrel's silent strings. Seek the emblem of victory where chaos dances—six scattered among the void.",
+      "hint": "One reflects chance, one reflects fame, one reflects transformation, one reflects night, one reflects conflict, one reflects melody."
+    },
+    "easyRiddle": {
+      "text": "In a night of music and dreams, a butterfly flies past the moon while fire crackles. A trophy gleams, a joker grins, and lightning strikes. Find these six.",
+      "hint": "Look for: something you can win, something in the sky, something that transforms, something that glows, something that laughs, something that plays."
+    },
+    "answer": [
+      22,
+      21,
+      8,
+      2,
+      5,
+      16
+    ]
   }
 }
