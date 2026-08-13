@@ -41721,5 +41721,41 @@
       4,
       13
     ]
+  },
+  "sol_1930": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis ascends through prismatic arcs. Six destinies converge: the archer's mark meets the void's silver gaze, while fortune's bolt illuminates the jester's domain and nature's delicate transformation spirals through radiant bands of hope.",
+      "hint": "Consider the journey from earthly aim to cosmic reward, where chaos meets chance, and rebirth blooms."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of fate: one aims true, one reaches high, one shines bright in darkness, one rules the night, one strikes with power, and one wears many faces.",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and jokers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_743": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, glittering treasures guide my way. Chaos dances with fortune's wheel as lightning strikes through cosmic flames. Where luck meets madness in this gambler's parade, six symbols reveal the memecoin crusade.",
+      "hint": "Think of a rocket journey to the moon with lucky symbols and explosive energy"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🔥 burns hot, 🌙 glows high, 🎲 rolls lucky. What six emojis make a memecoin's journey?",
+      "hint": "Rocket, gem, lightning, fire, moon, and one more - which symbol represents fortune?"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      3,
+      11
+    ]
   }
 }
