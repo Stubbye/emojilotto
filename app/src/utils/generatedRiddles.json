@@ -41865,5 +41865,23 @@
       2,
       10
     ]
+  },
+  "sol_1936": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six whispers dance in twilight's veil. The jester's grin guards gems of night, while scaled serpents coil through wings of light. A trembling heart seeks what lightning knows—in chaos blooms where destiny flows.",
+      "hint": "One points to fortune, one ascends to dreams, one glimmers truth, one tests all schemes, one soars between two worlds of grace, one strikes where fate and fear embrace."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in symbols bright: a game of chance, a dragon's might, a gem that shines, a bolt of power, a flying friend, and fortune's hour.",
+      "hint": "Look for: something you roll, something that glitters, something that flies, something that burns bright, something magical and large, something that climbs the sky."
+    },
+    "answer": [
+      11,
+      1,
+      5,
+      13,
+      8,
+      4
+    ]
   }
 }
