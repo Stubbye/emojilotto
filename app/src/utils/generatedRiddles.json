@@ -41883,5 +41883,23 @@
       8,
       4
     ]
+  },
+  "sol_1937": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets hide in twilight's veil. The archer's mark meets the swift messenger ascending, while precious fragments gleam beneath the crescent's gaze. Chaos reigns through the mystic die, yet harmony blooms where winged metamorphosis brushes against the arc of promise.",
+      "hint": "Think of ambition meeting destiny, transformation, luck, and the heavens above."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: a target for your aim, a rocket for your dreams, a gem that sparkles bright, the moon in night's dark claim, lightning's electric might, and a butterfly in flight.",
+      "hint": "One points the way, one takes you high, one shines with light, one glows in the sky, one strikes with speed, one transforms and flies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
