@@ -41793,5 +41793,23 @@
       5,
       16
     ]
+  },
+  "sol_1933": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a dragon's breath ignites the prism'd maze. The jester's laughter echoes through the gem-lit haze, while butterfly and star complete the mystic phrase.",
+      "hint": "Seek where aim converges with celestial mystery, where chaos performs, and transformation dances with light."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune's heart, the moon watches above, fire burns with wild desire, a dragon coils with might. The joker grins, the butterfly takes flight. Six treasures hide—can you find what's right?",
+      "hint": "Think of targets, sky watchers, heat, mythical beasts, tricksters, and creatures of metamorphosis."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      13,
+      18,
+      8
+    ]
   }
 }
