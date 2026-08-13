@@ -41901,5 +41901,23 @@
       4,
       8
     ]
+  },
+  "emlo_745": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles when you feed. Through fire and circus tricks I dance, while butterflies give diamond chance. What five emojis mark my path to wealth, and one shows fortune's mystic stealth?",
+      "hint": "Think of a memecoin's journey: launch, hype, community fun, magical moments, and the prize."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon is the goal. Gem shines bright, fire takes its toll. Sparkles celebrate the win so sweet. What six emojis make this journey complete?",
+      "hint": "A memecoin launch needs speed, destiny, value, energy, magic, and celebration!"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      8,
+      9
+    ]
   }
 }
