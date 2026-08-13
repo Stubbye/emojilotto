@@ -41649,5 +41649,41 @@
       4,
       19
     ]
+  },
+  "sol_1927": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six whispers dance betwixt the mortal and arcane. The jester's twin souls waltz through crystalline depths, whilst winged metamorphosis ascends toward radiant conquest. Thunder's kiss ignites the amphitheater of dreams, and nature's verdant charm completes the sacred geometry of chance.",
+      "hint": "Seek the marksman's domain, the trickster's reflection, the lightning's twin, and three harbingers of transformation and fate."
+    },
+    "easyRiddle": {
+      "text": "I am six companions of destiny: one aims true, one spreads laughter, one crackles with power, one transforms with grace, one blooms eternal, and one glimmers with magic.",
+      "hint": "Think of targets, jesters, electricity, butterflies, flowers, and sparkles."
+    },
+    "answer": [
+      0,
+      12,
+      4,
+      8,
+      14,
+      10
+    ]
+  },
+  "emlo_742": {
+    "hardRiddle": {
+      "text": "A jester's fortune ascends through cosmic fire, where crystalline dreams sparkle with electric might. The dragon guards treasures beneath the moon's glow, while fortune's four-sided oracle dances with the fox's cunning. What six celestial tokens shimmer in this memecoin's chaos?",
+      "hint": "Think of a lottery game where chaos, magic, and fortune collide. One is a trickster, one is a beast, one shows chance, one ignites passion, one is pure crystal, and one lights the sky."
+    },
+    "easyRiddle": {
+      "text": "I'm a laughing trickster. I'm a mighty dragon. I'm crystal clear. I'm a lucky dice. I sparkle with magic. I'm the glorious moon. Which six emojis complete this lucky memecoin dream?",
+      "hint": "Joker, Dragon, Crystal, Dice, Sparkles, Moon - these are your six lucky symbols!"
+    },
+    "answer": [
+      11,
+      13,
+      20,
+      10,
+      9,
+      3
+    ]
   }
 }
