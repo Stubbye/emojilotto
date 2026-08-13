@@ -41991,5 +41991,23 @@
       11,
       19
     ]
+  },
+  "sol_1943": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the hunter's steel. Six whispers drift through chaos—one bears wings of transformation, one crowns the night eternal, one shatters fate with crackling fury, one marks the archer's perfect aim, one spins in laughter's painted mask, and one blooms where all symmetries align.",
+      "hint": "Consider what fortune favors: the swift, the wise, the bold, the true, the mad, and the natural."
+    },
+    "easyRiddle": {
+      "text": "Six lucky charms await discovery: a pointed beam of night, a joker's jest, a swift red creature, electricity's strike, a winged dancer, and a blooming gift of nature.",
+      "hint": "Think of: celestial guide, card player, animal, weather, insect, and garden."
+    },
+    "answer": [
+      1,
+      19,
+      13,
+      4,
+      8,
+      14
+    ]
   }
 }
