@@ -41811,5 +41811,41 @@
       18,
       8
     ]
+  },
+  "sol_1934": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a gem-kissed sentinel gleams. Thunder's child dances with celestial flame, while prismatic arcs birth winged metamorphosis. Six symbols intertwine: the mark of precision, the vessel of dreams, the crystalline treasure, the nocturnal eye, the bolt of fate, and the butterfly's reborn soul.",
+      "hint": "One strikes bullseyes, one pierces heavens, one glimmers with wealth, one rules the night, one electrifies fate, one symbolizes rebirth."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky-piercing vessel, the gleaming stone, the night's guardian, the electric strike, and the winged dancer transformed.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Butterfly"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_744": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, gathering precious stones that make holders bleed. My jester spirit dances through electric storms, while fortune's wheel spins in chaotic forms. Where rainbow paths meet crystalline light, I spiral upward through the night.",
+      "hint": "Think of a memecoin's journey: ambition, chaos, luck, and transformation into something radiant"
+    },
+    "easyRiddle": {
+      "text": "A speedy vessel aims high, a gem sparkles bright, lightning strikes with might, and the moon glows at night. A jester grins and a rainbow shines—these are the signs of a coin that climbs!",
+      "hint": "Count the emojis mentioned: speed, value, energy, destiny, humor, beauty"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      11,
+      9
+    ]
   }
 }
