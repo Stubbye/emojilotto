@@ -41955,5 +41955,41 @@
       20,
       19
     ]
+  },
+  "sol_1942": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six whispers dance betwixt the mortal and divine: the jester's grin meets the scaled guardian's ancient wisdom, while luminescence blooms in crystalline chambers, and the winged metamorphosis spirals through thunder's electric kiss, crowned by the prism's eternal arc.",
+      "hint": "Seek the fool's counsel, the wyrm's knowledge, the precious stone's heart, the spark's fury, the transformed soul's grace, and light's fractured truth."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols shine in the lottery's gleam: a magical stone, a powerful dragon, a joyful joker, a bright lightning strike, a beautiful butterfly, and a colorful rainbow. Which six grant fortune's favor?",
+      "hint": "Think of precious things, magical creatures, lucky cards, natural forces, transforming insects, and sky's beautiful gifts."
+    },
+    "answer": [
+      5,
+      13,
+      19,
+      4,
+      8,
+      9
+    ]
+  },
+  "emlo_746": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a precious gem that sparkles as I ascend. Fortune smiles with a joker's grin, striking like lightning through the circus of chance. What six symbols guide the memecoin to glory?",
+      "hint": "Think of a rocket's journey, what it carries, and the chaos of luck that follows."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms up with a sparkling gem. Lightning strikes fast while fire burns bright. The joker laughs in the circus tent. Which six emojis make this memecoin dream?",
+      "hint": "Look for: something that flies, something shiny, something fast, something hot, something funny, and something wild."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      9,
+      11,
+      19
+    ]
   }
 }
