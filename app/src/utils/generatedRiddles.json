@@ -41757,5 +41757,23 @@
       3,
       11
     ]
+  },
+  "sol_1931": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis spirals through prismatic arcs. The archer's mark gleams eternal while thunder births iridescent fortune's dust. Six secrets hide in luminescence—one ascends on wings of flame, one grins in duality's mask, one glitters in refracted dreams, one strikes with electric fate's kiss, one transforms through nature's ancient alchemy, and one crowns the victor's hour.",
+      "hint": "Seek the number of emojis that represent flight, luck, transformation, or celestial power. Count carefully: what rises, what laughs, what shimmers, what jolts, what evolves, and what honors?"
+    },
+    "easyRiddle": {
+      "text": "Find six friends: one points at targets, one zooms through space, one sparkles like treasure, one lights the sky, one brings good luck, and one transforms with wings.",
+      "hint": "Think of: archery, space travel, gems, electricity or fire, four-leaf fortune, and nature's greatest change."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      4,
+      8,
+      13
+    ]
   }
 }
