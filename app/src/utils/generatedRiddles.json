@@ -41847,5 +41847,23 @@
       11,
       9
     ]
+  },
+  "sol_1935": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance in celestial theater, the trickster's grin mirrors the archer's eternal mark. Through prisms of fate, the scaled guardian ascends toward luminescent petals, while chaos crackles between masked revelry and lucky chance.",
+      "hint": "Look for: a performer of deception, a target of precision, a gemstone's brilliance, a dragon's wisdom, a jester's jest, and fortune's six-sided whisper."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this mystical message: a jester laughs, lightning strikes, a dragon soars, fire burns bright, a gem glimmers, and destiny rolls the dice.",
+      "hint": "Find the joker, lightning, dragon, fire, gem, and dice among the emojis."
+    },
+    "answer": [
+      12,
+      4,
+      13,
+      5,
+      2,
+      10
+    ]
   }
 }
