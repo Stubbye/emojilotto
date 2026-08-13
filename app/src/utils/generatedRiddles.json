@@ -41685,5 +41685,23 @@
       9,
       3
     ]
+  },
+  "sol_1928": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six entities convene in shadow's theatre. The archer's mark meets the void's sentinel, while frozen brilliance gleams beside infernal breath. Twin-winged grace spirals through cosmic dust, and chance's jester pirouettes eternal. Seek the convergence where ascension ignites the stage.",
+      "hint": "Think of destiny's players: one aims, one guards the night, one sparkles cold, one burns hot, one transforms air, one courts fortune."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this tale: An aim for precision, a glowing night guardian, a precious hard stone, a heat that consumes, a creature with wings that changes, and one who laughs at luck itself.",
+      "hint": "Target, moon, gem, fire, butterfly, and joker are waiting to be found."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      5,
+      8,
+      19
+    ]
   }
 }
