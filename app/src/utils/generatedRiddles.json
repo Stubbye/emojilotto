@@ -42405,5 +42405,41 @@
       13,
       8
     ]
+  },
+  "sol_1965": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits waltz in destiny's trance. The archer's mark ignites the void, while scaled majesty and fluttered wings avoid. Twin crescents gleam as electricity splits the night, yet fortune's jester holds the light.",
+      "hint": "Seek the convergence of aim, ascension, and mythical wonder beneath the gaze of the nocturnal throne."
+    },
+    "easyRiddle": {
+      "text": "One points the way, one soars so high, one glimmers cold against the sky. A serpent ancient, a dancer light, a fool that grins with pure delight.",
+      "hint": "Count them: direction, ascension, ice, beast, wings, and madness."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      14,
+      8,
+      19
+    ]
+  },
+  "emlo_751": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with explosive speed, sparkling with electric energy. My gem-like value ignites flames of fortune, while I dance with theatrical flair. What six symbols represent this memecoin dream?",
+      "hint": "Think of the journey to wealth: speed, destination, value, power, spectacle, and luck."
+    },
+    "easyRiddle": {
+      "text": "A fast vehicle goes to a shiny place. Lightning strikes, fire burns, the circus performs, and gems shine. Name these six symbols of crypto glory.",
+      "hint": "Rocket, moon, diamond, electricity, heat, and fun."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      6,
+      11
+    ]
   }
 }
