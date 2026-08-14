@@ -42297,5 +42297,23 @@
       19,
       2
     ]
+  },
+  "sol_1958": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, and fortune's jester dances with the scaled guardian of dreams—six spirits converge. The winged metamorphosis spirals through crystalline luminescence, while the verdant fortune smiles beneath the painted cosmos of chance.",
+      "hint": "Think of targets and jokes, dragons and butterflies, crystals and rainbows—all blessed by luck itself."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune, I make you laugh, I guard with scales and wings so daft. I transform in flight, I shine so bright, and luck blooms green beneath rainbow light.",
+      "hint": "One aims, one amuses, one roars, one flutters, one gleams, one glows."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      8,
+      21,
+      9
+    ]
   }
 }
