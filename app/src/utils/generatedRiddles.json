@@ -42153,5 +42153,23 @@
       7,
       2
     ]
+  },
+  "sol_1950": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin spheres, and the jester's masked grin meets the serpent's ancient peers. Six tokens of fate: one pierces the void, one glimmers in shadow's employ, one spins chaos uncoiled, one breathes in the cosmic void, one grins behind porcelain decoy, one coils where legends are forged and destroyed.",
+      "hint": "Look to the sky, the trickster's laugh, the beast of old, and the games of chance."
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols await: a golden crown of victory, a laughing fool's disguise, a cosmic serpent's gaze, the moon's silver face, lightning's violent grace, and a diamond's crystalline case.",
+      "hint": "One shines bright, one makes you laugh, one is mythical, one is lunar, one strikes fast, and one is precious."
+    },
+    "answer": [
+      19,
+      13,
+      21,
+      3,
+      5,
+      20
+    ]
   }
 }
