@@ -42261,5 +42261,23 @@
       17,
       3
     ]
+  },
+  "sol_1956": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits converge in twilight's veil. The archer's mark meets heaven's torch, while luck's fool grins beneath the gem's eternal glow. Lightning's kiss embraces the dragon's ancient wisdom, and crystal tears fall from the cosmic stage. Count the omens where chaos and destiny intertwine.",
+      "hint": "One points the way, one reaches beyond, one brings fortune, one rules the sky, one flows wild, one holds ancient power."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures hidden in plain sight: a target to aim, a rocket to dream, a jewel to cherish, the moon to wish upon, lightning to strike, and a dragon to fear. What numbers hold these secrets?",
+      "hint": "Think of achievement (bullseye), exploration (launch), wealth (treasure), night sky, electricity, and mythical beasts."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
