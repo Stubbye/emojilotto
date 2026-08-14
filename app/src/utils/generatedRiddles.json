@@ -42027,5 +42027,41 @@
       11,
       19
     ]
+  },
+  "sol_1945": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a gemstone bleeds through crystalline space. Thunder splits the jester's painted soul, while dragon's fire consumes the celestial whole. Six threads of fate in chaos dance—one guides the lost, one fuels the trance.",
+      "hint": "Think of destiny's instruments: aim, wealth, laughter, power, guidance, and the celestial stage itself."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck converge in night: a pointed weapon of silver light, a treasure that catches the eye, a masked fool who makes us cry, a beast of flame and ancient might, and the moon that rules the starry height.",
+      "hint": "One targets, one shines bright, one sparkles, one entertains, one roars with heat, and one watches over darkness."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      13,
+      4,
+      1
+    ]
+  },
+  "emlo_747": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive speed, my gems sparkle as I ride the electric surge, guided by fortune's playful jester through cosmic waves of possibility.",
+      "hint": "Think of a memecoin's journey: destination, velocity, treasure, fortune, chaos, and the trickster's influence"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙 with ⚡ power, 💎 shines bright, 🎪 is fun, 🃏 plays tricks",
+      "hint": "Rocket, Moon, Lightning, Gem, Circus, Joker - the ultimate memecoin adventure"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      6,
+      19
+    ]
   }
 }
