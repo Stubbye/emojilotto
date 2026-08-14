@@ -42171,5 +42171,23 @@
       5,
       20
     ]
+  },
+  "sol_1951": {
+    "hardRiddle": {
+      "text": "Where fortune's wheel spins in celestial theatre, six seekers dance beneath the veil of chaos. The archer's mark meets the crimson devour, while the jester grins at destiny's masquerade. Swift wings carry secrets through violet dreams, and the serpent of heaven guards the glittering prize.",
+      "hint": "Consider mythical performers, celestial bodies, and that which consumes all things."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key: a target to hit, a dragon's fire, a jester's laugh, a butterfly in flight, purple's royal hue, and gems that gleam.",
+      "hint": "One is circular, one is mythical, one is foolish, one is delicate, one is a color, and one sparkles."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      8,
+      15,
+      21
+    ]
   }
 }
