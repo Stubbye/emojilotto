@@ -42315,5 +42315,23 @@
       21,
       9
     ]
+  },
+  "sol_1959": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's twin flame, six vessels of fate converge in luminous game. The archer's mark dances with thunder's bright lash, while gemstone and blaze in prismatic clash. Winged metamorphosis spirals through night's velvet crown, as crystalline fortune spins round and around.",
+      "hint": "Seek the hunter's symbol, the storm's kiss, the precious gleam, the performer's wheel, the transformed dancer, and the fortune-teller's throne."
+    },
+    "easyRiddle": {
+      "text": "I am six scattered symbols: one aims true, one strikes fast, one glimmers bright, one burns hot, one transforms, and one tells secrets. What lottery calls us home?",
+      "hint": "Think of targets, speed, wealth, heat, change, and magic."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      5,
+      8,
+      11
+    ]
   }
 }
