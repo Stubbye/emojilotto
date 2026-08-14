@@ -42099,5 +42099,41 @@
       1,
       6
     ]
+  },
+  "sol_1948": {
+    "hardRiddle": {
+      "text": "Where celestial silence meets the jester's grin, six fates dance betwixt the veil of sin. The archer's mark aligns with fortune's wheel, a scale of chance where destinies reveal. Through lunar whispers and the fox's guile, the dragon's fortune spans a golden mile. What treasures gleam where chaos meets the night, when laughter echoes in the prismic light?",
+      "hint": "One points the way, one courts the fool, one shines in darkness, one bends the rule, one hunts in shadow, one breathes in flame—all waltz together in the lottery's game."
+    },
+    "easyRiddle": {
+      "text": "Six keepers of fortune stand in a line: a target for dreams, a jester's design, a stone that sparkles beneath the moon's call, a fox who watches, a dragon through it all, and fire that dances as luck takes its toll—these six are the keys to the lottery's soul.",
+      "hint": "Look for the marksman's goal, the fool's mischief, the gem's glow, the lunar guardian, the cunning creature, and the flame."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      3,
+      13,
+      5
+    ]
+  },
+  "emlo_748": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, seeking precious gems that sparkle like fortune. When luck strikes like lightning, the joker dances with the trophy. What six symbols mark this memecoin's destiny?",
+      "hint": "Think of a crypto journey: ascension, electricity, wealth, chaos, victory, and pure fortune converging."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon carrying gems. Lightning strikes with sparkles. The joker celebrates with a trophy. Six emojis tell this memecoin story.",
+      "hint": "Look for: launch, destination, treasure, power, luck, and celebration."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      11,
+      17
+    ]
   }
 }
