@@ -42081,5 +42081,23 @@
       19,
       21
     ]
+  },
+  "sol_1947": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers twine in cryptic grace. The jester's laugh echoes through gemstone halls, while scaled wisdom coils where destiny calls. A winged spirit seeks the prism's end, where thunder's kiss and inferno blend.",
+      "hint": "Consider the court, the heavens, precious things, creatures of legend, natural fury, and light's spectrum."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this code: a target waits, a gem is owed. A dragon dreams beneath the star, while joker plays where thunders are. The rocket flies where lightning screams, and fire burns in fortune's dreams.",
+      "hint": "Look for: something to aim at, something valuable, a mythical beast, a royal fool, something that launches, and something that burns."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      4,
+      1,
+      6
+    ]
   }
 }
