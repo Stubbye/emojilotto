@@ -42369,5 +42369,23 @@
       4,
       0
     ]
+  },
+  "sol_1963": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged herald ascends through prismatic arcs. The jester's grin mirrors the archer's aim, while gems crystallize the beast's ancient flame. Luck's four-sided whisper echoes beneath the aurora's silent song.",
+      "hint": "Seek the convergence of chance, ascension, chaos, illusion, treasure, and the mystical beast of eternal wisdom."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this verse: a game of chance, a creature that flies, a path of many colors, a laugh in shadow, a precious stone, and a legendary scaled being.",
+      "hint": "Think of luck, wings, beauty, mischief, wealth, and mythology."
+    },
+    "answer": [
+      11,
+      8,
+      9,
+      19,
+      6,
+      13
+    ]
   }
 }
