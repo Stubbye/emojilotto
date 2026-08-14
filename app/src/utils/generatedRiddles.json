@@ -42279,5 +42279,23 @@
       4,
       13
     ]
+  },
+  "sol_1957": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a masked performer juggles fate beneath the crescent's glow. Lightning strikes the gem-laden stage, while wings of transformation scatter stardust through the big top's eternal dream.",
+      "hint": "Seek the nighttime wonder, the chaos of chance, the glittering prize, the jester's domain, the metamorphosis, and the electric moment."
+    },
+    "easyRiddle": {
+      "text": "Find the moon that guides night travelers, the gem that sparkles bright, the lightning that strikes fast, the butterfly that transforms, the joker who plays tricks, and the rocket that soars high.",
+      "hint": "One is in the sky, one is precious, one is electric, one flies on wings, one wears makeup, and one goes to space."
+    },
+    "answer": [
+      1,
+      5,
+      4,
+      8,
+      19,
+      2
+    ]
   }
 }
