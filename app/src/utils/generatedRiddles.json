@@ -42441,5 +42441,23 @@
       6,
       11
     ]
+  },
+  "sol_1966": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six threads entwine: the archer's distant eye meets the phoenix's ascent, while gems crystallize dreams beneath the silver sentinel. The trickster's grin guards the threshold between chaos and beauty, where electricity births metamorphosis in gemstone's eternal gleam.",
+      "hint": "One controls destiny, one defies gravity, one rewards patience, one illuminates night, one transforms truth, one dazzles wonder"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: aim for the prize, reach for the stars above, find the jewel that sparkles, chase the bolt of power, seek the jester's masked wisdom, and discover the winged dancer's secret.",
+      "hint": "Target, rocket, gem, star, lightning, joker"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      19
+    ]
   }
 }
