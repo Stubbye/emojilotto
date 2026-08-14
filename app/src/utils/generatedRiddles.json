@@ -42135,5 +42135,23 @@
       11,
       17
     ]
+  },
+  "sol_1949": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's twin wheels, and the trickster's grin meets the scaled guardian of dreams, beneath the archer's eternal mark, a metamorphic jewel awaits those who read the language of storms and silence intertwined.",
+      "hint": "One is worn by jesters, one breathes ancient fire, one marks destiny's aim, one splits the sky, one transforms through darkness, one blazes eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the jester's mask of mirth, the dragon's ancient might, the target's perfect aim, the lightning's electric fright, the butterfly's metamorphic flight, and the gem's crystalline light.",
+      "hint": "A trickster, a mythical beast, an archer's goal, a storm's power, a winged transformation, and something precious."
+    },
+    "answer": [
+      19,
+      13,
+      0,
+      4,
+      7,
+      2
+    ]
   }
 }
