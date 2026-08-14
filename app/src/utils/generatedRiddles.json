@@ -42333,5 +42333,23 @@
       8,
       11
     ]
+  },
+  "sol_1960": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's ascension, a jeweled dancer waltzes through celestial fire. The trickster's grin reflects in crystalline depths, while nature's winged muse spirals toward destiny's gleaming crown.",
+      "hint": "Consider what flies, what burns, what deceives, and what endures."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols: one that aims true, one that reaches high, one that glimmers with worth, one that rules the night, one that sparks with chaos, and one that wears many faces.",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and jokers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
