@@ -42243,5 +42243,23 @@
       19,
       13
     ]
+  },
+  "sol_1955": {
+    "hardRiddle": {
+      "text": "Where celestial threads pierce the veil of night, and fortune's twin flames dance in prismatic light, a jester's grin guards the threshold between chaos and grace, while metamorphosis blooms in the sacred space. Six guardians await—one strikes with thunder's song, one spirals through transformation's throng, one glimmers eternal in crystalline flame, one wears the mask of fortune's game, one reaches for glory's distant sphere, and one paints the sky when storms draw near.",
+      "hint": "Look for the symbols of luck, transformation, cosmic fire, trickery, achievement, and weather's fury"
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in fortune's keep: a painted jester laughs, a butterfly leaps, lightning strikes bright, fire glows warm, a trophy stands tall through every storm, and the moon lights the path forevermore.",
+      "hint": "Think of luck, change, electricity, heat, victory, and the night sky"
+    },
+    "answer": [
+      22,
+      8,
+      5,
+      19,
+      17,
+      3
+    ]
   }
 }
