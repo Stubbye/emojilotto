@@ -42009,5 +42009,23 @@
       8,
       14
     ]
+  },
+  "sol_1944": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twins, and the trickster's grin meets the scaled guardian's kin. In chaos' spiraling descent, six tokens of fate align—one marks the bulls-eye of destiny's design, one blazes upward through the void of night, one glimmers with the dragon's ancient might, one spins the gambler's wheel of chance, one wears the mask of folly's dance, and one splits light into prismatic sight.",
+      "hint": "Think of luck, ambition, chaos, deception, mythology, and refraction."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: a bullseye aim, a upward thrust, a shimmering stone, a mighty beast, a spinning cube, and a jester's jest.",
+      "hint": "Target, Rocket, Gem, Dragon, Dice, and Joker."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      11,
+      19
+    ]
   }
 }
