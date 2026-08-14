@@ -42225,5 +42225,23 @@
       14,
       13
     ]
+  },
+  "sol_1954": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six sentinels of fate converge. The archer's aim aligns with heaven's pearl, as lightning scribes destiny's arc. Twin masks of revelry guard the threshold, while crystalline shards refract the cosmic jest. One creature of wings ascends through prismatic veils, another breathes infernal wisdom. In this symphony of chance, find the six that sing.",
+      "hint": "Consider what burns above, what gleams from earth, what laughs in masks, what soars on nature's loom, and what embodies wise chaos."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune hide within: a blazing messenger to the heavens, a gleaming treasure of the earth, the moon's eternal gaze, a spark that cuts the sky, a jester's doubled face of mirth, and a scaled creature breathing ancient flame.",
+      "hint": "Think of launch, treasure, sky, weather, fun, and mythology."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      19,
+      13
+    ]
   }
 }
