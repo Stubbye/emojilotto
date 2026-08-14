@@ -42351,5 +42351,23 @@
       4,
       11
     ]
+  },
+  "sol_1962": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the trickster's grin glimmers beneath the archer's aim. Lightning kisses the gemstone throne while masks of fate reveal the jester's ancient game. Six secrets hide in chaos—the marked beast guards transformation's door, and radiance blooms where laughter echoes through the void eternal.",
+      "hint": "One reflects destiny, one grants wishes, one deceives, one strikes truth, one pierces night, one shows the path."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of wonder: a bright path in night sky, a precious stone that gleams, a mischievous fool's face, a wild creature's cunning, electricity's violent dance, and a circle marked with purpose. What am I?",
+      "hint": "Think of: guidance, wealth, trickery, nature, power, and targeting."
+    },
+    "answer": [
+      21,
+      2,
+      11,
+      13,
+      4,
+      0
+    ]
   }
 }
