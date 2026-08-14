@@ -42387,5 +42387,23 @@
       6,
       13
     ]
+  },
+  "sol_1964": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate converge. The jester's grin masks truth in motley, while scaled ancient wisdom coils beneath stars that weep crystalline tears. Between the hunter's cunning and nature's delicate metamorphosis, lightning's tongue writes destiny upon the void. Seek the gem where all these threads entwine.",
+      "hint": "Consider trickery, mythology, electricity, transformation, and celestial bodies as your guides through this labyrinth of chance."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols dance together: a archer's mark, a cosmic jester, a spark of nature's fury, a precious stone that glimmers, a wise creature of ancient scales, and a delicate winged dancer. What are they?",
+      "hint": "Think of luck, laughter, electricity, gems, mythical beasts, and insects."
+    },
+    "answer": [
+      0,
+      9,
+      5,
+      2,
+      13,
+      8
+    ]
   }
 }
