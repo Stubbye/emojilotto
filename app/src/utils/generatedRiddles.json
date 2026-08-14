@@ -42063,5 +42063,23 @@
       6,
       19
     ]
+  },
+  "sol_1946": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the serpent's wisdom, while the night's pale guardian watches. Lightning splits the veil as brilliant shards catch eternal light, and masked revelry celebrates the spinner's blessing.",
+      "hint": "Think of mythical creatures, astronomical bodies, and games of chance intertwined with gemstone brilliance and theatrical masks."
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye's companion, the sky-dwelling serpent, the night's watchful face, the electric spark, the masked jester, and the faceted treasure that sparkles like frozen starlight.",
+      "hint": "One is a target, one flies in the sky, one is in the night, one strikes fast, one wears a mask, and one is precious and shiny."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      19,
+      21
+    ]
   }
 }
