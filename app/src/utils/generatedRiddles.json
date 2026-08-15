@@ -42837,5 +42837,23 @@
       14,
       3
     ]
+  },
+  "sol_1989": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and winged chaos meets the jester's masked appeal. Six secrets hide in night's electric veil: a gemstone gleams where lightning's echoes sail. One spins in madness, one hunts through shadows deep, while primal wings guard treasures mortals seek.",
+      "hint": "Consider the duality of chaos and order, nature and artifice, fortune and fate."
+    },
+    "easyRiddle": {
+      "text": "Six treasures to find: a bright gem that shines, a bolt from above, a spinning game of chance, a mask worn by fools, a beast from ancient tales, and a night guardian that glows—all wrapped in wings of transformation.",
+      "hint": "One sparkles, one strikes, one randomizes, one deceives, one roars, one flies."
+    },
+    "answer": [
+      5,
+      4,
+      11,
+      17,
+      13,
+      8
+    ]
   }
 }
