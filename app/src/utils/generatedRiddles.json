@@ -43125,5 +43125,23 @@
       3,
       5
     ]
+  },
+  "sol_2007": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin masks guard the threshold of chaos. The serpent of storms coils beneath gemstone tears, while winged metamorphosis dances through prismatic veils. In this sacred geometry of chance, six spirits converge to unlock what mortals dare not name.",
+      "hint": "Seek the archer's destination, the fool's duality, the dragon's domain, the butterfly's transformation, and where light bends into infinite colors—all bound by the crystal's sharp truth."
+    },
+    "easyRiddle": {
+      "text": "I am six woven together: a target of aim, a rocket of ascent, a gem of brilliance, a dragon of legend, a butterfly of change, and a rainbow of hope. Find us if you dare.",
+      "hint": "One points the way, one flies high, one glimmers, one breathes ancient fire, one transforms, and one spans the sky with color."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      8,
+      9
+    ]
   }
 }
