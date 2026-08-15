@@ -42675,5 +42675,23 @@
       19,
       8
     ]
+  },
+  "sol_1980": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial flame, six mysteries dance in luck's domain. The jester's grin guards gemstone's gleam, while thunder splits the dreamer's dream. A mystic bloom beneath the arc, and scales of chance dissolve the dark.",
+      "hint": "Think of performance, precious things, weather, and games of chance combined with cosmic elements"
+    },
+    "easyRiddle": {
+      "text": "Find the joker's treasure near the moon, where lightning strikes a lucky tune. A gem shines bright, the circus calls, and fire dances through fortune's halls. The flower blooms where rainbows gleam—these six hold lottery's golden dream.",
+      "hint": "Look for a performer, a precious stone, sky elements, weather, plants, and color"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      11,
+      7,
+      14
+    ]
   }
 }
