@@ -42855,5 +42855,23 @@
       13,
       8
     ]
+  },
+  "sol_1990": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The archer's aim meets the serpent's ancient wisdom, while the night-blooming jewel whispers to the trickster's grin. In this liminal space where luck is crystallized and wings beat against the veil, find the symbols that blur the line between performance and prophecy.",
+      "hint": "Think of transformation, chance, mysticism, spectacle, and the duality of nature's most cunning creatures."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols await discovery: one points the way with precision, one soars through dreams, one glimmers with inner light, one dances in the dark sky, one wears many faces, and one outwits with clever grace. Which six complete the circle of wonder?",
+      "hint": "Look for targets, ascension, brilliance, nocturnal magic, deception, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      3,
+      18,
+      13
+    ]
   }
 }
