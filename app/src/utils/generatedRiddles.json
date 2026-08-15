@@ -42891,5 +42891,23 @@
       9,
       21
     ]
+  },
+  "sol_1992": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six guardians dance in shadows. The trickster's grin beneath the mask of chaos, the scaled serpent coils through fortune's gem-lit throne, while wings of transformation shimmer across the arc of hope. In this realm where chance ignites and destiny sparkles, seek the spiral of mirth where all threads converge.",
+      "hint": "Look for: precision, destruction's beauty, deception, ancient wisdom, metamorphosis, and serendipity's glow"
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck: the archer's mark, the sky's messenger of fate, the jeweled prize, the trickster who grins, the creature with scales who hoards treasures, and the dust that makes wishes real.",
+      "hint": "One aims, one flies, one glows, one deceives, one guards, one sparkles"
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      13,
+      15,
+      20
+    ]
   }
 }
