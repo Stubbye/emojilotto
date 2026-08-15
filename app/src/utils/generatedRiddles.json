@@ -42567,5 +42567,23 @@
       4,
       19
     ]
+  },
+  "sol_1975": {
+    "hardRiddle": {
+      "text": "Where fortune's aim meets celestial fire, a jester's twin mocks the seeker's desire. Through crystalline depths, the winged dancer takes flight, while thunder's bright kiss ignites the night. Six sacred tokens dance in chaos divine—one marks the bullseye, one crowns the design.",
+      "hint": "Consider what shimmers with purpose, what laughs at fate, what pierces the veil, and what blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's bright heart, the fool's dark art, the storm's fierce spark, the prism's gleam, and wings that dream.",
+      "hint": "One hits targets, one lights up night, one is a trickster, one strikes with might, one reflects all colors, one flutters in flight."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      21,
+      8
+    ]
   }
 }
