@@ -42999,5 +42999,23 @@
       8,
       19
     ]
+  },
+  "sol_2000": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians await the seeker's zeal. The archer's mark meets heaven's glow, while jest and scaled wisdom orchestrate the show. A luminous bloom crowns the riddled way, where winged metamorphosis meets prismatic ray.",
+      "hint": "Consider symbols of chance, sky, transformation, and duality—one reveals destiny, one holds ancient power."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: aim true at the highest point, spin the wheel of laughs, let wings carry dreams to where colors bend, and behold the crowned beast of old.",
+      "hint": "A target, something round in the sky, something that makes you giggle, a flying insect, a rainbow, and a legendary creature."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      8,
+      9,
+      13
+    ]
   }
 }
