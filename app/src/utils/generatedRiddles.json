@@ -43089,5 +43089,23 @@
       4,
       11
     ]
+  },
+  "sol_2005": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate convene. The archer's mark meets the void's eternal gaze, while chaos births harmony through prismatic tears. The jester's twin masks smile upon the winged metamorphosis, and where lightning kisses the gem of heaven's vault, destiny crystallizes.",
+      "hint": "Seek the intersection of chaos and order, where the sky speaks in multiple tongues"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny await: one marks your aim, one pierces the sky, one catches light's essence, one rules the night, one splits the clouds, and one transforms in beauty's dance.",
+      "hint": "Think of targets, rockets, gems, moons, lightning, and butterflies"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
