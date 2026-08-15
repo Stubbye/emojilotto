@@ -42459,5 +42459,23 @@
       4,
       19
     ]
+  },
+  "sol_1967": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens of fate align in trance. The archer's mark pierces the heavens' veil, while swift thunder carries wishes without fail. A jeweled prism catches starlight's gleam, and transformation's wings flutter through dream. What destiny's symbols must mortals claim to pierce the void and stake their claim?",
+      "hint": "One guides aim, one grants speed, one sparkles bright, one shows the way at night, one changes form, and one ignites."
+    },
+    "easyRiddle": {
+      "text": "I seek six magical signs: one you aim with, one that flies fast, one that shines like treasure, one in the night sky, one that transforms, and one that burns bright. What are they?",
+      "hint": "Think of targets, rockets, gems, moons, butterflies, and fire."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      6
+    ]
   }
 }
