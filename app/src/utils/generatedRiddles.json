@@ -42549,5 +42549,23 @@
       4,
       19
     ]
+  },
+  "sol_1974": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, six sentries of fate converge in trance. The archer's mark holds twin-winged grace, while thunder's child claims destiny's place. A gemstone gleams where dreams take flight, and masked performers veil the light. What six symbols must align to break the veil between the worlds of dark and wake?",
+      "hint": "Think of precision, speed, luck, the sky, wealth, and hidden identities"
+    },
+    "easyRiddle": {
+      "text": "A target strikes true, a rocket soars high, a gem shines bright beneath the starlit sky. Lightning flashes quick, masks hide the face—these six tokens dance in fortune's race. Can you name them all and claim your place?",
+      "hint": "One aims, one flies, one sparkles, one strikes, one watches, and one deceives"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      19
+    ]
   }
 }
