@@ -42819,5 +42819,23 @@
       11,
       20
     ]
+  },
+  "sol_1988": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a jeweled serpent coils through celestial maze. Thunder's kiss ignites the jester's painted face, while gossamer wings dance through spectrum's grace. Six secrets hide within chaos tamed by art—find the winged performer, the scaled guardian heart.",
+      "hint": "One carries wishes skyward, one glimmers deep in stone, one rules the night above, one strikes with fury shown, one wears the mask of laughter, one floats on wind alone."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures from the cosmic carnival: a fiery bolt that answers chaos's call, a winged insect painted bright, a dragon's wisdom burning right, a jewel that catches light, and the moon that rules the night.",
+      "hint": "Think of lightning, butterfly, dragon, gem, and moon—plus one more magical sight under the starred cocoon."
+    },
+    "answer": [
+      1,
+      8,
+      13,
+      11,
+      14,
+      3
+    ]
   }
 }
