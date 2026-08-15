@@ -42621,5 +42621,23 @@
       4,
       17
     ]
+  },
+  "sol_1977": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's wheel, six keepers of fate converge. The archer's mark meets the chariot of void, while prism-born radiance adorns the sovereign's crown. Twin-winged grace spirals through fortune's grin, and the maestro's thunder strikes the stage of masks. What six guide the seeker through destiny's labyrinth?",
+      "hint": "One burns above, one spins below, one glimmers with light, one flies free, one sounds the call, one wears many faces"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: the first you aim at, the second soars high, the third gleams bright, the fourth floats above, the fifth crackles with power, and the sixth brings laughter and trickery. What are these six?",
+      "hint": "Think of a target, space travel, jewels, nighttime, weather, and playing cards"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
