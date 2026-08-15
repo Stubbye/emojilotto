@@ -42639,5 +42639,23 @@
       4,
       19
     ]
+  },
+  "sol_1978": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial weaver's thread, through gemstone gates the jester's lightning dances. Six harbingers of fate: one marks the bulls-eye of destiny, one pierces the void with burning ambition, one gleams with crystalline truth, one grins madly in motley disguise, one splits the heavens with electric wrath, and one blooms eternal in the night's embrace. Speak their order as luck demands.",
+      "hint": "Think of targets, ascension, precious things, trickery, sky-fire, and lunar flowers."
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance in the lottery's dream: a bullseye waits, a jester grins, a jewel sparkles, lightning cracks the sky, and two celestial lovers meet—one glowing bright, one blooming soft. Which six claim victory?",
+      "hint": "Aim for the target, find the joker, treasure the gem, fear the lightning, reach for the star, and find the flower under moonlight."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      22,
+      14
+    ]
   }
 }
