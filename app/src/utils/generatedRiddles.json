@@ -42765,5 +42765,41 @@
       11,
       8
     ]
+  },
+  "sol_1985": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, and chaos dances with the jeweled blaze. The winged wanderer spirals through the cosmic fire, while prisms shatter what the jester's game desires. In this convergence of the heavens' silent scream, six symbols hold the lottery's lucid dream.",
+      "hint": "One aims, one burns, one glimmers bright, one flies at night, one laughs with spite, one refracts light"
+    },
+    "easyRiddle": {
+      "text": "I point the way to winning dreams, a rocket soars through starry beams, a gem that sparkles in the night, a flame that burns both hot and bright, a butterfly takes graceful flight, and lightning strikes with pure delight.",
+      "hint": "Six symbols of fortune: aim, launch, treasure, flame, flutter, and strike"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      8,
+      10
+    ]
+  },
+  "emlo_754": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with cosmic speed, a 💎 of fortune is my creed. ⚡ strikes when 🔥 meets the night, my 🦊 spirit shines so bright. What am I?",
+      "hint": "A digital asset that moons and explodes in value"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go so fast, 💎 rewards that ever last. ⚡ quick gains, 🔥 hype so real, the 🦊 trader makes the deal!",
+      "hint": "A fun coin that promises moon trips"
+    },
+    "answer": [
+      3,
+      2,
+      4,
+      5,
+      13,
+      12
+    ]
   }
 }
