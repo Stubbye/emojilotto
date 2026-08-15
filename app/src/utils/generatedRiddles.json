@@ -43071,5 +43071,23 @@
       2,
       19
     ]
+  },
+  "sol_2003": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets the archer's eternal mark, and fortune's crystalline twins dance with the serpent's ancient spark. The jester's grin echoes through the prism of chaos, while six-sided destiny spins beneath the threshold where the multicolored arc dissolves into the nocturnal abyss.",
+      "hint": "One watches from above, one strikes with fury, one deceives with laughter, one holds all colors, one grants wishes, one controls fate."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: the night's silent guardian, the sky's burning messenger, the trickster in motley, the fortune in facets, the storm's violent tongue, and the cube of uncertain fates.",
+      "hint": "Look for: moon, rocket, joker, gem, lightning, and dice among the symbols of luck."
+    },
+    "answer": [
+      3,
+      1,
+      19,
+      5,
+      4,
+      11
+    ]
   }
 }
