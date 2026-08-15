@@ -42531,5 +42531,23 @@
       6,
       11
     ]
+  },
+  "sol_1973": {
+    "hardRiddle": {
+      "text": "Where fortune's serpent coils through celestial silk, six tokens dance in shadow's milk. The archer's mark meets winged ascent, while earthbound brilliance pays its rent. Where jesters mock and thunder screams, reality fractures at the seams. Seek the scaled guardian's ancient flame, where luck and chaos stake their claim.",
+      "hint": "One marks precision, one defies gravity, one glimmers with inner fire, one rules the night, one splits the sky, one wears a grin of madness."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in fate's own game: one you aim at, one breathes flame, one shines like tears from heaven's door, one slithers proud through legend's lore, one cracks the sky with angry light, and one grins wide with mischief bright.",
+      "hint": "Think of a target, fire, a dragon, lightning, a joker, and the moon."
+    },
+    "answer": [
+      0,
+      5,
+      1,
+      3,
+      4,
+      19
+    ]
   }
 }
