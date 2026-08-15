@@ -42495,5 +42495,41 @@
       4,
       7
     ]
+  },
+  "sol_1969": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits converge in twilight's trance. The archer's mark guides wings of night, while gems crystallize in lightning's flight. A jester's grin marks spiral ascent, where dragon's breath and fortune are spent.",
+      "hint": "Seek the intersection of chaos and destiny, where aimed intention meets winged metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I have a target for your aim, a rocket that claims to fame, a gem that shines so bright, lightning that strikes at night, a joker that makes you laugh, and a dragon's aftermath.",
+      "hint": "Six lottery symbols: one aims, one flies, one sparkles, one strikes, one jokes, and one roars."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      13
+    ]
+  },
+  "emlo_752": {
+    "hardRiddle": {
+      "text": "I'm a meme that shoots for celestial heights, guided by electric fortune and crystalline might. Where jesters dance in circles of flame, a gemstone's sparkle fuels the game. What six symbols chart my path to fame?",
+      "hint": "Think of the journey: launch, luck, gems, destiny, chaos, and celebration"
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket with gem-like dreams, lightning strikes bring fortune's streams. Fire and sparkles light the way, circus jokers make us play. Name these six that guide the day!",
+      "hint": "Look for: movement, direction, wealth, chaos, energy, and fun"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      6,
+      11
+    ]
   }
 }
