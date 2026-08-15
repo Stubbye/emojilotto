@@ -42873,5 +42873,23 @@
       18,
       13
     ]
+  },
+  "sol_1991": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six symbols dance in destiny's choir. The winged metamorphosis ascends through prismatic tears, whilst the jester's gem catches starlight across infinite years. Luck's thunderous kiss upon the rainbow's silent stage, reveals the answer written in fate's cryptic page.",
+      "hint": "One brings chance, one brings aim, one transforms, one brings flame, one brings joy, one brings gleam"
+    },
+    "easyRiddle": {
+      "text": "Six magical things: a target you shoot, a butterfly that flies, a gem that shines, lightning that strikes, a rainbow in the sky, and a star that twinkles. Which six hold the key to your fortune?",
+      "hint": "Think of things associated with luck, transformation, precious beauty, power, hope, and celestial wonder"
+    },
+    "answer": [
+      0,
+      8,
+      5,
+      4,
+      9,
+      21
+    ]
   }
 }
