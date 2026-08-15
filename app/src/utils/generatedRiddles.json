@@ -42711,5 +42711,23 @@
       8,
       17
     ]
+  },
+  "sol_1982": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial wanderer, through prisms of fortune the jester laughs. Twin flames dance with scaled majesty, whilst nature's painted wings ascend toward destiny's gleaming sentinel.",
+      "hint": "Think of games of chance, night sky, luck's symbols, and what rises from chaos to beauty."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: a target of luck, a moon that guides night, a joker that grins, fire that burns bright, a dragon ancient and wise, and a butterfly that takes flight.",
+      "hint": "One is an archer's aim, one lights the dark, one is a card player, one is hot, one is mythical, one transforms."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      5,
+      13,
+      8
+    ]
   }
 }
