@@ -42693,5 +42693,23 @@
       7,
       14
     ]
+  },
+  "sol_1981": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's descent, and crystalline whispers dance with serpent's fire—seek the wayward flutter caught between eclipse and prismatic tears, whilst the sovereign's gleaming crown watches over chaos reborn.",
+      "hint": "One guides aim, one descends beyond sight, one shatters light, one marks time's theft, one transforms chaos, one claims victory."
+    },
+    "easyRiddle": {
+      "text": "I point and shoot, I fall from space, I sparkle pure, I burn so bright, I flutter free, I stand on top. What six treasures dance together?",
+      "hint": "Think of: aiming, falling, shining, heating, flying, and winning."
+    },
+    "answer": [
+      0,
+      19,
+      20,
+      1,
+      8,
+      17
+    ]
   }
 }
