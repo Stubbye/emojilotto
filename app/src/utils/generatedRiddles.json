@@ -42909,5 +42909,23 @@
       15,
       20
     ]
+  },
+  "sol_1993": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between celestial dreams and earthly flame, a jester's grin dances with nature's winged transformation, while cosmic dust settles upon the victor's crown of righteousness. Seek the six that bridge chaos and order, the profane and the divine.",
+      "hint": "One guides, one burns, one mocks, one transforms, one rewards, one glimmers eternal."
+    },
+    "easyRiddle": {
+      "text": "A shooter points high, a fool grins wide, fire heats all, wings flutter free, a prize gleams bright, and stardust falls—which six shape the gambler's tale?",
+      "hint": "Target, joker, fire, butterfly, trophy, sparkles"
+    },
+    "answer": [
+      0,
+      19,
+      6,
+      8,
+      18,
+      10
+    ]
   }
 }
