@@ -42747,5 +42747,23 @@
       5,
       13
     ]
+  },
+  "sol_1984": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets converge. The archer's mark meets the serpent's coil, while gemstones whisper beneath the night's veil. Chance orchestrates with the jester's grin, and nature's metamorphosis completes the constellation of fate.",
+      "hint": "Seek the symbols of destiny, luck, and transformation—one marks precision, one commands the heavens, one glimmers with worth, one swallows light, one mocks all odds, and one rises reborn."
+    },
+    "easyRiddle": {
+      "text": "I am precise as an aim, powerful as a serpent, precious as treasure, bright as the night sky, unpredictable as chance, and beautiful as rebirth. Six of us hold the key to your fortune.",
+      "hint": "Think of: accuracy, mythology, wealth, celestial bodies, gambling, and transformation."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      3,
+      11,
+      8
+    ]
   }
 }
