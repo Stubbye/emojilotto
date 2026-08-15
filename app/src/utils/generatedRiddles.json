@@ -43107,5 +43107,23 @@
       4,
       8
     ]
+  },
+  "sol_2006": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's trembling dance, six avatars of destiny converge. The archer's mark aligns with night's pale sovereign, while earthbound sparks ignite the jester's grin. Winged metamorphosis pirouettes through chromatic arcs, as crystalline fortunes tumble in endless reverie. Seek the trinity: precision's eye, chaos's crown, and transformation's flutter—all bound by luck's electric whisper and the gem that mirrors infinity itself.",
+      "hint": "Think of: precision, royalty, transformation, chance, wealth, and celestial bodies working in concert."
+    },
+    "easyRiddle": {
+      "text": "I have a target you must hit, a joker playing tricks, a butterfly that dances free, a sparkling gem that gleams, the moon watching overhead, and lightning that strikes fast. Six symbols of fortune await—can you name them all?",
+      "hint": "Look for: something you aim at, someone who's silly, a flying insect, something valuable, the night sky, and electricity."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      11,
+      3,
+      5
+    ]
   }
 }
