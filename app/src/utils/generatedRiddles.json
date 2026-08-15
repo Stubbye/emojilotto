@@ -43017,5 +43017,23 @@
       9,
       13
     ]
+  },
+  "sol_2001": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six omens dance in twilight's attire. The jester's grin beneath the lunar glow, a scaled beast guards what gemstones know. Swift wings of transformation flutter through the arc of promise, while thunder's kiss electrifies the cosmos.",
+      "hint": "Seek the trickster, the nocturnal orb, the serpent of myth, the precious stone, the metamorphic insect, and the volatile sky."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck converge: a prankster laughs, the night shines silver, a dragon coils, jewels gleam, a butterfly soars, and lightning crackles. What are they?",
+      "hint": "Look for: joker, moon, dragon, gem, butterfly, and lightning."
+    },
+    "answer": [
+      11,
+      3,
+      13,
+      2,
+      7,
+      4
+    ]
   }
 }
