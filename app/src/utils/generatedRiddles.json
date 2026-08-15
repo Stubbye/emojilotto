@@ -43035,5 +43035,41 @@
       7,
       4
     ]
+  },
+  "sol_2002": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone gleams in lightning's piercing snare. The dragon's breath ignites what butterflies dare chase through prismatic veils of air. Six secrets hide in fate's cruel glare—can you discern which tokens flutter where?",
+      "hint": "One points the way, one lights the sky, one burns with rage, one transforms to fly, one glows with worth, and one bends light."
+    },
+    "easyRiddle": {
+      "text": "I strike from above with electric might. I soar through the void in the dead of night. I shimmer with value beyond all measure. A winged creature seeks treasures of pleasure. Flames consume all they touch with grace. Rainbow bends light across its face.",
+      "hint": "Think of: power from sky, space travel, wealth, insects, heat, and spectrum"
+    },
+    "answer": [
+      4,
+      1,
+      5,
+      8,
+      2,
+      9
+    ]
+  },
+  "emlo_756": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's fire. A jester's luck guides my flight through the cosmic arena, where dragons bow to the clover's ancient magic.",
+      "hint": "Think of moonshot memes, lucky symbols, and the chaos of pump-and-dumps"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with ⚡ speed, our 🎪 of 🔥 and 💎 blessed by the 🍀",
+      "hint": "Moon, Lightning, Circus, Fire, Gem, Clover"
+    },
+    "answer": [
+      3,
+      4,
+      6,
+      5,
+      2,
+      19
+    ]
   }
 }
