@@ -42729,5 +42729,23 @@
       13,
       8
     ]
+  },
+  "sol_1983": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial veil, six sentinels dance in shadow's tale. The trickster grins as gemstone bleeds, while wings of transformation plant their seeds. Thunder's kiss ignites the stage, and majesty roars across time's page. What six shall align when chaos and grace converge in this cosmic embrace?",
+      "hint": "One laughs at fate, one pierces clouds, one sparkles with value, one metamorphoses, one electrifies, and one reigns supreme."
+    },
+    "easyRiddle": {
+      "text": "I wear a crown and roar with might, a joker tricks you left and right. A gem shines bright, an arrow flies, lightning strikes before your eyes. A butterfly floats without a care, and these six treasures hide somewhere.",
+      "hint": "Look for: royalty, deception, wealth, speed, nature, and power."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      8,
+      5,
+      13
+    ]
   }
 }
