@@ -42477,5 +42477,23 @@
       8,
       6
     ]
+  },
+  "sol_1968": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone glimmers in the jester's sneer. Lightning dances through the dragon's breath, while masks conceal what fortune death. Six tokens spin in fate's design, one reflects the stars that shine.",
+      "hint": "Consider what burns, what flies, and what performs on stages of chance."
+    },
+    "easyRiddle": {
+      "text": "I am a target with riches near, a dragon's flame without the fear. The jester laughs, masks play their part, lightning strikes the gambler's heart. Under moonlit curtains grand, six secrets in your hand.",
+      "hint": "Think of performers, precious things, and symbols of electricity and theater."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      18,
+      4,
+      7
+    ]
   }
 }
