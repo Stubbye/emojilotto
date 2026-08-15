@@ -42657,5 +42657,23 @@
       22,
       14
     ]
+  },
+  "sol_1979": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers converge in twilight's veil. The archer's mark meets the serpent's breath, while the night's pearl witnesses prisms scattered like broken dreams. Twin masks of fate pirouette where wings of metamorphosis once trembled, and the jester's grin dissolves into oblivion's glimmer.",
+      "hint": "Seek the cosmic, the fierce, the transformative, the luminous, the theatrical, and the blessed. One aims, one soars through heavens, one bends light, one adorns night, one guides revelry, one brings transmutation."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny: an aim true as arrows, a leap toward stars, a treasure most rare, a beacon in darkness, masks of two faces, and wings of rebirth.",
+      "hint": "Target, Rocket, Gem, Moon, Masks, Butterfly - find these six in your heart's certainty."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      8
+    ]
   }
 }
