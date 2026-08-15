@@ -42963,5 +42963,23 @@
       14,
       11
     ]
+  },
+  "sol_1997": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six veiled whispers emerge from chaos and dream. The archer's destination burns in the void, while gems crystallize laughter beneath a jester's crown. Wings of transformation flutter through prismatic arcs, as thunder's twin births fortune from the depths of revelry.",
+      "hint": "Consider what burns without heat, what transforms without dying, and what reveals hidden truths through play."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning strike that laughs, the moon's twin fire, the jewel that holds all colors, the masquerader's jest, the butterfly's painted sky, and the arrow's resting place.",
+      "hint": "One is electric mischief, one celestial, one precious, one theatrical, one graceful, one aimed."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      19,
+      8,
+      0
+    ]
   }
 }
