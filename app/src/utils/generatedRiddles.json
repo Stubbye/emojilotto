@@ -42801,5 +42801,23 @@
       13,
       12
     ]
+  },
+  "sol_1986": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged metamorphosis spins beneath prismatic arcs. One strikes swift as serpent's breath, while gemstone's heart glimmers in the void. Six signs converge where chaos meets destiny's mask.",
+      "hint": "Look for: a celestial body, a striking force, a transformation, light refraction, precious stone, and fortune's symbol"
+    },
+    "easyRiddle": {
+      "text": "Find the moon that burns, the butterfly's twin colors, the gem that shines, the bolt that strikes, the mask of chance, and the stone that sparkles.",
+      "hint": "One is up high, one transforms, one is precious, one is fast, one is mysterious, one catches light"
+    },
+    "answer": [
+      1,
+      8,
+      5,
+      4,
+      11,
+      20
+    ]
   }
 }
