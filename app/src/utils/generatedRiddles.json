@@ -42927,5 +42927,23 @@
       18,
       10
     ]
+  },
+  "sol_1995": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through the void, six sentinels of fate converge. The celestial wanderer weeps crystalline tears upon the trickster's grin, whilst verdant fortune spirals betwixt the infernal plume and chromatic arc. The winged metamorphosis bears witness as stellar radiance ignites the abyss.",
+      "hint": "One reflects chaos, one holds luck, one bleeds light, one is reborn, one drowns in color, one conquers sky"
+    },
+    "easyRiddle": {
+      "text": "A jester grins in endless night, a butterfly transforms in flight, a four-leaf charm brings lucky sight, while fire blazes, rainbow shines bright, and a star explodes with pure light.",
+      "hint": "Count the magical symbols: the fool, the insect, the lucky plant, the flame, the spectrum, and the spark"
+    },
+    "answer": [
+      19,
+      8,
+      20,
+      9,
+      21,
+      1
+    ]
   }
 }
