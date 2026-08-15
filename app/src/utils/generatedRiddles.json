@@ -42981,5 +42981,23 @@
       8,
       0
     ]
+  },
+  "sol_1998": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six harbingers of fate align. The archer's mark gleams with inner light, while winged metamorphosis spirals through electric awakening. Lunar witness crowns the symphony of chance, as nature's symbol of luck blooms eternal beneath the jester's knowing gaze.",
+      "hint": "Look for: precision meeting brilliance, transformation through power, night's guardian, and fortune's traditional charm."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a golden target, a lightning strike, a sparkling gem, the glowing moon, a dancing butterfly, and a lucky clover. Which six make the winning combination?",
+      "hint": "Think of targets, electricity, precious stones, night sky, insects, and Irish luck."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      1,
+      8,
+      19
+    ]
   }
 }
