@@ -42585,5 +42585,41 @@
       21,
       8
     ]
+  },
+  "sol_1976": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthly desire, six whispers converge in the liminal space between chaos and grace. The archer's dream pierces the veil of night's silver keeper, while primal fury waltzes with nature's delicate metamorphosis. Twin tokens of chance and mirth spin in the cosmic theater, and where light fractures into infinite possibility, destiny's multifaceted crown awaits the worthy seeker.",
+      "hint": "One aims upward, one glimmers above, one transforms, one burns, one randomizes, and one refracts all colors."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of fortune: a pointed destination for arrows, a vessel reaching for the heavens, a precious stone that gleams, the night's pale guardian, the butterfly's graceful dance, and the spectrum's joyful arc.",
+      "hint": "Think of targets, space travel, gems, celestial bodies, insects, and weather phenomena."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9
+    ]
+  },
+  "emlo_753": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving a trail of brilliance. My gem-like value sparkles as I dance through chaos, guided by fortune's symbol. What am I?",
+      "hint": "Think of a journey to wealth with three elements of luck and two of energy"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! Find the shiny rock, the lucky charm, the lucky spinner, the bright burst, the electric bolt, and the goal post. Which six did you spot?",
+      "hint": "One takes you up, one makes you rich, one is lucky, one is random, one is power, one is victory"
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      10,
+      4,
+      17
+    ]
   }
 }
