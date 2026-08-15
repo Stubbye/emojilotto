@@ -42945,5 +42945,23 @@
       21,
       1
     ]
+  },
+  "sol_1996": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked jester spins beneath Luna's gaze. Six symbols intertwine: the archer's true mark, the swift messenger of gods, the crystalline treasure born of pressure's embrace, the nocturnal guardian's silver throne, the serpent's ancient wisdom wreathed in inferno, and the chaos-keeper's numbered bones. Seek where ambition meets destiny's glittering veil.",
+      "hint": "Think of luck, speed, wealth, night, mythology, and chance - all adorned in celestial and earthly splendor."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of fortune: one marks your aim true, one carries you swift and high, one glimmers with precious worth, one lights the darkness above, one coils with ancient fire, and one rolls with fate's design. What are we together?",
+      "hint": "Target, Rocket, Gem, Moon, Dragon, Dice"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      11
+    ]
   }
 }
