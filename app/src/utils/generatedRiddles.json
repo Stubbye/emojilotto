@@ -43629,5 +43629,23 @@
       11,
       15
     ]
+  },
+  "sol_2034": {
+    "hardRiddle": {
+      "text": "Through prismatic veil the jester's twin ascends, where fortune's arrow meets celestial fire. Six whispers dance: the scourge of heaven strikes the stage of wonder, as gemmed ice reflects the hunter's mask and wings of metamorphosis embrace the golden chord of victory's spectral bloom.",
+      "hint": "One conducts music, one judges fools, one hunts in darkness, one transforms, one freezes time, one burns bright."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols: the target's mark, the clown's domain, the precious stone, the night orb, the electric bolt, and the beautiful wings.",
+      "hint": "Look for: aim, entertainment, wealth, darkness, energy, and transformation."
+    },
+    "answer": [
+      0,
+      7,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
