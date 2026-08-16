@@ -43809,5 +43809,23 @@
       20,
       19
     ]
+  },
+  "sol_2045": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleam, and the trickster's grin meets destiny's dream. Six whispers of fate: the archer's true mark, the winged messenger piercing the dark, the crystalline treasure born from pressure's deep kiss, the pale sentinel watching what mortals may miss, the serpent of thunder that splits the night's veil, and the jester whose laughter makes destiny pale.",
+      "hint": "One guides, one carries, one glimmers, one watches, one strikes, one deceives."
+    },
+    "easyRiddle": {
+      "text": "Find the lucky six: something you aim at, something that flies fast, something that sparkles and costs a lot, something bright in the night sky, something powerful and dangerous, and something silly that makes people laugh.",
+      "hint": "Think of: target, rocket, gem, moon, lightning, joker"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
