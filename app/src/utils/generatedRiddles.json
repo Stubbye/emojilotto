@@ -43143,5 +43143,23 @@
       8,
       9
     ]
+  },
+  "sol_2008": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and the winged dancer courts the luminous arc, chaos speaks through hexagonal tongues while the crowned jester's grin echoes across the twilight stage. One burns eternal, one gleams in shadow's cradle—six threads weave destiny's tapestry.",
+      "hint": "Look for the tools of chance, the court of madness, the paths of light and flame, and transformation itself."
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the sky's fire, the prism's promise, the fool's smile, the dice's voice, and the phoenix's kiss. Six signs reveal the winner's secret.",
+      "hint": "One is aimed, one falls from above, one is colorful, one jokes, one rolls, and one destroys and renews."
+    },
+    "answer": [
+      0,
+      1,
+      9,
+      11,
+      19,
+      5
+    ]
   }
 }
