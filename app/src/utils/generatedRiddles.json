@@ -43485,5 +43485,23 @@
       4,
       9
     ]
+  },
+  "sol_2025": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six whispers dance in fortune's gyre. The jester's twin grins at destiny's gleam, while scaled serpent guards the prismatic dream. Swift wings eclipse the vault of night, as fortune's bolt ignites the sight.",
+      "hint": "Consider: aim, chaos, reflection, enchantment, swiftness, and the cosmic stage where luck performs."
+    },
+    "easyRiddle": {
+      "text": "Find the marked target, the rocket's ascent, the glittering gem, the moon's silent descent, the butterfly's dance, and the dragon's scaled might. Six treasures align in the lottery's light.",
+      "hint": "One aims at you, one flies up high, one sparkles bright, one lights the sky, one floats with grace, one breathes ancient fire."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      14
+    ]
   }
 }
