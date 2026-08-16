@@ -43539,5 +43539,23 @@
       8,
       19
     ]
+  },
+  "sol_2028": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone gleams beneath the tempest's sneer. The winged dancer courts the arc of light, while electricity weaves through the juggler's night. In this theatre of chance, six destinies align—one strikes the heavens, one reflects the divine.",
+      "hint": "Think of targets, gems, celestial bodies, performers, natural phenomena, and precious stones. One element appears twice in different forms."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of fate: one aims true, one sparkles bright, one dances in the sky, one brings the storm, one performs for crowds, and one bends light into colors. What are we?",
+      "hint": "Look for: something that shoots, something precious, something winged, something electric, something entertaining, and something that creates beauty from light."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      5,
+      7,
+      9
+    ]
   }
 }
