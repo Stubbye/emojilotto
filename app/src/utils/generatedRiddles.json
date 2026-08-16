@@ -43503,5 +43503,23 @@
       8,
       14
     ]
+  },
+  "sol_2026": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, a serpent of fortune coils through celestial maze. Twin flames dance upon the prism's edge, while nature's winged metamorphosis pledges. In chaos' numbered bones and jester's grin, the crystal's fire whispers what might have been.",
+      "hint": "Seek the symbols of chance, celestial bodies, transformation, and mirth. Six vessels hold your destiny's worth."
+    },
+    "easyRiddle": {
+      "text": "I am the marksman's aim, the traveler's dream, the precious stone that makes fortune gleam. I watch from above in silver light, I spark with power and ancient might. I flutter between two worlds entire, and dance with laughter, jest, and fire.",
+      "hint": "Look for aims, journeys, gems, night sky, changes, and joy."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      19
+    ]
   }
 }
