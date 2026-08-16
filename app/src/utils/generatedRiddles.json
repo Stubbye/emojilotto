@@ -43791,5 +43791,23 @@
       8,
       19
     ]
+  },
+  "sol_2044": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's descent, a gem of night burns bright. The dragon's ancient song spirals through crystalline tears, while masked performers dance between the flame's crescendo and the clover's whispered grace.",
+      "hint": "Think of celestial bodies, mythical creatures, fortune's symbols, and the dance between light and luck."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this verse: a bull's-eye seeker, a precious stone, a sleeping guardian, a scaled beast, frozen starlight, and a lucky charm of green.",
+      "hint": "One is a target, one shines in darkness, one flies through sky, one is magical, one is precious, and one brings luck."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      13,
+      20,
+      19
+    ]
   }
 }
