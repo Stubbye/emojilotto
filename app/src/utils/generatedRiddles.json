@@ -43719,5 +43719,41 @@
       8,
       10
     ]
+  },
+  "sol_2040": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, six tokens dance in fortune's atmosphere. The jester's grin beneath the twin-horned beast, a prism split where chaos finds its feast. Thunder's kiss upon the emerald bloom, while scaled wings cast shadows in the room. Between the mask of mirth and crystal's song, the spiral path where lucky souls belong.",
+      "hint": "Seek the performer, the mythical, the precious, the celestial, the electric, and the ancient stone."
+    },
+    "easyRiddle": {
+      "text": "One points true, one climbs so high, one shines with price, one lights the sky. One roars with sound, one guards with scales, together they weave fortune's tales.",
+      "hint": "A target, a dragon, a gem, the moon, lightning, and a joker walk into a lottery..."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      3,
+      4,
+      20
+    ]
+  },
+  "emlo_761": {
+    "hardRiddle": {
+      "text": "I chase the digital dream with explosive speed, gathering treasures that make believers bleed. I'm struck by fortune's unpredictable hand, reaching heights where few dare to stand. My magic sparkles with every spin, and my mystical glow draws the crowd in.",
+      "hint": "Think of what propels memecoins to glory and the elements of chance and dazzle that accompany them."
+    },
+    "easyRiddle": {
+      "text": "What zooms up fast with a boom? What gleams bright like a room? What strikes quick? What glows thick? What spins luck? What shimmers in pluck?",
+      "hint": "One goes up, one shines, one hits fast, one glows, one decides fate, one dazzles bright."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      10
+    ]
   }
 }
