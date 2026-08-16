@@ -43557,5 +43557,23 @@
       7,
       9
     ]
+  },
+  "sol_2030": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six secrets hide in chance. The archer's mark burns bright as fortune's spark, while winged metamorphosis twirls through fortune's dark. A jester's grin and crystalline tears reflect the stage where chaos cheers. Seek the beast of emerald dreams and the vault where starlight gleams.",
+      "hint": "One marks targets, one ascends, one brings fortune, one transforms, one entertains, one glimmers eternal"
+    },
+    "easyRiddle": {
+      "text": "Find the target where luck begins, the rocket that takes fortune to the sky, the gem of precious fortune, the joker of games, the crystal of clarity, and the star that guides all wishes.",
+      "hint": "Look for: aim, flight, treasure, comedy, reflection, and hope"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      20,
+      21
+    ]
   }
 }
