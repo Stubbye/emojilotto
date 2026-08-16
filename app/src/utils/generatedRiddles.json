@@ -43683,5 +43683,23 @@
       8,
       18
     ]
+  },
+  "sol_2038": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a serpent of heaven dances with the celestial pearl. Through prisms of earth's frozen tears, the jester's grin echoes in chambers of night, while twin souls—winged and masked—waltz upon the stage of chance.",
+      "hint": "Seek the archer's mark, the dragon's path, the stone born of starlight, the moon's ancient gaze, the performer's smile, and the dancer's metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I am shot toward dreams, coiled and wise. I shine like ice in heaven's eyes. The fool grins while masked dancers twirl. A butterfly floats in fortune's swirl.",
+      "hint": "Think of: what flies to dreams, what shines hard, what gambles, what hides faces, and what transforms."
+    },
+    "answer": [
+      1,
+      13,
+      20,
+      3,
+      18,
+      8
+    ]
   }
 }
