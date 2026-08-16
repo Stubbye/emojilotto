@@ -43377,5 +43377,23 @@
       12,
       4
     ]
+  },
+  "sol_2020": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jest, six seekers of fate converge. The archer's mark meets the cosmic torch, while fortune's jester grins. Wealth crystallized reflects the winged metamorphosis, and destiny's spark illuminates the path where laughter and lightning intertwine.",
+      "hint": "Consider symbols of chance, transformation, illumination, and theatrical fortune."
+    },
+    "easyRiddle": {
+      "text": "Find the target's bullseye, the rocket's ascent, the gem's sparkle, the moon's glow, the lightning's flash, and the joker's smile.",
+      "hint": "Look for luck, achievement, wealth, night, energy, and mischief."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
