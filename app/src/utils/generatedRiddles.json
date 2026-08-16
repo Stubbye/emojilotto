@@ -43395,5 +43395,23 @@
       4,
       19
     ]
+  },
+  "sol_2021": {
+    "hardRiddle": {
+      "text": "Where celestial flame dances with fortune's wheel, and the trickster's visage grins beneath winged metamorphosis—seek the archer's destination where crystalline brilliance shatters the veil between chaos and destiny, whilst the nocturnal orb witnesses the jester's eternal jest.",
+      "hint": "Consider the symbols of chance, transformation, deception, and the heavens themselves. What binds a performance of souls, a stone of infinite worth, and the electricity of fate?"
+    },
+    "easyRiddle": {
+      "text": "I am six: the place you aim, the swift ascent, the precious glimmer, the night's guardian, the spark of danger, and the laughing deceiver. Together we dance in the house of chance.",
+      "hint": "One is a destination, one flies upward, one sparkles, one watches from above, one burns, and one wears many faces."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      18
+    ]
   }
 }
