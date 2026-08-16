@@ -43575,5 +43575,41 @@
       20,
       21
     ]
+  },
+  "sol_2031": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet void, a winged metamorphosis dances with celestial fire. The jester's grin mirrors the fox's cunning, while crystalline dreams shatter into electric fragments. In this theater of chance, the masked revelry ascends toward infinity's gleam.",
+      "hint": "Think of transformation, chaos, deception, and the liminal spaces between worlds and fates."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in shadow: a target struck true, a rocket's ascent, a butterfly's rebirth, a joker's mischief, a crystal's refraction, and lightning's chaos. Which six paint this portrait of destinies colliding?",
+      "hint": "Look for: precision, flight, change, trickery, clarity, and electricity."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      11,
+      20,
+      4
+    ]
+  },
+  "emlo_760": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, a gemstone treasure that makes holders bleed. Where luck strikes like fire through circus games, a joker's fox magic claims its flames. Under purple skies, my crystal sparkles dance—this memecoin's wild fortune brings the moonshot chance.",
+      "hint": "Think of the journey: launch, gem, electricity, chaos, cunning, and mystical shimmer."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon with gem so bright, lightning fast and fire-hot flight. Joker's game in the circus tent, sparkles and fortune—this is how memecoins are spent!",
+      "hint": "What takes you to space, shines like treasure, moves quickly, and brings excitement?"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      18
+    ]
   }
 }
