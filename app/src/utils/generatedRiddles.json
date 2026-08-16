@@ -43611,5 +43611,23 @@
       7,
       18
     ]
+  },
+  "sol_2032": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the jester's grin, six dancers twirl in fortune's spin. The archer's mark gleams purple-bright, while scaled majesty takes flight. Thunder's kiss upon the gem, and nature's bloom adorns the hem.",
+      "hint": "Seek the convergence of sky, chaos, wealth, mythology, electricity, and growth."
+    },
+    "easyRiddle": {
+      "text": "Find the glowing stone, the laughing fool, the winged serpent, the electric storm, the purple mystery, and the budding hope.",
+      "hint": "One shines with value, one brings chaos, one rules ancient skies, one strikes with power, one hides secrets, one symbolizes new beginnings."
+    },
+    "answer": [
+      2,
+      19,
+      14,
+      4,
+      11,
+      15
+    ]
   }
 }
