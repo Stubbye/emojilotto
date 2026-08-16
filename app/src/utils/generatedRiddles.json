@@ -43827,5 +43827,23 @@
       4,
       5
     ]
+  },
+  "sol_2046": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's bright companion, and the serpent's ancient coil dances with lightning's kiss. Six secrets hide: the hunter's cunning gaze, the celestial orb that pulls all tides, the storm's electric tongue, and the mythic beast that guards all treasure. What symbols seal the winner's fate?",
+      "hint": "One hunts in forests, one rules the night sky, one breathes chaos, one strikes from above, one guards ancient hoards, one marks the center."
+    },
+    "easyRiddle": {
+      "text": "Seek the clever fox who watches in the dark. Find the silver moon high above. Catch the lightning that strikes with fury. Hunt the dragon with scales of legend. Aim at the target with precision. Feel the spark of magic's light.",
+      "hint": "Think of animals, sky, weather, mythology, games, and magic combined."
+    },
+    "answer": [
+      13,
+      3,
+      4,
+      14,
+      0,
+      10
+    ]
   }
 }
