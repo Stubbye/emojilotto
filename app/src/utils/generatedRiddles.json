@@ -43413,5 +43413,23 @@
       5,
       18
     ]
+  },
+  "sol_2022": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six sentinels of fate converge. The winged metamorphosis dances between the jeweled crown of night and the electric serpent's roar. A crystalline prism splits the arc of destiny, while masked revelry guards the threshold between worlds. What six symbols align when luck's invisible hand writes upon the void?",
+      "hint": "One flies without wings, one transforms in silence, one rules the sky, one splits light, one wears a false face, one glimmers with ancient power."
+    },
+    "easyRiddle": {
+      "text": "I seek six tokens of destiny: a marksman's circle, a soaring vessel of dreams, a precious stone that catches light, the guardian of night's gaze, the fury of the heavens, and a creature of many colors born anew. Which six shall grace the wheel of fortune?",
+      "hint": "Think of: aim, flight, wealth, darkness, power, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
