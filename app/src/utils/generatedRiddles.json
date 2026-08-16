@@ -43323,5 +43323,23 @@
       13,
       8
     ]
+  },
+  "sol_2017": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked troupe pirouettes through prismatic veils. The winged messenger ascends toward crystalline slumber, while the cunning observer watches through fractured light. Six secrets hide where chaos wears a smile and destiny spins in chromatic waves.",
+      "hint": "Think of fate's theatre: performers, luck's symbols, dreams, trickery, colors, and chance all converge in this enigmatic gathering."
+    },
+    "easyRiddle": {
+      "text": "I contain a performer's stage, a symbol of luck, a dream in the sky, a magical stone, a flame of fortune, and the colors of hope. What six things do I hide?",
+      "hint": "Look for: entertainment, gambling luck, night sky, jewels, energy, and happy colors."
+    },
+    "answer": [
+      7,
+      11,
+      3,
+      6,
+      5,
+      9
+    ]
   }
 }
