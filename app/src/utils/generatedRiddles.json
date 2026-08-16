@@ -43647,5 +43647,23 @@
       4,
       8
     ]
+  },
+  "sol_2035": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's cold breath, and crystalline tears weep under Luna's gaze, a jester's twin masks mock the scales of chance. The winged dancer pirouettes through prismatic arcs while thunder's ancient tongue licks at destiny's door. Six secrets hide where fate and folly kiss.",
+      "hint": "Look to the celestial, the gemmed, the theatrical, the natural, the elemental, and the ludic."
+    },
+    "easyRiddle": {
+      "text": "I point toward prizes, I light up the sky, I sparkle with value, I hang in the night. A performer in makeup, wings delicate and bright, and electricity's fury complete the sight.",
+      "hint": "One aims, one shines above, one is treasured, one performs, one flutters, one crackles."
+    },
+    "answer": [
+      0,
+      21,
+      6,
+      8,
+      1,
+      5
+    ]
   }
 }
