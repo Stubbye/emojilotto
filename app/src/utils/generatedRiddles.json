@@ -43701,5 +43701,23 @@
       18,
       8
     ]
+  },
+  "sol_2039": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged metamorphosis pirouettes through prismatic veils. The archer's destination glimmers in crystalline slumber, while the jester's grin reflects in the luminous deluge. Seek the six that birth chaos and wonder intertwined.",
+      "hint": "One ascends to kiss the night, one spins with chance, one transforms through chambers of color, one laughs in duality, one shatters into a thousand points of light, and one flows eternal."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where light meets luck: the night's pearl, the lucky jest, the flame of fortune, the sacred gem, the winged dancer, and the shower of stars. Which six complete the circle?",
+      "hint": "Look for: night sky, trickery, heat, riches, nature's transformation, and sparkling magic"
+    },
+    "answer": [
+      1,
+      17,
+      5,
+      2,
+      8,
+      10
+    ]
   }
 }
