@@ -43269,5 +43269,41 @@
       19,
       21
     ]
+  },
+  "sol_2015": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols waltz in chance. The archer's mark gleams crystalline bright, while scaled majesty roars through the night. Winged metamorphosis adorns the stage, and thunderous fate writes the lottery's page.",
+      "hint": "Seek the gleaming prize, the mythical beast, the transformed grace, the marked destination, the electric destiny, and the precious stone."
+    },
+    "easyRiddle": {
+      "text": "Six magical things for your lucky draw: a sparkling gem, a fierce dragon's claw, lightning that strikes, a target so true, a butterfly's flight, and something that's new.",
+      "hint": "One shines like ice, one breathes like fire, one flies so fast, one strikes with desire, one aims so straight, one transforms each day."
+    },
+    "answer": [
+      1,
+      13,
+      8,
+      0,
+      4,
+      20
+    ]
+  },
+  "emlo_758": {
+    "hardRiddle": {
+      "text": "I launch to infinity with electric speed, a gem of fortune that makes holders bleed. Under the moon I sparkle and shine, through fire and chaos, diamonds align. A joker's gamble with lightning precision, fortune's circus demands your decision.",
+      "hint": "Think of the journey from earth to wealth, through volatility and chaos itself."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon so bright, a gem sparkles like lightning and fire. The joker plays in this circus tonight, where fortune climbs higher and higher.",
+      "hint": "Name the six symbols of this crypto flight to the moon and riches."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      11,
+      19
+    ]
   }
 }
