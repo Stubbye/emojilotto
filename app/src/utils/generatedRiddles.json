@@ -43521,5 +43521,23 @@
       8,
       19
     ]
+  },
+  "sol_2027": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols weave in cosmic trance. The archer's goal gleams crystalline bright, while dragons soar through lightning's flight. Between the jester's masked deception lies the butterfly's transformation inception, and where the clover's luck takes flight, the gem of heaven burns midnight.",
+      "hint": "Seek the intersection of luck, destiny, chaos, magic, and metamorphosis in the vault of dreams."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one points true, one shines from afar, one sparkles like ice, one roars with power, one dances with wings, and one laughs at fate.",
+      "hint": "Look for precision, the cosmic, brilliance, raw force, delicate grace, and trickery."
+    },
+    "answer": [
+      0,
+      5,
+      20,
+      13,
+      8,
+      19
+    ]
   }
 }
