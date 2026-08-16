@@ -43215,5 +43215,23 @@
       13,
       15
     ]
+  },
+  "sol_2012": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a jeweled flame dances with the winged harbinger of metamorphosis. Lightning's twin brother adorns the stage of illusions, while the lunar sentinel watches over all. Six secrets hide in the tapestry of chance—find where ambition ignites, where brilliance gleams eternal, and where chaos pirouettes with destiny.",
+      "hint": "One seeks the mark, one illuminates night, one sparkles with worth, one brings sudden awakening, one transforms through wings, and one rules with theatrical mystery."
+    },
+    "easyRiddle": {
+      "text": "An archer's circle, a night guardian, a precious stone that shines, a sudden bright flash, a creature of beauty that changes form, and a jester who holds secrets. These six dance together in the lottery's dream.",
+      "hint": "Target, Moon, Gem, Lightning, Butterfly, and Joker are your guides through fortune's garden."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      5,
+      8,
+      19
+    ]
   }
 }
