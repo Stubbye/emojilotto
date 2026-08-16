@@ -43251,5 +43251,23 @@
       8,
       21
     ]
+  },
+  "sol_2014": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound spark, six whispers dance in fortune's arc. The jeweled heart beats beneath the mage's smile, while wings of metamorphosis guide the wild. Thunder's kiss ignites the prism's song, and fortune's wheel spins where all belong.",
+      "hint": "One ascends the heavens, one transforms in grace, one glitters with power, one strikes with haste, one judges with mirth, one crowns the sublime."
+    },
+    "easyRiddle": {
+      "text": "I rise at night and glow so bright, gems sparkle pure and crystalline light. Lightning crackles with awesome might, a butterfly floats on wings of flight. The joker laughs with royal jest, and stars shine better than the rest.",
+      "hint": "Think of the moon, gem, lightning, butterfly, joker, and star."
+    },
+    "answer": [
+      3,
+      6,
+      2,
+      8,
+      19,
+      21
+    ]
   }
 }
