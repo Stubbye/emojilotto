@@ -43305,5 +43305,23 @@
       11,
       19
     ]
+  },
+  "sol_2016": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and twin serpents dance through emerald's blaze. The jester's laugh echoes where celestial fire weeps, while metamorphosis guards what the trickster keeps. Six whispers blend in chaos and light, revealing luck's secret in riddle's night.",
+      "hint": "Think of targets met, sky's domains, precious wealth, cosmic watchers, elements untamed, and transformation's mask."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune, I reach for stars, I sparkle like gems under night's bazaars. A joker grins, a fox sly and keen, a dragon soars where none have been. What six dance together in destiny's game?",
+      "hint": "Look for: aim, ascension, treasure, laughter, cunning, and mythical power."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      13,
+      8
+    ]
   }
 }
