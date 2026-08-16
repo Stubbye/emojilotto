@@ -43341,5 +43341,23 @@
       5,
       9
     ]
+  },
+  "sol_2018": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, a serpent coils through crystalline haze. The jester's twin dances in electric streams, while petaled whispers haunt forgotten dreams. Beneath the spectrum's arc, a trembling light ignites the gambler's ancient plight.",
+      "hint": "Six symbols bind: one aims, one ascends, one glimmers coldly, one laughs in masks, one blooms eternal, and one sings with spectrum's end."
+    },
+    "easyRiddle": {
+      "text": "I seek the marksman's goal, the dragon's leap upward, the gemstone's shine, the fool's grinning twin, the rose's grace, and where all colors unite as one.",
+      "hint": "Target, Dragon ascending, Crystal gleaming, Joker laughing, Flower growing, Rainbow appearing."
+    },
+    "answer": [
+      0,
+      13,
+      20,
+      19,
+      14,
+      9
+    ]
   }
 }
