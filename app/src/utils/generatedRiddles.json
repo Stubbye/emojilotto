@@ -43431,5 +43431,23 @@
       4,
       8
     ]
+  },
+  "sol_2023": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, a jester's twin masks grin at chance. Through prism'd waves of gemstone gleam, six harbingers of the lottery dream. The archer's mark, the dragon's flame, the lightning's kiss upon luck's name—what symmetries of fate align when chaos spins its numbered sign?",
+      "hint": "One is aimed, one soars, one glimmers, one roars, one strikes, one watches all doors."
+    },
+    "easyRiddle": {
+      "text": "Six symbols spin in fortune's wheel: a target marks where fates reveal. A rocket soars to heights unknown, a gem that sparkles like a throne. The dragon breathes with lightning's might, and masks conceal the joker's sleight. Which six do you need to claim your prize?",
+      "hint": "Look for: aim, ascend, shine, power, mystery, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      18
+    ]
   }
 }
