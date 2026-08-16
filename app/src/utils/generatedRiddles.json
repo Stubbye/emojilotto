@@ -43233,5 +43233,23 @@
       8,
       19
     ]
+  },
+  "sol_2013": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the jester's grin, six dancers of fate spin their ancient hymn. The archer's mark gleams crystalline bright, while scales of fortune tumble through night. A winged muse adorned in prismatic chains performs her waltz as destiny reigns. The crown awaits those who read the veiled signs—in chaos and grace, the answer aligns.",
+      "hint": "Fortune favors the bold who see beyond the veil; seek the symbols of chance, celestial light, gemstone brilliance, masked deception, metamorphosis, and triumph's gleam."
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the lottery's dream: a target's bullseye, a gem that will gleam, a joker's wild laugh, a lightning strike bright, a butterfly dancing, and a star shining light.",
+      "hint": "Look for: aim, jewel, fool, electricity, wings, and celestial guardian."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      18,
+      8,
+      21
+    ]
   }
 }
