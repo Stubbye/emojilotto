@@ -43161,5 +43161,41 @@
       19,
       5
     ]
+  },
+  "sol_2009": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the winged metamorphosis seeks fortune's crystalline heart. Seven-fold chance dances beneath the lunar gaze, while the swift-furred trickster guards the threshold between chaos and destiny.",
+      "hint": "Consider the duality of luck: games of chance, transformation, night's beacon, and the clever observer."
+    },
+    "easyRiddle": {
+      "text": "I contain the spark of destiny and chance. Find the night's silver orb, the prismatic stone of wealth, the winged dancer of change, the clever forest dweller, the bones of fortune, and the electric sky's fury.",
+      "hint": "Six items: one shines at night, one glimmers underground, one has wings, one walks on four legs, one rolls, one strikes from above."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      8,
+      11,
+      5
+    ]
+  },
+  "emlo_757": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my precious gems ignite the path to fortune. Magic sparkles guide my flight through cosmic waves, where jokers dance and fire never fades.",
+      "hint": "A journey to wealth requires speed, treasure, light, chaos, and heat across infinite space"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 is treasure, ⚡ is power, 🔥 is hot, ✨ is magical, 🌊 is wavy",
+      "hint": "Think of: rocket, gem, lightning, fire, sparkles, wave"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      23
+    ]
   }
 }
