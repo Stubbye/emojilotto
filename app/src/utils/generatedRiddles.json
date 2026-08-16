@@ -43449,5 +43449,41 @@
       4,
       18
     ]
+  },
+  "sol_2024": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weep, six whispers dance through chaos deep. The jester's grin unlocks the gate, while scales of chance seal mortal fate. Through prism's breath and nature's twin, the sparkling veil lets winners in.",
+      "hint": "One points true, one rules the night, one shuffles chance, one reflects light, one mirrors double, one takes flight."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the joker's smile, the dice that roll in lucky style. Add the crystal's gleaming face, and the butterfly's graceful race. Finally, catch the lightning's pace in this six-symbol winning place.",
+      "hint": "A mark, a fool, chance cubes, a stone, a fluttering friend, and electric glow shown."
+    },
+    "answer": [
+      0,
+      11,
+      12,
+      8,
+      1,
+      5
+    ]
+  },
+  "emlo_759": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar stage, where fortune strikes like thunder through celestial fire, guiding seekers to glittering prizes that spark joy and dance with otherworldly brilliance.",
+      "hint": "Think of gambling, space travel, luck, and precious rewards in crypto culture."
+    },
+    "easyRiddle": {
+      "text": "What do you need to win big? A lucky roll, a rocket to space, and gems that sparkle like stars with magical light and electrifying energy.",
+      "hint": "Combine: luck, flight, treasure, and the magic of winning."
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      22,
+      4,
+      9
+    ]
   }
 }
