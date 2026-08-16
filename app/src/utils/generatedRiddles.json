@@ -43755,5 +43755,23 @@
       11,
       10
     ]
+  },
+  "sol_2041": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six secrets align in shadows' trance. The jester's grin guards crystalline dreams beneath the archer's gleam, while winged grace spirals through the prism's beams. Luck's electric kiss crowns the nocturnal sphere—what six harbingers converge when destiny draws near?",
+      "hint": "One commands the sky, one breaks it with light. One reflects the soul, one wears the night. One flutters through transformation, one holds all fortune's gleam."
+    },
+    "easyRiddle": {
+      "text": "I am six paths to luck entwined: a jester's mask, a gem so fine, lightning's strike, a dragon's shine, the moon above, and fire's line. What six do I hold in lottery's design?",
+      "hint": "Look for: a trickster, something precious, energy, a mythical beast, the night sky, and heat."
+    },
+    "answer": [
+      16,
+      5,
+      4,
+      13,
+      3,
+      6
+    ]
   }
 }
