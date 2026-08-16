@@ -43197,5 +43197,23 @@
       9,
       23
     ]
+  },
+  "sol_2010": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate converge. The winged dancer courts the arc of heaven's tears, while thunder's tongue ignites the spiral stage. A scaled dreamer guards the jeweled heart, and fortune's masked jester spins where celestial fire meets the earth's crystalline bloom.",
+      "hint": "Seek the performers of chance and the watchers of destiny"
+    },
+    "easyRiddle": {
+      "text": "Find the target that lightning strikes, the butterfly that sees the moon, the joker's gem, the dragon's fire, the rocket near the star, and the flower that sparkles.",
+      "hint": "Six symbols dance between chaos and magic"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      4,
+      13,
+      15
+    ]
   }
 }
