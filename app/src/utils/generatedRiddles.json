@@ -43359,5 +43359,23 @@
       14,
       9
     ]
+  },
+  "sol_2019": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six dancers waltz through the void's desire. The jester's gem gleams beneath night's throne, while wings of change trace paths unknown. Thunder's kiss ignites the crystal stage, where masked performers turn each page.",
+      "hint": "One points true, one burns bright, one rules the night, one transforms flight, one laughs in jest, one sparkles best"
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this game: a target precise, a rocket aflame, a gem that shines clear, the moon's silver sphere, a joker who grins without fear, and lightning so bright. Can you name them right?",
+      "hint": "Look for: aim, fire, sparkle, night, laughter, and electricity"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      12,
+      4
+    ]
   }
 }
