@@ -43665,5 +43665,23 @@
       1,
       5
     ]
+  },
+  "sol_2036": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six tokens dance in cosmic space. The jester's grin at destiny's game, while wings of transformation claim their fame. What burns eternal yet takes flight, as gemstone brilliance conquers night? The masked performer twirls on high, beneath the serpent's watchful eye.",
+      "hint": "Think of luck's symbols, creatures of change, and the performance of chance itself"
+    },
+    "easyRiddle": {
+      "text": "I have a target but aim for luck. I sparkle like gems in the night. I dance like a butterfly and dragon combined. I wear many masks. I flash like lightning and fire together. What am I?",
+      "hint": "Six lottery symbols that represent fortune, magic, and destiny"
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      5,
+      8,
+      18
+    ]
   }
 }
