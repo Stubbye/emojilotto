@@ -43773,5 +43773,23 @@
       3,
       6
     ]
+  },
+  "sol_2042": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger of metamorphosis seeks the radiant jewel beyond the veil of night. Chaos swirls in crystalline geometry, while the cunning guardian watches from shadow's threshold.",
+      "hint": "Think of games of chance, mythical transformation, nocturnal mystery, precious stones, unpredictability, and stealth."
+    },
+    "easyRiddle": {
+      "text": "A night creature glows bright, a lucky stone shines, the wise animal hides, chaos rolls in cubes, a butterfly transforms, and a jester grins. What six join in fortune's dance?",
+      "hint": "One flies and changes, one sparkles, one is sly, one is random, one glows above, and one laughs."
+    },
+    "answer": [
+      21,
+      7,
+      13,
+      11,
+      8,
+      19
+    ]
   }
 }
