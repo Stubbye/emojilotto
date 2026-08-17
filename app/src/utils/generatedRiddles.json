@@ -44439,5 +44439,23 @@
       11,
       6
     ]
+  },
+  "sol_2078": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earth's crimson breath, fortune spins through masked revelry's death. A jeweled prism catches lightning's dance, while winged metamorphosis shifts chance. Six symbols spiral through destiny's weave, in what the dreaming heart shall believe.",
+      "hint": "Think of transformation, fortune, fire, and the night sky. One symbol represents duality and deception."
+    },
+    "easyRiddle": {
+      "text": "Find the night guardian, the wild flame, the precious stone that catches light's game. The trickster wears a grin, the bolt strikes fast, and wings flutter where seasons have passed.",
+      "hint": "Moon, fire, gem, joker, lightning, and butterfly. Each holds a secret of fate."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      8,
+      4,
+      19
+    ]
   }
 }
