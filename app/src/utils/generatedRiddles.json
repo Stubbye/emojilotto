@@ -44385,5 +44385,23 @@
       5,
       10
     ]
+  },
+  "sol_2076": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate align. The winged metamorphosis ascends to kiss the gleaming orb, while prismatic light fractures through the veil. Beneath the jester's grin, the cunning mask observes, and fortune's arrow finds its mark in chambers of crystalline dreams.",
+      "hint": "Transformation, chaos, brilliance, heavens, deception, and precision converge in whispered prophecy."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols of luck: one transforms with wings, one sparkles in the sky, one glimmers precious, one dances in flames, one laughs with mystery, one strikes with precision.",
+      "hint": "Think of: change, light, wealth, heat, trickery, and accuracy."
+    },
+    "answer": [
+      8,
+      21,
+      5,
+      6,
+      19,
+      0
+    ]
   }
 }
