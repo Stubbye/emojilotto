@@ -44367,5 +44367,23 @@
       8,
       2
     ]
+  },
+  "sol_2075": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a masked jester's laughter echoes through prismatic halls. The winged sentinel of metamorphosis seeks the gem-crowned sovereign of night, while chaos whispers through electric veins. Six keys unlock the veil between chaos and grace.",
+      "hint": "One grants wishes, one grants luck, one grants transformation, one grants power, one grants mystery, one grants illumination."
+    },
+    "easyRiddle": {
+      "text": "I shine when struck, I transform with wings, I rule the dark with gemstone crown, I laugh in masks, I blaze with heat, I sparkle with magic dust.",
+      "hint": "Lightning, Butterfly, Moon, Joker, Fire, Sparkles"
+    },
+    "answer": [
+      4,
+      8,
+      3,
+      19,
+      5,
+      10
+    ]
   }
 }
