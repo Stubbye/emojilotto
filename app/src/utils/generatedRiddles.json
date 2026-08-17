@@ -44331,5 +44331,23 @@
       4,
       5
     ]
+  },
+  "sol_2072": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'cross the velvet void, six celestial whispers guide the seeker's coin. The crystal palace burns with silent thunder, while winged metamorphosis spirals through gemstone rain. One marks the bull's eye of destiny, another crowns the victor's ancient dream.",
+      "hint": "Think of court, sky, transformation, wealth, precision, and triumph intertwined."
+    },
+    "easyRiddle": {
+      "text": "A fool's grin meets a gem so bright, lightning cracks the starlit night. A butterfly floats where rainbows gleam, and a trophy crowns the winning dream. Where do these six lucky signs convene?",
+      "hint": "Picture a jester's court, precious stones, weather, nature, and celebration."
+    },
+    "answer": [
+      19,
+      4,
+      11,
+      9,
+      0,
+      18
+    ]
   }
 }
