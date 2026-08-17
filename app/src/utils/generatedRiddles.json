@@ -44259,5 +44259,41 @@
       16,
       13
     ]
+  },
+  "sol_2069": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's midnight veil, six sentinels of fate converge: the winged metamorphosis dances with celestial fire, while the trickster's grin reflects in crystalline depths. A serpent of wisdom coils beneath the archer's mark, and where storm-born electricity meets the performer's eternal stage, destiny blooms in prismatic fractals.",
+      "hint": "Seek the transformation, the deceiver, the gemstone's twin, the targeted beginning, the serpent's ancient power, and where chaos performs on a thunder-lit stage."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: a flying insect that changes form, a joker who tricks, a shiny crystal, a target you aim at, a long dragon, and bright lightning in a circus tent.",
+      "hint": "butterfly, joker, crystal, target, dragon, lightning"
+    },
+    "answer": [
+      8,
+      19,
+      20,
+      0,
+      13,
+      4
+    ]
+  },
+  "emlo_766": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with velocity, my gems sparkle with electric fortune, while dragons guard the kaleidoscopic path to victory. What six symbols light the way to memecoin paradise?",
+      "hint": "One goes up, one glitters, one flies mythical, one electrifies, one is colorful chaos, one brings luck"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning strikes, gem shines bright, rainbow appears, dragon flies, and luck strikes with a star. Pick these six!",
+      "hint": "Look for: up, electricity, treasure, color spectrum, mythical beast, and fortune"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      9,
+      13,
+      21
+    ]
   }
 }
