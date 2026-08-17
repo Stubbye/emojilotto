@@ -44097,5 +44097,23 @@
       14,
       13
     ]
+  },
+  "sol_2060": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a jeweled serpent coils through cosmic grace. Lightning splits the dancer's painted dream, while fire blooms eternal in the gleam. Six harbingers of fate's grand stage await—which symbols shall unlock destiny's gate?",
+      "hint": "One pierces targets, one slithers through stars, one breaks the sky, one burns bright, one performs the dance, one grows from earth."
+    },
+    "easyRiddle": {
+      "text": "I point at prizes, I sparkle and shine, I breathe the smoke of fortune's design. A scaled creature of legend soars high, while a blossom and storm paint the sky. Count us six and claim your prize.",
+      "hint": "Target, gem, dragon, fire, flower, and lightning dance together in the lottery's song."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      6,
+      14,
+      4
+    ]
   }
 }
