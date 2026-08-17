@@ -44457,5 +44457,23 @@
       4,
       19
     ]
+  },
+  "sol_2079": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's symmetry, the jester's crystalline laughter echoes through prismatic gates. Six keepers of fate converge: the nocturnal guardian weeps silver, the velocity harbinger pierces void, the chaos oracle grins with tessellated madness, the stellar beacon burns eternal, the electrified serpent awakens from gem-laden slumber, and the winged metamorphosis drinks from heavenly arcs. Seek those who hold both chance and radiance.",
+      "hint": "One reflects destiny's aim, one ascends beyond gravity, one manifests wishes, one grins backwards, one channels sky's wrath, one embodies transformation's glory"
+    },
+    "easyRiddle": {
+      "text": "I am six guardians of fortune's realm: a silver orb watching from above, a swift messenger piercing the heavens, a fortune teller's grinning mask, a precious stone that captures light, a rumbling voice from the sky, and a dancing transformation. Together we spin the wheel of destiny.",
+      "hint": "Look for: night's witness, speed, trickery, value, power, and change"
+    },
+    "answer": [
+      3,
+      1,
+      19,
+      5,
+      4,
+      8
+    ]
   }
 }
