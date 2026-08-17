@@ -43971,5 +43971,23 @@
       5,
       14
     ]
+  },
+  "sol_2053": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six harbingers converge. The archer's mark meets the serpent's realm, while midnight's jewel gleams beside the fool's masquerade. Thunder's kiss adorns what rises eternal, and the winged soul spirals through chaos reborn.",
+      "hint": "Think of contrasts: aim vs. chance, royalty vs. folly, sky vs. earth, transformation vs. stillness"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: the target you aim for, the dragon of power, the gem that sparkles, the moon in darkness, the lightning of chance, and the joker's mysterious grin.",
+      "hint": "One is what you shoot for, one is mythical, one shines bright, one lights the night, one strikes fast, one tricks the eye"
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      4,
+      5,
+      19
+    ]
   }
 }
