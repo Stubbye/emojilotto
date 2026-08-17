@@ -44205,5 +44205,23 @@
       13,
       19
     ]
+  },
+  "sol_2066": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The winged trickster pirouettes beneath twin luminaries of chance, while crystalline brilliance shatters into prismatic fragments. In this amphitheater of fools, luck's jester plays an eternal game where the masked reveal themselves only to those who perceive the lightning's kiss upon the gem.",
+      "hint": "Seek the jester's court where the dragon's breath meets the joker's smile, beneath stars that never truly dim."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune spin in chaos: where the fool laughs, the dragon breathes, the gem sparkles, the masks hide secrets, the lightning strikes, and the star guides lost souls seeking their rainbow's end.",
+      "hint": "Think of luck's players: a jester, a legendary beast, a precious stone, hidden faces, raw energy, and a guiding light."
+    },
+    "answer": [
+      19,
+      13,
+      2,
+      18,
+      4,
+      21
+    ]
   }
 }
