@@ -44151,5 +44151,23 @@
       10,
       21
     ]
+  },
+  "sol_2063": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge from the cosmic veil. The jester's twin gleams in prism'd light, whilst winged metamorphosis meets the archer's might. Beneath the crescent's silent throne, a symphony of chance is sown.",
+      "hint": "Fortune wears many masks; look where magic intersects with destiny's aim"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a performer's grin, a night guardian, a gem's brilliance, a winged dancer, a marksman's goal, and electricity's kiss. What fortune awaits?",
+      "hint": "One brings laughter, one brings light, one brings beauty, one brings flight, one brings aim, one brings might"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      8,
+      0,
+      5
+    ]
   }
 }
