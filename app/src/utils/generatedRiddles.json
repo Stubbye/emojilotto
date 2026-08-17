@@ -44187,5 +44187,23 @@
       4,
       3
     ]
+  },
+  "sol_2065": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a gemstone gleams in twilight's austere. The dragon's breath ignites what butterflies dance near, while prismatic bands mirror the jester's sneer. In this hexad of fate, six symbols appear—which constellation of chance shall make destinies clear?",
+      "hint": "One points direction, one rules night's domain, one glitters precious, one spreads color's reign, one breathes chaos, one masks the arcane."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of the lottery's song: a shooter of dreams, a stone cold and strong, a nocturnal guardian, a spark bright and long, wings of transformation, and masks that belong—plus one more that targets where fortunes grow strong. What six shall I name?",
+      "hint": "Think of: aim, wealth, night, magic, change, and deception."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      13,
+      19
+    ]
   }
 }
