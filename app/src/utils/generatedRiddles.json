@@ -43899,5 +43899,23 @@
       4,
       19
     ]
+  },
+  "sol_2050": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits intertwine in mystic trance. The archer's aim through gem-lit night, while winged metamorphosis takes flight. Thunder's child and lunar glow, where rainbow's arc and sparkles flow.",
+      "hint": "One seeks precision, one seeks treasure, one transforms beauty, one electrifies, one illuminates darkness, one celebrates victory."
+    },
+    "easyRiddle": {
+      "text": "Find the target's gleaming gem, the lightning's brilliant stem, the moon that glows so bright and clear, the butterfly's transformation here, the sparkles dancing in the air, and rainbow's colorful affair.",
+      "hint": "Look for: bullseye, jewel, night sky, winged wonder, twinkling magic, and colorful arc."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      10,
+      9
+    ]
   }
 }
