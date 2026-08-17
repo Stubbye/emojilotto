@@ -43935,5 +43935,41 @@
       4,
       18
     ]
+  },
+  "sol_2052": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers gather in twilight's trance. The archer's goal gleams crystalline bright, while winged metamorphosis takes flight. Thunder's child and the jester's grin, paired with the dragon's ancient spin. What six guard the threshold between dream and fate?",
+      "hint": "Look for: aim, precious stone, lightning, transformation, trickery, and legendary power"
+    },
+    "easyRiddle": {
+      "text": "Find the target and the gem it holds, the lightning strike and butterfly's folds, the joker's laugh and the dragon's might—six treasures hidden in plain sight",
+      "hint": "Think of games of chance, magic tricks, and creatures of legend"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      11,
+      13
+    ]
+  },
+  "emlo_763": {
+    "hardRiddle": {
+      "text": "I launch to the 🌙 with electric speed, a gem-filled journey where fortune's freed. Through rainbow waves and dragon's fire, sparkles guide the hodler's desire. What six treasures light this memecoin's way?",
+      "hint": "Think of a rocket's path to success, precious materials, and celestial symbols that define crypto dreams."
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly with lightning fast, gems shine bright while fire lasts. Rainbow waves and sparkles glow, dragon watches from below. Name these six that make us rich?",
+      "hint": "One goes up, one shines, one burns, one waves, one flies, and one is magical."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      9,
+      5,
+      14
+    ]
   }
 }
