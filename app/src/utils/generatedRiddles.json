@@ -43989,5 +43989,23 @@
       5,
       19
     ]
+  },
+  "sol_2054": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and masked mirth pirouettes through prismatic veils. Six sovereigns of fate converge: the archer's eternal mark, the serpent's ancient wisdom coiled in scales, the gem that births from pressure's kiss, the beacon burning in obsidian night, the jester's grin behind theatrical guise, and the four-leafed sentinel of serendipity. Which tapestry of symbols crowns the lottery's secret throne?",
+      "hint": "Think of destiny's theatrical stage, celestial bodies, mythical guardians, precious treasures, fortune's masks, and nature's blessings."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this verse: a shining target you must find first, a dragon fierce with scales of old, a gem more precious far than gold, the moon that glows when day is through, a jester's mask with a grinning view, and a clover blessed with leaves of four. Which six unlock the lottery door?",
+      "hint": "Look for: something to aim at, a legendary creature, something sparkly, something in the night sky, a funny character, and something lucky."
+    },
+    "answer": [
+      0,
+      13,
+      11,
+      3,
+      18,
+      19
+    ]
   }
 }
