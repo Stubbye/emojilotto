@@ -44007,5 +44007,23 @@
       18,
       19
     ]
+  },
+  "sol_2055": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, six celestial dancers await. The jester's grin mirrors the trickster's cunning beneath twin masks of fate. Lightning kisses crystal in the cosmic waltz, while gemstones catch the spark of destiny's eternal flame.",
+      "hint": "One points the way, one laughs at chance, one hides the truth, one breaks the sky, one holds light, one burns with power."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures hidden in plain sight: the arrow of aim, the fool's bright jest, the hidden face, the shock of light, the precious stone, and the dance of flame.",
+      "hint": "Look for: aim, laughter, secrets, electricity, wealth, and heat."
+    },
+    "answer": [
+      0,
+      11,
+      18,
+      4,
+      2,
+      6
+    ]
   }
 }
