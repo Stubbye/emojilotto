@@ -44079,5 +44079,23 @@
       13,
       0
     ]
+  },
+  "sol_2059": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a prism sings through twilight's lace. The serpent coils where stellar fire dances, while wings of transformation hold all chances. Luck's jester grins beneath the arc of wonder, as petals bloom where fate won't blunder.",
+      "hint": "Seek the marksman's aim, the dragon's domain, the fool's grin, the creature reborn, the blossom's grace, and the arc that bridges worlds."
+    },
+    "easyRiddle": {
+      "text": "I am a shooter aimed at fortune. I am an ancient jewel of earth. I am a creature with wings and color. I am the laughing trickster. I am the serpent of myth. I am the painted bloom of spring.",
+      "hint": "Think of games, gems, insects, cards, mythology, and gardens."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      19,
+      14,
+      13
+    ]
   }
 }
