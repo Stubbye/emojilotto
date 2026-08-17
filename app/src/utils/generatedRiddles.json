@@ -44313,5 +44313,23 @@
       18,
       12
     ]
+  },
+  "sol_2071": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers waltz through cosmic space. The jester's grin reflects in prism'd light, while wings of transformation pierce the night. Thunder's kiss adorns the stage of chance, and emerald splendor completes the trance. Seek the bull's-eye where destinies collide, where play and peril eternally reside.",
+      "hint": "Look for the symbol of aimed precision, the moon's silent witness, a fool's wise wisdom, nature's metamorphosis, electricity's flash, and wealth's crystalline promise."
+    },
+    "easyRiddle": {
+      "text": "I am six paths to fortune's door: a marksman's circle, night's great orb, a fool of tricks, a creature reborn, a sky's bright crack, and treasure to adore.",
+      "hint": "Target, moon, joker, butterfly, lightning, gem"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
