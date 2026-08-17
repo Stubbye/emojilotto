@@ -43845,5 +43845,41 @@
       0,
       10
     ]
+  },
+  "sol_2048": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial dance, six whispers of fate converge in chance. The jester's grin holds thunderous power, while scaled wisdom guards the midnight hour. Petals bloom beneath the shattered prism's arc, and luck's small token glimmers in the dark.",
+      "hint": "Seek the marksman's aim, the cosmic jest, the serpent's reign, the bloom of rest, the fractured bow, and fortune's small clasp."
+    },
+    "easyRiddle": {
+      "text": "Find the target's center, lightning's crack, the joker's smile, the dragon's black, a flower's grace, and the four-leaf's knack.",
+      "hint": "One points the way, one strikes fast, one laughs, one guards ancient past, one is gentle, one brings luck."
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      13,
+      14,
+      19
+    ]
+  },
+  "emlo_762": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gem-like treasure that makes hodlers bleed. With sparkles bright and dragon fire, I'm the circus of crypto that takes you higher. Rainbow waves guide my lightning flight, while the joker laughs at diamond sight.",
+      "hint": "Think of a memecoin's journey: launch, destination, beauty, spectacle, movement, and luck."
+    },
+    "easyRiddle": {
+      "text": "Blast off with a 🚀, reach the 🌙, find a 💎, feel the ⚡, watch the 🔥, get lucky with the 🎪.",
+      "hint": "These 6 emojis tell the story of every memecoin pump."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      7
+    ]
   }
 }
