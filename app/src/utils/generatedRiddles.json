@@ -43881,5 +43881,23 @@
       5,
       7
     ]
+  },
+  "sol_2049": {
+    "hardRiddle": {
+      "text": "Where celestial fire weeps through prismatic veils, the masked wanderer plays fortune's symphony. Six tokens dance: the archer's goal gleams eternal, the celestial chariot ascends through dreams, the earth's heart crystallizes in violet splendor, the heavens weep silver tears, the jester grins behind borrowed faces, and nature's winged metamorphosis spirals through infinite possibility.",
+      "hint": "Seek the convergence of aimed destiny, upward propulsion, precious geometry, nocturnal radiance, electric chaos, and the performers' hidden identities."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols await: a bullseye for precision, a rocket for dreams, a gem for wealth, a moon for mystery, lightning for power, and a joker for chance.",
+      "hint": "Think of things you aim for, reach for, treasure, gaze upon at night, fear in storms, and find in card games."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
