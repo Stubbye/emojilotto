@@ -44295,5 +44295,23 @@
       13,
       21
     ]
+  },
+  "sol_2070": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while prismatic shards dance with the twin flames of chance and chaos, all witnessed by the jester's eternal grin beneath masks of fate.",
+      "hint": "Seek the hunter's mark, the winged guardian, the storm's wrath, the gemstone's gleam, the fool's laughter, and the theatre of deception."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one climbs high, one sparkles bright, one laughs loud, one hides faces, and one rules with mischief.",
+      "hint": "Think of a target, a dragon, a gem, a joker, masks, and a fox."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      2,
+      18,
+      12
+    ]
   }
 }
