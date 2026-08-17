@@ -44169,5 +44169,23 @@
       0,
       5
     ]
+  },
+  "sol_2064": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six treasures hide in shadow's trance. The archer's mark burns bright in night, while scaled wisdom guards the light. Winged grace pirouettes through storms of chance, and crystalline dreams shimmer in fortune's glance.",
+      "hint": "One guides the heavens, one courts destiny, one transforms through chaos, one reflects eternity, one soars through tempests, one sleeps eternal."
+    },
+    "easyRiddle": {
+      "text": "Find the bullseye that glows, the serpent of old, the butterfly that flies, the ice that never melts, the flash that splits the sky, and the orb above.",
+      "hint": "A target, a dragon, a butterfly, a crystal, lightning, and the moon."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      20,
+      4,
+      3
+    ]
   }
 }
