@@ -44349,5 +44349,23 @@
       0,
       18
     ]
+  },
+  "sol_2074": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six enigmas dance in fortune's game. The jester's twin souls ignite the night, while scaled majesty guards crystalline light. Through prismatic arcs the winged maiden flies, and thunderous fate splits the veil of skies.",
+      "hint": "Consider what symbols represent luck, chaos, power, transformation, destiny, and spectral beauty in the language of chance."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance align: a target's aim, a dragon's reign, lightning's strike, a joker's jest, a butterfly's dance, and a gem's gleam. Which six complete the lottery's dream?",
+      "hint": "Think of symbols commonly associated with luck, danger, trickery, nature, precious things, and electrical power."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      11,
+      8,
+      2
+    ]
   }
 }
