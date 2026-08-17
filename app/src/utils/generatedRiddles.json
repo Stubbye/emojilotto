@@ -44223,5 +44223,23 @@
       4,
       21
     ]
+  },
+  "sol_2067": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six tokens dance in shadow's tale. The jester's grin meets gemstone's gleam, while winged metamorphosis threads the dream. Lightning's pulse and inferno's kiss conspire with nature's fortune in the abyss.",
+      "hint": "One guides aim, one brings chaos, one sparkles with worth, one transforms, one electrifies, one consumes."
+    },
+    "easyRiddle": {
+      "text": "Find the target of luck, the gem of wealth, the joker's trick, the butterfly's change, the lightning's power, and the fire's heat.",
+      "hint": "Look for: aim, valuable stone, fool's card, transformation, electricity, and flames."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      8,
+      4,
+      6
+    ]
   }
 }
