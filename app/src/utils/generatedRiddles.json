@@ -44115,5 +44115,41 @@
       14,
       4
     ]
+  },
+  "sol_2062": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six dancers pirouette through veiled desire. The jester's grin adorns the stage of chance, while serpent's majesty commands the trance. A bloom of chaos, wings of twilight's gleam, and treasure crystallized in fortune's dream.",
+      "hint": "One brings laughter, one brings light, one brings luck, one takes flight, one sparkles bright, one burns the night."
+    },
+    "easyRiddle": {
+      "text": "Six symbols spin: the hunter's aim, the fool's bright fame, the dragon's claim, the star's bright flame, the crystal's shame, and butterfly's game.",
+      "hint": "Target, Joker, Dragon, Fire, Crystal, and Butterfly."
+    },
+    "answer": [
+      0,
+      12,
+      13,
+      5,
+      20,
+      8
+    ]
+  },
+  "emlo_765": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, sparkling with gem-like value. My dragon spirit dances through fire, guided by fortune's clover. What six symbols represent my meteoric rise to glory?",
+      "hint": "Think of a memecoin's journey: momentum, treasure, mystique, destination, luck, and brilliance"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! Find the gem that shines, the fast lightning bolt, the lucky clover, the burning fire, the magical sparkles, and the moon in the sky.",
+      "hint": "One goes up, one shines, one is lucky, one is hot, one glitters, and one is far away"
+    },
+    "answer": [
+      1,
+      2,
+      20,
+      3,
+      10,
+      21
+    ]
   }
 }
