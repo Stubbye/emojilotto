@@ -44241,5 +44241,23 @@
       4,
       6
     ]
+  },
+  "sol_2068": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, six sentinels of fate converge. The celestial guardian weeps crystalline tears upon the jester's grin, while emerald fire dances with the wings of transformation. Thunder's child and the musician's voice entwine in prismatic chaos, seeking the bullseye of destiny.",
+      "hint": "Consider what shines, what burns, what deceives, what soars, what sings, and what aims true."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this riddle: one gleams like a precious stone, one strikes from the sky, one marks the target, one reaches for dreams above, one brings music and joy, one transforms and flies free.",
+      "hint": "Think of gems, lightning, targets, the moon, guitars, and creatures that change."
+    },
+    "answer": [
+      1,
+      4,
+      0,
+      3,
+      16,
+      13
+    ]
   }
 }
