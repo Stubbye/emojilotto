@@ -44025,5 +44025,41 @@
       2,
       6
     ]
+  },
+  "sol_2056": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a jeweled serpent coils through chambers of celestial flame. The trickster's laughter echoes as wings of metamorphosis dance, while fortune's bones tumble in the shadow of destiny's grin.",
+      "hint": "Consider the symbols of chance, transformation, and cosmic fortune. Think of what flies, what burns, what deceives, and what predicts."
+    },
+    "easyRiddle": {
+      "text": "I am the hunter's mark, the sky's bright thief, the treasure sought, the dragon's belief, the fool who grins, and the creature reborn.",
+      "hint": "One is aimed at, one is celestial, one is precious, one is ancient, one is wise, and one changes form."
+    },
+    "answer": [
+      0,
+      2,
+      21,
+      14,
+      12,
+      8
+    ]
+  },
+  "emlo_764": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a precious gem gleaming as I rise. Fortune spins wildly, lightning strikes twice, and fire ignites the celebration. What six celestial symbols mark this moonshot journey?",
+      "hint": "Think of a memecoin's journey: preparation, launch, volatility, and celebration under the stars."
+    },
+    "easyRiddle": {
+      "text": "A rocket blasts off carrying a shiny gem toward the moon. Lightning crackles with fire as the lucky dice determine who wins the trophy. Name these six symbols of crypto glory.",
+      "hint": "One goes up, one shines, one is near, one strikes, one burns, one is lucky."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      18
+    ]
   }
 }
