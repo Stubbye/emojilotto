@@ -44403,5 +44403,41 @@
       19,
       0
     ]
+  },
+  "sol_2077": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the serpent's scales reflect the prism's whisper. Through chaos' spark, the jester's grin emerges, while wings of metamorphosis trace the arc of destiny's bow.",
+      "hint": "Seek the intersection of luck and transformation, where fire breathes and laughter echoes across the void."
+    },
+    "easyRiddle": {
+      "text": "A target gleams, a dragon coils, lightning cracks the sky. A joker laughs, a butterfly soars, and sparkles fill your eye.",
+      "hint": "Six symbols of chance and wonder await your selection."
+    },
+    "answer": [
+      0,
+      13,
+      4,
+      11,
+      8,
+      10
+    ]
+  },
+  "emlo_767": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my precious heart gleaming bright. Lady luck spins her wheel as I dance through the void, striking fortune with electric precision. What am I?",
+      "hint": "Think of four symbols that represent crypto ambition, one that brings fortune through chance, and one that represents sudden wealth"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, moon glows high, lightning strikes fast, dice roll luck, fire burns hot. Pick these six to win the jackpot!",
+      "hint": "Look for: speed, value, night sky, electricity, chance, and heat"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      6
+    ]
   }
 }
