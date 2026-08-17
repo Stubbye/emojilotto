@@ -44061,5 +44061,23 @@
       5,
       18
     ]
+  },
+  "sol_2057": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets archer's aim, and fortune's spark ignites the flame. A gemstone's dance with lightning's kiss, beneath the moon's ethereal bliss. The dragon's treasure, the joker's jest, six harbingers that pass the test.",
+      "hint": "Look to the heavens and chaos intertwined, where luck and magic are carefully aligned."
+    },
+    "easyRiddle": {
+      "text": "I glow in the dark when you wish upon me. I fall from the sky in electricity. A precious stone sparkles with might. A trickster laughs in masked delight. A beast of legend guards ancient wealth. And arrows fly toward their target themselves.",
+      "hint": "Count the magical things that bring fortune and wonder."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      19,
+      13,
+      0
+    ]
   }
 }
