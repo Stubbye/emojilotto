@@ -43917,5 +43917,23 @@
       10,
       9
     ]
+  },
+  "sol_2051": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a jester's grin meets the prism of fate. The winged messenger ascends through chaos unbound, while fortune's gem catches light between crescents and storms. Seek the six that bridge the mortal and divine—luck's architecture written in symbol and flame.",
+      "hint": "One spins chance, one soars high, one gleams, one glows pale, one strikes swift, and one wears many faces"
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of fortune's game: a spinning wheel of chance, a cosmic messenger rising, a glowing stone of value, the night's silver eye, the sky's angry bolt, and laughter wearing a mask. What am I?",
+      "hint": "Look for: luck, ascension, treasure, night, weather, and theater"
+    },
+    "answer": [
+      11,
+      1,
+      5,
+      3,
+      4,
+      18
+    ]
   }
 }
