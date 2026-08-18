@@ -44601,5 +44601,23 @@
       1,
       20
     ]
+  },
+  "sol_2086": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and gemstones dance with thunder's dire desire. The winged metamorphosis pirouettes through fortune's wheel, while stellar guardians and nature's four-leaf charm reveal. Prismatic light refracts through cosmic jest—six tokens bound where fate contests.",
+      "hint": "Think of luck, transformation, celestial bodies, precious stones, chance, and nature's blessings converging in one mystical moment."
+    },
+    "easyRiddle": {
+      "text": "A target is hit by lightning's spark, a gem shines bright in the dark. A butterfly dances near the moon so high, a four-leaf clover beneath the star-filled sky. Which six symbols align for the lottery's call?",
+      "hint": "Look for: something you aim at, electricity, something precious, a winged insect, a celestial body, and good luck."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      8,
+      22,
+      20
+    ]
   }
 }
