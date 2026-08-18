@@ -44817,5 +44817,23 @@
       8,
       19
     ]
+  },
+  "sol_2099": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of destiny align: the archer's mark meets the messenger's ascent, twin luminaries embrace in chromatic silence, while the jester's grin holds what mortals seek in crystalline depths of chance.",
+      "hint": "One guides aim, one climbs heavens, one glows pale, one bends light, one laughs in masks, one sparkles with promise."
+    },
+    "easyRiddle": {
+      "text": "Find the target of a rocket's dream, the moon's pale companion, lightning's flash of fortune, the rainbow's treasure, the joker's secret, and the sparkles that answer wishes.",
+      "hint": "Six symbols: one you aim at, one that flies, one in the night sky, one with colors, one that tricks, one that glitters."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      9,
+      19,
+      10
+    ]
   }
 }
