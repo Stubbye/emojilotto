@@ -44475,5 +44475,23 @@
       4,
       8
     ]
+  },
+  "sol_2080": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while twin masks of revelry dance upon prismatic waves. The archer's prize gleams eternal, yet the jester's laughter echoes where lightning births its twin flame.",
+      "hint": "Seek the intersection of chaos and destiny, where a mythical climber meets the sky's electricity, and false faces conceal the seeker's true reflection."
+    },
+    "easyRiddle": {
+      "text": "I aim for your dreams with precision. A winged beast climbs toward heaven. Electricity illuminates the night. Masks hide what lies beneath. A precious stone catches the light. Waves dance in many colors.",
+      "hint": "Think of targets, dragons, lightning, masks, gems, and rainbows together."
+    },
+    "answer": [
+      0,
+      13,
+      5,
+      19,
+      2,
+      9
+    ]
   }
 }
