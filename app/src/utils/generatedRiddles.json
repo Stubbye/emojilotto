@@ -44565,5 +44565,23 @@
       17,
       10
     ]
+  },
+  "sol_2084": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate convene: the archer's mark pierces the veil between worlds, while the serpent of thunder coils beneath a gem's fractured light. The jester's grin masks the butterfly's metamorphosis, yet all bow to the crystalline tower that crowns destiny's stage.",
+      "hint": "One shoots straight, one strikes fast, one glitters eternally, one transforms, one deceives, one reaches high."
+    },
+    "easyRiddle": {
+      "text": "I am six spirits of luck: the mark you aim for, the bolt that strikes swift, the treasure that sparkles, the creature that soars on gossamer wings, the trickster who laughs, and the prize held high. What am I?",
+      "hint": "Think of targets, lightning, gems, butterflies, jesters, and victory."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      8,
+      19,
+      17
+    ]
   }
 }
