@@ -44709,5 +44709,23 @@
       9,
       21
     ]
+  },
+  "sol_2092": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate converge in trance. The archer's aim strikes gem's dark heart, while wings of transformation play their part. Thunder's kiss ignites the stage of jest, where masked performers put fortune to test. Between earth and cosmos, luck's symphony plays.",
+      "hint": "One guides destiny, one sparkles with worth, one electrifies truth, one brings rebirth, one entertains chance, one rules the night sky."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck: a precious stone gleams, a jester laughs in wild dreams, lightning cracks the sky bright, a masked performer takes flight, an arrow finds its golden mark, and the moon glows in the dark.",
+      "hint": "Think of treasure, comedy, electricity, theater, accuracy, and night."
+    },
+    "answer": [
+      1,
+      4,
+      11,
+      18,
+      0,
+      3
+    ]
   }
 }
