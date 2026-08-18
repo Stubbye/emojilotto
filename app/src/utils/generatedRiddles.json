@@ -44961,5 +44961,23 @@
       4,
       5
     ]
+  },
+  "sol_2107": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a wingèd trickster conjures brilliance through prism'd chaos. The archer's mark meets the jester's grin, while serpent's scales reflect the vault of night.",
+      "hint": "Consider the duality of luck: performance and destiny, deception and truth, earthly games and cosmic wonder."
+    },
+    "easyRiddle": {
+      "text": "Find the dragon that breathes fortune, the joker who laughs at destiny, the target where wishes align, the gem that glimmers with hope, the lightning that strikes with odds, and the circus where dreams perform.",
+      "hint": "Each emoji represents a different way luck can appear in your life."
+    },
+    "answer": [
+      3,
+      11,
+      0,
+      2,
+      5,
+      6
+    ]
   }
 }
