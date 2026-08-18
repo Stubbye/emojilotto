@@ -44835,5 +44835,23 @@
       19,
       10
     ]
+  },
+  "emlo_771": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with electrifying speed, my gems sparkle as I ascend through flames of speculation. Lady luck dances with me under the rainbow's promise, while the joker shuffles the odds. What six symbols define my volatile journey?",
+      "hint": "Think of the path a memecoin takes: rapid movement, precious holdings, sky destination, chance elements, and colorful chaos."
+    },
+    "easyRiddle": {
+      "text": "Shoot for the moon with a rocket powered by fire! Collect sparkling gems along the way. Lightning strikes your gains while the joker laughs at the chaos. Which six emojis represent this wild memecoin ride?",
+      "hint": "Look for: launch vehicle, destination, speed, treasure, comedy, and explosive growth."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      9,
+      19
+    ]
   }
 }
