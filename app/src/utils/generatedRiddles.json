@@ -44583,5 +44583,23 @@
       19,
       17
     ]
+  },
+  "sol_2085": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's grin, six spirits convene in twilight's thin. The archer's mark meets heaven's throne, while fortune's jest in colors shone. Winged metamorphosis threads the arc, as fortune's stones ignite the dark.",
+      "hint": "Look for destiny's symbols: aim, sky, laughter, light, transformation, and precious fortune."
+    },
+    "easyRiddle": {
+      "text": "Find the target where lightning strikes, the moon where a joker smiles, the butterfly on a rainbow, and a gem that sparkles.",
+      "hint": "Six symbols: one you aim at, one above, one that laughs, one bright, one that transforms, one that shines."
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      10,
+      1,
+      20
+    ]
   }
 }
