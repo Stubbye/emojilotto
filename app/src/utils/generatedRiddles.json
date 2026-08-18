@@ -44907,5 +44907,23 @@
       2,
       22
     ]
+  },
+  "sol_2104": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances in twilight's embrace, six keepers of destiny converge. The archer's mark meets the winged messenger of dreams, while the prism of earth whispers to the nocturnal sentinel. Between chaos and grace, the trickster's domain holds the key—where spectrum bends and fortune's wheel turns eternal.",
+      "hint": "Seek the symbols of ambition, magic, mischief, and nature's dual spirits—one crawls with metamorphosis, one burns with silent majesty."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a bullseye of aim, a craft that defies sky, a jewel of earth's heart, a guardian of night, a jester's mischievous grin, and a beast of ancient legend. One brings luck, one brings change, one brings joy. Which six dance together in fate's grand theater?",
+      "hint": "Think of luck games: targets, gems, tricks, and mythical beings. Include the night sky's constant watch and a creature of cunning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      13
+    ]
   }
 }
