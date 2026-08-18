@@ -44979,5 +44979,41 @@
       5,
       6
     ]
+  },
+  "sol_2108": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascending flame, six tokens dance in shadows deep. The gemstone's gleam reflects the jester's grin, while winged metamorphosis spirals through celestial fire. Thunder's kiss upon the crystal stage, and masked performers bow before the starlit threshold where chaos and destiny intertwine in glittering chains.",
+      "hint": "One guides aim, one seeks the heavens, one glimmers with value, one wears a false face, one transforms with grace, one illuminates with electricity."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this verse: the archer's circle, the flying flame, the brilliant stone, the laughing trickster, the flying insect, and the electric bolt from above.",
+      "hint": "Think of: something you aim with, something that goes up, something precious, something silly, something that changes, and something that strikes."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      4
+    ]
+  },
+  "emlo_772": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's fire. A jester's luck meets a mystic's gem, while nature's transformation dances under my glow. What six treasures align for the ultimate lottery of the moon?",
+      "hint": "Think of speed, luck, wealth, transformation, chance, and celestial destinations"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 is precious, 🌙 is the goal, 🦊 is clever, 🎭 means luck. These six ride together to moon fortune!",
+      "hint": "Count the emojis in the easy riddle text - they ARE the answer!"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      13,
+      19
+    ]
   }
 }
