@@ -44673,5 +44673,23 @@
       11,
       4
     ]
+  },
+  "sol_2090": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic arcs, six keepers of fortune align: the archer's mark meets the void's silver gaze, while twin serpents of chaos and fortune twirl beneath a prism's fractured light, and nature's winged metamorphosis floats eternal through the spectrum's whispered song.",
+      "hint": "Seek the meeting of aim and cosmos, where storm and jewel conspire with transformation."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: the mark you aim for, the stone that gleams, the night's pale guardian, the bolt that strikes, the beast with scales, and the creature with painted wings.",
+      "hint": "One archer's goal, one gem, one sky watcher, one spark, one ancient monster, one fluttering friend."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      13,
+      8
+    ]
   }
 }
