@@ -44511,5 +44511,41 @@
       18,
       11
     ]
+  },
+  "sol_2082": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers of fate converge: the archer's mark meets the void's eternal gaze, while fortune's jester pirouettes between crystalline dreams and winged metamorphosis, all crowned by the spectrum's silent promise.",
+      "hint": "One points, one watches from above, one judges, one transforms, one sparkles, one bridges worlds"
+    },
+    "easyRiddle": {
+      "text": "Six lucky tokens: aim true at the mark, look to the night sky's orb, let the crystal's light shine, watch the painted arc appear, see fortune's masked fool grin, and witness the butterfly's rebirth.",
+      "hint": "Target, Moon, Crystal, Rainbow, Joker, Butterfly"
+    },
+    "answer": [
+      0,
+      3,
+      20,
+      9,
+      19,
+      8
+    ]
+  },
+  "emlo_768": {
+    "hardRiddle": {
+      "text": "I launch dreams to cosmic heights with electric speed, glittering treasures glow as fortune's creed. Lucky charm spins twice while jester laughs, leaving trails of magic on destiny's path.",
+      "hint": "Think of a lucky crypto journey: blast off, sparkle, fortune, luck, chaos, and mystical signs"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 🍀 brings luck, 🎰 rolls the dice, 🃏 tricks us, and 🌙 watches above",
+      "hint": "A memecoin adventure: rocket, sparkles, clover, dice, joker, moon"
+    },
+    "answer": [
+      1,
+      9,
+      19,
+      11,
+      13,
+      3
+    ]
   }
 }
