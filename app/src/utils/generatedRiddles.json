@@ -44889,5 +44889,23 @@
       4,
       0
     ]
+  },
+  "sol_2103": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a serpent of fire dances with celestial pearls. The jester's grin mocks the seeker's ascent, while winged grace flutters through prismatic descent. In crystalline depths, fate's music reverberates—six tokens of destiny, where chaos gyrates.",
+      "hint": "One aims, one burns, one deceives, one soars, one transforms, one shines eternal"
+    },
+    "easyRiddle": {
+      "text": "Find the archer's mark, the night's guardian, the trickster's smile, the creature that flies, the stone that gleams, and the light that never fades.",
+      "hint": "Target, moon, joker, butterfly, gem, star"
+    },
+    "answer": [
+      0,
+      21,
+      19,
+      8,
+      2,
+      22
+    ]
   }
 }
