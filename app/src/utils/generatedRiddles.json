@@ -44745,5 +44745,41 @@
       18,
       10
     ]
+  },
+  "sol_2094": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, six dancers waltz between the veil. The jester's twin gleams in fragmented light, while wings of metamorphosis trace the tempest's whisper. In the garden of chance, the scarlet devour all, yet the crown remains elusive. What constellation of fate do the chosen reveal?",
+      "hint": "Look for the performer, the precious, the nocturnal, the winged, the hungry, and the victor's glory."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this verse: One strikes from the sky with electric might, one burns bright and fierce, one flutters with grace, one glimmers like precious stone, one hangs in the night, and one marks the winner's place.",
+      "hint": "Think of lightning, fire, butterfly, gem, moon, and trophy."
+    },
+    "answer": [
+      4,
+      6,
+      8,
+      1,
+      2,
+      18
+    ]
+  },
+  "emlo_770": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-filled rocket ignites the fire of hope. Where butterfly traders dance with the joker's fortune, the dragon's sparkles shine bright. What six symbols guide us to moon-bound wealth?",
+      "hint": "Think of a memecoin journey: speed, value, excitement, luck, magic, and ultimate destination"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms toward the moon. Lightning brings speed. Fire shows strength. A gem sparkles with value. The joker brings laughs. The butterfly flies free. What are these six?",
+      "hint": "These six emojis represent the memecoin dream: going to the moon, fast gains, hot trades, precious rewards, having fun, and feeling free"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      11,
+      8
+    ]
   }
 }
