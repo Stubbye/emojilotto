@@ -44925,5 +44925,23 @@
       11,
       13
     ]
+  },
+  "sol_2105": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six seekers dance in shadow's kneel. The archer's mark gleams crystalline bright, while winged metamorphosis takes midnight flight. Thunder's kiss upon the gem-adorned stage, and lunar silver writes fate's final page.",
+      "hint": "Look for: a target, a precious stone, something that transforms, electricity, the night sky, and brilliance itself"
+    },
+    "easyRiddle": {
+      "text": "I aim for treasure with my pointed sight. I sparkle with eternal light. I dance on electric storm's breath. Wings carry dreams through life and death. The moon watches over all I see. Six magic symbols set you free.",
+      "hint": "One shoots arrows, one blinds with shine, one strikes with power, one flies and transforms, one watches from above, one twinkles always"
+    },
+    "answer": [
+      0,
+      21,
+      4,
+      8,
+      3,
+      10
+    ]
   }
 }
