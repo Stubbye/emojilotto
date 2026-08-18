@@ -44691,5 +44691,23 @@
       13,
       8
     ]
+  },
+  "sol_2091": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers spin in chance. The archer's mark embraces sky-bound thrust, while gems and lightning intertwine in dust. Rainbow's arc bends through crystalline dreams, as masked performers play on fortune's seams.",
+      "hint": "One seeks precision, one seeks escape. One glitters with wealth, one crackles with fate. One paints the sky, one reflects all light. One hides true faces under spotlight."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your lottery fate: A target and rocket fly high, a gem shines bright, lightning strikes fast, a rainbow arcs wide, and crystal reflects light. Which six spin the wheel?",
+      "hint": "Look for: something you aim at, something that launches, something precious, something electric, something colorful in the sky, and something clear and beautiful."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      9,
+      21
+    ]
   }
 }
