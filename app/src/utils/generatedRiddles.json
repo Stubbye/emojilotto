@@ -44655,5 +44655,23 @@
       5,
       19
     ]
+  },
+  "sol_2089": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's trickster grin, six harbingers of fate converge: the hunter's mark meets the winged messenger, the crystalline treasury gleams beneath Luna's veil, while fortune's jester pirouettes between the gem and the bolt that cleaves the void. What trinity crowns this symphony of chance?",
+      "hint": "The answer contains symmetry: a mark, a messenger, a jewel, a lunar witness, a laugh, and a strike."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and power dance together: the circle that marks, the arrow that soars, the sparkle that shines, the moon that glows, the jester that laughs, and the bolt that strikes. Name them all.",
+      "hint": "Look for: target, rocket, gem, moon, joker, and lightning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      4
+    ]
   }
 }
