@@ -44799,5 +44799,23 @@
       0,
       10
     ]
+  },
+  "sol_2097": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians of fate converge. The winged transformation ascends through prismatic veil, while the jester's twin masks observe the lightning's caress upon gems that sing. In the crescendo of chaos, the archer's goal gleams eternal.",
+      "hint": "Consider metamorphosis, duality, electric fortune, precious clarity, cosmic alignment, and purpose incarnate."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck unite: a target of destiny, a flame that consumes, a gem that reflects, a storm that strikes, a creature that transforms, and masks that deceive.",
+      "hint": "One aims, one burns, one shines, one strikes, one changes, one hides truth."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      9,
+      8,
+      19
+    ]
   }
 }
