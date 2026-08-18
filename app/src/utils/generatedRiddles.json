@@ -44853,5 +44853,23 @@
       9,
       19
     ]
+  },
+  "sol_2101": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's whirling face, six tokens of destiny align in chaos' embrace. The archer's mark gleams eternal, while the winged metamorphosis traces the lightning's violent grace. Through crystal tears and spectrum's arch, the stage of merriment calls—seek what glimmers, what spins, what falls.",
+      "hint": "Consider the realms: precision, transformation, electricity, brilliance, fortune, and spectacle. One leads to heaven, one sheds its skin, one strikes with fury."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a shining stone catches light, a spinning cube decides the night, a jester grins with mischief bright, lightning splits the sky in flight, a moth transforms from dark to white, and colors paint a glowing arc of might.",
+      "hint": "Think of: something precious, something random, something foolish, something powerful, something that changes, and something beautiful."
+    },
+    "answer": [
+      5,
+      11,
+      1,
+      4,
+      8,
+      9
+    ]
   }
 }
