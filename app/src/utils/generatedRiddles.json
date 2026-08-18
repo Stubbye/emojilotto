@@ -45033,5 +45033,23 @@
       14,
       21
     ]
+  },
+  "sol_2111": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged seeker spirals through prismatic arcs toward destiny's glimmering heart, while chaos whispers its numerical secrets beneath the vault of night.",
+      "hint": "One rules the sky, one tests fate, one transforms, one blazes, one dazzles, one speaks in chance."
+    },
+    "easyRiddle": {
+      "text": "A butterfly flies to the moon through lightning and fire, passing by sparkling gems on its journey through rainbow skies.",
+      "hint": "Think of transformation, night, electricity, heat, treasure, and color."
+    },
+    "answer": [
+      8,
+      3,
+      5,
+      6,
+      10,
+      21
+    ]
   }
 }
