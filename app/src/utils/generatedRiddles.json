@@ -44781,5 +44781,23 @@
       11,
       8
     ]
+  },
+  "sol_2096": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged creature spirals through prismatic arcs toward crystalline destiny. The jester's laughter echoes as lightning strikes the bull's eye, while gems weep in the presence of that which endures forever.",
+      "hint": "Think of chance, luck, ethereal journeys, and what glimmers both in sky and soul."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: one strikes from above, one spins with fortune, one shines eternal, one has wings and transforms, one marks the target, one sparkles with magic.",
+      "hint": "Lightning, dice, star, butterfly, target, sparkles"
+    },
+    "answer": [
+      4,
+      11,
+      21,
+      8,
+      0,
+      10
+    ]
   }
 }
