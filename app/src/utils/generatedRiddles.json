@@ -45051,5 +45051,23 @@
       10,
       21
     ]
+  },
+  "sol_2112": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, and thunder splits the obsidian veil, a gemstone bleeds beneath the jester's painted face. Chaos dances where the fox's cunning intertwines with celestial flame, yet virtue blooms eternal—seek the six that pierce the veil between what is and what dreams dare proclaim.",
+      "hint": "One aims, one burns, one glimmers in darkness, one laughs at fate, one hunts in shadows, one ignites the sky."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in night and fire: the archer's mark, the sky's bright ember, stone that sings with inner light, the jester's mask of endless night, the cunning hunter's russet coat, and thunder's silver cry.",
+      "hint": "Look for: a target, something that flies up, something precious, someone who tricks, a clever animal, and a storm's voice."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      13,
+      4
+    ]
   }
 }
