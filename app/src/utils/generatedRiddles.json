@@ -44493,5 +44493,23 @@
       2,
       9
     ]
+  },
+  "sol_2081": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and prismatic light refracts through chambers deep. The jester's twin masks mock the seeker's zeal, while scaled guardian hoards what mortals eternally keep. Six secrets bind in chromatic flame, yet only the swift may claim their name.",
+      "hint": "Consider what glimmers in darkness, what spins in chance, what roars in legend, and what burns in the night sky."
+    },
+    "easyRiddle": {
+      "text": "I contain: a wheel of fortune, a night sky sentinel, a precious stone's gleam, scaled ancient power, split personalities in jest, and the warmth of creation. What six treasures am I?",
+      "hint": "One sparkles, one roars, one has two faces, one shines above, one burns, one rolls."
+    },
+    "answer": [
+      9,
+      21,
+      5,
+      13,
+      18,
+      11
+    ]
   }
 }
