@@ -44547,5 +44547,23 @@
       13,
       3
     ]
+  },
+  "sol_2083": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate convene. The celestial orb witnesses the jester's paradox, while the scaled leviathan guards twin flames of chaos and wonder. Between them dances the winged metamorphosis, and crystalline geometry reflects what mortals call chance. Seek the icon of ultimate victory, for therein lies the lottery's secret song.",
+      "hint": "One marks precision, one marks dreams beyond reach, one symbolizes deception's dual nature, one embodies transformation, one represents achievement's pinnacle, and one holds the universe's frozen brilliance."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of destiny: the hunter's mark, the night's guardian, the fool's true face, the creature reborn, the victor's crown, and the eternal sparkle of luck itself. Together we dance in the cosmic lottery of chance.",
+      "hint": "Think of targets, celestial bodies, playing cards, metamorphosis, winning, and magic."
+    },
+    "answer": [
+      0,
+      20,
+      19,
+      8,
+      17,
+      10
+    ]
   }
 }
