@@ -44637,5 +44637,23 @@
       13,
       14
     ]
+  },
+  "emlo_769": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with velocity, my value glimmers with crystalline worth, I spark with energy in markets wild, I bring fortune's luck to the bold, I transform dreams to stellar heights, and I dance with cosmic fire. What am I?",
+      "hint": "Think of a memecoin's journey to prosperity"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, moon is the dream, lightning is speed, fire burns hot, and clover brings luck. Which six guide the crypto lucky?",
+      "hint": "Count the emojis mentioned"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      19
+    ]
   }
 }
