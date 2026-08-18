@@ -45015,5 +45015,23 @@
       13,
       19
     ]
+  },
+  "sol_2109": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, through prismatic gates the masked performers aspire. The dragon's fortune glimmers in crystalline light, as chaos dances between darkness and night. Six treasures converge where the trickster takes flight.",
+      "hint": "Think of fate's intersection with performance, fortune, and the cosmic stage where luck performs its eternal ballet."
+    },
+    "easyRiddle": {
+      "text": "An archer's dream, a cosmic flame, a gem that gleams without shame. A joker's mask, a dragon's hoard, and crystal shards as your reward.",
+      "hint": "Look for targets, fire, gems, masks, dragons, and sparkles—symbols of luck and spectacle combined."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      14,
+      21
+    ]
   }
 }
