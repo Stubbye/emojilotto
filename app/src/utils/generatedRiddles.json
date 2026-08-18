@@ -44619,5 +44619,23 @@
       22,
       20
     ]
+  },
+  "sol_2087": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six keepers of fate dance in twilight's domain. The jester's grin guards the prism of night, while scaled ancient wisdom coils through aurora's light. A trembling heart beats where the clown's tent once rose, and luck's sacred symbol blooms where destiny flows.",
+      "hint": "Seek the convergence of chaos, magic, and chance beneath painted skies"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this cosmic jest: a target of dreams, a rocket of quest, a gem that glimmers, the moon's soft guest, a dragon so wise, and a flower blessed.",
+      "hint": "One brings luck, one brings speed, one shines bright, one rules the night, one is ancient, one grows from light"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      14
+    ]
   }
 }
