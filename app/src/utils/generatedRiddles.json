@@ -44727,5 +44727,23 @@
       0,
       3
     ]
+  },
+  "sol_2093": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, the trickster's grin guards what mortals entranced. Six keepers of fate in twilight's embrace: a gem of pure night, a mark none can trace. The swift one observes where the scaled guardian flies, while sparks crown the victor beneath starlit skies.",
+      "hint": "Think of night, chance, deception, victory, swiftness, and cosmic wonder."
+    },
+    "easyRiddle": {
+      "text": "Find the night jewel, the lucky deceiver's smile, the red beast of sky, the clever forest wile, the crown of all winners, and the spark of the night.",
+      "hint": "Moon, joker, dragon, fox, trophy, and sparkles await your sight."
+    },
+    "answer": [
+      3,
+      17,
+      13,
+      12,
+      18,
+      10
+    ]
   }
 }
