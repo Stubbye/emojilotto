@@ -44943,5 +44943,23 @@
       3,
       10
     ]
+  },
+  "sol_2106": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, a jeweled ascent ignites the heavens' own. Through storm's bright vein and inferno's dance, six keepers of destiny entrance. The winged metamorphosis spirals high, while radiance blooms in prismatic sky.",
+      "hint": "Celestial ambition, gemstone wealth, weather's fury, transformation's grace, and light refracted."
+    },
+    "easyRiddle": {
+      "text": "Find the mark of precision, the seed of the stars, the stone of great worth, the sphere of the night, the bolt that illuminates, and the blaze that consumes.",
+      "hint": "Aim, space travel, treasure, darkness, weather, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
