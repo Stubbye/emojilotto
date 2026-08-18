@@ -44871,5 +44871,23 @@
       8,
       9
     ]
+  },
+  "sol_2102": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a scaled guardian guards the prism's gleam. The jester's grin masks what the archer seeks—in chaos blooms the winged metamorphosis, while thunder crowns the stage of infinite jest.",
+      "hint": "One reflects wishes, one reflects chance, one reflects myth, one reflects transformation, one reflects power, one reflects performance."
+    },
+    "easyRiddle": {
+      "text": "I contain a dragon, a joker, a gem, lightning, a butterfly, and a target. What am I?",
+      "hint": "Count the treasures: scaled magic, mocking chance, precious light, electric power, transformed beauty, and the bullseye."
+    },
+    "answer": [
+      13,
+      19,
+      5,
+      8,
+      4,
+      0
+    ]
   }
 }
