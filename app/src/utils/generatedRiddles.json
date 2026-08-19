@@ -45231,5 +45231,23 @@
       4,
       8
     ]
+  },
+  "sol_2121": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six whispers dance between the mundane and divine. The jester's twin gleams in the void's embrace, while feathered wings court the prism's fractured song. In crystalline depths, luck spirals upward through the storm's electric vein, seeking the crown that mortals chase through shadow-painted reverie.",
+      "hint": "One brings precision, one graces the night, one laughs at fate, one transforms, one shatters light, one harnesses nature's fury."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of chance: one aims true, one rules the stars, one sparkles with mischief, one floats on wings of wonder, one captures light itself, and one conducts the sky's fury.",
+      "hint": "Think of targets, celestial bodies, tricksters, delicate creatures, precious things, and storms."
+    },
+    "answer": [
+      0,
+      21,
+      19,
+      8,
+      20,
+      4
+    ]
   }
 }
