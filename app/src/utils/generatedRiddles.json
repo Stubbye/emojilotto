@@ -45501,5 +45501,23 @@
       8,
       20
     ]
+  },
+  "sol_2136": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six symbols converge in fate's dark choir. The winged wanderer pirouettes 'neath the masked theatre, while crystalline dreams cascade from the archer's amphitheatre. Thunder births the gemstone's gleam, and the horned guardian haunts the fevered dream.",
+      "hint": "Look to spectacle, the sky, transformation, percussion, fortune, and the mythical beast within."
+    },
+    "easyRiddle": {
+      "text": "One spins fate with spotted bones, one roars with ancient groans. One makes music with six strings, one performs where chaos sings. One strikes from heaven's height, one glimmers precious and bright.",
+      "hint": "Games, mythology, art, electricity, fortune, and gemstones play a part."
+    },
+    "answer": [
+      11,
+      13,
+      8,
+      16,
+      4,
+      5
+    ]
   }
 }
