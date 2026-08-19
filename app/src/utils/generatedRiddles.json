@@ -45249,5 +45249,23 @@
       20,
       4
     ]
+  },
+  "sol_2122": {
+    "hardRiddle": {
+      "text": "Through celestial paths where fortune's arrow flies, beneath the moon's pale gaze, lightning dances with fire's ancient kiss. The jester's grin masks destiny's wheel, while gems crystallize dreams in prismatic shards of wonder.",
+      "hint": "Seek the intersection of chaos and fortune, where light strikes from above and gems hold secrets."
+    },
+    "easyRiddle": {
+      "text": "Find the hunter's mark, the night's companion, the storm's voice, the dancing flame, the trickster's laughter, and the precious stone that sparkles with hope.",
+      "hint": "A target, a moon, lightning, fire, a joker, and a gem walk into a lottery..."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      5,
+      19,
+      2
+    ]
   }
 }
