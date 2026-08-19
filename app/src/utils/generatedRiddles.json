@@ -45447,5 +45447,23 @@
       11,
       14
     ]
+  },
+  "sol_2133": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate converge. The jester's twin masks whisper secrets to the scaled dreamer coiled in celestial fire. A prism shatters into dancing wings, while fortune's wheel spins beneath the trickster's gaze. The victor's golden chalice reflects an emerald's ancient light. Seek the convergence where chaos reigns eternal and luck takes wing.",
+      "hint": "One reveals deception, one spins destiny, one represents victory, one embodies transformation, one guards treasure, one dominates the cosmos."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a masked performer jokes with fortune's wheel, a dragon breathes ancient wisdom, a butterfly dances freely, a trophy gleams with glory, a gem sparkles with value, and a star shines eternal.",
+      "hint": "Think of: entertainment, chance, mythology, transformation, achievement, and treasure."
+    },
+    "answer": [
+      19,
+      11,
+      13,
+      8,
+      6,
+      21
+    ]
   }
 }
