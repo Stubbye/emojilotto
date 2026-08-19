@@ -45573,5 +45573,23 @@
       8,
       5
     ]
+  },
+  "sol_2139": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's masquerade unfolds beneath the moon's silver gaze. The winged messenger of transformation flutters through prisms of fate, while thunder's electric kiss awakens the jeweled heart of destiny. Six symbols converge where chaos meets grace, where laughter echoes in the space between worlds.",
+      "hint": "Look for the trickster, the celestial guide, the transformation, the storm's touch, the gem of truth, and the target of all wishes."
+    },
+    "easyRiddle": {
+      "text": "A cosmic game calls: find the jester who plays, the celestial orb that lights the way, the creature with wings that transforms its shape, the sparkle of lightning that electrifies fate, the precious stone of eternal grace, and the bullseye where all dreams embrace.",
+      "hint": "Joker, Moon, Butterfly, Lightning, Gem, Target"
+    },
+    "answer": [
+      19,
+      3,
+      8,
+      5,
+      2,
+      0
+    ]
   }
 }
