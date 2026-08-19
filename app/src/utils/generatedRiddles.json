@@ -45339,5 +45339,23 @@
       9,
       11
     ]
+  },
+  "sol_2126": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin spirals, the jester's painted grin guards the threshold. Seek the archer's aim kissed by stellar flame, where chaos blooms in six-pointed symmetry and wings of metamorphosis shimmer betwixt the void. The gem of destiny rests where sound waves bend toward infinity's smile.",
+      "hint": "One reflects chaos, one pierces sky, one burns eternal, one transforms, one glimmers always, one plays the cosmic jest"
+    },
+    "easyRiddle": {
+      "text": "I contain a target's mark, a rocket's thrust, a gem's gleam, a moon's glow, lightning's strike, and a joker's laugh. What six treasures complete the lottery's sacred circle?",
+      "hint": "Think of precision, ascension, wealth, night, speed, and trickery"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
