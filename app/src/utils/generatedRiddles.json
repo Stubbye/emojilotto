@@ -45393,5 +45393,41 @@
       19,
       17
     ]
+  },
+  "sol_2130": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the nocturnal crown, a jeweled prism dances betwixt fortune's wheel and nature's metamorphosis. The trickster's grin guards the threshold where electric serpents coil around destiny's bullseye.",
+      "hint": "Look to the heavens and earth's precious things; a shape-shifter guards winged transformation near games of chance."
+    },
+    "easyRiddle": {
+      "text": "I contain a bright ball in the sky, a precious stone, a spinning wheel of fate, lightning from above, a winged creature that transforms, and a magical jester who knows all secrets.",
+      "hint": "Find: night sky, treasure, games, electricity, insect evolution, and the fool of cards."
+    },
+    "answer": [
+      1,
+      3,
+      11,
+      4,
+      8,
+      19
+    ]
+  },
+  "emlo_776": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkle with precious allure, and dance between fortune's gem-like treasures. My rainbow path burns bright as lightning strikes the target of memecoin glory, where jokers and jesters celebrate under stars that never fade.",
+      "hint": "Think of a crypto journey: from launch to moon, with luck and dazzle involved"
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon, lightning strikes the target, gems sparkle bright, fire burns hot, jokers laugh at fortune, and stars shine forever in this memecoin dream.",
+      "hint": "Count the action: launch, destination, speed, value, fun, and eternal luck"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      19,
+      21
+    ]
   }
 }
