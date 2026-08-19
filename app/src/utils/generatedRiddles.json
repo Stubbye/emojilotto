@@ -45195,5 +45195,23 @@
       5,
       19
     ]
+  },
+  "emlo_774": {
+    "hardRiddle": {
+      "text": "I launch to the celestial heights with electric speed, my gems sparkle as I ride the lightning's lead. At the moon I arrive, dancing through fire's glow, a trophy for the bold who dare to go.",
+      "hint": "Think of a memecoin's journey: from launch to moon, with explosive growth and magical rewards."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, 🔥 burns hot, 🏆 is won.",
+      "hint": "These six symbols represent the path to memecoin riches and glory."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      17
+    ]
   }
 }
