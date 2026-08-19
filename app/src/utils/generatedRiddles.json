@@ -45591,5 +45591,23 @@
       2,
       0
     ]
+  },
+  "sol_2141": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six mysteries align in twilight's trance. The archer's aim through gem-lit night, a dragon's shimmer takes its flight. Lightning weaves with lunar glow, while nature's flutter steals the show. In chaos' pulse and sparkled dreams, destiny flows through hidden seams.",
+      "hint": "Consider the hunter, the mythical beast, the jeweled reward, the night sky's guest, the storm's bright tongue, and transformation's guest."
+    },
+    "easyRiddle": {
+      "text": "I contain a target for precision, a dragon of legend, a gem so precious, moonlight's gaze, lightning's strike, and a butterfly's flight. What six treasures am I?",
+      "hint": "Think of aimed success, mythical creatures, valuables, night sky, electricity, and insects that dance."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      4,
+      8
+    ]
   }
 }
