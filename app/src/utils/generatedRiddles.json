@@ -45177,5 +45177,23 @@
       8,
       17
     ]
+  },
+  "sol_2118": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone whispers secrets to the night. Lightning dances with celestial fire, while winged metamorphosis seeks the prism's light. In chaos' game, the jester's mask conceals the answer's sacred six.",
+      "hint": "Think of elements that guide destiny: one aims, one illuminates the path, one glimmers with inner light, one rules the darkness above, one strikes with sudden truth, and one transforms through trials."
+    },
+    "easyRiddle": {
+      "text": "Six magical signs hold the lottery's key: a marksman's circle, a heavenly stone that shines, electricity's bolt, the moon's silent glow, a precious gem that catches light, and a trickster's grin. What are they?",
+      "hint": "Find: aim, magic ascension, electricity, night's guardian, crystalline treasure, and the fool's laughter."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      19
+    ]
   }
 }
