@@ -45375,5 +45375,23 @@
       18,
       9
     ]
+  },
+  "sol_2129": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six harbingers converge. The archer's mark gleams like stolen starlight, while twin serpents of chaos spiral upward through crystalline dreams. Between them, winged metamorphosis trembles as the jester's painted wisdom grins eternal. Seek the throne of victory crowned in night's pale glow.",
+      "hint": "One guides seekers, one ascends with fury, one sparkles with vanity, one transforms fate, one mocks destiny, one claims dominion."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of chance and majesty: the pointed goal we aim for, the blazing ascent to sky, the precious gleaming stone, the pale watcher above, the trickster's grinning face, and the golden prize we seek.",
+      "hint": "Think of targets, rockets, gems, moons, jokers, and trophies."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      17
+    ]
   }
 }
