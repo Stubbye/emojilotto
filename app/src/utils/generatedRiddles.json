@@ -45213,5 +45213,23 @@
       5,
       17
     ]
+  },
+  "sol_2120": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six ethereal guardians convene. The archer's mark meets serpent's ancient wisdom, while winged metamorphosis pirouettes through prismatic veils. Thunder's kiss illuminates the jester's domain, and precious geometry reflects the night's sovereign gaze.",
+      "hint": "Seek the symbols of chance, transformation, and cosmic power where opposites embrace."
+    },
+    "easyRiddle": {
+      "text": "One shoots straight, one glows above, one sparkles bright with precious light. A dragon coils, lightning strikes, and a butterfly dances through colors.",
+      "hint": "Count the six treasures: aim high, reach for the sky, find gems, respect ancient beasts, fear the storm, and chase transformation."
+    },
+    "answer": [
+      1,
+      21,
+      5,
+      13,
+      4,
+      8
+    ]
   }
 }
