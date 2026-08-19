@@ -45483,5 +45483,23 @@
       21,
       0
     ]
+  },
+  "sol_2135": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged metamorphosis spirals through prismatic arcs toward crystalline brilliance. Six tokens of destiny: the archer's mark meets the ascending flame, jester's grin guards the nocturnal pearl, while delicate wings embrace the fractured light of eternity.",
+      "hint": "Think of transformation, chance, and the journey from earth to cosmos"
+    },
+    "easyRiddle": {
+      "text": "I hold the aim, I climb the sky, I laugh at fate, I glow at night, I flutter free, and I shine forever. What six treasures complete this fortune?",
+      "hint": "A target, a rocket, a joker, a moon, a butterfly, and a crystal"
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      3,
+      8,
+      20
+    ]
   }
 }
