@@ -45321,5 +45321,23 @@
       13,
       11
     ]
+  },
+  "sol_2125": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets infernal dance, six secrets sleep in fortune's trance. The archer's mark dissolves to gem's pure gleam, while lunar sentinel guards the dreamer's scheme. Swift-winged metamorphosis traces prismatic art, and chaos crystallized holds destiny's heart.",
+      "hint": "Seek the heavens' eye, earth's precious tears, transformation's grace, and fortune's fears"
+    },
+    "easyRiddle": {
+      "text": "I am the aim that never misses, the treasure that glitters and glistens. I am the night's eternal queen, the change that cannot be seen. I am wings of painted flight, and the random hand that decides your plight.",
+      "hint": "One points forward, one shines bright, one dances in sky, one brings the night"
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      9,
+      11
+    ]
   }
 }
