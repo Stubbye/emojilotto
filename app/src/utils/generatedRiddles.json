@@ -45267,5 +45267,23 @@
       19,
       2
     ]
+  },
+  "sol_2123": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, and the masked jester's laughter echoes through prismatic corridors of chance. The archer's mark gleams eternal while winged metamorphosis pirouettes upon electric threads of destiny. Six symbols converge where luck's elusive gem catches the phosphorescent glow of destiny's stage.",
+      "hint": "One brings fortune's aim, one amplifies hope, one sparkles eternally, one rules the night, one destroys with brilliance, and one transforms through illusion."
+    },
+    "easyRiddle": {
+      "text": "I am six: a goal-seeker, a spark-bringer, a night-watcher, a chain-breaker, a glittering stone, and a shape-shifter in wonder's tent.",
+      "hint": "Look for: targeting, fire, the moon, lightning, a gem, and a butterfly."
+    },
+    "answer": [
+      0,
+      6,
+      21,
+      4,
+      5,
+      8
+    ]
   }
 }
