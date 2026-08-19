@@ -45555,5 +45555,23 @@
       5,
       19
     ]
+  },
+  "sol_2138": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial jewel ascends through chaos and light. The trickster's mask dances with winged grace, while thunder splits the veil between worlds. Six symbols converge where luck is forged in flame and crystalline dreams.",
+      "hint": "Think of destiny, chance, performance, nature, power, and precious things"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: one you aim at, one that soars high, one that glimmers rare, one that glows at night, one with wings so fair, and one that splits the sky. What are they?",
+      "hint": "A target, something that flies, something shiny, something in the sky, something with wings, and something bright"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      5
+    ]
   }
 }
