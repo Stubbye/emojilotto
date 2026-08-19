@@ -45141,5 +45141,23 @@
       5,
       19
     ]
+  },
+  "sol_2116": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers converge in ethereal trance. The winged messenger of transformation glides past the archer's mark, while gems crystallize in the jester's dark. Lightning's twin brother guards the stage of masks, and fortune's wheel spins where luck unmasks.",
+      "hint": "One flies with wings, one strikes from above, one is a precious stone, one is circular chance, one is theatrical deception, one is the performer's realm."
+    },
+    "easyRiddle": {
+      "text": "I have wings but am not a bird. I shine but am not the sun. I am round but not a planet. I strike but make no sound. I am worn but have no body. I turn but have no engine.",
+      "hint": "Think of: something that transforms, something that glows, something precious, something that electrifies, something worn on a face, and something that spins."
+    },
+    "answer": [
+      8,
+      1,
+      2,
+      5,
+      19,
+      12
+    ]
   }
 }
