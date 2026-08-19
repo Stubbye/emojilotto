@@ -45627,5 +45627,23 @@
       19,
       17
     ]
+  },
+  "sol_2143": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, a gemstone awakens beneath the cosmic wire. The winged dancer pirouettes through heaven's veil, while electric serpent's roar shall never fail. In chambers of mirth, the jester's crown gleams, and crystalline echoes fulfill our dreams.",
+      "hint": "One guides aims, one burns bright, one glimmers deep, one floats high, one brings laughter, one refracts light."
+    },
+    "easyRiddle": {
+      "text": "I am an archer's tool, a flame that leaps, a stone that shines, a night guardian, a fool's companion, and frozen clarity.",
+      "hint": "Think of targets, fire, precious things, the night sky, entertainment, and glass."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      18,
+      20
+    ]
   }
 }
