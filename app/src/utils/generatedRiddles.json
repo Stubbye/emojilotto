@@ -45645,5 +45645,23 @@
       18,
       20
     ]
+  },
+  "sol_2144": {
+    "hardRiddle": {
+      "text": "Where celestial fire waltzes with fortune's masked jest, six tokens of fate converge: the archer's distant dream meets the serpent's ancient crest, while luminescence pirouettes through prismatic refrain, and fortune's fool grins eternal at destiny's domain.",
+      "hint": "One flies with purpose, one rules the night, one deceives with charm, one brings the storm, one reveals all colors, one jest forever"
+    },
+    "easyRiddle": {
+      "text": "Six magic symbols hide in this verse: the bull's-eye aim, the night's pale glow, the trickster's grin, the scaled beast's pride, the electric strike, and the bow of light after rain.",
+      "hint": "Think: target, moon, joker, dragon, lightning, rainbow"
+    },
+    "answer": [
+      0,
+      3,
+      18,
+      13,
+      4,
+      9
+    ]
   }
 }
