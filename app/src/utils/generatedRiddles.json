@@ -45357,5 +45357,23 @@
       4,
       19
     ]
+  },
+  "sol_2128": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial void, a gemstone blazes through the cosmic dance. The trickster's laughter echoes as winged metamorphosis blooms, while thunder kisses the vault of eternity's shimmer.",
+      "hint": "One guides, one illuminates the night, one sparkles with value, one transforms, one amuses, one crackles with power."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this tale: a target you aim for, a precious stone, the night's guardian, transformation's symbol, a jester's grin, and nature's bloom of radiance.",
+      "hint": "Think of: aim, night sky, wealth, change, humor, and magical light."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      18,
+      9
+    ]
   }
 }
