@@ -45663,5 +45663,23 @@
       4,
       9
     ]
+  },
+  "sol_2145": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, and molten chaos dances with nature's twin-winged grace, the prism shatters into laughing fortune's face. Chaos blooms in symmetry's embrace, while winged spirits spiral through the void. What six celestial tokens mark the threshold between mortal dreams and destiny's rejoicing?",
+      "hint": "One seeks precision, one pierces sky, one crowns achievement, one floats above, one transforms with wings, and one ignites the soul"
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the sky's fire, the victor's crown, the night's guardian, the dancer of air, and the transformer of souls. Together we six hold the secrets of fortune.",
+      "hint": "Think of precision, speed, winning, darkness, flight, and change"
+    },
+    "answer": [
+      0,
+      1,
+      18,
+      3,
+      8,
+      13
+    ]
   }
 }
