@@ -45159,5 +45159,23 @@
       19,
       12
     ]
+  },
+  "sol_2117": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six guardians dance in prismatic desire. The jester's twin gleams in the void's embrace, while petals of chaos waltz through infinite space. Seek the winged metamorphosis bound to the crown, where luck's blazing testament spirals down.",
+      "hint": "Look for: A target, lightning, gems, a joker's reflection, butterfly grace, and where champions ascend"
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in this verse: a bullseye for aim, a storm's electric curse, jewels that sparkle bright, a fool's mischievous sight, wings that transform in flight, and gold at glory's height.",
+      "hint": "Think of: aim, electricity, riches, trickery, insects, and victory"
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      19,
+      8,
+      17
+    ]
   }
 }
