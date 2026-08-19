@@ -45519,5 +45519,41 @@
       4,
       5
     ]
+  },
+  "sol_2137": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and crimson devours what lightning cannot chase. The jester's grin reflects in faceted night, while scaled ambition takes its serpent flight. A bloom eternal in the chaos sings, and fortune's wheel spins on celestial strings.",
+      "hint": "Consider the symbols of fate, fire, royalty, and mythical power intertwined with chance and natural beauty."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where games are won: a red-hot flame, a sky-bound sun, a precious stone that catches light, a masked deceiver, scales of might, and petals soft in gardens bright.",
+      "hint": "Think of elements associated with luck, danger, night sky, trickery, mythical creatures, and nature."
+    },
+    "answer": [
+      2,
+      4,
+      13,
+      12,
+      1,
+      14
+    ]
+  },
+  "emlo_777": {
+    "hardRiddle": {
+      "text": "I chase the impossible dream with blazing speed, seeking fortune in the cosmic abyss. My fortune teller wears a mischievous grin, while luck strikes like electricity through my veins. Where gemstones sparkle eternally and butterflies dance around my victory, what am I?",
+      "hint": "Think of the journey every memecoin takes: the destination, the vehicle, the prizes, the jester's luck, the instant strike, and the transformation."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🚀 speed! ⚡ strikes our luck, 💎 is our prize, 🦋 celebrates our win, and 🎭 is the game's spirit. What six symbols complete our memecoin adventure?",
+      "hint": "One takes us up, one strikes fast, one glitters, one transforms, one marks destination, one entertains."
+    },
+    "answer": [
+      1,
+      18,
+      3,
+      8,
+      5,
+      19
+    ]
   }
 }
