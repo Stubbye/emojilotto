@@ -45285,5 +45285,41 @@
       5,
       8
     ]
+  },
+  "sol_2124": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six guardians dance betwixt desire. The scaled serpent guards the prism's gleam, while masked performers weave the dream. Swift-winged trickster and the bloom eternal—together pierce the veil infernal.",
+      "hint": "One hunts with precision, one breathes with heat, one glitters with precious light, one wears hidden faces, one deceives with grace, one blooms without season."
+    },
+    "easyRiddle": {
+      "text": "A red target marks the spot, a dragon breathes hot, a gem shines bright, masks hide the sight, a fox is sly, and flowers never die.",
+      "hint": "Look for: something you aim at, something that roars and burns, something precious, something theatrical, something cunning, and something that blooms."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      13,
+      14
+    ]
+  },
+  "emlo_775": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my trail blazes with electric might. Gems sparkle as lightning strikes, while fire dances with theatrical delights. A fox grins beneath the moon's gentle light, and fortune spins with each dice bite.",
+      "hint": "Think of a memecoin's journey: its launch, volatility, sparkle, entertainment value, cunning nature, and element of chance."
+    },
+    "easyRiddle": {
+      "text": "What takes you to the 🌙, shines bright like ⚡, sparkles like 💎, burns hot like 🔥, grins sly like 🦊, and leaves luck to 🎲?",
+      "hint": "A memecoin journey has launch energy, volatility, glamour, hype, cunning marketing, and pure chance."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      6,
+      13,
+      11
+    ]
   }
 }
