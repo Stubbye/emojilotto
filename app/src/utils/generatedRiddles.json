@@ -45069,5 +45069,23 @@
       13,
       4
     ]
+  },
+  "sol_2113": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six tokens dance betwixt the veil. The archer's mark aligned with storm's embrace, a jeweled crown beneath the lunar face. Winged metamorphosis through prismatic arc, while chance itself adorns the dark. What destiny do these harbingers reveal?",
+      "hint": "One seeks precision, one seeks power, one seeks wealth, one seeks night's dominion, one seeks transformation, one seeks probability itself."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: What flies to distant realms? What sparkles with inner light? What marks the perfect shot? What rules the midnight sky? What transforms in nature's dance? What determines fate's hand?",
+      "hint": "Think of targets, gems, moons, rockets, butterflies, and dice."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      11
+    ]
   }
 }
