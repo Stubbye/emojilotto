@@ -45465,5 +45465,23 @@
       6,
       21
     ]
+  },
+  "sol_2134": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's grin guards the treasure between night's silver pearl and the archer's true aim. Six whispers of fate converge where chaos wears painted masks and the vault of stars gleams eternal.",
+      "hint": "One reflects luck, one brings fortune's test, one watches from above, one strikes with electric breath, one judges performance, and one guides the way."
+    },
+    "easyRiddle": {
+      "text": "Find the night watcher, the quick striker, the center of games, the painted trickster, the cosmic jewel, and the target's heart.",
+      "hint": "Look for: moon, lightning, dice, joker, star, and target in the lottery"
+    },
+    "answer": [
+      3,
+      5,
+      11,
+      19,
+      21,
+      0
+    ]
   }
 }
