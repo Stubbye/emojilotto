@@ -45429,5 +45429,23 @@
       19,
       21
     ]
+  },
+  "sol_2131": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's painted wheel, six ethereal guardians converge. The winged messenger ascends where lunar shadows play, while crystalline brilliance reflects the jester's eternal grin. Between the archer's perfect mark and nature's humble bloom, destiny's electric serpent coils through prismatic silence.",
+      "hint": "Look for: ascension, destiny's games, celestial bodies, precious light, the fool's laughter, and life's simplest grace"
+    },
+    "easyRiddle": {
+      "text": "Six lucky charms hide here: a rocket reaching high, a gem that sparkles bright, the moon watching above, lightning that strikes fast, a joker with a grin, and a flower standing tall.",
+      "hint": "One flies up, one shines, one watches night, one flashes, one laughs, one grows"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      14
+    ]
   }
 }
