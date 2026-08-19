@@ -45609,5 +45609,23 @@
       4,
       8
     ]
+  },
+  "sol_2142": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentries guard the threshold between chaos and grace. The archer's mark gleams with prismatic tears, while winged metamorphosis spirals through electric silence. A jester's laughter echoes where luck's lightning conducts the symphony of infinite possibility.",
+      "hint": "Consider both the instruments of chance and the symbols of transformation, where brilliance dwells in unexpected unions."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this verse: one marks your aim, one splits the sky with fury, one glitters with inner light, one spreads its wings reborn, one laughs in fool's costume, and one crowns the victor. Which six dance in the lottery's dream?",
+      "hint": "Think of targets, electricity, gems, flying creatures, tricksters, and champions."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      8,
+      19,
+      17
+    ]
   }
 }
