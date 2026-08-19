@@ -45123,5 +45123,23 @@
       13,
       19
     ]
+  },
+  "sol_2115": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets hide beneath veils of chance. The archer's mark meets the serpent's dream, while wings of metamorphosis brush against crystalline fate. Thunder's child and the jester's grin complete this constellation of destiny.",
+      "hint": "One guides arrows, one coils in sky-lore, one transforms, one sparkles with structure, one roars with sound, one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the dragon's might, the butterfly's grace, the crystal's shine, the lightning's strike, and the joker's play.",
+      "hint": "Look for: something you shoot at, something mythical, something that transforms, something precious, something electric, and something that tricks."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      20,
+      5,
+      19
+    ]
   }
 }
