@@ -46131,5 +46131,23 @@
       8,
       10
     ]
+  },
+  "sol_2166": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a masked jester's laughter echoes through prismatic depths. The winged creature of metamorphosis spirals toward destiny's gleaming heart, while thunder's kiss ignites the stage of infinite possibility. Seek the emblem of victory where chaos and grace converge in crystalline harmony.",
+      "hint": "Look for the symbols of chance, transformation, and triumph hidden within the carnival of cosmos."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning, the joker's grin, the butterfly's dance, the gem's sparkle, the star's glow, and the trophy's shine. These six speak of chance, chaos, rebirth, wealth, hope, and glory.",
+      "hint": "One brings storms, one brings laughs, one brings change, one brings riches, one brings light, one brings victory."
+    },
+    "answer": [
+      5,
+      19,
+      8,
+      2,
+      21,
+      17
+    ]
   }
 }
