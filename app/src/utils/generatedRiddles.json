@@ -45915,5 +45915,23 @@
       9,
       10
     ]
+  },
+  "sol_2156": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six whispers dance in destiny's game. The jester's twin masks guard a prism's gleam, while wings of metamorphosis chase the dream. A vault of crystalline hearts beneath the glow, where thunderous fortune reaps what fortunes sow.",
+      "hint": "Look for the performer, the stone's true face, and what transforms in night's embrace"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hidden in plain sight: a goal to strike, a path of light, a glowing gem, a night so bright, a cosmic spark, and laughter's height.",
+      "hint": "Think of winning, shining things, and what makes spirits dance on wings"
+    },
+    "answer": [
+      0,
+      4,
+      5,
+      1,
+      20,
+      19
+    ]
   }
 }
