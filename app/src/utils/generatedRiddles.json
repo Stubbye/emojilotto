@@ -46221,5 +46221,41 @@
       4,
       8
     ]
+  },
+  "sol_2172": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and gemstone whispers dance with lightning's desire. The mystic fox leaps through prismatic arcs, while dragon's breath ignites the darkest marks. Six secrets hide in chaos and in light, where butterfly and crystal merge in night.",
+      "hint": "One guides, one burns, one glimmers bright. A trickster roams where colors take flight. A winged grace and ancient might."
+    },
+    "easyRiddle": {
+      "text": "I contain a target and a flame so bright, a gem that sparkles and lightning's might. A fox runs swift, a dragon takes flight, and butterfly dances in rainbow light.",
+      "hint": "Look for: aim, heat, treasure, shock, cunning, and wings"
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      4,
+      13,
+      8
+    ]
+  },
+  "emlo_783": {
+    "hardRiddle": {
+      "text": "To the moon we rocket with lightning speed, through fire and sparkles the memecoin creed. A gem shines bright like a star so true, which six celestial symbols guide our crew?",
+      "hint": "Look for symbols of speed, precious things, brightness, and the journey upward"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 is precious, ✨ gleams bright, 🌙 is above, and ⭐ twinkles. Which six make a memecoin blast?",
+      "hint": "One flies, one zaps, one sparkles, one shines, one is high, and one is priceless"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      9,
+      3,
+      21
+    ]
   }
 }
