@@ -45969,5 +45969,23 @@
       8,
       20
     ]
+  },
+  "sol_2159": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial flame, six guardians dance in destiny's game. The jester's twin souls spin fate's cruel wheel, whilst the winged maiden weaves what is real. The prism of dreams and the hunter's bright call converge at the moment when lightning meets all.",
+      "hint": "Consider what spins, what flies, what hunts, what shines, what calls from above, and what strikes."
+    },
+    "easyRiddle": {
+      "text": "I am six: one strikes from sky, one hunts the night, one spins for luck, one flies with grace, one glows with pride, and one burns bright. What am I?",
+      "hint": "Think of chaos, cunning, chance, beauty, achievement, and heat."
+    },
+    "answer": [
+      5,
+      4,
+      11,
+      8,
+      17,
+      6
+    ]
   }
 }
