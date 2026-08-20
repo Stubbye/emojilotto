@@ -45753,5 +45753,23 @@
       8,
       0
     ]
+  },
+  "sol_2149": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six spirits dance betwixt the veils of desire. The jester's twin gleams in scaled shadow's keep, while petals kiss the storm that makes angels weep. In crystal depths, the winged wanderer finds what glimmers where rainbow's end unwinds.",
+      "hint": "One pierces targets, one ignites the sky, one wears two faces, one has gems that fly, one breathes ancient wisdom's golden breath, one transforms in nature's graceful death."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: aim straight and true, something bright that lights the blue, laughter's mask worn by the sly, a creature scaled that can fly high, a precious stone that catches light, and change itself with graceful flight.",
+      "hint": "Think of: accuracy, sky, trickery, dragons, jewels, and insects."
+    },
+    "answer": [
+      0,
+      1,
+      7,
+      13,
+      20,
+      8
+    ]
   }
 }
