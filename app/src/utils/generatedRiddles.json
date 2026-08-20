@@ -46203,5 +46203,23 @@
       15,
       20
     ]
+  },
+  "sol_2171": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The archer's mark meets the cosmic ascent, while crystalline wealth glimmers beside the night's sovereign. A tempest of light joins the masked revelry, and nature's winged transformation completes the sacred circle. What symphony of fortune awaits those who decipher this celestial puzzle?",
+      "hint": "One points, one rises, one glows precious, one rules the night, one strikes with fury, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this verse: A target for precision, a rocket for the sky, a gem so bright and shining, the moon that rules the night, lightning fast and crackling, and a butterfly in flight. Name them all and claim your prize!",
+      "hint": "Think of aim, space travel, treasure, the night sky, electricity, and insects."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
