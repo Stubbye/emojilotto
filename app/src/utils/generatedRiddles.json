@@ -45735,5 +45735,23 @@
       14,
       13
     ]
+  },
+  "sol_2148": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the archer's zeal. Beneath the crescent's watchful eye, six treasures whisper of luck that shall not die. The winged jester leaps through storms of chance, while crystal brilliance joins the cosmic dance.",
+      "hint": "Seek the showman, the night guardian, the spark of chaos, the gem of eternity, the joker of wings, and the bull's-eye of dreams."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune hide in this verse: the moon glows bright, the rocket flies high, the diamond shines, the joker laughs, the butterfly soars, and the target waits.",
+      "hint": "One celestial, one flying machine, one precious stone, one jester, one insect, one bullseye."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      11,
+      8,
+      0
+    ]
   }
 }
