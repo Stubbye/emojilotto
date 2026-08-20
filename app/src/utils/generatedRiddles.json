@@ -46041,5 +46041,23 @@
       3,
       6
     ]
+  },
+  "sol_2162": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six harbingers dance in cosmic space. The winged metamorphosis seeks the crown, as nature's spark ignites the down. Twin serpents coil through gemstone light, while celestial flame burns fierce and bright.",
+      "hint": "Think of transformation, prizes, celestial bodies, and what lies between earth and eternity."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: one aims true, one flies to stars, one sparkles bright, one transforms, one roars with power, one glows above.",
+      "hint": "A target, a rocket, a butterfly, a gem, a dragon, and the moon."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      2,
+      13,
+      3
+    ]
   }
 }
