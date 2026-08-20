@@ -46185,5 +46185,23 @@
       14,
       21
     ]
+  },
+  "sol_2170": {
+    "hardRiddle": {
+      "text": "Where celestial wanderers dance in phosphorescent threads, a crimson serpent coils beneath the jester's grin. The archer's bull seeks fortune's gleam, while wings of transformation trace the arc of chaos. Six truths hide in metamorphosis—one strikes the heavens, one burns eternal, one mimics the wise, one glimmers with rebirth, one guards with scales of thunder, and one mocks all certainty.",
+      "hint": "Lightning brings the storm, fire consumes desire, fox deceives perception, butterfly transforms being, dragon commands primal forces, joker inverts all meaning."
+    },
+    "easyRiddle": {
+      "text": "A quick fox outruns the lightning. The dragon breathes fire. The joker laughs at the butterfly's transformation. Together they dance in the electric sky.",
+      "hint": "Think of creatures and forces that move fast, burn bright, laugh, transform, command, and shock."
+    },
+    "answer": [
+      13,
+      6,
+      19,
+      8,
+      15,
+      20
+    ]
   }
 }
