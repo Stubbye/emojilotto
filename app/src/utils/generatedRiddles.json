@@ -46257,5 +46257,23 @@
       3,
       21
     ]
+  },
+  "sol_2173": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, six dancers of fate converge in shadow's theatre. The jester's twin flame ignites beneath gemstone's glow, while wings of transformation flutter through prism's flow. Luck's symbol crowns the stage where masked souls perform, and lightning splits the veil between form and storm.",
+      "hint": "Think of a stage show under starlight, where chaos and chance intertwine with beauty."
+    },
+    "easyRiddle": {
+      "text": "Find the target of a lucky shot, the gem that shines bright, the joker's twisted twin, the spark that cuts night, the butterfly's rainbow path, and the masks where players ignite.",
+      "hint": "One aims, one glows, one laughs, one strikes, one floats, one hides identity."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      5,
+      8,
+      19
+    ]
   }
 }
