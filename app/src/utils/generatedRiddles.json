@@ -46059,5 +46059,23 @@
       13,
       3
     ]
+  },
+  "sol_2163": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked performer spins beneath Luna's gaze. A jeweled prism catches lightning's fleeting kiss, while wings of metamorphosis flutter through spiraling chaos. Six entities converge where destiny's arrow finds its mark in the space between dreams and chance.",
+      "hint": "One shines above, one burns bright, one transforms, one entertains, one glimmers, and one decides."
+    },
+    "easyRiddle": {
+      "text": "Find the night guardian, the spark of power, the treasure that gleams, the actor with many faces, the creature reborn, and the instrument of fate's aim.",
+      "hint": "Night sky, electricity, precious stone, theater, insect, and a target game."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      19,
+      8,
+      0
+    ]
   }
 }
