@@ -46275,5 +46275,23 @@
       8,
       19
     ]
+  },
+  "sol_2174": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jeweled spirit ascends through prismatic gates. The trickster's smile gleams beneath lunar whispers, as fortune's arrows pierce the veil between chaos and destiny.",
+      "hint": "Seek the intersection of luck, light, and celestial mischief. One burns, one rises, one glimmers with secrets."
+    },
+    "easyRiddle": {
+      "text": "I shine in the night sky above, I sparkle with value and grace, I dance with mischief and tricks, I burn with fierce heat, I surge with electric power, and I guide all fortune seekers.",
+      "hint": "Count the treasures: celestial orb, precious stone, jester's grin, dancing flames, crackling energy, and starlight guide."
+    },
+    "answer": [
+      1,
+      2,
+      19,
+      6,
+      4,
+      21
+    ]
   }
 }
