@@ -46077,5 +46077,23 @@
       8,
       0
     ]
+  },
+  "sol_2164": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's grin reflects in crystalline depths. A winged metamorphosis ascends through prismatic veils, while the thunderbolt's kiss ignites the vault of chaos. Six secrets hide within: the archer's eternal mark, the ascending chariot of ambition, the wealth beneath the earth's crown, the nocturnal sovereign's gaze, the celestial serpent's ancient wisdom, and the moment when light fractures into infinite possibility.",
+      "hint": "Think of progression, transformation, wealth, time, mythology, and the spectrum itself"
+    },
+    "easyRiddle": {
+      "text": "One is a target, one climbs the sky, one shines precious and bright. One watches from above, one strikes with power, one brings many colors. What are these six?",
+      "hint": "Look for: something you aim at, something that flies up, something valuable, something in the night sky, something that goes boom, and something beautiful after rain"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
   }
 }
