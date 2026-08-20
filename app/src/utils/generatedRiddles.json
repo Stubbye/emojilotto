@@ -46023,5 +46023,23 @@
       14,
       19
     ]
+  },
+  "sol_2161": {
+    "hardRiddle": {
+      "text": "Where celestial flames dance with fortune's wheel, and nature's winged poet meets the jester's seal. Six treasures hide in symmetry's embrace: a scaled leviathan guards the mystic space, while crystalline fragments catch the heavens' light, and chaos spins where destiny takes flight.",
+      "hint": "Look for mythical power, comedic deception, geometric chance, and the meeting of earth and sky"
+    },
+    "easyRiddle": {
+      "text": "I contain six lucky symbols: a creature with scales and fire, a playing piece of chance, one who wears false faces, a sparkle from above, a jester of tricks, and a stone of pure brilliance. What are we?",
+      "hint": "Think of dragons, dice, masks, stars, jokers, and gems"
+    },
+    "answer": [
+      13,
+      11,
+      19,
+      21,
+      3,
+      6
+    ]
   }
 }
