@@ -45951,5 +45951,23 @@
       4,
       14
     ]
+  },
+  "sol_2158": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers converge in destiny's trance. The archer's aim strikes gold beneath night's veil, while thunder's kiss ignites the mystic trail. Wings of transformation flutter through prism's light, as nature's bloom and crystalline brilliance unite in sight.",
+      "hint": "Look for: precision, ascension, wealth, darkness, electricity, and metamorphosis intertwined with natural and celestial elements"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain view: aim for the bullseye, reach for the stars, collect the sparkles, chase the lightning, watch the butterfly dance, and admire the crystal's glow.",
+      "hint": "One targets, one shines above, one glitters, one strikes, one transforms, one refracts"
+    },
+    "answer": [
+      0,
+      21,
+      10,
+      4,
+      8,
+      20
+    ]
   }
 }
