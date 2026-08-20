@@ -46095,5 +46095,41 @@
       4,
       9
     ]
+  },
+  "sol_2165": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate converge in shadow's light. The jester's twin-faced grin meets scales of chance, while scaled majesty and winged metamorphosis dance. Between the spectrum's arc and crystalline throne, destiny's sparks ignite what luck has sown.",
+      "hint": "One brings laughter, one brings change, one brings power, one brings wings, one brings arcs, one brings gems."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I roll the dice, I wear two faces and pay the price. A dragon gleams, a butterfly soars, while crystals shine and rainbows pour. Six symbols hide the lucky way—can you name them all today?",
+      "hint": "Think of: aiming, gambling, performing, flying, weather, and sparkle."
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      8,
+      9,
+      21
+    ]
+  },
+  "emlo_782": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with electric speed, gaining gems along my journey. When fortune strikes like lightning, my kaleidoscopic wings flutter toward the glittering prize, where crystal luck meets the cosmic dance.",
+      "hint": "Think of a memecoin's journey to success with elements of luck and transformation"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gems shine bright, moon glows high, butterfly dances, and sparkles twinkle. What six things make a memecoin moon?",
+      "hint": "Look for symbols of speed, wealth, mystique, destiny, beauty, and magic"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      8,
+      10
+    ]
   }
 }
