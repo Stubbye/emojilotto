@@ -45825,5 +45825,23 @@
       13,
       14
     ]
+  },
+  "sol_2152": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six whispers dance between desire and wire. The jester's grin adorns the night's dark throne, while crystalline tears fall where dreams have flown. A phoenix burns within the masked charade, and fortune's wheel spins where the lightning blade. Between the cosmic pulse and earthbound flame, six secrets hold the lottery's true name.",
+      "hint": "Look for the trickster among the stars, where gemstones catch what lightning bars."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's aim, the sky's bright crown, the jester's laugh, the crystal's frown, the mask's disguise, and lightning's sting. Six magic items—now tell me everything!",
+      "hint": "One shoots straight, one shines above, one tricks with glee, one sparkles with love, one hides the face, one strikes with might."
+    },
+    "answer": [
+      0,
+      19,
+      12,
+      21,
+      18,
+      5
+    ]
   }
 }
