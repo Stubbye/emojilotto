@@ -45879,5 +45879,41 @@
       4,
       18
     ]
+  },
+  "sol_2155": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a winged metamorphosis seeks the archer's mark. Seven-pointed radiance crowns the jester's domain, while crystalline brilliance whispers secrets to the nocturnal sentinel. In chaos of chance, the untamed trickster grins beneath spectrum's arc.",
+      "hint": "Look to the sky, the game, and the creature that changes form. One glimmers with luck, one brings fortune's test, one reflects the thief's cunning nature."
+    },
+    "easyRiddle": {
+      "text": "I am the flame of chance combined with heavenly light. A butterfly transforms while lucky symbols align. Where laughter hides and spectrum shines, fortune finds the clever mind.",
+      "hint": "Think of: something that burns, something in the sky, something that changes, something lucky, something hidden, and something colorful."
+    },
+    "answer": [
+      5,
+      21,
+      8,
+      1,
+      19,
+      9
+    ]
+  },
+  "emlo_780": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights, sparkle with fortune's brilliant light. My gem-like value burns with electric might, while lightning strikes guide the butterfly's flight. Rainbow waves dance as the trophy gleams—this memecoin rocket fuels all your crypto schemes.",
+      "hint": "Think of the journey from Earth to riches: launch, shine, energy, transformation, victory, and colorful dreams."
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon where gems sparkle bright. Lightning brings electric gains, and the rainbow shows your wealth's new height!",
+      "hint": "Count the emojis: a vehicle, a destination, treasure, energy, light, and color."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      10
+    ]
   }
 }
