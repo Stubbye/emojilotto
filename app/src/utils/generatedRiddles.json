@@ -45771,5 +45771,41 @@
       20,
       8
     ]
+  },
+  "sol_2150": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six secrets dance in prismatic desire. The jester's twin masks blur truth's refrain, while scaled majesty guards the rainbow's domain. Wings of transformation flutter through night's embrace, as luck's crystalline geometry claims its place.",
+      "hint": "Seek the archer's mark, the flame that ascends, the performer's shadow, the ancient serpent's bends, the metamorphosing creature, and the faceted stone of chance."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one burns bright, one wears two faces, one flies in flight. One sparkles hard, one shifts in hue. These six dance together—can you find what's true?",
+      "hint": "Think of: something that targets, something hot, something theatrical, something mythical with wings, something precious and clear, and something colorful and arched."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      13,
+      8,
+      20
+    ]
+  },
+  "emlo_779": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar sphere, sparkling with electric energy. Fortune's jester dances where gems ignite the night sky. What six celestial tokens guide the moon-bound voyage?",
+      "hint": "Think of a memecoin journey: the transport, the destination, precious rewards, cosmic luck, entertainment value, and magical shimmer."
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙 with ⚡ speed, 💎 rewards shine bright, 🤡 laughs at luck, and ✨ magic everywhere!",
+      "hint": "Count the emojis in the riddle text itself - they spell out the answer!"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      11,
+      19,
+      20
+    ]
   }
 }
