@@ -45807,5 +45807,23 @@
       19,
       20
     ]
+  },
+  "sol_2151": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, a jester's twin watches fortune's gleams. The archer's mark dissolves in night, while scaled guardian hoards spectral light. Winged dancer treads on prismed arc, as chaos tumbles through the dark.",
+      "hint": "Think of celestial bodies, court entertainment, gemstones, and natural phenomena that shimmer or shine."
+    },
+    "easyRiddle": {
+      "text": "One shoots toward stars, one glitters bright, one rules the sky at witching night. A trickster grins, a dragon sleeps, and on a rainbow dancer leaps.",
+      "hint": "A launching device, a precious stone, the moon, a playing card character, a magical creature, and a colorful arc."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      9,
+      13,
+      14
+    ]
   }
 }
