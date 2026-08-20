@@ -46167,5 +46167,23 @@
       7,
       9
     ]
+  },
+  "sol_2168": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a jeweled serpent coils through starlit space. The trickster grins beneath twin masks of fate, while thunder's kiss ignites the cosmic gate. Six whispers dance between the sacred and profane—can you name the children of chance's domain?",
+      "hint": "One flies with purpose, one guards ancient dreams, one wears deception, one strikes with beams, one breathes infinity, one laughs at rules."
+    },
+    "easyRiddle": {
+      "text": "A pointed path, a glittering prize, a cosmic watcher in midnight skies. A prankster bold, a beast divine, lightning strikes and flames combine. What six form the lottery's shrine?",
+      "hint": "Think of targets and treasures, celestial sights, trickery and power, dragons and lights."
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      4,
+      14,
+      21
+    ]
   }
 }
