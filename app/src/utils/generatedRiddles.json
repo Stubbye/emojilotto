@@ -45717,5 +45717,23 @@
       19,
       6
     ]
+  },
+  "sol_2147": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the trickster's masquerade unfolds beneath Luna's gaze. Six sentinels of fate converge: the winged metamorphosis spirals through prismatic arcs, while crystalline brilliance shatters in thunderous crescendos, and the vulpine deceiver grins amid nature's fleeting bloom.",
+      "hint": "Consider what transforms, what strikes, what glimmers, what masks truth, what blooms briefly, and what hunts in shadows."
+    },
+    "easyRiddle": {
+      "text": "I contain six symbols of luck and wonder: a creature that transforms, a bolt from above, something that sparkles bright, a trickster's smile, a delicate plant, and a clever beast. What lottery numbers am I?",
+      "hint": "One flies and changes, one strikes fast, one shines, one tricks, one grows, one hunts."
+    },
+    "answer": [
+      8,
+      4,
+      10,
+      19,
+      14,
+      13
+    ]
   }
 }
