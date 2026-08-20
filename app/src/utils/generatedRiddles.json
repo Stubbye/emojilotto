@@ -46149,5 +46149,23 @@
       21,
       17
     ]
+  },
+  "sol_2167": {
+    "hardRiddle": {
+      "text": "Where fortune's heart beats in the velvet void, six celestial dancers convene. The jester's grin meets the scales of chance, while lightning traces destiny's seam. A crystalline guardian reflects the performer's ancient stage, and the shapeshifter's cunning weaves through prismatic threads of fate.",
+      "hint": "Consider what watches from darkness, what decides, what laughs, what glimmers with truth, what transforms, and what celebrates with light."
+    },
+    "easyRiddle": {
+      "text": "Find the midnight guardian, the gambler's friend, the trickster's mask, the frozen fire, the master of illusion, and the bridge of colors that follows the storm.",
+      "hint": "One rules the night sky, one determines winners, one brings laughter, one sparkles coldly, one performs wonders, one appears after rain."
+    },
+    "answer": [
+      3,
+      11,
+      18,
+      20,
+      7,
+      9
+    ]
   }
 }
