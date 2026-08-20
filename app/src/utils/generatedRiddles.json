@@ -45987,5 +45987,41 @@
       17,
       6
     ]
+  },
+  "sol_2160": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale eye, a crystalline vessel catches what burns in the celestial theatre. The jester's grin mirrors the dancer of storms, while petals bloom in the space between laughter and chance. Six mysteries converge where luck pirouettes.",
+      "hint": "Think of games of chance, celestial bodies, and the performance of destiny itself."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one glows above, one shines bright and clear, one dances with electricity, one is a precious stone, and one performs for your amusement.",
+      "hint": "Look for: something that shoots, something in the night sky, something sparkly, something electric, something gemstone-like, and something entertaining."
+    },
+    "answer": [
+      0,
+      3,
+      10,
+      4,
+      2,
+      19
+    ]
+  },
+  "emlo_781": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-like value sparkles as I rise. The dragon of fire guides my rocket to glory, where the joker's rainbow fortune awaits the bold.",
+      "hint": "Think of a memecoin's journey: speed, value, ambition, chaos, luck, and colorful gains."
+    },
+    "easyRiddle": {
+      "text": "Fast like lightning, shiny like a gem, aiming high like a rocket at the moon, with fiery dragon energy and a joker's playful spirit.",
+      "hint": "Five things that describe a wild crypto ride."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      14,
+      19
+    ]
   }
 }
