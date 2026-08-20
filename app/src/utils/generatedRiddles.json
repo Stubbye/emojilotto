@@ -45843,5 +45843,23 @@
       18,
       5
     ]
+  },
+  "sol_2153": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through the void, a masked jester's fortune spins beneath the laughing moon. Six harbingers of fate dance: the winged metamorphosis seeks the radiant sphere, while crystalline brilliance fractures into prismatic tears. The archer's eternal mark remains unfound, yet lightning's twin—the gem that burns—calls forth the dragon's ancient gaze. What constellation of destiny completes this masquerade of chance?",
+      "hint": "One is transformation, one is reflection, one is burning truth, one is mythical witness, one is precision's goal, one is structured randomness."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck intertwine: a shape to aim at, a winged dancer, a stone that glows, a night guardian, a force that strikes, and a scaled legend watches from beyond. Name the six.",
+      "hint": "Think of targets, insects, precious things, the sky, weather, and mythology."
+    },
+    "answer": [
+      0,
+      8,
+      2,
+      1,
+      5,
+      13
+    ]
   }
 }
