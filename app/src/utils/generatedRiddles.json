@@ -46293,5 +46293,23 @@
       4,
       21
     ]
+  },
+  "sol_2175": {
+    "hardRiddle": {
+      "text": "Through prismatic veils where fortune dances, six celestial guardians convene. The archer's mark meets the heavens' flame, while jeweled light spirals downward. Winged metamorphosis ascends through ethereal arcs, and crackling destiny splits the veil between realms. Where folly's mask grins and nature's four-leafed whisper intertwines, the cosmic stage awaits those who read the language of chaos.",
+      "hint": "One reflects ambition, one reflects transformation, one reflects chance, one reflects nature's blessing, one reflects brilliance fractured, one reflects the jester's wisdom."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune align: the bull's-eye never misses, the gem that never tarnishes, the moon that guides all travelers, the butterfly born anew, the spark of sudden change, and the clover that brings luck.",
+      "hint": "Think of precision, wealth, guidance, rebirth, power, and fortune."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      8,
+      4,
+      19
+    ]
   }
 }
