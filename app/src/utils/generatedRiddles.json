@@ -45861,5 +45861,23 @@
       5,
       13
     ]
+  },
+  "sol_2154": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six dancers waltz through destiny's gyre. The trickster's smile gleams beneath the gem's ancient throne, while quicksilver wings flutter through the storm-born zone. Seek the mark where lightning crowns the jester's domain, and crystalline brilliance mirrors the arc's refrain.",
+      "hint": "One guides the path, one lights the sky, one deceives with mirth, one glimmers high, one strikes with fury, one transforms to fly."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: something you aim at, something that flies fast, something precious and shiny, something in the night sky, something that zaps, and something with a tricky smile.",
+      "hint": "Think of: a bullseye, speed, value, darkness, electricity, and deception."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      18
+    ]
   }
 }
