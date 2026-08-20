@@ -45933,5 +45933,23 @@
       20,
       19
     ]
+  },
+  "sol_2157": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, a winged seeker spirals toward the gem-crowned sentinel. Through prismatic arcs of chance, the dragon's pearl glimmers in lightning's fleeting kiss, while masked illusions waltz with the wildflower's truth.",
+      "hint": "Look for: a trickster's companion, wings of metamorphosis, a heavenly guardian, precious abundance, cosmic energy, and petals of nature's stage"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where laughter lives: a noble jester grins, bright wings flutter free, the night sky gleams, sparkling riches shine, thunder crackles wild, and petals bloom eternal.",
+      "hint": "Think of: entertainment, transformation, the sky, wealth, power, and gardens"
+    },
+    "answer": [
+      19,
+      8,
+      21,
+      5,
+      4,
+      14
+    ]
   }
 }
