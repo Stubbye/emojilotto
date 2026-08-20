@@ -45681,5 +45681,41 @@
       8,
       13
     ]
+  },
+  "sol_2146": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets the archer's mark, and fortune's gleam ignites the night. Wings of metamorphosis dance through prismatic tears, while thunder's fury crowns the blazing sentinel. In this choreography of chance, six symbols intertwine—one gazes downward from infinity's throne, one pierces the veil between worlds, one refracts all light into stolen dreams, one splits the heavens with its ancient voice, one consumes all that feeds its hunger, and one transforms the ordinary into wonder itself.",
+      "hint": "Think of astronomical alignment, transformation, electricity, and the duality of destruction and creation."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow and sky: the silent guardian overhead, the chariot that defies gravity, the stone that captures starlight, the crack in night's fabric, the element that hungers, and the insect reborn from darkness.",
+      "hint": "One is above, one soars, one glows, one strikes, one burns, and one was once a caterpillar."
+    },
+    "answer": [
+      1,
+      6,
+      5,
+      9,
+      20,
+      8
+    ]
+  },
+  "emlo_778": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gems sparkle as fortune strikes like thunder, while the jester laughs beneath the big top tent, and nature's winged beauty dances in my glow.",
+      "hint": "Think of a memecoin journey: speed to riches, luck, entertainment, and transformation."
+    },
+    "easyRiddle": {
+      "text": "What has a 🚀 going to the 🌙, a ⚡ strike of luck, a 💎 to find, a 🦋 for change, a 🃏 for fun, and a 🎪 for the ride?",
+      "hint": "These are the symbols of crypto dreams and memecoin madness."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      8,
+      19,
+      6
+    ]
   }
 }
