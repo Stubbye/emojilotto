@@ -46635,5 +46635,23 @@
       8,
       22
     ]
+  },
+  "sol_2192": {
+    "hardRiddle": {
+      "text": "Where fortune's winged sentinel pierces the veil between worlds, six secrets sleep: the archer's dream meets heaven's pearl, while chaos dances with ancient scaled wisdom. A jester's mask conceals the path where crimson hunger devours all, yet from ash blooms nature's fleeting grace. Seek the number where celestial fire kisses the night.",
+      "hint": "One points, one flies high, one glows cold, one wears many faces, one consumes, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await: a target for the bold, a rocket for dreamers, a gem that sparkles with fortune, the moon watching over fate, lightning striking quick luck, and fire burning bright success.",
+      "hint": "Think of things that represent winning: aim, journey, treasure, night, speed, and passion."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
