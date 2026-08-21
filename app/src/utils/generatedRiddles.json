@@ -46779,5 +46779,23 @@
       19,
       8
     ]
+  },
+  "sol_2199": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, through crystalline tears a serpent ablaze dances with masked reverie. The jester's laughter echoes where celestial fire weeps, and twin souls pirouette upon fortune's precipice—one bearing nature's crown, the other cloaked in shadow's ancient mystery.",
+      "hint": "Seek the meeting of aim and cosmos, where ice reveals flame, performance conceals truth, and the crown blooms eternal while darkness coils."
+    },
+    "easyRiddle": {
+      "text": "I am six things: One shoots straight and true, one glows above in night's dark brew, one sparkles hard and cold, one wears a painted grin bold, one blooms in nature's dress, and one slithers in duress.",
+      "hint": "Think of: precision, sky, gemstone, theater, garden, and danger."
+    },
+    "answer": [
+      0,
+      21,
+      20,
+      19,
+      14,
+      13
+    ]
   }
 }
