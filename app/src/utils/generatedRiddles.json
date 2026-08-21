@@ -46491,5 +46491,23 @@
       4,
       14
     ]
+  },
+  "sol_2184": {
+    "hardRiddle": {
+      "text": "Where celestial fortune pirouettes through prismatic veils, the archer's intent meets the serpent's ancient wisdom. Lightning's kiss adorns the masquerade of fate, while crystalline tears weep beneath the jester's eternal grin. One blooms in silent revolution.",
+      "hint": "Seek the intersection of destiny, chaos, and theatrical deception—where gemstones hold secrets and music sleeps in shadow."
+    },
+    "easyRiddle": {
+      "text": "A bright circle watches from above. A storm's bright flash strikes twice. A prankster grins wide. A stone cuts light. A mask hides truth. A bloom opens slowly.",
+      "hint": "Think of night sky, weather, jokes, jewelry, theater, and gardens."
+    },
+    "answer": [
+      1,
+      4,
+      19,
+      20,
+      21,
+      14
+    ]
   }
 }
