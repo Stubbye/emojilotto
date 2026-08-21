@@ -46833,5 +46833,23 @@
       8,
       0
     ]
+  },
+  "sol_2203": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, and fortune's gem lies cloaked in night's descent. The serpent coils where luminescence breaks, while masked deceit in revelry partakes. The winged metamorphosis dances through the arc, and nature's bloom ignites the sacred spark.",
+      "hint": "Six keepers of destiny: one aims, one climbs, one glimmers, one reigns in darkness, one deceives, one transforms."
+    },
+    "easyRiddle": {
+      "text": "I point and strike, I rise so high, I sparkle bright beneath the sky. A serpent guards the masquerade, while butterfly and flower fade. What six shall claim the lottery's prize?",
+      "hint": "Think of targets, rockets, gems, darkness, trickery, and nature's dancers."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      14
+    ]
   }
 }
