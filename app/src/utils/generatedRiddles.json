@@ -46545,5 +46545,23 @@
       5,
       13
     ]
+  },
+  "sol_2187": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a celestial dancer twirls through crystalline fire. The trickster's grin holds masquerade truths, while nature's smallest metamorphosis carries wishes on prismatic wings. Six harbingers of destiny converge—one aimed at heaven's eye, one ascending through starlit breach, one gleaming with earthborn tears, one watching from lunar throne, one consuming all in electric wrath, one veiled in theatrical deceit.",
+      "hint": "Seek the symbols of chance, celestial bodies, elemental chaos, and transformative magic. One is a projectile, one is a precious stone, one is a trick-bearer, and three belong to nature's spectrum."
+    },
+    "easyRiddle": {
+      "text": "Six symbols spin in fortune's wheel: a pointed weapon of dreams, a stone of great value, a cosmic body in darkness, a burst of wild energy, a masked deceiver, and a winged creature born anew.",
+      "hint": "Think of things that sparkle, things that fly, things that trick, and things that illuminate the night."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      5,
+      19,
+      22
+    ]
   }
 }
