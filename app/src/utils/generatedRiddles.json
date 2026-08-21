@@ -46419,5 +46419,23 @@
       4,
       8
     ]
+  },
+  "sol_2181": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six omens dance through chaos and acclaim. The jester's grin beneath the gemstone's gleam, a winged metamorphosis through the starlit dream. Thunder splits the stage where spectral wings ignite, and crystalline promises shimmer through the night.",
+      "hint": "Think of performance, chance, transformation, and the meeting of earth and cosmos."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: one aims with precision, one flies through space seeking distant vision, one sparkles with value most rare, one glows in darkness up there, one crackles with power so bright, and one shifts through stages of night.",
+      "hint": "Consider: accuracy, travel, gems, celestial bodies, weather, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
   }
 }
