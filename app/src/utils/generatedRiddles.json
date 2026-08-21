@@ -46689,5 +46689,23 @@
       8,
       22
     ]
+  },
+  "sol_2194": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, seven sisters dance in twilight's lace. The winged deceiver guards the throne of chance, while celestial fire in spirals prance. Fortune's prize gleams in the jester's hand, and luck's small fortune blooms across the land.",
+      "hint": "Think of luck's symbols and fate's grand stage - what six guide the lottery's mystical page?"
+    },
+    "easyRiddle": {
+      "text": "I am the archer's goal, the sky's bright eye, the magician's laugh, the spark that flies high. A gem that glimmers, wings that dart free, and a leafy token of fortune's key.",
+      "hint": "Six lucky symbols: aim, night, jester, bolt, shine, and flutter"
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      5,
+      19,
+      21
+    ]
   }
 }
