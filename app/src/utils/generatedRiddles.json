@@ -46329,5 +46329,41 @@
       11,
       13
     ]
+  },
+  "sol_2177": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, and twin serpents dance through fractured light—seek the jester's grin beneath the storm's fierce kiss, while gemstones whisper secrets only the swift-tailed sage comprehends, all converging where the wheel of fate spins in perpetual twilight.",
+      "hint": "Look for the marksman's aim, the sky's guardian, the trickster, the bolt's kiss, the jeweled truth, and the crimson-furred deceiver."
+    },
+    "easyRiddle": {
+      "text": "A target glows where dreams take flight. A rocket pierces starlit night. A gem holds worth beyond compare. A jester grins without a care. Lightning strikes with brilliant might. A fox outwits both left and right.",
+      "hint": "Six things guide the lottery's way: aim, ascent, treasure, jest, voltage, and cunning."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      4,
+      13
+    ]
+  },
+  "emlo_784": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, a gemstone of fortune guides my creed. Through flames of hype I dance with luck, a joker's grin on my truck. Rainbow waves of sparkles bright, I'm the memecoin reaching moonlight.",
+      "hint": "Look for: speed, gems, fortune, fire, laughter, and cosmic destiny"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright. Lightning strikes with all its might. Fire burns hot, moon glows at night. Which six emojis make the memecoin right?",
+      "hint": "Think of a crypto journey: launch, treasure, speed, heat, destiny, and the final goal"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      3,
+      22
+    ]
   }
 }
