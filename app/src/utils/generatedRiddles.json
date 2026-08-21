@@ -46437,5 +46437,41 @@
       4,
       7
     ]
+  },
+  "sol_2182": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's flame, six vessels of fate dance in shadow's game. The archer's mark holds lightning's kiss, while masked performers spin through crystalline abyss. A scaled leviathan guards gemstones bright, as nature's winged courier takes flight through spectrum's light.",
+      "hint": "One seeks precision, one ignites passion, one sparkles eternal, one deceives wisdom, one breathes ancient power, one transforms beautifully."
+    },
+    "easyRiddle": {
+      "text": "Find the mark of aim, the bolt of power, the stone that shines, the trickster's smile, the serpent wise, and the dancer of wings.",
+      "hint": "Think of: accuracy, electricity, wealth, deception, mythology, metamorphosis."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      18,
+      13,
+      7
+    ]
+  },
+  "emlo_785": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with lightning speed, my gem-filled treasure protected by a dancing joker. When fire ignites my rocket, sparkles rain down on those who hold me. What am I?",
+      "hint": "A memecoin's journey requires speed, luck, and reaching new heights"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes fast, fire burns hot, joker laughs, and sparkles fall. Which six bring fortune to the crypto trader?",
+      "hint": "Look for symbols of speed, wealth, luck, energy, and magic"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      19
+    ]
   }
 }
