@@ -46383,5 +46383,23 @@
       13,
       8
     ]
+  },
+  "sol_2179": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The archer's mark meets the heavens' messenger, while gems crystallize both dream and chance. Between the trickster's grin and the scaled guardian's wisdom, fortune spins where light fractures into infinite possibility.",
+      "hint": "Look for: aim, ascension, wealth, cosmos, deception, and ancient power"
+    },
+    "easyRiddle": {
+      "text": "I need six things: something you aim at, something that flies to space, something shiny and precious, something in the night sky, something that tricks you, and something very old and powerful.",
+      "hint": "target, rocket, gem, moon, joker, dragon"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      14
+    ]
   }
 }
