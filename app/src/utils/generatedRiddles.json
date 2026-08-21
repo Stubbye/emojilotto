@@ -46311,5 +46311,23 @@
       4,
       19
     ]
+  },
+  "sol_2176": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil between terrestrial flames and celestial ice, the jester's twin masks dance with the scaled ancient keeper of hoarded luminescence. Beneath the archer's mark, chaos tumbles eternal while prismatic light bends through crystal geometry.",
+      "hint": "Think of elements that guide, illuminate, and mask truth. One grants wishes, one holds secrets, one rules realms beneath."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where luck meets cosmos: the pointed goal, the cosmic flame above, the gleaming stone of wealth, the laughing fool's two faces, the tumbling bones of chance, and the dragon's ancient hoard of brilliance.",
+      "hint": "Look for targets, sky-fire, gems, tricksters, games of probability, and mythical creatures."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      12,
+      11,
+      13
+    ]
   }
 }
