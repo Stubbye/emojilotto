@@ -46599,5 +46599,23 @@
       14,
       20
     ]
+  },
+  "sol_2190": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens spin in destiny's trance. The archer's dream ignites the night, while scaled wisdom guards the light. Between the masks of chance and glee, a winged soul seeks what cannot be. Crystalline beauty crowns the way, where fortune's lightning holds its sway.",
+      "hint": "Look for: aim, ascension, wealth, darkness, disguise, metamorphosis, and electric fate"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder combine: the bullseye, the rocket climbing so high, the gleaming gem, the dragon so sly, the lightning strike, and the joker's fine line.",
+      "hint": "One points at targets, one flies to space, one glitters bright, one tricks with grace, one rules ancient skies, one crackles with power"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      11
+    ]
   }
 }
