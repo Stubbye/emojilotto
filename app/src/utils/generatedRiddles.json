@@ -46563,5 +46563,41 @@
       19,
       22
     ]
+  },
+  "sol_2188": {
+    "hardRiddle": {
+      "text": "Where fortune's dance begins beneath the celestial sentinel, six secrets lie entwined: the archer's eternal goal kisses the messenger of ascension, while crystalline wealth gleams beside the nocturnal beacon. Chaos whispers through electrical veins, and nature's transformation spirals past the performer's carnival threshold, as radiance cascades through the prism of possibility.",
+      "hint": "Consider what rises, what shines, what targets, what transforms, what electrifies, and where wonder dwells in darkness."
+    },
+    "easyRiddle": {
+      "text": "I seek six harbingers of luck: one marks your aim, one soars to heavens, one glimmers with worth, one rules the night sky, one crackles with power, and one dances on wind as nature's painted ribbon.",
+      "hint": "Think of targets, flight, treasure, darkness, electricity, and colorful arcs in the sky."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
+  },
+  "emlo_786": {
+    "hardRiddle": {
+      "text": "A jester's gamble with electric speed, through cosmic heights where fortunes breed. Crystalline wealth burns bright and bold, as mystic spirals dance in gold. The archer's aim meets dragon's flight, beneath the gem that shines so bright.",
+      "hint": "Think of volatile gains, rapid ascents, and the supernatural luck of cryptocurrency"
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly with lightning speed, gems and fire are all we need. The joker laughs, the dragon soars, as sparkles light our crypto wars.",
+      "hint": "Count the magical and energetic symbols that represent wealth and momentum"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      14,
+      20
+    ]
   }
 }
