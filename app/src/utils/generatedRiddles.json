@@ -46653,5 +46653,41 @@
       4,
       5
     ]
+  },
+  "sol_2193": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's bright flame, through prismatic arc the jester's game flows. Swift messenger pierces the veil of night, while gemstone echoes dance in voltage's might. The winged transformer seeks what glimmers in heights—six threads of destiny intertwine in paradox's light.",
+      "hint": "One ascends, one descends, one transforms, one burns, one strikes, and one holds ancient power."
+    },
+    "easyRiddle": {
+      "text": "I rise to the heavens with fire and speed. A fool laughs while lightning feeds. The moon watches gems sparkle bright, as wings carry hope through the night.",
+      "hint": "Think of luck: what launches it, who mocks it, what powers it, what gems matter, what flies, and what glows."
+    },
+    "answer": [
+      1,
+      17,
+      4,
+      2,
+      8,
+      20
+    ]
+  },
+  "emlo_787": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to celestial heights, where mystical stones spark with electric fortune. The showman's spectacle blazes bright as nature's delicate wings dance through luminous arcs of destiny.",
+      "hint": "Think of carnival chaos meeting crypto moonshots"
+    },
+    "easyRiddle": {
+      "text": "What do you need to win big? A funny hat, a shiny rock, electricity in the air, a bright burst, a flying bug, and a bow above the clouds?",
+      "hint": "Count the items: fool's luck + treasure + power + flash + creature + weather"
+    },
+    "answer": [
+      19,
+      2,
+      4,
+      5,
+      8,
+      22
+    ]
   }
 }
