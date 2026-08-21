@@ -46509,5 +46509,23 @@
       21,
       14
     ]
+  },
+  "sol_2185": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, a jester's grin betrays the chromatic trance. Six whispers of fate: the archer's distant sphere, the serpent's ancient coil through clouds sincere, the fool's twin mask in revelry's gleam, the prism's fractured wish, a lover's fevered dream, and where the heavens bleed their electric scream—find them all, and luck shall crown your scheme.",
+      "hint": "One hunts, one soars, one deceives, one slithers, one divides the sky, one bends the spectrum."
+    },
+    "easyRiddle": {
+      "text": "I am a target and a joker playing games. I am a dragon and lightning with burning flames. I am a palette that paints the sky. Find these six and watch your fortunes fly.",
+      "hint": "Look for: something you aim at, a trickster, a mythical beast, electricity, an artist's tool, and the storm itself."
+    },
+    "answer": [
+      0,
+      13,
+      12,
+      4,
+      23,
+      6
+    ]
   }
 }
