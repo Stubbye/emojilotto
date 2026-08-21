@@ -46617,5 +46617,23 @@
       4,
       11
     ]
+  },
+  "sol_2191": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and chaos blooms in crystalline symmetry. The jester's grin guards the threshold between earthbound ambition and ethereal ascension, while twin infernos waltz with prismatic fractals in the court of chance.",
+      "hint": "One brings luck, one brings dreams, one brings laughter, one brings light, one brings destruction, one brings illusion."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: the target of desire, the gem that gleams, the moon that guides, the fire that transforms, the joker that deceives, and the star that inspires.",
+      "hint": "Think of games, luck, night sky, danger, trickery, and hope."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      22
+    ]
   }
 }
