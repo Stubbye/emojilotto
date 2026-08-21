@@ -46707,5 +46707,23 @@
       19,
       21
     ]
+  },
+  "sol_2195": {
+    "hardRiddle": {
+      "text": "Where fortune's winged messenger ascends through celestial silence, bearing crystalline promises beneath the jester's eternal grin. The archer's mark glows with ethereal fire, while the serpent of storms dances with ancient laughter, and petals of chaos bloom where masks conceal forgotten truths.",
+      "hint": "One brings luck, one brings speed, one shines bright, one laughs in cards, one strikes swift, one blooms wild."
+    },
+    "easyRiddle": {
+      "text": "I fly with wings but am not alive. I glow in the sky with precious light. A joker's smile hides what is bright. Lightning strikes fast, flowers bloom soft, and fire burns where masks hide their secrets.",
+      "hint": "Think of: a flying creature, something precious, a card player, electricity, nature, and disguise."
+    },
+    "answer": [
+      8,
+      1,
+      21,
+      19,
+      5,
+      15
+    ]
   }
 }
