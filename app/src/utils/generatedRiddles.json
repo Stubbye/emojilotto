@@ -46401,5 +46401,23 @@
       19,
       14
     ]
+  },
+  "sol_2180": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet void, a jeweled serpent coils beneath the celestial sentinel. Thunder's tongue licks amber wings while prismatic veils shimmer—six harbingers dance in destiny's circus, yet only the masked jester knows which hearts beat true.",
+      "hint": "One is aimed, one ascends, one gleams, one watches, one strikes, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Six lucky dancers: a pointed seeker, a fire-breathing climber, a shining stone, a night guardian, an electric messenger, and a winged metamorphosis. Which six paint luck's portrait?",
+      "hint": "Target, Dragon, Gem, Moon, Lightning, Butterfly"
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
