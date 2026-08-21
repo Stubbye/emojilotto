@@ -46851,5 +46851,23 @@
       19,
       14
     ]
+  },
+  "sol_2204": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, a scaled serpent ascends through crystalline tears. The jester's grin masks what the nocturnal eye beholds, while primal heat dances with celestial grace. Six whispers bind the seeker's fate within the constellation of chance.",
+      "hint": "One points the way, one climbs to dreams, one laughs at destiny, one burns eternal, one watches from shadows, one crowns the worthy."
+    },
+    "easyRiddle": {
+      "text": "Find the arrow that aims at luck, the beast that guards treasures, the fool who knows all secrets, the blaze that consumes, the watcher in darkness, and the prize that crowns champions.",
+      "hint": "Aim, climb, laugh, burn, watch, win."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      5,
+      12,
+      17
+    ]
   }
 }
