@@ -46365,5 +46365,23 @@
       3,
       22
     ]
+  },
+  "sol_2178": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, six symbols weave fate's intricate laces. The archer's mark meets the heaven's pale queen, while trickster and serpent guard secrets unseen. Lightning's sharp kiss ignites crystalline dreams, as nature's small jewel flutters through moonbeams.",
+      "hint": "One brings luck, one brings chance, one rules night, one deceives, one strikes swift, one transforms."
+    },
+    "easyRiddle": {
+      "text": "Find the night guardian, the luck bringer, the jester's grin, the swift striker, the mystical serpent, and the dancer of wings.",
+      "hint": "Think of moon, clover, joker, lightning, dragon, and butterfly."
+    },
+    "answer": [
+      3,
+      19,
+      17,
+      4,
+      13,
+      8
+    ]
   }
 }
