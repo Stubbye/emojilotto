@@ -46527,5 +46527,23 @@
       23,
       6
     ]
+  },
+  "sol_2186": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound dreams, six sentinels of fate convene. The archer's mark pierces void's silk, while swift thunder births ascending flame. A jeweled prism catches starlight's whisper, and lunacy waltzes with radiance beyond the spectrum's veil. One creature of dusk wears night's cunning smile, whilst ancient scaled wisdom coils around the stage of jesters and masks.",
+      "hint": "Seek the convergence of sky-bound aspirations, elemental fury, precious reflection, nocturnal trickery, and the eternal struggle between chaos and order."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this celestial circus: a bullseye of destiny, a flame that leaps toward heavens, a gem that holds the cosmos, Luna's silver gaze, a spark of divine mischief, and a cunning beast who steals through shadows with a dragon's ancient mystery coiled close.",
+      "hint": "Think of luck, danger, wealth, night, magic, and cleverness all gathered under one carnival tent of chance."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      1,
+      5,
+      13
+    ]
   }
 }
