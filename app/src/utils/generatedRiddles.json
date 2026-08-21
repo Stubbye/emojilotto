@@ -46725,5 +46725,23 @@
       5,
       15
     ]
+  },
+  "sol_2196": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic dancer's flame, six sentinels of fate converge in shadow's game. The jester's grin precedes the scaled dreamer's flight, while nature's six-petaled crown crowns the vault of night. Seek the prism's song where luck's electric vein strikes true—two keepers of chaos guard the path to breakthrough.",
+      "hint": "A musical performance, a celestial body, cards of chance, fire's fury, reptilian wisdom, and fortune's symbol form your destiny."
+    },
+    "easyRiddle": {
+      "text": "I hold six magical secrets: one points with precision, one dances in the sky, one makes wishes come true, one burns bright with power, one slithers with ancient wisdom, and one guards the circle of chance. What are we together?",
+      "hint": "Think of targets, stars, jesters, flames, dragons, and circles of possibility."
+    },
+    "answer": [
+      0,
+      22,
+      19,
+      6,
+      14,
+      11
+    ]
   }
 }
