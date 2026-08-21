@@ -46473,5 +46473,23 @@
       11,
       19
     ]
+  },
+  "sol_2183": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six mysteries dance in shadow's choir. The jester's twin masks glimpse what fortune may bring, while scales of chance await the crystalline wing. Lightning's twin speaks in silent refrain, and petals bloom where the dragon's eyes remain.",
+      "hint": "Seek the convergence of fate's instruments and nature's fleeting grace"
+    },
+    "easyRiddle": {
+      "text": "Six prizes hide within this verse: a target aims, rockets disperse, a gem that shines, the moon's expanse, lightning strikes, and flowers dance.",
+      "hint": "Three earthly pursuits, two heavenly sights, and one that blooms in nature's lights"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      14
+    ]
   }
 }
