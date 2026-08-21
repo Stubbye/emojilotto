@@ -46797,5 +46797,23 @@
       14,
       13
     ]
+  },
+  "sol_2200": {
+    "hardRiddle": {
+      "text": "Through celestial veil where fortune's arrows pierce, the scaled serpent guards what mortals covet. Twin flames dance upon the jester's grin, while winged beauty emerges from chrysalis dreams. Seven-hued arc crowns the vault of wishes, where facets catch starlight in geometric prayer.",
+      "hint": "Look to the sky, the stage, the transformation, and the precious."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark in heaven's court, a dragon's ancient treasure, a fool's wild mask of mirth, a butterfly's rebirth, a rainbow's prismed arc, and gems that hold the spark.",
+      "hint": "Count the symbols: target, dragon, joker, butterfly, rainbow, and something that shines."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      9,
+      20
+    ]
   }
 }
