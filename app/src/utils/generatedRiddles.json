@@ -46815,5 +46815,23 @@
       9,
       20
     ]
+  },
+  "sol_2201": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate converge. The trickster's grin meets the mystic's scales, while thunder's kiss ignites the gemstone's luminescence. A winged creature spirals through the cosmic tapestry, as the archer's mark aligns with destiny's gleaming reward.",
+      "hint": "One brings luck, one brings chance, one brings laughter, one brings power, one brings transformation, one brings brilliance."
+    },
+    "easyRiddle": {
+      "text": "Find the jester, the lightning strike, the spinning dice, the precious stone, the dancing butterfly, and the circular target. These six hold the secret to your fortune.",
+      "hint": "One is a trickster, one is electricity, one is random, one is valuable, one has wings, one is what you aim for."
+    },
+    "answer": [
+      19,
+      5,
+      11,
+      2,
+      8,
+      0
+    ]
   }
 }
