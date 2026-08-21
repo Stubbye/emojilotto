@@ -46761,5 +46761,23 @@
       20,
       22
     ]
+  },
+  "sol_2198": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's cold breath, six whispers dance: the crimson devour ascends through chaos, the nocturnal guardian watches as prismatic tears weave serpentine paths through shattered symmetry, while the fool's mask grins and the winged metamorphosis seeks what glimmers beyond the veil.",
+      "hint": "Ascension, destruction, celestial witness, spectrum, deception, and transformation intertwine in the gambler's fever dream."
+    },
+    "easyRiddle": {
+      "text": "Six treasures of fortune: one marks your aim, one burns the sky, one crowns the darkness, one breaks and bends, one laughs with lies, one rises reborn.",
+      "hint": "Think of targets, flames, night, storms, tricks, and new beginnings."
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      9,
+      19,
+      8
+    ]
   }
 }
