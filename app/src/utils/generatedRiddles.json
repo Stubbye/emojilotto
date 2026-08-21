@@ -46743,5 +46743,23 @@
       14,
       11
     ]
+  },
+  "sol_2197": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound song, six secrets dance in fortune's throng. The winged metamorphosis seeks the gem beneath the jester's grin, while lightning crowns the archer's spin. In crystalline depths, the dragon's breath ignites the stage where fate is set.",
+      "hint": "One ascends to heaven, one descends to earth, one transforms, one judges, one sparkles with ancient power, one roars with mythic birth"
+    },
+    "easyRiddle": {
+      "text": "I contain: a thing you shoot at, a shimmering stone, a creature with wings that changed its form, a ruler of skies and treasure hoards, a jester's mocking face, and nature's most precious light from above.",
+      "hint": "Think of targets, jewels, insects, beasts, performers, and the night sky"
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      14,
+      20,
+      22
+    ]
   }
 }
