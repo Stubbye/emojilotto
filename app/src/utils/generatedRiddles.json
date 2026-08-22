@@ -47139,5 +47139,23 @@
       11,
       18
     ]
+  },
+  "sol_2220": {
+    "hardRiddle": {
+      "text": "Through prism's dance where fortune bends, six tokens whisper ancient ends. The archer's mark meets heaven's flame, while jester's grin and scaled beast came. Where petals bloom beneath the glow, and sparks of chance through darkness flow.",
+      "hint": "One seeks precision, one seeks sky, one reflects all colors nigh. A trickster, a creature of old lore, sparks that dance forevermore, and nature's delicate winged door."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the fire, the joker's smile and dragon's spire. Add the flower's gentle grace and sparkles dancing through all space.",
+      "hint": "A mark, a flame, a jester, a mythical beast, a bloom, and magic light."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      14,
+      15,
+      10
+    ]
   }
 }
