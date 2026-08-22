@@ -47265,5 +47265,41 @@
       3,
       0
     ]
+  },
+  "sol_2227": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound chance, six ethereal whispers convene: the archer's distant beacon calls to swift ascending fire, while gems of crystalline dreams mirror the nocturnal sovereign. Between them spirals the trickster's grin, and where violence meets delicate grace, the winged metamorphosis completes the sacred circle of destiny's masquerade.",
+      "hint": "One guides ambition, one rises swiftly, one glitters with value, one rules the night sky, one deceives with mirth, and one transforms through beauty."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck align: the archer's mark finds its aim, the rocket pierces the void, the jewel catches all light, the moon watches from above, the joker laughs in riddling tongue, and the butterfly reminds us all things change.",
+      "hint": "Think of targets hit, journeys upward, treasures sought, night's guardian, trickery, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      8
+    ]
+  },
+  "emlo_792": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-encrusted path ignites the fire of fortune. Where rocket and moon dance, the sparkles reveal my true nature—a fox's clever treasure hunt through the circus of chaos.",
+      "hint": "Think of a memecoin's journey: rapid ascent, precious rewards, and the wild unpredictability of the market."
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with a shiny treasure, strike fast like a storm, and aim for the lunar prize. Three emojis show the path: 🚀💎🌙. Add the speed, the glow, and the clever trickster.",
+      "hint": "A successful memecoin needs speed, value, destination, electricity, light, and cunning."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      13
+    ]
   }
 }
