@@ -47499,5 +47499,23 @@
       1,
       12
     ]
+  },
+  "sol_2239": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the jeweled veil. Six symbols weave through destiny's loom: the archer's mark finds the serpent's crown, while the mystic's spark ignites between laughter's mask and nature's emerald guardian.",
+      "hint": "Luck wears many faces - seek the performer, the prize, the chaos, the throne, the jester, and the lucky charm."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures of chance: the target you aim for, the gem that shines bright, the dragon's ancient wisdom, the joker's wild laugh, the lucky four-leaf clover, and the star that guides all wishes.",
+      "hint": "One is aimed at, one sparkles, one flies and roars, one tricks, one brings luck, and one shines in the night sky."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      19,
+      20,
+      21
+    ]
   }
 }
