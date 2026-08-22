@@ -47175,5 +47175,23 @@
       5,
       18
     ]
+  },
+  "sol_2222": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six entities converge in the liminal space between chaos and grace. The archer's eternal mark meets the chariot of ambition, while precious fragments whisper secrets of transformation. Luna's pale gaze witnesses the serpent's ancient wisdom unfold, as the tempest's violent kiss ignites the threshold where joy and thunder intertwine. Seek the number where destiny's six-fold mystery blooms.",
+      "hint": "Think of ascension, treasure, mythical guardians, illumination, raw power, and the bridge between worlds."
+    },
+    "easyRiddle": {
+      "text": "I am six things that sparkle in fortune's dream: a target for wishes, a rocket to the sky, a gem of pure value, the moon watching over, lightning's fierce strike, and a dragon's ancient might. Together we hold the secrets of luck.",
+      "hint": "One guides, one flies, one shines, one watches, one strikes, one guards."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      13
+    ]
   }
 }
