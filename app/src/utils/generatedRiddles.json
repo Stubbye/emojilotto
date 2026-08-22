@@ -47463,5 +47463,23 @@
       5,
       6
     ]
+  },
+  "sol_2236": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, six whispers dance betwixt the veil: the archer's aim meets prismatic dreams, while scales of fate shimmer beneath the moth's eternal flight, and thunder crowns the gemstone's sacred geometry.",
+      "hint": "Consider what guides luck, what reflects light, what moves through darkness, what strikes from above, what transforms, and what measures destiny."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one marks your aim, one ascends to night, one glimmers bright, one strikes with might, one floats on wings of pure delight, and one cuts through the darkness tight.",
+      "hint": "Think of a target, the moon, gems, lightning, a butterfly, and a diamond."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      4,
+      8,
+      20
+    ]
   }
 }
