@@ -47517,5 +47517,23 @@
       20,
       21
     ]
+  },
+  "sol_2241": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the scaled guardian's zeal. Six whispers of fate: the archer's true north, the serpent's ancient breath, the jester's mirth forth, the star's eternal light, the gemstone's prismatic sight, and fortune's die cast into night.",
+      "hint": "One guides arrows, one breathes chaos, one laughs at logic, one shines eternal, one refracts truth, one decides destiny."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance and wonder: a target's center, a dragon's fire, a joker's jest, a star's gleam, a gem's sparkle, and a die's tumble.",
+      "hint": "Look for: aim, scales, cards, sky, jewels, and numbers."
+    },
+    "answer": [
+      0,
+      4,
+      19,
+      21,
+      11,
+      20
+    ]
   }
 }
