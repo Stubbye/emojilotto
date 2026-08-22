@@ -47157,5 +47157,23 @@
       15,
       10
     ]
+  },
+  "sol_2221": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the weaver's dance, six tokens twine in cosmic trance. The jester's grin reflects in gemstone's gleam, while thunder splits the lunar dream. A blaze ascends where wings take flight, and fortune's mark crowns victory's height.",
+      "hint": "One brings laughter, one brings aim, one sparkles bright with wealth's acclaim."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the joker's game, the gem that gleams with fortune's flame, the moon above, the lightning's might, and the trophy shining in the light.",
+      "hint": "Six symbols: a bullseye, a fool, a jewel, a night sky guardian, electricity, and a champion's prize."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      1,
+      5,
+      18
+    ]
   }
 }
