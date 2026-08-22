@@ -47085,5 +47085,23 @@
       13,
       10
     ]
+  },
+  "sol_2218": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial vault, a gemstone burns in lightning's embrace. The butterfly dances through fire's cathedral, while the dragon exhales crystalline starlight across the verdant stage.",
+      "hint": "One pierces destiny, one crowns the night, one blazes eternal, one transforms, one ancient and wise, one eternal and pure."
+    },
+    "easyRiddle": {
+      "text": "Six treasures await: the hunter's mark, the stone of kings, the bolt from heaven, the winged dancer, the scaled guardian, and the eternal beacon above.",
+      "hint": "Think: aim, wealth, energy, metamorphosis, mythology, and infinity."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      8,
+      13,
+      21
+    ]
   }
 }
