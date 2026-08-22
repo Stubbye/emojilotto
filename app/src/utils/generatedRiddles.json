@@ -47247,5 +47247,23 @@
       5,
       9
     ]
+  },
+  "sol_2226": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through fortune's prism, and the trickster's masked reverie dances upon crystalline waves of chance. Six spirits converge: the hunter's crimson blaze, the jester's grinning shadow, the gem that drinks starlight, the sky's electric vein, the lunar sentinel, and the archer's distant circle—all bound in destiny's symphony where chaos wears a painted smile.",
+      "hint": "One hunts in flame, one deceives with grin, one sparkles with wealth, one strikes from above, one rules the night, and one marks the goal. Look for fire's fox, the joker's face, a precious stone, lightning's crack, the moon's glow, and where arrows land."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of fortune: a sly creature of orange, a laughing fool, a precious jewel, a bolt from heaven, a glowing pearl in darkness, and a target waiting. Together we spin the wheel of luck.",
+      "hint": "Fox, joker, gem, lightning, moon, target"
+    },
+    "answer": [
+      13,
+      19,
+      11,
+      4,
+      3,
+      0
+    ]
   }
 }
