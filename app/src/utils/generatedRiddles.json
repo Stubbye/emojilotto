@@ -47337,5 +47337,23 @@
       14,
       19
     ]
+  },
+  "sol_2230": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer ascends through cosmic fire. The gem of fate glimmers as the joker's laughter echoes, while the trickster's mask conceals what lightning dare not reveal. Six treasures converge where revelry meets destiny.",
+      "hint": "Seek the aimed, the ascending, the burning, the precious, the deceiver, and the electric—all bound by fate's caprice."
+    },
+    "easyRiddle": {
+      "text": "One aims and strikes, one rises high, one burns so bright, one sparkles rare, one grins with mischief, one crackles with power. What six dance together in fortune's game?",
+      "hint": "Target, rocket, fire, gem, joker, and lightning—the six pillars of your destiny."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      2,
+      19,
+      4
+    ]
   }
 }
