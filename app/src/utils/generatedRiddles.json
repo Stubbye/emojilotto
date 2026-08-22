@@ -47193,5 +47193,23 @@
       4,
       13
     ]
+  },
+  "sol_2223": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six secrets dance in chaos's game. The jester's twin reflections glow beneath the prism's arc, while winged metamorphosis spirals through the spark. A precious stone hums in the void's embrace, and nature's four-leaf whisper echoes through this sacred space.",
+      "hint": "Look for the marksman's destination, the fool's reflection, the nocturnal guardian, the winged transformation, the gem's resting place, and luck's green symbol."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target waits, a joker plays, the moon shines bright, a butterfly dances, a gem sparkles, and a clover brings luck. Which six mark the winning path?",
+      "hint": "One is aimed at, one is a card, one is in the sky, one transforms, one is precious, and one is lucky."
+    },
+    "answer": [
+      0,
+      11,
+      3,
+      8,
+      2,
+      19
+    ]
   }
 }
