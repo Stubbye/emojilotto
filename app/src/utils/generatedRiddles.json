@@ -47409,5 +47409,23 @@
       1,
       4
     ]
+  },
+  "sol_2234": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the winged metamorphosis spins beneath crystalline fractals, while the archer's goal gleams eternal in prismatic silence—six secrets hide where chaos and grace pirouette together.",
+      "hint": "Think of transformation, luck's instruments, precious stones, night's beacon, and the duality of trickery and brilliance."
+    },
+    "easyRiddle": {
+      "text": "A gem that sparkles, a dragon that flies, a joker who grins, a moon that shines bright, a butterfly that transforms, and lightning that strikes—find these six treasures of chance.",
+      "hint": "Look for: something precious, something mythical, something playful, something nocturnal, something that changes, and something electric."
+    },
+    "answer": [
+      2,
+      13,
+      19,
+      3,
+      8,
+      5
+    ]
   }
 }
