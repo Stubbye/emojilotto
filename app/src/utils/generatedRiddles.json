@@ -47535,5 +47535,23 @@
       11,
       20
     ]
+  },
+  "sol_2242": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The winged trickster pirouettes through prismatic corridors while molten fury kisses the crystalline heart. Ascending pathways converge where laughter echoes through gilded arches, and the emerald whisper blooms eternal.",
+      "hint": "Seek the jester's twin, the stone of immortality, the color of twilight, the beast of ages, the ring of joy, and the messenger of speed."
+    },
+    "easyRiddle": {
+      "text": "I am six mystical symbols: a clever creature of cunning, an ancient serpent of legend, a precious stone that gleams, purple's shadow in the sky, a dancing flame of fortune, and a crown of victory. Together we unlock the lottery's secret.",
+      "hint": "Think of wise animals, mythical beings, valuable treasures, night colors, heat and light, and rewards."
+    },
+    "answer": [
+      13,
+      14,
+      2,
+      12,
+      5,
+      18
+    ]
   }
 }
