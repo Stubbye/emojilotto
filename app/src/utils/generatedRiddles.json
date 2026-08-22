@@ -47427,5 +47427,41 @@
       8,
       5
     ]
+  },
+  "sol_2235": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the serpent of chaos ignites the jester's prism. Six marks converge where luck's twin flames waltz—one seeks the bullseye of destiny, one pierces the void's veil, one laughs in masks of contradiction, one breathes inferno's ancient song, one scatters stardust through folded space, and one crowns the victor's eternal gaze.",
+      "hint": "Consider the symbols of competition, chaos, performance, mythology, and the tools of chance itself."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols: the marksman's circle, the sky's golden chariot, the fool in motley, the fire-breather's breath, the cosmic wanderer's light, and fortune's rolling bones.",
+      "hint": "Think of games, night sky, performers, heat, luck, and a pointed target."
+    },
+    "answer": [
+      0,
+      1,
+      7,
+      5,
+      21,
+      11
+    ]
+  },
+  "emlo_793": {
+    "hardRiddle": {
+      "text": "I chase the astronomical dream with velocity, seeking precious stones under celestial bodies. My power strikes with intensity, yet chaos dances around me. What am I?",
+      "hint": "Think of memecoin culture: rapid growth, valuable gains, lunar aspirations, and electric volatility"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🚀 speed, collecting 💎 treasures with ⚡ power while 🔥 burns bright and 🎪 chaos ensues. Which six symbols represent the memecoin journey?",
+      "hint": "Look for: moon destination, rocket vehicle, gem rewards, lightning energy, fire intensity, and circus madness"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      4,
+      5,
+      6
+    ]
   }
 }
