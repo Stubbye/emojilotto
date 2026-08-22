@@ -46923,5 +46923,23 @@
       9,
       6
     ]
+  },
+  "sol_2208": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, a scaled dreamer ascends past the archer's mark. Beneath prismatic tears, the lightning-kissed bloom trembles, while symmetrical wings echo the vault's glimmering secret.",
+      "hint": "Chaos wears a grin, ancient wisdom soars, light fractures into color, and nature's ephemeral acrobat pirouettes."
+    },
+    "easyRiddle": {
+      "text": "A laughing trickster, a flying serpent, a striking bolt, a precious stone that sparkles, a celestial circle, and petals that dance—all six dwell in destiny's wheel.",
+      "hint": "One mocks, one roars, one illuminates, one glimmers, one watches over night, and one blooms eternal."
+    },
+    "answer": [
+      19,
+      13,
+      4,
+      20,
+      21,
+      14
+    ]
   }
 }
