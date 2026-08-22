@@ -47211,5 +47211,23 @@
       2,
       19
     ]
+  },
+  "sol_2224": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate converge. The winged deceiver dances with celestial fire, whilst crystalline tears reflect the jester's grin. Percussion of chaos whispers to the emerald's heart, and twin-faced guardians observe the symphony of luck.",
+      "hint": "One points the way, one laughs at rules, one shines eternal, one burns bright, one speaks in bones, one reveals two natures"
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of chance: the archer's mark, the sky-bound flame, the precious stone, the night orb's glow, the trickster's face, and the many-sided bones of destiny.",
+      "hint": "Think of a lottery ticket with targets, rockets, gems, moons, jokers, and dice"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      19,
+      11
+    ]
   }
 }
