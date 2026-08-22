@@ -46959,5 +46959,23 @@
       8,
       19
     ]
+  },
+  "sol_2210": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate convene. The winged dancer pirouettes through prismatic veils, while thunder's tongue ignites the stage where jesters mock and dragons dream. In crystalline depths, the bloom of chaos whispers—seek the mark where destiny's bolt strikes eternal symmetry.",
+      "hint": "One grants wishes, one defies gravity, one blinds with beauty, one hunts in shadows, one breathes chaos, one floats on whimsy"
+    },
+    "easyRiddle": {
+      "text": "I am six treasures of the night sky and stage: a target for dreamers, a rocket for escape, a gem that glows eternal, a lightning strike of chance, a dragon of old tales, and a butterfly that dances free.",
+      "hint": "Think of luck, flight, wealth, power, magic, and freedom"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      13,
+      8
+    ]
   }
 }
