@@ -46941,5 +46941,23 @@
       21,
       14
     ]
+  },
+  "sol_2209": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six spirits convene in shadow's trance. The archer's aim pierces the vault of night, while winged metamorphosis takes jeweled flight. Thunder's twin speaks in crystalline voice, as laughter's masked herald makes chaos rejoice.",
+      "hint": "Seek the aim, the gem, the nocturnal sphere, the bolt divine, the flutter of change, and the jester's cheer."
+    },
+    "easyRiddle": {
+      "text": "I am the hunter's mark and the soaring flame. A precious stone gleams in heaven's domain. Lightning strikes swift, a butterfly transforms free. The joker grins wildly—now count all of me.",
+      "hint": "Count six lottery symbols: target, rocket, gem, moon, lightning, and joker."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      19
+    ]
   }
 }
