@@ -47229,5 +47229,23 @@
       19,
       11
     ]
+  },
+  "sol_2225": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis seeks the prism's embrace. The archer's mark gleams beneath the nocturnal sentinel, while fortune's spark ignites the spectrum's whisper.",
+      "hint": "One guides aims, one transforms, one shines precious, one watches night, one strikes swift, one paints all colors"
+    },
+    "easyRiddle": {
+      "text": "Find the shimmering stone, the creature of change, the mark for arrows, the night's guardian glow, the swift striker, and the painter of light.",
+      "hint": "gem, butterfly, target, moon, lightning, rainbow"
+    },
+    "answer": [
+      3,
+      8,
+      0,
+      1,
+      5,
+      9
+    ]
   }
 }
