@@ -47355,5 +47355,23 @@
       19,
       4
     ]
+  },
+  "sol_2231": {
+    "hardRiddle": {
+      "text": "Where fortune's jester plays upon the strings of destiny, six secrets hide in shadows deep. The winged messenger ascends through night's obsidian veil, while celestial fire dances with crystalline breath. Within the archer's circle, chaos tumbles endlessly, and nature's painted wings flutter between earthly treasures and ethereal light.",
+      "hint": "Listen to the musician's companion, seek the court's fool, count the spheres of chance, and find what grows yet never walks."
+    },
+    "easyRiddle": {
+      "text": "Six friends gather for a game: one performs in striped tents, one brings luck with leaves, one shines like frozen stars, one makes music, one tumbles for fun, and one flies with grace.",
+      "hint": "Think of a circus, good fortune, sparkles, entertainment, games of chance, and nature's fliers."
+    },
+    "answer": [
+      7,
+      1,
+      21,
+      14,
+      11,
+      8
+    ]
   }
 }
