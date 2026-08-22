@@ -47481,5 +47481,23 @@
       8,
       20
     ]
+  },
+  "sol_2238": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits intertwine in the void. The winged messenger of metamorphosis pirouettes past the jeweled sentinel, while the crowned trickster plays his eternal game beneath the archer's mark. In this cosmic theater of chance, what reveals itself in the space between triumph and illusion?",
+      "hint": "One grants wishes, one sparkles with truth, one entertains the dark, one marks the target, one embodies change, and one conceals what lies beneath."
+    },
+    "easyRiddle": {
+      "text": "A butterfly flies toward a shining gem, passes by a joker's grin, lands on a trophy under the star's gaze, and rests upon the dancing lightning. What six celebrate fortune's call?",
+      "hint": "Look for: something precious, something playful, something you can win, something that guides, something that transforms, and something that strikes."
+    },
+    "answer": [
+      8,
+      5,
+      19,
+      21,
+      1,
+      12
+    ]
   }
 }
