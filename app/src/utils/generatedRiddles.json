@@ -47553,5 +47553,23 @@
       5,
       18
     ]
+  },
+  "sol_2243": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, and gemstone tears fall upon the jester's stage, a winged metamorphosis dances through prismatic veils, while thunder's children spark against the crystalline veil of infinity.",
+      "hint": "Seek the archer's aim, the heavens' flame, the precious stone, the fool's domain, the transformed soul, and the geometric guardian of light."
+    },
+    "easyRiddle": {
+      "text": "I am six: a bullseye dream, a rising flame, a sparkling jewel, a grinning fool, a creature born anew, and a frozen beauty frozen in time.",
+      "hint": "Target, fire, gem, joker, butterfly, and crystal are your companions in chance."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      11,
+      8,
+      20
+    ]
   }
 }
