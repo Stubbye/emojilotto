@@ -47319,5 +47319,23 @@
       3,
       19
     ]
+  },
+  "sol_2229": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six entities converge in shadows and light. The winged metamorphosis dances through prismatic bands, while crystalline brilliance splinters into electric reverie. A crimson inferno echoes through nature's bloom, and destiny's cube trembles in the jester's silent domain.",
+      "hint": "Consider transformation, illumination, chance, and the duality of chaos and order. One element appears twice in different forms."
+    },
+    "easyRiddle": {
+      "text": "A target's aim meets a rocket's flight. Gems shine bright, and lightning strikes the night. A flower blooms where fire burns, and the joker's laugh as fortune turns.",
+      "hint": "Six symbols: direction, ascension, brilliance, electricity, life, and mischief."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      14,
+      19
+    ]
   }
 }
