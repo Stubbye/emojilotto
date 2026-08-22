@@ -47031,5 +47031,23 @@
       4,
       7
     ]
+  },
+  "sol_2214": {
+    "hardRiddle": {
+      "text": "Where fortune's heart beats in the void, six sentinels dance between realms: the archer's eternal mark pierces through velocity's winged steed, while prismatic tears crystallize in the abyss. The jester's grin echoes where chaos electrifies silence, and twin flames waltz with the mask of deception—all bowing to the celestial wanderer who watches from obsidian thrones.",
+      "hint": "One guides paths, one breaks barriers, one glimmers truth, one summons chaos, one reveals jest, one judges from above."
+    },
+    "easyRiddle": {
+      "text": "Six magical tokens hide in this verse: the first you aim at, the second flies fast, the third shines bright and precious, the fourth rules the night, the fifth strikes with fury, and the sixth wears many faces of trickery.",
+      "hint": "Think of: aim, speed, value, night, power, deception"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      5,
+      19
+    ]
   }
 }
