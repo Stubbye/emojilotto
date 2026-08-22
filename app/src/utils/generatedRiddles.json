@@ -47391,5 +47391,23 @@
       19,
       21
     ]
+  },
+  "sol_2233": {
+    "hardRiddle": {
+      "text": "Where fortune's jest dances with celestial fire, six treasures align in destiny's gyre. The archer's mark meets the serpent's ancient throne, while winged metamorphosis claims what lightning has sown. Crystal harmonies sing beneath the jester's grin, and fortune's bones scatter where all games begin.",
+      "hint": "Think of transformation, chaos, performance, and cosmic alignment. One element strikes, one evolves, one rules, one judges, one plays, one marks."
+    },
+    "easyRiddle": {
+      "text": "I am six secrets hidden in plain sight: a target you chase, a dragon's might, a butterfly's grace, a joker's delight, dice that decide your fate tonight, and lightning so bright.",
+      "hint": "Look for: aim, mythical beast, transformation, laughter, chance, and electricity."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      11,
+      1,
+      4
+    ]
   }
 }
