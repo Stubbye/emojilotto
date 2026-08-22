@@ -47571,5 +47571,41 @@
       8,
       20
     ]
+  },
+  "sol_2244": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate convene. The winged metamorphosis dances through prismatic threads, while thunder's children ignite the void. A gemstone gleams beneath the lunar throne, and chaos whispers through the joker's grin. What constellation of destiny shall converge?",
+      "hint": "One ascends, one descends, one transforms, one illuminates, one sparkles, one mocks"
+    },
+    "easyRiddle": {
+      "text": "I shoot upward with dreams, I dance with colors bright. A stone that shines, a silent jester's might. Lightning splits the sky, and butterfly takes flight. Six symbols hold the key to fortune's light.",
+      "hint": "Think of: journey, rainbow colors, precious things, trickery, electricity, and metamorphosis"
+    },
+    "answer": [
+      1,
+      9,
+      2,
+      11,
+      5,
+      19
+    ]
+  },
+  "emlo_794": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with velocity untamed, seeking fortune in the cosmic void. When lightning strikes my path, I ignite with fervor, my crystal vision guiding through the chaos. The joker grins as I dance in circles, yet my gem-like essence sparkles eternal.",
+      "hint": "Think of the journey to wealth, the symbols of speed, electricity, chaos, value, and eternal hope in crypto culture."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of the memecoin dream: one points the way, one flies fast, one shines bright, one lights the sky, one sparkles magic, and one laughs at the madness.",
+      "hint": "A target, rocket, gem, moon, sparkles, and joker represent the chaotic journey to moon."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      10,
+      19
+    ]
   }
 }
