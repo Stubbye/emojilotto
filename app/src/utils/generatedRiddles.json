@@ -47049,5 +47049,23 @@
       5,
       19
     ]
+  },
+  "sol_2216": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six secrets hide in chaos' name. The jester's grin betrays the cost, while gemstones dance where luck is lost. Wings of transformation kiss the blaze, as thunder writes in cryptic haze. Seek the bullseye wrapped in night, where laughter burns and fortune takes flight.",
+      "hint": "Think of performers, precious things, and sky-bound omens that spring brings."
+    },
+    "easyRiddle": {
+      "text": "A target glows, a joker grins, a gem that shines where fire spins. Lightning strikes the butterfly's wing, while the moon sees everything.",
+      "hint": "Six things you'd find at a carnival under starlight."
+    },
+    "answer": [
+      0,
+      18,
+      6,
+      3,
+      8,
+      5
+    ]
   }
 }
