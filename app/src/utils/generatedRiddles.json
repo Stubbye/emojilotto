@@ -47103,5 +47103,41 @@
       13,
       21
     ]
+  },
+  "sol_2219": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jeweled heart ignites in cosmic fire. The trickster's grin dances with the sky's electric tears, while ancient wings scatter stardust across the void. Six truths hide in shadow's theatre—seek the bullseye of destiny, the messenger of ambition, the earth's precious blood, the night's silver eye, the serpent's primal rage, and the gleam of infinity's shattered dreams.",
+      "hint": "Think of targets, journeys upward, wealth, darkness above, power incarnate, and light itself—each represents a path to luck's secret door."
+    },
+    "easyRiddle": {
+      "text": "I point the way to winning prizes, rockets soar to touch the skies. Gems shine bright with inner light, while moons glow soft throughout the night. Dragons breathe with fiery might, and sparkles dance like pure delight. Which six accompany fortune's call?",
+      "hint": "One is a goal, one flies high, one is shiny, one is up there, one is mythical and hot, one twinkles with magic."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      20
+    ]
+  },
+  "emlo_791": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights, while gems sparkle with electric might. A joker dances through the flames, as fortune spins its mystical games. When lightning strikes the crystal stage, a trophy crowns the memecoin age.",
+      "hint": "Think of the journey from launch to riches, where luck and magic intertwine."
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with sparkling gems, lightning strikes bring fortune's stems. The joker plays by fire's glow, where diamonds shine in crypto's show.",
+      "hint": "What represents launch, destination, wealth, luck, and celebration in crypto?"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      11,
+      18
+    ]
   }
 }
