@@ -47067,5 +47067,23 @@
       8,
       5
     ]
+  },
+  "sol_2217": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, a jester's twin masks dance with the dragon's desire. Lightning strikes through the gemstone's heart, while the fox weaves moonlight into art. Six tokens of fate converge in the night—one marks the target, one ignites the flight.",
+      "hint": "Consider what burns bright, what deceives, what hungers, and what guides seekers through darkness."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I bring the thunder, I sparkle with worth, I rule the wonder. A trickster grins, a beast of old, and silver dust of fortunes told.",
+      "hint": "Think of archery, weather, precious things, jesters, mythical creatures, and magical shimmer."
+    },
+    "answer": [
+      0,
+      4,
+      1,
+      21,
+      13,
+      10
+    ]
   }
 }
