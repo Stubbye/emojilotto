@@ -47013,5 +47013,23 @@
       20,
       9
     ]
+  },
+  "sol_2213": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's spinning wheel, six whispers emerge from chaos: the archer's distant gleam meets the crimson devour, while masked jesters pirouette beneath the child of night. Between crystalline laughter and the winged metamorphosis, destiny's bolt illuminates the path where luck and flame conspire.",
+      "hint": "One marks precision, one marks chance, one marks transformation, one marks night, one marks power, one marks spectacle."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in this verse: seek the target's bullseye, the rocket's ascent, the gem's sparkle, the moon's glow, the lightning's strike, and the circus tent's wonder.",
+      "hint": "Look for: aim, flight, treasure, darkness, electricity, and performance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
   }
 }
