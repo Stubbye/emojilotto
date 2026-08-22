@@ -47607,5 +47607,23 @@
       10,
       19
     ]
+  },
+  "sol_2245": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's tapestry, a jester's twin dance beneath the infernal veil. The winged metamorphosis spirals through chromatic rivers, while crystalline echoes sing of destiny's percussion. Six guardians of chance conspire in shadow's theater.",
+      "hint": "Consider what flies, what burns, what reflects light, what falls from sky, what entertains chaos, and what marks transformation."
+    },
+    "easyRiddle": {
+      "text": "I am sought by archers and seekers. I hang in night's embrace. I am worn by tricksters. I consume all in my path. I emerge from cocoons in nature's ballet. I shimmer like broken glass in the depths.",
+      "hint": "Think of targets, night sky, entertainment, destruction, beauty, and precious earth."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      2,
+      11,
+      20
+    ]
   }
 }
