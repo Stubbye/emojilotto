@@ -46995,5 +46995,23 @@
       4,
       21
     ]
+  },
+  "emlo_790": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electrifying speed, leaving trails of fortune in my wake. Gem-like rewards await those who ride my lightning-powered journey to infinity, where sparkles rain down like confetti at a carnival of dreams.",
+      "hint": "Think of velocity, illumination, and the destination every crypto holder desires"
+    },
+    "easyRiddle": {
+      "text": "I shoot up fast with electric power, I sparkle bright like a precious stone, and I glow in the darkness. Where am I going? To the place everyone dreams about, leaving a trail of fire and magic.",
+      "hint": "One goes up, one shines, one burns - and they all point to where memecoiners want to be"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      3,
+      20,
+      9
+    ]
   }
 }
