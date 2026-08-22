@@ -47373,5 +47373,23 @@
       11,
       8
     ]
+  },
+  "sol_2232": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound flame, six keepers of fate converge. The archer's mark gleams in prismatic depths, while the messenger of thunder ascends beyond Luna's gaze. Metamorphosis spirals through chromatic arcs, and the jester's twin masks mock destiny itself. What treasures align when chaos crystallizes into sovereign brilliance?",
+      "hint": "Think of luck, magic, transformation, and the price of winning"
+    },
+    "easyRiddle": {
+      "text": "A target shines with gem light. Lightning races to the moon. A butterfly dances through rainbow. The joker wears masks. Together they form the winning combination.",
+      "hint": "Six symbols of fortune: aim, wealth, sky, change, fate, and trickery"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      9,
+      19,
+      21
+    ]
   }
 }
