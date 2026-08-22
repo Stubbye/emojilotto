@@ -46977,5 +46977,23 @@
       13,
       8
     ]
+  },
+  "sol_2211": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged messenger spirals through prismatic arcs, a jester's laugh echoes as the scaled guardian guards treasures that shimmer in the void. Three souls converge: the archer's mark, the trickster's grin, and the beast of ancient dreams.",
+      "hint": "Look to the sky, the court, and the mythical realm. One brings luck, one brings chaos, one brings eternity."
+    },
+    "easyRiddle": {
+      "text": "A blazing path to riches, a creature of fortune's jest, a dragon's hoard gleams bright. Find the glowing mark, the laughing fool, and the serpent's nest.",
+      "hint": "Fire guides the way, a joker plays, and magic sleeps below."
+    },
+    "answer": [
+      1,
+      18,
+      13,
+      0,
+      4,
+      21
+    ]
   }
 }
