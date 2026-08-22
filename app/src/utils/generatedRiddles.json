@@ -46887,5 +46887,41 @@
       4,
       14
     ]
+  },
+  "sol_2207": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets archer's intent, through crystalline depths the fortune is bent. When thunder's bright serpent coils round gemstone's gleam, and dancing wings find rainbow's forgotten dream. Six chosen vessels of fate intertwine—count them not by sight, but by the thread of design.",
+      "hint": "One watches from above, one pierces the veil, one glimmers with ancient power, one transforms through air, one blazes eternal, one aims for the center."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of the night and fire: a watcher of skies, a striker of desire, a stone that catches light, a creature reborn, a blaze that consumes, and an archer's sworn aim.",
+      "hint": "Think of: something celestial, something electric, something precious, something that flies, something hot, and something that targets."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      8,
+      6,
+      0
+    ]
+  },
+  "emlo_789": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with fiery ambition, sparkling with fortune's electric kiss. My gems dance in rainbow waves while jokers juggle under the big top's spotlight. What six treasures unite this memecoin's destiny?",
+      "hint": "Think of a journey to riches: direction, speed, value, destination, power, and luck"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go! 🚀 fast with 💎 bright, ⚡ strikes with ✨ light, and 🎪 shows the way. Which six emojis make the memecoin play?",
+      "hint": "Moon, Rocket, Gem, Lightning, Sparkles, and Circus"
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      4,
+      9,
+      6
+    ]
   }
 }
