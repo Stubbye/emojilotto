@@ -47301,5 +47301,23 @@
       9,
       13
     ]
+  },
+  "sol_2228": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate align in trance. The archer's mark gleams with prismatic soul, while winged metamorphosis plays destiny's role. Thunder's child and lunar glow embrace the jester's sacred space, as nature's bloom completes this mystic race.",
+      "hint": "Look for: precision, brilliance, transformation, electricity, night's companion, and theatrical chaos"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this cosmic game: a perfect aim, a gem so bright, wings that transform, a storm's great might, the moon's soft sight, and laughter's claim.",
+      "hint": "Think: target, crystal, butterfly, lightning, moon, joker"
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      4,
+      3,
+      19
+    ]
   }
 }
