@@ -48021,5 +48021,23 @@
       4,
       19
     ]
+  },
+  "sol_2271": {
+    "hardRiddle": {
+      "text": "Where the celestial archer's bolt finds fortune's heart, and the serpent of sky dances with the singer's art. Five gleaming fragments scattered through the prism's light—seek the scaled dreamer and the jester's paradox of night.",
+      "hint": "One points to destiny, one flies upward, one glimmers with wealth, one rules the stage with laughter, one breathes the ancient sky."
+    },
+    "easyRiddle": {
+      "text": "I aim for victory, I reach for stars, I sparkle with value, I dance with thunder, I jest in shadows, and I soar with ancient wisdom.",
+      "hint": "6 emojis: mark, ascend, precious, bolt, fool, beast"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      13,
+      14
+    ]
   }
 }
