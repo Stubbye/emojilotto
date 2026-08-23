@@ -47643,5 +47643,41 @@
       7,
       20
     ]
+  },
+  "sol_2248": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked twin, through prismatic gates of luck's domain, a winged metamorphosis spirals beneath the gem-crowned sentinel, as chaos whispers its numbered secrets and the archer's true mark reveals destiny's hidden stage.",
+      "hint": "Look to the sky, the trickster's grin, transformation's grace, and what guides the lost wanderer home."
+    },
+    "easyRiddle": {
+      "text": "Six treasures spin in fortune's wheel: one points the way with deadly light, one glows where darkness bows to night, one sparkles precious and so bright, one laughs in masks with pure delight, one floats on wings of black and white, one crowns the victor in the fight.",
+      "hint": "Thunder, moon, jewel, jester, butterfly, and glory."
+    },
+    "answer": [
+      5,
+      3,
+      2,
+      19,
+      8,
+      17
+    ]
+  },
+  "emlo_795": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights, my gems sparkle with electric might. A dragon dances through crystal fire, while fortune spins what traders desire. Where purple lightning meets circus thrills, the joker counts his memecoin bills.",
+      "hint": "Think of a memecoin's journey: its launch, its value, its volatility, its entertainment, its luck, and its chaotic nature."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🔥 burns hot, 🎪 entertains, 🃏 brings luck. What six emojis describe a memecoin adventure?",
+      "hint": "One launches you, one rewards you, one moves fast, one excites you, one makes you laugh, one gives you hope."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      11
+    ]
   }
 }
