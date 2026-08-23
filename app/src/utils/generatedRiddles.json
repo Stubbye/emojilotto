@@ -47931,5 +47931,23 @@
       19,
       13
     ]
+  },
+  "sol_2265": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between earthly fire and celestial ice, a jester's twin masks dance with the prismatic soul of creation. The dragon's breath meets the butterfly's metamorphosis, as lightning writes secrets upon the gemstone's face. What six sentinels guard the threshold where chaos and wonder collide?",
+      "hint": "One points, one burns, one adorns, one transforms, one reveals, one deceives"
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a mark of precision, warmth untamed, a precious stone, a winged change, light split into color, and mischief's grin. Find them in the realm of chance.",
+      "hint": "Target, Fire, Gem, Butterfly, Rainbow, Joker"
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      8,
+      9,
+      19
+    ]
   }
 }
