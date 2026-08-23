@@ -47949,5 +47949,23 @@
       9,
       19
     ]
+  },
+  "sol_2267": {
+    "hardRiddle": {
+      "text": "Through celestial veil where fortune's twin flames dance, the jester's grin meets scales of chance. Where jeweled light splits into prismatic streams, a winged creature chases metamorphic dreams. The archer's mark glows where thunder finds its song, and crystal tears fall where they belong.",
+      "hint": "Six tokens bind the cosmic and the whimsical—one marks precision, one brings laughter, one splits light, one transforms, one electrifies, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "I show you targets and tricksters at play. Lightning cracks while gems gleam in display. A butterfly dances where rainbows are cast, and stars sparkle bright to make wishes that last.",
+      "hint": "Find the one that aims, the one that laughs, the one that splits light, the one that changes, the one that strikes, and the one that shines."
+    },
+    "answer": [
+      0,
+      11,
+      9,
+      8,
+      5,
+      21
+    ]
   }
 }
