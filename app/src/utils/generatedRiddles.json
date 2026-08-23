@@ -47985,5 +47985,41 @@
       18,
       10
     ]
+  },
+  "sol_2269": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's jest, six whispers converge: the archer's aim meets the jester's grin, while gemstone dreams shimmer beneath Luna's veil, and the winged trickster pirouettes through storms of electricity, finally resting where crystalline brilliance crowns the victor's stage.",
+      "hint": "One brings laughter in chaos, one gleams with stolen light, one strikes from above with fury's kiss, and destiny finds its mark through the fox's cunning."
+    },
+    "easyRiddle": {
+      "text": "A lucky charm glows bright, a jewel catches light, lightning splits the sky, fire burns hot, the moon shines at night, and a trophy stands as proof of might.",
+      "hint": "Look for things that sparkle, strike, burn, glow in darkness, and celebrate winning."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      7,
+      13,
+      17
+    ]
+  },
+  "emlo_798": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving a trail of fortune. The jester's luck meets the dragon's fire, while gems sparkle like my destiny. What sequence of symbols represents this memecoin journey?",
+      "hint": "Think of the classic crypto narrative: speed, luck, wealth, and mythical power combined with celestial aspirations."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, dragon breathes fire, gems shine bright, moon glows high, lightning strikes fast, and the joker brings luck. Put them in order of this riddle!",
+      "hint": "Follow the order mentioned in the riddle, from first to last."
+    },
+    "answer": [
+      1,
+      13,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
