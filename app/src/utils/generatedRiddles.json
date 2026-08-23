@@ -47787,5 +47787,23 @@
       3,
       19
     ]
+  },
+  "sol_2256": {
+    "hardRiddle": {
+      "text": "Where fortune's celestial archer meets the serpent's ancient flame, six whispers dance betwixt the veil of chaos and acclaim. The jester's grin eclipsed by radiance, the gemstone caught in tempest's prism, while winged metamorphosis spirals through the archer's destined wisdom.",
+      "hint": "Consider the duality of chance and fate, where mythical beasts guard precious light, and transformation blooms in electric nights."
+    },
+    "easyRiddle": {
+      "text": "A target glows as rockets ignite the sky, gems sparkle when lightning strikes nearby. The dragon dances with fire so bright, while butterflies shimmer through the electric night.",
+      "hint": "Look for the circle that aims, the treasure that shines, the beast that roars, and the creature that transforms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      13
+    ]
   }
 }
