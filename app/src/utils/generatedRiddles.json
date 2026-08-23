@@ -48201,5 +48201,23 @@
       4,
       11
     ]
+  },
+  "sol_2282": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a winged metamorphosis seeks the prism's scattered light. The jester's grin mirrors the wild fox's cunning, while percussion echoes through chambers of crystalline dreams. Six secrets hide in symmetry's embrace—one gleams eternal, one strikes with chaos, one transforms through grace, one charts the celestial deep, one laughs in masks, one sings in strings.",
+      "hint": "Chaos, transformation, music, and mockery align with heaven's gaze and earthly fortune."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that dances, the butterfly that soars, the guitar that sings, the dragon that dreams, the star that shines, and the joker that grins.",
+      "hint": "Look for electricity, wings, strings, scales, light, and laughter."
+    },
+    "answer": [
+      4,
+      8,
+      16,
+      13,
+      21,
+      19
+    ]
   }
 }
