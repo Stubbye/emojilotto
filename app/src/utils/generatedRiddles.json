@@ -47805,5 +47805,23 @@
       5,
       13
     ]
+  },
+  "sol_2258": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, its path illuminated by the prism of chance. The jester's grin mirrors the butterfly's metamorphosis, while crystalline dreams shatter upon the shore of probability.",
+      "hint": "Seek the celestial guardian, the messenger of chaos, the eternal transformation, the architect of illusion, the silent witness, and the geometric dreamer."
+    },
+    "easyRiddle": {
+      "text": "One strikes with electricity, one soars through sky with wings, one coils with ancient wisdom, one laughs at all things, one breaks into fragments of light, one dances where water bends.",
+      "hint": "Think of: a flying creature, a force of nature, a magical beast, a trickster, something that shatters, and something that flows."
+    },
+    "answer": [
+      1,
+      13,
+      3,
+      19,
+      20,
+      23
+    ]
   }
 }
