@@ -47679,5 +47679,23 @@
       7,
       11
     ]
+  },
+  "sol_2249": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six treasures dance in destiny's game. The jester's grin holds chaos bound, while scaled ambition soars uncrowned. Swift-furred cunning weaves through night, as petaled grace catches starlight. One strikes the heavens with thunderous voice, the other blooms in silent choice.",
+      "hint": "Seek the archer's mark, the court fool's mask, the dragon's crown, the fox's task, the lightning's call, and the flower's grace."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: an archer's bullseye, a fool's delight, a scaled creature of might and fire, a cunning animal climbing higher, a spark of storms, and a bloom of spring. Together they make fortune sing.",
+      "hint": "Think of: aim, jest, dragons, stealth, electricity, and gardens."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      14
+    ]
   }
 }
