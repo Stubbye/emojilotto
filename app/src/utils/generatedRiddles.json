@@ -47841,5 +47841,23 @@
       4,
       14
     ]
+  },
+  "sol_2260": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance in void's embrace, a crystalline heart beats beneath the jester's painted face. The fox's cunning meets the dragon's ancient fire, while prismatic arcs bridge what mortals most desire. Six secrets hide in chaos veiled by cosmic glow—one marks the game, one marks the show.",
+      "hint": "Consider what burns, what glimmers, what deceives, and what spans between worlds."
+    },
+    "easyRiddle": {
+      "text": "I am a lottery of luck! Find six of these: one makes you aim, one helps you fly high, one sparkles with wealth, one rules the night sky, one burns with power, and one wears many faces.",
+      "hint": "Think of targets, travel, gems, celestial bodies, natural forces, and performers."
+    },
+    "answer": [
+      0,
+      2,
+      7,
+      20,
+      5,
+      18
+    ]
   }
 }
