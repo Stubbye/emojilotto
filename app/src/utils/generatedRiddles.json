@@ -48129,5 +48129,41 @@
       8,
       5
     ]
+  },
+  "sol_2278": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin dance, six sentinels guard the threshold of chance. The winged trickster pirouettes through night's veil, while crystalline brilliance and nature's small grail await the seeker who reads chaos as prose—when lightning crowns what the lunar archer knows.",
+      "hint": "Look to the sky, the clever, the bright, and what blooms in darkness before dawn's light"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a glowing gem catches starlight, a butterfly dances near flame, dice roll under moon's gaze, and a flower whispers to the electric sky. What are they?",
+      "hint": "Find the precious stone, the winged one, the shining rock, the night guardian, the unpredictable cubes, and the one that sparkles with power"
+    },
+    "answer": [
+      5,
+      8,
+      21,
+      1,
+      11,
+      15
+    ]
+  },
+  "emlo_799": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with velocity and fortune's fire, riding lightning bolts to gemstone dreams. A jester's luck meets a fox's cunning beneath the cosmic glow, where sparkles dance with dragon's might. What six symbols mark this memecoin's destiny?",
+      "hint": "Think of a rocket launch, precious rewards, speed, chaos, trickery, and mystical power combined into one lucky journey to wealth."
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon, lightning strikes fast, gems sparkle bright, a joker brings luck, and a dragon brings power. How many of these symbols appear in our memecoin lottery?",
+      "hint": "Count the magical creatures and objects: one flying machine, one destination, one weather strike, one precious thing, one trickster, and one legendary beast."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      13,
+      14
+    ]
   }
 }
