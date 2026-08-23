@@ -47967,5 +47967,23 @@
       5,
       21
     ]
+  },
+  "sol_2268": {
+    "hardRiddle": {
+      "text": "Where celestial fortune weeps in prismatic tears, the winged messenger of metamorphosis dances between the archer's mark and the serpent's ancient throne. Lightning's kiss ignites the gemstone's hidden song, while the jester's mask conceals what sparkles dare not reveal.",
+      "hint": "Count the transformations: one marks targets, one crosses skies, one blinds with beauty, one rules the night, one breaks the veil, one laughs in shadows."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this lottery's heart: A celestial guardian glows, a scaled beast roams, a lightning strike divides the sky, a precious stone gleams, a trickster smiles behind their disguise, and sparkles dance in victory's light.",
+      "hint": "Think of: night sky, mythical creature, electricity, wealth, mischief, and celebration."
+    },
+    "answer": [
+      1,
+      13,
+      4,
+      2,
+      18,
+      10
+    ]
   }
 }
