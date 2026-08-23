@@ -47877,5 +47877,23 @@
       5,
       7
     ]
+  },
+  "sol_2262": {
+    "hardRiddle": {
+      "text": "Where fortune's jester spins in violet dreams, a scaled serpent guards the gleaming heart. Lightning dances through the archer's aim, while petaled whispers bloom beneath the crescent's gaze. Six treasures hide in this cosmic masquerade—find the laughing fool, the dragon's throne, the gem of eternity, the bolt of fate, the flower's secret, and the moon's pale witness.",
+      "hint": "One mocks all luck, one hoards all wealth, one strikes like vengeance, one blooms like hope, one rules like chaos, one watches like destiny."
+    },
+    "easyRiddle": {
+      "text": "I contain a jester who laughs at fate, a magical stone that sparkles bright, a serpent of legend, nature's flower, the sky's lightning strike, and the night's guiding moon. What six symbols complete this lottery's fortune?",
+      "hint": "Think: laughter, gems, mythology, nature, electricity, and night sky."
+    },
+    "answer": [
+      19,
+      13,
+      21,
+      14,
+      4,
+      3
+    ]
   }
 }
