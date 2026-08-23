@@ -47913,5 +47913,23 @@
       4,
       19
     ]
+  },
+  "sol_2264": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial flame dances with prismatic tears. The jester's grin mirrors the fox's cunning, while gemstone fractals catch the whispered laughter of chaos itself.",
+      "hint": "One points, one burns, one laughs, one glimmers, one deceives, one refracts—all hold secrets the lottery keeper guards."
+    },
+    "easyRiddle": {
+      "text": "Find the marksman's aim, the night's guardian, the prism's pride, the spark of chance, the trickster's face, and the clever thief's mask.",
+      "hint": "Think of targets, sky, colors, randomness, deception, and sly creatures."
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      10,
+      19,
+      13
+    ]
   }
 }
