@@ -48039,5 +48039,23 @@
       13,
       14
     ]
+  },
+  "sol_2272": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged messenger ascends through chambers of luck. The archer's eternal mark gleams in the darkness, while chaos crystallizes into prismatic song. Six whispers of destiny converge where the fool's laughter echoes beneath the jester's gaze.",
+      "hint": "Look for the night sky's guardian, the performer's mirror, the gem of chance, the symbol of aims, the voice of strings, and the bearer of madness."
+    },
+    "easyRiddle": {
+      "text": "One shines above all nights, one burns with the passion of sound, one marks what we chase, one reflects the silly heart, one holds precious wonder, and one guides through cosmic jest.",
+      "hint": "A celestial body, a musical tool, a target concept, a jester, a sparkling stone, and the flames of performance."
+    },
+    "answer": [
+      3,
+      16,
+      0,
+      19,
+      20,
+      13
+    ]
   }
 }
