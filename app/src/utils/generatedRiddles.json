@@ -47751,5 +47751,23 @@
       14,
       17
     ]
+  },
+  "emlo_796": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving trails of wealth behind. A jester's luck sparkles as I climb toward riches, while my crystal heart burns bright and true.",
+      "hint": "Think of a memecoin's journey: speed, fortune, humor, gems, and the ultimate destination."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, ⚡ strikes quick, 💎 means wealth, 🌙 is the goal, ✨ shows magic, 🃏 brings luck. What six make the memecoin dream?",
+      "hint": "A memecoin needs speed, electricity, value, moonshot goals, magic, and the joker's luck."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      19
+    ]
   }
 }
