@@ -47823,5 +47823,23 @@
       20,
       23
     ]
+  },
+  "sol_2259": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, a serpent coils through prismatic maze. The jester's grin eclipses hope's true flame, while crystal tears and nature's bloom proclaim: six dancers in the cosmic stage do play, one strikes, one soars, one gleams in disarray.",
+      "hint": "Look for: aim, night, laughter, ice, fire, and petals"
+    },
+    "easyRiddle": {
+      "text": "I aim for fortune, night watches above, a jester laughs while crystals shine with love. Lightning strikes bright, and flowers bloom in fire—can you name these six that lottery desire?",
+      "hint": "Target, moon, joker, crystal, lightning, flower"
+    },
+    "answer": [
+      0,
+      3,
+      18,
+      20,
+      4,
+      14
+    ]
   }
 }
