@@ -48093,5 +48093,23 @@
       20,
       19
     ]
+  },
+  "sol_2275": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the serpent of thunder coils beneath the jester's gaze, there blooms a heart of crystalline fire. The winged herald of metamorphosis pirouettes through the gateway where destiny's gems are scattered by the hand that conjures rainbows from the void.",
+      "hint": "Think of transformation, luck, and the convergence of earthly desire with cosmic power."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where the aimed strikes true, where flames leap high, where laughter echoes in masquerade, where butterflies dance, where stars pierce darkness, and where precious stones catch all light.",
+      "hint": "One brings precision, one brings heat, one brings amusement, one brings grace, one brings hope, one brings brilliance."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      8,
+      21,
+      2
+    ]
   }
 }
