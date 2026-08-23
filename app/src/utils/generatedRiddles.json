@@ -48219,5 +48219,23 @@
       21,
       19
     ]
+  },
+  "sol_2283": {
+    "hardRiddle": {
+      "text": "Where fortune's crimson breath meets celestial silence, the trickster's twin masks dance. A jeweled prism catches the winged metamorphosis, while thunder's fork crowns the archer's eternal mark. Six sacred portents align when chaos rolls, and the jester's grin dissolves into prismatic wonder.",
+      "hint": "Consider what burns, what deceives, what transforms, what aims, what falls as chance, and what sparkles with multitude."
+    },
+    "easyRiddle": {
+      "text": "Fire dances with laughter and magic. A butterfly finds gemstone light beneath lightning's aim. Where do six symbols of fortune and transformation meet in the night sky's game?",
+      "hint": "Think of luck, chaos, trickery, brilliance, and winged change reflected in glittering light."
+    },
+    "answer": [
+      6,
+      18,
+      8,
+      0,
+      11,
+      10
+    ]
   }
 }
