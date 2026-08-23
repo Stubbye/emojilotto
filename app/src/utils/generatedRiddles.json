@@ -48075,5 +48075,23 @@
       4,
       7
     ]
+  },
+  "sol_2274": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers align in cosmic trance. The archer's mark kisses heaven's sphere, while thunder's kiss fuels ambition's sphere. Winged metamorphosis spins through the void, where crystalline prisms and luck are deployed. One wears the mask of trickster's delight, six destinies shimmer in labyrinthine night.",
+      "hint": "Consider the journey upward: aim, ascension, transformation, light, chance, and deception's twin."
+    },
+    "easyRiddle": {
+      "text": "A mark seeks the moon through electric streams. Gems glimmer where butterflies dream. The trickster grins at crystal's gleam. Six signs dance in fortune's scheme.",
+      "hint": "Think of: targeting, reaching up, changes, bright sparks, fate's game, and the jester's role."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      21,
+      20,
+      19
+    ]
   }
 }
