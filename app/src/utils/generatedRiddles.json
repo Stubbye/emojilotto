@@ -47733,5 +47733,23 @@
       8,
       17
     ]
+  },
+  "sol_2253": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six dancers in twilight reveal: the archer's aim through prisms bright, the serpent coils where heavens ignite, wings of transformation brushing stardust's gleam, while laughter masks the jester's dream.",
+      "hint": "Seek the meeting of chance and sky, where mythical beings perform their silent waltz."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket's ascent, the gem that catches moonlight spent, lightning's fury and dragon's might, the joker who laughs in the night.",
+      "hint": "Six treasures: one is aimed, one flies, one shines, one strikes, one soars with wings, and one jokes around."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      17
+    ]
   }
 }
