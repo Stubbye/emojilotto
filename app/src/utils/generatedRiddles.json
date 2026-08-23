@@ -48183,5 +48183,23 @@
       8,
       19
     ]
+  },
+  "sol_2281": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances with celestial fire, six tokens of fate converge: the archer's mark meets winged ascension, precious crystalline dreams embrace the night's sovereign gaze, while electricity births transformation and the trickster's smile unveils what mortals dare not seek.",
+      "hint": "One guides aim, one escapes gravity, one sparkles with worth, one rules darkness, one ignites change, and one deceives with glee."
+    },
+    "easyRiddle": {
+      "text": "A bullseye, a rocket to the sky, a glittering gem, the moon's pale light, a lightning bolt's crack, and a joker's grin—these six hold the secret.",
+      "hint": "Find the target, the launcher, the precious stone, the night keeper, the storm's spark, and the fool's face."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
