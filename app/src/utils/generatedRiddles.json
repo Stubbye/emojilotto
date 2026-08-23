@@ -47625,5 +47625,23 @@
       11,
       20
     ]
+  },
+  "sol_2247": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in chaos' desire. The jester's grin beneath a winged sprite, a gem catches starlight's prismatic flight. What glimmers in the performer's domain, where masked souls waltz through fortune's refrain?",
+      "hint": "One points to luck, one ignites the sky, one laughs at fate, one soars on high, one holds all colors, one hides true face."
+    },
+    "easyRiddle": {
+      "text": "A target awaits the bold and true, lightning crackles the heavens through. A joker grins where masks convene, amid sparkles bright and gems so keen. What six shall seal your destiny's dance?",
+      "hint": "Find the archer, the storm, the fool, the performer's tool, the jewel that gleams, and stars of dreams."
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      18,
+      7,
+      20
+    ]
   }
 }
