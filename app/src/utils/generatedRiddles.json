@@ -48057,5 +48057,23 @@
       20,
       13
     ]
+  },
+  "sol_2273": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, a jeweled dancer pirouettes through storm-lit grace. The trickster's grin reflects in crystalline deep, while celestial fire awakens what the heavens keep. Six whispers dance between the seen and unseen—name the tokens where destiny convenes.",
+      "hint": "Consider the journey from earth to cosmos, and the performers who dwell between worlds."
+    },
+    "easyRiddle": {
+      "text": "A target guides the way, a rocket breaks the chain, a gem gleams bright, the moon glows far, lightning strikes with flame, and mirrors play the game. Six signs align—what are they?",
+      "hint": "Look to the sky, the earth, and those who entertain."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
   }
 }
