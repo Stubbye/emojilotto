@@ -47715,5 +47715,23 @@
       14,
       17
     ]
+  },
+  "sol_2252": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six dancers of fate convene. The jester's grin guards treasures born from earth's deep slumber, whilst wings of metamorphosis waltz with the bolt that splits the veil between worlds. A noble crown rests upon the threshold where music and chaos intertwine, yet all remain veiled in the performer's eternal mystery.",
+      "hint": "Consider what transforms, what strikes, what entertains, what achieves, what sparkles within darkness, and what mocks destiny itself."
+    },
+    "easyRiddle": {
+      "text": "Six signs of luck and spectacle: where you aim, where jesters play, what lightning carries, what performers hide behind, what butterflies seek, and the prize of champions.",
+      "hint": "Think of: target, joker, lightning, masks, flower, trophy"
+    },
+    "answer": [
+      0,
+      12,
+      4,
+      18,
+      8,
+      17
+    ]
   }
 }
