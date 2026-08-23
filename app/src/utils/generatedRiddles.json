@@ -47769,5 +47769,23 @@
       9,
       19
     ]
+  },
+  "sol_2255": {
+    "hardRiddle": {
+      "text": "Where fortune's arc bends through celestial fire, six dancers waltz in shadow's attire. The jester's grin meets destiny's gleam, while winged metamorphosis haunts the dream. Thunder's kiss upon a stage of jest, where precious light has passed the test. Beneath the crescent's watchful gaze, six secrets hide within the maze.",
+      "hint": "Look for performance, transformation, electricity, precious things, night's guardian, and chaos made theatrical"
+    },
+    "easyRiddle": {
+      "text": "I am six treasures in fortune's call: a joker performs on a jeweled hall. A butterfly dances where lightning strikes near, beneath the moon and gems so dear. The circus stage holds sparkles bright.",
+      "hint": "Think of laughter, wings, electricity, jewelry, night sky, and magic"
+    },
+    "answer": [
+      1,
+      8,
+      5,
+      2,
+      3,
+      19
+    ]
   }
 }
