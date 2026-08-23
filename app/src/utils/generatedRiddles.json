@@ -48111,5 +48111,23 @@
       21,
       2
     ]
+  },
+  "sol_2277": {
+    "hardRiddle": {
+      "text": "Where celestial breath meets earthbound flame, six shadows dance in fortune's game. The archer's mark and serpent's might, the jester's grin in starlit night, the winged metamorphosis takes flight, while fortune's stone catches pure light.",
+      "hint": "Consider what ascends, what deceives, what transforms, what illuminates, what aims, and what glimmers."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a target to hit, a dragon's power, a star that shines, a joker's trick, a butterfly's grace, and a gem so bright.",
+      "hint": "One is aimed at, one flies, one glows, one amuses, one floats, and one sparkles."
+    },
+    "answer": [
+      0,
+      13,
+      21,
+      11,
+      8,
+      5
+    ]
   }
 }
