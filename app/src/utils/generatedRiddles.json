@@ -47697,5 +47697,23 @@
       4,
       14
     ]
+  },
+  "sol_2251": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls in refracted light. The jester's wisdom blooms eternal while chaos crackles—six sacred vessels holding destiny's silent song, one crowned in victory's gleam.",
+      "hint": "Seek the archer's mark, the night's pale face, the fool's grin, the primal roar, the blossom's grace, and glory's golden embrace."
+    },
+    "easyRiddle": {
+      "text": "I point the way to winning dreams. A bright companion lights the night. A laughing soul plays tricks with fate. Heat and passion burn so bright. Beauty grows in nature's gift. Champions wear me with delight. What six symbols guide your path?",
+      "hint": "Think: direction, darkness, foolishness, energy, growth, and achievement."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      6,
+      14,
+      17
+    ]
   }
 }
