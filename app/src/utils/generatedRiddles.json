@@ -48165,5 +48165,23 @@
       13,
       14
     ]
+  },
+  "sol_2280": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets earthbound fortune's dance, six keepers of destiny waltz through chance. The archer's mark gleams with prismatic fire, while winged metamorphosis ascends ever higher. Thunder's bright whisper crowns the midnight sphere, and masked revelry echoes what dreams revere.",
+      "hint": "Think of luck's symbols: precision, wealth, transformation, power, night, and deception."
+    },
+    "easyRiddle": {
+      "text": "A target shines bright, a gem sparkles true, lightning strikes fast, and the moon watches you. A butterfly soars, and a joker grins wide—these six lucky symbols are your lottery guide.",
+      "hint": "All six answers appear directly mentioned in the riddle."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      3,
+      8,
+      19
+    ]
   }
 }
