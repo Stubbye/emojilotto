@@ -47895,5 +47895,23 @@
       4,
       3
     ]
+  },
+  "sol_2263": {
+    "hardRiddle": {
+      "text": "Where celestial flame meets fortune's twin dance, six sentinels of fate convene. The archer's mark bleeds into the void's silver gaze, while thunder's kiss births radiance eternal. A prism of chaos splits the heavens, and trickster's grin guards the threshold between worlds.",
+      "hint": "Seek the meeting of aim and sky, night and light, chaos and mischief."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a goal to reach, a journey upward, a precious stone, the night's watchful eye, the sky's angry power, and the jester's knowing smile. Which six dance together in destiny's game?",
+      "hint": "Think of ambition, light, value, night, storms, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
