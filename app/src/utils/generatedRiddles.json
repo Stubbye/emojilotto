@@ -48579,5 +48579,23 @@
       5,
       8
     ]
+  },
+  "sol_2302": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six whispers coalesce: the archer's distant mark, the winged metamorphosis ascending toward the nocturnal sentinel, the crystalline brilliance splitting storms asunder, and the triumphant emblem crowned in radiance—all converge where chaos and destiny pirouette upon the eternal stage.",
+      "hint": "A performer, a transformation, a night guardian, a split force, a winner's prize, and precision's mark walk into destiny's theater."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: One marks your aim, one brings you high, one shines at night, one cracks the sky, one celebrates the win, and one laughs at fate—together they unlock the lottery's gate.",
+      "hint": "Think of achievement, weather, performance, nighttime, and chance all mixed together."
+    },
+    "answer": [
+      0,
+      8,
+      21,
+      4,
+      17,
+      19
+    ]
   }
 }
