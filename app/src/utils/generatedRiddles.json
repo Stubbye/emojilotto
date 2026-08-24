@@ -48471,5 +48471,23 @@
       5,
       14
     ]
+  },
+  "sol_2297": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's dark crown, a serpent of light dances through celestial fire. The jester's twin masks reflect in nature's prism, while winged metamorphosis spirals through the storm's crystalline song.",
+      "hint": "Seek the meeting of chance, sky, and transformation. One marks the goal, one ascends, one rules the abyss, one ignites the heavens, one mirrors duality, one transcends earthly form."
+    },
+    "easyRiddle": {
+      "text": "I have a target that marks the way, a rocket that flies up high, a gem that sparkles bright, a moon that glows at night, lightning that strikes fast, and a dragon that guards it all.",
+      "hint": "Think of 6 magical symbols: one you aim at, one that launches, one precious, one celestial, one electric, and one legendary creature."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      13
+    ]
   }
 }
