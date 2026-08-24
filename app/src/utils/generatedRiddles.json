@@ -48489,5 +48489,23 @@
       4,
       13
     ]
+  },
+  "sol_2298": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six tokens dance in chaos' desire. The winged soul transcends through prism'd light, while fortune's jester grins in shadow's night. Thunder's kiss upon the gemstone's face, and masked performers waltz through time and space.",
+      "hint": "One guides arrows, one ignites the sky, one transforms, one laughs at fate's reply, one sparkles with ancient power, and one wears many faces in fortune's hour."
+    },
+    "easyRiddle": {
+      "text": "I seek the archer's mark, the sky's bright spark, the winged dancer, the gem that gleams, the sky's wild dance, and the masked entertainer of dreams.",
+      "hint": "Think of: something you aim at, something that flies fast, something that flies beautifully, something precious, something electric, and someone who performs."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      2,
+      4,
+      18
+    ]
   }
 }
