@@ -48381,5 +48381,23 @@
       5,
       11
     ]
+  },
+  "sol_2292": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge from shadow's veil. The archer's mark meets the void's silent song, while fortune's jester pirouettes on crystalline wings. What glimmers in chaos and spirals through night, bearing wings of transformation and light?",
+      "hint": "Consider the intersection of luck, performance, and transformation. One guides from above, one performs on stage, one transforms, one strikes, one sparkles, one is sought."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this poetic quest: a beam that strikes, a gem so bright, a shape to aim, a joy that soars, a face that plays, and wings that dance.",
+      "hint": "Think of electricity, precious stones, targets, circus joy, theatrical masks, and butterfly beauty."
+    },
+    "answer": [
+      4,
+      2,
+      0,
+      7,
+      19,
+      10
+    ]
   }
 }
