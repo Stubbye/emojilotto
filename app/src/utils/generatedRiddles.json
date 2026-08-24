@@ -48561,5 +48561,23 @@
       5,
       19
     ]
+  },
+  "sol_2301": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and trickster's grin meets the winged wanderer's heel. Beneath the crescent's gaze, a gemstone gleams in night, while chaos sparks in silence—six secrets held in sight. The jester knows the answer where destiny takes flight.",
+      "hint": "Look for the night sky's twin, the gambler's laugh, the creature of cunning, the jewel of wisdom, the moment of change, and the messenger of transformation."
+    },
+    "easyRiddle": {
+      "text": "Six keys to fortune hide in this verse: a glowing stone, a prankster's call, a swift-pawed schemer, the moon's soft sprawl, a spark that strikes, and wings that soar—can you find all six to unlock the door?",
+      "hint": "One shines in darkness, one plays jokes, one is clever, one is high, one is sudden, one is free."
+    },
+    "answer": [
+      3,
+      19,
+      13,
+      6,
+      5,
+      8
+    ]
   }
 }
