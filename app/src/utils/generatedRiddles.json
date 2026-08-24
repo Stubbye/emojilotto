@@ -48615,5 +48615,41 @@
       5,
       6
     ]
+  },
+  "sol_2305": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six tokens dance through cosmic space. The jester's grin unlocks the gate, while scales of chance illuminate fate. Through crystalline veils and violet dreams, a serpent guards where starlight gleams. What sixfold destiny reveals the way to claim the lottery's golden day?",
+      "hint": "One points the way, one laughs at odds, one sparkles pure, one coils proud, one shines eternal, one crowns the bold"
+    },
+    "easyRiddle": {
+      "text": "Six magical items hide within this rhyme: a mark to aim for, a prize so fine. A jester jokes, a dragon coils, a gem that sparkles, a star that toils. One more twinkle to complete the set—what six shall bring the greatest bet?",
+      "hint": "Target, Trophy, Joker, Dragon, Crystal, Star"
+    },
+    "answer": [
+      0,
+      18,
+      19,
+      13,
+      20,
+      21
+    ]
+  },
+  "emlo_804": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gem-like value sparkles as fortune strikes like lightning. The joker dances in my circus of chaos, while a dragon guards treasures beneath the rainbow. What am I?",
+      "hint": "A memecoin journey: ascension, luck, entertainment, and mythical wealth"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning fast gains, a gem shines bright, the joker laughs, dragon roars, and the rainbow shows the way. Pick the 6 symbols of this memecoin adventure.",
+      "hint": "Look for: launch, destination, value, chance, power, and hope"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      11,
+      13,
+      9
+    ]
   }
 }
