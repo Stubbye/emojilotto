@@ -48651,5 +48651,23 @@
       13,
       9
     ]
+  },
+  "sol_2306": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial fire, six dancers waltz through destiny's choir. The jester's grin guards twin flames of chance, while scaled wisdom guards the sparkled trance. Below the crescent's watchful eye they spin, where gemstone fortune and chaos begin.",
+      "hint": "Consider the performer, the guardian, the seeker, the watcher, the brilliance, and the gamble."
+    },
+    "easyRiddle": {
+      "text": "A lucky target shines, a rocket flies high, a gem glows bright under the moon's eye. Lightning and dice dance together in night—six treasures combine to bring fortune's light.",
+      "hint": "Six of these bring luck: target, rocket, gem, moon, lightning, dice."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
   }
 }
