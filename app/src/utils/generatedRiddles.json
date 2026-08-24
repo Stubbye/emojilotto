@@ -48309,5 +48309,23 @@
       7,
       20
     ]
+  },
+  "sol_2288": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jester, and the mystic gem reflects the archer's distant mark. The dragon's fortune spirals through the butterfly's prismatic gate, while thunder crowns the stage of infinite jest.",
+      "hint": "Seek the intersection of luck, illusion, precision, and metamorphosis beneath a fractured sky."
+    },
+    "easyRiddle": {
+      "text": "A precious stone gleams under night's pale gaze. Thunder strikes near the target. The joker grins as the dragon awakens. The butterfly dances through sparkles.",
+      "hint": "Five things sparkle, one thing aims. Two are mischievous, two are alive, one is electric."
+    },
+    "answer": [
+      3,
+      4,
+      1,
+      8,
+      13,
+      10
+    ]
   }
 }
