@@ -48507,5 +48507,41 @@
       4,
       18
     ]
+  },
+  "sol_2299": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's game, six muses convene in twilight's frame. The archer's mark aligns with heaven's glow, while jester's mask and scaled wisdom flow. Thunder's kiss meets butterfly's grace, and gemstone gleams in this sacred space.",
+      "hint": "Think of: precision meeting destiny, chance encountering royalty, speed joining illumination, transformation with brilliance, chaos with nature, and wealth with magic."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this lucky call: a goal to hit, a jewel that shines bright, a creature that flies with colorful wings, a wise scaled beast, a jester's grin, and the bolt that strikes with power. Which six dance together in fortune's hour?",
+      "hint": "One points the way, one sparkles, one transforms, one roars, one laughs, and one illuminates."
+    },
+    "answer": [
+      0,
+      2,
+      7,
+      13,
+      12,
+      4
+    ]
+  },
+  "emlo_803": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the celestial sphere, where crystalline fortunes spark with electric power. Beauty transforms through chaos, and luck strikes like thunder in this volatile dance of chance.",
+      "hint": "Think of the journey from floor to fortune: a player's tool, a destination, what you find, what lights the way, what powers it all, and what changes form."
+    },
+    "easyRiddle": {
+      "text": "I roll for fortune, I aim at dreams, I'm worth more than gold, I shock with speed, I reach the top, and I change everything.",
+      "hint": "Start with how you play, then where you go, what you seek, what energizes, where you land, and what happens to you."
+    },
+    "answer": [
+      11,
+      1,
+      2,
+      4,
+      21,
+      8
+    ]
   }
 }
