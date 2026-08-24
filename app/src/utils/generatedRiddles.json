@@ -48291,5 +48291,23 @@
       11,
       13
     ]
+  },
+  "sol_2287": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and masked mirth pirouettes beneath the gleaming prism, the winged wanderer seeks its crimson destiny through crystalline chaos—six souls align when luck's electric tongue tastes the bull's eye of eternity.",
+      "hint": "Think of performance, luck, sky, gems, and what burns bright. The answer involves a circular target, a performer's realm, stones of earth, lights from above, and electricity's kiss."
+    },
+    "easyRiddle": {
+      "text": "A target glows as rockets soar, while gems and lightning dance with fire. Under the big top's magic, a butterfly finds fortune in sparkles and stars.",
+      "hint": "Six lucky symbols: one you aim at, one that flies, one that shines, one that strikes, one under a tent, and one that flutters, plus cosmic light."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      20
+    ]
   }
 }
