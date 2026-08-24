@@ -48687,5 +48687,23 @@
       4,
       20
     ]
+  },
+  "sol_2309": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the archer's mark meets the serpent's ancient grace. Through prism'd light, the winged metamorphosis ascends toward the luminous sphere, while fortune's glittering shard catches the bolt of destiny. Six treasures converge where chaos becomes destiny.",
+      "hint": "Consider the duality of chance, the mythical, the electric, and what transforms."
+    },
+    "easyRiddle": {
+      "text": "A target and a rocket reach for the sky, a gem sparkles bright, the moon glows high. Lightning strikes with dragon's might, and a butterfly takes flight.",
+      "hint": "Look for celestial themes, power, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      8
+    ]
   }
 }
