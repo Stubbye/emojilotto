@@ -48669,5 +48669,23 @@
       4,
       11
     ]
+  },
+  "sol_2307": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six tokens dance in chaos and grace. The winged metamorphosis spirals through a prism of luck, while the trickster's glint reflects in the gem of destiny. Lightning strikes twice in the jester's gaze, and crystal echoes what fire cannot speak. What six shall align when the dice gods whisper their ancient names?",
+      "hint": "One points, one flies, one transforms, one tricks, one illuminates, one crystallizes. Seek the intersection of sport, nature, chaos, deception, electricity, and permanence."
+    },
+    "easyRiddle": {
+      "text": "A target seeks, a rocket flies high, a butterfly dances, a joker grins, lightning crackles, and a crystal glimmers. These six hold the key to lottery's mystery.",
+      "hint": "The first three are things that move or change, the last three are figures or forces of power and magic."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      19,
+      4,
+      20
+    ]
   }
 }
