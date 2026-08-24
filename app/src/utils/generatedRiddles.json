@@ -48345,5 +48345,23 @@
       9,
       11
     ]
+  },
+  "sol_2290": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls through the night's embrace. The storm's fury meets the inferno's kiss, while delicate wings carry wishes to realms unseen. One shimmers eternal in the void, another blooms where chaos and grace converge. Six sentinels guard the threshold of destiny—name them, and claim your ascension.",
+      "hint": "Think of elements that bridge earth and sky, chaos and beauty, chance and fate. One is a projectile of ambition, one rules the darkness, one strikes with violence, one ignites passion, one transforms through metamorphosis, and one represents eternal radiance."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and wonder: one shoots to the heavens, one commands the night sky, one dances with electric fury, one consumes with golden breath, one flutters on delicate wings, and one radiates with boundless light. What are these treasures of the lottery?",
+      "hint": "Rocket, Moon, Lightning, Fire, Butterfly, Sparkles"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      8,
+      10
+    ]
   }
 }
