@@ -48237,5 +48237,23 @@
       11,
       10
     ]
+  },
+  "sol_2284": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentries guard the threshold between chaos and ascension. The winged wanderer dances where crystalline tears fall upon the stage of infinite jest. Thunder's kiss ignites the juggler's dream, whilst the scaled guardian watches from heights unknown. In this symphony of chance, what six symbols decree the victor's crown?",
+      "hint": "Seek the marksman's precision, the night's pale sentinel, the fool's laughter, the storm's wrath, the prism's daughter, and the ancient keeper of mountains."
+    },
+    "easyRiddle": {
+      "text": "I am six voices in the darkness: one points true, one rules the night, one brings the laugh, one strikes with fury, one splits the light, and one guards old magic. Who am I?",
+      "hint": "Look for a target, a moon, a joker, lightning, a crystal, and a dragon among the symbols."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      4,
+      20,
+      13
+    ]
   }
 }
