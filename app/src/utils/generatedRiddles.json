@@ -48597,5 +48597,23 @@
       17,
       19
     ]
+  },
+  "sol_2303": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthly desire, six keepers of fate converge. The archer's mark gleams with inner light, while the winged messenger ascends through darkness. Chaos tumbles in geometric surrender, as the trickster's grin mirrors the storm's breath. What trinity of power crowns the seeker's journey?",
+      "hint": "One points the way, one flies beyond, one decides by chance, one laughs at rules, one illuminates the night, and one consumes all in its path."
+    },
+    "easyRiddle": {
+      "text": "I am the goal you aim for, the treasure that shines, the messenger to the stars, the random decider, the mischievous grin, and the force that destroys. Six symbols of luck and chaos—what am I?",
+      "hint": "Think of gambling, wishes, and the forces of nature and fate."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      12,
+      5,
+      6
+    ]
   }
 }
