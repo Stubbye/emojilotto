@@ -48741,5 +48741,23 @@
       20,
       18
     ]
+  },
+  "sol_2312": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the jester's laugh echoes across fortune's amphitheater. Six tokens dance: the archer's goal gleams eternal, the chariot of dreams ignites the void, the earth's tears crystallize into starlight, the night's sentinel watches over destiny, the serpent of old coils through chaos, and petals of creation bloom where all worlds converge.",
+      "hint": "Seek the marked destination, the ascending vessel, the hardened treasure, the lunar keeper, the ancient wyrm, and the symbol of life's beginning."
+    },
+    "easyRiddle": {
+      "text": "I am six things in fortune's game: a target to aim for, a rocket that flies high, a gem that sparkles bright, a moon that glows at night, a dragon fierce and old, and a flower to behold.",
+      "hint": "Think of a bullseye, space travel, jewelry, nighttime, mythical beasts, and gardens."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      15
+    ]
   }
 }
