@@ -48417,5 +48417,23 @@
       8,
       13
     ]
+  },
+  "sol_2294": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a masked jester spins beneath the crescent's veil. Six secrets hide: the archer's distant mark, the serpent's ancient wisdom coiled in flame, the dancer's delicate wings born of metamorphosis, and the crystalline fragment where starlight sleeps eternal. What binds the fool's grin to the heavens' gemstone heart?",
+      "hint": "Think of games of chance where destiny meets the cosmos, where performers wear their souls and nature's transformations hold the key."
+    },
+    "easyRiddle": {
+      "text": "I contain: something you aim at, something that flies high, something precious, something in the sky at night, something that strikes fast, and something that performs tricks. What am I?",
+      "hint": "Lottery tickets hold dreams. These six symbols appear on lucky tickets."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
   }
 }
