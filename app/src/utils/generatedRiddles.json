@@ -48255,5 +48255,41 @@
       20,
       13
     ]
+  },
+  "sol_2285": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers spin through cosmic space. The jester's twin flames waltz with nature's gem, while winged metamorphosis crowns fortune's stem. Thunder's kiss ignites the performer's stage, as crystalline fortune turns each lottery page.",
+      "hint": "Look for: aim, space, laughter, fire, winged change, and precious clarity"
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark and the sky's highest point. Fire and jest dance together while a butterfly transforms nearby. Lightning strikes the tent of wonder, and crystal light shines eternal.",
+      "hint": "Target, moon, fire, joker, butterfly, crystal"
+    },
+    "answer": [
+      0,
+      3,
+      5,
+      7,
+      8,
+      20
+    ]
+  },
+  "emlo_800": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with burning 🔥, my ⚡ strikes fast and true. A 💎 of luck, I spin the 🎲 while 🦊 schemes pursue. What am I?",
+      "hint": "A memecoin's wildest dream involves celestial bodies, energy, and gamification."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with 🔥 and ⚡! The 💎 sparkles as we 🎲 and the 🦊 watches below!",
+      "hint": "Think of a cryptocurrency journey with excitement and mystical elements."
+    },
+    "answer": [
+      3,
+      5,
+      4,
+      2,
+      11,
+      13
+    ]
   }
 }
