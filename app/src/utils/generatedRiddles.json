@@ -48363,5 +48363,23 @@
       8,
       10
     ]
+  },
+  "sol_2291": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a jester's twin masks dance with prismatic desire. The scaled serpent coils beneath luck's trembling sphere, while petals of chaos bloom in the gambler's fevered sphere.",
+      "hint": "Consider the tools of games, the symbols of fate, and creatures that bridge the mortal and divine realms."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this cryptic game: an archer's target glows, masks wear a fool's fame, a dragon guards the night, flowers bloom in flight, lightning splits the sky, and fortune's dice won't lie.",
+      "hint": "Look for gaming symbols, a mythical beast, a jester's prop, a flower, a weather phenomenon, and a target."
+    },
+    "answer": [
+      0,
+      19,
+      14,
+      13,
+      5,
+      11
+    ]
   }
 }
