@@ -48435,5 +48435,23 @@
       4,
       19
     ]
+  },
+  "sol_2295": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six secrets hide in shadow's glance. The archer's mark dissolves to dust, while heavenly ascent demands your trust. A gem's refracted light shall gleam, and winged metamorphosis redeems the dream. Thunder's kiss upon the night, paired with jest of masks in flight.",
+      "hint": "One points to earth, one reaches sky, one sparkles deep, one learns to fly, one strikes with rage, one grins with guile—together they compose fortune's beguile."
+    },
+    "easyRiddle": {
+      "text": "I am six in cosmic jest: a pointed aim, a lunar crest, a glowing stone so bright and deep, a creature born from chrysalis sleep, a burst of rage from heaven's height, a trickster's grin in pale moonlight.",
+      "hint": "Look for aim, moon, sparkle, flutter, shock, and comedy among the symbols."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      8,
+      5,
+      19
+    ]
   }
 }
