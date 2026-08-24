@@ -48453,5 +48453,23 @@
       5,
       19
     ]
+  },
+  "sol_2296": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a jeweled serpent coils 'neath celestial light. The jester's grin guards what the phoenix ignites, while petals dance with prismatic flights. In this symphony of chance and glittering dust, six tokens of destiny await the just.",
+      "hint": "One points true, one coils wise, one glimmers precious, one rules the skies, one burns eternal, one blooms in grace"
+    },
+    "easyRiddle": {
+      "text": "I am the arrow of precision, a creature of ancient wisdom, a treasure most precious, the guardian of night, the force of rebirth, and nature's delicate artist. Find us six in the vault of fate.",
+      "hint": "Aim for the dragon under moonlight, where fire meets the flower's sight"
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      21,
+      5,
+      14
+    ]
   }
 }
