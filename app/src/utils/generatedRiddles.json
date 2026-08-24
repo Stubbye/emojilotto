@@ -48543,5 +48543,23 @@
       21,
       8
     ]
+  },
+  "sol_2300": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between earthbound clay and celestial throne, a winged metamorphosis dances through prismatic veils while thunder's tongue speaks in crystalline fractals, and the jester's grin eclipses all symmetry beneath the watchful eye of the crown's eternal flame.",
+      "hint": "Look for the messenger of change, the symbol of aim, the realm above, the faceted truth, the spark of chaos, and the guardian of mirth."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this sequence: one flies straight to dreams, one transforms in grace, one shines from heaven's face, one breaks the storm's embrace, one flickers bright with blazing might, and one wears fortune's golden face.",
+      "hint": "Think of journeys, beauty, sky, magic light, danger, and laughter combined."
+    },
+    "answer": [
+      1,
+      8,
+      3,
+      20,
+      5,
+      19
+    ]
   }
 }
