@@ -48705,5 +48705,23 @@
       13,
       8
     ]
+  },
+  "sol_2310": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath celestial fire, six secrets sworn in shadow's choir. The winged trickster courts the jeweled night, while thunder's kiss ignites the crystal light. Beneath the mask of chaos, destiny's arc bends where the fox, the flame, and the gem all dance and mend.",
+      "hint": "Look for a masked performer, a cunning creature, an explosive force, a precious stone, a celestial beacon, and electricity's fury."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: a jester grins, lightning strikes bright, a fox is sly, fire burns hot, a gem sparkles, and the moon glows in the night. Which six shall you choose to win the light?",
+      "hint": "One performs, one runs fast, one hunts, one destroys, one shines precious, and one rules the sky."
+    },
+    "answer": [
+      19,
+      1,
+      13,
+      2,
+      3,
+      5
+    ]
   }
 }
