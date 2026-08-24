@@ -48723,5 +48723,23 @@
       3,
       5
     ]
+  },
+  "sol_2311": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's double crown, a painted wave bends light through prism's sacred ground. The jester's twin souls spin in chaos blessed, while swift-cunning guardian treads between the blessed and test. Six symbols intertwine in destiny's cryptic jest—which treasures shall the cosmos manifest?",
+      "hint": "One shimmers with chance, one rules the night sky, one brings fortune's luck, one deceives the eye, one glimmers eternal, one moves like the breeze."
+    },
+    "easyRiddle": {
+      "text": "I spin like fate's wheel, I glow in the dark, I flash through the sky, I shimmer and spark. Find the fool's double, the beast that is sly, the painter's true weapon, and fortune draws nigh.",
+      "hint": "Look for games of chance, the moon's bright domain, a speed demon's symbol, and trickery's reign."
+    },
+    "answer": [
+      11,
+      4,
+      1,
+      13,
+      20,
+      18
+    ]
   }
 }
