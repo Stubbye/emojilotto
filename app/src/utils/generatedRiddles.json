@@ -49065,5 +49065,23 @@
       3,
       0
     ]
+  },
+  "sol_2328": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls in flames of chaos. The jester's grin mirrors the prism's fractured song, while thunder's child weaves destiny's shimmer. Six tokens of fate converge where laughter and luck entwine beneath the painted arc.",
+      "hint": "One guides the aim, one crowns the night, one births the spark, one laughs in masks, one shatters light, one traces the sky's painted track."
+    },
+    "easyRiddle": {
+      "text": "A target and a rocket soar, a gem and moon adore. Lightning strikes and fire roars. Rainbow paints what fortune stores.",
+      "hint": "Look for: something you aim at, something that flies, something precious, something in the sky, something electric, and something colorful."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
   }
 }
