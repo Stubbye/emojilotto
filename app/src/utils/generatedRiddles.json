@@ -48885,5 +48885,23 @@
       5,
       21
     ]
+  },
+  "sol_2320": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the scaled serpent guards what glimmers in shadow's embrace. The jester's grin reflects in crystalline depths, whilst the winged wanderer tastes the spectrum's sweetest arc. Six emblems of destiny converge where chaos and brilliance collide.",
+      "hint": "Think of targets, mythical guardians, precious stones, and the liminal spaces between chaos and order."
+    },
+    "easyRiddle": {
+      "text": "A game of chance needs: something to aim at, a beast of legend, a precious stone, a cosmic mirror, a trickster's symbol, and the path of light through rain. What six treasures unlock the vault of fortune?",
+      "hint": "One flies, one shines, one laughs, one reflects, and the rest hold deeper meaning in games of luck."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      9,
+      19,
+      21
+    ]
   }
 }
