@@ -49173,5 +49173,23 @@
       8,
       3
     ]
+  },
+  "sol_2333": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the shapeshifter's cunning meets the scaled guardian's ancient appeal. Six treasures intertwine: the archer's sacred aim, the star-crowned night, the jester's masked game, the prism's fractured light, and nature's metamorphic flame.",
+      "hint": "Think of cosmic forces, trickery, transformation, and the eternal hunt for glory"
+    },
+    "easyRiddle": {
+      "text": "Find the glowing target, the moon's pale glow, the dragon's might, the joker's show, the butterfly's dance, and the crystal's rainbow flow.",
+      "hint": "Six symbols: aim high, seek night, embrace magic, laugh loud, transform beautifully, and shine bright"
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      19,
+      8,
+      20
+    ]
   }
 }
