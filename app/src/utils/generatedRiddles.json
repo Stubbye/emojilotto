@@ -49209,5 +49209,41 @@
       8,
       7
     ]
+  },
+  "sol_2336": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's call, six sentinels of fate converge in twilight's thrall. The jester's twin gazes upon fortune's gleaming throne, while wings of metamorphosis dance where fortune's seeds are sown. In prisms of light and tempests of sky, the archer's eternal mark bids destiny pass by.",
+      "hint": "One creature wears two faces, one transforms, one glimmers eternally, one strikes from above, one guides from beyond, and one marks the path."
+    },
+    "easyRiddle": {
+      "text": "I contain a magical performer who laughs at fate, a flying creature born anew, something that sparkles bright, a bolt from the heavens, a distant night guardian, and a circle that never misses. What am I?",
+      "hint": "Look for: something funny, something that changes, something shiny, something electric, something distant, and something precise."
+    },
+    "answer": [
+      19,
+      8,
+      10,
+      5,
+      3,
+      0
+    ]
+  },
+  "emlo_810": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my precious tokens sparkle as chaos reigns. Fortune spins wildly while tricksters grin, and nature's magic blooms in the aftermath of brilliant streaks.",
+      "hint": "Think of a memecoin's journey: destination, propulsion, value, timing, volatility, and transformation."
+    },
+    "easyRiddle": {
+      "text": "A coin launches to the 🌙, powered by ⚡, worth more than 💎, gambled with 🎲, celebrated with 🎉, and watched by a clever 🦊.",
+      "hint": "Follow the rocket to success and find six symbols of crypto dreams."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      11,
+      7,
+      13
+    ]
   }
 }
