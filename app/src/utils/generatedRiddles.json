@@ -48813,5 +48813,23 @@
       8,
       0
     ]
+  },
+  "sol_2316": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's grin, six tokens of fate await the bold within. The archer's mark meets heaven's torch ablaze, while gems crystallize through fortune's golden maze. A jester's laughter echoes as the storm strikes true, and nature's metamorphosis completes the mystical brew.",
+      "hint": "One points earthward, one ascends to sky, one sparkles with worth, one wields deception's tie, one brings the thunder, and one transforms in flight."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket soaring high, the gem that glimmers and moon in night sky, the lightning that strikes and butterfly that flies free—these six treasures are the key to lottery's spree.",
+      "hint": "Look for three symbols of direction and power, three of magic and nature's flower."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
