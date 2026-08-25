@@ -48795,5 +48795,23 @@
       8,
       20
     ]
+  },
+  "sol_2315": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge from chaos and steel. The archer's mark meets the serpent's might, while crystalline tears catch the moon's soft light. Twin wings flutter through spectrum's arc, as destiny sparkles within the dark.",
+      "hint": "Seek the celestial, the mythical, the precious, the luminous, the natural, and the lucky."
+    },
+    "easyRiddle": {
+      "text": "Find the night guardian, the scaled mythical beast, the gemstone that shines, the sparkling delight, the delicate insect, and the bow's true mark.",
+      "hint": "One flies at night, one breathes fire in tales, one is precious, one glimmers, one has wings, one is aimed."
+    },
+    "answer": [
+      1,
+      14,
+      2,
+      10,
+      8,
+      0
+    ]
   }
 }
