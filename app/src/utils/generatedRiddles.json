@@ -48777,5 +48777,23 @@
       12,
       21
     ]
+  },
+  "sol_2314": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dreams, a masked performer juggled fortune's gleams. The winged dancer pirouettes through crystalline light, while fortune's arrow pierces the veil of night. Six tokens of destiny spin in fortune's game—can you name the architects of your claim?",
+      "hint": "Think of spectacle, luck, and the cosmos intertwined"
+    },
+    "easyRiddle": {
+      "text": "A circus performer wears a mask, a star shines bright, a rocket soars high, fire burns, a butterfly dances, and a crystal sparkles. What six treasures align in destiny's grasp?",
+      "hint": "One brings joy, one lights the sky, one ascends, one ignites, one floats, one gleams"
+    },
+    "answer": [
+      19,
+      1,
+      18,
+      5,
+      8,
+      20
+    ]
   }
 }
