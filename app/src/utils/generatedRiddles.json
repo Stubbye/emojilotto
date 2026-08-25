@@ -49119,5 +49119,23 @@
       11,
       8
     ]
+  },
+  "sol_2331": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked jest, a prism of fortune unfolds. The winged metamorphosis seeks the radiant heart, while crystalline brilliance whispers secrets to the trembling sphere above. Six destinies converge where chaos giggles and splendor ignites.",
+      "hint": "One brings transformation, one holds laughter, one breaks the night, one gleams eternal, one rules the stars, and one orchestrates fate's percussion."
+    },
+    "easyRiddle": {
+      "text": "A cosmic journey through light and chance: where magic sparkles, dragons roar, masks hide smiles, crystals shine, stars guide lost souls, and fortune's dice decide all fates.",
+      "hint": "These six symbols dance together in destiny's grand performance."
+    },
+    "answer": [
+      1,
+      13,
+      19,
+      21,
+      22,
+      11
+    ]
   }
 }
