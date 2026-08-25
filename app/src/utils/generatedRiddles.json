@@ -49029,5 +49029,41 @@
       4,
       10
     ]
+  },
+  "sol_2327": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances through prismatic veils, a jester's wit gleams in crystalline depths. The archer's mark trembles beneath wings of metamorphosis, while fortune's bones whisper secrets to the scaled guardian. In this symphony of chance, six threads entwine: the launcher of dreams, the gem of eternity, the nocturnal orb, the serpent of thunder, the masked deceiver, and the winged harbinger of transformation.",
+      "hint": "Think of chaos, fortune, night, electricity, deception, and change in their purest symbolic forms."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny await: a tool for launching dreams skyward, a precious stone that catches light, the guardian of night's mysteries, nature's most powerful discharge, a player of tricks and games, and a creature born twice through magical change.",
+      "hint": "One goes up, one sparkles, one glows at night, one strikes fast, one deceives, and one transforms completely."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      8
+    ]
+  },
+  "emlo_808": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gems sparkle as fortune dances with me. The joker laughs while I soar past the target, my rainbow trail burning bright. What am I?",
+      "hint": "Think of a memecoin's journey: destination, power, luck, and the thrilling ride to riches"
+    },
+    "easyRiddle": {
+      "text": "Blast off to fortune! 🚀 Sparkle bright like gems ✨ Strike like lightning ⚡ Laugh with the joker 🃏 Chase the moon 🌙 Hit your target 🎯",
+      "hint": "This memecoin adventure needs 6 things: a launch, shine, speed, fun, dreams, and success"
+    },
+    "answer": [
+      1,
+      5,
+      4,
+      19,
+      3,
+      0
+    ]
   }
 }
