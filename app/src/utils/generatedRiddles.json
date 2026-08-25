@@ -49137,5 +49137,41 @@
       22,
       11
     ]
+  },
+  "sol_2332": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's electric dance, six secrets hide in the veil of night. The archer's goal gleams with stolen starfire, while serpent's ancient wisdom coils through prismatic threads. Thunder's kiss ignites the jester's laughter, and lunar sentinel watches the crystalline bloom unfold.",
+      "hint": "Look to the heavens and the performer's mask; fortune strikes where light bends and legends coil."
+    },
+    "easyRiddle": {
+      "text": "One shines in night's embrace, one strikes with power's rage, one hides in jester's jest, one coils in myth's page, one glimmers like a gem, one blooms where magic grows.",
+      "hint": "Count the moon, lightning, joker, dragon, crystal, and flower."
+    },
+    "answer": [
+      3,
+      4,
+      11,
+      13,
+      20,
+      14
+    ]
+  },
+  "emlo_809": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gem-like brilliance strikes when fortune's needed. Watch the dragon's fire dance as lightning cracks the sky, while butterfly wings sparkle—to the moon we fly!",
+      "hint": "Think of a memecoin's journey: speed, value, energy, luck, transformation, and ultimate destination"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, dragon breathes fire, gem shines bright, lightning strikes fast, butterfly transforms, and the moon is our goal!",
+      "hint": "Name each emoji in order: the vessel, the power, the treasure, the speed, the change, and the destination"
+    },
+    "answer": [
+      1,
+      14,
+      2,
+      4,
+      8,
+      3
+    ]
   }
 }
