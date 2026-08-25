@@ -48867,5 +48867,23 @@
       14,
       21
     ]
+  },
+  "sol_2319": {
+    "hardRiddle": {
+      "text": "Where fortune's dance meets celestial fire, six whispers conspire: the archer's eternal quest burns bright, while winged metamorphosis pirouettes through prismatic veils. The dragon's ancient wisdom coils beneath the jester's painted grin, and where lightning splits the veil, crystalline secrets gleam in moonlit chambers of chance.",
+      "hint": "One points, one transforms, one rules, one laughs, one strikes, one reflects—all seek the lottery's throne."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of fate: a bullseye's promise, a butterfly's grace, a dragon's power, a joker's trick, lightning's strike, and a crystal's gleam. Which six dance together in destiny's game?",
+      "hint": "Target, Butterfly, Dragon, Joker, Lightning, Crystal—find them all to win."
+    },
+    "answer": [
+      0,
+      8,
+      14,
+      20,
+      5,
+      21
+    ]
   }
 }
