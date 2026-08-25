@@ -49011,5 +49011,23 @@
       5,
       0
     ]
+  },
+  "sol_2326": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and twin serpents dance through chromatic veils—one bears the mark of chance's jester, while ethereal wings traverse the luminescent arc. Beneath the sovereign's crown of brilliance, the earth's precious tear gleams. What six symbols converge where destiny's bolt ignites the stage of infinite possibility?",
+      "hint": "Consider the intersection of games, sky, magic, and precious things. One is a court fool, one flies free, one strikes with power."
+    },
+    "easyRiddle": {
+      "text": "I need six magical symbols: something you aim with, something that flies to space, something shiny and valuable, something in the night sky, something that strikes fast, and something that sparkles with magic. What are they?",
+      "hint": "Bow and arrow, rocket ship, gem, moon, lightning, and sparkles—these are the six you seek."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10
+    ]
   }
 }
