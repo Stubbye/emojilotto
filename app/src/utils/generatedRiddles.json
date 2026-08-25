@@ -48957,5 +48957,23 @@
       9,
       3
     ]
+  },
+  "sol_2323": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's eternal gaze, a scaled serpent guards the prism's fractured rays. The trickster's grin conceals the path where wings dissolve to dust, as celestial fire paints the arc of those who blindly trust.",
+      "hint": "One points, one soars, one gleams, one laughs, one flutters, one illuminates"
+    },
+    "easyRiddle": {
+      "text": "Find the marksman's bullseye, the sky-bound vessel's dream, the jewel that catches light, the night's pale gleaming theme, the jester's mocking visage, and the flame that dances bright.",
+      "hint": "A target, a rocket, a gem, a moon, a joker, and fire"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      5
+    ]
   }
 }
