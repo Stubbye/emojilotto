@@ -48975,5 +48975,23 @@
       11,
       5
     ]
+  },
+  "sol_2324": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gaze, and trickster's mask gleams beneath the archer's aim. The bolt of fate strikes through prismatic dreams, while scaled fury guards the threshold between chaos and precision. Six symbols intertwine: the one who hunts in shadows, the one who guards in flame, the one who strikes from above, the one who targets truth, the one who wears the lie, and the one who glimmers eternal.",
+      "hint": "Think of trickery, heat, electricity, predators, direction, and timeless radiance. One element appears twice in nature's manifestations."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a hunter's cunning, a dragon's rage, a lightning's speed, a compass's point, a jester's jest, and a star's eternal shine. What are they?",
+      "hint": "One is an animal, one breathes fire, one strikes fast, one shows direction, one performs, one lights the night sky."
+    },
+    "answer": [
+      13,
+      5,
+      4,
+      0,
+      19,
+      21
+    ]
   }
 }
