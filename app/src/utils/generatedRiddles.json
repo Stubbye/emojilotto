@@ -48993,5 +48993,23 @@
       19,
       21
     ]
+  },
+  "sol_2325": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gaze, six whispers dwell. A winged creature of transformation meets the jester's masked reverie. The dragon's ancient wisdom gleams in crystalline dreams, while fortune's arrow pierces the veil between chaos and destiny. In this hexad, luck's symphony plays—seek the gemstone of fate where lightning kisses the fool's golden laughter.",
+      "hint": "One brings chaos, one brings luck, one brings madness. The sky holds two secrets, and ancient magic breathes through glass."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in shadow: A horned beast of legend, a precious stone that glimmers, a masked trickster's grin, a winged dancer of gardens, a bolt from heaven's anger, and a target marked by destiny's hand.",
+      "hint": "Think of luck, trickery, nature, power, and games of chance."
+    },
+    "answer": [
+      1,
+      2,
+      18,
+      8,
+      5,
+      0
+    ]
   }
 }
