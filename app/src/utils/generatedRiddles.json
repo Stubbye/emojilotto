@@ -48759,5 +48759,23 @@
       14,
       15
     ]
+  },
+  "emlo_805": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gems spark with electric fortune. A joker's luck guides my flight through the circus of chaos, while crystal fire dances beneath the starlit stage.",
+      "hint": "Think of a memecoin's journey: ambition, wealth, volatility, chance, spectacle, and brilliance."
+    },
+    "easyRiddle": {
+      "text": "What rockets to the moon with sparkles and fire, shines bright like a gem, strikes quick as lightning, and brings lucky joker vibes?",
+      "hint": "A successful memecoin has 6 key traits."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      12,
+      21
+    ]
   }
 }
