@@ -48831,5 +48831,41 @@
       4,
       8
     ]
+  },
+  "sol_2317": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, six sentinels guard the threshold between chaos and destiny. The archer's mark meets the sky-piercer's ascent, while gemstone radiance crowns the jester's gleaming domain. Seek the nocturnal sovereign and the winged metamorphosis—together they illuminate the path where luck crystallizes into being.",
+      "hint": "Think of elements of chance, celestial bodies, transformation, and the journey upward through layers of fortune."
+    },
+    "easyRiddle": {
+      "text": "Six magical things gather for the lottery: a bullseye, a soaring ship, a sparkling stone, the night's bright face, a dazzling flash, and a colorful fool. What are they?",
+      "hint": "One points to targets, one reaches the stars, one glitters precious, one rules the night, one strikes fast, and one makes you laugh."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_806": {
+    "hardRiddle": {
+      "text": "I chase the sky with blazing speed, a gem that sparkles as I lead. Through lightning strikes and dragon's fire, I climb to reach the moon so higher. The joker laughs at my wild flight, as crystal waves shimmer bright.",
+      "hint": "Think of a memecoin's journey to astronomical heights with chaotic energy and dazzling moments."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past the moon, gems sparkle in the light, lightning crashes with dragon fire, what six things ignite the hype?",
+      "hint": "Picture a memecoin launch party with chaos, magic, and celestial vibes."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      14,
+      21
+    ]
   }
 }
