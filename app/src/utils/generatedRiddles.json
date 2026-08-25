@@ -48921,5 +48921,41 @@
       8,
       19
     ]
+  },
+  "sol_2322": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers align in cosmic trance. The archer's mark gleams with prismatic soul, while winged metamorphosis pays its toll. Lightning's kiss crowns the jester's grin, as lunar radiance spins within.",
+      "hint": "One guides your aim, one transforms your fate, one sparkles with wealth, one makes you wait, one brings the laugh, one watches from night."
+    },
+    "easyRiddle": {
+      "text": "Find the target's glimmer, the gem that shines bright, the joker who laughs, the lightning's white light, the butterfly's grace, and the moon's silver sight.",
+      "hint": "Look for: aim, sparkle, fool, electricity, wings, and the night sky."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      4,
+      8,
+      3
+    ]
+  },
+  "emlo_807": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-like value sparkles as I soar. The joker's fire fuels my flight, while fortune's dice roll beneath the rainbow's glow. What am I?",
+      "hint": "A volatile digital asset that promises astronomical gains, fueled by community hype and social media magic."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes fast, fire burns hot, sparkles dazzle, and the moon awaits. What brings them all together?",
+      "hint": "A fun, worthless token that captured hearts and wallets."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      3
+    ]
   }
 }
