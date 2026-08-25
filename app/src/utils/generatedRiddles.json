@@ -48903,5 +48903,23 @@
       19,
       21
     ]
+  },
+  "sol_2321": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls through the vault of night. The serpent of old guards the treasure that mirrors the soul, while chaos erupts in brilliance—and where masked mirth meets the swift shadow, destiny's wheel spins eternal.",
+      "hint": "Six chosen from the realm of chance and spectacle: one aims, one soars, one gleams, one watches, one transforms, and one deceives."
+    },
+    "easyRiddle": {
+      "text": "I shoot for the bullseye, I fly to the moon, I sparkle with value, I guard with my fire, I dance with my wings, and I wear many faces.",
+      "hint": "Think of a game of luck: what you aim at, what flies high, what shines, what burns bright, what flutters, and what tricks you."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      8,
+      19
+    ]
   }
 }
