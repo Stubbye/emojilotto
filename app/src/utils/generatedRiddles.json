@@ -49245,5 +49245,23 @@
       7,
       13
     ]
+  },
+  "sol_2337": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, and the jester's masked mirth meets the winged metamorphosis beneath the arc of prismatic dreams, chaos and luck intertwine in the gemstone's eternal glow.",
+      "hint": "Consider what shimmers in darkness, what laughs at fate, what transforms, what sparkles with promise, what embodies pure chance, and what burns in the night sky."
+    },
+    "easyRiddle": {
+      "text": "Find the bright laughing one, the flying beauty, the random bones, the shining precious stone, the night's guardian, and the burning sky dancer.",
+      "hint": "Think of jest, wings, games, treasure, night, and heat."
+    },
+    "answer": [
+      17,
+      8,
+      11,
+      5,
+      1,
+      21
+    ]
   }
 }
