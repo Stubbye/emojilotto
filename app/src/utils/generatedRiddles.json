@@ -49191,5 +49191,23 @@
       8,
       20
     ]
+  },
+  "sol_2334": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer wreathed in emerald fire ascends. The jester's twin mask grins at chaos's brilliance, while wings of metamorphosis scatter luck's glittering dust upon the stage of chance.",
+      "hint": "Seek the symbol of aims, the night's crown, the stone of desire, the wild deceiver, the creature reborn, and the performer's domain."
+    },
+    "easyRiddle": {
+      "text": "I am what you aim for, what lights the night sky, what glitters with value, what tricks and delights, what transforms with grace, and where dreams are performed.",
+      "hint": "Think of targets, celestial bodies, precious stones, tricksters, nature's metamorphosis, and places of wonder."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      8,
+      7
+    ]
   }
 }
