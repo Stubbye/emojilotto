@@ -49083,5 +49083,23 @@
       4,
       9
     ]
+  },
+  "sol_2329": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial fire, a jester's grin guards the threshold between chaos and cosmic desire. Six harbingers emerge: the archer's eternal mark, the serpent of fortune coiled in stellar dark, the prism that births all hue, the wanderer of night's debut, the jester's paradox unseen, and the wild deceiver's keen. Seek the number where they align in destiny's design.",
+      "hint": "One watches over luck, one rules the darkness above, one breaks light into love, one gambles with fate, one wears many faces, one hides in shadows and grace."
+    },
+    "easyRiddle": {
+      "text": "I show where to aim, I light up the night sky, I sparkle like wealth, I dance with a grin, I'm sly like an animal, and I tell many fortunes. Find all six and claim your prize.",
+      "hint": "Think of: accuracy, darkness, value, comedy, cunning, and fate."
+    },
+    "answer": [
+      0,
+      14,
+      8,
+      19,
+      13,
+      11
+    ]
   }
 }
