@@ -49101,5 +49101,23 @@
       13,
       11
     ]
+  },
+  "sol_2330": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's crimson mark, a jester's grin mirrors the prism's stolen spark. Through nature's metamorphosis, the fox's cunning gleams, as lightning crowns the gem where destiny dreams. The stage's masked illusion holds what mortals eternally seek—six symbols of chaos where the mystical speak.",
+      "hint": "One brings luck, one brings speed, one shines bright, one transforms, one deceives, one electrifies."
+    },
+    "easyRiddle": {
+      "text": "Six signs of fortune hide in plain sight: a target marks the way, a rocket flies so high, a gem sparkles, lightning strikes fast, a joker grins with tricks, and a butterfly shows change. What six emojis complete the dance?",
+      "hint": "Think of luck, speed, treasure, power, trickery, and transformation."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      11,
+      8
+    ]
   }
 }
