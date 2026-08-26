@@ -49425,5 +49425,23 @@
       8,
       11
     ]
+  },
+  "sol_2347": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six celestial dancers waltz in cosmic space. The jester's twin flame ignites the gleaming heart, while scaled majesty and petaled art perform their destined part. Lightning's kiss upon the prism'd soul reveals what mortals seek but never hold.",
+      "hint": "One guides arrows, one rides night's chariot, one laughs in masks, one breathes inferno, one scales the heavens, and one blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Six magical things: something you aim with, something in the night sky, something that makes people laugh, something hot and bright, something with wings and scales, and something that grows in gardens.",
+      "hint": "Think of a bow, the moon, a jester, fire, a dragon, and a flower."
+    },
+    "answer": [
+      0,
+      3,
+      19,
+      6,
+      13,
+      14
+    ]
   }
 }
