@@ -49299,5 +49299,23 @@
       9,
       19
     ]
+  },
+  "sol_2340": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a serpent of ancient scales guards the luminous path. The jester's twin masks mirror celestial fire, while delicate wings dance through prismatic light, and fortune's hexagons echo the cosmic symphony.",
+      "hint": "Seek the hunter's mark, the winged deceiver, and fortune's many faces under starlit flames."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target waits, a dragon coils, a joker grins, a butterfly soars, a star glows, and fire burns bright.",
+      "hint": "Think of luck, magic, chaos, beauty, hope, and power."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      8,
+      21,
+      5
+    ]
   }
 }
