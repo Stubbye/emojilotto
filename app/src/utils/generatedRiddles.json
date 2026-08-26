@@ -49371,5 +49371,41 @@
       1,
       11
     ]
+  },
+  "sol_2344": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial flame dances with prismatic grace. The jester's twin spirits waltz through crystalline dreams, while nature's winged messenger carries omens of transformation. Seek the mark where chaos and cosmos converge in shadowed revelry.",
+      "hint": "Look for symbols of destiny, chaos, duality, metamorphosis, brilliance, and the threshold between light and shadow"
+    },
+    "easyRiddle": {
+      "text": "Find the target where lightning strikes, the joker's crystal twin, the butterfly near the gem, and the carnival's hidden fire",
+      "hint": "One shoots straight, one deals cards, one gleams bright, one transforms, one burns, and one entertains"
+    },
+    "answer": [
+      0,
+      4,
+      6,
+      8,
+      12,
+      18
+    ]
+  },
+  "emlo_812": {
+    "hardRiddle": {
+      "text": "I dance through the cosmos with electric speed, chasing a precious stone that makes holders greed. Where fortune spins wild under celestial fire, a jester's wild luck takes me ever higher. From darkness to brilliance, my trajectory gleams, collecting the sparks of a million moon dreams.",
+      "hint": "Think of a chaotic journey through space where luck and mischief collide"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches with a gem so bright, guided by luck under starry night. The jester spins fortunes with electric delight, while sparkling magic ignites the flight.",
+      "hint": "Space travel + precious items + chance + magical shimmer"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      11,
+      20
+    ]
   }
 }
