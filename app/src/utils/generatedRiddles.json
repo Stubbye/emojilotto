@@ -49461,5 +49461,23 @@
       4,
       1
     ]
+  },
+  "sol_2349": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sentinel, a jeweled whisper ignites beneath dancing chaos. The winged metamorphosis seeks the prism born of tempest, while masked jesters guard the threshold between desire and destiny.",
+      "hint": "Seek the convergence of aim and night, precious light and wild fury, transformation and truth's many faces."
+    },
+    "easyRiddle": {
+      "text": "I am the hunter's aim, the night's guardian, the earth's precious crown, the sky's fierce wrath, nature's delicate dancer, and deception's grinning face.",
+      "hint": "One points forward, one watches above, one gleams beneath, one strikes down, one has wings, one wears a smile."
+    },
+    "answer": [
+      0,
+      3,
+      1,
+      5,
+      8,
+      19
+    ]
   }
 }
