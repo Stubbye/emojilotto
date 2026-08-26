@@ -49317,5 +49317,23 @@
       21,
       5
     ]
+  },
+  "sol_2341": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets fortune's flame, six symbols dance in destiny's game. The archer's mark kisses the void, while lightning splits the jester's joy. Gemstone glows where chaos dwells, and winged metamorphosis the secret tells. In this constellation of chance, find the hidden entrance to fate's trance.",
+      "hint": "One guides aim, one ignites dreams, one sparkles with worth, one laughs at schemes, one crackles with power, one transforms in the hour."
+    },
+    "easyRiddle": {
+      "text": "Six magical items reveal the way: a target for aim, a rocket for flight, a gem that shines bright, a joker who plays, lightning that strikes, and a butterfly's grace. Which six unlock the treasure's place?",
+      "hint": "Look for: aim, sky, wealth, laughter, electricity, and wings."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      12,
+      4,
+      8
+    ]
   }
 }
