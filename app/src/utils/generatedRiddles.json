@@ -49515,5 +49515,23 @@
       19,
       10
     ]
+  },
+  "sol_2351": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a gemstone born of night's desire. The winged dancer courts the prism's arc, while thunder's flash ignites the dark. Six secrets hide in chaos's jest—which constellation passes fortune's test?",
+      "hint": "Think of chance, precious things, sky, speed, light, and whimsy combined"
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of pure chance: a glowing stone, a bolt's advance, wings that flutter, colors bright, a golden flash, and fortune's sight. One aims true, one soars up high—which six will make you touch the sky?",
+      "hint": "Look for: something precious, something electric, something that flies, something colorful, something that shoots, and something that sparkles"
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      4,
+      9,
+      21
+    ]
   }
 }
