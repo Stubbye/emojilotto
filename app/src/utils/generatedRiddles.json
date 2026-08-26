@@ -49479,5 +49479,41 @@
       8,
       19
     ]
+  },
+  "sol_2350": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six guardians convene in shadowed reverie. The jester's twin flames dance with crystalline whispers, while winged metamorphosis traces paths through prismatic silence. In this cosmic theater of chance, destiny performs its ancient waltz.",
+      "hint": "Consider the instruments of fate, the watchers of night, and those who transform between worlds."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key: the archer's mark, the vessel of dreams, the prism's heart, the night's eye, the sacred flame, and the soul that breaks free. Which six shall align when fortune calls?",
+      "hint": "One hunts, one shines, one glitters, one burns, one guides from above, and one escapes its cage."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      21,
+      11,
+      8
+    ]
+  },
+  "emlo_814": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's gems. Through cosmic waves I dance, masked in mystery, where dragons of fire meet fortune's clover. What six symbols guide the memecoin holder to legendary riches?",
+      "hint": "Think of the journey to astronomical gains: the destination, the vehicle, the treasure, the luck, the power, and the rarity."
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, find the 💎, strike with ⚡, lucky 🍀, and ✨ shines bright. Which six emojis complete the memecoin prophecy?",
+      "hint": "A journey upward, a goal, treasure, speed, luck, and magic light."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      19,
+      10
+    ]
   }
 }
