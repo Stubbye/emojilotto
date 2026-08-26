@@ -49407,5 +49407,23 @@
       11,
       20
     ]
+  },
+  "sol_2345": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six symbols converge at destiny's threshold. The archer's mark meets the messenger's path, while precious facets catch light beside the night's pale guardian. Chaos swirls with nature's delicate wings, and in this cosmic theater, luck performs its eternal song.",
+      "hint": "Think of ambition meeting chance, beauty near darkness, and transformation within disorder."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket that chase dreams, the gem that sparkles, the moon that watches, the butterfly that transforms, and the dice that decides.",
+      "hint": "These six symbols represent ambition, fortune, light, night, change, and chance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      11
+    ]
   }
 }
