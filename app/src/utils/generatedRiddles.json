@@ -49533,5 +49533,41 @@
       9,
       21
     ]
+  },
+  "sol_2352": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, and twin serpents dance through prisms of celestial blaze. The jester's grin reflects in scales of ice, while winged transformation pirouettes through paradise. Thunder's silver tongue tastes the amber kiss, as melody weaves through the veil of cosmic abyss.",
+      "hint": "One hunts precision, one devours the heavens. Look where chaos laughs, where dragons dream, where sound lives, and where brilliance shatters light itself."
+    },
+    "easyRiddle": {
+      "text": "I strike with purpose, I burn with desire, I flash with power, I shimmer with fire. A creature of magic and one made of glass, together we dance through the cosmic pass.",
+      "hint": "What targets success? What destroys? What shines? What flies with wings? What crashes from above? What reflects everything?"
+    },
+    "answer": [
+      0,
+      6,
+      4,
+      8,
+      13,
+      20
+    ]
+  },
+  "emlo_815": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with speed, ignite the digital fire for those who believe. Fortune's gem sparkles when lightning strikes, and my dragon spirit soars through waves of chance. What six symbols mark the memecoin moonshot?",
+      "hint": "Think of a crypto journey: launch, speed, wealth, electricity, mythical power, and volatility"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 is treasure, 🐉 is magic, 🌊 is movement, ⭐ is success. Which six emojis complete the memecoin dream?",
+      "hint": "Look for: rocket, lightning, gem, dragon, wave, and star"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      13,
+      23,
+      21
+    ]
   }
 }
