@@ -49335,5 +49335,23 @@
       4,
       8
     ]
+  },
+  "sol_2342": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial breath, a fox's cunning meets the joker's jest. Six keepers of fate spin: the archer's true mark, the serpent's ancient fire, the night's silver guardian, and fortune's crystal glass. Masked revelry and winged transformation complete the sacred hex.",
+      "hint": "Consider what calls to luck: aim, flame, night, crystal, deception, and metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "Six treasures for the lottery seeker: the bullseye you chase, the beast that breathes fire, the wise trickster laughing, the gem that catches light, the winged creature reborn, and the pearl hanging in darkness.",
+      "hint": "Think of a target, a dragon, a joker, a crystal, a butterfly, and the moon."
+    },
+    "answer": [
+      0,
+      4,
+      12,
+      20,
+      8,
+      3
+    ]
   }
 }
