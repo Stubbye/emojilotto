@@ -49353,5 +49353,23 @@
       8,
       3
     ]
+  },
+  "sol_2343": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial flame, six harbingers dance in fortune's game. The archer's mark with lightning's tongue, a gem adorned where dreams are sung. The moon's pale fire, the butterfly's gleam, and chance's bones complete the scheme.",
+      "hint": "Look for: aim, electricity, precious stone, night sky, transformation, and randomness"
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket's fire, the gem that glimmers ever higher. Moon and lightning, butterfly's flight, plus dice that roll through the night.",
+      "hint": "One aims, one flies, one sparkles bright, one glows at night, one shocks, one transforms"
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      1,
+      11
+    ]
   }
 }
