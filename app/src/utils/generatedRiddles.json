@@ -49443,5 +49443,23 @@
       13,
       14
     ]
+  },
+  "sol_2348": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis seeks the gleaming prism beneath the jester's gaze. Through chaos of cubes, the trickster reveals what glimmers when lightning touches the void of night.",
+      "hint": "Look for transformation, chance, and the meeting of light and shadow. One brings fortune's mockery, one brings luck's geometry."
+    },
+    "easyRiddle": {
+      "text": "A butterfly transforms near a gem that shines, while the joker laughs at dice and lightning's fire. What six symbols dance together in this game of dreams?",
+      "hint": "Find the jester, the sparkler, the lucky insect, the precious stone, the random cubes, and the flash from the sky."
+    },
+    "answer": [
+      8,
+      12,
+      11,
+      5,
+      4,
+      1
+    ]
   }
 }
