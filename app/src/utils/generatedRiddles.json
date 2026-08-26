@@ -49263,5 +49263,41 @@
       1,
       21
     ]
+  },
+  "sol_2339": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's masked twin, the archer's dream spirals through midnight's glowing skin. Lightning births its rainbow sibling as the scaled guardian grins, and petaled chaos blooms where crystal fate begins.",
+      "hint": "Seek the bull's mark, the trickster's grin, the dragon's ancient wisdom, the jester's kin, where sky meets earth in prismatic chains, and flowers dance where lightning reigns."
+    },
+    "easyRiddle": {
+      "text": "I contain the archer's goal, a prankster's laughter, a lizard of legend, a bolt from above, a bow of colors, and a blossom of love.",
+      "hint": "One points true, one plays tricks, one breathes flame, one strikes fast, one heals hearts, one shines bright."
+    },
+    "answer": [
+      0,
+      18,
+      13,
+      4,
+      9,
+      14
+    ]
+  },
+  "emlo_811": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar heights, my twin sparkles ignite the night. A gem of fortune meets electric might, while fire dances with rainbow light. The joker's lucky symbol shines bright—what six treasures guide the rocket's flight?",
+      "hint": "Think of what every moon-bound memecoin needs: propulsion, luck, wealth, energy, hope, and chance."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, 💎 is treasure, ⚡ is light, 🌈 is hope, 🍀 is luck—which six guide the memecoin truck?",
+      "hint": "All six emojis are the answer in the riddle itself!"
+    },
+    "answer": [
+      1,
+      10,
+      2,
+      4,
+      9,
+      19
+    ]
   }
 }
