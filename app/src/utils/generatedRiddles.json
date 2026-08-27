@@ -49587,5 +49587,41 @@
       16,
       19
     ]
+  },
+  "sol_2354": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentinels of fate converge. The archer's mark aligns with heaven's pearl, while serpent's fury crackles through prismatic breath. Winged metamorphosis circles the golden crown, as fortune's jester grins beside the verdant charm.",
+      "hint": "Consider celestial bodies, mythical creatures, and symbols of luck intertwined with wealth and transformation."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the moon shining bright, the dragon breathing lightning and fire, the butterfly dancing freely, and the lucky clover.",
+      "hint": "Look for: a bullseye, a night sky orb, a mythical beast with electricity, a colorful insect, a symbol of luck, and treasure's gleam."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      8,
+      19,
+      20
+    ]
+  },
+  "emlo_816": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, gems sparkle as I dance through fortune's fire. A jester's luck meets the dragon's ancient wisdom, while nature's delicate wings flutter near the prize. What six symbols align when moonbound memes meet destiny?",
+      "hint": "Think of a memecoin journey: speed, wealth, chance, mythology, transformation, and the ultimate goal"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 means rich, 🐉 is cool, 🦋 transforms, 🃏 is lucky, and 🌙 is the dream. Put them in order of the riddle!",
+      "hint": "Rocket, Gem, Dragon, Butterfly, Joker, Moon - these are your six symbols"
+    },
+    "answer": [
+      1,
+      2,
+      14,
+      8,
+      19,
+      3
+    ]
   }
 }
