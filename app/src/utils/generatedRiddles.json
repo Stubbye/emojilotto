@@ -49569,5 +49569,23 @@
       23,
       21
     ]
+  },
+  "sol_2353": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate converge in trance. The archer's mark gleams violet-crowned, while serpent's wings beat without sound. Melody's voice sings through the veil, as lightning splits the starlit trail. Masked performers waltz in spectral light, where gemstone tears catch morning bright.",
+      "hint": "Look to the sky, the stage, and the precious—fortune favors those who see the hidden performers and their celestial instruments."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await your gaze: a target true, a dragon's blaze, a purple star that lights the night, a gem that sparkles crystal bright, a guitar's song upon the wave, and masks that dance—be bold and brave!",
+      "hint": "Think of things that bring luck, music, magic, and protection. One points, one flies, one shines, one sings, and one conceals."
+    },
+    "answer": [
+      0,
+      13,
+      21,
+      6,
+      16,
+      19
+    ]
   }
 }
