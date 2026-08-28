@@ -49659,5 +49659,41 @@
       4,
       5
     ]
+  },
+  "sol_2356": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six dancers of fate converge. The jester's grin meets the scaled guardian's ancient wisdom, whilst luminescence blooms in prismatic arcs. One creature of gossamer wings transcends the mortal plane, and thunder's child ignites the spectral stage where gemstones whisper their secrets to the void.",
+      "hint": "A court of contradictions: chaos and order, sky and earth, laughter and revelation."
+    },
+    "easyRiddle": {
+      "text": "I contain a target's purpose, a dragon's might, a butterfly's grace, a joker's jest, lightning's flash, and gems that sparkle bright. What six treasures am I seeking?",
+      "hint": "Look for: aim, scales, wings, laughter, electricity, and shine."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      11,
+      5,
+      7
+    ]
+  },
+  "emlo_818": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles as I lead. Through fire and circus acts I soar, where rockets aim and dragons roar. What six celestial signs predict a memecoin's wild predict?",
+      "hint": "Think of astronomical and mystical symbols that represent crypto dreams and HODL culture."
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly so high! A rocket blazes through the sky. Diamonds sparkle, lightning strikes, and dragons guard what every trader likes. What six symbols show our quest?",
+      "hint": "Look for moon, rocket, gem, lightning, dragon, and one more shiny symbol that brings good luck."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      13,
+      21
+    ]
   }
 }
