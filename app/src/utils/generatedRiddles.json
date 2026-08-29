@@ -49731,5 +49731,41 @@
       11,
       19
     ]
+  },
+  "sol_2359": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six seekers converge: the archer's distant mark, the vessel piercing void's obsidian veil, the crystalline heart born of earth's pressure, Luna's pallid gaze from her throne, the serpent of heaven wreathed in chaos, and fortune's jester grinning through prismatic mist—all unite where destiny spins and luck's currency gleams.",
+      "hint": "One marks the aim, one defies gravity, one is precious and pure, one watches from above, one is mythic and fierce, one brings fortune's smile."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow: a goal you chase, a ship that flies, a jewel so bright, a guardian in sky, a beast of legend, and a playful trickster wearing many faces.",
+      "hint": "Think of targets, space travel, gems, the night sky, mythical creatures, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      19
+    ]
+  },
+  "emlo_821": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gem-like sparkles light the path. When fortune strikes like lightning, the joker laughs and the trophy gleams. Through fire and rainbow waves, the crystal reveals what fortune seeks.",
+      "hint": "Think of a memecoin's journey: launch ambitions, lucky strikes, and dazzling rewards"
+    },
+    "easyRiddle": {
+      "text": "Rocket flies to moon, gem shines bright, lightning brings luck, fire burns hot, sparkles dance, trophy wins the prize",
+      "hint": "Six symbols of crypto success and celebration"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      9,
+      18
+    ]
   }
 }
