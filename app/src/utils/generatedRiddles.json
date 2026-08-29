@@ -49821,5 +49821,23 @@
       19,
       8
     ]
+  },
+  "sol_2362": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's celestial throne, and chaos dances in violet flame, a jester's mask conceals the winged metamorphosis, while the earth's own tears crystallize beneath infinity's crown.",
+      "hint": "Seek the intersection of aim and cosmos, passion and transformation, deception and purity."
+    },
+    "easyRiddle": {
+      "text": "I am the target's aim in the night sky's palace. I am fire's wild cousin. I am the purple keeper of secrets. I am the jester who laughs. I am the butterfly born anew. I am the frozen dream beneath the stars.",
+      "hint": "Six symbols: aim, flame, shade, trickster, metamorphosis, ice."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      18,
+      8,
+      20
+    ]
   }
 }
