@@ -49695,5 +49695,41 @@
       13,
       21
     ]
+  },
+  "sol_2358": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's dance, six sentinels guard the veil between chaos and grace. The archer's goal gleams with prismatic tears, while winged metamorphosis spirals through electric midnight. A crowned jester grins beneath the weeping prism, as fortune's bones rattle in the domain of spectral bloom.",
+      "hint": "Consider what burns without flame, transforms without dying, and speaks in colors only the dreaming can hear."
+    },
+    "easyRiddle": {
+      "text": "I contain a target of gems, lightning that dances, a butterfly's transformation, a rainbow's tears, a joker's grin, and flowers that never wilt. Six symbols hide within my words—can you find where luck is sealed?",
+      "hint": "Count the emoji names mentioned in the easy riddle's text."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      9,
+      11,
+      15
+    ]
+  },
+  "emlo_820": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with electric speed, my gems spark brilliantly as fortune smiles. Dance through the carnival of wealth where jokers reveal hidden treasures beneath rainbow skies. What six symbols mark the path to moon riches?",
+      "hint": "Think of a memecoin journey: speed, value, chance, destiny, joy, and luck combined"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon! ⚡ Collect the shiny gems! 🎪 Find the lucky symbols! What are the six lucky tokens?",
+      "hint": "Look for: rocket fuel, valuable stones, entertainment, fortune, magic, and a four-leaf secret"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      19
+    ]
   }
 }
