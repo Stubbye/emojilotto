@@ -49767,5 +49767,41 @@
       9,
       18
     ]
+  },
+  "sol_2360": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jeweled flame dances with wings of metamorphosis. The jester's grin watches as thunder crowns the night, while prisms scatter their secrets upon the void. Six symbols converge where destiny spins—find the target's whisper, the rocket's ascent, the gem's lustrous heart, the moon's silent vigil, the lightning's violent caress, and the fire's eternal hunger.",
+      "hint": "One points, one rises, one glows, one watches, one strikes, one consumes. The answer lies in the cosmic theater of chance."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: the mark you aim for, the vessel that soars, the precious stone that shines, the night guardian above, the bolt from the sky, and the dancing blaze. What six shall grant the lottery's grace?",
+      "hint": "Think of: something you target, something that flies high, something valuable, something in the night sky, something dangerous and electric, and something that burns."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_822": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with velocity untamed, my brilliance ignites the darkness with crackling force. Lady luck spins her wheel as I shimmer with prismatic light, while fortune's jester grins at chaos amplified. What six symbols fuel this memecoin madness?",
+      "hint": "Think moon-bound ambitions, explosive energy, and the randomness of wealth."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 🌙 is the dream, 💎 is wealth, 🎰 spins luck, and ✨ makes it shine. Which six emojis represent the memecoin journey?",
+      "hint": "Rocket, lightning, moon, gem, dice, and sparkles - the foundation of crypto dreams."
+    },
+    "answer": [
+      1,
+      4,
+      3,
+      2,
+      11,
+      9
+    ]
   }
 }
