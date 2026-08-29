@@ -49803,5 +49803,23 @@
       11,
       9
     ]
+  },
+  "sol_2361": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's celestial gaze, twin flames dance betwixt the prism's scattered rays. The jester's laugh echoes through gemstone halls, while nature's winged herald answers destiny's calls. What six treasures align when luck defies the mortal veil?",
+      "hint": "Consider the tools of chance, the heavens above, the precious, the fiery, the masked, and the transformed."
+    },
+    "easyRiddle": {
+      "text": "I aim for the sky, I spark and ignite, I glitter with value, I glow in the night. A fool grins with secrets, a jewel takes its form, and a creature of wings rides through change and transform.",
+      "hint": "Think of targets, electricity, wealth, comedy, beauty, and metamorphosis."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      5,
+      19,
+      8
+    ]
   }
 }
