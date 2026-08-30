@@ -49839,5 +49839,41 @@
       8,
       20
     ]
+  },
+  "sol_2364": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, a jeweled path spirals through celestial rent. Thunder's child dances with infernal grace, while winged metamorphosis claims its sacred place. In jester's grin and lucky trinity, six secrets converge in destiny's symmetry.",
+      "hint": "Consider what launches dreams, what glimmers in darkness, what strikes twice, and what transforms."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in fortune's game: one aims true, one soars to claim, one gleams bright, one lights the night, one brings change in brilliant flight, one dares to jest with grinning face, one blooms with luck in destined place.",
+      "hint": "Think of: direction, speed, value, sky, power, and chance."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      19
+    ]
+  },
+  "emlo_824": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 gemstone that makes holders greed. When ⚡ strikes and 🎯 aligns, my 💎 sparkles in the stars' design. Ride the 🚀 to fortune's show, where dancing 🦋 steal the glow.",
+      "hint": "Think of a memecoin journey: destination, power, value, and the magical ride to riches"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we fly with 🚀 might, our 💎 shines ever so bright. ⚡ powers the 🔥, while 🦋 takes flight.",
+      "hint": "What you need for a memecoin moon mission"
+    },
+    "answer": [
+      3,
+      1,
+      5,
+      4,
+      0,
+      8
+    ]
   }
 }
