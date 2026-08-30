@@ -49875,5 +49875,23 @@
       0,
       8
     ]
+  },
+  "sol_2365": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances betwixt the celestial sphere and earthbound desire, six whispers emerge: the archer's circle bows to swift ascension through night's jeweled veil, while twin serpents of chaos and transformation weave betwixt ethereal wings and the garden's gentle sentinel. What six guard destiny's threshold?",
+      "hint": "One grants passage skyward, one sparkles eternal, one wields primal force, one mimics chaos, one floats on silk, one blooms in silence."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures from the vault of dreams: a target true, a rocket's flight, a gem so bright, the moon's own light, a dragon's might, and a flower's sight. Name them all and claim the prize.",
+      "hint": "One you aim at, one goes up, one shines, one glows at night, one is mythical, one is natural."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      13,
+      14
+    ]
   }
 }
