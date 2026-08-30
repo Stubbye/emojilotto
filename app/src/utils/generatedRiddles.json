@@ -49893,5 +49893,41 @@
       13,
       14
     ]
+  },
+  "sol_2366": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jeweled heart ascends through lightning's embrace. The jester's masquerade meets the winged metamorphosis, as crystal destiny spirals through the vault of night.",
+      "hint": "One brings luck, one brings luck, one seeks targets, one illuminates darkness, one transforms, one sparkles with cosmic promise"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune intertwine: a precious stone gleams, electricity crackles, a fool laughs, wings flutter transformation, the night glows eternal, and fortune's arrow seeks its mark.",
+      "hint": "Think of luck, light, chaos, change, the sky, and the goal itself"
+    },
+    "answer": [
+      1,
+      5,
+      12,
+      8,
+      21,
+      0
+    ]
+  },
+  "emlo_826": {
+    "hardRiddle": {
+      "text": "A jester's fortune dances through the night, spinning tales of wealth and fright. Lightning strikes the gem so bright, while fire fuels the rocket's flight. The moon awaits what dragon might, as sparkles celebrate the sight.",
+      "hint": "Six symbols of crypto fortune: a trickster, a precious stone, electricity, a celestial flame, a scaled beast, and shimmering magic"
+    },
+    "easyRiddle": {
+      "text": "Look for the silly card player, the shiny rock, the electric bolt, the orange flame, the flying reptile, and the twinkling shine. Together they promise mooncoin riches!",
+      "hint": "A playing card character, treasure, power, heat, wings, and glitter"
+    },
+    "answer": [
+      19,
+      5,
+      4,
+      6,
+      13,
+      9
+    ]
   }
 }
