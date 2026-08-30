@@ -49965,5 +49965,23 @@
       6,
       13
     ]
+  },
+  "sol_2368": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls through crystalline dreams. The trickster's grin mirrors the serpent's ancient wisdom, while chaos ignites the threshold where luck is forged in gemstone light and stellar fire.",
+      "hint": "One guides aim, one dwells above, one deceives, one coils with power, one blazes bright, one glimmers precious."
+    },
+    "easyRiddle": {
+      "text": "Six tokens of destiny: the archer's mark, the night's silent sentinel, the jester's mask, the dragon's scaled majesty, the inferno's hunger, and the jewel that catches starlight.",
+      "hint": "Think of aim, sky, trickery, mythology, heat, and value."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      14,
+      6,
+      2
+    ]
   }
 }
