@@ -49929,5 +49929,41 @@
       13,
       9
     ]
+  },
+  "sol_2367": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six whispers bind: the archer's distant mark, the serpent's ancient desire, the prism's stolen spark, the night's ethereal bride, the bolt that cleaves the veil, and nature's winged guide.",
+      "hint": "One points the way, one guards wealth, one illuminates darkness, one flies freely, one strikes with fury, one masks the truth."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures of chance: a bullseye, a dragon's hoard, a dragon itself, the glowing moon, a lightning strike, and a butterfly's flight.",
+      "hint": "Look for targets, gems, mythical beasts, the night sky, electricity, and insects."
+    },
+    "answer": [
+      0,
+      5,
+      12,
+      1,
+      4,
+      8
+    ]
+  },
+  "emlo_827": {
+    "hardRiddle": {
+      "text": "To the moon we rocket fast, with gems that sparkle and forever last. Lightning strikes with fire so bright, dancing through the night. Where fortune spins like a circus wheel, and dragons guard the deal.",
+      "hint": "Five elements of crypto dreams, plus one magical creature that gleams"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes fast, 🔥 burns hot, 🎪 has fun, 🐉 guards treasure",
+      "hint": "Look for the moon mission, the sparkly stone, the quick power, the heat, the fun fair, and the mythical beast"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      13
+    ]
   }
 }
