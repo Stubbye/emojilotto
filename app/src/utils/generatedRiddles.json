@@ -49983,5 +49983,41 @@
       6,
       2
     ]
+  },
+  "sol_2369": {
+    "hardRiddle": {
+      "text": "Through celestial silence, the archer's gleam doth pierce where crystal dreams ascend. Lightning's twin ignites the stage of masks and mirth, while thunder's child and scaled eternity waltz upon the precipice of fortune's spiral. What six sentinels guard the threshold between chaos and destiny?",
+      "hint": "One seeks targets in the void, one illuminates with frozen light, one performs beneath the tent, one breathes ancient power, one summons storms, and one reflects all possibility."
+    },
+    "easyRiddle": {
+      "text": "A bright beam shoots upward seeking its mark. Crystal shines cold like the night sky. Jesters play in striped tents. A great lizard roars with fire. Bolts split the heavens. All six dance together in the lottery's fortune.",
+      "hint": "Look for: something that aims, something that sparkles, something that entertains, something that breathes fire, something that strikes, and something that climbs to space."
+    },
+    "answer": [
+      0,
+      5,
+      7,
+      13,
+      4,
+      21
+    ]
+  },
+  "emlo_828": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my gem sparkles as lightning strikes. The joker laughs while fire dances, yet the butterfly seeks the trophy. What guides this memecoin journey?",
+      "hint": "Think of the path to wealth in crypto culture - speed, shine, luck, and transformation."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, fire burns bright, gems shine like stars, lightning strikes fast, the butterfly transforms, and the trophy awaits winners. What do these represent together?",
+      "hint": "These symbols show the excitement and promise of a wild memecoin adventure."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      4,
+      8,
+      18
+    ]
   }
 }
