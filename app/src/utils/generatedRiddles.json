@@ -50109,5 +50109,41 @@
       19,
       4
     ]
+  },
+  "sol_2373": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers emerge from chaos and chance. The archer's mark kisses the void's silver face, while chaos spirals through destiny's lace. A scaled sentinel guards what mortals chase, and nature's brief sprite weaves through the race. Crystalline fragments catch light's embrace, as fortune's jester laughs from this place.",
+      "hint": "One guides the way up, one marks the target, one shimmers with ice, one rules the night, one laughs at fate, one dances with wonder."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this mystical game: a path to the sky, a prize of fame, a gem of the earth, a guardian of night, a trickster's grin, and magic so bright. What are they?",
+      "hint": "Think of: journey upward, bullseye aim, precious stone, darkness above, chaos maker, and shimmering light."
+    },
+    "answer": [
+      1,
+      0,
+      21,
+      3,
+      11,
+      10
+    ]
+  },
+  "emlo_831": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric energy, sparkling with fortune's gem. A fox's cunning guides the lightning through my prism, while fire fuels the dragon's wing. What six symbols of crypto glory shine together?",
+      "hint": "Think of the journey: propulsion, destination, fortune, speed, power, and mystique"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ goes fast, 💎 means rich, 🌙 is the dream, 🔥 is the hype, and 🐉 is legendary. Put them together for moon lambo energy!",
+      "hint": "These are the symbols of every crypto success story"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      13
+    ]
   }
 }
