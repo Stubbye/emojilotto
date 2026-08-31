@@ -50019,5 +50019,23 @@
       8,
       18
     ]
+  },
+  "sol_2370": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, six celestial whispers dance alone. The jester's grin guards treasures bright, while scaled ambition takes its flight. Through petaled grace and gemstone's fire, the butterfly ascends the cosmic gyre. Lightning crowns the fool's refrain—seek the axis where chaos meets domain.",
+      "hint": "Consider the court, the heavens, and what glimmers between them. One creature transforms, one rules ancient depths."
+    },
+    "easyRiddle": {
+      "text": "I contain a target for precision, a joker's mischievous decision, a gem that sparkles with pure light, a dragon fierce and mighty, a butterfly of gentle flight, and lightning's electric might. What six do I hold in fortune's sight?",
+      "hint": "Count the objects named directly in the riddle itself."
+    },
+    "answer": [
+      0,
+      7,
+      2,
+      13,
+      8,
+      5
+    ]
   }
 }
