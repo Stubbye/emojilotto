@@ -50037,5 +50037,41 @@
       8,
       5
     ]
+  },
+  "sol_2371": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and twin flames waltz with crystalline whispers—seek the jester's laughter beneath the prism's ancient gaze, where winged metamorphosis claims the crown of electric silence.",
+      "hint": "One brings luck through chance, one births light through pressure, one laughs at fate, and one bridges all colors."
+    },
+    "easyRiddle": {
+      "text": "I am aimed at luck, I rise through space, I sparkle under pressure, I dance with electricity, I wear many faces, and I flutter on dreams.",
+      "hint": "Think of gaming, sky, gems, weather, entertainment, and nature."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      7,
+      11,
+      18
+    ]
+  },
+  "emlo_829": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my precious gems ignite the fire of fortune. Where butterflies dance through crystal waves and fortune smiles, the jester's magic sparkles with destiny.",
+      "hint": "Think of a memecoin's journey: the goal, the speed, the treasure, the luck, the beauty, and the chaos."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning strikes the gem, butterfly finds the crystal – what six guide the way?",
+      "hint": "One launches, one glows, one shines, one floats, one transforms, one reflects."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      8,
+      21
+    ]
   }
 }
