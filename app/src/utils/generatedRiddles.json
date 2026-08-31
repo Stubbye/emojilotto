@@ -50073,5 +50073,41 @@
       8,
       21
     ]
+  },
+  "sol_2372": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate converge. The jester's grin meets the scaled keeper of ancient fire, while crystalline tears reflect a dancing specter of metamorphosis. Thunder's whisper brushes against the jeweled heart, and prismatic light bends through the musician's silent prayer. Seek the mark where chaos and destiny entwine.",
+      "hint": "One embodies chance, one guards treasure, one transforms, one strikes swift, one sings without voice, and one marks the target."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this verse: A joker laughs, a dragon roars, a butterfly dances, a gem glimmers, lightning strikes, and a guitar plays. Can you find them all?",
+      "hint": "One is a person, one is a creature, one is an insect, one is precious, one is nature's fury, one is an instrument."
+    },
+    "answer": [
+      12,
+      14,
+      8,
+      2,
+      16,
+      0
+    ]
+  },
+  "emlo_830": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, a precious stone of value I need. The wizard's luck strikes fast and bright, while nature's fortune glows in night. A mythical beast guards mystic power, and fortune smiles in this lucky hour.",
+      "hint": "Think of what makes a memecoin pump: speed, wealth, luck, magic, mythology, and destiny"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning fast gains, gem and dragon power, luck with clover chains. What six symbols predict your memecoin destiny?",
+      "hint": "One goes up, one shines bright, one is precious, one is magical, one brings luck, and one strikes fast"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      13,
+      19,
+      4
+    ]
   }
 }
