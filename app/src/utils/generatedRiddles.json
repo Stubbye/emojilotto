@@ -50163,5 +50163,41 @@
       19,
       22
     ]
+  },
+  "sol_2375": {
+    "hardRiddle": {
+      "text": "Where celestial fortune weeps in crystalline tears, the jester's gambit dances with scaled destiny. Six whispers of fate: the archer's eternal mark meets the serpent's ancient throne, while the nocturnal pearl watches brilliance shatter into prismatic rebirth. What gems of chance align when chaos sings and fortune's masquerade reveals its hidden face?",
+      "hint": "One shows targets, one shows luck's wild card, one glimmers from the sky, one coils with power, one refracts all colors, and one sparkles with pure enchantment."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of fortune's game: a mark to aim for, a card of mischief, a stone that glows, a serpent crowned, a burst of light, and the night's bright guardian.",
+      "hint": "Think of: aim, laugh, gem, legend, shine, sky"
+    },
+    "answer": [
+      0,
+      12,
+      6,
+      13,
+      10,
+      21
+    ]
+  },
+  "emlo_832": {
+    "hardRiddle": {
+      "text": "I launched with fire and reached the moon, my gems sparked with lightning so soon. A fox in disguise, my crystal trophy gleams, while butterflies dance through my rainbow dreams.",
+      "hint": "Think of a memecoin's journey: start, destination, value, speed, and magical moments."
+    },
+    "easyRiddle": {
+      "text": "Blast off with fire to the moon, collect gems that sparkle, ride the lightning fast!",
+      "hint": "Three things: launch, treasure, and speed."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      8,
+      9
+    ]
   }
 }
