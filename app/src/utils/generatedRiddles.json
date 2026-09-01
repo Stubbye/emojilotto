@@ -50199,5 +50199,41 @@
       8,
       9
     ]
+  },
+  "sol_2376": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, six whispers converge in chaos and grace. The jester's mask conceals what the archer's eye seeks, while serpent's wisdom coils beneath crystalline dreams. Lightning splits the veil between chaos and order, and the winged wanderer carries secrets through prismatic gates.",
+      "hint": "Think of luck, trickery, precision, magic, fortune's servants, and transformation through nature's patterns."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: a target of ambition, a jester's deceiving grin, a dragon's ancient power, a lightning bolt of chance, a crystal's brilliant shine, and a butterfly's metamorphosis.",
+      "hint": "One marks your aim, one tricks your mind, one guards treasures old, one strikes swift, one sparkles bright, and one transforms."
+    },
+    "answer": [
+      0,
+      11,
+      13,
+      4,
+      20,
+      8
+    ]
+  },
+  "emlo_833": {
+    "hardRiddle": {
+      "text": "I chase dreams to celestial heights with fiery speed, while fortune sparkles in crystalline light. A joker's gamble under electric fortune, where lightning strikes and rainbow hopes ignite. What six symbols guide the memecoin moon?",
+      "hint": "Think of a journey: launch, destination, luck, energy, treasure, and celebration"
+    },
+    "easyRiddle": {
+      "text": "Blasting off with a 🚀 to the 🌙, collecting ✨ and 💎 along the way, powered by ⚡ and celebrating with 🎯. What are these six lucky symbols?",
+      "hint": "One goes up, one is where you're going, one shines bright, one is valuable, one is powerful energy, one is the target"
+    },
+    "answer": [
+      1,
+      3,
+      9,
+      4,
+      5,
+      0
+    ]
   }
 }
