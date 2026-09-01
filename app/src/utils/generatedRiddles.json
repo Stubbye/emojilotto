@@ -50271,5 +50271,23 @@
       17,
       18
     ]
+  },
+  "sol_2378": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound dream, six tokens dance in fortune's gleam. The winged messenger of transformation seeks the jeweled path through stormy scream. One marks the bulls-eye of desire, another crowns the victor's aspire. Between the night's pale sentinel and chaos born from above, a prism bends what mortals love. Count them well in mystic fire—these six shall lift the worthy higher.",
+      "hint": "Look to the sky, the prize, the spark, and what brings joy in darkest dark"
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hold your fate: a bright burst, a gem so great, a night orb watching from above, lightning's strike and dragon's love, the butterfly that changes all. Which six will answer fortune's call?",
+      "hint": "One flies, one glows, one watches, one strikes, one shines precious, one transforms"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      5,
+      8,
+      13
+    ]
   }
 }
