@@ -50145,5 +50145,23 @@
       5,
       13
     ]
+  },
+  "sol_2374": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, twin flames dance through prismatic veils. The jester's grin dissolves in stellar dust, as chaos tumbles through the cosmic lace. What six threads weave fate's most elusive tapestry?",
+      "hint": "One shoots upward, one burns bright, one courts fortune's wheel, one wears many faces, one sparkles with consequence, one blooms in darkness."
+    },
+    "easyRiddle": {
+      "text": "A cosmic journey begins with a perfect shot. A vessel launches toward sleeping night. Fire consumes all it touches. Destiny rolls on sacred bones. Laughter wears a painted mask. And above it all, precious light eternally gleams.",
+      "hint": "Aim, ascend, burn, gamble, perform, shine."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      11,
+      19,
+      22
+    ]
   }
 }
