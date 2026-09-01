@@ -50289,5 +50289,41 @@
       8,
       13
     ]
+  },
+  "sol_2379": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers hide truth's seal. The archer's mark glows where starlight meets the prism's gleam, while winged metamorphosis spirals through the jester's dream. Lightning crowns the vault of gems, and arc of seven hues completes what fortune's dice pursue through endless illuminated routes.",
+      "hint": "One guides aim, one ignites ascent, one treasures deep, one crowns the night, one splits the sky, and one paints possibility."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune align: what you aim at, what rises high, what glimmers precious, what lights the dark, what splits the storm, and what bridges the sky after rain.",
+      "hint": "Think of targets, rockets, valuable things, night sky, weather, and color."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      5,
+      9
+    ]
+  },
+  "emlo_835": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkling brilliance guiding fortune seekers through chaos and chance. Where luck strikes like divine fire, gemstone rewards await those who spin fate's wheel.",
+      "hint": "Think of a memecoin's journey: fast ascent, glittering promise, and the gambler's dance"
+    },
+    "easyRiddle": {
+      "text": "A coin blasts up with a bolt of power, gems shine bright in fortune's hour, flames dance wild as luck takes flight, spinning and sparkling through the night",
+      "hint": "One launches, one powers, one shines, one burns, one spins, one glows"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      11,
+      10
+    ]
   }
 }
