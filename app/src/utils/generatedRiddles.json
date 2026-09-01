@@ -50235,5 +50235,41 @@
       5,
       0
     ]
+  },
+  "sol_2377": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances betwixt celestial fire and earthbound brilliance, six sentinels of fate converge: the winged metamorphosis pirouettes through luminous arcs, while crystalline tears weep upon the stage of masked revelry, and the swift-tongued deceiver guards the threshold where lightning births its eternal twin.",
+      "hint": "One climbs to heaven's door, one shifts its shape, one glitters with deception, one wears many faces, and two are kindred spirits of electricity and transformation."
+    },
+    "easyRiddle": {
+      "text": "I am six: a bright gem under midnight's gaze, a performer's twisted grin, a creature of quick cunning, nature's winged dancer, the storm's angry tongue, and fire's hungry roar. Together we spin the wheel of luck.",
+      "hint": "Look for sparkle, trickery, animal cunning, delicate wings, electricity, and heat."
+    },
+    "answer": [
+      4,
+      17,
+      13,
+      8,
+      5,
+      6
+    ]
+  },
+  "emlo_834": {
+    "hardRiddle": {
+      "text": "I launch to the celestial heights with electric speed, seeking gems that sparkle like fortune. With dragon-like ambition and fox-like cunning, I dance through lightning storms toward my trophy. What six symbols mark my journey?",
+      "hint": "Think of a memecoin's quest: the vehicle, the destination, the treasure, the energy, the strategy, and the victory."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past lightning to reach the moon. Along the way, it finds a sparkling gem and claims a trophy. What are these six things?",
+      "hint": "Count the objects mentioned: the vehicle, the energy, the place, the treasure, and the reward are all here."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      17,
+      18
+    ]
   }
 }
