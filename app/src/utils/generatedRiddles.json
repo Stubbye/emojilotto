@@ -50325,5 +50325,23 @@
       11,
       10
     ]
+  },
+  "sol_2380": {
+    "hardRiddle": {
+      "text": "Where fortune's aim meets celestial fire, a jester's laugh echoes through prisms of fate. The winged dancer pirouettes between chaos and order, while nature's bloom trembles beneath the trickster's gaze. Lightning scarred and gem-crowned, all converge where destiny's arrow finds its mark in the velvet abyss.",
+      "hint": "Seek the intersection of games, sky, and transformation. What glimmers, burns, and deceives?"
+    },
+    "easyRiddle": {
+      "text": "I am the aim of games, the spark of storms, the jester's smile, the treasure that blinds, the dancer of air, and the mark of destiny's choice.",
+      "hint": "Six things: one you shoot at, one that strikes, one that laughs, one that shines, one with wings, one with light."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      1,
+      8,
+      22
+    ]
   }
 }
