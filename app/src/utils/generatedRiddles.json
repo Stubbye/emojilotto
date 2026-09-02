@@ -50469,5 +50469,41 @@
       19,
       11
     ]
+  },
+  "sol_2386": {
+    "hardRiddle": {
+      "text": "Where fortune's jest meets celestial fire, six symbols dance in chaos' choir. The archer's mark kisses the void, while masked mirth and scaled desire are cloyed. Lightning's tongue licks crystal dreams, and nature's bloom fractures at seams. What binds the fool's gold with the night's bright throne?",
+      "hint": "Consider what laughs at fate, what burns without burning, what glitters without worth, and what royalty crowns the stage."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: a target true, a dragon's might, a joker's game, a star so bright, a crystal's gleam, and lightning's flight. Which six shall bless the lottery night?",
+      "hint": "One is a playing card character, one flies, one sparkles, one strikes, one shines, and one marks the bullseye."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      21,
+      20,
+      4
+    ]
+  },
+  "emlo_840": {
+    "hardRiddle": {
+      "text": "A jester's fortune told through cosmic fortune, where diamond dreams spark celestial flight, leaving trails of violet magic and lucky charm beneath the gleaming prize.",
+      "hint": "Think of gambling in space with luck and riches"
+    },
+    "easyRiddle": {
+      "text": "I am a game of chance. Find the joker, the gem, the moon, the lightning, the clover, and the trophy.",
+      "hint": "Six items that represent luck, wealth, and winning"
+    },
+    "answer": [
+      19,
+      2,
+      3,
+      4,
+      20,
+      17
+    ]
   }
 }
