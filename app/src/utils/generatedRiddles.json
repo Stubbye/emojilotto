@@ -50343,5 +50343,41 @@
       8,
       22
     ]
+  },
+  "sol_2381": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound fortune's wheel, six sentries guard the threshold between chaos and revelation. The archer's mark ascends through cosmic flames, while nature's metamorphosis dances with prismatic echoes. The jester's grin conceals what the crown cannot reveal, and fortune's glimmer locks the chamber where dragons once dwelled.",
+      "hint": "Consider what ascends, transforms, deceives, shines, rules, and what lies dormant in legend."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: one points the way up, one burns bright, one transforms with wings, one sparkles with joy, one laughs in disguise, and one guards ancient treasures.",
+      "hint": "Think of: direction, heat, change, shine, trickster, and wealth."
+    },
+    "answer": [
+      1,
+      5,
+      8,
+      10,
+      19,
+      20
+    ]
+  },
+  "emlo_836": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, leaving a trail of brilliance. My precious heart sparkles with cosmic energy, while fortune dances with me under the gleaming orb above. What am I?",
+      "hint": "Think of a memecoin's journey: propulsion, wealth, speed, luck, and destination"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, ✨ celebrates wins, 🍀 brings luck. Which six symbols represent a crypto adventure?",
+      "hint": "Count the emojis in the question itself"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      9,
+      19
+    ]
   }
 }
