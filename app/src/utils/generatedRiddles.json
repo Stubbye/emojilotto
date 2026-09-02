@@ -50415,5 +50415,41 @@
       12,
       19
     ]
+  },
+  "sol_2384": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and crystalline dreams dance with celestial grace. The jester's twin masks witness lightning's kiss upon the gemstone's fire, while the winged metamorphosis spirals through rainbow's desire. Six tokens of fate intertwine where rocket meets the moon's eternal night.",
+      "hint": "One guides aims, one pierces sky, one shimmers bright, one laughs and lies, one transforms wings, one glows above."
+    },
+    "easyRiddle": {
+      "text": "I am a target and a rocket reaching high, a gem that sparkles as lightning flashes by. A joker laughs while a butterfly flies through a rainbow. What six things am I?",
+      "hint": "Think of objects you'd see at a carnival or in the night sky during a storm."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      9
+    ]
+  },
+  "emlo_839": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, burning bright with electric might. Gems sparkle as fortune spins wild, where jesters laugh and magic's beguiled. Through prismatic waves I dance with fire, reaching for the crown of desire.",
+      "hint": "Count the symbols of ascension, chance, and cosmic celebration in this memecoin journey."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 glows at night, 🎪 brings the fun, 🎰 spins for everyone!",
+      "hint": "One launches, one electrifies, one glimmers, one illuminates the night, one entertains, and one determines your fate."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      6,
+      11
+    ]
   }
 }
