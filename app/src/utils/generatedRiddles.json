@@ -50451,5 +50451,23 @@
       6,
       11
     ]
+  },
+  "sol_2385": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone catches starlight's trace. Wings of transformation dance through flames, while electricity writes destiny's names. In the orchestra of chance, the jester grins, and fortune's wheel eternally spins.",
+      "hint": "One aims, one gleams, one flies, one ignites, one laughs, one turns"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck intertwine: a bullseye, a precious stone that shines, a creature reborn through fire's light, a bolt that strikes through darkest night, a masked fool who deals in fate, and a spinning wheel that seals your state.",
+      "hint": "Target, gem, butterfly, lightning, joker, and dice"
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      4,
+      19,
+      11
+    ]
   }
 }
