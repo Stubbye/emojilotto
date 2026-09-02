@@ -50379,5 +50379,41 @@
       9,
       19
     ]
+  },
+  "sol_2382": {
+    "hardRiddle": {
+      "text": "Where fortune's arc bends through celestial fire, six tokens dance in shadowed desire. The winged metamorphosis courts the gleaming shard beneath Luna's gaze, while electric serpent coils through fortune's maze. Seek the center's bullseye truth wrapped in chaos and mirth—a jester's gambit where destiny births.",
+      "hint": "Transformation, brightness, night, electricity, scales, and games converge in this cryptic constellation."
+    },
+    "easyRiddle": {
+      "text": "A butterfly transforms near a shining gem. The moon watches lightning strike a dragon's den. Where do these six signs meet in the lottery's realm?",
+      "hint": "Look for: wings, sparkle, night sky, electric bolt, ancient beast, and circular target."
+    },
+    "answer": [
+      8,
+      5,
+      3,
+      4,
+      13,
+      11
+    ]
+  },
+  "emlo_837": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with 🚀 speed, my ⚡ burns bright with 🔥 greed. Lucky 🍀 holders see 💎 gleam, living the memecoin dream. What am I?",
+      "hint": "Think of the ultimate crypto journey - where we're all heading with our bags"
+    },
+    "easyRiddle": {
+      "text": "Blast off to fortune with speed and light, lucky charm glows in the night, precious stones shine oh so bright. Which six friends join this memecoin flight?",
+      "hint": "One goes to space, one brings luck, one sparkles with value"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      12,
+      19
+    ]
   }
 }
