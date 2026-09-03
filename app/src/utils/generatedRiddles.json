@@ -50649,5 +50649,23 @@
       5,
       8
     ]
+  },
+  "sol_2393": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits converge in chaos and gleam. The archer's mark meets the serpent's ancient dream, while fortune's jester spins amidst electric seams. A winged messenger flits through prismatic streams, and destiny's crown glimmers in moonlit schemes.",
+      "hint": "Think of fate, luck, chaos, mythical power, illumination, and the night sky's blessing"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune: one aims true, one climbs high, one shines bright, one rules with scales, one brings laughter, one dances with light. Which six dance together in luck's embrace?",
+      "hint": "A target, ascending power, precious light, a legendary beast, entertainment, and celestial glow"
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      13,
+      18,
+      21
+    ]
   }
 }
