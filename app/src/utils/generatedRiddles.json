@@ -50505,5 +50505,23 @@
       20,
       17
     ]
+  },
+  "sol_2387": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a jester's masquerade unfolds. The winged wanderer spirals through prismatic arcs, seeking the gleaming heart buried in shadow's breath. Six tokens of destiny: one marks the hunter's aim, one burns with celestial rage, one glimmers with wealth's tears, one wears the moon's pale crown, one splits the heavens' voice, and one juggles chaos in crimson tents.",
+      "hint": "Follow the path from earthly pursuit through cosmic chaos, where laughter meets lightning and gems hide in smoke."
+    },
+    "easyRiddle": {
+      "text": "Find six treasures: the archer's circle, the sky's fury, the jewel of riches, the night's companion, the heavens' crack, and the place where wonder spins.",
+      "hint": "Think of: aim, storm, treasure, darkness, electricity, and entertainment."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      5,
+      7
+    ]
   }
 }
