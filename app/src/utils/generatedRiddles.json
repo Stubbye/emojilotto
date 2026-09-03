@@ -50613,5 +50613,41 @@
       13,
       11
     ]
+  },
+  "sol_2392": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, seven realms converge in prismatic desire. The jester's grin guards the dragon's gleaming throne, while nature's trembling wings dance with the stone. Through spectral arcs where thunder's children play, the mask of fate reveals what none can say.",
+      "hint": "Seek the number of chaos, the scaled sentinel, the crystalline heart, the bolt's wild kin, the painted sky's arc, and the jeweled guardian."
+    },
+    "easyRiddle": {
+      "text": "A target marks the start of lucky streams, a rocket flies through fortune's cosmic dreams. A gem so bright catches fortune's eye, dragon and lightning race through the sky. Rainbow's colors paint the winning way.",
+      "hint": "Count the fortune symbols: the aim, the craft, the shine, the fire-breather, the storm's kiss, and the spectrum's display."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      5,
+      9
+    ]
+  },
+  "emlo_844": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem that sparkles when I lead. The rocket's fire fuels my way, while butterflies dance in my display. What am I in this memecoin fray?",
+      "hint": "Think of what drives crypto dreams to the stars"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket, gem, and moon. Add lightning, fire, and butterfly too. These six things make memecoins boom!",
+      "hint": "Look for celestial objects, energy, and nature combined"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
   }
 }
