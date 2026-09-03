@@ -50523,5 +50523,41 @@
       5,
       7
     ]
+  },
+  "sol_2388": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a winged metamorphosis dances through celestial blaze. The jester's prismatic arc spans where thunder splits the night, while molten chaos whispers secrets to the crystalline light. Six guardians converge where destiny's wheel turns—seek the marked center, the ascended flame, the prism born, the chaos that burns, the metamorphosed frame, and the light reborn.",
+      "hint": "One points the way, one reaches heights, one sparkles with worth, one watches from above, one disrupts all, and one transforms all."
+    },
+    "easyRiddle": {
+      "text": "I am the target of wishes and dreams, a rocket piercing the night sky's seams. A gem catches light with brilliant fire, while the moon watches from above entire. Lightning strikes fast with electric might, and a butterfly dances through rainbow light. Which six bring fortune to sight?",
+      "hint": "Aim high, reach for stars, seek what shines, watch the sky, feel the power, and embrace change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_841": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's light. Where fortune meets velocity, gems ignite. Lightning strikes my path as I dance through the night. What six symbols mark my journey to the pinnacle?",
+      "hint": "Think of a memecoin's ultimate promise: rapid ascent, riches, and dazzling success"
+    },
+    "easyRiddle": {
+      "text": "A coin zooms upward fast, shining bright like a jewel. Electricity powers the rush to the top, where all dreams come true. Six emojis show the way!",
+      "hint": "Rocket, moon, and gems are involved. Add electricity and shine!"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      9,
+      21
+    ]
   }
 }
