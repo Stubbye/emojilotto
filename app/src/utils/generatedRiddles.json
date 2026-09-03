@@ -50595,5 +50595,23 @@
       11,
       13
     ]
+  },
+  "sol_2390": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, and scaled serpents dance through crystalline light, a jester's grin meets nature's gentle flight, while thunder speaks in purple's mystic might. Six secrets hide within chaos and grace, where music echoes through this sacred space.",
+      "hint": "Seek the archer's aim, the dragon's realm, the fool's true face, the butterfly's dance, the storm's fierce call, and royalty's hue."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I soar on high, I sparkle rare, I touch the sky, I wear two faces, I flutter free, I bloom in storms—find all of me.",
+      "hint": "Think of direction, flight, precious things, heights, performers, delicate wings, and nature's color show."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      8,
+      13,
+      11
+    ]
   }
 }
