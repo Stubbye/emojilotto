@@ -50559,5 +50559,41 @@
       9,
       21
     ]
+  },
+  "sol_2389": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial weaver's thread, six omens dance in shadow's bed. The jester's grin conceals the gem of night, while thunder's kiss ignites the butterfly's flight. Beneath the prism's fractured gleam, the dragon dreams in purple's scheme.",
+      "hint": "One guides the path, one marks the stage, one holds all value, one writes the age, one speaks in riddles, one breathes with might."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in fortune's call: a target true, a gem so small, the joker's laugh, lightning's might, a dragon proud, and purple bright. Which six shall you divine?",
+      "hint": "Look for: aim, sparkle, jest, shock, fantasy, and hue."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      13,
+      19,
+      24
+    ]
+  },
+  "emlo_842": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights with electric speed, burning bright as gems sparkle in chaos. A joker's trick reveals the path where fortune dances wild.",
+      "hint": "Think of a memecoin's journey: propulsion, destination, value, speed, chance, and mischief."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, 🎲 decides fate, 🃏 brings the joke.",
+      "hint": "These 6 emojis are the core of every moonshot memecoin story."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      11,
+      13
+    ]
   }
 }
