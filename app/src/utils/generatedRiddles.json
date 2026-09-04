@@ -50793,5 +50793,41 @@
       8,
       19
     ]
+  },
+  "sol_2399": {
+    "hardRiddle": {
+      "text": "Through celestial veil where fortune's arrow flies, the scaled serpent breathes eternal light. Crystalline shards catch what mortals prize, while thunder splits the crown of night. In prismatic arc, a jester's grin dissolves, and petaled dreams where chaos spirals down—six secrets intertwined, the puzzle that fate revolves.",
+      "hint": "One strikes from above, one dwells in myth, one catches brilliance, one laughs in masks, one paints the sky, one shows the way."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the winged one flies, the jeweled gleams bright. The serpent's crown, the laugh in disguise, and the arc after storm's might.",
+      "hint": "Look for: something you aim at, something that soars fast, something precious, a mythical creature, something that tricks you, and something colorful in the sky."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      18,
+      9
+    ]
+  },
+  "emlo_849": {
+    "hardRiddle": {
+      "text": "I chase the moon with rocket speed, through lightning storms I take the lead. A gem of fortune, sparkling bright, with fire passion burning through the night. The joker's grin guides my flight, to rainbow riches, pure delight.",
+      "hint": "Think of a memecoin's journey to the stars - what symbols represent explosive growth, luck, and celebration?"
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly so fast! Rocket power makes it last. Lightning quick and sparkling bright, gems of fortune shine so right. Fire burns our passion deep, joker laughs while we all leap!",
+      "hint": "Picture a memecoin trader's dream: speed, luck, brightness, and wild fun!"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      6,
+      10,
+      19
+    ]
   }
 }
