@@ -50721,5 +50721,41 @@
       11,
       3
     ]
+  },
+  "sol_2396": {
+    "hardRiddle": {
+      "text": "Through celestial chambers where fortune's jester pirouettes, six sentinels converge. The archer's mark meets winged ascension, while gemstone secrets gleam beneath lunar vigil. Thunder's daughter dances with inferno's breath, and metamorphosis crowns the chaos where masks dissolve into starlight's eternal jest.",
+      "hint": "Seek where aim meets sky, precious stones reflect night's gaze, electricity waltzes with heat, and transformation births the show."
+    },
+    "easyRiddle": {
+      "text": "I am the aim, the climb, the shine, the night, the spark, and the change. Six of us dance together in this game of chance and mystery.",
+      "hint": "Think of: something you shoot at, something that flies up, something that sparkles, something in the sky, something that zaps, and something that transforms."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      21,
+      4,
+      8
+    ]
+  },
+  "emlo_847": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's fire. A jester's gamble under the mystic glow, where wings of transformation meet the archer's aim. What six symbols mark this memecoin journey?",
+      "hint": "Think of a rocket's destiny, a joker's luck, and nature's magical moments"
+    },
+    "easyRiddle": {
+      "text": "A rocket flies to the moon with lightning speed. Gems sparkle bright while a joker laughs. Dice roll for fortune. What are these six lucky symbols?",
+      "hint": "Look for: fast travel, night sky, electricity, precious things, a funny card, and chance"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      11,
+      10
+    ]
   }
 }
