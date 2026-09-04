@@ -50685,5 +50685,41 @@
       9,
       10
     ]
+  },
+  "sol_2395": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis ascends through prismatic veils. The jester's masked mirth meets the archer's distant mark, while fortune's crystalline heart gleams beneath seven-pointed dominion. Seek the trembling threshold where chaos and order pirouette—six keys unlock the jackpot's whispered secret.",
+      "hint": "One reflects destiny's aim, one mirrors chaos, one transforms fate, one crowns achievement, one births illusion, one holds eternity's light."
+    },
+    "easyRiddle": {
+      "text": "I bring luck in numbers, I light the night sky, I sparkle with brilliance, I transform to fly, I wear many faces, and I mark where you aim. Six treasures together will win you the game.",
+      "hint": "Think of luck, night, shine, change, deception, and targets."
+    },
+    "answer": [
+      1,
+      4,
+      8,
+      18,
+      19,
+      21
+    ]
+  },
+  "emlo_846": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 that makes hodlers bleed. Gem-like sparkles mark my way, as I 💎 dance through night and day. Fortune's wheel spins at my core, while my 🚀 reaches heaven's door. What am I?",
+      "hint": "Think of a memecoin's journey: volatility, dreams, and luck combined"
+    },
+    "easyRiddle": {
+      "text": "Find the path to riches: start with ⚡, follow the 🚀, grab the 💎, dodge the 🔥, spin the 🎰, and reach the 🌙",
+      "hint": "Six emojis tell the story of a memecoin's rise"
+    },
+    "answer": [
+      5,
+      1,
+      2,
+      6,
+      11,
+      3
+    ]
   }
 }
