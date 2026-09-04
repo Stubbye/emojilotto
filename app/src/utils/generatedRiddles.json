@@ -50667,5 +50667,23 @@
       18,
       21
     ]
+  },
+  "emlo_845": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gem-like value sparkles as flames consume my path. Lady luck spins her crystal wheel while I dance through rainbow waves, forever chasing that trophy moment.",
+      "hint": "Think of a memecoin's journey: ambition, energy, value, luck, volatility, and ultimate glory."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 is valuable, ⚡ is fast too, 🔥 is hot, 🌈 is colorful, ✨ is shiny. Which six belong to every moonshot dream?",
+      "hint": "A memecoin needs speed, worth, energy, hype, diversity, and magic."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      10
+    ]
   }
 }
