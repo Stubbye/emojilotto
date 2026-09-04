@@ -50775,5 +50775,23 @@
       8,
       21
     ]
+  },
+  "sol_2398": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between celestial fire and earthly dreams, a gemstone catches starlight's whisper. The jester's mask grins at destiny's wheel, while wings of metamorphosis dance through crystalline silence, and luck's shamrock trembles in the thunder's breath.",
+      "hint": "Seek the symbols of chance, celestial bodies, and transformation. One pierces, one glimmers, one guards fortune's secret."
+    },
+    "easyRiddle": {
+      "text": "I am six: a pointed seeker of targets, a stone that glows, a sleeping world above, a masked fool's grin, a butterfly's grace, and fortune's four-leaf charm.",
+      "hint": "Think of luck, wishes, night sky, cards, insects, and shamrocks."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      11,
+      8,
+      19
+    ]
   }
 }
