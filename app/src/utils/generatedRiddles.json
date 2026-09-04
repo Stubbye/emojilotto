@@ -50757,5 +50757,23 @@
       11,
       10
     ]
+  },
+  "emlo_848": {
+    "hardRiddle": {
+      "text": "I chase the celestial body with electric speed, my gem sparkles as fortune's dice roll. A butterfly dances through fire while the joker laughs beneath stars—what six symbols reveal this memecoin's destiny?",
+      "hint": "Think of a cryptocurrency journey: speed to the destination, luck, chaos, and transformation"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ moves fast, 🔥 burns hot, 🦋 transforms, and ⭐ guides the way. Which six emojis make a memecoin dream?",
+      "hint": "One launches, one glows, one energizes, one heats, one changes, and one shines"
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      6,
+      8,
+      21
+    ]
   }
 }
