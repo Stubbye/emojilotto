@@ -51009,5 +51009,41 @@
       8,
       19
     ]
+  },
+  "sol_2408": {
+    "hardRiddle": {
+      "text": "Through celestial veils where fortune's breath ignites, six sentinels dance betwixt the void and sight. The archer's mark dissolves in cosmic fire, while winged metamorphosis ascends ever higher. Beneath twin luminescence where tempests are born, crystalline treasures await those reborn. What sacred hexad unlocks destiny's door?",
+      "hint": "Look for the circle, the ascending flame, the jeweled heart, the night keeper, the storm's voice, and nature's delicate heir."
+    },
+    "easyRiddle": {
+      "text": "Six magical things help you win the lottery: a bullseye, a bright flame, a shiny gem, the glowing moon, a lightning bolt, and a pretty butterfly. Can you find them all?",
+      "hint": "Think of: target, fire, gem, moon, lightning, butterfly"
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_853": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-like value sparkles as I moon with fire. The joker spins the dice of fortune, while a rainbow of hope guides the way. What am I?",
+      "hint": "A token that combines speed, value, and luck in the crypto realm"
+    },
+    "easyRiddle": {
+      "text": "Fast as lightning, shiny as a gem, aiming for the moon with fire in my heart. I bring rainbow colors and sparkles to your wallet. What am I?",
+      "hint": "Think of a cryptocurrency that's fun, explosive, and aims high"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      11
+    ]
   }
 }
