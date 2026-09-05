@@ -50955,5 +50955,41 @@
       10,
       20
     ]
+  },
+  "sol_2406": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked jester's laughter echoes through prismatic gates. Seven-petaled luck blooms beneath the archer's eye, while gemstone tears fall upon the winged messenger's throne. In this symphony of chance, the wild fox knows the secret path where lightning and crystal converge in the butterfly's final waltz.",
+      "hint": "Seek the nocturnal jewel, the performer of deception, the bolt that strikes fate, the gem that refracts destiny, the creature with spots of chance, and the one who transforms through metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I am six mirrors of fate: one burns with celestial fury, one sparkles with frozen light, one hides behind painted smiles, one transforms with delicate wings, one strikes with electric fury, and one gleams precious and rare. Together we hold the lottery's heart.",
+      "hint": "Think of: something that burns in the sky, something that glows, something fake, something that changes, something fast and bright, and something valuable."
+    },
+    "answer": [
+      1,
+      21,
+      19,
+      8,
+      5,
+      11
+    ]
+  },
+  "emlo_852": {
+    "hardRiddle": {
+      "text": "I chase the celestial glow with electric speed, leaving a blazing trail of fortune. Luck strikes twice when fortune's jester joins the dance, and crystalline treasures sparkle as I rise. What six symbols mark this memecoin's legendary ascent?",
+      "hint": "Think of a coin's journey: destination, velocity, wealth, altitude, fate, and brilliance."
+    },
+    "easyRiddle": {
+      "text": "🎯 Up up! ⚡ Fast! 💎 Rich! 🌙 High! 🃏 Lucky! ✨ Shiny! What are these six memecoin dreams?",
+      "hint": "A goal, a flight, treasure, space, chance, and magic sparkle."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      10
+    ]
   }
 }
