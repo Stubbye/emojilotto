@@ -50883,5 +50883,23 @@
       8,
       13
     ]
+  },
+  "sol_2403": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six silent witnesses to destiny's wire. The jester's grin eclipses dawn's bright crown, while scales of chance tumble kingdoms down. A six-winged phantom dances through prismatic veils, and crystalline tears mark where ambition fails.",
+      "hint": "Think of gambling's core elements merged with cosmic forces and nature's most elusive dancers."
+    },
+    "easyRiddle": {
+      "text": "I hold six secrets: one points the way, one burns in night's display, one brings laughter to the game, one glimmers without flame, one flutters where rainbows play, one sparkles where fortunes sway.",
+      "hint": "Lottery symbols often include targets, fire, joy, gems, beauty, and magic."
+    },
+    "answer": [
+      0,
+      5,
+      11,
+      8,
+      12,
+      20
+    ]
   }
 }
