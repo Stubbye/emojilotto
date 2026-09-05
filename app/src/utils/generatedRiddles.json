@@ -50937,5 +50937,23 @@
       5,
       17
     ]
+  },
+  "sol_2405": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, six harbingers of fate converge. The winged metamorphosis spirals through prismatic veils, while the scaled leviathan guards the crystalline throne. Thunder's golden child pierces the veil, and the archer's circle draws destiny's bow. Seek the laughing mask of chance, the jeweled heart of eternity, and the luminescent finale where wishes crystallize into being.",
+      "hint": "One ascends on pillared flame, one shifts between forms, one splits the sky, one orbits in shadow, one sparkles with completion, and one holds the key to transformation."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: A celestial body that glows at night, a burst of light that marks triumph, a precious stone that gleams, the path of colors after rain, a creature that transforms through stages, and the flickering dance of danger's heat.",
+      "hint": "Think of night sky, rewards, treasure, weather, insects, and warmth."
+    },
+    "answer": [
+      1,
+      13,
+      5,
+      3,
+      10,
+      20
+    ]
   }
 }
