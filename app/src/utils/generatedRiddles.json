@@ -50829,5 +50829,23 @@
       10,
       19
     ]
+  },
+  "sol_2401": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial silence, a gemstone gleams in destiny's cradle. The serpent of storms coils through amber tongues, while winged transformation dances betwixt radiance—six keepers of fate's amphitheater guard the path to ethereal victory.",
+      "hint": "Seek the hunter's mark, the jeweled eye, the ancient guardian, the night's pearl, chaos incarnate, and metamorphosis wrapped in light."
+    },
+    "easyRiddle": {
+      "text": "A target holds a gem beneath the moon. Lightning and a dragon spiral in the glow. A butterfly shimmers near. Which six reveal fortune's secret?",
+      "hint": "Look for: aim, treasure, night, storm, beast, and wings."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      13,
+      8
+    ]
   }
 }
