@@ -50901,5 +50901,41 @@
       12,
       20
     ]
+  },
+  "sol_2404": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale face, six whispers dance in chaos' embrace. The winged metamorphosis seeks the flame, while nature's bloom and fortune's game align in spectrum's arch. Thunder's kiss and glittering shards reflect the jester's ancient lark.",
+      "hint": "One points, one glows above, one transforms, one burns, one blooms, one sparkles with mischief"
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the night's bright orb, the creature that flies reborn, the heat that consumes, the beauty that grows, and the fool who grins. Together we are six.",
+      "hint": "Target, Moon, Butterfly, Fire, Flower, Joker"
+    },
+    "answer": [
+      0,
+      3,
+      8,
+      6,
+      14,
+      19
+    ]
+  },
+  "emlo_851": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, my rocket fuel is greed. Through fire and gem-lit paths I race, a sparkle-trail across the space. When fortune strikes like dice so bold, my trophy gleams with memecoin gold. What six celestial signs align to make this fortune truly mine?",
+      "hint": "Look to the sky for speed, destination, and treasure. Remember what drives every trader's pleasure."
+    },
+    "easyRiddle": {
+      "text": "Find the rocket going up, the moon we're heading to, the lightning strike of gains so quick, the gem that sparkles bright and true, the fire of our passion, and the trophy of success!",
+      "hint": "Six things every memecoin dreamer wants: speed, destination, profit, treasure, energy, and victory."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      5,
+      17
+    ]
   }
 }
