@@ -51045,5 +51045,23 @@
       9,
       11
     ]
+  },
+  "sol_2409": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis chases the prism of luck. The jester's spark ignites the gem of night's throne, while fate's arrows pierce through laughter's sacred ground. Six signs converge where chaos and beauty waltz in crystalline harmony.",
+      "hint": "Look for the night guardian, the messenger of speed, the shapeshifter of seasons, the court's dual nature, the radiant spectrum, and the fortune's instrument."
+    },
+    "easyRiddle": {
+      "text": "I contain a night sky sentinel, a fast messenger, a colorful insect, a joking character, a shimmering spectrum, and a randomizing cube. Together we hold six keys to lottery dreams.",
+      "hint": "Think of astronomy, speed, nature's transformation, entertainment, light refraction, and games of chance."
+    },
+    "answer": [
+      3,
+      1,
+      8,
+      19,
+      9,
+      11
+    ]
   }
 }
