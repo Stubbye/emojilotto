@@ -50847,5 +50847,41 @@
       13,
       8
     ]
+  },
+  "sol_2402": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six spirits convene in the void between dreams and fate. The archer's mark gleams with prismatic truth, while the winged metamorphosis spirals through lightning's sacred geometry. In this cosmic theater of chance, the jester's laughter echoes where earthly and celestial realms kiss beneath the dragon's watchful gaze.",
+      "hint": "Seek the symbols of destiny, transformation, and the eternal cycle where luck bends light into gem-like promises."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in this verse: one burns bright in the night sky, one sparkles with power, one brings fortune through play, one transforms through the air, one laughs at fate, and one breathes ancient wisdom.",
+      "hint": "Think of night, jewels, games, flying creatures, comedy, and legendary beasts."
+    },
+    "answer": [
+      1,
+      6,
+      11,
+      8,
+      19,
+      14
+    ]
+  },
+  "emlo_850": {
+    "hardRiddle": {
+      "text": "I leap to the moon with electric speed, a gem-like treasure that makes holders greed. Rainbow sparkles guide my flight, while dragon fire burns so bright. The circus joker spins with glee, as butterfly wings dance wild and free.",
+      "hint": "Count the magical creatures and celestial elements that represent this coin's journey to infinity."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past the moon so high, gems sparkle in the lightning sky. Fire crackles, the butterfly flies free—which six magical things help this memecoin be?",
+      "hint": "Look for things that go up, shine bright, and represent speed and magic."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      8,
+      13
+    ]
   }
 }
