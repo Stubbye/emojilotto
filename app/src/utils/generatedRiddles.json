@@ -50991,5 +50991,23 @@
       11,
       10
     ]
+  },
+  "sol_2407": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six whispers of fate align: the archer's circle finds its mark through prismatic tears, while winged transformation spirals past the guardian of night, where crystalline laughter echoes and the fool's crown gleams eternal.",
+      "hint": "Seek the intersection of aimed destiny, gemstone brilliance, lunar silence, electric chaos, dancing joy, and jester's wisdom."
+    },
+    "easyRiddle": {
+      "text": "Six omens of luck: One shoots straight, one shines bright like a stone, one glows in the dark sky, one strikes with power, one flutters with grace, one wears the crown of trickery.",
+      "hint": "Target, Gem, Moon, Lightning, Butterfly, Joker - each represents a different kind of fortune."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      19
+    ]
   }
 }
