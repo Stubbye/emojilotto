@@ -51135,5 +51135,41 @@
       12,
       2
     ]
+  },
+  "sol_2412": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the archer's mark meets the dancer's flight. Beneath the jester's eternal grin, fortune's crystalline heart beats between the scales of chance and the symphony of strings. Six truths hide in this masquerade of light.",
+      "hint": "Consider what rises, what gleams, what plays, what decides, and what enchants the night sky."
+    },
+    "easyRiddle": {
+      "text": "A shooting star ignites the stage where luck performs. The crown awaits those who strike the bull's-eye. Six magical things shimmer in this tale of fortune and music.",
+      "hint": "Think of: ascension, brilliance, performance, randomness, celestial wonder, and destiny's reward."
+    },
+    "answer": [
+      1,
+      21,
+      16,
+      11,
+      13,
+      18
+    ]
+  },
+  "emlo_856": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my precious heart ablaze. Fortune spins as chaos erupts, while the trickster grins at destiny's maze.",
+      "hint": "Think of momentum, wealth, energy, and games of chance combined"
+    },
+    "easyRiddle": {
+      "text": "To the moon we rocket with fire and lightning, seeking gems and fortune's sparkle. What six symbols represent our memecoin journey?",
+      "hint": "One goes up, one shines bright, one burns hot, one electrifies, one glimmers, and one brings luck"
+    },
+    "answer": [
+      1,
+      5,
+      3,
+      4,
+      7,
+      11
+    ]
   }
 }
