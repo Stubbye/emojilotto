@@ -51207,5 +51207,23 @@
       5,
       3
     ]
+  },
+  "sol_2415": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces through celestial veil, six guardians dance in shadows. The trickster grins beneath the mask of chaos, while crystalline dreams ascend on wings of amber flame. In spiraling motion, the seven-stringed voice weeps, and where the prism bends, luck's serpent coils eternal—all born beneath the jester's knowing gaze.",
+      "hint": "Look for: precision, ascension, deception, gemstone, music, and the harbinger of storms"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one points true, one climbs high, one glimmers bright, one deceives with glee, one sings with strings, and one strikes with fury. Find them all to claim the prize.",
+      "hint": "Think of: aiming, rising, shining, fooling, playing, and striking"
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      12,
+      16,
+      19
+    ]
   }
 }
