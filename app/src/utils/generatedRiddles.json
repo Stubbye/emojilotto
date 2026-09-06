@@ -51099,5 +51099,41 @@
       12,
       21
     ]
+  },
+  "sol_2411": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial throne, a jeweled phantom dances through the veil. The serpent's breath ignites the jester's laughter, while six-faced fate spins beneath the wanderer's wings. Seek the trinity of chaos: the trickster's grin, the storm's electric kiss, and the prism born of light's surrender.",
+      "hint": "One guides the aim, one rules the night, one glimmers with worth, one laughs at destiny, one crackles with power, and one bears all colors."
+    },
+    "easyRiddle": {
+      "text": "I point you forward, I shine above, I sparkle with value, I play with tricks, I strike with power, and I dance with colors. Six treasures hide in plain sight—find the marksman's goal, the sleeping guardian, the precious stone, the card-dealing fool, the angry sky, and the light that splits.",
+      "hint": "Think of games, the night sky, valuable things, magic shows, weather, and light."
+    },
+    "answer": [
+      0,
+      2,
+      1,
+      11,
+      5,
+      9
+    ]
+  },
+  "emlo_855": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with blazing speed, seeking riches that sparkle and gleam. Fortune spins wildly as I dance through waves of chaos, my jester's grin never fading as legendary beasts watch from afar.",
+      "hint": "Think of explosive growth, randomness, and mythical creatures in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! Watch the dice roll for treasure that shines bright. A magical fox with lightning speed runs through fire toward the sparkling gem.",
+      "hint": "Speed, luck, wealth, and electricity guide the way"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      11,
+      12,
+      2
+    ]
   }
 }
