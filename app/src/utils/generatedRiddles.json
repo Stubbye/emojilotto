@@ -51063,5 +51063,41 @@
       9,
       11
     ]
+  },
+  "sol_2410": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged metamorphosis seeks prismatic paths through silent laughter's masquerade. Six tokens of destiny converge where luck's jester pirouettes beneath the crown of champions, as the nocturnal orb witnesses the bolt that births all wonder.",
+      "hint": "Think of transformation, chance, cosmic events, victory, deception, and the moment electricity creates magic."
+    },
+    "easyRiddle": {
+      "text": "I wear six faces of fortune: one spins the wheel of chance, one dances in the night sky, one strikes with sudden power, one transforms with gentle grace, one wears the mask of mirth, and one claims the victor's throne.",
+      "hint": "Look for: randomness, the moon, energy, change, comedy, and achievement."
+    },
+    "answer": [
+      11,
+      4,
+      5,
+      8,
+      19,
+      17
+    ]
+  },
+  "emlo_854": {
+    "hardRiddle": {
+      "text": "I chase the gleaming treasure high, with electric speed I fly. Where mystical gems dance in light, the joker laughs at dizzying height. When fortune spins beneath the stars, I strike like lightning through the bars.",
+      "hint": "Think of what drives a memecoin to the moon, the chaos of gambling, and the cosmic prizes that await."
+    },
+    "easyRiddle": {
+      "text": "Blast off with a 🚀, find the 💎 so bright, dodge the ⚡ and the 🃏 tonight. Spin the 🎲 under the ⭐ light.",
+      "hint": "Count the emojis in the riddle itself - they are part of the answer!"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      11,
+      12,
+      21
+    ]
   }
 }
