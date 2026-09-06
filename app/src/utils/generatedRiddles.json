@@ -51225,5 +51225,23 @@
       16,
       19
     ]
+  },
+  "emlo_858": {
+    "hardRiddle": {
+      "text": "A jester's gamble takes flight with electric speed, seeking precious stones beneath the celestial glow. Flames of fortune dance where magic sparkles bright, as nature's delicate wings carry luck through the cosmic night.",
+      "hint": "Think of a memecoin journey: risk, speed, wealth, celestial goals, energy, and transformation."
+    },
+    "easyRiddle": {
+      "text": "🎪 Roll the dice like a joker, ⚡ strike with lightning speed, 💎 find the gem, 🌙 reach the moon, ✨ with sparkles, and 🦋 transform like a butterfly.",
+      "hint": "Six emojis guide you: chaos, speed, treasure, destination, magic, and metamorphosis."
+    },
+    "answer": [
+      11,
+      4,
+      2,
+      3,
+      9,
+      8
+    ]
   }
 }
