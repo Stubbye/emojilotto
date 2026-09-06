@@ -51171,5 +51171,23 @@
       7,
       11
     ]
+  },
+  "sol_2413": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge: the archer's mark meets cosmic flight, precious depths gleam beneath silver gaze, while nature's metamorphosis twirls between fate's jester and the night's electric crown.",
+      "hint": "Look for the path between luck and destiny, where transformation meets illumination"
+    },
+    "easyRiddle": {
+      "text": "Find the target of dreams, the rocket to stars, the gem of earth, the moon's pale glow, lightning's flash, and the jester's laugh—six treasures of chance await.",
+      "hint": "One shoots upward, one shines above, one sparkles below, one marks the spot, one strikes fast, one grins"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      20
+    ]
   }
 }
