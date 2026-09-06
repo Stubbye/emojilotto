@@ -51189,5 +51189,23 @@
       5,
       20
     ]
+  },
+  "emlo_857": {
+    "hardRiddle": {
+      "text": "I chase the ⭐ with 🚀 fuel, my 💎 heart sparkles with ⚡ energy, as 🔥 passion burns bright and 🌙 dreams take flight. What am I?",
+      "hint": "A digital treasure that defies gravity and ignites fortunes"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, 💎 shining bright, ⚡ fast gains, 🔥 hype in sight, ⭐ rewards await. What meme coin brings this magic?",
+      "hint": "Look for symbols of moon travel, precious wealth, speed, heat, and celestial glory"
+    },
+    "answer": [
+      22,
+      1,
+      2,
+      4,
+      5,
+      3
+    ]
   }
 }
