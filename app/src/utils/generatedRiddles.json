@@ -51261,5 +51261,41 @@
       14,
       20
     ]
+  },
+  "sol_2418": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and twin serpents dance through prismatic flames, the jester's grin dissolves into stardust upon wings of metamorphosis. Seek the treasured gleam that crowns destiny's ascent, as chaos trembles beneath the archer's eternal gaze.",
+      "hint": "Look for symbols of ambition, celestial mystery, transformation, precious reward, chance, and theatrical deception woven through this cosmic tapestry."
+    },
+    "easyRiddle": {
+      "text": "I point to victory's dream, I light the sky's domain, I sparkle with great worth, I shift with joyful play, I wear a foolish crown, and I flutter born again.",
+      "hint": "Think of a goal, night sky, riches, randomness, entertainment, and nature's rebirth."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      11,
+      12,
+      8
+    ]
+  },
+  "emlo_859": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with velocity and dreams, my gem-like essence sparkles with electric potential. The joker's fortune dances in flames of possibility, while the dragon guards treasures beneath my rainbow trail. What am I?",
+      "hint": "A memecoin's journey combines speed, value, luck, power, hope, and diversity"
+    },
+    "easyRiddle": {
+      "text": "Fast like a 🚀, shiny like a 💎, lucky like a 🃏, powerful like a ⚡, magical like a 🌈, and mighty like a 🐉. Together we moon!",
+      "hint": "Think of a memecoin's perfect attributes"
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      4,
+      9,
+      13
+    ]
   }
 }
