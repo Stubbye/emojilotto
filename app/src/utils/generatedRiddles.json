@@ -51369,5 +51369,23 @@
       6,
       20
     ]
+  },
+  "sol_2421": {
+    "hardRiddle": {
+      "text": "Where fortune's aim meets celestial flame, six seekers dance in fortune's game. The jester's grin holds luck's twin flame, while scaled thunder roars without shame. A six-winged herald of transformation flies, as crystal echoes pierce the night skies. The archer's bullseye meets cosmic fire, where destiny's wheel turns ever higher.",
+      "hint": "Consider the liminal spaces between fate and chance, where performance meets the infinite canvas."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck intertwine: a target's purpose, lightning's sign, a joker's jest, a dragon's might, a butterfly's grace, and crystal's light. Which six crown the lottery's crown?",
+      "hint": "Think of symbols associated with luck, chance, and transformation in games of fortune."
+    },
+    "answer": [
+      0,
+      4,
+      11,
+      13,
+      8,
+      20
+    ]
   }
 }
