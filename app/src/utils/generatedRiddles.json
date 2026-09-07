@@ -51243,5 +51243,23 @@
       9,
       8
     ]
+  },
+  "sol_2417": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's prism splits the night. The archer's mark meets the serpent's ancient flame, while crystalline petals bloom beneath the fool's grin. Six secrets hide in chaos ordered—find the symmetry within madness.",
+      "hint": "One watches from above, one burns below, one plays games, one transforms, one blooms eternal, one reflects all light."
+    },
+    "easyRiddle": {
+      "text": "I am the night's eye, the dragon's domain, the jester who knows all games, the fire that never dies, the flower that never wilts, and the stone that holds all colors. What am I?",
+      "hint": "Look to the heavens and earth, to fate and magic, to nature and precious things."
+    },
+    "answer": [
+      3,
+      13,
+      11,
+      5,
+      14,
+      20
+    ]
   }
 }
