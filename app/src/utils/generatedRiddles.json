@@ -51297,5 +51297,41 @@
       9,
       13
     ]
+  },
+  "sol_2419": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the cosmic flame, six tokens dance in destiny's game. The jester's twin reflections gleam beneath a silvered crescent's dream. A creature born of earth and sky, with wings that shimmer as they fly. The stone of ages, pure and bright, refracts the chaos into light.",
+      "hint": "Seek the marked center, the ascending fire, the masked deceiver, the nocturnal sphere, the winged metamorphosis, and the radiant prism."
+    },
+    "easyRiddle": {
+      "text": "I am six: a bullseye's heart, a rocket's roar, a jester's jest, a moon so pale, a butterfly's dance, and a crystal's glow. What am I?",
+      "hint": "One pierces, one ascends, one tricks, one glows above, one transforms, and one sparkles below."
+    },
+    "answer": [
+      0,
+      1,
+      3,
+      8,
+      20,
+      21
+    ]
+  },
+  "emlo_860": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 burning bright for the 💎 I need. Lady 🦊 dances under ✨ so divine, spinning her 🎭 to make gains align.",
+      "hint": "When volatility strikes and momentum ignites, these symbols guide the diamond seekers to their meme coin flights."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes to moon, fire burns so bright, lightning strikes fast in the diamond light. Fox is clever, sparkles shine so fine - which 6 emojis make the perfect memecoin sign?",
+      "hint": "Look for: a fast traveler, a celestial body, something precious, quick power, a clever animal, and shining magic."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      13,
+      9
+    ]
   }
 }
