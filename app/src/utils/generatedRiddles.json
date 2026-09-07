@@ -51387,5 +51387,41 @@
       8,
       20
     ]
+  },
+  "sol_2422": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the jester's grin meets the shapeshifter's cunning. Six scattered across destiny's stage: the archer's prize gleams eternal, the winged metamorphosis ascends toward the crescent's whisper, while chaos's bolt fractures the veil between luck and ruin. A mask of mirth guards the threshold where dreams crystallize into shimmering dust.",
+      "hint": "Think of symbols of chance, transformation, fortune, and the night sky. Two are tricksters, one climbs, one shines, one burns."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols of fortune: a target's bull's-eye gleams, the joker grins mischievously, the rocket soars upward, lightning cracks the sky, the moon watches from above, and sparkles rain down like wishes.",
+      "hint": "One for accuracy, one for fun, one for speed, one for power, one for night, one for magic."
+    },
+    "answer": [
+      0,
+      11,
+      1,
+      4,
+      3,
+      10
+    ]
+  },
+  "emlo_862": {
+    "hardRiddle": {
+      "text": "To the moon we ride with electric speed, through fires of hype that feed our greed. A gem of fortune spins with luck, while jokers dance and lightning struck. Rainbow dreams and sparkles bright, this memecoin takes its flight.",
+      "hint": "Look for the path of a degen's journey: destination, power, precious reward, trickster energy, electricity, and magical shimmer."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 is treasure, 🃏 is silly, 🌈 is colorful, ✨ is shiny. What 6 things pump a memecoin to glory?",
+      "hint": "Rocket, Lightning, Gem, Joker, Rainbow, Sparkles - the ultimate moon mission squad!"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      11,
+      9,
+      10
+    ]
   }
 }
