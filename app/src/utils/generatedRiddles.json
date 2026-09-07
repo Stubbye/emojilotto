@@ -51333,5 +51333,41 @@
       13,
       9
     ]
+  },
+  "sol_2420": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances betwixt the celestial fire and earthbound crystal, six paths converge: the archer's mark meets the winged flame, as stellar radiance crowns the masked revelation, while fortune's bones whisper beneath the rainbow's prismatic veil.",
+      "hint": "Think of luck's symbols, performance, destiny, and games of chance combined with cosmic and natural elements."
+    },
+    "easyRiddle": {
+      "text": "Find six lucky symbols: the target you aim for, the joker's grin, the gem that sparkles, the star above, the dice that roll, and the four-leaf fortune.",
+      "hint": "Lottery luck combines targets, chance, fortune, performers, celestial bodies, and precious things."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      21,
+      11,
+      19
+    ]
+  },
+  "emlo_861": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with lightning speed, my gem-like value sparkles as I rocket toward fortune. The dragon of volatility dances with fire, yet my clover brings luck to the brave. What am I?",
+      "hint": "Think of a digital asset that moves fast and aims high, protected by fortune and chaos alike."
+    },
+    "easyRiddle": {
+      "text": "Up to the moon with rocket power, shining like a gem and sparkles. Lightning quick gains, but beware the fire of losses. The clover brings hope to hodlers.",
+      "hint": "A funny digital coin that makes people dream of wealth."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      20
+    ]
   }
 }
