@@ -51441,5 +51441,23 @@
       8,
       14
     ]
+  },
+  "emlo_863": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, seeking gems that sparkle in the void. The trickster grins as I dance with fire, hoping fortune's wheel brings lucky strikes to the moon-bound journey.",
+      "hint": "Think of the memecoin narrative: explosive growth, gambling vibes, and reaching new heights"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the 🌙, ⚡ fast, 💎 bright, 🔥 hot, 🎰 lucky, 🃏 fun",
+      "hint": "Each emoji completes: 'To the moon I go ___'"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      11,
+      19
+    ]
   }
 }
