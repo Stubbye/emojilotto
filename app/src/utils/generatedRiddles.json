@@ -51549,5 +51549,41 @@
       13,
       8
     ]
+  },
+  "sol_2428": {
+    "hardRiddle": {
+      "text": "Where celestial wanderer meets earthbound flame, six tokens of fate converge in shadow's game. The jester's grin guards fortune's gleam, while winged metamorphosis dances through dream. Lightning's fury strikes the prism's heart, as nature's bloom and treasure chart impart their secret art. Luck's six-faced whisper binds them all, answering destiny's cryptic call.",
+      "hint": "One brings fortune's mask, one flies by night, one splits the sky, one transforms in flight, one blooms eternal, one rolls in sight."
+    },
+    "easyRiddle": {
+      "text": "I am six symbols of chance and wonder: a playing card with a silly face, a cosmic guardian of night, a violent sky dancer, a precious stone that gleams, a creature born anew from chrysalis grace, and a numbered cube that decides your fate.",
+      "hint": "Think of a card game, the sky at night, a storm, jewelry, insects, and games of chance."
+    },
+    "answer": [
+      10,
+      22,
+      5,
+      8,
+      14,
+      1
+    ]
+  },
+  "emlo_866": {
+    "hardRiddle": {
+      "text": "I chase the celestial glow with unstoppable force, my value strikes like nature's fury. Twin symbols of wealth sparkle beside me, while fortune's wheel spins and trickery dances. What six emojis represent this memecoin's wild journey to prosperity?",
+      "hint": "Think of momentum, electricity, precious rewards, chance, deception, and cosmic destination"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, ⚡ is super quick, 💎 means rich, 🎲 is for gambling, 🃏 is a trickster, and 🌙 is the goal. Which six emojis are part of a memecoin adventure?",
+      "hint": "Look for: rocket, lightning, gem, dice, joker, and moon"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      11,
+      19,
+      3
+    ]
   }
 }
