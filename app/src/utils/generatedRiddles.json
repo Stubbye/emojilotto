@@ -51423,5 +51423,23 @@
       9,
       10
     ]
+  },
+  "sol_2423": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and twin masks of chaos waltz beneath the jester's gaze, three seekers converge: the winged metamorphosis ascending toward radiance, the jeweled heart of infinity gleaming eternal, and the steed of storm breathing inferno through the veil between worlds.",
+      "hint": "Count the performers in this cosmic theater: one transforms, one glimmers, one roars with lightning in its breath."
+    },
+    "easyRiddle": {
+      "text": "I spin like chance, I glow like night's crown, a beast of storms, a gem so rare, wings that change, and a jester's crown—find us six and fortune is yours.",
+      "hint": "Look for: something you roll, something in the sky, something precious, something that laughs, something that flies and transforms, something with electric power."
+    },
+    "answer": [
+      11,
+      22,
+      4,
+      6,
+      8,
+      14
+    ]
   }
 }
