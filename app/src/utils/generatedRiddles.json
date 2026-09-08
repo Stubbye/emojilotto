@@ -51495,5 +51495,41 @@
       4,
       9
     ]
+  },
+  "sol_2426": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate convene in shadow's space. The winged deceiver dances with the scaled sovereign of old, whilst crystalline tears weep beneath a jester's mask of gold. Thunder's kiss ignites the prism's forgotten song, and where celestial eyes watch, destiny grows strong.",
+      "hint": "One marks targets, one ascends beyond, one glimmers truth, one rules dreams, one strikes with wrath, one wears deception's grin."
+    },
+    "easyRiddle": {
+      "text": "I seek six magical tokens: the archer's mark, the sky-bound vessel, the precious stone, the night's great orb, the bolt that blinds, and the trickster's grin.",
+      "hint": "Think of: aim, space travel, treasure, night sky, electricity, and comedy."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_865": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, my gem ignites the fire we need. Dance through circus rings of flame, where jokers spark and dragons claim their fame.",
+      "hint": "A volatile journey to celestial riches with theatrical chaos and mythical guardians."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon shines bright, gem sparkles with all its might. Lightning strikes, fire burns, dragon flies as the wheel turns.",
+      "hint": "Six symbols of crypto dreams: speed, destination, treasure, power, heat, and magic."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      13
+    ]
   }
 }
