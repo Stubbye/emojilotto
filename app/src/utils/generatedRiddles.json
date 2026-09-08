@@ -51531,5 +51531,23 @@
       5,
       13
     ]
+  },
+  "sol_2427": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six keepers of fate dance through veils of desire. The jester's twin grins beneath Luna's pale glow, while scaled wisdom coils where prismatic waters flow. Seek the winged soul that blooms from ash's refrain, and crystal's sharp whisper that cuts through the chain.",
+      "hint": "One guides aim, one ignites passion, one mocks destiny, one watches from above, one breathes ancient magic, one transforms through rebirth"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one you aim with, one burns bright, one laughs at games, one lights the night, one has scales and takes its flight, one dances between dark and light.",
+      "hint": "Think of: aiming, fire, comedy, the sky, mythical beasts, and magical change"
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      21,
+      13,
+      8
+    ]
   }
 }
