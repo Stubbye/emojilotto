@@ -51459,5 +51459,41 @@
       11,
       19
     ]
+  },
+  "sol_2425": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, and the winged messenger ascends through tempest's wrath. The jester's gem glimmers in the nocturnal sphere, while chaos dances in chromatic ribbons and celestial fire traces forgotten melodies across the abyss.",
+      "hint": "Six entities: one aims true, one soars upward, one weathers storms, one performs deception, one radiates gems, one paints the sky"
+    },
+    "easyRiddle": {
+      "text": "A archer's mark meets a space-bound vessel. A precious stone glows where night reigns. A fool's mask dons the chaos of elements. What six treasures align in the lottery's embrace?",
+      "hint": "Think of: aim, flight, value, night, performance, and nature's light show"
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      21,
+      19,
+      9
+    ]
+  },
+  "emlo_864": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the celestial vault, where crystalline fortunes spark and dance through prismatic skies, guided by fortune's lucky charm.",
+      "hint": "Think of a memecoin journey: the player, the launch, the destination, the reward sparkle, the luck factor, and the colorful outcome."
+    },
+    "easyRiddle": {
+      "text": "🎪 laughs as 🚀 shoots past 💎 toward 🌙, while ⚡ and 🌈 celebrate the moonshot win!",
+      "hint": "A memecoin story: entertainment, launch vehicle, treasure, destination, energy, and beauty."
+    },
+    "answer": [
+      7,
+      1,
+      2,
+      3,
+      4,
+      9
+    ]
   }
 }
