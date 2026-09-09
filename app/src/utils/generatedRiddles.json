@@ -51675,5 +51675,41 @@
       5,
       9
     ]
+  },
+  "sol_2432": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet void, a serpent of scales ascends through celestial fire. The jester's grin conceals what the winged dancer seeks, while crystalline fragments scatter upon the stage of masks. Six secrets converge where sound meets symmetry's throne.",
+      "hint": "Think of performance, luck, and the night sky converging in one moment of destiny."
+    },
+    "easyRiddle": {
+      "text": "I fly without wings through the stage of chance. A scaled beast climbs toward stars. Fire and laughter dance together. Crystals and masks hold the final key. What six treasures reveal the lottery's truth?",
+      "hint": "Combine circus wonder, dragon mystique, fire's energy, crystal beauty, masks' mystery, and rocket's ambition."
+    },
+    "answer": [
+      1,
+      13,
+      5,
+      20,
+      18,
+      0
+    ]
+  },
+  "emlo_870": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with burning speed, a precious stone glimmers in the night. Lightning strikes my path as fortune spins, while magic sparkles guide the way to victory.",
+      "hint": "Five elements of crypto fortune: one shoots upward, one shines bright, one glows electric, one twinkles, and one is priceless"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 is valuable, 🌙 is high, ⚡ is fast, ✨ is magical, 🎯 is the goal",
+      "hint": "Think of a memecoin trader's perfect journey"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      0
+    ]
   }
 }
