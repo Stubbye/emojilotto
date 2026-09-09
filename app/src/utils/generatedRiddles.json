@@ -51585,5 +51585,41 @@
       19,
       3
     ]
+  },
+  "sol_2429": {
+    "hardRiddle": {
+      "text": "Where celestial flames dance upon the jeweled stage of night, a winged metamorphosis spirals through the prismatic veil. The fool's fortune gleams in fractured light, as fortune's arrow pierces the threshold between chaos and destiny.",
+      "hint": "A nocturnal performance of transformation, luck, and aimed precision beneath scattered brilliance"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate await: a night orb watches, a flying creature transforms, a precious stone glimmers, a jester grins, an archer's mark calls, and stars explode in joy.",
+      "hint": "Find the moon, butterfly, gem, joker, target, and sparkles"
+    },
+    "answer": [
+      3,
+      8,
+      2,
+      19,
+      0,
+      10
+    ]
+  },
+  "emlo_867": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, my brilliance strikes like nature's wrath inflamed. Where fortunes multiply in cosmic jest, a four-leaf charm brings luck among the rest. Paint the sky with arcs of hope so true, and let the stars illuminate what's new.",
+      "hint": "Think of moonshot gains, electric energy, lucky symbols, and colorful possibilities in one meme coin journey."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast to the 🌙, ⚡ strikes with power, 🍀 brings good luck, 🌈 shows the way, ⭐ shines bright. What six things make a memecoin dream?",
+      "hint": "Look for: rocket, moon, lightning, clover, rainbow, and star."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      19,
+      9,
+      21
+    ]
   }
 }
