@@ -51729,5 +51729,41 @@
       14,
       20
     ]
+  },
+  "sol_2434": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six sentinels of fate converge. The jester's grin meets the wyrm's ancient coil, while petals dance with luminescence through the prism's breath. Thunder's kiss ignites the gemstone's inner light, as the night's pale sovereign watches all. Seek the six that hold dominion over chance itself.",
+      "hint": "One deals cards, one breathes flame, one rules the sky. Look for precious earth, fleeting electricity, and nature's delicate crown."
+    },
+    "easyRiddle": {
+      "text": "I am what jesters mock, I am what dragons fear. Find the gem that sparkles, the flower that whispers, the joker that laughs, the moon that watches, the lightning that strikes, and the fire that burns. Six symbols of fortune wait.",
+      "hint": "Think of: a card player, a flying beast, a blooming gift, a night guide, a storm's weapon, and a blazing force."
+    },
+    "answer": [
+      7,
+      13,
+      14,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_871": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, gems sparkle as I rise with fiery ambition, fortune spins with joker's luck beneath the stars",
+      "hint": "Think of the memecoin journey: destination, velocity, wealth, volatility, entertainment, and destiny"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with rocket power, lightning fast gains, gems of fortune, joker luck, fire passion, and shining stars",
+      "hint": "All the elements of a memecoin adventure"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      21,
+      9
+    ]
   }
 }
