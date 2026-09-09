@@ -51711,5 +51711,23 @@
       5,
       0
     ]
+  },
+  "sol_2433": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, six dancers waltz through fortune's desire. The scaled beast guards what glimmers bright, while winged silk mirrors starlight. Thunder's kiss and gem's deep call echo where destiny enthralls.",
+      "hint": "One flies, one burns, one shines from above, one sparkles, one strikes, and one is beloved by gamblers."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow's keep: a target waits, a dragon leaps. Lightning strikes, a gem does gleam, a butterfly floats through crystal dream.",
+      "hint": "Look for aim, a mythical beast, electricity, treasure, and delicate wings."
+    },
+    "answer": [
+      0,
+      5,
+      13,
+      2,
+      14,
+      20
+    ]
   }
 }
