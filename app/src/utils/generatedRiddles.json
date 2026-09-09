@@ -51621,5 +51621,23 @@
       9,
       21
     ]
+  },
+  "emlo_868": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem-like sparkles ignite the fire of hodlers. A joker's game where fortune strikes like thunder, and dragon wealth awaits those who ride the rocket. What symbols mark this memecoin's ascent?",
+      "hint": "Look for speed, treasure, fortune's strike, mythical wealth, rapid ascent, and glittering rewards"
+    },
+    "easyRiddle": {
+      "text": "To the moon we fly with rocket power! Lightning strikes bring fortune. Gems sparkle with dragon riches. Which 6 emojis represent this memecoin journey?",
+      "hint": "Find: fast travel, speed, treasure, wealth, magical fortune, and rapid movement"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      14,
+      5,
+      0
+    ]
   }
 }
