@@ -51639,5 +51639,41 @@
       5,
       0
     ]
+  },
+  "sol_2431": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six secrets dance in prismatic desire. The jester's grin conceals the treasure's way, through crystal depths where lightning births the fray. A winged soul ascends past lunar grace, while gemstone whispers echo through the space.",
+      "hint": "Seek the convergence of chaos and order, where laughter guards the gateway between earth and starlight."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the lottery's fate: a pointed seeker, a fiery steed, a precious stone, a night-time guide, a bolt of power, and a masked performer. Which are they?",
+      "hint": "Think of targets, magic, gems, the sky, electricity, and entertainment."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      19
+    ]
+  },
+  "emlo_869": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electrifying speed, my gems sparkle as fortune strikes with fire. A jester's luck guides my rainbow path to glory, where crystal rewards await the bold.",
+      "hint": "Think of explosive gains, precious stones, unpredictable luck, and the journey to riches"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 is the goal, 🔥 burns hot, and ✨ celebrates the win",
+      "hint": "A memecoin's greatest wishes in six symbols"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      9
+    ]
   }
 }
