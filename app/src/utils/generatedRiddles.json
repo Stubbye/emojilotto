@@ -51944,5 +51944,23 @@
       9,
       5
     ]
+  },
+  "sol_2441": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the scaled sentinel guards prismatic fortune beneath the jester's gaze. Swift messenger pierces the void as nature's delicate wanderer carries wishes through seven arcs of broken light, while the trickster's cunning smile anchors all in fortune's embrace.",
+      "hint": "Seek the performer, the heavens, the precious, the swift, the transformed, and the deceiver."
+    },
+    "easyRiddle": {
+      "text": "A dragon guards gems under a joker's watch. A rocket races past the moon where a fox dances through a rainbow with a butterfly. Which six bring fortune's kiss?",
+      "hint": "One flies to space, one rules the sky, one glimmers bright, one deceives with glee, one transforms in flight, one runs with cunning."
+    },
+    "answer": [
+      13,
+      21,
+      2,
+      1,
+      8,
+      19
+    ]
   }
 }
