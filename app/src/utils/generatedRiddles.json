@@ -51855,5 +51855,41 @@
       14,
       18
     ]
+  },
+  "sol_2438": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the jester's grin, and fortune's gem spirals through the void's thin skin. The winged dancer weaves between lightning's song, while crystals catch what mortals seek lifelong. Six secrets hide in chaos, luck, and light—decrypt the sacred order of the night.",
+      "hint": "Think of luck's symbols, sky's fire, trickster's smile, transformation, precious stones, and the raw power that strikes."
+    },
+    "easyRiddle": {
+      "text": "I shine in sky with cosmic glow, the jester makes us laugh and show. Lightning strikes with brilliant might, a gem that catches heaven's light. Wings transform through air so free, crystals gleam for all to see. Six symbols dance—find them true.",
+      "hint": "Look for: celestial body, entertainer, electricity, treasure, flying creature, and frozen beauty."
+    },
+    "answer": [
+      21,
+      10,
+      4,
+      6,
+      20,
+      9
+    ]
+  },
+  "emlo_874": {
+    "hardRiddle": {
+      "text": "I surge with volatility like ⚡, my gains shoot for 🌙, my community dances in 🎪, my chart swings like 🌊, my diamond hands sparkle ✨, and my lucky holders find 🍀. What am I?",
+      "hint": "A chaotic token that promises moonshots and requires luck, patience, and community spirit."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go, with ⚡ speed, hoping for 💎 rewards, with 🍀 luck, through 🎪 chaos, spreading ✨ hope.",
+      "hint": "Think of a fun cryptocurrency that everyone memes about."
+    },
+    "answer": [
+      19,
+      3,
+      2,
+      20,
+      9,
+      10
+    ]
   }
 }
