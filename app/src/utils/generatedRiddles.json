@@ -51783,5 +51783,41 @@
       8,
       3
     ]
+  },
+  "sol_2436": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and winged metamorphosis meets the jester's appeal. Six treasures converge where luck is sealed: the archer's mark, the ascendant's veil, the prism's song, the trickster's tale, the serpent's might, and petals pale.",
+      "hint": "Think of transformation, deception, ambition, and the eternal cycle of fortune. One guides arrows, one guards the sky, one shifts forms, one plays the fool."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: aim for success, rise to dreams, find beauty in gems, laugh with the fool, fear the beast that flies, and bloom eternal.",
+      "hint": "One is an archer's tool, one flies to space, one sparkles bright, one wears makeup, one breathes fire, one grows in gardens."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      19,
+      13,
+      14
+    ]
+  },
+  "emlo_872": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial dreams, where sparkling fortune ignites the meme scene. Quick silver strikes through purple nights as a mythical beast guards the treasure. What six symbols align when diamonds rain from above?",
+      "hint": "Think of a memecoin journey: laughter, electricity, gems, the destination, the vehicle, and the magical shimmer."
+    },
+    "easyRiddle": {
+      "text": "🃏 laughs, ⚡ strikes, 💎 shines, 🌙 awaits, 🚀 launches, ✨ celebrates. What's the memecoin moon mission?",
+      "hint": "Follow the order: joker, lightning, gem, moon, rocket, sparkles."
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      3,
+      1,
+      10
+    ]
   }
 }
