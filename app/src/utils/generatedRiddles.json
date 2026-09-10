@@ -51819,5 +51819,41 @@
       1,
       10
     ]
+  },
+  "sol_2437": {
+    "hardRiddle": {
+      "text": "Through celestial veils where fortune's arrow flies, a gemstone catches what the thunder denies. The nocturnal sentinel weeps crystalline tears, while prismatic bridges span forgotten years. Where jesters mock the spiral's endless dance, and scaled wisdom guards the seeker's chance.",
+      "hint": "Look to the sky, beneath the surface, and where chaos meets performance."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in nature's grand display: a shining rock, a path of light, a dragon's lair, a jester's play, where storms are born, and lunar night holds secrets tight.",
+      "hint": "One flies and roars, one glitters bright, one laughs in shadows, one guides the night."
+    },
+    "answer": [
+      1,
+      2,
+      13,
+      21,
+      4,
+      23
+    ]
+  },
+  "emlo_873": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's fire. My masked jester energy rides the cosmic wave, while dragon-strength carries me to legendary trophy status. What am I?",
+      "hint": "Think of a memecoin's journey: speed, luck, volatility, and legendary gains"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, sparkles shine bright, fire burns hot, dragon roars strong, and trophy celebrates. What memecoin experience is this?",
+      "hint": "These emojis show the path to moon riches"
+    },
+    "answer": [
+      1,
+      5,
+      10,
+      3,
+      14,
+      18
+    ]
   }
 }
