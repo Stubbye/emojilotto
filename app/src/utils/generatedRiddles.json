@@ -51891,5 +51891,23 @@
       9,
       10
     ]
+  },
+  "sol_2439": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gem ignites the midnight's sacred space. Lightning dances with the dragon's flame, while butterfly through crystal mazes claim. The joker's gambit swirls in sparkled night—six destinies converge in fortune's sight.",
+      "hint": "Seek the hunter of chance, the jeweled one, the serpent of chaos, the winged metamorphosis, the glittering prism, and luck's own jester."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the rocket's aim, the gem that shines without a flame. Add the dragon with its ancient might, the butterfly in colors bright. Lightning strikes and joker's grin—these six shall let your fortune win.",
+      "hint": "One shoots straight, one sparkles, one is mythical, one transforms, one bolts, and one tricks."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      4,
+      19
+    ]
   }
 }
