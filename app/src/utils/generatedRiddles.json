@@ -51909,5 +51909,40 @@
       4,
       19
     ]
+  },
+  "sol_2440": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial serpent coils through the luminous night. The jester's masque grins beside the winged metamorphosis, as starfire dances eternal. Six threads weave fate's tapestry—seek the mark, the scaled keeper, the masked deceiver, the nocturnal orb, the transformed child, and the boundless ignition.",
+      "hint": "One flies with purpose, one rules with scales, one hides with mirth, one glows above, one emerges reborn, one consumes all."
+    },
+    "easyRiddle": {
+      "text": "I point to your aim, I soar to distant realms, I grin and deceive, I rise at night, I flutter and change, I burn without mercy. What six dance together in the lottery's dream?",
+      "hint": "Think of: direction, ascension, trickery, astronomy, transformation, and destruction."
+    },
+    "answer": [
+      0,
+      1,
+      13,
+      3,
+      8,
+      5
+    ]
+  },
+  "emlo_875": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, a gem-like treasure that makes diamond hands bleed. Through sparkles and lightning I dance with fire, while the joker grins at every moon-bound buyer.",
+      "hint": "Think of the journey from Earth to fortune, where speed meets precious rewards and chaos meets destiny."
+    },
+    "easyRiddle": {
+      "text": "Blast off with a 💎! ⚡ strikes fast! 🚀 to the 🌙 we go! ✨ shines bright! 🔥 burns hot!",
+      "hint": "You need five things: a precious stone, speed, destination, sparkle, and heat."
+    },
+    "answer": [
+      1,
+      4,
+      3,
+      9,
+      5
+    ]
   }
 }
