@@ -51765,5 +51765,23 @@
       21,
       9
     ]
+  },
+  "sol_2435": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's prismatic veil conceals seven-sided chance. Through crystalline depths, the night's sovereign gleams, while winged metamorphosis spirals toward phosphorescent dreams. The archer's mark awaits where laughter echoes in masked chambers.",
+      "hint": "Seek the elements of luck, chaos, transformation, and illumination—six vessels holding destiny's whispers."
+    },
+    "easyRiddle": {
+      "text": "I contain lightning's spark, a gem's inner glow, a mask for merriment, scales of fortune, wings of change, and the moon's eternal shine. What six treasures dwell within chance's sacred circle?",
+      "hint": "Think of games, magical creatures, fortune, and nighttime wonders."
+    },
+    "answer": [
+      4,
+      6,
+      19,
+      2,
+      8,
+      3
+    ]
   }
 }
