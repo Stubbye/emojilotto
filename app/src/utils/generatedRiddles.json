@@ -52088,5 +52088,23 @@
       0,
       19
     ]
+  },
+  "sol_2446": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, twin flames dance through prismatic waves. The jester's crown reflects in crystalline depths, while winged metamorphosis spirals through starlit eclipses. Seven-pointed destiny trembles in the thunder's grip.",
+      "hint": "Think of symbols representing luck, celestial bodies, transformation, and chance working in mystical harmony."
+    },
+    "easyRiddle": {
+      "text": "I strike from above with brilliant force. I shine remote and cold. A prism breaks my light. A fool grins wide. A creature transforms with wings. A gem holds eternal spark.",
+      "hint": "Lightning, moon, rainbow, joker, butterfly, crystal"
+    },
+    "answer": [
+      4,
+      3,
+      9,
+      11,
+      8,
+      20
+    ]
   }
 }
