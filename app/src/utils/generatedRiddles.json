@@ -52124,5 +52124,23 @@
       11,
       19
     ]
+  },
+  "sol_2448": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a winged metamorphosis dances through prismatic breath. The celestial guardian weeps crystalline tears upon the jester's stage, while thunder's kiss ignites the eternal game of chance.",
+      "hint": "Seek the archer's destination, the transformed creature, the spectrum's whisper, the weeping night, the fool's dominion, and the spark of probability."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures: the bull's-eye you aim for, the insect reborn through wings, the arc of many colors, the face of night above, the silly card in your hand, and the bones of luck.",
+      "hint": "Think of targets, butterflies, rainbows, the moon, jokers, and dice."
+    },
+    "answer": [
+      0,
+      8,
+      9,
+      3,
+      19,
+      11
+    ]
   }
 }
