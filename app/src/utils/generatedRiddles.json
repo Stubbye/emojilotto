@@ -51998,5 +51998,41 @@
       2,
       19
     ]
+  },
+  "sol_2443": {
+    "hardRiddle": {
+      "text": "Where celestial fire weaves through prismatic arcs, six secrets dance in chaos tamed. The archer's mark meets heaven's torch, while fortune's jester spins the wheel of gemstone light. In wings of metamorphosis and crystalline bloom, the thunderbolt of luck ignites. Seek ye the trinity of chaos bound with radiant destiny's three masks.",
+      "hint": "One pierces targets, one ascends, one dazzles with fortune's wheel, one transforms, one reflects all colors, one strikes with power."
+    },
+    "easyRiddle": {
+      "text": "I am six: a target's center, fire reaching skyward, lightning's crack, a wheel of chance, a flower's grace, and light that shatters into seven hues. Together we reveal the lottery's sacred choice.",
+      "hint": "Think of: aim, rise, strike, play, bloom, and spectrum"
+    },
+    "answer": [
+      0,
+      5,
+      4,
+      11,
+      14,
+      9
+    ]
+  },
+  "emlo_877": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with blazing speed, a gemstone fortune that makes hearts bleed. When lightning strikes and fire ignites, I sparkle with luck on rocket flights. The jester grins as fortune spins, where does the memecoin journey begin?",
+      "hint": "Think of elements that represent explosive growth, luck, and destination in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "Boom to the sky, gems that shine bright, lucky strikes with all their might. A joker's game of fire and light, reaching the sparkling fortune tonight!",
+      "hint": "What 6 things represent moon missions, riches, luck, and explosive memecoins?"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      12,
+      21
+    ]
   }
 }
