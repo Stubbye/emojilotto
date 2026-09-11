@@ -52052,5 +52052,41 @@
       9,
       21
     ]
+  },
+  "sol_2445": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's wheel, six secrets dance in prismatic steel. The winged metamorphosis ascends through lightning's kiss, while the trickster grins beneath masked bliss. A crystalline heart reflects what mortals seek, and fortune's mark gleams brilliant, not meek.",
+      "hint": "Look for transformation, chaos, illusion, brilliance, chance, and celestial power intertwined."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide your lucky prize: one flies with wings, one brings surprise. One shines like ice, one makes you laugh, one strikes the sky, and targets half.",
+      "hint": "Think of nature, trickery, weather, precious things, and games of chance."
+    },
+    "answer": [
+      1,
+      8,
+      4,
+      19,
+      20,
+      21
+    ]
+  },
+  "emlo_879": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, a gem-powered rocket for those in need. When fire meets sparkles in this game so bright, the joker spins fortune through day and night. What six celestial symbols guide the diamond seeker's flight?",
+      "hint": "Think of a memecoin journey: launch, destination, power, luck, and mystical transformation."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms to the moon so high, carrying gems that sparkle and fly. Lightning strikes with fire's glow, while a joker spins the show. Name these six friends of fortune's flow!",
+      "hint": "Picture a lucky space adventure with explosions, treasure, and magical tricks."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      0,
+      19
+    ]
   }
 }
