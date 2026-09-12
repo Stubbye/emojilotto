@@ -52178,5 +52178,23 @@
       5,
       19
     ]
+  },
+  "emlo_882": {
+    "hardRiddle": {
+      "text": "I chase the moon with lightning speed, through fire and gems I'm freed. A joker's trick with sparkles bright, I rocket to the stars at night. Where crystal waves and dragons play, my circus of fortune leads the way.",
+      "hint": "Think of a memecoin's journey: destination, energy, wealth, luck, magic, and performance"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go, with ⚡ and 🔥! Collect the 💎 and see me 🚀 high! My ✨ shines in the circus tent of crypto dreams!",
+      "hint": "Count 6 emojis in the riddle text"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      9,
+      6
+    ]
   }
 }
