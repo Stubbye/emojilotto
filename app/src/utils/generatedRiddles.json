@@ -52250,5 +52250,41 @@
       9,
       20
     ]
+  },
+  "sol_2453": {
+    "hardRiddle": {
+      "text": "In twilight's dance where fortune spins, six sentinels of fate convene. The archer's mark meets serpent's kin, while jester's grin and gemstone gleam. Where thunder's kiss ignites the night, and lunar whispers guide the sight. The winged one pirouettes through beams of fractured light, seeking what mortals can only dream in endless flight.",
+      "hint": "One brings chaos through the deck, one rises through the cosmic check, one strikes with ancient power, one reflects in fortune's hour, one hunts with cunning grace, one transforms the sacred space."
+    },
+    "easyRiddle": {
+      "text": "Six symbols dance in lottery's song: a target waits, a dragon swells, a gem that gleams, a joker dwells, lightning strikes, and moon compels.",
+      "hint": "Look for: something you aim at, something ancient and wise, something precious, something playful, something powerful, and something that glows at night."
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      19,
+      4,
+      3
+    ]
+  },
+  "emlo_884": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with cosmic speed, my gems sparkle as lightning strikes with fiery need. Where fortune dances with electric might, the joker's grin shines through the night.",
+      "hint": "Think of a memecoin's journey to success, involving speed, luck, and the thrill of the gamble."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up to the 🌙 with ⚡ power and 🔥 energy. A 💎 shines bright, and the 🃏 laughs along.",
+      "hint": "A typical memecoin adventure: launch, destination, excitement, value, and unpredictability."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      19
+    ]
   }
 }
