@@ -52340,5 +52340,23 @@
       6,
       7
     ]
+  },
+  "sol_2456": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, a jeweled serpent breathes eternal light. The jester's grin dissolves in prismatic dust, while winged metamorphosis dances through the storm's electric veil. Six secrets hide within chaos and cosmos intertwined.",
+      "hint": "One marks precision, one rules the heavens, one glitters with worth, one coils with ancient power, one embodies transformation, one carries celestial fire."
+    },
+    "easyRiddle": {
+      "text": "I am aimed and true. I am distant and bright. I am precious and hard. I am powerful and scaled. I am delicate and changing. I am wild and quick. Together we spark the lottery's dream.",
+      "hint": "Find: the archer's tool, the night's guardian, buried treasure, mythical beast, nature's rebirth, and nature's trickster."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      13,
+      8,
+      12
+    ]
   }
 }
