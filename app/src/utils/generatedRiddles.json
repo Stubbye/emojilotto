@@ -52196,5 +52196,41 @@
       9,
       6
     ]
+  },
+  "sol_2451": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, while twin masks reveal what the painted mind conceals. The winged messenger dances where light fractures into infinite possibility.",
+      "hint": "One aims, one flies, one burns, one performs, one transforms, one creates."
+    },
+    "easyRiddle": {
+      "text": "I am the hunter's aim, the sky's metal beast, the mythical flame-breather, the theatrical deceiver, the jeweled prize that blinds the eye, and the prism that scatters truth into seven lies.",
+      "hint": "Target, rocket, dragon, joker, gem, rainbow."
+    },
+    "answer": [
+      0,
+      1,
+      14,
+      18,
+      11,
+      9
+    ]
+  },
+  "emlo_883": {
+    "hardRiddle": {
+      "text": "I chase the crypto dream with electric speed, a precious gem that makes portfolios bleed. The trickster laughs as fortunes ignite, while dragon wings carry hopes to lunar height. A four-leaf fortune and sparkling flash—which six symbols mark this memecoin clash?",
+      "hint": "Think of movement, luck, value, deception, destiny, and magical enhancement in the crypto realm."
+    },
+    "easyRiddle": {
+      "text": "A quick fox dashes with lightning fast, chasing gems that shine and last. The joker grins, the clover glows, to the moon our rocket goes. Sparkles dance—now you know!",
+      "hint": "Look for speed, magic, luck, growth, and brightness."
+    },
+    "answer": [
+      1,
+      2,
+      11,
+      12,
+      13,
+      20
+    ]
   }
 }
