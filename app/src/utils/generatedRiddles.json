@@ -52304,5 +52304,41 @@
       14,
       21
     ]
+  },
+  "sol_2455": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's caress, six harbingers of fate convene in darkness dressed. The winged metamorphosis dances 'neath celestial fire, while crystalline brilliance and gemstone desire spiral through tempest's electric choir. A jester's grin conceals what destiny requires.",
+      "hint": "One pierces targets, one soars beyond sight, one transforms through grace, one burns bright, one glimmers eternal, one mocks with delight."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and chance: a marksman's goal, a cosmic dance, a transformation of wing, a stone that will sing, laughter's masked grin, and power within.",
+      "hint": "Think of targets, space travel, magical change, precious stones, electricity, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      8,
+      11,
+      12,
+      19
+    ]
+  },
+  "emlo_885": {
+    "hardRiddle": {
+      "text": "I chase the ⭐ with electric speed, my 🚀 fuel burns bright. Where 💎 gems sparkle in the night, I dance with ⚡ and 🔥 might. What am I in this memecoin flight?",
+      "hint": "Think of a volatile token that pumps fast and burns hot in the crypto casino."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⭐ shines bright, 💎 glimmers with delight. ⚡ strikes fast, 🔥 burns hot. What 4 things fuel the memecoin spot?",
+      "hint": "Look for symbols of growth, energy, and precious value."
+    },
+    "answer": [
+      1,
+      22,
+      5,
+      4,
+      6,
+      7
+    ]
   }
 }
