@@ -52286,5 +52286,23 @@
       2,
       19
     ]
+  },
+  "sol_2454": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers converge in fortune's seal. The archer's mark meets heaven's throne, while jester's grin and scaled bone, with nature's bloom and fortune's gleam, compose the lottery's fevered dream.",
+      "hint": "One points true, one rules the night, one tricks with mirth, one breathes in flight, one blooms eternal, one shines bright—together they unlock delight."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures wrapped in light: a target's aim, a dragon's might, the moon's soft glow, a joker's jest, a flower's grace, and stars' conquest.",
+      "hint": "Look for aim, scales, the night sky, a trickster, petals, and sparkles dancing."
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      19,
+      14,
+      21
+    ]
   }
 }
