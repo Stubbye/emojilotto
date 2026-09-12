@@ -52232,5 +52232,23 @@
       13,
       20
     ]
+  },
+  "sol_2452": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's deep kiss, a gemstone born of cosmic bliss. Swift as lightning's vengeful tongue, the dragon's fire dances among. Masked truths waltz in circles grand, while crystal rainbows touch the land. Six sentinels of fate entwine—which glimmer brightest in fortune's design?",
+      "hint": "Seek the hunter's mark, the sky's ascent, the earth's precious rent, the storm's descent, the beast's ancient scent, and the frozen mirror's bent."
+    },
+    "easyRiddle": {
+      "text": "I point at prizes, reach for stars so high. A gem lies buried where dragons fly. Fire and lightning race through the night. Crystal and rainbows bend the light. What six treasures unlock destiny's sight?",
+      "hint": "Think of targets, space travel, wealth, mythical creatures, weather, and light. One points, one soars, one sparkles, one roars, one strikes, one refracts."
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      13,
+      9,
+      20
+    ]
   }
 }
