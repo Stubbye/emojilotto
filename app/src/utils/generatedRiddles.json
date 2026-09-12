@@ -52142,5 +52142,41 @@
       19,
       11
     ]
+  },
+  "sol_2449": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, a jester's heart beats beneath twin faces of deceit. The archer's eternal mark dances with fortune's numbered bones, while winged metamorphosis conducts the symphony of transformation. Seek the crystalline tears of heaven's vault and the emerald whispers of luck's green tongue.",
+      "hint": "Consider what performs, what gambles, what transforms, what shines from above, what glimmers with wealth, and what grants fortune."
+    },
+    "easyRiddle": {
+      "text": "I contain a performer's mystery, a gambler's chance, a flyer's change, a shining night, a precious stone, and fortune's symbol. What am I?",
+      "hint": "Think of the lottery itself and what images represent luck, performance, and destiny."
+    },
+    "answer": [
+      19,
+      12,
+      1,
+      3,
+      2,
+      21
+    ]
+  },
+  "emlo_881": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, sparkle with fortune's light. My gems ignite with electric might, while fire dances through the night. A joker's trick to reach the moon, where lucky lightning strikes soon.",
+      "hint": "Think of a memecoin's journey: starting energy, valuable rewards, luck, and destination."
+    },
+    "easyRiddle": {
+      "text": "Blast off with a 🚀, find precious 💎, strike with ⚡, reach the 🌙, dodge the 🔥, and win like a 🃏.",
+      "hint": "This is the memecoin moon mission adventure!"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      19
+    ]
   }
 }
