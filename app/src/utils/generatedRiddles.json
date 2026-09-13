@@ -52502,5 +52502,23 @@
       5,
       19
     ]
+  },
+  "sol_2462": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis strikes through the veil. The archer's mark glows with prismatic tears, while the serpent of thunder coils beneath the jester's grin. Six mysteries converge where luck and chaos waltz eternal.",
+      "hint": "Look for: aim, flame, transformation, fortune's multitude, ancient power, and the storm's voice"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance and wonder: one hunts with cunning, one flies to dreams, one gleams with wealth, one roars with magic, one strikes with speed, and one laughs with mischief. What are they?",
+      "hint": "Think: predator, journey, treasure, beast, weather, and trickster"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      19
+    ]
   }
 }
