@@ -52394,5 +52394,41 @@
       2,
       20
     ]
+  },
+  "sol_2458": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six secrets intertwine beneath the veiled gaze. The archer's mark meets the winged serpent's domain, as crystalline brilliance reflects the jester's wisdom. A trembling storm births the threshold of fate, while petals of chaos bloom in the performer's tent. Seek the six that bridge the mortal and the mystic.",
+      "hint": "Combine symbols of destiny, chaos, transformation, luck, performance, and celestial power"
+    },
+    "easyRiddle": {
+      "text": "I am the mark you aim for, the beast of ancient lore, the gem that catches light, the storm that strikes with might, the laughter of the fool, and the ring where wonders rule.",
+      "hint": "Think of targets, dragons, treasures, electricity, comedy, and magic shows"
+    },
+    "answer": [
+      0,
+      13,
+      2,
+      5,
+      19,
+      7
+    ]
+  },
+  "emlo_887": {
+    "hardRiddle": {
+      "text": "I rocket past the moon with lightning speed, a gem that sparkles bright. When fire meets the dragon's dance, my trophy shines so right. What six celestial tokens guide the memecoin's flight?",
+      "hint": "Think of the journey: launch, destination, precious value, energy, mythical power, and victory"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, the moon is far away. A gem shines bright, lightning strikes, fire burns, and a dragon plays. Count these six friends in the lucky game today!",
+      "hint": "Look for: flight, space, sparkle, speed, heat, and a mythical beast"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      13
+    ]
   }
 }
