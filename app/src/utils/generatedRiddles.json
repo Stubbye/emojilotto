@@ -52358,5 +52358,41 @@
       8,
       12
     ]
+  },
+  "sol_2457": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers emerge from the void: The archer's mark gleams eternal, a gemstone born of night's embrace. Swift messenger pierces the veil between worlds, while the winged soul transforms through shadows. Twin flames collide—one celestial wrath, one earthbound passion. The jester grins, knowing all secrets are written in the cosmos.",
+      "hint": "Seek the target of destiny, the rocket of ambition, the gem of worth, the moon of mystery, the lightning of fate, and the joker of chance."
+    },
+    "easyRiddle": {
+      "text": "I am six dancers in fortune's hall: one marks your aim, one flies to stars, one shines with value, one lights the night, one strikes with power, and one laughs at destiny. What am I?",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, and Joker walk into the lottery together."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_886": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone fortune is all I need. Through rainbow waves I spark and dance, while dragon fire fuels my chance. Lucky clover guides my flight, as crystal stars ignite the night.",
+      "hint": "Think of a memecoin's journey to success with luck and power combined"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to 🌙, ⚡ and 🔥 make it glow, 💎 and ✨ steal the show!",
+      "hint": "A rocket's dream path with energy, gems, and sparkle"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      20
+    ]
   }
 }
