@@ -52448,5 +52448,23 @@
       14,
       20
     ]
+  },
+  "sol_2460": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gilded mark, six whispers emerge from chaos—a winged metamorphosis ascending toward crystalline resonance, while the jester's laughter echoes through prismatic fractals and the serpent's ancient wisdom spirals through electric veins.",
+      "hint": "Consider transformation, chance, mythology, and light refraction as one unified moment suspended between earth and cosmos."
+    },
+    "easyRiddle": {
+      "text": "I contain a creature that transforms, a mythical serpent, fortune's court fool, a glowing cosmic jewel, electric power, and the prism of fortune itself. What six treasures hide within me?",
+      "hint": "Look for: a shape-shifter, a legendary beast, a playing card character, something precious, energy, and color spectrum."
+    },
+    "answer": [
+      8,
+      14,
+      19,
+      20,
+      11,
+      21
+    ]
   }
 }
