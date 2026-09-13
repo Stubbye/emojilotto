@@ -52430,5 +52430,23 @@
       5,
       13
     ]
+  },
+  "emlo_888": {
+    "hardRiddle": {
+      "text": "I launch with speed through cosmic night, my gems ignite with electric might. Fortune spins where jesters play, as purple fire lights the way. Dragon's treasure, fox's prize - catch the sparkles, claim the skies.",
+      "hint": "Think of a memecoin's journey: launch, value, gambling, hype, magic, and the moon."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast. Gems shine bright, fire burns last. Purple and sparkles light up the moon. Which 6 make a memecoin fortune soon?",
+      "hint": "Look for symbols of speed, wealth, electricity, color, and cosmic destiny."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      14,
+      20
+    ]
   }
 }
