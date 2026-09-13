@@ -52466,5 +52466,41 @@
       11,
       21
     ]
+  },
+  "sol_2461": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis blooms beneath the archer's geometric prison. The fox's cunning grins through chaos, while prismatic shards sing in the void between laughter and luck.",
+      "hint": "Think of transformation, chance, precision, and the sky's dual nature—one watches, one illuminates."
+    },
+    "easyRiddle": {
+      "text": "I hold six secrets: one points true, one flies high, one glimmers bright, one rules night, one shifts form, and one wears a mask of mischief. Which treasures complete the celestial jest?",
+      "hint": "Target's precision, rocket's ascent, gem's sparkle, moon's reign, butterfly's change, joker's play."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      19
+    ]
+  },
+  "emlo_889": {
+    "hardRiddle": {
+      "text": "I chase the 🚀 with diamond hands, my 🔥 burns bright as lightning strikes. Where 💎 meets 🌙 in sparkles' dance, the 🦊 plays tricks and takes its chance. What 6 treasures guide the memecoin to fortune's edge?",
+      "hint": "Think of the journey from launch to riches, with nature's cunning and celestial rewards."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, 🌙 shines above, 💎 glitters with fire's love. The fox is clever, sparkles fall bright, which 6 symbols make the memecoin right?",
+      "hint": "Space travel, precious stones, clever creatures, and magical twinkles."
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      19
+    ]
   }
 }
