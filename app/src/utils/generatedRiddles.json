@@ -52628,5 +52628,23 @@
       5,
       11
     ]
+  },
+  "sol_2467": {
+    "hardRiddle": {
+      "text": "Where celestial dancer meets infernal breath, through prism's fractured light, the jester's grin awaits. Beneath the vault of night, a scaled sentinel guards the threshold where fortune's bolt strikes true and the winged metamorphosis completes its sacred arc.",
+      "hint": "One rules the heavens, one breathes chaos, one reflects all hues, one laughs at fate, one slithers in legend, one transforms in silence."
+    },
+    "easyRiddle": {
+      "text": "I am six: a bright circle in darkness, a creature of fire and destruction, a prism of many colors, a laughing trickster, a serpent of ancient power, and a delicate creature reborn. What are we together?",
+      "hint": "Night sky, heat, light spectrum, comedy, mythology, metamorphosis"
+    },
+    "answer": [
+      3,
+      5,
+      9,
+      19,
+      14,
+      8
+    ]
   }
 }
