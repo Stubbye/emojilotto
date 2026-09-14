@@ -52538,5 +52538,41 @@
       14,
       20
     ]
+  },
+  "sol_2464": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, and the winged architect of metamorphosis seeks treasures crystalline beneath the veil of night's crown. The musician's bolt strikes where revelry masks truth, and the clever beast guards the seven-pointed guardian of fortune's ascent.",
+      "hint": "Think of transformation, performance, luck, and the night sky. One emoji appears twice in this riddle's imagery."
+    },
+    "easyRiddle": {
+      "text": "A night jewel gleams, lightning plays music, masks hide the fox, crystal sparkles dance, and butterflies visit the flower under the moon's gaze.",
+      "hint": "Nature, sky, theater, electricity, and precious stones."
+    },
+    "answer": [
+      1,
+      5,
+      17,
+      19,
+      20,
+      21
+    ]
+  },
+  "emlo_891": {
+    "hardRiddle": {
+      "text": "A jester's gem ignites the sky, where fortune's bolt meets purple high. The dragon dances through the fire, as rocket fuel feeds crypto's desire. Where masks and sparkles twist the game, and lightning strikes the hall of fame.",
+      "hint": "Six symbols of explosive gains and chaotic magic"
+    },
+    "easyRiddle": {
+      "text": "Boom to the moon with a joker's grin, lightning strikes as we begin. Purple gem in a rocket's flame, sparkles dance in fortune's game.",
+      "hint": "Look for speed, magic, and things that shine"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      19
+    ]
   }
 }
