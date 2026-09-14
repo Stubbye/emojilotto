@@ -52592,5 +52592,41 @@
       9,
       11
     ]
+  },
+  "sol_2466": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets the jester's game, six secrets dance in fortune's flame. The archer's mark beneath night's throne, while wings of transformation leave stone alone. Thunder's kiss and fortune's wheel, beneath the vault where dreams congeal.",
+      "hint": "Look for: aim, court entertainment, precious stone, nocturnal orb, electrical force, and spinning chance"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck await your call: a target true, a rocket tall, a gem so bright, the moon at night, lightning's strike, and dice that fight.",
+      "hint": "Think of: bullseye, space travel, jewel, lunar night, storm power, and gambling cubes"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_893": {
+    "hardRiddle": {
+      "text": "I chase dreams to the lunar peak where fortunes multiply with electric speed. My gems sparkle as I dance through celestial fire, guided by fortune's mystical wheel of chance.",
+      "hint": "Think of a memecoin's journey: destination, acceleration, value, celestial goal, energy, and luck"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! 🚀 Find the shiny treasure 💎, reach the glowing sphere 🌙, feel the power ⚡, see the flames 🔥, and spin the lucky wheel 🎰",
+      "hint": "Follow the rocket to the moon, collecting gems and luck along the way"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11
+    ]
   }
 }
