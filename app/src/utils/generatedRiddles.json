@@ -52574,5 +52574,23 @@
       8,
       19
     ]
+  },
+  "emlo_892": {
+    "hardRiddle": {
+      "text": "I launch to infinity with electric speed, a gemstone prize for those who heed. Dancing through the cosmos with mystical fire, sparkling dreams that take you higher. When fortune strikes like lightning's call, the joker grins and wins it all.",
+      "hint": "Think of a journey to riches involving speed, light, luck, and celebration."
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, up to the moon so bright. Lightning strikes with all its might. Gems shine like sparkles in the night. A joker laughs at the wondrous sight. Fire burns the trophy of delight. Which six bring crypto fortune to light?",
+      "hint": "Count the objects mentioned: fast travel, celestial body, energy, precious stones, shiny effects, and a playing card character."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      9,
+      11
+    ]
   }
 }
