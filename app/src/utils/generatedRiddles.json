@@ -52646,5 +52646,41 @@
       14,
       8
     ]
+  },
+  "sol_2468": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through celestial fire, its path illuminated by the prism's eternal dance. Six treasures converge: the mark of aim, the beast of old, the flash of chaos, the sphere of night, the arc of hope, and the glimmer of possibility's breath.",
+      "hint": "One strikes from above, one guards below, one shows the way, one lights the dark, one bridges worlds, one twinkles with wish."
+    },
+    "easyRiddle": {
+      "text": "I need six lucky symbols: something you aim at, a magical creature with scales, nature's bright display after rain, the sky's watchful guardian, a spark of electric power, and the glowing dust of wishes.",
+      "hint": "Think of: target, dragon, rainbow, star, lightning, and sparkles."
+    },
+    "answer": [
+      0,
+      13,
+      9,
+      21,
+      4,
+      10
+    ]
+  },
+  "emlo_894": {
+    "hardRiddle": {
+      "text": "I launch dreams to infinity with electric speed, seeking fortune's gleaming prize. Dancing chaos guides the bold, while nature's transformation watches. Where celestial fire meets luck's eternal shine, the jester's grin reveals the path to wealth untold.",
+      "hint": "Consider what takes you to the moon, what powers memecoin gains, and what symbols represent ultimate luck and fortune."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 shines bright, 🌙 glows high, 🃏 laughs loud, ✨ sparkles forever. These six bring memecoin glory!",
+      "hint": "Look for the rocket, lightning, gem, moon, joker, and sparkles."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      18,
+      10
+    ]
   }
 }
