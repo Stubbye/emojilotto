@@ -52520,5 +52520,23 @@
       5,
       19
     ]
+  },
+  "sol_2463": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six dancers twirl in cosmic space. The jester's laugh ignites the night, while scaled wings guard the artist's light. A bloom of chance, a guardian's gleam—six secrets woven through the dream.",
+      "hint": "Think of performers, celestial bodies, luck, and the tools of creation. One is circular and aimed, one ascends, one amuses, one soars with ancient power, one grows from earth, one sparkles with value."
+    },
+    "easyRiddle": {
+      "text": "I point at fortune, I climb to dreams. A fool makes magic, fire gleams. A beast with scales flies through the air. A flower blooms, a gem shines rare.",
+      "hint": "Find: something that aims, something that rises, something silly, something burning, something mythical, and something precious."
+    },
+    "answer": [
+      0,
+      1,
+      5,
+      13,
+      14,
+      20
+    ]
   }
 }
