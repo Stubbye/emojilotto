@@ -52736,5 +52736,41 @@
       4,
       19
     ]
+  },
+  "sol_2471": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers convene: the archer's eternal mark, the vessel that pierces void's veil, the radiant shard of earth's deepest dream, the silent sentinel of night's throne, the serpent of ancient sky who guards all treasures, and the trembling wings that taste metamorphosis between storms and starlight.",
+      "hint": "One marks precision, one ascends beyond, one glitters from below, one reigns above, one coils through legend, one transforms through chaos."
+    },
+    "easyRiddle": {
+      "text": "Six tokens of fortune hide here: what you aim at, what flies high, what sparkles underground, what lights the dark sky, what breathes mythical fire, and what floats on delicate wings.",
+      "hint": "Think of targets, space travel, gems, night sky, mythical creatures, and insects."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      8
+    ]
+  },
+  "emlo_896": {
+    "hardRiddle": {
+      "text": "To the moon we ride with electric speed, through fire and gems our fortune freed. A joker's luck with sparkles bright, beneath the stars that guide our flight. What six guide those who seek the gain?",
+      "hint": "Think of the journey to wealth: movement, energy, value, destination, chance, and celestial guidance"
+    },
+    "easyRiddle": {
+      "text": "Follow the path of the memecoin dream: rocket goes up, lightning strikes fast, gems shine bright, moon is our goal, joker brings luck, and sparkles show magic. Which six light the way?",
+      "hint": "All six emojis are mentioned directly in the riddle"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      19,
+      10
+    ]
   }
 }
