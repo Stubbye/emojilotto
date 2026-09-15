@@ -52700,5 +52700,41 @@
       3,
       22
     ]
+  },
+  "sol_2470": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate convene. The archer's mark pierces void's ascent, while scaled majesty breathes eternal flame. Swift-winged metamorphosis pirouettes through crystalline geometry, as fortune's jester grins beside prismatic equilibrium. Lightning's twin brother hums its electric reverie, and the crimson blaze consumes all that dares approach.",
+      "hint": "One ascends, one burns, one transforms, one deceives, one glimmers with ordered chaos, and one electrifies the cosmos."
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of fortune: the mark of precision strikes high, the serpent crowned breathes heat eternal, the delicate dancer of transformation takes flight, the trickster reveals masked truths, the prism of mathematical chance tumbles, and the bolt from the heavens splits the sky.",
+      "hint": "Aim high, dragon hot, butterfly free, joker plays, dice roll, lightning strikes."
+    },
+    "answer": [
+      0,
+      14,
+      8,
+      19,
+      11,
+      4
+    ]
+  },
+  "emlo_895": {
+    "hardRiddle": {
+      "text": "A jester's fortune ride to celestial heights, where gems ignite and magic strikes. Dance through chaos as butterflies ascend, while fortune's spark never ends.",
+      "hint": "Think of a memecoin journey: the performer, the destination, the treasure, the transformation, the power, and the luck."
+    },
+    "easyRiddle": {
+      "text": "🎪 laughs, 🚀 flies up, 💎 shines bright, 🦋 dances, ⚡ zaps fast, 🍀 brings luck!",
+      "hint": "Follow the emojis in order for a lucky memecoin adventure!"
+    },
+    "answer": [
+      7,
+      1,
+      2,
+      8,
+      4,
+      19
+    ]
   }
 }
