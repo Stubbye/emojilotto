@@ -52682,5 +52682,23 @@
       18,
       10
     ]
+  },
+  "sol_2469": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the jester's fortune spins beneath fortune's gaze. Six tokens dance: the archer's dream meets the ascending serpent, while crystalline tears laugh with the night's pale queen. What glimmers between chaos and chance, wearing masks of brilliance?",
+      "hint": "Seek the convergence of ambition, transformation, and fortune's dual nature. One brings luck, one brings mystery, one brings ascension, one reflects all colors, one rules the sky, one holds secrets."
+    },
+    "easyRiddle": {
+      "text": "I hold six magical signs: fortune's wheel spins, a dragon climbs, luck blooms, lightning cracks, the moon watches, and rainbows promise. What are the treasures of fate?",
+      "hint": "Think of symbols of luck, power, and destiny. One is a game tool, one is mythical, one is botanical, one is electric, one is celestial, one is optical."
+    },
+    "answer": [
+      11,
+      13,
+      19,
+      9,
+      3,
+      22
+    ]
   }
 }
