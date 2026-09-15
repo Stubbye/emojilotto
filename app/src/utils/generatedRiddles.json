@@ -52808,5 +52808,23 @@
       20,
       14
     ]
+  },
+  "sol_2473": {
+    "hardRiddle": {
+      "text": "Where celestial fortune weeps in prismatic tears, six sentinels guard the threshold between chaos and destiny. The archer's mark meets the messenger's steed; gemstone's gleam kisses the lunar veil. Thunder's fury dances with infernal breath, while wings of metamorphosis flutter between the cosmic stage and fortune's wheel. What six symbols hold the secret to transcendence?",
+      "hint": "One ascends, one guides, one glitters, one watches above, one strikes, one transforms—and together they form the lottery's ancient covenant."
+    },
+    "easyRiddle": {
+      "text": "I have six magical symbols: a bullseye in the sky, a ship that flies, a shining treasure, the night's guardian, nature's angry spark, and a creature born twice. What are we?",
+      "hint": "Think of targets, space travel, jewels, the moon, electricity, and insects that change form."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
