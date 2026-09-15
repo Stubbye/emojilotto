@@ -52772,5 +52772,41 @@
       19,
       10
     ]
+  },
+  "sol_2472": {
+    "hardRiddle": {
+      "text": "Where fortune's arc descends through celestial fire, a jester's grin reflects in crystalline desire. The winged dancer waltzes 'cross the verdant clover, while thunder's kiss ignites what fortune won't recover. Six tokens hold the gateway to the dreamer's throne—count them well, for destiny speaks in unknown tone.",
+      "hint": "Three beings move, two elements rage, one lies beneath where secrets are caged."
+    },
+    "easyRiddle": {
+      "text": "A clown laughs, lightning strikes, a butterfly soars. A crystal gleams, a clover grows, and fire roars. These six unite where luck takes flight.",
+      "hint": "Find: a jester, electricity, a winged friend, a gem, fortune's plant, and heat's bright end."
+    },
+    "answer": [
+      19,
+      5,
+      8,
+      20,
+      12,
+      6
+    ]
+  },
+  "emlo_897": {
+    "hardRiddle": {
+      "text": "A jester's luck strikes with electric speed, launching precious stones to celestial peaks. Fortune dances with mystical charm, painted in violet dreams where the lucky emblem glows.",
+      "hint": "Think of gambling, speed, wealth, height, magic, and good fortune combined."
+    },
+    "easyRiddle": {
+      "text": "I make you laugh, I bring the boom, I'm a shiny rock, I go up high, I'm lucky, and I'm the color of royalty.",
+      "hint": "Joker, Lightning, Gem, Moon, Clover, Purple"
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      3,
+      20,
+      14
+    ]
   }
 }
