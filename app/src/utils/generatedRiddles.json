@@ -52826,5 +52826,41 @@
       4,
       8
     ]
+  },
+  "sol_2474": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian crown, and chaos dances in fractured light, a jester's grin meets the beast of ancient might. Fortune's spark ignites the wings of transformation, while crystalline truth reflects the player's intention.",
+      "hint": "Seek the marksman's aim, the sovereign darkness, the trickster's laugh, the serpent's wisdom, the electric moment, and the solid clarity."
+    },
+    "easyRiddle": {
+      "text": "One points the way to wealth, one rules the night sky, one holds all the jokes, one guards ancient hoards, one strikes with power, and one never lies about its nature.",
+      "hint": "Target • Moon • Joker • Dragon • Lightning • Crystal"
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      13,
+      4,
+      20
+    ]
+  },
+  "emlo_898": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with explosive speed, sparkling with electric fortune. A jester's trick transforms base metals to gems, while fortune smiles through chaos and chance.",
+      "hint": "Think of the moon mission, sudden gains, and gambling luck"
+    },
+    "easyRiddle": {
+      "text": "Blast off to riches! ⚡ strikes fast, 💎 glimmers bright, and the 🎪 spins your fate. Lady luck wears a 🃏 mask and 🌙 watches from above.",
+      "hint": "Rocket, Lightning, Gem, Circus, Joker, Moon"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      6,
+      13,
+      3
+    ]
   }
 }
