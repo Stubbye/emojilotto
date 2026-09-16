@@ -52898,5 +52898,23 @@
       11,
       10
     ]
+  },
+  "sol_2476": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens of fate converge. The archer's eternal mark aligns with the messenger of gods, while precious essence gleams beneath the lunar veil. Swift electricity threads through the performer's crimson stage, and the winged metamorphosis spirals through chromatic wonder. What six enchantments govern the lottery's sacred geometry?",
+      "hint": "Think of targets, ascension, wealth, night, speed, and transformation bound by color."
+    },
+    "easyRiddle": {
+      "text": "A bullseye hangs in the sky, a rocket climbs higher, a gem sparkles bright, the moon watches above, lightning strikes fast, and a butterfly dances through a rainbow. Which six symbols spin together in fortune's wheel?",
+      "hint": "Look for circular aim, upward flight, treasure, night guardian, electricity, and graceful wings among colors."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
