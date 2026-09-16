@@ -52916,5 +52916,41 @@
       4,
       8
     ]
+  },
+  "sol_2477": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin serpents, and the jester's grin reflects in crystalline depths, beneath the archer's eternal mark, chaos whispers through rainbow veils. Seek the winged phantom that pirouettes through midnight gardens, while fortune's bones scatter their secrets. Six vessels of fate intertwine—one burns with ambition's flame, one gleams with earth's buried treasure, one crowns the victor's brow, one holds the trickster's madness, one blooms where magic tastes the void, and one spins in the carnival of dreams.",
+      "hint": "Combine pursuit, explosion, riches, night sky, trickery, and spectacle into a cosmic lottery dream."
+    },
+    "easyRiddle": {
+      "text": "I am six things that bring luck and wonder: one strikes with power, one shines underground, one marks the winner, one fools the wise, one rises above all, and one circles with joy. What are we?",
+      "hint": "Think of: electricity, gems, achievement, deception, space, and celebration."
+    },
+    "answer": [
+      5,
+      2,
+      18,
+      1,
+      21,
+      7
+    ]
+  },
+  "emlo_901": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere where celestial riches gleam, powered by electric chaos and fortune's fiery dream. Where luck strikes like thunder and gems sparkle bright, a joker spins destiny under starlight.",
+      "hint": "Think of a memecoin's journey to astronomical gains with elements of chance and luck"
+    },
+    "easyRiddle": {
+      "text": "A rocket goes up, lightning strikes fast, gems shine bright, fire burns hot, a star guides the way, and luck is a joker's game.",
+      "hint": "Count the 6 symbols: launch vehicle, electricity, treasure, heat, guide, and trickster"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      5,
+      21,
+      19
+    ]
   }
 }
