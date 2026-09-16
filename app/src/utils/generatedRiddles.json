@@ -52862,5 +52862,41 @@
       13,
       3
     ]
+  },
+  "sol_2475": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the cosmic flame, six sentinels of fate await. The winged dancer spirals through prisms of light, while the crowned jester holds dominion over crystalline dreams. Below, the fox's cunning intertwines with nature's bloom, and destiny's jewel crowns the symphony of chance.",
+      "hint": "Think of: aim, ascent, luck's masquerade, precious stone, transformation, and growth"
+    },
+    "easyRiddle": {
+      "text": "Six keys unlock the lottery's heart: what you aim for, what rises high, what sparkles precious, what laughs at chance, what hunts the night, and what blooms eternal.",
+      "hint": "Target, Rocket, Gem, Joker, Fox, Flower"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      13,
+      14
+    ]
+  },
+  "emlo_899": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my brilliance ignites the crowd's greed. A jester's gamble in a spectacle of fortune, where crystalline rewards sparkle under the cosmic fortune.",
+      "hint": "Think of a memecoin's journey: fast movement, luck, precious rewards, and the show around it"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ strikes fast, 💎 is the prize, 🎪 is the show, 🎲 is the game, and ✨ makes it all glow",
+      "hint": "Count the emojis mentioned"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      6,
+      11,
+      10
+    ]
   }
 }
