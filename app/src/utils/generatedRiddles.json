@@ -52952,5 +52952,23 @@
       21,
       19
     ]
+  },
+  "sol_2479": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial fire dances with the winged seeker of transformation. The jester's glimmering twin guards the threshold where luck crystallizes into radiance, while the symbol of triumph awaits those who traverse the spectrum's arc.",
+      "hint": "Six tokens bridge chaos and destiny: one marks the aim, one ascends beyond, one laughs in masks, one gleams in night, one transforms in flight, and one crowns the worthy."
+    },
+    "easyRiddle": {
+      "text": "Find the target that's shot through the sky, the bright thing in darkness on high, the magical stone that will gleam, the joker that laughs in a dream, the butterfly changing its way, and the trophy you'll win if you play.",
+      "hint": "Look for: something you aim at, something that flies up, something shiny, something funny, something that flies with wings, and something you win."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      3,
+      8,
+      18
+    ]
   }
 }
