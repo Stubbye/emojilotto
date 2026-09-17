@@ -53006,5 +53006,41 @@
       9,
       2
     ]
+  },
+  "sol_2481": {
+    "hardRiddle": {
+      "text": "Where celestial flames dance with fortune's wheel, a masked jester's laughter echoes through prismatic gates. Six secrets dwell: the archer's mark meets heaven's glow, while chaos pirouettes with nature's delicate whisper, and crystalline brilliance crowns the revelry with silent majesty.",
+      "hint": "One guides aim, one lights the sky, one deceives with mirth, one blooms in grace, one sparkles eternal, one watches from shadows."
+    },
+    "easyRiddle": {
+      "text": "I shine above at night, I flutter with gentle wings, I burn with vibrant heat, I dazzle with my gleam, I mark where arrows fly, and I wear a grinning face of tricks.",
+      "hint": "Six magical things: sky watcher, winged visitor, heat bringer, light maker, archer's goal, and trickster's friend."
+    },
+    "answer": [
+      1,
+      8,
+      5,
+      10,
+      0,
+      19
+    ]
+  },
+  "emlo_904": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar height, where sparkling treasures ignite the night. Beauty transforms through cosmic fire, while fortune's bolt fuels the diamond empire.",
+      "hint": "Think of what drives a memecoin to the moon: luck, transformation, energy, and precious gains."
+    },
+    "easyRiddle": {
+      "text": "🎪 The circus begins, 🚀 we rocket away, 💎 finding gems along the way. ⚡ Lightning strikes fast, 🌙 reaching the moon, 🔥 with fire as our fortune soon.",
+      "hint": "These six emojis show the memecoin journey from entertainment to astronomical gains."
+    },
+    "answer": [
+      7,
+      1,
+      2,
+      4,
+      3,
+      5
+    ]
   }
 }
