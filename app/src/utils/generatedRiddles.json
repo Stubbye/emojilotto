@@ -53042,5 +53042,41 @@
       3,
       5
     ]
+  },
+  "sol_2482": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six keepers of fate align. The archer's mark burns bright as a gemstone tears through twilight's veil, while wings of transformation flutter past the jester's grin. Thunder's child and scaled majesty intertwine where luck pirouettes eternal.",
+      "hint": "One points, one burns, one sparkles, one laughs, one transforms, one roars."
+    },
+    "easyRiddle": {
+      "text": "A target glows with rocket fire, a gem shines like lightning. A butterfly dances past the joker while a dragon guards the way.",
+      "hint": "Count the six: aim, launch, treasure, laugh, fly, ancient."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      11,
+      8,
+      14
+    ]
+  },
+  "emlo_905": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, seeking precious stones that sparkle bright. When fortune strikes like thunder's might, I celebrate with nature's tricks and mystical sight. What six symbols chart my path to glory?",
+      "hint": "Follow the journey from launch to riches, marked by speed, value, luck, electricity, joy, and magic."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes UP, 💎 is VALUABLE, ⚡ is LUCKY, 🌙 is the GOAL, ✨ is CELEBRATION, 🦊 is CLEVER. What are these six memecoin dreams?",
+      "hint": "Think about a rocket ride to the moon collecting gems with lightning luck!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      13
+    ]
   }
 }
