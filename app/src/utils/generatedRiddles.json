@@ -52970,5 +52970,41 @@
       8,
       18
     ]
+  },
+  "sol_2480": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer wields twin flames of chaos. The jester's grin mirrors the fox's cunning, while gemstones sing in prismatic light. Six threads weave fate's tapestry: the marksman's aim, the sky-ship's ascent, the night's watching eye, the storm's wrath, brilliance fractured into infinite shards, and the trickster's eternal jest.",
+      "hint": "Seek the symbols of ambition, journey, mystery, chaos, illusion, and destiny's cruel laughter."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols dance together: one points the way with precision, one soars toward dreams, one sparkles with pure value, one watches from above, one crackles with power, and one grins with mischief. What fortune do they hold?",
+      "hint": "Think of targets, space travel, treasure, night sky, electricity, and trickery."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_903": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 gem that makes holders greed. Dance like a 🦋 through 🌈 skies, while 💎 sparkle before your eyes. What memecoin's fortune do you seek?",
+      "hint": "Five emojis describe the journey to wealth, one shows the prize itself"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, ⚡ fast and bright, 🔥 gains burning through the night, 💎 rewards await the ones who stay",
+      "hint": "Look for celestial bodies, energy, heat, and treasure"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      9,
+      2
+    ]
   }
 }
