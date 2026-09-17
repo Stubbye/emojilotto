@@ -53150,5 +53150,23 @@
       14,
       19
     ]
+  },
+  "sol_2485": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance in destiny's choir. The jester's grin dissolves to crystal light, while scaled ambition climbs through starry night. Beneath the prism's arc, luck blooms eternal—six chosen whispers make the fortune vernal.",
+      "hint": "Seek the target, the flame, the fool's true face, the dragon's grace, the star's embrace, and the jeweled space."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide within this song: a bullseye waits, a dragon strong, a jester's crown, a star so bright, a flame that burns, a gem of light.",
+      "hint": "Find: target, dragon, joker, star, fire, and gem."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      21,
+      5,
+      2
+    ]
   }
 }
