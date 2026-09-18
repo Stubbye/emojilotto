@@ -53240,5 +53240,41 @@
       2,
       3
     ]
+  },
+  "sol_2489": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil of night, a scaled serpent ascends through celestial fire, while the jester's grin dances with crystalline tears. Three petals bloom in chaos—one strikes with thunder's kiss, one bends the spectrum's arc, and one glimmers where wishes ignite the void.",
+      "hint": "Seek the hunter's mark, the mythic beast, the fool's visage, the storm's fury, the prism's gift, and the star's eternal spark."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I soar on flames, I rule with scales and night. The cards know me, the storms fear me, and light bends to my sight. Six of us dance in fortune's game.",
+      "hint": "Target, Dragon, Fire, Joker, Lightning, and Rainbow—all seek their destiny together."
+    },
+    "answer": [
+      0,
+      7,
+      13,
+      11,
+      9,
+      21
+    ]
+  },
+  "emlo_911": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, my precious gems sparkle as lightning strikes the stage. Where circus acts dance with dragons under rainbow skies, fortune spins like dice in the hands of those who dare. What six tokens mark the path to legendary gains?",
+      "hint": "Think of the journey: speed, value, spectacle, chaos, chance, and the reward itself."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 shoots toward the 🌙 carrying 💎 treasures. ⚡ strikes with ✨ magic. These six guide the lucky.",
+      "hint": "Look for: launch, destination, wealth, power, magic, and luck."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      20
+    ]
   }
 }
