@@ -53330,5 +53330,23 @@
       5,
       20
     ]
+  },
+  "sol_2492": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's double face, and gemstone light splinters through the prism of chance. The winged metamorphosis ascends past the silver sentinel, while fortune's wheel spins beneath the jester's eternal grin. Six whispers of destiny converge where the untamed beast guards the radiant crown.",
+      "hint": "Seek the transformation, the trickster, the jeweled light, the night's guardian, the wheel of chance, and the victory of the wild."
+    },
+    "easyRiddle": {
+      "text": "Find the butterfly rising to the moon, the gem that sparkles, the joker's lucky grin, the dragon's ancient power, the trophy of champions, and the dice that decide all fates.",
+      "hint": "One flies, one shines, one laughs, one rules, one wins, one rolls."
+    },
+    "answer": [
+      8,
+      5,
+      19,
+      14,
+      18,
+      11
+    ]
   }
 }
