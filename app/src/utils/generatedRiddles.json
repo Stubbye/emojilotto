@@ -53294,5 +53294,41 @@
       13,
       8
     ]
+  },
+  "sol_2491": {
+    "hardRiddle": {
+      "text": "Where fortune's twin flames dance with celestial fire, the jester's crown gleams amid nature's masked desire. Six secrets lie between the archer's mark and destiny's crystal throne, where winged metamorphosis meets the dragon's lone stone.",
+      "hint": "Think of luck, performance, transformation, and cosmic alignment—one guides aim, one holds luck's spark, one reflects light eternally."
+    },
+    "easyRiddle": {
+      "text": "I am what you aim for, what sparkles bright, what flies through darkness, what performs at night. Find the shape-shifter, the crowned fool's delight, and the ancient guardian of fortune's light.",
+      "hint": "A target, a gem, a rocket, a joker, a butterfly, and a dragon."
+    },
+    "answer": [
+      0,
+      2,
+      1,
+      12,
+      8,
+      14
+    ]
+  },
+  "emlo_912": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with lightning speed, my gem-filled rocket ignites the fire of diamond hands. What six symbols mark the path to legendary gains?",
+      "hint": "Think of the journey: destination, vehicle, treasure, goal, power, and passion in crypto culture"
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon, a gem shines bright, lightning strikes fast, and fire burns hot. What six emojis show a memecoin moonshot?",
+      "hint": "Look for: where you go, how you travel, what you seek, the energy, the heat, and the sparkle"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      20
+    ]
   }
 }
