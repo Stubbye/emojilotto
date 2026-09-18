@@ -53186,5 +53186,23 @@
       11,
       14
     ]
+  },
+  "sol_2487": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances through celestial fire, six secrets spiral in cosmic choir. The winged wanderer seeks what glimmers beyond the veil—a gem born of storms, a dragon's tail. In circles of fate where masks conceal, the masked performer reveals what is real.",
+      "hint": "One brings luck, one brings wings, one brings dreams, one brings sting, one brings spectacle, one brings flame—all converge in the lottery's game."
+    },
+    "easyRiddle": {
+      "text": "Six magical things hide in this rhyme: a jester of chance, a dragon sublime, a butterfly free, lightning's bright flash, a gem that will sparkle, and fire's bold dash.",
+      "hint": "Think of performers, creatures of myth, natural wonders, and things that hit."
+    },
+    "answer": [
+      13,
+      8,
+      19,
+      4,
+      5,
+      6
+    ]
   }
 }
