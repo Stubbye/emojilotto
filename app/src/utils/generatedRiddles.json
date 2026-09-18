@@ -53204,5 +53204,41 @@
       5,
       6
     ]
+  },
+  "sol_2488": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone weeps beneath the jester's face. The serpent coils through celestial flame, while nature's painted wings dance without shame. Five symbols hide the path to grace—find the diamond, the masked, the dragon's place.",
+      "hint": "One points to destiny, one glimmers in shadow, one laughs in deceit, one flies through storms, one guards ancient fire, and one transforms in metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I am six scattered across the wheel: a target's purpose, a gem so real, a dragon fierce and proud, a joker's jest spoken loud, a butterfly that takes to flight, and fire burning bright.",
+      "hint": "Look for: aim, sparkle, scales, laughter, wings, and heat."
+    },
+    "answer": [
+      0,
+      2,
+      14,
+      19,
+      8,
+      6
+    ]
+  },
+  "emlo_910": {
+    "hardRiddle": {
+      "text": "A jester's prize launches through cosmic dust, striking with electricity and blazing passion. Rainbow dreams lead to crystalline wealth beneath the dancing glow. What six symbols mark this moonshot gamble?",
+      "hint": "Think of a meme coin journey: the fool's game, the ascent, the power, the spectacle, the treasure, and the celestial destination."
+    },
+    "easyRiddle": {
+      "text": "🎭 laughs, 🚀 zooms up, ⚡ strikes hard, 🔥 burns bright, 💎 shines valuable, 🌙 beckons above. Name them in order!",
+      "hint": "A joker starts the wild ride to the moon with lightning speed and fiery energy, finding gems along the way."
+    },
+    "answer": [
+      19,
+      1,
+      4,
+      5,
+      2,
+      3
+    ]
   }
 }
