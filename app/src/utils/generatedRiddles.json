@@ -53276,5 +53276,23 @@
       5,
       20
     ]
+  },
+  "sol_2490": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, six keepers of fate dance in shadows near. The jester's grin beneath the wanderer's glow, while thunder's pulse and inferno's breath bestow. Twin wings of metamorphosis kiss the veil of night, as luck's own coin spins in prismatic light.",
+      "hint": "One hunts, one laughs, one climbs, one falls, one transforms, one glimmers"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide where destinies align: the archer's mark, the cosmic shrine, the fool's delight, the sky ablaze, the creature born of dark malaise, and wings that dance through nature's maze.",
+      "hint": "Target, Moon, Joker, Lightning, Fox, Butterfly"
+    },
+    "answer": [
+      0,
+      21,
+      19,
+      4,
+      13,
+      8
+    ]
   }
 }
