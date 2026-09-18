@@ -53168,5 +53168,23 @@
       5,
       2
     ]
+  },
+  "sol_2486": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthly flame, six seekers converge in prismatic shame. The archer's mark meets the heavens' light, while scaled wisdom guards the jester's flight. Between blooming grace and fortune's wheel, the mystic path reveals what's real.",
+      "hint": "Look to the sky, the stage, the cards, and the garden. One brings luck, one brings spectacle, one brings chance, and one brings growth."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: one you aim for, one that shines from above, one that crackles with power, one that dances with joy, one that brings fortune's spin, and one that blooms eternal.",
+      "hint": "Think of targets, the moon, lightning, butterflies, dice, and flowers."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      8,
+      11,
+      14
+    ]
   }
 }
