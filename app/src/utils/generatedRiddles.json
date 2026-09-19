@@ -53420,5 +53420,23 @@
       7,
       15
     ]
+  },
+  "emlo_915": {
+    "hardRiddle": {
+      "text": "I chase the digital dream with speed untamed, where fortune sparkles in the crypto flame. Dance through chaos with electric might, laugh like the trickster under moonlit night. My scales shimmer with gem-like gleam, and I soar where rockets chase the meme.",
+      "hint": "Think of speed, luck, mystique, and the path to riches in the memecoin realm."
+    },
+    "easyRiddle": {
+      "text": "Fast like lightning ⚡, shiny like gems 💎, lucky like a joker 🃏, powerful like a dragon 🐉, rising to the moon 🌙, and celebrated like a trophy 🏆.",
+      "hint": "These six things represent the memecoin journey: speed, value, chance, power, gains, and victory."
+    },
+    "answer": [
+      5,
+      1,
+      19,
+      13,
+      3,
+      17
+    ]
   }
 }
