@@ -53438,5 +53438,23 @@
       3,
       17
     ]
+  },
+  "sol_2496": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's painted grin guards the threshold between chaos and order. Seven-fold symmetry breaks into six: the archer's aim pierces the veil, gemstones whisper of buried crowns, while winged metamorphosis spirals through crackling luminescence. The purple sovereign watches from above, its crystalline throne unmoved by the zigzag judgment below.",
+      "hint": "Think of luck's symbols, celestial bodies, transformation, and the duality of playing and winning"
+    },
+    "easyRiddle": {
+      "text": "A shining bull's-eye, a precious stone that gleams, a prancing jester in motley dress, the night's guardian watching over dreams, electricity's violent kiss, and royalty draped in amethyst hue—these six hold secrets of fortune.",
+      "hint": "One points at aims, one sparkles with wealth, one makes us laugh, one lights the night, one strikes fast, and one rules in color"
+    },
+    "answer": [
+      0,
+      2,
+      19,
+      21,
+      4,
+      14
+    ]
   }
 }
