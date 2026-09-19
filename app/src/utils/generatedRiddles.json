@@ -53474,5 +53474,23 @@
       9,
       22
     ]
+  },
+  "sol_2498": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, six celestial whispers dance through fortune's maze. The jester's grin betrays the gems of night, while wings of metamorphosis flutter toward the light. Thunder's kiss ignites the stage where masks convene, and fortune's wheel spins where it's never been seen.",
+      "hint": "Seek the performer, the precious, the electric, the transformed, the nightbound, and the marked."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the joker, the gem that shines bright, the lightning strike, the butterfly's flight, and the moon that rules the night.",
+      "hint": "One is an archer's mark, one is a trickster, one gleams, one electrifies, one transforms, one glows above."
+    },
+    "answer": [
+      0,
+      11,
+      2,
+      4,
+      8,
+      19
+    ]
   }
 }
