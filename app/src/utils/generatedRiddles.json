@@ -53492,5 +53492,41 @@
       8,
       19
     ]
+  },
+  "sol_2499": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a prism splits the player's fate. The jester's grin precedes the storm, while scaled ambition takes its form. Six tokens dance in chaos' song—where luck and destiny belong.",
+      "hint": "Think of games, weather, precious things, and mythical beings. One marks the center of all aims."
+    },
+    "easyRiddle": {
+      "text": "A target gleams with gem-like light, a rocket blazes through the night. The joker laughs as lightning cracks, while dragon hoards what fortune lacks.",
+      "hint": "Four of these are obvious: aim, space, laughter, and fire. Add two more that shine and roar."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      13,
+      3,
+      5
+    ]
+  },
+  "emlo_917": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, my 🔥 burns bright for those in need. A 💎 sparkles in my 🌈 trail, while fortune's 🎲 shall never fail. What am I?",
+      "hint": "A memecoin's journey to the stars involves speed, value, and luck"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, diamond shining bright, fire and lightning ignite the night, rainbow colors, lucky dice in sight. Name these 6!",
+      "hint": "Think of a crypto adventure: launch, wealth, power, destiny, beauty, and chance"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      2,
+      9,
+      11
+    ]
   }
 }
