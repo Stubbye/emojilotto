@@ -53384,5 +53384,41 @@
       4,
       11
     ]
+  },
+  "sol_2494": {
+    "hardRiddle": {
+      "text": "Where fortune's arc meets celestial flame, six symbols dance in destiny's game. The jester's grin guards treasures won, while scaled ambition climbs toward the sun. Between the petals and the spheres, a winged soul transcends all fears. Thunder crowns the seeker's quest, where gems and rainbows manifest.",
+      "hint": "Chaos, dreams, and transformation weave through luck's eternal labyrinth."
+    },
+    "easyRiddle": {
+      "text": "Find the prankster, the dragon's might, the storm's fierce power burning bright. Add the flower's gentle grace, the butterfly's ethereal space, and where all colors merge as one—six keys to lottery's throne are spun.",
+      "hint": "One laughs, one roars, one strikes, one blooms, one floats, one shines."
+    },
+    "answer": [
+      19,
+      13,
+      4,
+      14,
+      8,
+      9
+    ]
+  },
+  "emlo_914": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my value sparkles bright as gems. Fortune spins like lightning through the circus of chaos, where the joker dances with dragon fire beneath rainbow skies.",
+      "hint": "Think of a memecoin's journey to astronomical heights, involving luck, speed, and magical fortune."
+    },
+    "easyRiddle": {
+      "text": "To the moon we go fast with a spark, seeking treasure that glitters. A jester's game of chance under starlight.",
+      "hint": "What guides a memecoin to success? Speed, fortune, and celestial dreams."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      7,
+      15
+    ]
   }
 }
