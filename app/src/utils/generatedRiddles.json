@@ -53582,5 +53582,41 @@
       2,
       5
     ]
+  },
+  "sol_2502": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, and fate's twin dancers waltz through prismatic veils. The jester's grin dissolves in crystalline dreams while gemstones pulse with lightning's ancient desire. Beneath the moon's silver tongue, chaos whispers through the prism of chance.",
+      "hint": "Consider symbols of luck, light, randomness, and cosmic balance. Six dancers in fortune's theater."
+    },
+    "easyRiddle": {
+      "text": "I am the aim of dreams, the strike of sky's fury, the glimmer of wishes, the night's pale queen, the fool's wisdom, and the sparkle of magic. Together we spin the wheel of destiny.",
+      "hint": "Target, Lightning, Gem, Moon, Joker, Sparkles - the six pillars of chance."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      3,
+      11,
+      10
+    ]
+  },
+  "emlo_919": {
+    "hardRiddle": {
+      "text": "To the moon we ride with electric might, through flames of hype and gems so bright. A jester's luck with dragon's roar, where fortune spins forevermore.",
+      "hint": "A journey through crypto chaos with gambling and celestial dreams"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, fire burns bright, gems shine at last. A joker laughs while the dragon soars high.",
+      "hint": "Count the powerful crypto symbols in this memecoin adventure"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      13,
+      14
+    ]
   }
 }
