@@ -53672,5 +53672,41 @@
       5,
       4
     ]
+  },
+  "sol_2505": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a gemstone gleams in celestial space. Thunder splits the dancer's flight, while inferno waltzes with the night. Six tokens hold the secret key: one pierces destiny, one crowns supremacy.",
+      "hint": "Think of celestial bodies, natural forces, and the instruments of chance itself"
+    },
+    "easyRiddle": {
+      "text": "A target in the sky, a jewel that shines, lightning that dances, fire that defines. A butterfly that floats, and one more sign—which six hold the winning line?",
+      "hint": "Look for the moon, gem, and four more symbols of luck and power"
+    },
+    "answer": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      21
+    ]
+  },
+  "emlo_921": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkling with gemstone brilliance. Fortune's jester spins my wheel of fire and luck, while nature's winged beauty dances through my rainbow path. What am I?",
+      "hint": "Think of a memecoin's journey: rapid ascent, dazzling rewards, chaotic luck, and magical transformation"
+    },
+    "easyRiddle": {
+      "text": "A 🚀 to the 🌙 with ⚡ speed, blessed by 💎 fortune and 🦊 trickery, painted in 🌈 dreams",
+      "hint": "Read the emojis in order - they tell the memecoin story"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      9,
+      12
+    ]
   }
 }
