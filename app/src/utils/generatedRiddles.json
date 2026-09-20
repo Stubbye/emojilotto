@@ -53708,5 +53708,23 @@
       9,
       12
     ]
+  },
+  "sol_2506": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels guard the threshold between chaos and destiny. The winged wanderer meets the scaled guardian beneath the jeweled night, while fortune's jest echoes through prismatic mist and electric revelation.",
+      "hint": "Look for: a creature of metamorphosis, one that rules ancient skies, a precious stone that catches starlight, the jester's domain, the storm's violent kiss, and the moon's eternal gaze."
+    },
+    "easyRiddle": {
+      "text": "Find the butterfly that dances with dragons, the gem that shines like lightning, and the moon that watches it all with the joker's laughter in a storm of electricity.",
+      "hint": "Think of transformation, power, wealth, fortune, energy, and the night sky."
+    },
+    "answer": [
+      8,
+      13,
+      5,
+      19,
+      4,
+      3
+    ]
   }
 }
