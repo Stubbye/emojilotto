@@ -53618,5 +53618,41 @@
       13,
       14
     ]
+  },
+  "sol_2503": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's dark throne, a jeweled flame dances with the moth's own. Lightning's twin births chaos from the prism's edge, while fortune's jester guards the cosmic pledge. Seek the six that pirouette between the seen and unseen, where luck's true mastery is finally gleaned.",
+      "hint": "Think of opposites dancing together: aim and infinity, fire and transformation, chance and performance."
+    },
+    "easyRiddle": {
+      "text": "I am the goal you aim for, the sky's bright pearl, the treasure that gleams, the spark that whirls, the player of chance, and the stage of dreams. What six reveal the lottery's true schemes?",
+      "hint": "One is round, one is high, one sparkles bright, one is random, one performs, and one ignites."
+    },
+    "answer": [
+      0,
+      1,
+      4,
+      7,
+      11,
+      18
+    ]
+  },
+  "emlo_920": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, sparkle with value beyond measure, strike with sudden fortune, dance in magical spectacle, and rest beneath fortune's symbol. What six treasures guide the diamond-handed believers to their destiny?",
+      "hint": "Think of a memecoin journey: the launch, the treasure, the strike, the show, the luck, and what shines above."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes fast, 💎 is valuable, ⚡ is quick, 🎪 is fun, 🍀 is lucky, and ⭐ is bright. Which six emojis represent a crypto adventure?",
+      "hint": "One launches, one glimmers, one zaps, one entertains, one brings luck, and one guides the way."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      7,
+      19,
+      21
+    ]
   }
 }
