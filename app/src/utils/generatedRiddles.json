@@ -53546,5 +53546,41 @@
       8,
       21
     ]
+  },
+  "sol_2501": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin hearts, the masked jester spins beneath wings of transformation. Lightning crowns the gem-bearer's ascent, while crystalline dreams shimmer in the void between chaos and grace.",
+      "hint": "Look for the performer, the precious, the celestial, the electric, the winged, and the gleaming."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that strikes, the joker that laughs, the gem that shines, the butterfly that flies, the star that glows, and the crystal that reflects.",
+      "hint": "One sparkles in sky, one entertains, one is valuable, one transforms, one lights the night, one refracts light."
+    },
+    "answer": [
+      5,
+      19,
+      2,
+      8,
+      21,
+      20
+    ]
+  },
+  "emlo_918": {
+    "hardRiddle": {
+      "text": "From the circus tent, a joker's jest, a fox's cunning, a dragon's quest. Lightning strikes the gem so bright, as rocket flames ignite the night. What six dance under moonlight's glow?",
+      "hint": "Think of a memecoin's wildest dreams: chaos, trickery, power, and explosive growth."
+    },
+    "easyRiddle": {
+      "text": "A joker laughs, a fox is sly, a dragon roars up to the sky. Lightning zaps, a gem shines clear, and a rocket takes us way up here. Name these six friends!",
+      "hint": "Look for the trickster, the animal, the mythical beast, the bolt, the treasure, and the spacecraft."
+    },
+    "answer": [
+      19,
+      1,
+      14,
+      4,
+      2,
+      5
+    ]
   }
 }
