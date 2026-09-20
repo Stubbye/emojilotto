@@ -53528,5 +53528,23 @@
       9,
       11
     ]
+  },
+  "sol_2500": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, and serpent-fire dances with celestial grace. The jester's grin reflects in crystal's song, while nature's winged soul has waited long. Six secrets hide in destiny's own art—what calls the lucky from the beating heart?",
+      "hint": "One aims, one burns, one laughs, one shines, one transforms, one glimmers in the night"
+    },
+    "easyRiddle": {
+      "text": "Find the target of luck, the dragon's flame bright, the joker's dark humor, the crystal so white, the butterfly's dance, and the star's pure light.",
+      "hint": "A goal, a beast, a trickster, ice, wings, and heaven"
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      20,
+      8,
+      21
+    ]
   }
 }
