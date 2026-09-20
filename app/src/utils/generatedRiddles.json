@@ -53654,5 +53654,23 @@
       19,
       21
     ]
+  },
+  "sol_2504": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the void's embrace, six dancers waltz through cosmic space. The jester's twin in violet dreams, while serpent coils in emerald beams. Thunder's kiss and amber breath illuminate the path where fate and death converge in palindromic truth—the seeker finds what was always proof.",
+      "hint": "One guides, one leaps, one laughs, one slithers, one strikes, one consumes. Their order matters as much as their meeting."
+    },
+    "easyRiddle": {
+      "text": "I am six treasures in the night: a bull's-eye true, a climb up high, a sparkling prize, a guardian sly, a roaring beast, and flames so bright. What six am I?",
+      "hint": "Think of: precision, ascension, wealth, cunning, fantasy, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      6,
+      13,
+      5,
+      4
+    ]
   }
 }
