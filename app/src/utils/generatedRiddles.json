@@ -53816,5 +53816,23 @@
       14,
       18
     ]
+  },
+  "sol_2510": {
+    "hardRiddle": {
+      "text": "Where fortune's bolt strikes the crystalline stage, a painted dreamer ascends through prismatic flames, chasing the celestial sentinel while chaos dances in prismatic arcs. Six treasures hide in shadow's refrain.",
+      "hint": "Consider what transforms, what illuminates, what guides, and what performs under the big top's eternal gaze."
+    },
+    "easyRiddle": {
+      "text": "A jester plays music under stars that sparkle, lightning strikes the gem upon the stage, the fox watches the butterfly dance through rainbow fire.",
+      "hint": "Look for the performer, the magical elements, the watchers, and the ethereal beauty."
+    },
+    "answer": [
+      16,
+      4,
+      21,
+      9,
+      6,
+      20
+    ]
   }
 }
