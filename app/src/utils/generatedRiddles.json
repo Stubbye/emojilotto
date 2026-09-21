@@ -53744,5 +53744,41 @@
       5,
       11
     ]
+  },
+  "sol_2508": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets earthbound aspiration, six keepers of fortune converge. The archer's mark dances with thunder's kiss, while gemstone's brilliance crowns the jester's domain. Winged metamorphosis spirals through prismatic veils, as the night's pale sentinel watches fortune's eternal spark ignite.",
+      "hint": "One shimmers in the sky, one strikes with fury, one reflects pure wealth, one laughs in disguise, one transforms eternally, and one glimmers without end."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck gather: a bulls-eye waiting, electricity crackling, a precious stone gleaming, a foolish grin masking, wings freshly freed, and stardust forever twinkling.",
+      "hint": "Target, Lightning, Gem, Joker, Butterfly, and Sparkles create the winning combination."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      11,
+      8,
+      10
+    ]
+  },
+  "emlo_923": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my trail blazes with electric fury. Precious gems sparkle as fortune spins wildly, while magic ignites the chaos. A jester's grin meets the dragon's flame, and luck dances with the butterfly's grace.",
+      "hint": "Think of the journey from joke coin to moon, powered by chance and chaos magic"
+    },
+    "easyRiddle": {
+      "text": "A fast rocket takes you to the moon with luck and lightning. Fire and gems make it shine bright, while the joker laughs at the spinning dice.",
+      "hint": "You need speed, destination, fortune, power, wealth, and luck"
+    },
+    "answer": [
+      1,
+      3,
+      11,
+      5,
+      2,
+      12
+    ]
   }
 }
