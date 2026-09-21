@@ -53780,5 +53780,41 @@
       2,
       12
     ]
+  },
+  "sol_2509": {
+    "hardRiddle": {
+      "text": "Through celestial veil where fortune's serpent coils, the archer's mark meets dancing flames. Six-winged metamorphosis pirouettes where spectrum bends, while gemstone whispers echo fortune's ancient game beneath the jester's eternal grin.",
+      "hint": "One grants wishes, one transforms, one judges worth, one brings chaos, one illuminates, one mocks destiny"
+    },
+    "easyRiddle": {
+      "text": "A dragon watches over a gem that burns bright. A butterfly dances near the target as the joker laughs. What six treasures align when luck strikes?",
+      "hint": "Look for: a mythical beast, a precious stone, a flame, a winged creature, a mark to hit, and a trickster"
+    },
+    "answer": [
+      13,
+      5,
+      6,
+      8,
+      0,
+      19
+    ]
+  },
+  "emlo_924": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, a precious stone gleams as fortune's seed. Lightning strikes with electric might, while a magical creature brings luck to light. Rainbow waves dance across the sky, and joker's grin makes holders fly.",
+      "hint": "Think of a memecoin journey: from ground to space, wealth transformation, and fortune's grace."
+    },
+    "easyRiddle": {
+      "text": "🚀 Moon 💎 ⚡ 🐉 🎭 - These six emojis tell the story of a crypto dream. Which ones are they?",
+      "hint": "A rocket launches toward the moon, gems bring riches, lightning is fast, dragons are lucky, and jokers bring fun!"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      13,
+      14,
+      18
+    ]
   }
 }
