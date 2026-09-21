@@ -53834,5 +53834,23 @@
       6,
       20
     ]
+  },
+  "sol_2511": {
+    "hardRiddle": {
+      "text": "Where celestial fire pirouettes through prismatic veils, the fortune-weaver's six companions dwell: one marks the bullseye of fate's cruel design, another ascends on blazing fury's spine, a crystalline heart catches eternal light, while scaled majesty guards secrets of night, delicate wings dance where arcs of color bend, and fortune's jester completes what fools transcend.",
+      "hint": "Seek the target and rocket's dance with gems, lunar mystery, infernal grace, and trickster's jest among nature's transformation."
+    },
+    "easyRiddle": {
+      "text": "Six treasures in shadow's riddle: one points to center, one shoots for stars, one glows like ice, one breathes in scales, one floats on wind, one laughs in jest.",
+      "hint": "Target, Rocket, Crystal, Dragon, Butterfly, Joker"
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      14,
+      8,
+      19
+    ]
   }
 }
