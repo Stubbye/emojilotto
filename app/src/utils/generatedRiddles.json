@@ -53996,5 +53996,23 @@
       5,
       8
     ]
+  },
+  "sol_2516": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances with celestial fire, beneath the prism's gleam, a winged soul ascends through crystalline dreams. The archer's mark dissolves in thunderous light, while chaos tumbles in the reveler's night. Six secrets hide in fortune's ancient game—seek the trickster, the flame, the gem untamed.",
+      "hint": "One brings laughter in masks, one strikes from above, one sparkles in treasure, one rules the night sky, one darts on gossamer wings, one tumbles with chance."
+    },
+    "easyRiddle": {
+      "text": "Find the jester who jokes, the spark that strikes, the jewel that shines, the friend of night, the dancer on wings, and the bones of chance.",
+      "hint": "Look for: joker, lightning, gem, moon, butterfly, and dice."
+    },
+    "answer": [
+      19,
+      4,
+      2,
+      3,
+      8,
+      11
+    ]
   }
 }
