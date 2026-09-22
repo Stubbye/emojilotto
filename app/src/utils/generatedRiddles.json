@@ -53924,5 +53924,41 @@
       5,
       3
     ]
+  },
+  "sol_2514": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's mask, the gemstone weeps under moonlit chaos. Six whispers converge: the hunter's cunning, the serpent's ancient flame, the sky's electric breath, the void's eternal glow, the jester's painted grin, and luck's four-faced oracle spin.",
+      "hint": "Seek the fox in night's treasure, the dragon's primal scorn, the lightning's jagged splinter, the moon's silver lorn, the joker's riddled visage, and chance's numbered horn."
+    },
+    "easyRiddle": {
+      "text": "I am six things: a clever animal, a mythical beast, a sky's fury, a night orb, a laughing trickster, and a game of chance.",
+      "hint": "Think of cunning, wings, storms, darkness, cards, and rolling bones."
+    },
+    "answer": [
+      13,
+      14,
+      4,
+      3,
+      19,
+      11
+    ]
+  },
+  "emlo_928": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gemstone dreams ignite the night. A jester's fortune spins where magic meets chaos, as butterfly wings carry me to sparkling triumph. What six symbols mark my moonbound journey?",
+      "hint": "Think of a memecoin's wild ride to success: speed, wealth, luck, transformation, magic, and glory."
+    },
+    "easyRiddle": {
+      "text": "A fast rocket flies to the moon with a shiny gem. Lightning and fire power the joker's sparkly magic. Which six emojis are these?",
+      "hint": "One goes to space, one shines bright, one strikes fast, one burns hot, one's funny, and one glitters."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      8,
+      6,
+      10
+    ]
   }
 }
