@@ -53888,5 +53888,41 @@
       5,
       18
     ]
+  },
+  "sol_2513": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, a jester's twin masks laugh at destiny's game. Seven sisters dance in prismatic arc, while lightning splits the dragon's heart so dark. The gemstone gleams where rockets dare to climb, and crystal echoes tick the wheel of time.",
+      "hint": "Look for the hunter's mark, the trickster's face doubled, and elements that clash with grace."
+    },
+    "easyRiddle": {
+      "text": "A target glows, a joker grins twice, a dragon roars, and gems pay the price. Lightning strikes where rockets ignite, and crystals shine in prismatic light.",
+      "hint": "Count: aim, laugh, scales, spark, stone, and the arch of colors."
+    },
+    "answer": [
+      0,
+      12,
+      13,
+      4,
+      20,
+      9
+    ]
+  },
+  "emlo_927": {
+    "hardRiddle": {
+      "text": "I launch to celestial heights with electric speed, a gem-like treasure that makes diamond hands succeed. Where lightning strikes and fire ignites the way, sparkles dance as rockets light the day. What six symbols mark this memecoin's fate?",
+      "hint": "Think of a coin's journey: propulsion, destination, value, energy, celebration, and magic"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ✨ shines bright, ⚡ gives power, 💎 shows worth, 🔥 gets hot, 🌙 is the dream. Which six emojis make the perfect memecoin team?",
+      "hint": "Rocket, Sparkles, Lightning, Gem, Fire, and Moon - the ultimate crypto combo"
+    },
+    "answer": [
+      1,
+      10,
+      4,
+      2,
+      5,
+      3
+    ]
   }
 }
