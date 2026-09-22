@@ -54014,5 +54014,41 @@
       8,
       11
     ]
+  },
+  "sol_2517": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial vault, six secrets dance in twilight's gleam. The jester's twin flames consume the stage of wonder, while nature's winged messenger carries the prism of hope to where wishes crystallize in eternal night's mirror.",
+      "hint": "Consider what guides, what ignites, what transforms, what celebrates, what represents fortune's game, and what embodies pure magic."
+    },
+    "easyRiddle": {
+      "text": "I seek six treasures: a mark of aim, a fire that climbs, a night orb bright, a spark of shock, a winged creature fair, and stones of gleam. Find them where luck and magic intertwine.",
+      "hint": "Think of targets, flames that rise, the moon above, electricity, delicate insects, and precious rocks."
+    },
+    "answer": [
+      0,
+      5,
+      3,
+      1,
+      8,
+      20
+    ]
+  },
+  "emlo_930": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar sphere, where gemstones sparkle with electric cheer. A fox's cunning guides the lightning strike, while butterfly wings paint rainbow's hike. Where fire meets fortune's crystal light, the dragon guards this memecoin's might.",
+      "hint": "Count the magical creatures and celestial elements that guide this coin to glory"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with might. 🦋 flies free, 🌈 you see, 🐉 guards the key. What six guide this memecoin spree?",
+      "hint": "Look for the rocket, gem, lightning, butterfly, rainbow, and dragon"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      14
+    ]
   }
 }
