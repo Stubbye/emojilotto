@@ -53960,5 +53960,41 @@
       6,
       10
     ]
+  },
+  "sol_2515": {
+    "hardRiddle": {
+      "text": "Where fortune's jester dances 'neath the celestial eye, six tokens of fate conspire in shadow's lullaby. The archer's mark meets heaven's flame, while chaos spins its game. A scaled leviathan guards the prismatic veil, and nature's winged whisper tells an untold tale. Fortune smiles where thunder births the gem's eternal glow.",
+      "hint": "Seek the trickster, the heavens, the inferno, destiny's wheel, the ancient scaled one, and the creature of metamorphosis."
+    },
+    "easyRiddle": {
+      "text": "I am the player's choice and luck's best friend. A jester mocks, the sky burns bright, a dragon coils, a butterfly takes flight. Where lightning strikes a gem so true, and chance itself is picked by you.",
+      "hint": "Think of games, fire, fantasy creatures, delicate wings, electricity, and precious stones."
+    },
+    "answer": [
+      11,
+      5,
+      13,
+      8,
+      19,
+      20
+    ]
+  },
+  "emlo_929": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive velocity, seeking the gem of fortune. When lightning strikes my path, I ignite with fire and dance like a butterfly through the cosmic wave. What six symbols mark my journey to riches?",
+      "hint": "Follow the path of a memecoin dreamer: direction, speed, treasure, electricity, passion, and graceful movement."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms toward the moon with a sparkling gem. Lightning and fire light the way. What are these six lucky symbols?",
+      "hint": "Think of a crypto adventure: going up, destination, treasure, electricity, heat, and shine."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      8
+    ]
   }
 }
