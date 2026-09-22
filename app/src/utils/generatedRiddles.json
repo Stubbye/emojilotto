@@ -53852,5 +53852,41 @@
       8,
       19
     ]
+  },
+  "sol_2512": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six sovereigns dance in midnight's attire. The jester's grin guards gemstones' gleam, while wings of transformation flutter through dream. Lightning's kiss adorns the crystalline throne, and luck's ancient symbol stands alone.",
+      "hint": "Look for: aim, flame, precious stone, night's orb, laughter's mask, and metamorphosis"
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the dragon's flame, the gem that shines, the moon's domain, the joker's game, and the butterfly's flight.",
+      "hint": "One aims, one burns, one glimmers, one glows at night, one laughs, one transforms"
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      19,
+      8
+    ]
+  },
+  "emlo_926": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🚀 fueled by 💎 greed. When 🔥 meets ✨ in this game of chance, the 🎭 masks reveal the memecoin dance. What six symbols guide this lottery's fate?",
+      "hint": "Think of crypto ambitions, valuable rewards, chaotic energy, and theatrical fortune-telling."
+    },
+    "easyRiddle": {
+      "text": "Six symbols in this memecoin lottery: reach for the 🌙, ride the 🚀, find the 💎, spark the ✨, ignite the 🔥, and wear the 🎭. What are they?",
+      "hint": "Moon, rocket, gem, sparkles, fire, and masks - all essential to this crypto game."
+    },
+    "answer": [
+      3,
+      1,
+      2,
+      9,
+      5,
+      18
+    ]
   }
 }
