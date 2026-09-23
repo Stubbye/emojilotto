@@ -54176,5 +54176,23 @@
       5,
       10
     ]
+  },
+  "sol_2522": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, a gemstone gleams through celestial maze. The serpent coils where thunder splits the night, while metamorphosis dances in flickering light. Twin performers mask their art in spiraled flame, and fortune's cube reveals the game.",
+      "hint": "Seek the aim, the lunar face, the precious stone, the scaled grace, the crackling split, the winged transformation, and chance's sacred manifestation."
+    },
+    "easyRiddle": {
+      "text": "I point at dreams, I shine from high, a gem that glows, a serpent's sigh. Where lightning cracks and fire plays, a butterfly knows fortune's ways. The circus spins, the dice will tell—six symbols hold the lottery's spell.",
+      "hint": "Think of targets, moons, and gems. Add a dragon, lightning's stem. Include fire's dance and butterflies' flight."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      14,
+      5,
+      11
+    ]
   }
 }
