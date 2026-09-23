@@ -54050,5 +54050,23 @@
       9,
       14
     ]
+  },
+  "sol_2518": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, and gemstone whispers dance with lunar desire. The jester's mask conceals what lightning knows—a symphony of chance where destiny flows. Six tokens spin in chaos bright: one seeks the mark, one pierces night.",
+      "hint": "Think of what draws luck from sky and earth, where madness and precision share equal worth."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the gem so bright, the moon that glows through darkest night, the lightning that strikes without warning or sound, the joker who wears their mask around, and fire that burns where fortune is found.",
+      "hint": "Six symbols of chance: one aims, one sparkles, one floats above, one crackles, one performs, and one blazes."
+    },
+    "answer": [
+      0,
+      2,
+      3,
+      7,
+      18,
+      6
+    ]
   }
 }
