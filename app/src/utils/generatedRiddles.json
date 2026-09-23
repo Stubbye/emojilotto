@@ -54068,5 +54068,41 @@
       18,
       6
     ]
+  },
+  "sol_2519": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's ascent, and gemstone whispers dance with celestial bent. Thunder's kiss ignites the performer's dream, while metamorphosis joins the radiant gleam. Six seekers converge in destiny's sphere—one marks the target, one climbs without fear, one burns with desire, one wears nature's disguise, one flutters between worlds, one crowns the wise.",
+      "hint": "Think of a journey from earthly aim to cosmic reward, where danger meets beauty and transformation blooms."
+    },
+    "easyRiddle": {
+      "text": "A mark to aim for, a ship of dreams, lightning that strikes, and gems that gleam. A butterfly dances, a trophy shines bright—which six light the path to fortune's delight?",
+      "hint": "Combine ambition, space travel, power, wealth, grace, and victory."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      14,
+      18
+    ]
+  },
+  "emlo_931": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, sparkling with gemstone brilliance. Fortune spins wildly as I dance through flames of chaos, guided by a trickster's grin beneath stormy skies.",
+      "hint": "What powers a memecoin to the moon?"
+    },
+    "easyRiddle": {
+      "text": "A missile climbs up, a shiny rock glows, electricity strikes fast, fire burns hot, a silly clown grins, and magic twinkles bright.",
+      "hint": "Name these 6 symbols of crypto chaos"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      11,
+      19
+    ]
   }
 }
