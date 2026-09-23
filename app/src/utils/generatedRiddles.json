@@ -54104,5 +54104,41 @@
       11,
       19
     ]
+  },
+  "sol_2520": {
+    "hardRiddle": {
+      "text": "Where fortune's jest meets celestial fire, six tokens dance in shadow's attire. The archer's mark kisses heaven's throne, while lightning splits the crystal shown. Winged metamorphosis takes its flight, as flames consume the jester's might. Ascending velocity defies the night, where purple crowns the victor's sight.",
+      "hint": "Seek the performer's masquerade, the gemstone's radiant cascade, and wings that rise through smoke and shade."
+    },
+    "easyRiddle": {
+      "text": "I hold six secrets in this game: one strikes from above, one glows the same. One transforms with grace and flight, one shoots toward the stars so bright. One sparkles hard and cuts so deep, one brings the laughter that we keep. What are these six that fortune sends?",
+      "hint": "Think of performers, gems, sky-bound things, creatures with wings, electricity, and weapons of kings."
+    },
+    "answer": [
+      1,
+      4,
+      8,
+      11,
+      13,
+      19
+    ]
+  },
+  "emlo_932": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my precious heart gleaming like fortune itself. Dancing with cosmic fire, I'm guided by fortune's wheel of chance, adorned with nature's delicate transformation and the jester's unpredictable magic.",
+      "hint": "Think of a memecoin's journey: rapid ascent, valuable core, chaotic energy, randomness, metamorphosis, and playful misdirection"
+    },
+    "easyRiddle": {
+      "text": "A coin shoots up with sparkles and lightning, shining bright as a gem, dancing under the moon like a fool's game of chance",
+      "hint": "Follow the path: launch, shine, electricity, precious value, night sky, and randomness"
+    },
+    "answer": [
+      1,
+      5,
+      4,
+      2,
+      3,
+      11
+    ]
   }
 }
