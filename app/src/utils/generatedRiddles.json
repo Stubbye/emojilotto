@@ -54194,5 +54194,41 @@
       5,
       11
     ]
+  },
+  "sol_2523": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the masked trickster's laughter echoes through prismatic gates. The winged metamorphosis ascends toward crystalline dreams, while chaos blooms in ordered chambers. Six whispers of destiny converge where luck's lightning strikes the heart of all games.",
+      "hint": "Look for symbols of transformation, deception, fortune, and celestial wonder. Consider what reveals hidden truths and what soars beyond mortal reach."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in plain sight: one flies on gossamer wings, one glitters with inner light, one tricks with a painted grin, one rolls the bones of fate, one crackles with electric charge, and one lights the night sky bright.",
+      "hint": "Think of butterflies, crystals, jesters, dice, lightning, and stars in the heavens."
+    },
+    "answer": [
+      8,
+      13,
+      19,
+      11,
+      5,
+      21
+    ]
+  },
+  "emlo_934": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, my 🔥 burns bright for the greedy need. A 💎 sparkles where I strike, while 🎪 crowds cheer at this hype I like. The 🦊 laughs as fortunes ignite, will you 🎯 your luck tonight?",
+      "hint": "Six symbols of crypto dreams: celestial, energetic, precious, entertaining, cunning, and aimed at wealth"
+    },
+    "easyRiddle": {
+      "text": "Find these six to win the game: 🌙 in the sky so bright, ⚡ that moves so fast, 💎 that shines so clear, 🎪 full of fun and cheer, 🦊 clever and sly, 🎯 straight and true - together they spell memecoin magic for you!",
+      "hint": "Moon, Lightning, Gem, Circus, Fox, and Target - the ultimate crypto combo"
+    },
+    "answer": [
+      3,
+      4,
+      2,
+      6,
+      12,
+      0
+    ]
   }
 }
