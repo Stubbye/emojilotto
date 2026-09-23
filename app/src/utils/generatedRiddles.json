@@ -54140,5 +54140,41 @@
       3,
       11
     ]
+  },
+  "sol_2521": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian crown, a serpent of light coils through chambers of fate. The jester's mask grins beside the wild trickster's den, while petals of heaven spiral down. In this celestial theater of chance, six dancers reveal destiny's secret name.",
+      "hint": "One points, one reigns above, one laughs, one prowls, one blooms, and one descends from the cosmos"
+    },
+    "easyRiddle": {
+      "text": "I point at targets, a dragon rules the night sky, a joker makes us laugh, a fox is cunning, a flower blooms with beauty, and lightning strikes with speed. Six symbols of luck await you.",
+      "hint": "Think of aim, scales, mischief, cunning, nature, and electricity"
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      12,
+      14,
+      4
+    ]
+  },
+  "emlo_933": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, a gem of fortune that makes hearts bleed. Where stars align and crystals spark, I dance with fire through the dark. What six celestial treasures guide the way?",
+      "hint": "Think of a rocket's journey: speed, destination, rewards, energy, brilliance, and luck."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⭐ shines bright, 💎 is precious, ⚡ is fast, 🔥 is hot, ✨ sparkles. Which six light up a moonshot?",
+      "hint": "Look for: a launch vehicle, celestial body, valuable stone, electricity, heat, and magic dust."
+    },
+    "answer": [
+      1,
+      21,
+      2,
+      4,
+      5,
+      10
+    ]
   }
 }
