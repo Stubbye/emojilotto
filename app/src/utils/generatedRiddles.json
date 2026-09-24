@@ -54266,5 +54266,41 @@
       6,
       14
     ]
+  },
+  "sol_2526": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's grin meets the scaled leviathan's zeal. Three spheres of chaos—one marks the target true, one spins with gems uncut, one blazes electric blue. The jester's mask conceals what the dragon's hoard pursues, while fortune's arc bends through prismatic hues.",
+      "hint": "Seek the intersection of luck, deception, and mythical power. One element appears twice in different forms."
+    },
+    "easyRiddle": {
+      "text": "A dragon guards treasure beneath electric skies. A joker deals fate as fortune flies. Where gems meet targets and rainbows glow, six symbols unite what the lucky ones know.",
+      "hint": "Think of chaos, trickery, mythology, and the colors of destiny."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      13,
+      14,
+      9
+    ]
+  },
+  "emlo_936": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🚀 fueled by 💎 greed. When 🔥 meets fortune's 🎯, the 💜 diamond sparkles bright. What six symbols align when the memecoin takes flight?",
+      "hint": "Think of the journey from launch to moon, with wealth and energy combined."
+    },
+    "easyRiddle": {
+      "text": "A purple gem, a rocket's dream, lightning strikes with gleaming beam, moon above and fire bright, target hit - the memecoin's might! Name these six friends shining in the night.",
+      "hint": "Look for space travel, precious stones, and cosmic events."
+    },
+    "answer": [
+      5,
+      1,
+      2,
+      3,
+      4,
+      0
+    ]
   }
 }
