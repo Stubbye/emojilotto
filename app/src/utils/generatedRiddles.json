@@ -54338,5 +54338,23 @@
       9,
       17
     ]
+  },
+  "emlo_938": {
+    "hardRiddle": {
+      "text": "To the moon we rocket fast, through lightning strikes we blast. Gem-like sparkles light the way, while fire burns throughout the day. Dragon's breath and circus dreams, nothing's ever what it seems.",
+      "hint": "Six symbols of a memecoin's wild journey to greatness"
+    },
+    "easyRiddle": {
+      "text": "A bright rocket zooms up high, gem shines under lightning sky. Fire burns, sparkles glow, dragon roars to steal the show.",
+      "hint": "Look for: a launching vehicle, a precious stone, electricity, flames, glitter, and a mythical beast"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      13,
+      14
+    ]
   }
 }
