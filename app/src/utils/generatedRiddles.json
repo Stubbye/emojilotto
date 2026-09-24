@@ -54230,5 +54230,41 @@
       12,
       0
     ]
+  },
+  "sol_2525": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, six secrets hide in shadow's choir. The winged dancer weaves through fortune's gem, while masked revelry bows to the crimson stem. Lightning's kiss meets the lunar throne, and prisms shatter what was sown.",
+      "hint": "Think of chance, performance, the night sky, and nature's delicate beings."
+    },
+    "easyRiddle": {
+      "text": "A silly joker performs at night under stars and flames, with a butterfly dancing among gems and glittering sparkles in a circle of luck.",
+      "hint": "These 6 things might bring luck: entertainment, sky, insects, treasures, and magic lights."
+    },
+    "answer": [
+      19,
+      7,
+      21,
+      13,
+      20,
+      9
+    ]
+  },
+  "emlo_935": {
+    "hardRiddle": {
+      "text": "I launch with speed through cosmic heights, seeking fortune in the darkness. My gems sparkle with electric power, while fire and magic guide my way to lunar riches where dragons dance among the stars.",
+      "hint": "Think of a journey to wealth involving speed, precious items, and celestial destinations"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with gems and lightning! A magical dragon brings fire and sparkles to your lucky quest.",
+      "hint": "Combine space travel, treasures, and mystical creatures"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      6,
+      14
+    ]
   }
 }
