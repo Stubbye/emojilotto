@@ -54446,5 +54446,41 @@
       13,
       9
     ]
+  },
+  "sol_2533": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six guardians of fate convene. The archer's mark meets the swift messenger, while gemstone truth gleams beneath Luna's gaze. Electricity braids with inferno's twin flame, and from chrysalis wings emerge to taste the prism's arch. In this constellation of chance, what six whisper destiny's name?",
+      "hint": "One brings aim, one brings speed, one brings wealth, one brings night, one brings chaos, one brings transformation"
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and wonder: a target for aim, a rocket for speed, a gem for treasure, the moon for night, lightning for power, and a butterfly for change.",
+      "hint": "Think of common lottery symbols: something you shoot at, something that flies fast, something precious, something in the sky at night, something that strikes, and something that transforms"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  "emlo_941": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with explosive force, my brilliance cuts through darkness like a precious gem. Where fortune spins wildly, I dance with electric energy, leaving trails of cosmic fire. Luck strikes like lightning when I align with my shimmering counterpart. What am I in this carnival of chance?",
+      "hint": "Think of velocity, value, destiny, chaos, power, and wonder combined in a memecoin narrative"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 sparkles bright, ⚡ hits hard, 🔥 burns hot, 🎰 spins for luck, ✨ shines forever. Which six symbols represent the ultimate memecoin journey?",
+      "hint": "Moon dreams, precious rewards, power strikes, hot trends, random wins, and magical moments"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      10
+    ]
   }
 }
