@@ -54374,5 +54374,41 @@
       8,
       19
     ]
+  },
+  "sol_2531": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial fire, a gemstone gleams beneath the jester's gyre. The dragon's breath ignites the lightning's song, while masked performers dance where we belong. In crystal depths, the fox's cunning plays—six sacred tokens light the lottery's maze.",
+      "hint": "One aims, one burns, one sparkles rare, one laughs, one glows, one schemes with care."
+    },
+    "easyRiddle": {
+      "text": "Find the target that ignites the gem, the joker's lightning and dragon's hem, the crystal mask where all dreams start—six pieces form the lottery heart.",
+      "hint": "Think of: aim, fire, sparkle, laugh, power, and guard."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      19,
+      14,
+      21
+    ]
+  },
+  "emlo_939": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my gems sparkle with electric might. Where jesters dance with fortune's fire, and luck strikes like lightning through the wire. Butterflies emerge from cocoons of chance, while dragons guard the treasure in this dance.",
+      "hint": "Think of a memecoin's journey: the hype, the volatility, the community spirit, and the hope for riches"
+    },
+    "easyRiddle": {
+      "text": "A coin goes to the 🌙, gems 💎 shine bright, ⚡ strikes fast, 🔥 burns hot, 🦋 transforms, and 🐉 guards treasure",
+      "hint": "Count the emojis mentioned: moon, gem, lightning, fire, butterfly, dragon"
+    },
+    "answer": [
+      3,
+      5,
+      9,
+      6,
+      8,
+      14
+    ]
   }
 }
