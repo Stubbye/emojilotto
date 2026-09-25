@@ -54410,5 +54410,41 @@
       8,
       14
     ]
+  },
+  "sol_2532": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale eye, and ancient fire dances with winged grace, the jester's mask conceals what lightning cannot touch, while crystalline dreams shatter against the musician's cry—six tokens hold the secret: one marks the hunter's aim, one pierces heaven's veil, one gleams where chaos crystallizes, one crowns the night eternal, one births both death and life, one wears the painted fool's visage.",
+      "hint": "Seek the marksman's circle, the celestial guardian, the hard truth, the nocturnal sovereign, the fierce striped wanderer, and the many-faced deceiver."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of chance: a circle with rings, a ship of dreams, a precious stone, the sleepy guardian, nature's fury, and the laughing trickster.",
+      "hint": "Target, Rocket, Gem, Moon, Lightning, Joker"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  "emlo_940": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, leaving trails of fortune and brilliance. Where chaos meets luck, I sparkle with possibility, guarded by a cunning sentinel. My kaleidoscopic path burns bright through the night.",
+      "hint": "Think of a crypto journey: departure point, destination, volatility, mystical guide, visual spectrum, and pure magic"
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon, lightning brings the boom. Fire burns so bright, with a fox watching through the night. Sparkles light the way, on this lucky crypto day!",
+      "hint": "Count the emojis: launch, destination, speed, fire, animal, and shine"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      13,
+      9
+    ]
   }
 }
