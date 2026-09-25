@@ -54482,5 +54482,23 @@
       11,
       10
     ]
+  },
+  "sol_2534": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, six spirits dance in shadows: the winged messenger of transformation ascends past the luminous guardian, while the serpent of ages coils beneath crackling chaos and prismatic fractals that birth new worlds. The masked jester's laughter echoes through the seven gates, and petals unfold in the spaces between lightning and wonder.",
+      "hint": "One flies upward, one guards night, one is ancient, one is violent, one reflects all light, one blooms eternal, one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: follow the butterfly where it leads you past the moon's gaze, through the dragon's dream, beneath the lightning's kiss, into the crystal's heart, and finally where the flower opens to infinity.",
+      "hint": "A small creature, a night light, a legendary beast, a storm, a gem, and nature's bloom."
+    },
+    "answer": [
+      9,
+      3,
+      13,
+      5,
+      20,
+      14
+    ]
   }
 }
