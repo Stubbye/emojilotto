@@ -54356,5 +54356,23 @@
       13,
       14
     ]
+  },
+  "sol_2530": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six keepers of fate align: the archer's mark meets the ascending flame, gemstone truth gleams beneath the crescent's veil, while nature's winged metamorphosis pirouettes through electric storms and radiant dust—all converge where chaos wears the jester's painted face.",
+      "hint": "Think of targets, ascension, precious things, night sky, transformation, and trickery."
+    },
+    "easyRiddle": {
+      "text": "I shine with aim, I rise with fire, gems sparkle bright, the moon sits high, butterflies dance through lightning's strike, and jesters laugh—find all six.",
+      "hint": "One points, one burns, one glimmers, one glows at night, one transforms, one tricks."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      19
+    ]
   }
 }
