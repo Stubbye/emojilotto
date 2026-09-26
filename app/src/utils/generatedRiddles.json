@@ -54662,5 +54662,23 @@
       18,
       13
     ]
+  },
+  "emlo_946": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my twin gem sparkles with electric might. The joker dances where fortune's lightning strikes, and a butterfly emerges from crystal chrysalis, soaring past the moon's glowing trophy. What sequence of fortune awaits?",
+      "hint": "Think of a memecoin's journey: launch, value, luck, transformation, and ultimate glory."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning brings the luck tonight. Butterfly flies free, trophy claims the victory, and crystal marks the way. Name these six in order of the memecoin dream!",
+      "hint": "Follow the path: blast off, treasure, fortune, beauty, winning, and magic sparkle."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      8,
+      18,
+      20
+    ]
   }
 }
