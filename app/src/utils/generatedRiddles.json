@@ -54536,5 +54536,41 @@
       6,
       9
     ]
+  },
+  "sol_2536": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate convene. The celestial guardian weeps crystalline tears upon the jester's stage, while twin-winged metamorphosis pirouettes through luminescence born of chaos. The crowned victor's smile fades into prismatic silence.",
+      "hint": "Think of luck's symbols: aim, destiny, precious, night, change, and triumph intertwined with spectrum."
+    },
+    "easyRiddle": {
+      "text": "Six signs of luck gather in mystery: the bullseye waits, the night watcher glows, gems shimmer bright, a shape-shifter dances, colors bend and arch, and victory is claimed.",
+      "hint": "Target, moon, gem, butterfly, rainbow, and trophy represent fortune's basic language."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      8,
+      9,
+      18
+    ]
+  },
+  "emlo_943": {
+    "hardRiddle": {
+      "text": "I launch dreams to the heavens with electric speed, my gem-like value sparkles as I ignite the fire of fortune. A dragon's treasure under the rainbow's promise, where the joker's magic meets the crystal's glow.",
+      "hint": "Think of a meme coin's journey: fast rise, shiny value, magical chaos, and crystalline dreams."
+    },
+    "easyRiddle": {
+      "text": "A rocket shoots toward the moon with sparkles trailing behind. Below, lightning strikes near a glowing gem. What six things guide this memecoin adventure?",
+      "hint": "Look for: movement upward, celestial body, brightness, speed, precious stone, and electric energy."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      7,
+      21,
+      20
+    ]
   }
 }
