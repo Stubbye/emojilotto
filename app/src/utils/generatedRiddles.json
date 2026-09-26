@@ -54644,5 +54644,23 @@
       5,
       13
     ]
+  },
+  "sol_2539": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six dancers of fate pirouette through the veil. The jester's twin gleams in prism'd array, while thunder's echo births wings of decay. A gemstone weeps at the foot of the crown, as the wild one watches the masked theatre's renown.",
+      "hint": "Seek the symbols of chance, celestial fire, trickery's reflection, transformation's desire, precious tears, and theatrical observation."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols for the EmojiLotto call: an archer's aim, a lightning strike burning bright, a joker's laugh reflected twice in jeweled light, a butterfly's dance, a trophy standing tall, and a fox watching it all.",
+      "hint": "Think of luck: precision, power, deception, beauty, victory, and cunning."
+    },
+    "answer": [
+      0,
+      5,
+      12,
+      8,
+      18,
+      13
+    ]
   }
 }
