@@ -54500,5 +54500,41 @@
       20,
       14
     ]
+  },
+  "sol_2535": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial flame, six sentinels of destiny dance. The jester's grin precedes the shapeshifter's cunning, while gemstones catch light that never was. Between earth's verdant blessing and the dragon's ancient throne, chaos blooms in ordered dots, and wings of metamorphosis complete the sacred spiral.",
+      "hint": "Seek what points, what burns above, what deceives, what gleams, what rules, and what transforms."
+    },
+    "easyRiddle": {
+      "text": "I contain: something that aims, something that burns bright, something that tricks, something that sparkles, something mighty and scaled, and something with delicate wings. Six treasures hide within.",
+      "hint": "Think of a target, fire, a joker, a gem, a dragon, and a butterfly."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      2,
+      14,
+      8
+    ]
+  },
+  "emlo_942": {
+    "hardRiddle": {
+      "text": "A jester's fortune strikes with speed, through cosmic gates where dreamers feed. Crystalline wealth shines ever bright, as electric power fuels the flight. Rainbow whispers of what's to come, while dancing flames make hodlers numb.",
+      "hint": "One represents chaos, one represents speed, one represents wealth, one represents the destination, one represents energy, and one represents transformation."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we go with ⚡ speed, 💎 is all we need. A 🃏 predicts our 🔥 fate, as 🌈 makes gains so great!",
+      "hint": "Find the moon, lightning, gem, joker, fire, and rainbow in the emoji sequence."
+    },
+    "answer": [
+      3,
+      5,
+      2,
+      1,
+      6,
+      9
+    ]
   }
 }
