@@ -54572,5 +54572,41 @@
       21,
       20
     ]
+  },
+  "sol_2537": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six seekers of destiny convene. The archer's mark gleams with the gem of night, while electricity ignites the dragon's ancient dream. Between laughter's masks and the butterfly's metamorphosis, a rainbow path emerges—spiral of chance where crystal fate and golden trophy await those brave enough to chase the thunder.",
+      "hint": "Fortune favors the bold. One shines overhead, one burns with purpose, one transforms, one deceives, one glimmers, one rewards."
+    },
+    "easyRiddle": {
+      "text": "Six magical symbols hide in this lottery game: A target for precision, a rocket for dreams, a gem for wealth, a moon for mystery, lightning for chance, and fire for passion. Which six are chosen?",
+      "hint": "Look for: aim, flight, treasure, night, electricity, and heat."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "emlo_944": {
+    "hardRiddle": {
+      "text": "A jester's gamble rides cosmic flames with crystalline fortune, painted by celestial fire as nature's winged messenger dances through prismatic chaos toward inevitable glory.",
+      "hint": "Think of a memecoin journey: luck, speed, wealth, burning energy, magical transformation, and triumphant destiny"
+    },
+    "easyRiddle": {
+      "text": "🎪 The fool plays, 🚀 the coin flies up, 💎 riches gleam, 🔥 it burns bright, 🦋 transforms magic, ⭐ reaches stardom",
+      "hint": "Follow the memecoin hype cycle: gamble, launch, profits, hype, metamorphosis, success"
+    },
+    "answer": [
+      12,
+      1,
+      2,
+      5,
+      8,
+      21
+    ]
   }
 }
