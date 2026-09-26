@@ -54608,5 +54608,41 @@
       8,
       21
     ]
+  },
+  "sol_2538": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's jest, six symbols dance in twilight's crest. The archer's mark beneath the bow, a scale that spins where shadows grow. The dragon's throne of crystalline light, with butterfly wings that pierce the night. Thunder's child in prismic gleam, woven through a jester's dream.",
+      "hint": "Consider the target, the storm, the precious, the winged, the crowned serpent, and the laughing soul."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this lottery game: a bull's-eye, a storm, a gem so rare, a fluttering friend, a scaled beast fair, and one who grins at fortune's game.",
+      "hint": "Look for: aim, electricity, sparkle, metamorphosis, mythology, and mischief."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      8,
+      14,
+      19
+    ]
+  },
+  "emlo_945": {
+    "hardRiddle": {
+      "text": "I'm a digital jester born from chaos and memes, riding waves of hype to celestial dreams. I spark like lightning through the night, my crystal fortune shines so bright. Where rockets dance and dragons play, my gem-like value won't fade away.",
+      "hint": "Think of the ultimate memecoin journey: the entertainment, the volatility, the dreams, the rarity, the speed, and the treasure."
+    },
+    "easyRiddle": {
+      "text": "A joker launches to the moon with sparkles and fire, collecting gems like a dragon's desire. What six things make a memecoin's empire?",
+      "hint": "One is entertainment, one is speed, one is destiny, one is treasure, one is energy, and one is luck."
+    },
+    "answer": [
+      11,
+      1,
+      3,
+      2,
+      5,
+      13
+    ]
   }
 }
