@@ -54770,5 +54770,23 @@
       3,
       7
     ]
+  },
+  "sol_2545": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six sentinels of fate convene. The winged metamorphosis dances with celestial fire, while prismatic tears cascade through the jester's domain. A noble beast exhales fortune's spark upon the stage where music births the crown. Which six tokens of destiny align when chaos and grace become one?",
+      "hint": "Consider transformation, achievement, and the meeting of earthly performance with cosmic power."
+    },
+    "easyRiddle": {
+      "text": "I contain a target and a rocket reaching for the gem in the sky. Lightning and fire illuminate the circus where a butterfly performs. What six symbols together spell luck?",
+      "hint": "Look for success, speed, treasure, weather, spectacle, and change."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      5,
+      8,
+      21
+    ]
   }
 }
