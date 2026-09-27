@@ -54734,5 +54734,41 @@
       19,
       2
     ]
+  },
+  "sol_2544": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil of night, six sentinels of fate converge: the celestial guardian weeps silver tears, the ancient wyrm coils round ambition's flame, the jester's mask conceals the threshold between worlds, while nature's smallest dancer pirouettes through prismatic light, and twin forces—one that rends the sky, one born of stellar dust—waltz in eternal discord. Seek the number of chaos, the gem of infinity, and the beacon that guides lost souls home.",
+      "hint": "Look to the sky and earth, to chance and chaos, to what flies and what blinds, to the mask of folly and the crown of victory's opposite."
+    },
+    "easyRiddle": {
+      "text": "Six signs of luck and wonder: a target for precision, a dragon of ancient power, a joker of mischief, fire's wild dance, lightning's quick strike, and a star that shines eternal. Which six will destiny choose?",
+      "hint": "One helps you aim, one breathes, one laughs, one burns, one flashes, and one twinkles above."
+    },
+    "answer": [
+      0,
+      13,
+      19,
+      5,
+      4,
+      21
+    ]
+  },
+  "emlo_949": {
+    "hardRiddle": {
+      "text": "To the 🚀 we fly with 💎 so bright, ⚡ strikes twice in the 🔥 of night. The 🌙 watches over our 🎪 delight, which six emojis make this memecoin right?",
+      "hint": "Think of a rocket launch to the moon with gems and electricity, powered by circus energy and fire."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 goes up, a 💎 shines, ⚡ flashes, 🔥 burns, the 🌙 glows, and the 🎪 spins around. Name these six!",
+      "hint": "Look for space, treasure, energy, heat, night sky, and fun."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      3,
+      7
+    ]
   }
 }
