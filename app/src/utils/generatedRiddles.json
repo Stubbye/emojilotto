@@ -54716,5 +54716,23 @@
       5,
       19
     ]
+  },
+  "emlo_948": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with blazing speed, while fortune's jewels sparkle in the darkness. Lady Luck dances with electric chaos, her cosmic fortune crowned above all. What six symbols unite in this memecoin's explosive destiny?",
+      "hint": "Think of a rocket's journey: fuel, destination, rewards, and the magical chaos along the way"
+    },
+    "easyRiddle": {
+      "text": "A 🚀 goes BOOM with ⚡ to reach the 🌙 where ✨ gems shine bright. Lucky 🍀 and 🎯 guide your fortune. Which six emojis spell memecoin magic?",
+      "hint": "Rockets, lightning, moon, sparkles, clover, and one more..."
+    },
+    "answer": [
+      1,
+      5,
+      3,
+      9,
+      19,
+      2
+    ]
   }
 }
