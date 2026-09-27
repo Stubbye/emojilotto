@@ -54788,5 +54788,23 @@
       8,
       21
     ]
+  },
+  "sol_2546": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void's obsidian veil, six celestial whispers dance: the jester's masked deceit, the scaled serpent of chaos ascending through prismatic storms, the winged messenger of metamorphosis, the radiant beacon bound in crystalline prison, the thunderous pulse of destiny's kiss, and the verdant talisman of providence's embrace. Seek them where fate and folly entwine.",
+      "hint": "Think of symbols that blend chance, chaos, transformation, light, electricity, and luck. One wears a grin, one breathes fire through dimensions, one floats weightless, one shatters barriers."
+    },
+    "easyRiddle": {
+      "text": "I hold six treasures: a playful trickster, a powerful beast, a delicate flier, a distant guardian, a wild surge, and a lucky charm. What am I?",
+      "hint": "Joker, Dragon, Butterfly, Moon, Lightning, Clover"
+    },
+    "answer": [
+      8,
+      13,
+      7,
+      3,
+      4,
+      19
+    ]
   }
 }
