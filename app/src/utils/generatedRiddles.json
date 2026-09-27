@@ -54680,5 +54680,23 @@
       18,
       20
     ]
+  },
+  "sol_2541": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's veil, six sentinels dance in shadow's tale. The archer's mark dissolves to gem, while winged ascension claims its stem. Thunder's kiss awakens blaze, through butterfly's prismatic maze. What fortune spins where light is born, and magic mocks the break of morn?",
+      "hint": "Seek the union of aim and wealth, where flight and electricity steal stealth."
+    },
+    "easyRiddle": {
+      "text": "I am six pieces of destiny's game: a target, a rocket, a gem so tame, lightning that crackles, fire that glows, a butterfly dancing where starlight flows. What am I?",
+      "hint": "One aims, one flies, one shines bright, one strikes fast, one burns hot, one flutters light."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      8
+    ]
   }
 }
