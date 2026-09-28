@@ -54860,5 +54860,23 @@
       19,
       17
     ]
+  },
+  "sol_2549": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six mysteries converge in shadow's reveal. The archer's mark meets the void's gentle glow, while chaos wields lightning where hidden currents flow. A winged spirit mirrors the fortune's jest, as crystalline brilliance puts destiny to test.",
+      "hint": "Seek the intersection of chance, celestial bodies, and transformative power. One brings aim, one brings fortune's game, one brings flight, one brings electric might, one brings reflection, and one brings crystalline perfection."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a target for precision, a rocket toward dreams, a gem of value, the moon's mystique, lightning's power, and a crystal's clarity. Which six complete the lottery of fate?",
+      "hint": "Think of ambition, wealth, nature's light, energy, and precious things."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      21
+    ]
   }
 }
