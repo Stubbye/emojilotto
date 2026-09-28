@@ -54824,5 +54824,41 @@
       8,
       9
     ]
+  },
+  "sol_2548": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers await: the archer's eternal gaze meets the swift messenger of the void. Twin luminescence crowns the night—one distant, one fractured through prism's breath. The jester's grin holds secrets, while scaled majesty guards what glimmers between. Chaos ordained by cubes, beauty ascending on gossamer wings.",
+      "hint": "Consider celestial bodies, speed, fortune, nobility, transformation, and the instruments of chance"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: an archer's mark, a swift vessel, a precious stone, the night's pale sentinel, a crowned serpent, and the cards of fate. Which six light your path to fortune?",
+      "hint": "Think of targets, space travel, jewels, the night sky, mythical creatures, and games"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      11
+    ]
+  },
+  "emlo_951": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, sparkling brilliance lighting my path. A mystical fox guards treasures that shimmer, while fortune spins wildly beneath the joker's gaze. What six symbols reveal the memecoin's destiny?",
+      "hint": "Think of the journey: ascension, energy, wealth, chance, luck, and trickery"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, ⚡ powers it, 💎 is the treasure, 🌙 is the goal, 🍀 brings luck, 🃏 plays the game. Which six emojis are these?",
+      "hint": "A rocket, lightning, gem, moon, clover, and joker"
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      3,
+      19,
+      17
+    ]
   }
 }
