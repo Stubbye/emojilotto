@@ -54878,5 +54878,41 @@
       4,
       21
     ]
+  },
+  "sol_2550": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and the trickster's smile meets the winged metamorphosis—beneath the gem of night's purple veil, a crystalline bolt strikes the center of all games. Chaos and brilliance converge where the mask of fate reveals the dragon's treasure.",
+      "hint": "Think of chance, the heavens, transformation, night, electricity, and deception as your guides through shadow and light."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hide in this verse: one burns with heat, one shines from above, one sparkles with value, one morphs and flies, one tricks and deceives, and one splits the sky with power. Which six dance together in fortune's game?",
+      "hint": "Look for elements of nature, magic, gaming, and transformation."
+    },
+    "answer": [
+      5,
+      3,
+      2,
+      8,
+      19,
+      1
+    ]
+  },
+  "emlo_953": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, leaving trails of fortune. My gemstone heart sparkles with cosmic energy, while the jester grins at my volatile dance. What six symbols mark my chaotic ascension?",
+      "hint": "Think of a memecoin's journey: propulsion, destination, value, volatility, luck, and spectacle"
+    },
+    "easyRiddle": {
+      "text": "A coin shoots upward with a flash of power, heading toward the glowing orb. Precious stones shine bright, the fool celebrates, and sparkling magic fills the sky. Which six emojis tell this story?",
+      "hint": "Picture a rocket taking something valuable to the moon with lightning speed and magical sparkles, plus a joker laughing"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      10,
+      20
+    ]
   }
 }
