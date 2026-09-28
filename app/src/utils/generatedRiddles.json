@@ -54806,5 +54806,23 @@
       4,
       19
     ]
+  },
+  "sol_2547": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six dancers pirouette through cosmic space. The emerald whispers of eternity's throne, while thunder's tongue tastes what was sown. The winged metamorphosis kisses the arc where destinies collide and sparks ignite the dark.",
+      "hint": "One strikes with velocity, one glimmers with price, one burns with ancient device, one transforms with device, one arcs with refraction, one strikes with extraction."
+    },
+    "easyRiddle": {
+      "text": "I am aimed at dreams, I race through stars, I shine with worth, I roar with sparks, I flutter free, and I paint the sky in seven parts.",
+      "hint": "Five of us dance together: a goal, speed, wealth, power, and transformation. One more completes the spectrum."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      9
+    ]
   }
 }
