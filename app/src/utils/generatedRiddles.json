@@ -55040,5 +55040,23 @@
       4,
       6
     ]
+  },
+  "sol_2555": {
+    "hardRiddle": {
+      "text": "Where celestial silence meets infernal dance, six spirits converge in fortune's trance. The hunter's mark aligns with heaven's gaze, while winged metamorphosis ignites the blaze. Precious facets catch the sparkling gleam, and fortune's jester grins within the dream.",
+      "hint": "One watches from above, one transforms below, one glitters eternally, one deals in chance, one marks the way, and one performs where wonder grows."
+    },
+    "easyRiddle": {
+      "text": "Find the target in the night sky, the gem that sparkles bright, the joker who laughs at fate, the butterfly that dances free, the rocket that aims true, and the fire that burns eternal.",
+      "hint": "Six symbols: one you aim at, one up high, one precious, one laughing, one with wings, one that launches."
+    },
+    "answer": [
+      0,
+      1,
+      21,
+      8,
+      2,
+      6
+    ]
   }
 }
