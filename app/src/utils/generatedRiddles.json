@@ -54914,5 +54914,23 @@
       10,
       20
     ]
+  },
+  "sol_2551": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the fortune-teller's grin, six secrets dance between the crown and the garden's twin. The archer's dream meets radiance unbound, while wings flutter near where gems are found. Lightning crowns the jester's mirth, as melodies echo from nature's birth.",
+      "hint": "Consider symbols of luck, performance, sky, growth, and what musicians value most."
+    },
+    "easyRiddle": {
+      "text": "A bright target shines near a rocket's flame, a precious gem and moon share fame. Lightning strikes where the joker plays, and a butterfly blooms through magical maze.",
+      "hint": "Look for: something you aim at, something that flies up, something precious, night's companion, electricity, a card character, and a winged creature."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
   }
 }
