@@ -55004,5 +55004,41 @@
       5,
       10
     ]
+  },
+  "sol_2554": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's descent, a jeweled flame dances with the trickster's grin. The winged wanderer seeks the celestial pearl through chaos's electric veil, while the masked deceiver plays the game of chance eternal.",
+      "hint": "One marks direction, one illuminates darkness, one gleams with worth, one rules the night, one brings chaos, and one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "I aim at luck, I burn with desire, I shine like treasure, I command the night, I strike with force, and I wear a silly smile. What am I?",
+      "hint": "Six symbols of fate: aim, fire, wealth, moon, power, and jest."
+    },
+    "answer": [
+      0,
+      4,
+      2,
+      3,
+      5,
+      17
+    ]
+  },
+  "emlo_956": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with burning speed, gems shimmer as fortune strikes with electric need. Dancing through chaos with colorful tricks, my treasure glows bright when luck does fix.",
+      "hint": "A journey to wealth requires speed, fortune, sparkle, chaos, electricity, and precious stones"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning strikes the gem, fire burns so bright, and sparkles dance again",
+      "hint": "Look for: launch vehicle, night sky destination, gemstone, electricity, flames, and glitter"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      4,
+      6
+    ]
   }
 }
