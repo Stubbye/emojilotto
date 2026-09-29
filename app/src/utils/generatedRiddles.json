@@ -54932,5 +54932,41 @@
       4,
       8
     ]
+  },
+  "sol_2552": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six mystic tokens dance in fortune's game. The gem-crowned jester pirouettes through night, while crystalline butterflies catch starlit light. What blazes eternal yet strikes but once, revealed by the prism's seven-fold waltz?",
+      "hint": "Look for: a marksman's precision, a trickster's grin, a precious stone's gleam, wings of metamorphosis, the void's majesty, and the spectrum's bride"
+    },
+    "easyRiddle": {
+      "text": "Six glowing secrets hide in shadow's keep: a target's center, a jester's leap, a gem so bright, a butterfly's flight, the moon above, and fire's might. What lottery numbers shall set you free?",
+      "hint": "Think of: aiming, laughing, precious things, transformation, night sky, and heat"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      8,
+      3,
+      6
+    ]
+  },
+  "emlo_954": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with speed untamed, my brilliance strikes like nature's fury, I shimmer with precious allure, my fortune spins on chance's wheel, and luck blooms eternal in my garden of fortune.",
+      "hint": "A memecoin hodler's journey: destination, velocity, value, luck, and symbols of prosperity"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go with rocket speed! ⚡ Lightning fast gains, shiny gems, lucky dice rolls, and four-leaf fortune await the brave diamond hands!",
+      "hint": "Think of moon, speed, electricity, treasure, randomness, and luck symbols"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      11,
+      19,
+      22
+    ]
   }
 }
