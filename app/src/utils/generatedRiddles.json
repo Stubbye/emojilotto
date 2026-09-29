@@ -54968,5 +54968,41 @@
       19,
       22
     ]
+  },
+  "sol_2553": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six dancers of fate convene. The winged metamorphosis spirals through luminescent dust, whilst the jester's gemstone heart beats beneath a crown of thunder. Seek the celestial guardian and the emerald charm—all converge where chaos blooms in crystalline harmony.",
+      "hint": "One flies upward, one glows above, one sparkles mysteriously, one brings laughter, one shimmers with transformation, and one grants wishes."
+    },
+    "easyRiddle": {
+      "text": "I point the way to wishes made. I light the sky so bright. A clown makes me laugh with glee. A stone that catches light. Wings that dance through the air so free. Thunder's golden might.",
+      "hint": "Think of: aiming, nighttime, entertainment, jewelry, insects, and storms."
+    },
+    "answer": [
+      0,
+      1,
+      7,
+      11,
+      4,
+      19
+    ]
+  },
+  "emlo_955": {
+    "hardRiddle": {
+      "text": "I chase the digital moon with electric speed, a gemstone path through chaos I lead. Where fortune spins and luck takes flight, I guide the holders to diamond night.",
+      "hint": "Think of the journey: direction, speed, value, destiny, chance, and brilliance"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes fast, moon glows at night, fire burns hot, and sparkles light the way to riches!",
+      "hint": "Count the things that help you win in crypto: up trend, value, speed, destination, energy, and magic"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      10
+    ]
   }
 }
