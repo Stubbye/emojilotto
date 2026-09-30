@@ -55058,5 +55058,41 @@
       2,
       6
     ]
+  },
+  "sol_2556": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six whispers converge: the archer's eternal mark, the vessel piercing heavens' veil, the heart's crystalline treasure, the wanderer's pale witness, the serpent's primal roar, and luck's jester's grin. In chaos and cosmos entwined, they hold the answer.",
+      "hint": "Think of destiny, luck, mythical power, night's guardian, and dual faces of chance"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fate: a bullseye dream, a sky-piercing arrow, a gleaming stone, a silent watcher above, a legendary beast, and a laughing trickster. What lottery numbers do they reveal?",
+      "hint": "One aims, one flies, one sparkles, one glows at night, one is mythical, one plays tricks"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      14,
+      19
+    ]
+  },
+  "emlo_957": {
+    "hardRiddle": {
+      "text": "I chase the lunar dream with blazing speed, a jester's fortune gleams with electric greed. Where celestial treasures shimmer bright, a fox dances through the purple night. Lightning strikes the gem so fine, while fortune's wheel makes diamonds shine.",
+      "hint": "Think of a memecoin's journey to the moon with chaotic energy and precious rewards"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up fast, joker laughs at luck, lightning strikes quick, gem shines bright, purple dreams glow, and fortune spins round and round.",
+      "hint": "Six symbols of crypto chaos and moonbound fortune"
+    },
+    "answer": [
+      1,
+      4,
+      12,
+      2,
+      15,
+      11
+    ]
   }
 }
