@@ -55094,5 +55094,41 @@
       15,
       11
     ]
+  },
+  "sol_2557": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial void, a gemstone glimmers in the void's embrace. Swift as thunder's kiss, celestial fire dances with ephemeral wings, while the jester's grin holds secrets of the abyss. Count six where destiny and chaos intertwine, where the archer's mark crowns the threshold between worlds.",
+      "hint": "Consider what marks targets, what speeds through space, what shines with inner light, what strikes with fury, what flutters between realms, and what wears the mask of chance."
+    },
+    "easyRiddle": {
+      "text": "Six symbols of fortune await: one aims true, one reaches for stars, one gleams precious, one crackles bright, one dances on wind, and one holds all secrets with a smile.",
+      "hint": "Think of: something you aim at, something that flies high, something that sparkles, something that zaps, something with delicate wings, and something with a mischievous grin."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      19
+    ]
+  },
+  "emlo_958": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, my gemstone heart sparkles with fortune's fire. A jester's luck guides my zigzag dance through chaos, while my colorful spirit rises like a butterfly breaking free from the earth's gravity.",
+      "hint": "Five words: Moon, Lightning, Gem, Sparkles, Joker, Fire"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, ⚡ strikes quick, 💎 shines bright, 🌙 glows at night, ✨ sparkles pretty, 🔥 burns hot. Which six am I?",
+      "hint": "One is for speed, one for electricity, one for value, one for dreams, one for magic, one for power"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      10,
+      6
+    ]
   }
 }
