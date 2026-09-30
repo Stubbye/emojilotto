@@ -55166,5 +55166,41 @@
       5,
       11
     ]
+  },
+  "sol_2559": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial sphere, and lightning births the flame eternal. The gemstone whispers secrets to the jester's grin, while metamorphosis dances with luck's golden glimmer. Six truths hide in chaos: the target's eye reflects the moon's domain, thunder's kiss ignites passion's blaze, and the prism of chance laughs in theatrical grace.",
+      "hint": "One guides aim, one celestial, one precious, one electrical, one glowing, one theatrical"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of destiny: The archer's mark, the night's guardian, the spark of gods, the treasure of earth, the masquerade's fool, and the butterfly's kiss of transformation.",
+      "hint": "Aim, Night, Power, Wealth, Acting, Change"
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      1,
+      19,
+      8
+    ]
+  },
+  "emlo_960": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, my gem-like sparkles make believers bleed. A dragon's fire fuels my flight, while crystal waves amplify the hype. What am I?",
+      "hint": "A memecoin's journey from launch to glory"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, diamond hands shine, lightning fast gains, fire burning bright. What six symbols represent the ultimate pump?",
+      "hint": "Think of a crypto moonshot"
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      2,
+      10,
+      21
+    ]
   }
 }
