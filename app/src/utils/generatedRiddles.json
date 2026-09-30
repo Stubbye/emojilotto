@@ -55130,5 +55130,41 @@
       10,
       6
     ]
+  },
+  "sol_2558": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, and trickster's grin meets nature's metamorphosis—six tokens of destiny converge. The archer's mark aligns with storm's fury, while gemstone brilliance crowns the jester's realm, and winged transformation spirals through the mystic gate between laughter and lightning.",
+      "hint": "One summons speed, one grants wishes, one reveals truth through prisms, one masks reality, one soars eternal, one strikes swift vengeance."
+    },
+    "easyRiddle": {
+      "text": "Find the lightning that strikes, the gem that shines, the joker that grins, the butterfly that flies, the rocket that launches, and the target that waits.",
+      "hint": "Look for electricity, treasure, laughter, wings, velocity, and a circle with center."
+    },
+    "answer": [
+      5,
+      2,
+      19,
+      8,
+      1,
+      0
+    ]
+  },
+  "emlo_959": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial sphere with electric speed, my gems sparkle as fortune dances with fire beneath a cosmic gate of luck.",
+      "hint": "Think of explosive growth, precious rewards, and the journey to astronomical gains"
+    },
+    "easyRiddle": {
+      "text": "What takes you 🚀 to the 🌙 with ⚡ power, shines like 💎, burns bright like 🔥, and multiplies your luck like rolling 🎲?",
+      "hint": "Combine the symbols of speed, destination, energy, value, intensity, and chance"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      5,
+      11
+    ]
   }
 }
