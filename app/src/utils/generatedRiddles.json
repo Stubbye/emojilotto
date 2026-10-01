@@ -55202,5 +55202,41 @@
       10,
       21
     ]
+  },
+  "sol_2561": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's twin faces, a winged dancer pirouettes through spectral arcs. The archer's dream glows beside the crown of eternal night, while crystalline thunder sings of transformation's fleeting grace.",
+      "hint": "Look for: a night sky guardian, a performer's mask, wings of metamorphosis, a brilliant prism, a celestial jewel, and the bolt that breaks all chains."
+    },
+    "easyRiddle": {
+      "text": "I shine at night with the performers' joy. Lightning strikes near gems that glow. Wings flutter through the rainbow's color. What six treasures dance together?",
+      "hint": "Think of: moon, masks, butterfly, lightning, gem, and rainbow."
+    },
+    "answer": [
+      3,
+      19,
+      8,
+      5,
+      2,
+      9
+    ]
+  },
+  "emlo_961": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial heights, my trail blazes with passionate light. Where gems sparkle in the cosmic dance and fortune strikes like electricity, a magical creature soars through rainbow waves. What six treasures guide the memecoin believer to legendary riches?",
+      "hint": "Think of a journey: propulsion, destination, wealth, luck, magic, and celebration"
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, ⚡ strikes the 💎, 🦋 dances through 🌈. What six emojis complete this memecoin adventure?",
+      "hint": "Follow the rocket's path from launch to the moon, find the treasure, and witness the magic"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      8,
+      9
+    ]
   }
 }
