@@ -55310,5 +55310,41 @@
       7,
       8
     ]
+  },
+  "sol_2564": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens of fate align in trance. The archer's mark reflects the gem's deep glow, while lunar whispers guide the fortune's flow. Thunder's kiss ignites the jester's grin, and butterfly's waltz spins fortune's win. What six sacred signs shall lottery's bell compel?",
+      "hint": "One points true, one burns bright, one laughs in masks, one glows at night, one dances free, one strikes with might"
+    },
+    "easyRiddle": {
+      "text": "I seek six symbols of luck and chance: a mark to aim, a gem to dance, fire that strikes, a fool who grins, a creature that floats, and light that spins. What are they?",
+      "hint": "Think of targets, precious stones, electricity, jesters, insects, and sparkling effects"
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      11,
+      8,
+      19
+    ]
+  },
+  "emlo_964": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric speed, a gemstone prize is what you need. Dragon's fire lights my way, while circus magic saves the day. Rainbow sparkles mark my trail, will this memecoin ever fail?",
+      "hint": "Think of a rocket's journey through the cosmos with magical elements"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines bright, ⚡ strikes with might. 🌙 awaits above, 🔥 shows the love, ✨ marks the spot!",
+      "hint": "Count the emojis - you need exactly 6 for this lucky ticket"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      10
+    ]
   }
 }
