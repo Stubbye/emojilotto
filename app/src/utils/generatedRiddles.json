@@ -55274,5 +55274,41 @@
       5,
       21
     ]
+  },
+  "sol_2563": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, a winged metamorphosis spirals through prismatic arcs. The archer's eternal mark gleams in the abyss, while nature's four-leafed whisper echoes beneath the jester's grin. Seek the six that birth destiny's shimmer.",
+      "hint": "One guides wishes skyward, one transforms through chaos, one reflects all colors, one multiplies chance, one conceals truth, one blesses the fortunate."
+    },
+    "easyRiddle": {
+      "text": "Find the lucky symbols: a bright heavenly body that watches over night, a glowing rock beneath the earth, the clover's protective charm, the joker's mysterious mask, wings that dance freely, and the sparkle of pure magic.",
+      "hint": "Think of luck, transformation, light, chaos, nature's blessing, and celestial guardians."
+    },
+    "answer": [
+      1,
+      2,
+      20,
+      4,
+      8,
+      21
+    ]
+  },
+  "emlo_963": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, my gems sparkle as fortune dances with chance. The jester's magic creates waves of prosperity, while fire ignites the butterfly effect of gains. What six symbols unite in this memecoin destiny?",
+      "hint": "Think of a journey: where you go, what powers it, what you seek, what you feel, who guides you, and what surrounds you."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, lightning strikes with ✨, gems and 🔥 fuel the 🎪, and a 🦋 watches the show. Find these six!",
+      "hint": "Look for: rocket, moon, sparkles, fire, gem, circus, and butterfly - but pick only 6!"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      7,
+      8
+    ]
   }
 }
