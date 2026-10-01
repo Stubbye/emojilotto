@@ -55238,5 +55238,41 @@
       8,
       9
     ]
+  },
+  "sol_2562": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the celestial veil, a gemstone drinks starlight while chaos crackles beneath. The scaled ancient guardian coils through prismatic tears, and winged metamorphosis dances where thunder births its twin flame. Six keys unlock destiny's chamber—seek the marked, the precious, the crowned, the transformed, the electric, and the luminous echo of chaos itself.",
+      "hint": "Look for: precision, value, majesty, transformation, raw power, and reflection. One burns, one soars, one glimmers from above, one crawls with wisdom, one transcends, one strikes."
+    },
+    "easyRiddle": {
+      "text": "I am the aim you seek, the jewel that glows, the lightning's call, the dragon's gold, the butterfly's grace, and the star's fire. Six treasures hide in plain sight—which shall you choose?",
+      "hint": "Think of hitting a target, collecting gems, invoking the dragon, watching lightning, seeing a butterfly transform, and finding a shining star."
+    },
+    "answer": [
+      0,
+      2,
+      13,
+      8,
+      1,
+      21
+    ]
+  },
+  "emlo_962": {
+    "hardRiddle": {
+      "text": "I launch to the stratosphere with electric speed, seeking gems that sparkle like dragon fire. Lady luck spins her wheel as I dance with fortune under a rainbow of possibilities. What six symbols mark my journey to the moon?",
+      "hint": "Think of a memecoin's path: propulsion, wealth, chance, energy, dreams, and luck"
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms up. Lightning strikes fast. A gem shines bright. The moon glows high. Fire burns hot. A star twinkles. Which six are in my lottery tonight?",
+      "hint": "Count the objects I named"
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      21
+    ]
   }
 }
