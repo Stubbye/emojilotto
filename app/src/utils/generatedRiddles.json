@@ -55472,5 +55472,23 @@
       9,
       11
     ]
+  },
+  "sol_2569": {
+    "hardRiddle": {
+      "text": "Where fortune's arrows pierce the veil between earth's amber breath and the celestial throne, a prism of fortune splits the storm's white fury into spectral threads. The shapeshifter of cunning observes from shadows as ancient scales of chance pirouette with the delicate wingbeat of metamorphosis, while the monarch's crown of flames consumes all certainty.",
+      "hint": "One guides your aim, one guards your luck, one holds the cosmos, one splits the sky, one transforms fate, one burns ambition."
+    },
+    "easyRiddle": {
+      "text": "I point the way to destiny. I unlock the vault of dreams. I light the path through darkness. I reign above all earthly things. I shift between two forms of fortune. I dance with reckless chance.",
+      "hint": "Think of: targeting luck, hidden treasures, splitting storms, night skies, clever trickery, and games of risk."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      21,
+      13,
+      11
+    ]
   }
 }
