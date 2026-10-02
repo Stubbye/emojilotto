@@ -55346,5 +55346,23 @@
       5,
       10
     ]
+  },
+  "sol_2565": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, a jester's mask conceals the path to radiant treasure. The serpent coils beneath prismatic light, while nature's winged messenger seeks the elusive mark through storms of chance and crystalline fortune.",
+      "hint": "Consider what glimmers in darkness, what controls fate, what transforms, what seeks, what illuminates, and what guards secrets."
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold the key: a beast of myth breathes near a laughing face, a shining stone rests where lightning strikes, a winged dancer circles fortune's target, and prisms catch the light between them all.",
+      "hint": "Look for a magical creature, a jester, a gem, electricity, something that flies, and a target or circle."
+    },
+    "answer": [
+      1,
+      4,
+      12,
+      13,
+      8,
+      0
+    ]
   }
 }
