@@ -55364,5 +55364,41 @@
       8,
       0
     ]
+  },
+  "sol_2566": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a celestial dancer twirls through crystalline corridors. The jester's laughter echoes as lightning weaves through gemstone labyrinths, while the winged trickster watches starlight shimmer upon forgotten stages. Six tokens of destiny converge where chaos performs its ancient ballet.",
+      "hint": "Consider the court, the heavens, the elements, and those who shimmer with otherworldly grace."
+    },
+    "easyRiddle": {
+      "text": "A target marks the beginning, a rocket soars high. A gem sparkles bright, the moon glows at night. Lightning strikes fast, and a joker makes you laugh. What six symbols hold your fate?",
+      "hint": "Read each sentence carefully—the answer is hidden in plain sight."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      12
+    ]
+  },
+  "emlo_965": {
+    "hardRiddle": {
+      "text": "I launch into the void seeking fortune, powered by electric energy and blazing ambition. My treasure gleams like crystalline fortune, while chaos dances with fortune's wheel. What six symbols define my moonbound journey?",
+      "hint": "Think of a memecoin's wild ride to the moon with energy, luck, and dazzling rewards."
+    },
+    "easyRiddle": {
+      "text": "A coin goes to the 🌙, rides on ⚡ and 🔥, finds 💎, spins the 🎲, and shines with ✨. Name these six symbols of crypto dreams.",
+      "hint": "Memecoin essentials: destination, power, treasure, luck, and sparkle."
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      2,
+      11,
+      10
+    ]
   }
 }
