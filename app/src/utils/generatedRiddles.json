@@ -55436,5 +55436,41 @@
       7,
       19
     ]
+  },
+  "sol_2568": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, a trickster's grin meets nature's wheel. The archer's mark aligns with dreams ascending, while a creature of cunning wit bends the cosmic thread. Seven-pointed luminescence crowns the symphony, and chaos blooms in prismatic surrender.",
+      "hint": "Look for the meeting of chance and destiny, where earthly cunning ascends to starlight."
+    },
+    "easyRiddle": {
+      "text": "Find the target and rocket reaching high, the joker's smile, the fox so sly, the star that shines, and sparkles that fly.",
+      "hint": "One points forward, one goes up, one tricks, one tricks cleverly, one glows eternal, one twinkles bright."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      21,
+      10,
+      20
+    ]
+  },
+  "emlo_967": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights, my gem sparkles with electric might. Where rainbow waves meet dragon's fire, and a joker's luck takes you higher. What six treasures guide this cosmic quest?",
+      "hint": "Think of a memecoin's journey: propulsion, value, destination, electricity, luck, and celebration."
+    },
+    "easyRiddle": {
+      "text": "A 🚀 carries a 💎 to the 🌙. Lightning ⚡ strikes with luck from 🃏, and 🌈 waves celebrate. What are these six?",
+      "hint": "Count the emojis in the easy riddle text - they are the answer!"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      11
+    ]
   }
 }
