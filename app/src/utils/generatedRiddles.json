@@ -55400,5 +55400,41 @@
       11,
       10
     ]
+  },
+  "sol_2567": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, a jester's twin masks dance with the dragon's desire. Through prisms of gem and crystal's refrain, the butterfly ascends where thunder and rainbow abstain. Six secrets entwined in chaos and grace—find the numbered sanctum of this fateful place.",
+      "hint": "One points the way, one lights the sky, one rules with laughter, one guards the high. Two fractured mirrors of light's pure form, one creature transforms the celestial storm."
+    },
+    "easyRiddle": {
+      "text": "I am six: the archer's mark, the sky's bright spark, the fool who mocks, the scaled guardian locked, the stone of sight, and wings of flight. Together we spin where destinies win.",
+      "hint": "One is aimed, one is aimed upward, one is funny, one is scaly, one is hard, one flies."
+    },
+    "answer": [
+      0,
+      5,
+      18,
+      13,
+      20,
+      8
+    ]
+  },
+  "emlo_966": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with velocity and brilliance, leaving a trail of fortune. My precious heart gleams as I strike with electric power, dancing through volatility like a jester's game. Where luck meets cosmic destiny, I bloom eternal.",
+      "hint": "Think of speed, value, chance, electricity, luck, and growth all converging in the memecoin universe"
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts toward 🌙, carrying 💎 that ⚡ strikes. 🎪 celebrates with 🍀 luck.",
+      "hint": "A moonshot journey with gems, electricity, celebration, and fortune"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      7,
+      19
+    ]
   }
 }
