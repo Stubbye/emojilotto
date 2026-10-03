@@ -55562,5 +55562,23 @@
       5,
       19
     ]
+  },
+  "sol_2573": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's pale gaze, and serpent's fire dances through prismatic haze. The jester's laugh echoes where gems catch starlight, while swift-pawed shadow leaps through fortune's flight. In this celestial theater of chance, six symbols waltz their cryptic dance.",
+      "hint": "Seek the hunter, the celestial eye, the chaos-bringer, the trickster's sigh, the jeweled light, and the cunning thief's delight."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this game of luck: a red-eyed trickster, a gem so struck, a dragon's fire, a fox so sly, a target true, and the moon on high.",
+      "hint": "Think of games, mythical creatures, and nighttime skies."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      13,
+      12,
+      3
+    ]
   }
 }
