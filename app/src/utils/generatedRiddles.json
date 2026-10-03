@@ -55490,5 +55490,23 @@
       13,
       11
     ]
+  },
+  "emlo_968": {
+    "hardRiddle": {
+      "text": "I launch to the celestial vault with electric speed, seeking the glowing sphere of fortune. When fortune strikes like a spark, I ignite with brilliance. The jester grins as gems sparkle, while nature's transformation dances nearby. What six symbols mark the path to diamond-handed glory?",
+      "hint": "Think of a memecoin's journey: speed, destination, wealth, luck, magic, and transformation."
+    },
+    "easyRiddle": {
+      "text": "A coin blasts off with lightning to reach the moon. Gems shine bright while fire burns hot. A butterfly dances as sparkles fall. Which six emojis describe this journey?",
+      "hint": "Look for: launch, speed, destination, wealth, luck, and beauty."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      8
+    ]
   }
 }
