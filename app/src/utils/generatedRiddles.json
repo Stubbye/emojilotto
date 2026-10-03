@@ -55508,5 +55508,23 @@
       5,
       8
     ]
+  },
+  "emlo_969": {
+    "hardRiddle": {
+      "text": "I'm a memecoin dreamer with electric speed, reaching for riches beyond all greed. Sparkle and dance where magic ignites, as fortune strikes like bolts in the night. Two gems of luck sit by my side, while my dragon spirit cannot hide.",
+      "hint": "Think of the journey from earth to wealth, powered by chance and ethereal stealth."
+    },
+    "easyRiddle": {
+      "text": "🚀 takes you up, ⚡ gives you power, ✨ makes it magical every hour. 🎲 brings the luck, 💎 shows the prize, 🐉 guards the treasure before your eyes.",
+      "hint": "These six symbols represent the ultimate memecoin adventure."
+    },
+    "answer": [
+      1,
+      4,
+      9,
+      11,
+      2,
+      13
+    ]
   }
 }
