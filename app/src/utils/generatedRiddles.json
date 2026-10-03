@@ -55580,5 +55580,41 @@
       12,
       3
     ]
+  },
+  "sol_2574": {
+    "hardRiddle": {
+      "text": "Where celestial fire kisses the crystalline dreamer's path, a winged metamorphosis dances through prismatic arcs. The jester's fortune spins beneath fortune's gleam, while earthbound lightning charges the performer's stage. Six secrets hide in fortune's baroque masquerade.",
+      "hint": "One soars through transformation, one marks destiny's center, one sparkles with chance, one burns from above, one glows from within, one bends light itself."
+    },
+    "easyRiddle": {
+      "text": "I contain a cosmic pearl, a precious stone, a mystical performer, a natural wonder, electricity's cousin, and a spinning wheel. What six treasures complete the circle?",
+      "hint": "Look to the sky, deep earth, the stage, the storm, the spectrum, and lady luck's instrument."
+    },
+    "answer": [
+      1,
+      5,
+      11,
+      18,
+      20,
+      23
+    ]
+  },
+  "emlo_971": {
+    "hardRiddle": {
+      "text": "I chase the ⭐ with electric ⚡ speed, a 🚀 fueled by 💎 greed. When 🔥 meets the 🌙, my value will rise, watch my sparkle reach the skies.",
+      "hint": "A memecoin's journey from launch to moon, powered by energy and precious gains."
+    },
+    "easyRiddle": {
+      "text": "Blast off with ⚡ and 🚀, find the 💎 and 🌙, feel the 🔥 below.",
+      "hint": "These six symbols represent a crypto rocket's essential elements."
+    },
+    "answer": [
+      22,
+      1,
+      5,
+      3,
+      6,
+      2
+    ]
   }
 }
