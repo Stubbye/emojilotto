@@ -55526,5 +55526,41 @@
       2,
       13
     ]
+  },
+  "sol_2572": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial flame, six secrets dance in shadow's game. The gem of night whispers to the bolt's bright scream, while wings of chance flutter through fortune's dream. The dragon's ancient wisdom guards the masked deception's gleam, and where music echoes, destiny's threads supreme.",
+      "hint": "Seek the marksman's goal, the star's eternal glow, the jeweled night, the storm's fierce flow, the mythic beast of old, and melody's sacred hold."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: one aims true, one burns bright, one sparkles in the night, one roars with might, one sings with all its might, and one deceives with theatrical fright.",
+      "hint": "Think of a target, a fire, a gem, a dragon, a guitar, and a joker."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      13,
+      16,
+      19
+    ]
+  },
+  "emlo_970": {
+    "hardRiddle": {
+      "text": "I launch to lunar heights with electric speed, a gem that sparkles as my community feeds. When fire meets fortune under purple skies, the joker's luck multiplies. What six symbols mark this memecoin's rise?",
+      "hint": "Think of the journey from Earth to Moon, the energy of growth, and the mystical elements that promise riches."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gem shines bright, moon glows high, fire burns hot, joker brings luck. These six bring the memecoin magic!",
+      "hint": "Look for the symbols of speed, power, wealth, destiny, energy, and chance."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      3,
+      5,
+      19
+    ]
   }
 }
