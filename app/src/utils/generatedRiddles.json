@@ -55634,5 +55634,23 @@
       8,
       13
     ]
+  },
+  "emlo_972": {
+    "hardRiddle": {
+      "text": "I launch dreams to celestial heights with electric speed, gemstones gleam as fortune's creed. Where butterflies dance through rainbow fires, the joker's magic never tires. What 6 symbols guide the memecoin's flight to wealth?",
+      "hint": "Think of a journey: the vehicle, the destination, the treasure, the chaos element, the beauty, and the trickster."
+    },
+    "easyRiddle": {
+      "text": "A rocket takes you to the moon with gems that shine. Lightning strikes, butterflies fly, and the joker grins. Find these 6 lucky symbols!",
+      "hint": "One goes up, one is there, one sparkles, one flashes, one flutters, one tricks."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      8,
+      13
+    ]
   }
 }
