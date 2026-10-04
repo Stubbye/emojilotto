@@ -55652,5 +55652,41 @@
       8,
       13
     ]
+  },
+  "sol_2577": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six tokens of fate intertwine: the archer's mark meets the vessel of dreams, while gemstone brilliance illuminates the jester's grin. Thunder's kiss binds the nocturnal sentinel to the scaled guardian of eternity, all reflected in the prism of chance.",
+      "hint": "One guides aims, one holds value, one brings laughter, one brings power, one watches wisely, one guards ancient magic."
+    },
+    "easyRiddle": {
+      "text": "Find six symbols of luck and wonder: where you aim, where wealth hides, where chaos laughs, where storms strike, where cunning prowls, and where ancient scales slumber.",
+      "hint": "Target, gem, joker, lightning, fox, and dragon - each holds a piece of the mystery."
+    },
+    "answer": [
+      0,
+      2,
+      11,
+      4,
+      12,
+      13
+    ]
+  },
+  "emlo_973": {
+    "hardRiddle": {
+      "text": "I launch dreams to the lunar sphere, powered by electric strikes and burning desire. My gems sparkle like fortune's dance, while magic circles guide the lucky few. What celestial journey do I illuminate?",
+      "hint": "Think of a memecoin's journey: where it goes, what powers it, and what adorns it."
+    },
+    "easyRiddle": {
+      "text": "🚀 to the 🌙, ⚡ fast, 💎 bright, 🔥 hot, ✨ shiny. What makes a memecoin moon?",
+      "hint": "Name each emoji in order of a rocket's moonshot adventure."
+    },
+    "answer": [
+      1,
+      3,
+      5,
+      0,
+      9,
+      10
+    ]
   }
 }
