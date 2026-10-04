@@ -55742,5 +55742,41 @@
       4,
       14
     ]
+  },
+  "sol_2580": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six omens converge in destiny's trance. The archer's mark gleams with crystalline grace, while winged metamorphosis traces starlight's face. Thunder's twin adorns the painted sky, as chaos whispers where jesters lie.",
+      "hint": "Seek the beginning, the precious, the transformed, the bright, the electric echo, and the riddler's mask."
+    },
+    "easyRiddle": {
+      "text": "Find the target's aim, the gem's shine, the butterfly's flight, the star's glow, the lightning's spark, and the joker's grin.",
+      "hint": "Six symbols of luck: aim, shine, flight, glow, spark, and smile."
+    },
+    "answer": [
+      0,
+      2,
+      8,
+      21,
+      4,
+      19
+    ]
+  },
+  "emlo_975": {
+    "hardRiddle": {
+      "text": "I chase dreams to the lunar heights with electric speed, my gems sparkle as fortune strikes like thunder. The joker grins while chaos dances, yet victory shines bright for those bold enough to hold the crystal prize.",
+      "hint": "Think of a memecoin journey: speed, luck, gems, celebration, and ultimate winning."
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, lightning strikes, gems shine, trophy wins, joker plays, and fire burns bright.",
+      "hint": "Name each emoji in order: vehicle, sky phenomenon, precious stone, achievement, card character, and element."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      18,
+      19,
+      5
+    ]
   }
 }
