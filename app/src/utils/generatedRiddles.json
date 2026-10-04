@@ -55688,5 +55688,41 @@
       9,
       10
     ]
+  },
+  "sol_2578": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial vault, and jeweled fire dances with nature's winged grace, while luck's jester spins beneath the prism of storms—six tokens bind the seeker's fate to written destiny, where scales of chaos meet the performer's ancient calling.",
+      "hint": "Consider: precision, heavens, wealth, transformation, chaos, and revelry"
+    },
+    "easyRiddle": {
+      "text": "The archer's mark touches the sky's bright stone, where a fluttering dancer joins lightning's twin flame, and the fool spins in the big top's domain—these six hold the key to fortune's game.",
+      "hint": "A target aims high, gems shine, butterflies flutter, lightning strikes, jokers play, and circuses thrill"
+    },
+    "answer": [
+      0,
+      2,
+      1,
+      8,
+      11,
+      6
+    ]
+  },
+  "emlo_974": {
+    "hardRiddle": {
+      "text": "I chase the celestial orb with explosive force, my gems sparkle as fortune strikes like thunder, while my rainbow bridge connects the clown's stage to victory's podium. What six tokens of chaos and luck guide the degenerate's journey?",
+      "hint": "Think of a memecoin's moonshot dream: speed, wealth, chance, destiny, joy, and triumph"
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we blast off with 🚀, collecting ✨ while ⚡ strikes our lucky 🎪 trophy. What are these six symbols?",
+      "hint": "Moon, rocket, sparkles, lightning, circus tent, and trophy are your answers"
+    },
+    "answer": [
+      1,
+      19,
+      10,
+      4,
+      6,
+      17
+    ]
   }
 }
