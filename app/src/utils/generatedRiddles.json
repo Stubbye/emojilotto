@@ -55616,5 +55616,23 @@
       6,
       2
     ]
+  },
+  "sol_2575": {
+    "hardRiddle": {
+      "text": "Where celestial fire weaves through prismatic waves of fortune, six sacred symbols dance: the archer's eternal mark meets winged ascension, precious fractured light adorns the nocturnal sphere, while nature's metamorphosis and the jester's masked revelry spiral through fortune's lightning-kissed amphitheater. Seek ye the golden tokens where chaos and destiny entwine in electric brilliance.",
+      "hint": "Consider targets of ambition, ascending paths, valued treasures, night's dominion, transformations of beauty, and chaos personified. One element crackles with divine power."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: something you aim for, something that flies high, something that sparkles, something in the night sky, something that changes its wings, and something wild and clever. What are they?",
+      "hint": "Think of: a goal, travel, jewels, astronomy, insects, and animals."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      13
+    ]
   }
 }
