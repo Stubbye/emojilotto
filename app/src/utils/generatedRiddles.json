@@ -55724,5 +55724,23 @@
       6,
       17
     ]
+  },
+  "sol_2579": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six tokens dance in destiny's desire. The jester's grin guards gemstones bright, while scaled wisdom coils toward the night. Lightning strikes where wings once flew, and fortune's bloom breaks through the dew.",
+      "hint": "A game of chance, a cosmic play—seek the symbols that guide the way. Count them careful: one through six."
+    },
+    "easyRiddle": {
+      "text": "Find the target's mark, the rocket's flight, the gem that gleams, the dragon's might, the lightning's strike, and flower's grace. These six shall lead you to your place.",
+      "hint": "A bullseye, a spacecraft, a precious stone, a mythical beast, a bolt of power, and nature's bloom."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      14
+    ]
   }
 }
