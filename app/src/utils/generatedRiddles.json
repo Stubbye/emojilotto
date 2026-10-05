@@ -55832,5 +55832,41 @@
       19,
       10
     ]
+  },
+  "sol_2583": {
+    "hardRiddle": {
+      "text": "Where fortune's aim meets celestial fire, a jester's smile dances with nature's desire. Through crystalline depths and gemstone's gleam, the winged wanderer chases the storm's electric dream. Six threads of fate intertwine—one bears the mark of the archer's design.",
+      "hint": "Look for the hunter, the chaos-bringer, the fool's grin, the prism of earth, the symbol of change, and the treasure that blinds."
+    },
+    "easyRiddle": {
+      "text": "A target glows bright, lightning strikes hard, a jester laughs loud, gems sparkle far, butterflies dance, and fire burns wide. Which six dance together in fortune's tide?",
+      "hint": "One aims, one shocks, one tricks, one shines, one flies, one consumes."
+    },
+    "answer": [
+      0,
+      4,
+      19,
+      20,
+      8,
+      6
+    ]
+  },
+  "emlo_977": {
+    "hardRiddle": {
+      "text": "I chase the astronomical dream with velocity, seeking precious treasures that electrify fortunes. Watch the cosmic display ignite as luck strikes with brilliant intensity.",
+      "hint": "Think of a memecoin journey: destination, speed, wealth, energy, fortune, and dazzling success"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, ⚡ powers your 💎, and ✨ brings victory to 🎯",
+      "hint": "Rockets, moons, lightning, gems, sparkles, and targets"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      9,
+      0
+    ]
   }
 }
