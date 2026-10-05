@@ -55778,5 +55778,23 @@
       19,
       5
     ]
+  },
+  "sol_2581": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial body weeps crystalline tears. The jester's twin flame dances with scaled majesty, while nature's smallest acrobat pirouettes through prismatic arcs. Six secrets bind the lottery's fate—seek the mark, the ascendant pearl, the faceted truth, the crowned serpent, the winged metamorphosis, and the spectrum's kiss.",
+      "hint": "One pierces, one glows above, one sparkles, one performs, one transforms, one bends light itself."
+    },
+    "easyRiddle": {
+      "text": "I am the mark all seek. I dance in night's embrace. I glitter and refract. I wear a fool's grin. I slither with ancient wisdom. I float on gossamer wings. Together we paint the lottery's dream.",
+      "hint": "Target, Moon, Crystal, Joker, Dragon, Butterfly, and Rainbow walk into a lottery..."
+    },
+    "answer": [
+      0,
+      3,
+      20,
+      13,
+      14,
+      9
+    ]
   }
 }
