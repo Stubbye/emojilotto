@@ -55796,5 +55796,41 @@
       14,
       9
     ]
+  },
+  "sol_2582": {
+    "hardRiddle": {
+      "text": "Through prismatic veil the winged dancer ascends where celestial fire meets fortune's laugh, while masked echoes waltz upon fortune's wheel—seek the archer's distant gleam and the serpent's ancient coil that guards the symphony of chance.",
+      "hint": "One lives by night, one by chaos, one by illusion, one by fate, one by melody, and one by eternity."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide: a grinning fool plays nearby, a guitar sings in shadows, the moon watches above, a dragon coils in mystery, lightning strikes with aim, and the butterfly dances free.",
+      "hint": "Count the performer, the musician, the night guardian, the beast, the striker, and the insect."
+    },
+    "answer": [
+      1,
+      16,
+      3,
+      13,
+      5,
+      8
+    ]
+  },
+  "emlo_976": {
+    "hardRiddle": {
+      "text": "To the moon we ride with lightning speed, through fire and gems we plant our seed. A joker's dance with crystal gleam, where sparkles paint the meme dream. What six celestial tokens guide this memecoin's pride?",
+      "hint": "Look to the heavens and the treasures that shine bright"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon shines bright, gems sparkle with diamond light. Lightning strikes, fire burns hot, joker laughs at the memecoin plot. Which six emojis mark this crypto slot?",
+      "hint": "One launches you, one is your destination, one sparkles, one zaps, one laughs, one glows"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      19,
+      10
+    ]
   }
 }
