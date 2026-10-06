@@ -55904,5 +55904,41 @@
       5,
       11
     ]
+  },
+  "sol_2585": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's eternal gaze, a scaled serpent guards the heart's ablaze. Through prism's dance and luck's six-sided face, the jester's grin unlocks the starlit place. What six celestial sentries hold the key to destiny's symphony?",
+      "hint": "Think of cosmic forces, games of chance, and mythical guardians that dance between worlds."
+    },
+    "easyRiddle": {
+      "text": "One aims true, one flies so high, one sparkles bright beneath the sky. One brings fortune's lucky spin, one laughs while wearing a grin. One ancient creature breathes with fire, one glimmers as your heart's desire. Which six treasures align?",
+      "hint": "A target, a rocket, dice, a joker, a dragon, and a gem."
+    },
+    "answer": [
+      0,
+      1,
+      11,
+      12,
+      13,
+      5
+    ]
+  },
+  "emlo_979": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, through crystal skies where dragons heed. Gemstones sparkle as I ignite, a joker's fire burns so bright. Rainbow waves of fortune flow, where the butterfly dares to go.",
+      "hint": "Think of a memecoin's journey to success with multiple symbols of luck and power combined."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, lightning strikes fast, gems shine bright, fire burns last. Dragon flies high, butterfly floats free. Can you name these six symbols you see?",
+      "hint": "Look for things that move, shine, or represent power and luck in the crypto world."
+    },
+    "answer": [
+      1,
+      5,
+      2,
+      12,
+      14,
+      8
+    ]
   }
 }
