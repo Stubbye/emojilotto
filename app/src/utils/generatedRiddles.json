@@ -55940,5 +55940,23 @@
       14,
       8
     ]
+  },
+  "sol_2586": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's celestial eye, crystalline tears weep upon the jester's grinning lie. Through prismatic gates the winged metamorphosis takes flight, whilst molten chaos dances with the spark that splits the night. Six guardians of fate converge where laughter masks the truth.",
+      "hint": "A game of chance, a celestial journey, precious clarity, chaos and electricity, transformation, and deception all play their parts in this cosmic ballet."
+    },
+    "easyRiddle": {
+      "text": "Find the target, the rocket soaring high, the gem that gleams, the moon in night's dark sky, the lightning's strike, and fire's dancing glow. These six treasures together make the lottery's fortune grow.",
+      "hint": "Look for an archery goal, a space vessel, a jewel, night's satellite, electricity, and flames."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   }
 }
