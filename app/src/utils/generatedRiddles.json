@@ -55868,5 +55868,41 @@
       9,
       0
     ]
+  },
+  "sol_2584": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial fire, six paths converge in shimmer and desire. The jester's twin souls dance 'tween stone and flame, while winged metamorphosis whispers the game. Seek the gilded prize where lightning strikes gold, in spectrum's arc, destiny's tale is told.",
+      "hint": "One points the way, one rules the night, one captures light, one brings delight, one transforms all, one crowns the thrall."
+    },
+    "easyRiddle": {
+      "text": "I glow at night, I bring the spark, I change and shine, I mark the mark. One is royal, one will fly, one shows colors in the sky. Six treasures hide where chance holds sway—which six unlock your lucky day?",
+      "hint": "Look for: aim, celestial body, electricity, transformation, victory, and spectrum."
+    },
+    "answer": [
+      0,
+      4,
+      5,
+      8,
+      13,
+      21
+    ]
+  },
+  "emlo_978": {
+    "hardRiddle": {
+      "text": "I launch dreams to the celestial vault with electric speed, leaving a trail of brilliant light. My precious core glimmers with inner fire, while fortune's wheel spins endlessly below. What six symbols mark this memecoin's destiny?",
+      "hint": "Think of a crypto journey: propulsion, destination, value, chance, energy, and rarity combined"
+    },
+    "easyRiddle": {
+      "text": "A coin shoots up fast with a bright spark, carrying gems to the moon. Luck spins around it all. Which six emojis show this journey?",
+      "hint": "Space travel, shiny things, speed, luck, and light are involved"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      11
+    ]
   }
 }
