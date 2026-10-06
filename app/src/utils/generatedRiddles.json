@@ -55958,5 +55958,23 @@
       4,
       5
     ]
+  },
+  "sol_2588": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, and celestial fire dances with prismatic tears, the jester's grin blooms eternal. Six truths hide in shadow's embrace: the mark of destiny, the vessel of ascension, the heart's crystalline whisper, the queen of night's throne, the serpent's ancient fury, and the spectrum born from tempest's sorrow.",
+      "hint": "Seek the symbols of ambition, mystery, chaos, and transformation across the realms of chance and wonder."
+    },
+    "easyRiddle": {
+      "text": "I need six lucky symbols for the cosmic lottery. One points the way, one climbs to heaven, one glitters with wealth, one rules the darkness, one breathes destruction, and one paints hope across the storm.",
+      "hint": "Think of targets, rockets, gems, moons, fire, and rainbows—the dreams we chase."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      9
+    ]
   }
 }
