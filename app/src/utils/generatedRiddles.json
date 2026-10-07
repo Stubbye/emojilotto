@@ -56084,5 +56084,41 @@
       21,
       22
     ]
+  },
+  "sol_2592": {
+    "hardRiddle": {
+      "text": "Where fortune's celestial archer meets the void's eternal glow, through crystalline fractured dreams a scaled serpent winds below. In chambers of jest where masked shadows pirouette, the winged creature dances through prismatic debut. One strikes with white fury from above, whilst petals of earth's gentle love complete the seeker's covenant of six.",
+      "hint": "Combine the hunter's mark, night's orb, gem's fracture, trickster's face, dragon's domain, and nature's bloom"
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols hide within: a bullseye aims true, the moon glows bright, a crystal sparkles, a joker grins wide, a dragon roars, and a flower blooms. What six are these?",
+      "hint": "Think of target, moon, crystal, joker, dragon, and flower"
+    },
+    "answer": [
+      0,
+      3,
+      20,
+      19,
+      13,
+      14
+    ]
+  },
+  "emlo_985": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with blazing speed, my precious heart sparkles with electric potential. Lady fortune spins her wheel as I dance through the cosmic fire, transforming rags to riches under the crimson glow.",
+      "hint": "Think of a memecoin's journey: rapid ascent, valuable treasure, destiny's role, and the energy of gains"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon, gems that sparkle, lightning strikes fortune - these three launch your wealth. Add the fire of passion, the dice of chance, and the dragon's treasure hoard.",
+      "hint": "A memecoin adventure needs speed, riches, a jackpot moment, heat, luck, and mythical power"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      13
+    ]
   }
 }
