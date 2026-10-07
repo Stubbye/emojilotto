@@ -56012,5 +56012,41 @@
       4,
       13
     ]
+  },
+  "sol_2590": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial throne, a gemstone sings beneath the dancer's grin. The serpent coils through chaos and rebirth, while thunder crowns the jester's painted sin. Seek the six that waltz between the veil of luck and destiny's eternal din.",
+      "hint": "One points, one reigns above, one glimmers truth, one laughs at fate, one roars through time, one strikes with fury."
+    },
+    "easyRiddle": {
+      "text": "Find the marksman's goal, the night's guardian, the precious stone, the trickster's face, the beast of fire, and the bolt of sky.",
+      "hint": "Think of: aim, sleep, wealth, jokes, power, and electricity."
+    },
+    "answer": [
+      0,
+      3,
+      2,
+      19,
+      14,
+      5
+    ]
+  },
+  "emlo_983": {
+    "hardRiddle": {
+      "text": "A jester's luck meets celestial dreams, where fire meets fortune's gleams. Purple magic dances with electric might, as gems and stars ignite the night. What six symbols guide the memecoin's flight?",
+      "hint": "Think of a chaotic party in space celebrating wealth"
+    },
+    "easyRiddle": {
+      "text": "A lucky fool laughs as rockets rise, purple sparkles light the skies. Lightning strikes the gem so bright, while fire burns and stars shine light. Name these six cosmic treasures right!",
+      "hint": "Joker, rocket, gem, lightning, fire, and star are all here"
+    },
+    "answer": [
+      19,
+      1,
+      2,
+      4,
+      5,
+      21
+    ]
   }
 }
