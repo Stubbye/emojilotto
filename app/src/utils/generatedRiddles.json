@@ -55976,5 +55976,41 @@
       6,
       9
     ]
+  },
+  "sol_2589": {
+    "hardRiddle": {
+      "text": "Through celestial veil where luminescence bleeds, a scaled serpent guards the prism's fractured seeds. The archer's mark eclipsed by night's dominion, while tempest tongues ignite the jester's opinion. Six visions converge where fortune's wheel spins true.",
+      "hint": "One breathes cosmos, one reflects light's decay, one judges fate, one wears many faces."
+    },
+    "easyRiddle": {
+      "text": "A dragon watches over gems beneath the moon. Lightning crackles near the joker's tune. Six treasures align when destiny is soon.",
+      "hint": "Look for: scaled guardian, glowing stone, night orb, electric bolt, laughing trickster, and one more."
+    },
+    "answer": [
+      14,
+      21,
+      5,
+      10,
+      19,
+      11
+    ]
+  },
+  "emlo_982": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, my precious cargo glimmers with desire. A jester's fortune meets nature's luck, while dual forces—one strikes with fury, one mesmerizes with grace—dance around transformation's beacon.",
+      "hint": "Think of a memecoin journey: launch ambition, valuable holdings, chance, electricity, and two creatures of wit and mystique"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, holding a 💎. A 🍀 and ⚡ help you win, while 🦊 tricks you into the next trade.",
+      "hint": "Rocket, moon, gem, clover, lightning, and a clever animal"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      19,
+      4,
+      13
+    ]
   }
 }
