@@ -56048,5 +56048,41 @@
       5,
       21
     ]
+  },
+  "sol_2591": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces through celestial silence, a winged metamorphosis dances betwixt the prism's arc. The jester's grin mirrors what mortals seek in fortune's vault, while the ancient stone remembers when thunder carved its twin flame into being. Six servants of chance converge where destiny's wheel trembles.",
+      "hint": "Think of targets, transformation, rainbows, laughter, precious things, and the forces that shape worlds."
+    },
+    "easyRiddle": {
+      "text": "I am the archer's mark, the butterfly reborn, the colors after rain, the joker's laugh, the jewel so bright, and the bolt that strikes twice. Six symbols of luck await discovery.",
+      "hint": "One shoots straight, one transforms, one follows storms, one entertains, one glitters, and one electrifies."
+    },
+    "answer": [
+      0,
+      8,
+      9,
+      11,
+      2,
+      4
+    ]
+  },
+  "emlo_984": {
+    "hardRiddle": {
+      "text": "A jester's gamble launches dreams to the lunar sphere, where crystalline fortunes ignite in electric brilliance, painting the sky with prismatic wonder as luck strikes like thunder.",
+      "hint": "Think of a meme coin journey: chaos, launch, destination, wealth, volatility, and celebration"
+    },
+    "easyRiddle": {
+      "text": "What do you need to moon? A joker's dice, a rocket to fly, a gem to find, lightning for speed, sparkles for magic, and a star to wish upon.",
+      "hint": "Count the six mystical objects mentioned"
+    },
+    "answer": [
+      1,
+      2,
+      9,
+      11,
+      21,
+      22
+    ]
   }
 }
