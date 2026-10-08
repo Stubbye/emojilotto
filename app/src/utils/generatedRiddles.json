@@ -56210,5 +56210,41 @@
       2,
       12
     ]
+  },
+  "sol_2596": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols weave destiny's trance. The archer's mark gleams crystalline bright, while winged metamorphosis takes flight. Thunder strikes the jester's grin, as emerald facets spin and spin. Beneath the lunar stage of wonder, six treasures crack the sky asunder.",
+      "hint": "Look for: precision and wealth, transformation, chaos and jest, fortune's gems, electricity, and the night guardian. One brings spectacle, one brings speed."
+    },
+    "easyRiddle": {
+      "text": "Six lucky symbols hide in shadow: a shining stone, a swift messenger, laughter's mask, change's spark, night's guardian, and nature's dancer. Find them all beneath the poetic veil.",
+      "hint": "Gem, Rocket, Joker, Lightning, Moon, Butterfly - these are your treasure hunters."
+    },
+    "answer": [
+      1,
+      2,
+      7,
+      4,
+      3,
+      8
+    ]
+  },
+  "emlo_988": {
+    "hardRiddle": {
+      "text": "A jester's gamble ignites the sky with electric purple dreams, where scaled beasts chase the glowing orb while butterflies dance through crystalline fire—what six tokens shimmer in this chaos?",
+      "hint": "Think of the ultimate memecoin journey: the player, the stakes, the luck, the goal, the volatility, and the mythical guardian."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we rocket with ⚡ speed! A magical 🔮 helps our 🐉 friend win! The 🃏 spins the 🎯 for fortune!",
+      "hint": "Moon, rocket, crystal, dragon, joker, and target—the path to memecoin riches!"
+    },
+    "answer": [
+      1,
+      2,
+      20,
+      14,
+      11,
+      0
+    ]
   }
 }
