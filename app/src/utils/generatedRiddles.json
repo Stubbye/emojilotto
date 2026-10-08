@@ -56120,5 +56120,23 @@
       11,
       13
     ]
+  },
+  "sol_2593": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's gambit, six whispers dance in shadow's exhibit. The scaled serpent guards what mortals seek beneath the jester's painted cheek. Lightning's kiss ignites the prism'd way, as masked performers hold their sway. In chaos blooms the laughing rose, where destiny through darkness flows.",
+      "hint": "Look for the mythical guardian, the court's fool, the bright discharge, the theatrical veil, the delicate bloom, and the scattered fortune."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this spell: a flame-winged beast with tales to tell, a fool who grins behind his face, the bolt that strikes with crackling grace, a flower's soft and gentle way, and bones that roll for those at play.",
+      "hint": "Think of a dragon, a joker, masks, lightning, a flower, and dice."
+    },
+    "answer": [
+      13,
+      11,
+      4,
+      19,
+      14,
+      11
+    ]
   }
 }
