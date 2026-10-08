@@ -56174,5 +56174,41 @@
       8,
       10
     ]
+  },
+  "sol_2595": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, a jeweled serpent coils through starlit space. Lightning's twin dances with celestial fire, while petals bloom within the jester's desire. Six whispers of fate converge in night—which tokens shall the cosmos bring to light?",
+      "hint": "One points at destiny, one transcends it. A precious stone, a creature of legend, electricity's kin, and nature's beauty all play their part in this cosmic jest."
+    },
+    "easyRiddle": {
+      "text": "An archer's mark, a flying dream, a glittering stone, and scales unseen. A serpent wise, a fool's bright grin—gather these six to let luck begin.",
+      "hint": "Think of targets, flight, treasures, sky creatures, magic, and cards."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      19
+    ]
+  },
+  "emlo_987": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, gems sparkle as my fortune's creed. A jester's luck and dragon's might guide my palette through the night. Where fire meets crystal clarity, I dance through chaos and rarity.",
+      "hint": "Think of a memecoin's journey: speed, treasure, chaos, luck, and transformation"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, moon shines bright. Lightning strikes with all its might. Fire burns hot, gem shines true. These six together mean profit for you!",
+      "hint": "Look for the symbols of crypto pumps and gains"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      12
+    ]
   }
 }
