@@ -56138,5 +56138,41 @@
       14,
       11
     ]
+  },
+  "sol_2594": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin flames, the jester's grin mirrors wings of metamorphosis. Six tokens of destiny: one strikes from heavens' vault, one adorns the cosmic brow, one bleeds crimson chaos, one wears the mask of mirth, one flutters between worlds, and one glimmers as nature's dust upon the void.",
+      "hint": "Lightning, moon, fire, joker, butterfly, and sparkles form the constellation of chance"
+    },
+    "easyRiddle": {
+      "text": "Find the six that laugh at fate: the bolt that cracks the sky, the night's silver eye, the dancing flames, the silly clown, the painted wings, and the magic dust that falls like rain.",
+      "hint": "Think of weather, night, danger, silliness, nature, and magic"
+    },
+    "answer": [
+      4,
+      3,
+      6,
+      17,
+      8,
+      10
+    ]
+  },
+  "emlo_986": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, a gem that sparkles as I lead. Through fire and circus tricks I soar, where butterflies dance and fortunes pour. What six celestial tokens guide the memecoin lore?",
+      "hint": "Think of symbols that represent crypto gains, celestial bodies, and magical power"
+    },
+    "easyRiddle": {
+      "text": "Find the rocket to the moon, the gem that shines, the lightning so bright, the fire that ignites, the butterfly that flies, and the sparkles that shimmer. Six lucky signs for the memecoin winners!",
+      "hint": "Look for space travel, precious things, energy, nature, and magic"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      10
+    ]
   }
 }
