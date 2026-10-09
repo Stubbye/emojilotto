@@ -56354,5 +56354,41 @@
       19,
       21
     ]
+  },
+  "sol_2600": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six tokens spin in fate's advance. The archer's aim through crystal night, a dragon's roar ignites the light. Masked revelry beneath the glow, as fortune's wheel begins to flow. What glimmers twice—once as gem, once as star—guides the lucky through the far.",
+      "hint": "Look for the performer's domain, the sky's guardian, fortune's markers, and duality in brilliance"
+    },
+    "easyRiddle": {
+      "text": "Six symbols of luck and wonder: a target never missed, a dragon fierce, a circus bright, gems that sparkle, stars that burn, and masks that hide our true return. What are they?",
+      "hint": "One flies high, one performs, one glimmers, one guides, one marks the aim, one conceals"
+    },
+    "answer": [
+      0,
+      3,
+      7,
+      11,
+      19,
+      21
+    ]
+  },
+  "emlo_992": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with lightning speed, my gem shines bright as fire takes the lead. The joker laughs while sparkles dance, a circus of fortune in this memecoin trance. What six symbols guide this wild ride to the moon?",
+      "hint": "Think of the journey: speed, value, chaos, magic, entertainment, and the ultimate destination."
+    },
+    "easyRiddle": {
+      "text": "A rocket zooms past a shining gem, lightning crackles with fire's hem. The joker grins as sparkles fly, heading straight toward the moon so high. Name these six symbols of crypto fun!",
+      "hint": "Say each emoji's name in order: one goes fast, one is precious, one is electric, one is hot, one is silly, one is magical."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      11,
+      3
+    ]
   }
 }
