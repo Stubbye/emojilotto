@@ -56282,5 +56282,41 @@
       14,
       5
     ]
+  },
+  "sol_2598": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six symbols intertwine in destiny's appeal. The archer's mark meets the messenger's flight, while gemstone brilliance pierces the night. Winged transformation adorns the sacred flame, and fortune's jester claims eternal fame.",
+      "hint": "Consider what seeks, what soars, what shines, what burns, what transforms, and what mocks destiny itself."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in this cosmic game: a target waits, a rocket takes aim, a gem glows bright, the moon shines high, lightning strikes fast, and joker plays sly.",
+      "hint": "Look for the hunter's symbol, the traveler's tool, the precious stone, the night guardian, the storm's fury, and the trickster's grin."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      19
+    ]
+  },
+  "emlo_990": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gem-like sparkles ignite the fire of dreams. A joker's dance under the moon guides fools to fortune, while the dragon's rainbow trail burns bright. What six symbols mark the memecoin's path to glory?",
+      "hint": "Think of the journey: destination, velocity, treasure, night, chaos, and legendary beast"
+    },
+    "easyRiddle": {
+      "text": "Blast off to the moon with rocket power! 💰 Find the shining gem, feel the lightning strike, watch the fire burn, and spot the magical dragon breathing rainbow colors. Which six emojis complete this moon mission?",
+      "hint": "One goes up, one shines, one sparkles, one zaps, one burns, and one is mythical"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      13
+    ]
   }
 }
