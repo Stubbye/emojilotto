@@ -56318,5 +56318,41 @@
       5,
       13
     ]
+  },
+  "sol_2599": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the void, a celestial pearl witnesses the serpent's ancient fire dance. Three jeweled tokens spin in chaos—one reflects the heavens' fractured light, another blooms eternal, while the masked trickster grins at destiny's woven thread of luck.",
+      "hint": "Seek the marksman's aim, the night's guardian, the drake's breath, chance's cube, heaven's prism, and folly's grinning face."
+    },
+    "easyRiddle": {
+      "text": "I point the way to dreams. I light the darkest night. I breathe in ancient heat. I roll and decide all. I sparkle with pure wonder. I wear a foolish grin.",
+      "hint": "Aim, moon, dragon, dice, sparkles, joker"
+    },
+    "answer": [
+      0,
+      3,
+      13,
+      11,
+      10,
+      18
+    ]
+  },
+  "emlo_991": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gem-like value sparks with fire. The joker grins as I dance under stars, a butterfly of fortune riding the wave to glory.",
+      "hint": "A memecoin's journey from launch to the moon, told through symbols of speed, wealth, chaos, beauty, and destiny."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes fast, fire burns hot, joker laughs, star guides the way.",
+      "hint": "Pick six things that describe a crypto memecoin's wild adventure to success."
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      19,
+      21
+    ]
   }
 }
