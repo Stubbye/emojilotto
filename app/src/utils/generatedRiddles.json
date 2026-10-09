@@ -56246,5 +56246,41 @@
       11,
       0
     ]
+  },
+  "sol_2597": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial sphere, a jeweled flame dances with winged grace. The jester's twin spirals through ethereal light, while ancient scales whisper secrets to the shapeshifter's cunning grin. Six tokens of destiny converge where chaos blooms eternal.",
+      "hint": "One pierces, one illuminates, one glimmers, one transforms, one plays, one predicts."
+    },
+    "easyRiddle": {
+      "text": "A target aims, a gem shines, lightning strikes fast, a butterfly floats, the fox is sly, and dice decide. Find these six harbingers of chance.",
+      "hint": "Think of precision, value, speed, grace, cleverness, and randomness."
+    },
+    "answer": [
+      0,
+      2,
+      5,
+      8,
+      13,
+      11
+    ]
+  },
+  "emlo_989": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric might, my gems sparkle bright in the moon's soft light. A fox dances wildly as dragons take flight, while fire and lightning ignite the night. What six treasures illuminate this memecoin's flight?",
+      "hint": "Think of the journey from earth to infinity, where magical creatures and celestial bodies align with pure energy and brilliance."
+    },
+    "easyRiddle": {
+      "text": "Blast off! 🚀 Find the gem that shines, the bolt that strikes, the lunar glow, the dancing creature, the ancient beast, and the flame that burns bright in our memecoin sky.",
+      "hint": "One goes up, one lights up, one watches, one glows above, one flies with magic, one is fierce and gold."
+    },
+    "answer": [
+      1,
+      4,
+      3,
+      13,
+      14,
+      5
+    ]
   }
 }
