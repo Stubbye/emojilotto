@@ -56390,5 +56390,41 @@
       11,
       3
     ]
+  },
+  "sol_2602": {
+    "hardRiddle": {
+      "text": "Where celestial fire waltzes with fortune's wheel, six sentinels of fate converge. The dragon's breath ignites the lightning's twin, whilst masked performers pirouette through crystal labyrinths. Seek the gem that dwells betwixt the jester's grin and the archer's aim, where prismatic dreams scatter like fox-fire upon the velvet void.",
+      "hint": "Look for symbols of chaos, precious things, theatrical deception, and dual representations of electrical fury."
+    },
+    "easyRiddle": {
+      "text": "Six mystical symbols hide within this quest: a legendary beast breathes, electricity strikes twice in different forms, precious stones gleam, masks conceal truth, and a target marks the way. Which six unite?",
+      "hint": "Think of dragon, lightning, gem, joker, and two other powerful symbols of energy or precision."
+    },
+    "answer": [
+      14,
+      4,
+      5,
+      19,
+      2,
+      12
+    ]
+  },
+  "emlo_993": {
+    "hardRiddle": {
+      "text": "A jester's fortune spins with electric dreams, where scaled beasts chase glowing prizes through a spectacle of cosmic energy. What six symbols define this memecoin's path to legendary riches?",
+      "hint": "Think of chaos, fortune, mythical creatures, and celestial goals"
+    },
+    "easyRiddle": {
+      "text": "I spin for luck, I roar with fire, I climb so high with electric desire. A purple dragon guards the circus show, where sparkling gems and rockets glow. Name the six!",
+      "hint": "Look for: chance, heat, dragon, celestial destination, sparkle, and mythical themes"
+    },
+    "answer": [
+      11,
+      1,
+      14,
+      3,
+      5,
+      20
+    ]
   }
 }
