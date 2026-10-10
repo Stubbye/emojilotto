@@ -56462,5 +56462,41 @@
       11,
       9
     ]
+  },
+  "sol_2604": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six whispers dance in chaos's name. The jester's twin souls pirouette through night, while scaled majesty breathes lightning's might. Through prism's tears, the winged muse takes flight, and destiny's wheel spins in shadow's light.",
+      "hint": "One aims, one burns, one laughs, one roars, one transforms, one decides."
+    },
+    "easyRiddle": {
+      "text": "I point the way, I consume all things, I wear many faces, I rule the sky, I change and grow, I control the odds. Six symbols of power and chance await.",
+      "hint": "Precision, destruction, deception, majesty, metamorphosis, randomness."
+    },
+    "answer": [
+      0,
+      5,
+      19,
+      14,
+      8,
+      11
+    ]
+  },
+  "emlo_995": {
+    "hardRiddle": {
+      "text": "I launch to the moon with electric might, guided by fortune's sparkling light. A gemstone dragon breathes fire bright, while jokers dance under stars at night. What six celestial symbols guide this memecoin flight?",
+      "hint": "Think of the journey: launch, destination, precious finds, chaos, luck, and brilliance"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up, 💎 shines, ⚡ strikes, 🌙 waits, 🔥 burns, ✨ glows. Six signs of a crypto dream - which six?",
+      "hint": "Speed, value, power, destination, energy, magic"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      9
+    ]
   }
 }
