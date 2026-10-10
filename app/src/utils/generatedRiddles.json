@@ -56426,5 +56426,41 @@
       5,
       20
     ]
+  },
+  "sol_2603": {
+    "hardRiddle": {
+      "text": "Where celestial fire meets fortune's dance, six symbols weave fate's trance. The archer's mark gleams crystalline bright, while serpent coils through starlit night. Winged messenger flutters past the grinning jester's mask, as thunder's kiss ignites the prism's multihued task.",
+      "hint": "Seek the aimed, the ancient, the luminous, the trickster, the swift-winged, and the prismatic."
+    },
+    "easyRiddle": {
+      "text": "One points the way, one shines above, one sparkles pure, one grins with love, one flies so free, and one breaks light—together they dance through the lottery night.",
+      "hint": "A target, a celestial body, something precious, a joker, a creature with wings, and something colorful."
+    },
+    "answer": [
+      0,
+      21,
+      11,
+      19,
+      8,
+      9
+    ]
+  },
+  "emlo_994": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with electric speed, my gemstone heart burns bright as fire ignites my path. A joker's luck guides my ascent through the circus of fortune, where sparkling dreams meet crystalline destiny.",
+      "hint": "Think of a memecoin's journey: fast movement, precious value, chaos, luck, beauty, and transformation."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes to the moon, fire meets gem, and joker brings sparkles. What six symbols define a memecoin's wild ride?",
+      "hint": "Speed, destination, value, energy, randomness, and magic shine together."
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      11,
+      9
+    ]
   }
 }
