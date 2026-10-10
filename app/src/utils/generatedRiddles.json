@@ -56498,5 +56498,23 @@
       5,
       9
     ]
+  },
+  "sol_2605": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's wheel, six sentinels of fate convene. The archer's mark meets the winged serpent's dream, while crystalline tears fall upon the jester's stage. Between the moth's metamorphosis and the clown's eternal grin, destiny spirals through the vault of heaven's gems.",
+      "hint": "One guides arrows, one breathes stars, one tumbles with laughter, one transforms with grace, one holds wealth, and one watches from above."
+    },
+    "easyRiddle": {
+      "text": "Find the target and the dragon, the crystal gleaming bright, the joker with his grin, the butterfly's gentle flight, and the moon shining through the night.",
+      "hint": "Five different magical objects plus one more make six. Look for things that aim, fly, shine, play, transform, and watch."
+    },
+    "answer": [
+      0,
+      13,
+      20,
+      8,
+      11,
+      3
+    ]
   }
 }
