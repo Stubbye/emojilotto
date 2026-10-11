@@ -56660,5 +56660,23 @@
       12,
       21
     ]
+  },
+  "sol_2610": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets celestial flame, six tokens dance in destiny's game. The winged messenger ascends through night, while nature's prism bends stolen light. In chaos' glitter, the jester grins, as crystalline dreams where wonder begins.",
+      "hint": "Look for: aim, fire, flight, spectrum, chance, and gem-like beginnings"
+    },
+    "easyRiddle": {
+      "text": "Six symbols hold your lucky fate: a target to aim, a gem so great, a rocket to fly, fire's bright might, a rainbow's ray, and sparkles of night.",
+      "hint": "You need something to aim at, something precious, something that goes up, something hot, something colorful, and something that shines"
+    },
+    "answer": [
+      0,
+      6,
+      1,
+      5,
+      9,
+      10
+    ]
   }
 }
