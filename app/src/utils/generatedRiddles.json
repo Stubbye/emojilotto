@@ -56624,5 +56624,41 @@
       4,
       7
     ]
+  },
+  "sol_2609": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's embrace, six mystical sentinels dance in cosmic grace. The scaled leviathan guards ambition's flame, while winged metamorphosis whispers fortune's name. Crystalline splendor and celestial pearl align, as nature's bloom and fortune's mark combine.",
+      "hint": "Seek the hunter's mark, the sky-born serpent, transformation's dance, the earth's treasure, the night's guardian, and the earth's jewel."
+    },
+    "easyRiddle": {
+      "text": "I am six magical symbols of luck and wonder: a target's aim, a dragon's might, a butterfly's grace, a crystal's shine, a flower's bloom, and the moon's light. Which six am I?",
+      "hint": "Think of symbols used in games of chance and magical creatures."
+    },
+    "answer": [
+      0,
+      13,
+      8,
+      20,
+      14,
+      3
+    ]
+  },
+  "emlo_999": {
+    "hardRiddle": {
+      "text": "I chase the celestial prize with explosive speed, fueled by fortune's electric power. My gems sparkle like stars as I dance through chaos, guided by luck's playful jester. What six symbols mark my wild journey to glory?",
+      "hint": "Think of a memecoin's path to the moon with elements of speed, luck, sparkle, and mischief"
+    },
+    "easyRiddle": {
+      "text": "Blast off fast! ⚡ Shine bright! 🎲 Find luck with the trickster! These six emojis show the way to crypto riches and moonbound dreams.",
+      "hint": "Speed, electricity, sparkle, chance, tricks, and destination"
+    },
+    "answer": [
+      1,
+      4,
+      9,
+      11,
+      12,
+      21
+    ]
   }
 }
