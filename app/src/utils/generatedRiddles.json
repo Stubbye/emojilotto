@@ -56516,5 +56516,41 @@
       11,
       3
     ]
+  },
+  "sol_2606": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the veil between worlds, a scaled serpent ascends through prismatic fire, while the jester's laughter echoes across the cosmic stage. Three tokens of fate shimmer—one born of sky's wrath, one of earth's ancient wisdom, one of night's celestial crown. Seek the guardian of transformation, the symbol of chaos and chance, and the keeper of dreams where mortals dare not tread.",
+      "hint": "Thunder meets scales, laughter meets destiny, and wings dance with fortune's flame."
+    },
+    "easyRiddle": {
+      "text": "I strike from above with fury, I slither with ancient power, I juggle with mad delight. I hold secrets of the earth, I wear the night sky's crown, and I flutter between two worlds. Six keys unlock the vault of wishes.",
+      "hint": "Look for danger, magic, mischief, and transformation."
+    },
+    "answer": [
+      4,
+      13,
+      19,
+      20,
+      21,
+      8
+    ]
+  },
+  "emlo_996": {
+    "hardRiddle": {
+      "text": "I chase the celestial sphere with velocity untold, my brilliance cuts through darkness like a bolt, I spark the flames of fortune's dance, while fortune's gem glitters with a chance, the jester's grin meets the sly observer's cunning, and nature's luck joins the chaotic running.",
+      "hint": "Six symbols of wealth, speed, luck, and meme magic combined"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, fire burns bright, lightning strikes fast in the night. Joker laughs, gem shines so clear, and fox is clever - can you find all here?",
+      "hint": "Look for: fast movement, heat, electricity, fortune, trickery, and cunning"
+    },
+    "answer": [
+      1,
+      5,
+      4,
+      2,
+      11,
+      13
+    ]
   }
 }
