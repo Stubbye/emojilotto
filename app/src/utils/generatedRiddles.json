@@ -56552,5 +56552,41 @@
       11,
       13
     ]
+  },
+  "sol_2607": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow pierces the velvet abyss, a winged creature dances through prismatic tears. The jester's laughter echoes as celestial fire weeps, and luck blooms from nature's trinity of grace.",
+      "hint": "Seek the symbols of chance, celestial bodies, and transformation. One brings mischief, one brings nature's fortune."
+    },
+    "easyRiddle": {
+      "text": "I point the way to riches. I soar beyond the stars. A trickster grins at fortune. Lightning splits the sky. A butterfly transforms. A four-leaf charm brings luck.",
+      "hint": "Think of targets, space travel, jesters, weather, insects, and Irish blessings."
+    },
+    "answer": [
+      0,
+      1,
+      12,
+      4,
+      8,
+      19
+    ]
+  },
+  "emlo_997": {
+    "hardRiddle": {
+      "text": "I launch to the heavens with electric speed, a gem of fortune that makes holders bleed. Through purple skies I dance with fire, while sparkles follow my cosmic desire. The joker grins as I reach the moon, will your luck strike like lightning soon?",
+      "hint": "Think of a memecoin's journey to wealth and the chaos along the way"
+    },
+    "easyRiddle": {
+      "text": "🚀 blasts off, 💎 shines bright, ⚡ strikes with might, 🔥 burns hot, ✨ glows a lot, 🌙 glows at night",
+      "hint": "A memecoin adventure uses these 6 symbols"
+    },
+    "answer": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      9
+    ]
   }
 }
