@@ -56714,5 +56714,41 @@
       9,
       15
     ]
+  },
+  "sol_2612": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets celestial fire, six sentinels of fate conspire. The jester's masked deceiver dances with thunder's brilliant streak, while gemstone's crystalline whisper calls to those who seek. Beneath the moon's eternal gaze, a dragon coils through rainbow's maze, and where the butterfly once flew, the clover's lucky blessing grew.",
+      "hint": "Look for the symbols of chance, magic, and destiny intertwined with nature's ancient pacts."
+    },
+    "easyRiddle": {
+      "text": "I hold six treasures: one marks your aim, one is magic's bright flame, one shines like wealth untold, one rules the night of old, one breathes with ancient power, one dances in fortune's hour.",
+      "hint": "Think of a target, fire, gems, the moon, dragons, and fortune's lucky charm."
+    },
+    "answer": [
+      0,
+      5,
+      2,
+      1,
+      13,
+      19
+    ]
+  },
+  "emlo_1001": {
+    "hardRiddle": {
+      "text": "I chase the lunar dreams with electric speed, a precious stone that makes hodlers bleed. Fortune spins like a jester's game, while magic sparks ignite the flame. A celestial path of crystal light guides the fox through this memecoin flight.",
+      "hint": "Six symbols of crypto chaos: seek the destination, velocity, wealth, chance, brilliance, and cunning"
+    },
+    "easyRiddle": {
+      "text": "Rocket to the moon with gem so bright, lightning strikes and fire ignites! A fox watches over fortune's dance, sparkling with each lucky chance.",
+      "hint": "Count the emojis: launch, destination, treasure, electricity, heat, and clever watcher"
+    },
+    "answer": [
+      1,
+      3,
+      2,
+      5,
+      20,
+      13
+    ]
   }
 }
