@@ -56750,5 +56750,41 @@
       20,
       13
     ]
+  },
+  "sol_2613": {
+    "hardRiddle": {
+      "text": "Where fortune's arrow meets the celestial void, a jester's twin masks gleam beneath the dragon's ancient fire. The crystal lattice sings with electric fury, while petals of destiny pirouette through waves of starlit chaos. What six dance at fate's threshold?",
+      "hint": "Consider a performance where luck is both the audience and the stage."
+    },
+    "easyRiddle": {
+      "text": "I am a target and a rocket's dream, a gem that sparkles with dragon fire. The joker grins, the flower blooms, and lightning strikes the crystal throne. Name us six.",
+      "hint": "Think of winning, luck, and celebration together."
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      13,
+      4,
+      20
+    ]
+  },
+  "emlo_1002": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, carrying precious gems that spark and gleam. A trickster guides the way through chaos and fortune, where mystic flames dance under the jester's smile. What six symbols light the path to moonbound riches?",
+      "hint": "Think of a memecoin journey: explosive growth, valuable rewards, chaotic energy, celestial goals, lucky chances, and mischievous fortune-telling."
+    },
+    "easyRiddle": {
+      "text": "🚀 goes up fast, 💎 is valuable, ⚡ is quick energy, 🌙 is the goal, 🃏 brings chaos and luck, and 🔥 is explosive. Collect all six symbols of the ultimate crypto adventure!",
+      "hint": "One launches, one shines, one sparks, one glows in space, one tricks, and one burns bright."
+    },
+    "answer": [
+      1,
+      2,
+      6,
+      3,
+      19,
+      5
+    ]
   }
 }
