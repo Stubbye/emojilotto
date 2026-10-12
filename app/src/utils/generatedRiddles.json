@@ -56678,5 +56678,41 @@
       9,
       10
     ]
+  },
+  "sol_2611": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's twin faces, the jester's laughter echoes through prismatic halls. Six tokens of destiny spin: one pierces the veil between worlds, one crowns the victor's dream, one captures transformation's fleeting grace, one holds the universe's scattered breath, one whispers of luck's ancient pact, and one blazes with the fury of rebirth.",
+      "hint": "Think of ascension, celebration, metamorphosis, cosmic wonder, serendipity, and destruction's renewal."
+    },
+    "easyRiddle": {
+      "text": "I rise toward the stars with force untamed. I sit upon the champion's throne. I flutter on delicate wings reborn. I shimmer in the night sky's crown. I roll in games of pure chance. I consume all that lies before it.",
+      "hint": "Six symbols of fortune: one shoots up, one rewards victory, one transforms, one glows above, one tumbles, one destroys."
+    },
+    "answer": [
+      1,
+      18,
+      8,
+      21,
+      11,
+      5
+    ]
+  },
+  "emlo_1000": {
+    "hardRiddle": {
+      "text": "I chase the 🌙 with electric speed, a 🔥 burning bright for those in need. My 💎 sparkles as I 🚀 to the sky, where lucky 🎯 and ✨ never lie.",
+      "hint": "A volatile token that promises moon missions with explosive gains and gemstone rewards for diamond-handed holders."
+    },
+    "easyRiddle": {
+      "text": "To the 🌙 we fly with 🔥 and ⚡, our 💎 shines bright under ✨ and 🎯.",
+      "hint": "Think of a memecoin's journey: destination, fuel, power, treasure, magic, and precision."
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      2,
+      9,
+      15
+    ]
   }
 }
