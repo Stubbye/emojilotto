@@ -56786,5 +56786,41 @@
       19,
       5
     ]
+  },
+  "sol_2614": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the void's own breath, six celestial dancers waltz betwixt the veil. The crystal keeper gleams in midnight's cradle, while the winged muse spirals through prismatic tears. Thunder's twin embrace the stage of mirth, and the flame eternal guards the hidden threshold.",
+      "hint": "Seek the junction of aim and cosmos, where brilliance and flight converge with spectral light and primal heat."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide within this verse: One points the way, one soars so high. One shines like ice, one flies so free. One cracks the sky, one burns the night. Where do these six together lie?",
+      "hint": "Think of targets, stars, gems, butterflies, lightning, and fire."
+    },
+    "answer": [
+      0,
+      21,
+      5,
+      8,
+      4,
+      6
+    ]
+  },
+  "emlo_1003": {
+    "hardRiddle": {
+      "text": "I chase the moon with electric speed, a gem that sparkles when diamonds breed. My dragon roars through rainbow waves, in circus tents where fortune craves. Strike like lightning, aim for the star—what memecoin takes you far?",
+      "hint": "Think of viral dreams, chaos energy, and precious gains wrapped in celestial imagery"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes in the night. Moon glows high, sparkles dance—what memecoin fuels this chance?",
+      "hint": "Four words describe your lucky path to gains"
+    },
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9
+    ]
   }
 }
