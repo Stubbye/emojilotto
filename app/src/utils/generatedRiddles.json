@@ -56822,5 +56822,41 @@
       5,
       9
     ]
+  },
+  "sol_2615": {
+    "hardRiddle": {
+      "text": "Where celestial fire dances with fortune's gleaming heart, the trickster's grin unlocks a path through seven-fold chance. Beneath the prism's fractured light, a winged soul spirals through fate's grand performance, while the silent witness watches all. Six gates converge where chaos wears a crown and destiny trembles.",
+      "hint": "Seek the jester's muse, the flame of wishes, and the jeweled arbiter of cosmic jest."
+    },
+    "easyRiddle": {
+      "text": "I hold the jester's laugh and lightning's strike, a glittering prize and the night sky's peak. A dancing insect and the performer's ring—these six reveal what fortune brings.",
+      "hint": "Think of games, magic, and magical places where dreams come true."
+    },
+    "answer": [
+      1,
+      4,
+      2,
+      21,
+      8,
+      6
+    ]
+  },
+  "emlo_1004": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, leaving trails of brilliance in my wake. Fortune's gamble sparkles as I soar toward destiny, where gems await the bold. What six symbols guide the memecoin prophet?",
+      "hint": "Think of a journey to wealth: speed, light, luck, prizes, precious stones, and the destination itself"
+    },
+    "easyRiddle": {
+      "text": "To the moon we go! Lightning fast with sparkles bright, riding luck and gems so tight. What six emojis light the memecoin way?",
+      "hint": "A rocket goes up, lightning is fast, gems are treasure, sparkles shine, dice mean luck, and the moon is the goal"
+    },
+    "answer": [
+      1,
+      4,
+      5,
+      10,
+      11,
+      3
+    ]
   }
 }
