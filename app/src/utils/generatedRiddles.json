@@ -56876,5 +56876,41 @@
       13,
       10
     ]
+  },
+  "sol_2617": {
+    "hardRiddle": {
+      "text": "Where celestial fortune dances with earthbound desire, six phantoms converge: the archer's eternal mark pursued by thunder's swift messenger, a prismatic serpent of luck coils beneath the jester's grin, while crystalline tears weep from heaven's stolen gaze, and melodic enchantment blooms where chaos once reigned—all bathed in the luminescence of scattered stardust dreams.",
+      "hint": "One seeks targets, one defies gravity, one laughs at fate, one burns from above, one sings, and one glimmers between worlds"
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in plain sight: an aimed pursuit, a cosmic escape, a mocking jester, thunder's strike, a dragon's ancient hoard, and the shimmer of wishes granted—together they form a symphony of chance and destiny.",
+      "hint": "Think of ambition, escape, trickery, power, wealth, and magic"
+    },
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      14,
+      20
+    ]
+  },
+  "emlo_1006": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, sparkling with fortune's fire. A jester's luck guides me through waves of chaos, where gems and rainbows collide in my colorful quest.",
+      "hint": "Think of moonshot aspirations, electric gains, and the playful nature of meme culture"
+    },
+    "easyRiddle": {
+      "text": "🚀 goes to the 🌙, ⚡ strikes with 🔥, 💎 shines bright, and 🌈 brings the luck!",
+      "hint": "One launches, one glows above, one zaps, one burns, one sparkles, and one colors the sky"
+    },
+    "answer": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      9
+    ]
   }
 }
