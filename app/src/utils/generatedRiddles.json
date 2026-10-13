@@ -56858,5 +56858,23 @@
       11,
       3
     ]
+  },
+  "emlo_1005": {
+    "hardRiddle": {
+      "text": "I chase the gleaming prize with electric speed, through cosmic heights where dreams take seed. A joker's game of fortune's dance, where sparkles fall and give you chance. One roars with flame, one leaps so sly, beneath the star that lights the sky.",
+      "hint": "Think of a memecoin journey: fast movement, luck, trickery, and celestial vibes"
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, fire burns bright, joker tricks you through the night. Star shines above, fox is sly, sparkles dance across the sky.",
+      "hint": "Name the 6 emojis in order: launch vehicle, combustion, trickster, celestial object, cunning animal, shiny particles"
+    },
+    "answer": [
+      1,
+      5,
+      19,
+      21,
+      13,
+      10
+    ]
   }
 }
