@@ -56930,5 +56930,41 @@
       14,
       21
     ]
+  },
+  "sol_2619": {
+    "hardRiddle": {
+      "text": "Where fortune's archer meets the celestial dancer, and the serpent of thunder coils beneath the jester's gaze. The winged metamorphosis pirouettes through chambers of mirth, while crystalline tears fall upon the emerald sentinel. Six destinies converge where earth embraces the infinite.",
+      "hint": "Seek the intersection of aim and cosmos, chaos and performance, transformation and luck's keeper."
+    },
+    "easyRiddle": {
+      "text": "A bull's-eye gleams, a dragon soars high. Lightning strikes near laughter's mask. A butterfly dances as a four-leaf charm keeps watch. What six signs align in fortune's game?",
+      "hint": "Think of targets, flying beasts, electricity, jesters, delicate wings, and lucky plants."
+    },
+    "answer": [
+      0,
+      3,
+      4,
+      11,
+      7,
+      19
+    ]
+  },
+  "emlo_1007": {
+    "hardRiddle": {
+      "text": "I chase the celestial dream with electric speed, a brilliant treasure that makes holders bleed. Laugh like the trickster in fortune's game, while fire and magic spell out my fame. When lightning strikes the gem so bright, the joker grins at moon's pure light.",
+      "hint": "Think of a wild ride to riches with laughter, electricity, and dazzling fortune."
+    },
+    "easyRiddle": {
+      "text": "Rocket goes up, gem shines bright, lightning strikes with all its might. The joker laughs, fire burns hot, moon glows where fortunes are sought.",
+      "hint": "A memecoin adventure needs speed, sparkle, electricity, humor, heat, and destination."
+    },
+    "answer": [
+      1,
+      2,
+      5,
+      11,
+      4,
+      6
+    ]
   }
 }
