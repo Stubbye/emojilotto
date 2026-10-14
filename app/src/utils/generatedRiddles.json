@@ -56912,5 +56912,23 @@
       2,
       9
     ]
+  },
+  "sol_2618": {
+    "hardRiddle": {
+      "text": "Where fortune's jester pirouettes through celestial fire, six symbols dance in destiny's choir. The archer's mark meets heaven's flame, while crystal laughter plays the game. A scaled guardian guards the gleam, and winged metamorphosis threads the dream.",
+      "hint": "Look where luck performs, where aim meets the infinite, where transformation blooms eternal."
+    },
+    "easyRiddle": {
+      "text": "Six treasures hide in shadow's song: a bullseye waits, a dragon strong, a jester grins, a star does burn, a crystal shines at every turn, a butterfly completes the way.",
+      "hint": "Think of targets, performers, mythical beasts, celestial lights, precious gems, and nature's transformation."
+    },
+    "answer": [
+      0,
+      3,
+      11,
+      12,
+      14,
+      21
+    ]
   }
 }
